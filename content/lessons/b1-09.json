@@ -1,0 +1,796 @@
+{
+  "hero": {
+    "src": "images/b1-09-hero.webp",
+    "alt": "Nadeesha holding an old photograph in both hands under a mango tree, remembering, sitting alone on a low garden wall with green paddy land behind her."
+  },
+  "goalsSi": [
+    "කලින් නැවත නැවත කරපු දේවල් 'would' එකෙන් කියන්න",
+    "would + ක්‍රියාවේ මූලික ආකෘතිය",
+    "used to (a2-11) සහ would අතර වෙනස",
+    "තත්ත්වයකට would යෙදෙන්නේ නෑ කියන එක",
+    "'d කියන කෙටි ආකෘතිය හඳුනාගන්න",
+    "මතකයන් කියන කතාවක් ගොතන්න"
+  ],
+  "goals": [
+    "Use would for repeated actions in the past",
+    "Form it with would plus the base verb",
+    "Tell would and used to apart",
+    "Know that would does not work for past states",
+    "Recognise the contracted 'd",
+    "Tell a story about how things used to be"
+  ],
+  "sections": [
+    {
+      "type": "note",
+      "title": "The way things were",
+      "titleSi": "කලින් තිබුණු විදිහ",
+      "bodySi": "a2-11 හි ඉගෙන ගත්තා used to — කලින් තිබුණු, දැන් නැති පුරුද්දක් හෝ තත්ත්වයක්.\n\n'I used to walk to school.' — කලින් පාරේ ඇවිදගෙන ගියා. දැන් නෑ.\n\nදැන් ඒ අදහසටම තව වචනයක් තියෙනවා: would.\n\n'Every morning I would walk to school.' — හැම උදෙම මම පාරේ ඇවිදගෙන ගියා.\n\nදෙකේම තේරුම එකයි වගේ. ඒත් would එකට තියෙන්නේ වෙනම රසයක් — මතකයන් කියන රසය. කවුරු හරි පොඩි කාලේ ගැන කථා කරන්න පටන් ගත්තම, තුන්වෙනි හතරවෙනි වාක්‍යයේ ඉඳන් would එනවා.\n\n'When I was small, we lived near the river. Every evening my brother and I would run down to the water. We would stay until it got dark, and my mother would call us three times before we came.'\n\nමේකයි would එකේ තැන. කතාවක් ඇතුළේ, නැවත නැවත වුණු දේවල් ලැයිස්තුවක්.",
+      "body": "Would tells of things repeated in the past. It carries a storytelling, remembering flavour that used to does not."
+    },
+    {
+      "type": "grammar",
+      "title": "would + base verb",
+      "titleSi": "would + මූලික ක්‍රියාව",
+      "explainSi": "හැදෙන විදිහ ලේසිම එක. would + ක්‍රියාවේ මූලික ආකෘතිය. -s නෑ, -ed නෑ, කිසි වෙනසක් නෑ.\n\nහැම subject එකකටම would. I would, she would, they would — එකමයි.\n\nකථාවේදී කෙටි වෙනවා: I'd, she'd, we'd, they'd.\n\n'We'd go to my grandmother's house every August.'\n\nනැහැ කියන්න: wouldn't. ඒත් මතක තියාගන්න — 'wouldn't' කියන එකේ බොහෝ විට තියෙන්නේ 'කැමති වුණේ නෑ' කියන අදහස, ඒ නිසා පුරුද්දක් නැති බව කියන්න 'never' එක්ක would යොදන එක හෝ 'didn't use to' කියන එක ආරක්ෂිතයි.",
+      "explain": "Would plus the base verb, the same for every subject. It contracts to 'd in speech.",
+      "formula": "subject + would + මූලික ක්‍රියාව",
+      "table": {
+        "headers": [
+          "English",
+          "සිංහල",
+          ""
+        ],
+        "rows": [
+          [
+            "I would wait",
+            "මම බලාගෙන හිටියා",
+            "නැවත නැවත"
+          ],
+          [
+            "She would sing",
+            "ඇය සිංදු කිව්වා",
+            "නිතරම"
+          ],
+          [
+            "We'd walk home",
+            "අපි ගෙදර ඇවිද්දා",
+            "හැම දවසෙම"
+          ],
+          [
+            "They would forget",
+            "ඒගොල්ලෝ අමතක කරගත්තා",
+            "නිතරම"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "Every night my father would read to us.",
+          "si": "හැම රාත්‍රියකම තාත්තා අපිට කියවලා දුන්නා."
+        },
+        {
+          "en": "In the season, the whole family would come.",
+          "si": "සීසන් එකේදී මුළු පවුලම එනවා."
+        },
+        {
+          "en": "We'd sit on the wall and watch the trains.",
+          "si": "අපි තාප්පේ උඩ ඉඳගෙන කෝච්චි බලාගෙන හිටියා."
+        }
+      ],
+      "watchOutSi": "'would' කියන එකට වෙන වැඩකුත් තියෙනවා — 'I would like tea' (කැමතියි), 'If I won, I would buy…' (b2-02 හි conditional). මෙතන කථා කරන්නේ අතීතයේ පුරුද්ද ගැන විතරයි. වෙනස තේරෙන්නේ වාක්‍යය අතීතය ගැනද කියන එකෙන්."
+    },
+    {
+      "type": "grammar",
+      "title": "would or used to?",
+      "titleSi": "would ද, used to ද?",
+      "explainSi": "මේකයි මේ පාඩමේ ඇත්තම දේ.\n\nUsed to — කරපු දේවලටත්, තිබුණු තත්ත්වවලටත්.\nWould — කරපු දේවලට විතරයි.\n\nතත්ත්වයක් කියන්නේ මොකක්ද? කරන දෙයක් නෙවෙයි, තිබෙන දෙයක්: හිටියා, තිබුණා, දැනුණා, කැමති වුණා, දැනගෙන හිටියා.\n\nහරි: 'I used to live in Kandy.'\nවැරදි: 'I would live in Kandy.' ✗\n\nහරි: 'She used to have long hair.'\nවැරදි: 'She would have long hair.' ✗\n\nහරි: 'We used to be neighbours.'\nවැරදි: 'We would be neighbours.' ✗\n\nඒත් කරන දෙයක් නම් දෙකම හරි:\n\n'I used to walk to school.' = 'I would walk to school.' ✓✓\n\nලේසි පරීක්ෂාවක්: ක්‍රියාව live, be, have, know, like, want නම් — used to විතරයි.\n\nතව එකක්. කතාවක් පටන් ගන්නකොට would යෙදෙන්නේ නෑ. මුලින්ම කාලය හදන්න ඕන — 'When I was a child…' නැත්නම් 'used to' එකකින්. ඊට පස්සේ would ගලාගෙන යනවා.",
+      "explain": "Used to covers both actions and states. Would covers repeated actions only — never live, be, have, know, like.",
+      "formula": "ක්‍රියාවක් → would හෝ used to  ·  තත්ත්වයක් → used to විතරයි",
+      "table": {
+        "headers": [
+          "වාක්‍යය",
+          "used to",
+          "would"
+        ],
+        "rows": [
+          [
+            "walk to school (ක්‍රියාව)",
+            "✓",
+            "✓"
+          ],
+          [
+            "live in Kandy (තත්ත්වය)",
+            "✓",
+            "✗"
+          ],
+          [
+            "have a dog (තත්ත්වය)",
+            "✓",
+            "✗"
+          ],
+          [
+            "play cricket (ක්‍රියාව)",
+            "✓",
+            "✓"
+          ],
+          [
+            "be afraid (තත්ත්වය)",
+            "✓",
+            "✗"
+          ],
+          [
+            "visit my aunt (ක්‍රියාව)",
+            "✓",
+            "✓"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "We used to live by the sea, and every evening we would walk on the beach.",
+          "si": "අපි කලින් මුහුද ළඟ හිටියා, හැම හවසම වෙරළේ ඇවිද්දා."
+        },
+        {
+          "en": "He used to be shy, but he would sing if you asked him twice.",
+          "si": "එයා කලින් ලැජ්ජාශීලීයි, ඒත් දෙපාරක් ඇහුවොත් සිංදුවක් කිව්වා."
+        },
+        {
+          "en": "She used to have a bicycle. She would ride it to the market.",
+          "si": "ඇයට කලින් බයිසිකලයක් තිබුණා. ඒකෙන් පොළට ගියා."
+        }
+      ],
+      "watchOutSi": "පළවෙනි වාක්‍යයට used to, ඊට පස්සේ would — ඒක ඉංග්‍රීසි කථාවේ ස්වාභාවික රටාව. එක වාක්‍යයකින් would එකෙන් පටන් ගත්තොත් අහන කෙනාට කාලය තේරෙන්නේ නෑ."
+    },
+    {
+      "type": "grammar",
+      "title": "That little 'd",
+      "titleSi": "ඒ පොඩි 'd",
+      "explainSi": "කථා කරනකොට 'would' කෙටි වෙලා 'd වෙනවා. ඒත් b1-08 හි ඉගෙන ගත්ත 'had' එකත් කෙටි වෙන්නේ 'd කියලාමයි. එතකොට කොහොමද වෙනස තේරෙන්නේ?\n\nඊළඟට එන ක්‍රියාව බලන්න:\n\n'I'd walked home.' — walked කියන්නේ past participle. එහෙනම් had.\n'I'd walk home.' — walk කියන්නේ මූලික ආකෘතිය. එහෙනම් would.\n\n'She'd gone.' = she had gone.\n'She'd go.' = she would go.\n\nවචනේ අගට -ed නැත්නම් participle එකක් නම් had; බෑර ආකෘතිය නම් would. ඒක විතරයි.",
+      "explain": "'d is had before a past participle, and would before a base verb.",
+      "formula": "'d + past participle = had  ·  'd + base verb = would",
+      "table": {
+        "headers": [
+          "අහන දේ",
+          "තේරුම",
+          "සිංහල"
+        ],
+        "rows": [
+          [
+            "I'd eaten",
+            "I had eaten",
+            "මම කාලා තිබුණා"
+          ],
+          [
+            "I'd eat",
+            "I would eat",
+            "මම කනවා (නිතරම)"
+          ],
+          [
+            "We'd walked",
+            "We had walked",
+            "අපි ඇවිදලා තිබුණා"
+          ],
+          [
+            "We'd walk",
+            "We would walk",
+            "අපි ඇවිද්දා (හැම දාම)"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "We'd wait at the gate until the bus came.",
+          "si": "බස් එක එනකම් අපි ගේට්ටුව ළඟ බලාගෙන හිටියා."
+        },
+        {
+          "en": "We'd waited an hour before it came.",
+          "si": "ඒක එන්න කලින් අපි පැයක් බලාගෙන හිටියා."
+        }
+      ],
+      "watchOutSi": "ලියනකොට කෙටි නොකර ලියන එක ආරක්ෂිතයි — would කියලාම ලියන්න. කථාවේදී 'd ඇහෙනකොට ඊළඟ වචනේ බලන්න."
+    },
+    {
+      "type": "vocab",
+      "title": "Words for remembering",
+      "titleSi": "මතකයන් කියන වචන",
+      "introSi": "අතීතයේ පුරුදු ගැන කථා කරනකොට මේ වචන නිතරම එනවා.",
+      "items": [
+        {
+          "en": "would",
+          "si": "(නිතරම) කළා",
+          "say": "වුඩ්",
+          "exampleEn": "We would swim every evening.",
+          "exampleSi": "අපි හැම හවසම පීනුවා."
+        },
+        {
+          "en": "used to",
+          "si": "කලින් කළා",
+          "say": "යූස්ට් ටු",
+          "exampleEn": "I used to live there.",
+          "exampleSi": "මම කලින් එහෙ හිටියා."
+        },
+        {
+          "en": "every summer",
+          "si": "හැම නිවාඩුවකම",
+          "say": "එව්රි සමර්",
+          "exampleEn": "Every summer we would visit them.",
+          "exampleSi": "හැම නිවාඩුවකම අපි ඒගොල්ලන්ව බලන්න ගියා."
+        },
+        {
+          "en": "childhood",
+          "si": "ළමා කාලය",
+          "say": "චයිල්ඩ්හුඩ්",
+          "exampleEn": "In my childhood we had no phone.",
+          "exampleSi": "මගේ ළමා කාලේ අපිට ෆෝන් තිබුණේ නෑ."
+        },
+        {
+          "en": "remember",
+          "si": "මතක් වෙනවා",
+          "say": "රිමෙම්බර්",
+          "exampleEn": "I remember the smell of the rain.",
+          "exampleSi": "වැස්සේ සුවඳ මට මතකයි."
+        },
+        {
+          "en": "memory",
+          "si": "මතකය",
+          "say": "මෙමරි",
+          "exampleEn": "That is my clearest memory.",
+          "exampleSi": "ඒක තමයි මගේ පැහැදිලිම මතකය."
+        },
+        {
+          "en": "back then",
+          "si": "ඒ කාලේ",
+          "say": "බැක් දෙන්",
+          "exampleEn": "Back then, nobody locked their doors.",
+          "exampleSi": "ඒ කාලේ කවුරුවත් දොර වහලා තිබුණේ නෑ."
+        },
+        {
+          "en": "grandmother",
+          "si": "ආච්චි",
+          "say": "ග්‍රෑන්ඩ්මදර්",
+          "exampleEn": "We would stay at my grandmother's.",
+          "exampleSi": "අපි ආච්චිගේ ගෙදර නැවතුණා."
+        },
+        {
+          "en": "neighbour",
+          "si": "අසල්වැසියා",
+          "say": "නේබර්",
+          "exampleEn": "Our neighbour would bring us fruit.",
+          "exampleSi": "අපේ අසල්වැසියා අපිට පලතුරු ගෙනාවා."
+        },
+        {
+          "en": "village",
+          "si": "ගම",
+          "say": "විලේජ්",
+          "exampleEn": "The whole village would come.",
+          "exampleSi": "මුළු ගමම එකතු වුණා."
+        },
+        {
+          "en": "paddy field",
+          "si": "කුඹුර",
+          "say": "පැඩි ෆීල්ඩ්",
+          "exampleEn": "We would run through the paddy fields.",
+          "exampleSi": "අපි කුඹුරු අස්සේ දිව්වා."
+        },
+        {
+          "en": "well (water)",
+          "si": "ළිඳ",
+          "say": "වෙල්",
+          "exampleEn": "We would draw water from the well.",
+          "exampleSi": "අපි ළිඳෙන් වතුර ඇදලා ගත්තා."
+        },
+        {
+          "en": "climb",
+          "si": "නගිනවා",
+          "say": "ක්ලයිම්",
+          "exampleEn": "I would climb the mango tree.",
+          "exampleSi": "මම අඹ ගහට නැග්ගා."
+        },
+        {
+          "en": "borrow",
+          "si": "ණයට ගන්නවා",
+          "say": "බොරෝ",
+          "exampleEn": "He would borrow my bicycle.",
+          "exampleSi": "එයා මගේ බයිසිකලේ ඉල්ලගෙන ගියා."
+        },
+        {
+          "en": "no longer",
+          "si": "තවත් නෑ",
+          "say": "නෝ ලොංගර්",
+          "exampleEn": "That shop is no longer there.",
+          "exampleSi": "ඒ කඩේ දැන් එතන නෑ."
+        },
+        {
+          "en": "those days",
+          "si": "ඒ දවස්වල",
+          "say": "දෝස් ඩේස්",
+          "exampleEn": "In those days we walked everywhere.",
+          "exampleSi": "ඒ දවස්වල අපි හැම තැනකටම ඇවිද්දා."
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "Before the road came",
+      "titleSi": "පාර හදන්න කලින්",
+      "settingSi": "රුවන්ගේ ගමේ. පරණ ගෙදර ඉස්සරහ ඉඳගෙන දෙන්නා කථා කරනවා. used to එකෙන් පටන් අරන් would එකට යන රටාව බලන්න.",
+      "lines": [
+        {
+          "speaker": "Nadeesha",
+          "en": "Did you grow up here?",
+          "si": "ඔයා ලොකු වුණේ මෙහෙද?"
+        },
+        {
+          "speaker": "Ruwan",
+          "en": "I used to live in that house, the one with the red roof.",
+          "si": "මම කලින් හිටියේ අර ගෙදර, රතු වහලේ තියෙන එකේ."
+        },
+        {
+          "speaker": "Nadeesha",
+          "en": "It looks quiet.",
+          "si": "නිස්කලංකයි වගේ."
+        },
+        {
+          "speaker": "Ruwan",
+          "en": "Back then there was no road. We'd walk to the junction every morning.",
+          "si": "ඒ කාලේ පාරක් තිබුණේ නෑ. හැම උදෙම අපි හන්දිය දක්වා ඇවිද්දා."
+        },
+        {
+          "speaker": "Nadeesha",
+          "en": "In the rain too?",
+          "si": "වැස්සෙත්ද?"
+        },
+        {
+          "speaker": "Ruwan",
+          "en": "In the rain too. And my mother would wait at the gate until we came back.",
+          "si": "වැස්සෙත්. අපි එනකම් අම්මා ගේට්ටුව ළඟ බලාගෙන හිටියා."
+        },
+        {
+          "speaker": "Nadeesha",
+          "en": "Do they still live here?",
+          "si": "ඒගොල්ලෝ තාමත් මෙහෙද?"
+        },
+        {
+          "speaker": "Ruwan",
+          "en": "No. The house is no longer ours.",
+          "si": "නෑ. ඒ ගෙදර දැන් අපේ නෙවෙයි."
+        }
+      ]
+    },
+    {
+      "type": "story",
+      "title": "The evening train",
+      "titleSi": "හවස කෝච්චිය",
+      "introSi": "පොඩි කාලේ මතකයක්. would කීයක් තියෙනවාද කියලා ගණන් කරන්න.",
+      "paragraphs": [
+        {
+          "en": "We used to live in a house beside the railway line. It was not a good house, but it had one thing nobody else had: the trains.",
+          "si": "අපි කලින් හිටියේ දුම්රිය මාර්ගය අයිනේ ගෙදරක. ඒක හොඳ ගෙදරක් නෙවෙයි, ඒත් ඒකේ තිබුණා අනිත් කාටවත් නැති දෙයක් — කෝච්චි."
+        },
+        {
+          "en": "Every evening at ten past six the Colombo train would pass. My sister and I would climb onto the wall and count the carriages. She would always get a different number from me, and we would argue about it until dinner.",
+          "si": "හැම හවසම හයයි දහයට කොළඹ කෝච්චිය යනවා. මමයි අක්කයි තාප්පේ උඩට නැගලා පෙට්ටි ගණන් කළා. එයාට හැමදාම මට වඩා වෙනස් ගාණක් ආවා, කෑම වෙලාව වෙනකම් අපි ඒක ගැන රණ්ඩු වුණා."
+        },
+        {
+          "en": "Sometimes a passenger would wave. We would wave back with both hands, as if we knew them.",
+          "si": "සමහර වෙලාවට මගියෙක් අත වනනවා. අපි දෙන්නත් අත් දෙකෙන්ම ආපහු වැනුවා, ඒගොල්ලෝ අඳුනනවා වගේ."
+        },
+        {
+          "en": "The line is still there. The house is not. But at ten past six, wherever I am, I still look up.",
+          "si": "දුම්රිය මාර්ගය තාමත් තියෙනවා. ගෙදර නෑ. ඒත් හයයි දහයට, මම කොහෙ හිටියත්, තාමත් උඩ බලනවා."
+        }
+      ],
+      "glossary": [
+        {
+          "en": "railway line",
+          "si": "දුම්රිය මාර්ගය"
+        },
+        {
+          "en": "carriage",
+          "si": "පෙට්ටිය"
+        },
+        {
+          "en": "wave",
+          "si": "අත වනනවා"
+        },
+        {
+          "en": "argue",
+          "si": "රණ්ඩු වෙනවා"
+        }
+      ],
+      "questionsSi": [
+        "ඒගොල්ලෝ හැම හවසම කළේ මොකක්ද?",
+        "අක්කයි මල්ලියි රණ්ඩු වුණේ මොකටද?",
+        "අන්තිම ඡේදයේ 'would' නැත්තේ ඇයි කියලා හිතන්න"
+      ]
+    },
+    {
+      "type": "tip",
+      "title": "Start with used to, carry on with would",
+      "titleSi": "used to එකෙන් පටන් අරන් would එකෙන් යන්න",
+      "bodySi": "මතකයක් කියනකොට ස්වාභාවික රටාව මෙහෙමයි:\n\n1. කාලය හදන්න — 'When I was small…' නැත්නම් 'We used to live…'\n2. ඊට පස්සේ would, would, would.\n\n'We used to live near the temple. Every poya day my mother would make kiribath, and the neighbours would come, and we would eat on the floor.'\n\nකෙළින්ම would එකෙන් පටන් ගත්තොත් අහන කෙනාට කවදාද කියලා තේරෙන්නේ නෑ.",
+      "body": "Set the time first with when I was… or used to. Then would can carry the rest."
+    },
+    {
+      "type": "practice",
+      "title": "would, or used to?",
+      "titleSi": "would ද, used to ද?",
+      "instructionSi": "දෙකම හරි නම් 'both' කියලා ලියන්න. එකක් විතරක් හරි නම් ඒක ලියන්න. ක්‍රියාවද තත්ත්වයද කියලා හිතන්න.",
+      "items": [
+        {
+          "prompt": "I ___ walk to the temple every Sunday.",
+          "answer": "both",
+          "hintSi": "ඇවිදීම කරන දෙයක්.",
+          "full": "I would walk / I used to walk to the temple every Sunday."
+        },
+        {
+          "prompt": "We ___ live in Matara.",
+          "answer": "used to",
+          "hintSi": "'live' කියන්නේ තත්ත්වයක්.",
+          "full": "We used to live in Matara."
+        },
+        {
+          "prompt": "She ___ have long hair.",
+          "answer": "used to",
+          "hintSi": "'have' කියන්නේ තත්ත්වයක්.",
+          "full": "She used to have long hair."
+        },
+        {
+          "prompt": "My father ___ tell us stories at night.",
+          "answer": "both",
+          "hintSi": "කතා කීම කරන දෙයක්.",
+          "full": "My father would tell / used to tell us stories at night."
+        },
+        {
+          "prompt": "They ___ be very poor.",
+          "answer": "used to",
+          "hintSi": "'be' කියන්නේ තත්ත්වයක්.",
+          "full": "They used to be very poor."
+        },
+        {
+          "prompt": "The neighbours ___ bring us jak fruit.",
+          "answer": "both",
+          "hintSi": "ගෙනඒම කරන දෙයක්.",
+          "full": "The neighbours would bring / used to bring us jak fruit."
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "b1-09-q1",
+      "q": "අතීතයේ පුරුද්දක් කියන 'would' එකට පස්සේ එන්නේ මොකක්ද?",
+      "options": [
+        "past participle",
+        "ක්‍රියාවේ මූලික ආකෘතිය",
+        "-ing ආකෘතිය",
+        "to + ක්‍රියාව"
+      ],
+      "answer": 1,
+      "explainSi": "would + මූලික ක්‍රියාව — would walk, would go."
+    },
+    {
+      "id": "b1-09-q2",
+      "q": "'හැම හවසම අපි වෙරළේ ඇවිද්දා' — කොහොමද?",
+      "options": [
+        "Every evening we would walk on the beach.",
+        "Every evening we would walked on the beach.",
+        "Every evening we would walking on the beach.",
+        "Every evening we will walk on the beach."
+      ],
+      "answer": 0,
+      "explainSi": "would + walk. -ed එකතු කරන්නේ නෑ.",
+      "speak": "Every evening we would walk on the beach."
+    },
+    {
+      "id": "b1-09-q3",
+      "q": "කුමන වාක්‍යය වැරදිද?",
+      "options": [
+        "I would play cricket.",
+        "I would live in Kandy.",
+        "I would visit my aunt.",
+        "I would climb the tree."
+      ],
+      "answer": 1,
+      "explainSi": "'live' කියන්නේ තත්ත්වයක් — ඒකට would යෙදෙන්නේ නෑ. 'I used to live in Kandy.'"
+    },
+    {
+      "id": "b1-09-q4",
+      "q": "'ඇයට කලින් දිග කොණ්ඩයක් තිබුණා' — කොහොමද?",
+      "options": [
+        "She would have long hair.",
+        "She used to have long hair.",
+        "She would has long hair.",
+        "She would had long hair."
+      ],
+      "answer": 1,
+      "explainSi": "'have' කියන්නේ තත්ත්වයක් — used to විතරයි.",
+      "speak": "She used to have long hair."
+    },
+    {
+      "id": "b1-09-q5",
+      "q": "would සහ used to දෙකම යෙදෙන්නේ කුමන අවස්ථාවේද?",
+      "options": [
+        "තත්ත්වයකට",
+        "නැවත නැවත කරපු ක්‍රියාවකට",
+        "එක පාරක් වුණු දෙයකට",
+        "අනාගතයට"
+      ],
+      "answer": 1,
+      "explainSi": "නැවත නැවත කරපු ක්‍රියාවකට දෙකම හරි."
+    },
+    {
+      "id": "b1-09-q6",
+      "q": "'I'd walked home.' — 'd කියන්නේ?",
+      "options": [
+        "would",
+        "had",
+        "did",
+        "should"
+      ],
+      "answer": 1,
+      "explainSi": "walked කියන්නේ past participle — ඒ නිසා had."
+    },
+    {
+      "id": "b1-09-q7",
+      "q": "'I'd walk home.' — 'd කියන්නේ?",
+      "options": [
+        "would",
+        "had",
+        "did",
+        "could"
+      ],
+      "answer": 0,
+      "explainSi": "walk කියන්නේ මූලික ආකෘතිය — ඒ නිසා would."
+    },
+    {
+      "id": "b1-09-q8",
+      "q": "he එක්ක would යෙදෙන විදිහ?",
+      "options": [
+        "he woulds",
+        "he would",
+        "he would to",
+        "he wouldes"
+      ],
+      "answer": 1,
+      "explainSi": "හැම subject එකකටම would — වෙනසක් නෑ."
+    },
+    {
+      "id": "b1-09-q9",
+      "q": "මතකයක් කියන කතාවක් පටන් ගන්න හොඳම විදිහ?",
+      "options": [
+        "කෙළින්ම would එකෙන්",
+        "මුලින් 'When I was small…' නැත්නම් used to එකකින්",
+        "අනාගත වාක්‍යයකින්",
+        "ප්‍රශ්නයකින්"
+      ],
+      "answer": 1,
+      "explainSi": "මුලින් කාලය හදන්න ඕන, එහෙම නැත්නම් would කවදාද කියලා තේරෙන්නේ නෑ."
+    },
+    {
+      "id": "b1-09-q10",
+      "q": "හිස් තැනට: 'We used to live by the river, and every evening we ___ swim.'",
+      "options": [
+        "will",
+        "would",
+        "have",
+        "are"
+      ],
+      "answer": 1,
+      "explainSi": "කාලය හදලා ඉවරයි — දැන් would ගලාගෙන යනවා.",
+      "speak": "Every evening we would swim."
+    },
+    {
+      "id": "b1-09-q11",
+      "q": "'We would be neighbours' — මේක හරිද?",
+      "options": [
+        "ඔව්",
+        "නෑ — 'be' තත්ත්වයක්, 'We used to be neighbours' කියන්න",
+        "ඔව්, ඒත් අනාගතය ගැන",
+        "නෑ, 'We will be' කියන්න ඕන"
+      ],
+      "answer": 1,
+      "explainSi": "තත්ත්වයකට would යෙදෙන්නේ නෑ."
+    },
+    {
+      "id": "b1-09-q12",
+      "q": "'My father would read to us.' — තේරුම මොකක්ද?",
+      "options": [
+        "තාත්තා අපිට කියවලා දෙන්න කැමතියි",
+        "තාත්තා නිතරම අපිට කියවලා දුන්නා",
+        "තාත්තා අපිට කියවලා දෙයි",
+        "තාත්තා අපිට කියවලා දෙන්න ඕන"
+      ],
+      "answer": 1,
+      "explainSi": "අතීතයේ නැවත නැවත වුණු දෙයක්."
+    },
+    {
+      "id": "b1-09-q13",
+      "q": "'I would like tea' — මෙතන would කරන්නේ මොකක්ද?",
+      "options": [
+        "අතීත පුරුද්දක් කියනවා",
+        "ආචාරශීලීව 'කැමතියි' කියනවා",
+        "අනාගතය කියනවා",
+        "නියෝගයක්"
+      ],
+      "answer": 1,
+      "explainSi": "would එකට වැඩ කීපයක් තියෙනවා. මෙතන ඒක ආචාරශීලී 'කැමතියි'."
+    },
+    {
+      "id": "b1-09-q14",
+      "q": "හිස් තැනට: 'Back then, the whole village ___ come for the festival.'",
+      "options": [
+        "would",
+        "will",
+        "would to",
+        "would be"
+      ],
+      "answer": 0,
+      "explainSi": "'Back then' කිව්වම කාලය හැදිලා — would + come.",
+      "speak": "Back then, the whole village would come for the festival."
+    },
+    {
+      "id": "b1-09-q15",
+      "q": "කුමන වාක්‍යය හරිද?",
+      "options": [
+        "We would had a dog.",
+        "We would have a dog.",
+        "We used to have a dog.",
+        "We would having a dog."
+      ],
+      "answer": 2,
+      "explainSi": "බල්ලෙක් ඉන්න එක තත්ත්වයක් — used to."
+    },
+    {
+      "id": "b1-09-q16",
+      "q": "'She'd gone by then.' — 'd කියන්නේ?",
+      "options": [
+        "would",
+        "had",
+        "did",
+        "does"
+      ],
+      "answer": 1,
+      "explainSi": "gone කියන්නේ past participle — had."
+    },
+    {
+      "id": "b1-09-q17",
+      "q": "'මම අඹ ගහට නැග්ගා (නිතරම)' — කොහොමද?",
+      "options": [
+        "I would climbed the mango tree.",
+        "I would climb the mango tree.",
+        "I will climb the mango tree.",
+        "I would climbing the mango tree."
+      ],
+      "answer": 1,
+      "explainSi": "would + climb.",
+      "speak": "I would climb the mango tree."
+    },
+    {
+      "id": "b1-09-q18",
+      "q": "'know' කියන ක්‍රියාවට would යෙදෙනවාද?",
+      "options": [
+        "ඔව්",
+        "නෑ — ඒක තත්ත්වයක්, used to යොදන්න",
+        "ඔව්, ප්‍රශ්නවලට විතරක්",
+        "ඔව්, නැහැ කියන වාක්‍යවලට විතරක්"
+      ],
+      "answer": 1,
+      "explainSi": "know, be, have, live, like — හැම එකක්ම තත්ත්ව. used to විතරයි."
+    }
+  ],
+  "vocab": [
+    {
+      "en": "would",
+      "si": "(නිතරම) කළා",
+      "say": "වුඩ්",
+      "exampleEn": "We would swim every evening.",
+      "exampleSi": "අපි හැම හවසම පීනුවා."
+    },
+    {
+      "en": "used to",
+      "si": "කලින් කළා",
+      "say": "යූස්ට් ටු",
+      "exampleEn": "I used to live there.",
+      "exampleSi": "මම කලින් එහෙ හිටියා."
+    },
+    {
+      "en": "every summer",
+      "si": "හැම නිවාඩුවකම",
+      "say": "එව්රි සමර්",
+      "exampleEn": "Every summer we would visit them.",
+      "exampleSi": "හැම නිවාඩුවකම අපි ඒගොල්ලන්ව බලන්න ගියා."
+    },
+    {
+      "en": "childhood",
+      "si": "ළමා කාලය",
+      "say": "චයිල්ඩ්හුඩ්",
+      "exampleEn": "In my childhood we had no phone.",
+      "exampleSi": "මගේ ළමා කාලේ අපිට ෆෝන් තිබුණේ නෑ."
+    },
+    {
+      "en": "remember",
+      "si": "මතක් වෙනවා",
+      "say": "රිමෙම්බර්",
+      "exampleEn": "I remember the smell of the rain.",
+      "exampleSi": "වැස්සේ සුවඳ මට මතකයි."
+    },
+    {
+      "en": "memory",
+      "si": "මතකය",
+      "say": "මෙමරි",
+      "exampleEn": "That is my clearest memory.",
+      "exampleSi": "ඒක තමයි මගේ පැහැදිලිම මතකය."
+    },
+    {
+      "en": "back then",
+      "si": "ඒ කාලේ",
+      "say": "බැක් දෙන්",
+      "exampleEn": "Back then, nobody locked their doors.",
+      "exampleSi": "ඒ කාලේ කවුරුවත් දොර වහලා තිබුණේ නෑ."
+    },
+    {
+      "en": "grandmother",
+      "si": "ආච්චි",
+      "say": "ග්‍රෑන්ඩ්මදර්",
+      "exampleEn": "We would stay at my grandmother's.",
+      "exampleSi": "අපි ආච්චිගේ ගෙදර නැවතුණා."
+    },
+    {
+      "en": "neighbour",
+      "si": "අසල්වැසියා",
+      "say": "නේබර්",
+      "exampleEn": "Our neighbour would bring us fruit.",
+      "exampleSi": "අපේ අසල්වැසියා අපිට පලතුරු ගෙනාවා."
+    },
+    {
+      "en": "village",
+      "si": "ගම",
+      "say": "විලේජ්",
+      "exampleEn": "The whole village would come.",
+      "exampleSi": "මුළු ගමම එකතු වුණා."
+    },
+    {
+      "en": "paddy field",
+      "si": "කුඹුර",
+      "say": "පැඩි ෆීල්ඩ්",
+      "exampleEn": "We would run through the paddy fields.",
+      "exampleSi": "අපි කුඹුරු අස්සේ දිව්වා."
+    },
+    {
+      "en": "well (water)",
+      "si": "ළිඳ",
+      "say": "වෙල්",
+      "exampleEn": "We would draw water from the well.",
+      "exampleSi": "අපි ළිඳෙන් වතුර ඇදලා ගත්තා."
+    },
+    {
+      "en": "climb",
+      "si": "නගිනවා",
+      "say": "ක්ලයිම්",
+      "exampleEn": "I would climb the mango tree.",
+      "exampleSi": "මම අඹ ගහට නැග්ගා."
+    },
+    {
+      "en": "borrow",
+      "si": "ණයට ගන්නවා",
+      "say": "බොරෝ",
+      "exampleEn": "He would borrow my bicycle.",
+      "exampleSi": "එයා මගේ බයිසිකලේ ඉල්ලගෙන ගියා."
+    },
+    {
+      "en": "no longer",
+      "si": "තවත් නෑ",
+      "say": "නෝ ලොංගර්",
+      "exampleEn": "That shop is no longer there.",
+      "exampleSi": "ඒ කඩේ දැන් එතන නෑ."
+    },
+    {
+      "en": "those days",
+      "si": "ඒ දවස්වල",
+      "say": "දෝස් ඩේස්",
+      "exampleEn": "In those days we walked everywhere.",
+      "exampleSi": "ඒ දවස්වල අපි හැම තැනකටම ඇවිද්දා."
+    }
+  ]
+}

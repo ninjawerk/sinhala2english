@@ -1,0 +1,525 @@
+{
+  "hero": {
+    "src": "images/b2-01-hero.webp",
+    "alt": "Nadeesha just arrived home, still holding her keys, a packed suitcase by the door with airline tags on it, evening light in the hallway."
+  },
+  "goalsSi": [
+    "Present Perfect සෑදීම සහ භාවිතය",
+    "Past Simple සමඟ ඇති තීරණාත්මක වෙනස",
+    "for, since, already, yet, ever, never යෙදීම",
+    "Present Perfect Continuous හඳුනා ගැනීම"
+  ],
+  "goals": [
+    "Form and use the present perfect",
+    "Choose between present perfect and past simple",
+    "Use for, since, already, yet, ever and never"
+  ],
+  "sections": [
+    {
+      "type": "note",
+      "title": "A past that touches the present",
+      "titleSi": "වර්තමානය ස්පර්ශ කරන අතීතයක්",
+      "bodySi": "This is the tense Sinhala speakers find hardest, because Sinhala has no direct equivalent. The idea is this:\n\nThe present perfect describes a past action that still matters now.\n\nසිංහලෙන් මෙයට කෙළින්ම ගැළපෙන කාලයක් නෑ. අදහස මෙයයි: අතීතයේ සිදු වූ නමුත් තවමත් වර්තමානයට වැදගත් දෙයක්.\n\nCompare:\n• I lost my keys. (past simple — ඊයේ නැති වුණා; සමහරවිට හම්බුණා)\n• I have lost my keys. (present perfect — නැති වුණා, දැනුත් හම්බුණේ නෑ — ඒක දැන් ප්‍රශ්නයක්)\n\nවෙනස කාලය නෙවෙයි — දැන් ඇති සම්බන්ධයයි.",
+      "body": "The present perfect links a past action to the present moment."
+    },
+    {
+      "type": "grammar",
+      "title": "Form: have / has + past participle",
+      "titleSi": "සෑදීම: have / has + past participle",
+      "explainSi": "The past participle is the 'third form' of the verb. For regular verbs it is the same as the past simple (-ed). For irregular verbs you must learn it.",
+      "formula": "have / has + past participle (V3)",
+      "table": {
+        "headers": [
+          "Base (V1)",
+          "Past (V2)",
+          "Participle (V3)",
+          "සිංහල"
+        ],
+        "rows": [
+          [
+            "work",
+            "worked",
+            "worked",
+            "වැඩ කරනවා"
+          ],
+          [
+            "go",
+            "went",
+            "gone",
+            "යනවා"
+          ],
+          [
+            "see",
+            "saw",
+            "seen",
+            "දකිනවා"
+          ],
+          [
+            "eat",
+            "ate",
+            "eaten",
+            "කනවා"
+          ],
+          [
+            "write",
+            "wrote",
+            "written",
+            "ලියනවා"
+          ],
+          [
+            "take",
+            "took",
+            "taken",
+            "ගන්නවා"
+          ],
+          [
+            "do",
+            "did",
+            "done",
+            "කරනවා"
+          ],
+          [
+            "give",
+            "gave",
+            "given",
+            "දෙනවා"
+          ],
+          [
+            "be",
+            "was / were",
+            "been",
+            "වෙනවා"
+          ],
+          [
+            "break",
+            "broke",
+            "broken",
+            "කඩනවා"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "I have finished my homework.",
+          "si": "මම ගෙදර වැඩ ඉවර කරලා. (දැන් නිදහස්)"
+        },
+        {
+          "en": "She has gone to Colombo.",
+          "si": "එයා කොළඹ ගිහින්. (දැන් මෙතන නෑ)"
+        },
+        {
+          "en": "They have lived here for ten years.",
+          "si": "ඔවුන් අවුරුදු දහයක් තිස්සේ මෙතන ජීවත් වෙනවා. (තවමත්)"
+        },
+        {
+          "en": "Have you ever been to India?",
+          "si": "ඔබ කවදාහරි ඉන්දියාවට ගිහින් තියෙනවද?"
+        }
+      ],
+      "watchOutSi": "'have gone to' සහ 'have been to' අර්ථ දෙකක්! 'She has gone to Kandy' = එයා දැන් මහනුවර, ආපහු ඇවිත් නෑ. 'She has been to Kandy' = එයා මහනුවර ගිහින් ආපහු ඇවිත් — අත්දැකීමක් ලෙස."
+    },
+    {
+      "type": "grammar",
+      "title": "Present perfect vs past simple",
+      "titleSi": "Present Perfect සහ Past Simple",
+      "explainSi": "The clearest test: if the sentence says exactly WHEN, use the past simple.\n\nපැහැදිලිම පරීක්ෂණය: වාක්‍යයේ නිශ්චිත වේලාවක් කියනවා නම් past simple යොදන්න.\n\n✓ I saw him yesterday. (yesterday = නිශ්චිත වේලාවක්)\n✗ I have seen him yesterday. — වැරදියි\n✓ I have seen him. (කවදාද කියලා නෑ)",
+      "table": {
+        "headers": [
+          "Present Perfect",
+          "Past Simple"
+        ],
+        "rows": [
+          [
+            "No specific time",
+            "Specific finished time"
+          ],
+          [
+            "I have visited Jaffna.",
+            "I visited Jaffna in 2019."
+          ],
+          [
+            "She has just left.",
+            "She left ten minutes ago."
+          ],
+          [
+            "Have you finished?",
+            "Did you finish yesterday?"
+          ],
+          [
+            "Time words: ever, never, already, yet, just, so far, recently",
+            "Time words: yesterday, last week, in 2019, ago, then"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "I have been to Nuwara Eliya three times.",
+          "si": "මම නුවරඑළියට තුන් වතාවක් ගිහින් තියෙනවා."
+        },
+        {
+          "en": "I went to Nuwara Eliya last April.",
+          "si": "මම පහුගිය අප්‍රේල් නුවරඑළිය ගියා."
+        },
+        {
+          "en": "Sri Lanka has won the World Cup once.",
+          "si": "ශ්‍රී ලංකාව ලෝක කුසලානය එක් වරක් දිනාගෙන තියෙනවා."
+        },
+        {
+          "en": "Sri Lanka won the World Cup in 1996.",
+          "si": "ශ්‍රී ලංකාව 1996දී ලෝක කුසලානය දිනුවා."
+        }
+      ]
+    },
+    {
+      "type": "grammar",
+      "title": "for, since, already, yet, just",
+      "titleSi": "for, since, already, yet, just",
+      "explainSi": "These small words appear constantly with the present perfect. Get them right and the tense becomes much easier.\n\n• for + කාල පරාසයක් (period): for two years, for a long time\n• since + ආරම්භක ලක්ෂ්‍යයක් (starting point): since 2020, since Monday\n• already — බලාපොරොත්තු වූවාට වඩා කලින් (ධනාත්මක)\n• yet — තවම (ප්‍රශ්න සහ නැහැ වාක්‍යවල, අගට)\n• just — දැන් මේ මොහොතේම\n• never / ever — කවදාවත් / කවදාහරි",
+      "formula": "for + period   ·   since + point in time",
+      "examples": [
+        {
+          "en": "I have worked here for six years.",
+          "si": "මම අවුරුදු හයක් තිස්සේ මෙතන වැඩ කරනවා."
+        },
+        {
+          "en": "I have worked here since 2019.",
+          "si": "මම 2019 ඉඳන් මෙතන වැඩ කරනවා."
+        },
+        {
+          "en": "She has already eaten.",
+          "si": "එයා දැනටමත් කාලා."
+        },
+        {
+          "en": "Have you finished yet?",
+          "si": "ඔබ තවම ඉවර නැද්ද?"
+        },
+        {
+          "en": "The bus has just left.",
+          "si": "බස් එක දැන් මේ ගියේ."
+        },
+        {
+          "en": "I have never seen snow.",
+          "si": "මම කවදාවත් හිම දැකලා නෑ."
+        }
+      ],
+      "watchOutSi": "'since' පසුව කාල පරාසයක් යොදන්න බෑ: 'since two years' ✗ → 'for two years' ✓ හෝ 'since two years ago' ✓."
+    },
+    {
+      "type": "grammar",
+      "title": "Present perfect continuous",
+      "titleSi": "Present Perfect Continuous",
+      "explainSi": "Use have/has been + -ing when you want to emphasise how long an action has continued, or that it is still going on.\n\nක්‍රියාව කොපමණ කාලයක් දිගටම සිදු වුණාද යන්න අවධාරණය කරද්දී මෙය යොදනවා.\n\n• I have read three books. (ප්‍රතිඵලය — පොත් තුනක්)\n• I have been reading all afternoon. (ක්‍රියාවලිය — දවල් පුරාම)",
+      "formula": "have / has + been + verb-ing",
+      "examples": [
+        {
+          "en": "It has been raining since morning.",
+          "si": "උදේ ඉඳන් වහිනවා."
+        },
+        {
+          "en": "She has been waiting for two hours.",
+          "si": "එයා පැය දෙකක් තිස්සේ බලාගෙන ඉන්නවා."
+        },
+        {
+          "en": "I have been learning English for three years.",
+          "si": "මම අවුරුදු තුනක් තිස්සේ ඉංග්‍රීසි ඉගෙන ගන්නවා."
+        }
+      ],
+      "watchOutSi": "State verbs (know, like, believe, own, understand) මේ ස්වරූපයෙන් යෙදෙන්නේ නෑ: 'I have known him for years' ✓, 'I have been knowing him' ✗."
+    },
+    {
+      "type": "story",
+      "title": "Twenty-Two Years",
+      "titleSi": "අවුරුදු විසිදෙකක්",
+      "introSi": "A short story built on the present perfect. Notice how often the past reaches into the present.",
+      "paragraphs": [
+        {
+          "en": "Mr Wickrama has taught at the same school for twenty-two years. He has seen three principals come and go.",
+          "si": "වික්‍රම මහතා අවුරුදු විසිදෙකක් තිස්සේ එකම පාසලේ උගන්වනවා. එයා විදුහල්පතිවරු තුන්දෙනෙක් එනවා යනවා දැකලා තියෙනවා."
+        },
+        {
+          "en": "He has never taken a single day of unnecessary leave. His students have won prizes, failed exams, married, and moved abroad.",
+          "si": "එයා අනවශ්‍ය නිවාඩුවක් එක දවසක්වත් අරගෙන නෑ. එයාගේ ශිෂ්‍යයෝ ත්‍යාග දිනලා, විභාග පාස් වෙන්නෙ නැතුව, විවාහ වෙලා, විදේශගත වෙලා තියෙනවා."
+        },
+        {
+          "en": "\"Have you ever thought of leaving?\" a young teacher asked him last week.",
+          "si": "\"ඔබ කවදාහරි යන්න හිතලා තියෙනවද?\" පහුගිය සතියේ තරුණ ගුරුවරයෙක් එයාගෙන් ඇහුවා."
+        },
+        {
+          "en": "\"I have thought about it many times,\" he said. \"I applied for a job in Colombo in 2008. They offered me twice the salary.\"",
+          "si": "\"මම ගොඩක් වතාවක් ඒක ගැන හිතලා තියෙනවා,\" එයා කිව්වා. \"මම 2008දී කොළඹ රැකියාවකට අයදුම් කළා. ඔවුන් මට දෙගුණයක් වැටුප ඉදිරිපත් කළා.\""
+        },
+        {
+          "en": "\"So why didn't you take it?\"",
+          "si": "\"එහෙනම් ඇයි ඒක ගත්තේ නැත්තේ?\""
+        },
+        {
+          "en": "Mr Wickrama pointed at a boy running across the muddy field. \"That boy's father sat where you are sitting, twenty years ago. He couldn't read. Now he reads the newspaper to his son every evening.\"",
+          "si": "වික්‍රම මහතා මඩ පිට්ටනිය හරහා දුවන කොලුවෙකුට ඇඟිල්ල දිගු කළා. \"අවුරුදු විස්සකට කලින් ඒ කොලුවගේ තාත්තා ඔබ ඉන්න තැන ඉඳගෙන හිටියා. එයාට කියවන්න බැරි වුණා. දැන් එයා හැම සැන්දෑවකම පුතාට පත්තරය කියවනවා.\""
+        },
+        {
+          "en": "\"I have not become rich,\" he added quietly. \"But I have not wasted a single year either.\"",
+          "si": "\"මම ධනවත් වෙලා නෑ,\" එයා හෙමිහිට එකතු කළා. \"නමුත් මම එක අවුරුද්දක්වත් නාස්ති කරලත් නෑ.\""
+        }
+      ],
+      "glossary": [
+        {
+          "en": "principal",
+          "si": "විදුහල්පති"
+        },
+        {
+          "en": "leave (noun)",
+          "si": "නිවාඩුව"
+        },
+        {
+          "en": "prize",
+          "si": "ත්‍යාගය"
+        },
+        {
+          "en": "abroad",
+          "si": "විදේශගත"
+        },
+        {
+          "en": "apply for",
+          "si": "අයදුම් කරනවා"
+        },
+        {
+          "en": "salary",
+          "si": "වැටුප"
+        },
+        {
+          "en": "point at",
+          "si": "ඇඟිල්ල දිගු කරනවා"
+        },
+        {
+          "en": "waste",
+          "si": "නාස්ති කරනවා"
+        }
+      ],
+      "questionsSi": [
+        "'He has taught for twenty-two years' — මෙයින් අදහස් වන්නේ එයා තවමත් උගන්වන බවද?",
+        "'I applied for a job in 2008' — මෙතන past simple යෙදුවේ ඇයි?",
+        "අවසාන වාක්‍ය දෙකෙන් වික්‍රම මහතාගේ ජීවිත දර්ශනය කුමක්ද?"
+      ]
+    },
+    {
+      "type": "practice",
+      "title": "Perfect or past?",
+      "titleSi": "Perfect නැත්නම් past?",
+      "instructionSi": "නිවැරදි ස්වරූපය ලියන්න.",
+      "items": [
+        {
+          "prompt": "I ___ (see) that film last night.",
+          "answer": "saw",
+          "hintSi": "'last night' නිශ්චිත වේලාවක්.",
+          "full": "I saw that film last night."
+        },
+        {
+          "prompt": "I ___ (see) that film three times.",
+          "answer": "have seen",
+          "hintSi": "වේලාවක් නෑ — අත්දැකීමක්.",
+          "full": "I have seen that film three times."
+        },
+        {
+          "prompt": "She has lived here ___ 2015.",
+          "answer": "since",
+          "hintSi": "ආරම්භක ලක්ෂ්‍යයක්.",
+          "full": "She has lived here since 2015."
+        },
+        {
+          "prompt": "She has lived here ___ nine years.",
+          "answer": "for",
+          "hintSi": "කාල පරාසයක්.",
+          "full": "She has lived here for nine years."
+        },
+        {
+          "prompt": "Have you finished ___ ? (තවම)",
+          "answer": "yet",
+          "hintSi": "ප්‍රශ්නවල අගට එන වචනය.",
+          "full": "Have you finished yet?"
+        },
+        {
+          "prompt": "It ___ (rain) since morning. (continuous)",
+          "answer": "has been raining",
+          "hintSi": "දිගටම සිදු වන ක්‍රියාවලියක්.",
+          "full": "It has been raining since morning."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "en": "already",
+      "si": "දැනටමත්"
+    },
+    {
+      "en": "yet",
+      "si": "තවම"
+    },
+    {
+      "en": "just",
+      "si": "දැන් මේ"
+    },
+    {
+      "en": "ever",
+      "si": "කවදාහරි"
+    },
+    {
+      "en": "never",
+      "si": "කවදාවත් නෑ"
+    },
+    {
+      "en": "since",
+      "si": "…ඉඳන්"
+    },
+    {
+      "en": "recently",
+      "si": "මෑතකදී"
+    },
+    {
+      "en": "abroad",
+      "si": "විදේශගත"
+    },
+    {
+      "en": "salary",
+      "si": "වැටුප"
+    },
+    {
+      "en": "apply",
+      "si": "අයදුම් කරනවා"
+    },
+    {
+      "en": "waste",
+      "si": "නාස්ති කරනවා"
+    },
+    {
+      "en": "principal",
+      "si": "විදුහල්පති"
+    },
+    {
+      "en": "prize",
+      "si": "ත්‍යාගය"
+    },
+    {
+      "en": "experience",
+      "si": "අත්දැකීම"
+    },
+    {
+      "en": "achieve",
+      "si": "ලබා ගන්නවා"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "b2-01-q1",
+      "q": "Which sentence is correct?",
+      "qSi": "නිවැරදි වාක්‍යය කුමක්ද?",
+      "options": [
+        "I have seen him yesterday.",
+        "I saw him yesterday.",
+        "I have saw him yesterday.",
+        "I seen him yesterday."
+      ],
+      "answer": 1,
+      "explainSi": "'yesterday' නිශ්චිත වේලාවක් නිසා past simple අවශ්‍යයි. Present perfect සමඟ නිශ්චිත වේලාවක් යොදන්න බෑ.",
+      "speak": "I saw him yesterday."
+    },
+    {
+      "id": "b2-01-q2",
+      "q": "'She has lived here ___ 2015.'",
+      "qSi": "නිවැරදි වචනය?",
+      "options": [
+        "for",
+        "since",
+        "from",
+        "during"
+      ],
+      "answer": 1,
+      "explainSi": "2015 යනු ආරම්භක ලක්ෂ්‍යයක් — 'since'. කාල පරාසයකට 'for'.",
+      "speak": "She has lived here since 2015."
+    },
+    {
+      "id": "b2-01-q3",
+      "q": "What is the past participle of 'write'?",
+      "qSi": "'write' වල past participle එක?",
+      "options": [
+        "wrote",
+        "writed",
+        "written",
+        "writing"
+      ],
+      "answer": 2,
+      "explainSi": "write → wrote (V2) → written (V3). Present perfect සමඟ V3 යෙදෙනවා.",
+      "speak": "write, wrote, written"
+    },
+    {
+      "id": "b2-01-q4",
+      "q": "'She has gone to Kandy' means:",
+      "qSi": "මෙහි අර්ථය කුමක්ද?",
+      "options": [
+        "She visited Kandy and came back",
+        "She is in Kandy now and has not returned",
+        "She wants to go to Kandy",
+        "She went to Kandy yesterday"
+      ],
+      "answer": 1,
+      "explainSi": "'has gone to' = ගිහින් තාම ආපහු ඇවිත් නෑ. 'has been to' = ගිහින් ආපහු ඇවිත් (අත්දැකීමක්).",
+      "speak": "She has gone to Kandy."
+    },
+    {
+      "id": "b2-01-q5",
+      "q": "Which sentence is WRONG?",
+      "qSi": "වැරදි වාක්‍යය කුමක්ද?",
+      "options": [
+        "I have worked here for two years.",
+        "I have worked here since two years.",
+        "I have worked here since 2023.",
+        "I have worked here for a long time."
+      ],
+      "answer": 1,
+      "explainSi": "'since two years' වැරදියි. කාල පරාසයකට 'for two years' යොදන්න."
+    },
+    {
+      "id": "b2-01-q6",
+      "q": "'yet' normally appears:",
+      "qSi": "'yet' යෙදෙන්නේ කොහෙද?",
+      "options": [
+        "at the start of positive sentences",
+        "at the end of questions and negatives",
+        "only with the past simple",
+        "before the main verb"
+      ],
+      "answer": 1,
+      "explainSi": "'Have you finished yet?' / 'I haven't finished yet.' — ප්‍රශ්න සහ නැහැ වාක්‍යවල අගට.",
+      "speak": "Have you finished yet?"
+    },
+    {
+      "id": "b2-01-q7",
+      "q": "'It ___ since this morning.' (rain, continuous)",
+      "qSi": "දිගටම සිදු වන ක්‍රියාවලියක්.",
+      "options": [
+        "has rained",
+        "has been raining",
+        "is raining",
+        "rained"
+      ],
+      "answer": 1,
+      "explainSi": "කාලය අවධාරණය කරද්දී present perfect continuous: has been raining.",
+      "speak": "It has been raining since this morning."
+    },
+    {
+      "id": "b2-01-q8",
+      "context": "\"I applied for a job in Colombo in 2008. They offered me twice the salary.\"",
+      "contextSi": "\"මම 2008දී කොළඹ රැකියාවකට අයදුම් කළා. ඔවුන් මට දෙගුණයක් පඩි ඉදිරිපත් කළා.\"",
+      "q": "In the story, why is 'I applied for a job in 2008' in the past simple?",
+      "qSi": "මෙතන past simple යෙදුවේ ඇයි?",
+      "options": [
+        "Because it is still happening",
+        "Because a specific finished time is given",
+        "Because it is a question",
+        "Because 'apply' is irregular"
+      ],
+      "answer": 1,
+      "explainSi": "'in 2008' යනු නිශ්චිත, අවසන් වූ කාලයක්. එවිට හැම විටම past simple."
+    }
+  ]
+}

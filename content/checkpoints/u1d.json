@@ -1,0 +1,116 @@
+{
+  "quiz": [
+    {
+      "id": "u1d-cp-q1",
+      "q": "'ඇය දැන් කථා කරමින් ඉන්නවා.' — ඉංග්‍රීසියෙන්?",
+      "options": ["She talks now.", "She is talking now.", "She talking now.", "She is talk now."],
+      "answer": 1,
+      "explainSi": "'is/am/are' + ක්‍රියාව+'ing' — present continuous.",
+      "speak": "She is talking now."
+    },
+    {
+      "id": "u1d-cp-q2",
+      "q": "'run' → '-ing' ස්වරූපය?",
+      "options": ["runing", "runnning", "running", "runeing"],
+      "answer": 2,
+      "explainSi": "එක් ස්වරයකින් අවසන් වන කෙටි ක්‍රියාවලට අවසාන ව්‍යාංජනාක්ෂරය දෙගුණ කරනවා — 'running'."
+    },
+    {
+      "id": "u1d-cp-q3",
+      "q": "'know' (දැනගන්නවා) '-ing' ස්වරූපයෙන් භාවිතා කරන්නද?",
+      "options": [
+        "නෑ — 'know' stative verb එකක්, '-ing' ගන්නේ නෑ",
+        "ඔව්, 'knowing' සාමාන්‍යයෙන් භාවිතා කරනවා",
+        "සමහර වෙලාවට විතරයි",
+        "'know' ක්‍රියාවක්ම නෙවෙයි"
+      ],
+      "answer": 0,
+      "explainSi": "'know', 'want', 'need', 'like' වගේ stative verbs '-ing' ගන්නේ නෑ."
+    },
+    {
+      "id": "u1d-cp-q4",
+      "q": "'She is knowing the answer.' — මේ වාක්‍යය හරිද?",
+      "options": ["හරි", "වැරදියි — 'She knows the answer.' විය යුතුයි", "දෙකම හරි", "කියන්න බෑ"],
+      "answer": 1,
+      "explainSi": "'know' stative verb එකක් නිසා present simple එකේම භාවිතා කරනවා — '-ing' නෑ."
+    },
+    {
+      "id": "u1d-cp-q5",
+      "q": "'දොර වහන්න!' (කෙලින්ම කියන අණක්) — ඉංග්‍රීසියෙන්?",
+      "options": ["You close the door.", "Close the door.", "Closing the door.", "You are closing the door."],
+      "answer": 1,
+      "explainSi": "අණක් දෙද්දී subject එකක් නැතුව, ක්‍රියාවෙන්ම පටන් ගන්නවා — 'Close the door.'",
+      "speak": "Close the door."
+    },
+    {
+      "id": "u1d-cp-q6",
+      "q": "'මෙතන දුම් බොන්න එපා.' — negative imperative?",
+      "options": ["No smoke here.", "Don't smoke here.", "Not smoke here.", "You don't smoke here."],
+      "answer": 1,
+      "explainSi": "'Don't' + ක්‍රියාවේ මූලික ස්වරූපය — negative imperative.",
+      "speak": "Don't smoke here."
+    },
+    {
+      "id": "u1d-cp-q7",
+      "q": "'යමු!' (යෝජනාවක්) — ඉංග්‍රීසියෙන්?",
+      "options": ["We go!", "Let's go!", "Going!", "Go we!"],
+      "answer": 1,
+      "explainSi": "'Let's' + ක්‍රියාවේ මූලික ස්වරූපය — යෝජනාවක්.",
+      "speak": "Let's go!"
+    },
+    {
+      "id": "u1d-cp-q8",
+      "q": "'මට එයාව පේනවා.' (him/her) — 'I see he' ද 'I see him' ද?",
+      "options": ["I see he.", "I see him.", "I see his.", "I see himself."],
+      "answer": 1,
+      "explainSi": "ක්‍රියාවකට පස්සේ object pronoun ('him') එනවා, subject pronoun ('he') නෙවෙයි.",
+      "speak": "I see him."
+    },
+    {
+      "id": "u1d-cp-q9",
+      "q": "'මේක එයාගේ (පිරිමි) පොත.' — 'his' ද 'her' ද?",
+      "options": ["This is her book.", "This is his book.", "This is he book.", "This is him book."],
+      "answer": 1,
+      "explainSi": "අයිතිකරු පිරිමි නම් 'his', ගැහැණු නම් 'her'.",
+      "speak": "This is his book."
+    },
+    {
+      "id": "u1d-cp-q10",
+      "q": "'it's' සහ 'its' අතර වෙනස කුමක්ද?",
+      "options": [
+        "'it's' = 'it is' කෙටි කිරීම, 'its' = අයිතිය",
+        "දෙකම එකම දේ",
+        "'its' = 'it is' කෙටි කිරීම",
+        "'it's' = අයිතිය"
+      ],
+      "answer": 0,
+      "explainSi": "'it's' apostrophe සමඟ — 'it is'. 'its' apostrophe නැතුව — අයිතිය පෙන්නනවා."
+    },
+    {
+      "id": "u1d-cp-q11",
+      "context": "She is talking to him now, but she doesn't know his answer yet.",
+      "contextSi": "එයා දැන් එයාට (පිරිමි) කථා කරමින් ඉන්නවා, නමුත් එයාගේ පිළිතුර තාම දන්නේ නෑ.",
+      "q": "මේ එක් වාක්‍යයේම present continuous ('is talking') සහ stative verb ('doesn't know') දෙකම එනවා. ඇයි 'know' එකට '-ing' නැත්තේ?",
+      "options": [
+        "'know' stative verb එකක් නිසා, දැනගැනීම ක්‍රියාවක් නෙවෙයි, තත්ත්වයක්",
+        "වැරදීමකින්",
+        "'know' present continuous ගන්නවා, මෙතන වැරදියි",
+        "'talking' සහ 'know' එකම රීතියක් අනුගමනය කරනවා"
+      ],
+      "answer": 0,
+      "explainSi": "'talk' ක්‍රියාවක් (present continuous ගන්නවා), 'know' තත්ත්වයක් (stative, present simple එකේම)."
+    },
+    {
+      "id": "u1d-cp-q12",
+      "q": "'Don't touch his book — it's not yours.' — මෙතන 'his' සහ 'it's' දෙකම නිවැරදිද?",
+      "options": [
+        "ඔව් — 'his' අයිතිය, 'it's' = 'it is'",
+        "නෑ — 'his' වැරදියි",
+        "නෑ — 'it's' වැරදියි, 'its' විය යුතුයි",
+        "දෙකම වැරදියි"
+      ],
+      "answer": 0,
+      "explainSi": "'his book' (අයිතිය) සහ \"it's not yours\" ('it is not yours' කෙටි කිරීම) — දෙකම නිවැරදියි."
+    }
+  ]
+}

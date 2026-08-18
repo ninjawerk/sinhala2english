@@ -1,0 +1,116 @@
+{
+  "quiz": [
+    {
+      "id": "u2c-cp-q1",
+      "q": "'ඔබ කවදාහරි ප්‍රංශයට ගිහින් තියෙනවද?' — ඉංග්‍රීසියෙන්?",
+      "options": ["Did you ever go to France?", "Have you ever been to France?", "Do you ever go to France?", "Are you ever go to France?"],
+      "answer": 1,
+      "explainSi": "'Have you ever + past participle?' — present perfect, ජීවිත අත්දැකීමක් ගැන.",
+      "speak": "Have you ever been to France?"
+    },
+    {
+      "id": "u2c-cp-q2",
+      "q": "'go' → past participle?",
+      "options": ["goed", "went", "gone", "going"],
+      "answer": 2,
+      "explainSi": "'go' — 'went' (simple past), 'gone' (past participle, present perfect සමඟ)."
+    },
+    {
+      "id": "u2c-cp-q3",
+      "q": "'මම කලින් දුම් බෙව්වා, දැන් නෑ.' — 'used to' ද 'use to' ද?",
+      "options": ["I use to smoke.", "I used to smoke.", "I am used to smoke.", "I used smoke."],
+      "answer": 1,
+      "explainSi": "නැවතුනු පැරණි පුරුද්දක් සඳහා 'used to' + ක්‍රියාවේ මූලික ස්වරූපය.",
+      "speak": "I used to smoke, but I don't anymore."
+    },
+    {
+      "id": "u2c-cp-q4",
+      "q": "'Have you ever been to Japan?' සහ 'I used to live in Japan.' — දෙකම අතීතය ගැන කථා කරනවද?",
+      "options": [
+        "ඔව්, නමුත් විවිධ අර්ථ — පළමුවැන්න අත්දැකීමක්, දෙවැන්න නැවතුනු පුරුද්දක්",
+        "නෑ, පළමුවැන්න විතරයි අතීතය ගැන",
+        "නෑ, දෙකම වර්තමානය ගැන",
+        "දෙකම එකම අර්ථය"
+      ],
+      "answer": 0,
+      "explainSi": "'Have you ever been?' — ජීවිත කාලය තුළ අත්දැකීමක්. 'used to live' — නැවතුනු පුරුද්දක්/තත්ත්වයක්."
+    },
+    {
+      "id": "u2c-cp-q5",
+      "q": "'මම ඔහුව අවුරුදු තුනකට කලින් හඳුනගත්තා.' — 'ago' භාවිතා කරන්නේ කොහොමද?",
+      "options": ["ago three years", "three years ago", "before three years", "three ago years"],
+      "answer": 1,
+      "explainSi": "'ago' කාල ප්‍රමාණයට පස්සේ එනවා — 'three years ago'."
+    },
+    {
+      "id": "u2c-cp-q6",
+      "q": "'මට යාළුවෝ ටිකක් ඉන්නවා.' (countable) — 'a few' ද 'a little' ද?",
+      "options": ["I have a little friends.", "I have a few friends.", "I have few friend.", "I have a little friend."],
+      "answer": 1,
+      "explainSi": "'friends' ගණන් කළ හැකි (countable) — 'a few'.",
+      "speak": "I have a few friends."
+    },
+    {
+      "id": "u2c-cp-q7",
+      "q": "'මට ටිකක් කාලය තියෙනවා.' (uncountable) — 'a few' ද 'a little' ද?",
+      "options": ["I have a few time.", "I have a little time.", "I have few times.", "I have little time (කිසිසේත් නෑ)."],
+      "answer": 1,
+      "explainSi": "'time' ගණන් කළ නොහැකි (uncountable) — 'a little'.",
+      "speak": "I have a little time."
+    },
+    {
+      "id": "u2c-cp-q8",
+      "q": "'a few' සහ 'few' (a නැතුව) අතර වෙනස කුමක්ද?",
+      "options": [
+        "'a few' — ටිකක් තියෙනවා (ධනාත්මක), 'few' — ගොඩක් අඩුයි/නෑ තරම් (ඍණාත්මක)",
+        "වෙනසක් නෑ",
+        "'few' ධනාත්මක, 'a few' ඍණාත්මක",
+        "දෙකම එකම ප්‍රමාණයක්"
+      ],
+      "answer": 0,
+      "explainSi": "'a' එකතු වීම වෙනස ඇති කරනවා — 'a few' කුඩා ප්‍රමාණයක් තියෙනවා, 'few' ප්‍රමාණවත් නෑ කියන අර්ථය."
+    },
+    {
+      "id": "u2c-cp-q9",
+      "q": "'මේක බොහොම බරයි, එසේනම් මට එය එසවිය නොහැක.' — 'too' භාවිතා කරන්නේ කොහොමද?",
+      "options": ["This is too heavy to lift.", "This is heavy too to lift.", "This is too heavy for lift.", "This too is heavy to lift."],
+      "answer": 0,
+      "explainSi": "'too' + adjective + 'to' + ක්‍රියාව — 'too heavy to lift'.",
+      "speak": "This is too heavy to lift."
+    },
+    {
+      "id": "u2c-cp-q10",
+      "q": "'ඇය ධාවනය කරන්න තරම් වේගවත්.' (හැකියාව තියෙනවා) — 'too' ද 'enough' ද?",
+      "options": ["She is too fast to run.", "She is fast enough to run.", "She is enough fast to run.", "She is fast too to run."],
+      "answer": 1,
+      "explainSi": "'enough' adjective එකට පසුව — 'fast enough to run' — ප්‍රමාණවත් හැකියාව.",
+      "speak": "She is fast enough to run."
+    },
+    {
+      "id": "u2c-cp-q11",
+      "context": "I've never eaten sushi, but I used to eat a lot of rice when I lived in Japan. I only have a little time to try new food these days.",
+      "contextSi": "මම කවදාවත් sushi කාලා නෑ, නමුත් ජපානයේ ජීවත් වෙද්දී බත් ගොඩක් කෑවා. දැන් අලුත් කෑම උත්සාහ කරන්න මට ටිකක් කාලයයි තියෙන්නේ.",
+      "q": "මේ වාක්‍යවල 'I've never eaten', 'used to eat', 'a little time' — තුනම එකට එකතු වෙන්නේ කොහොමද?",
+      "options": [
+        "'I've never eaten' (කවදාවත් නෑ, අත්දැකීමක්), 'used to eat' (නැවතුනු පුරුද්දක්), 'a little time' (uncountable, ටිකක්)",
+        "තුනම එකම කාල වකවානුවක් ගැන",
+        "'a little time' වැරදියි, 'a few time' විය යුතුයි",
+        "'used to eat' වර්තමානය ගැන"
+      ],
+      "answer": 0,
+      "explainSi": "'never eaten' (present perfect, කවදාවත් නෑ), 'used to eat' (කලින් පුරුද්දක්, දැන් නැහැ), 'a little time' (uncountable ප්‍රමාණයක්)."
+    },
+    {
+      "id": "u2c-cp-q12",
+      "q": "'The soup is too hot to eat, so I only have a few spoonfuls.' — 'too' සහ 'a few' දෙකම නිවැරදිද?",
+      "options": [
+        "ඔව් — 'too hot to eat' (අවශ්‍ය නොවන ප්‍රතිඵලය), 'a few spoonfuls' (countable, ටිකක්)",
+        "නෑ, 'too' වෙනුවට 'enough' විය යුතුයි",
+        "නෑ, 'a few' වෙනුවට 'a little' විය යුතුයි",
+        "දෙකම වැරදියි"
+      ],
+      "answer": 0,
+      "explainSi": "'too hot to eat' — කන්න බෑ තරම් රත්. 'spoonfuls' ගණන් කළ හැකි නාම පදයක් — 'a few'."
+    }
+  ]
+}

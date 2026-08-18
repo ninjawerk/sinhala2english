@@ -1,0 +1,834 @@
+{
+  "hero": {
+    "src": "images/a1-11-hero.webp",
+    "alt": "Ruwan sitting cross legged on a rug playing an acoustic guitar, headphones and a sketchpad nearby, relaxed evening light in a small flat."
+  },
+  "goalsSi": [
+    "like, love, hate, don't mind, prefer භාවිතය",
+    "like පසුව එන ක්‍රියාවට -ing හෝ to අවශ්‍ය බව",
+    "විනෝදාංශ සහ නිදහස් කාලය ගැන වචන",
+    "කැමති දේ ගැන ප්‍රශ්න ඇසීම සහ හේතුවක් සමඟ පිළිතුරු දීම"
+  ],
+  "goals": [
+    "Say what you like, love and hate",
+    "Use -ing or to after like",
+    "Talk about hobbies and free time",
+    "Give a reason for what you enjoy"
+  ],
+  "sections": [
+    {
+      "type": "note",
+      "title": "Two verbs together need glue",
+      "titleSi": "ක්‍රියා දෙකක් එකට ආවම මැදට යමක් ඕන",
+      "bodySi": "සිංහලෙන් 'මම පිහිනන්න කැමතියි' කියනවා. වචන දෙකම ක්‍රියා, මැදට කිසිවක් ඕන නෑ.\n\nඉංග්‍රීසියෙන් 'I like swim' කියලා කියන්න බෑ. ක්‍රියා දෙකක් එකට එද්දී මැදට යමක් ඕන — එක්කෝ -ing, එක්කෝ 'to':\n\nI like swimming. ✓\nI like to swim. ✓\nI like swim. ✗\n\nදෙකම හරි, අර්ථයේ ලොකු වෙනසක් නෑ. -ing එක ටිකක් වැඩිපුර භාවිත වෙනවා, විශේෂයෙන් පුරුද්දක් ගැන කථා කරද්දී.\n\nමේක සිංහල කථා කරන අය නිතරම අමතක කරන තැනක්. එනිසා මේ පාඩමේ ඒක නැවත නැවත එනවා.",
+      "body": "After 'like', a second verb needs -ing or 'to'."
+    },
+    {
+      "type": "grammar",
+      "title": "like, love, hate, don't mind",
+      "titleSi": "like, love, hate, don't mind",
+      "explainSi": "කැමැත්තේ මට්ටම් අනුව වචනය තෝරන්න. හැම එකකටම පස්සේ එන ක්‍රියාවට -ing එකතු වෙනවා.",
+      "formula": "subject + love / like / don't mind / don't like / hate + verb-ing",
+      "table": {
+        "headers": [
+          "වචනය",
+          "මට්ටම",
+          "උදාහරණය",
+          "සිංහල"
+        ],
+        "rows": [
+          [
+            "love",
+            "ගොඩක් කැමතියි",
+            "I love reading.",
+            "මම කියවන්න ගොඩක් කැමතියි."
+          ],
+          [
+            "like",
+            "කැමතියි",
+            "She likes cooking.",
+            "එයා උයන්න කැමතියි."
+          ],
+          [
+            "don't mind",
+            "කමක් නෑ",
+            "I don't mind waiting.",
+            "බලාගෙන ඉන්න එකේ කමක් නෑ."
+          ],
+          [
+            "don't like",
+            "අකැමතියි",
+            "He doesn't like driving.",
+            "එයා රිය පදවන්න අකැමතියි."
+          ],
+          [
+            "hate",
+            "පිළිකුලයි",
+            "They hate getting up early.",
+            "ඔවුන් උදෙන් නැගිටින්න පිළිකුලයි."
+          ],
+          [
+            "prefer",
+            "වඩා කැමතියි",
+            "I prefer tea to coffee.",
+            "මම කෝපිට වඩා තේට කැමතියි."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "My sister loves listening to music while she studies.",
+          "si": "මගේ අක්කා ඉගෙන ගනිද්දී සංගීතයට සවන් දෙන්න ගොඩක් කැමතියි."
+        },
+        {
+          "en": "I don't mind cooking, but I hate washing the dishes.",
+          "si": "උයන එකේ කමක් නෑ, හැබැයි පිඟන් හෝදන එකට මම පිළිකුලයි."
+        },
+        {
+          "en": "Does your brother like playing cricket?",
+          "si": "ඔබේ අයියා ක්‍රිකට් ගහන්න කැමතිද?"
+        }
+      ],
+      "watchOutSi": "'like' සමඟ he/she/it නම් -s එකත් ඕන: 'She likes cooking' — 'like' නෙවෙයි. ගිය පාඩම් දෙකේ නීතිය මෙතනත් අදාළයි."
+    },
+    {
+      "type": "grammar",
+      "title": "-ing or to?",
+      "titleSi": "-ing නැත්නම් to?",
+      "explainSi": "like, love, hate සමඟ දෙකම හරි. නමුත් 'would like' සමඟ නම් 'to' පමණයි — සහ අර්ථයත් වෙනස්: 'I like tea' යනු පුරුද්දක්, 'I would like tea' යනු දැන් ඉල්ලීමක්.",
+      "formula": "like + -ing / to  ·  would like + to  (only)",
+      "table": {
+        "headers": [
+          "වාක්‍යය",
+          "අර්ථය",
+          "සිංහල"
+        ],
+        "rows": [
+          [
+            "I like tea.",
+            "පුරුද්දක් — හැම විටම",
+            "මම තේට කැමතියි."
+          ],
+          [
+            "I would like tea.",
+            "දැන් ඉල්ලීමක්",
+            "මට දැන් තේ ඕන."
+          ],
+          [
+            "I like swimming.",
+            "පුරුද්දක්",
+            "මම පිහිනන්න කැමතියි."
+          ],
+          [
+            "I would like to swim.",
+            "දැන් කරන්න ඕන",
+            "මට දැන් පිහිනන්න ඕන."
+          ],
+          [
+            "I like to swim.",
+            "පුරුද්දක්",
+            "මම පිහිනන්න කැමතියි."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "I like walking in the evening.",
+          "si": "මම හවසට ඇවිදින්න කැමතියි."
+        },
+        {
+          "en": "I would like to walk with you tomorrow.",
+          "si": "හෙට ඔබ එක්ක ඇවිදින්න මට ඕන."
+        },
+        {
+          "en": "She likes to read before she sleeps.",
+          "si": "එයා නිදාගන්න කලින් කියවන්න කැමතියි."
+        }
+      ],
+      "watchOutSi": "'I would like swimming' — වැරදියි. 'would like' සමඟ හැම විටම 'to': 'I would like to swim'."
+    },
+    {
+      "type": "vocab",
+      "title": "Free time",
+      "titleSi": "නිදහස් කාලය",
+      "items": [
+        {
+          "en": "hobby",
+          "si": "විනෝදාංශය",
+          "say": "හොබි",
+          "exampleEn": "Do you have a hobby?",
+          "exampleSi": "ඔබට විනෝදාංශයක් තියෙනවාද?"
+        },
+        {
+          "en": "music",
+          "si": "සංගීතය",
+          "say": "මියුසික්"
+        },
+        {
+          "en": "song",
+          "si": "ගීතය",
+          "say": "සොං"
+        },
+        {
+          "en": "film",
+          "si": "චිත්‍රපටය",
+          "say": "ෆිල්ම්"
+        },
+        {
+          "en": "garden",
+          "si": "වත්ත",
+          "say": "ගාඩන්"
+        },
+        {
+          "en": "draw",
+          "si": "චිත්‍ර අඳිනවා",
+          "say": "ඩ්‍රෝ",
+          "exampleEn": "He loves drawing birds.",
+          "exampleSi": "එයා කුරුල්ලෝ අඳින්න ගොඩක් කැමතියි."
+        },
+        {
+          "en": "collect",
+          "si": "එකතු කරනවා",
+          "say": "කලෙක්ට්"
+        },
+        {
+          "en": "dance",
+          "si": "නටනවා",
+          "say": "ඩාන්ස්"
+        },
+        {
+          "en": "cycling",
+          "si": "බයිසිකල් පැදීම",
+          "say": "සයික්ලින්"
+        },
+        {
+          "en": "fishing",
+          "si": "මාළු බෑම",
+          "say": "ෆිෂින්"
+        },
+        {
+          "en": "free time",
+          "si": "නිදහස් කාලය",
+          "say": "ෆ්‍රී ටයිම්"
+        },
+        {
+          "en": "boring",
+          "si": "කම්මැලි",
+          "say": "බෝරින්",
+          "exampleEn": "I think fishing is boring.",
+          "exampleSi": "මාළු බෑම කම්මැලියි කියලා මම හිතනවා."
+        },
+        {
+          "en": "interesting",
+          "si": "රසවත් / උනන්දුවක් දනවන",
+          "say": "ඉන්ට්‍රස්ටින්"
+        },
+        {
+          "en": "relaxing",
+          "si": "සැහැල්ලු",
+          "say": "රිලැක්සින්"
+        },
+        {
+          "en": "noise",
+          "si": "ඝෝෂාව",
+          "say": "නොයිස්"
+        },
+        {
+          "en": "patient",
+          "si": "ඉවසිලිවන්ත",
+          "say": "පේෂන්ට්"
+        },
+        {
+          "en": "quiet",
+          "si": "නිශ්ශබ්ද",
+          "say": "ක්වයට්"
+        },
+        {
+          "en": "reason",
+          "si": "හේතුව",
+          "say": "රීසන්"
+        }
+      ]
+    },
+    {
+      "type": "story",
+      "title": "The Man Who Watches Birds",
+      "titleSi": "කුරුල්ලෝ බලන මිනිසා",
+      "introSi": "සමහරුන්ට කම්මැලි දෙයක් තව කෙනෙකුට රසවත් වෙන්න පුළුවන්. ඇයි කියලා තේරුම් ගන්න.",
+      "paragraphs": [
+        {
+          "en": "My uncle Gamini is sixty years old, and he has one hobby. He likes watching birds. Every Saturday he sits under the same tree with an old notebook.",
+          "si": "මගේ මාමා ගාමිණීට අවුරුදු හැටයි, එයාට විනෝදාංශයක් තියෙනවා. එයා කුරුල්ලෝ බලන්න කැමතියි. හැම සෙනසුරාදාම එයා පරණ සටහන් පොතක් අරගෙන එකම ගහ යට ඉඳගන්නවා."
+        },
+        {
+          "en": "My cousins think this is boring. \"He doesn't do anything,\" they say. \"He just sits.\" They prefer playing cricket, and they never sit still.",
+          "si": "මගේ නෑනා මස්සිනාලා හිතන්නේ මේක කම්මැලියි කියලා. \"එයා කිසිම දෙයක් කරන්නේ නෑ,\" ඔවුන් කියනවා. \"එයා ඉඳගෙන ඉන්නවා විතරයි.\" ඔවුන් ක්‍රිකට් ගහන්න වඩා කැමතියි, කවදාවත් නිශ්චලව ඉන්නේ නෑ."
+        },
+        {
+          "en": "But my uncle does not agree. \"I don't watch birds,\" he told me once. \"I listen to them. Watching is the easy part.\"",
+          "si": "හැබැයි මාමා එකඟ නෑ. \"මම කුරුල්ලෝ බලන්නේ නෑ,\" එයා වරක් මට කිව්වා. \"මම ඒවාට සවන් දෙනවා. බලන එක ලේසි කොටස.\""
+        },
+        {
+          "en": "In his notebook there are hundreds of names and dates. He knows which bird comes in April and which one never comes back after the rain.",
+          "si": "එයාගේ සටහන් පොතේ නම් සහ දිනයන් සිය ගණනක් තියෙනවා. අප්‍රේල් එන කුරුල්ලා කවුද, වැස්සෙන් පස්සේ කවදාවත් ආපහු නොඑන්නේ කවුද කියලා එයා දන්නවා."
+        },
+        {
+          "en": "Last year a university student came to the village. She needed old records of the birds, and nobody had any. Then somebody remembered my uncle.",
+          "si": "පහුගිය අවුරුද්දේ විශ්වවිද්‍යාල ශිෂ්‍යාවක් ගමට ආවා. එයාට කුරුල්ලන්ගේ පරණ වාර්තා ඕන වුණා, කාටවත් තිබුණේ නෑ. එතකොට කාටහරි මාමා මතක් වුණා."
+        },
+        {
+          "en": "She read his notebook for three days. Now his name is in her report. My cousins still think the hobby is boring, but they do not say it so loudly.",
+          "si": "එයා දවස් තුනක් එයාගේ සටහන් පොත කියෙව්වා. දැන් එයාගේ නම එයාගේ වාර්තාවේ තියෙනවා. මගේ නෑනා මස්සිනාලා තාමත් හිතන්නේ ඒක කම්මැලියි කියලා, හැබැයි දැන් ඒක එච්චර හයියෙන් කියන්නේ නෑ."
+        }
+      ],
+      "glossary": [
+        {
+          "en": "notebook",
+          "si": "සටහන් පොත"
+        },
+        {
+          "en": "cousin",
+          "si": "නෑනා / මස්සිනා"
+        },
+        {
+          "en": "sit still",
+          "si": "නිශ්චලව ඉන්නවා"
+        },
+        {
+          "en": "agree",
+          "si": "එකඟ වෙනවා"
+        },
+        {
+          "en": "hundreds",
+          "si": "සිය ගණන්"
+        },
+        {
+          "en": "record",
+          "si": "වාර්තාව"
+        },
+        {
+          "en": "village",
+          "si": "ගම"
+        },
+        {
+          "en": "report",
+          "si": "වාර්තාව"
+        },
+        {
+          "en": "loudly",
+          "si": "හයියෙන්"
+        }
+      ],
+      "questionsSi": [
+        "මාමාගේ විනෝදාංශය කුමක්ද, සහ එයා ඒක කරන්නේ කවදාද?",
+        "නෑනා මස්සිනාලා ඒක ගැන කුමක් හිතනවාද?",
+        "'මම කුරුල්ලෝ බලන්නේ නෑ, මම ඒවාට සවන් දෙනවා' කියලා මාමා කියන්නේ ඇයි?",
+        "අන්තිමට ඔවුන් එච්චර හයියෙන් නොකියන්නේ ඇයි?"
+      ]
+    },
+    {
+      "type": "poem",
+      "title": "What I Like",
+      "titleSi": "මම කැමති දේ",
+      "introSi": "හැම පේළියකම -ing ස්වරූපය එනවා.",
+      "lines": [
+        {
+          "en": "I like walking in the rain,",
+          "si": "මම වැස්සේ ඇවිදින්න කැමතියි,"
+        },
+        {
+          "en": "I love sitting by the sea.",
+          "si": "මුහුද ළඟ ඉඳගන්න ගොඩක් කැමතියි."
+        },
+        {
+          "en": "I don't mind waiting for a bus —",
+          "si": "බස් එකට බලාගෙන ඉන්න එකේ කමක් නෑ —"
+        },
+        {
+          "en": "It gives the day to me.",
+          "si": "එය දවස මට දෙනවා."
+        },
+        {
+          "en": "",
+          "si": ""
+        },
+        {
+          "en": "But I hate hurrying at dawn,",
+          "si": "හැබැයි උදේ ඉක්මන් වෙන එකට මම පිළිකුලයි,"
+        },
+        {
+          "en": "And phones that never stop.",
+          "si": "සහ කවදාවත් නවතින්නේ නැති දුරකථනවලට."
+        },
+        {
+          "en": "I'd like to keep one quiet hour",
+          "si": "නිශ්ශබ්ද පැයක් තියාගන්න මට ඕන"
+        },
+        {
+          "en": "Before the world wakes up.",
+          "si": "ලෝකය අවදි වෙන්න කලින්."
+        }
+      ],
+      "noteSi": "අන්තිම කොටසේ 'I'd like to keep' — 'would like' සමඟ 'to' යෙදෙනවා, -ing නෙවෙයි. පළමු කොටසේ 'I like walking' — -ing. වෙනස බලන්න."
+    },
+    {
+      "type": "dialogue",
+      "title": "What do you do at the weekend?",
+      "titleSi": "සති අන්තයේ ඔබ මොනවද කරන්නේ?",
+      "settingSi": "සගයෝ දෙන්නෙක් නිදහස් කාලය ගැන කථා කරනවා. හේතුවක් සමඟ පිළිතුරු දෙන ආකාරය බලන්න.",
+      "lines": [
+        {
+          "speaker": "Tharu",
+          "en": "What do you like doing at the weekend?",
+          "si": "සති අන්තයේ ඔබ මොනවා කරන්න කැමතිද?"
+        },
+        {
+          "speaker": "Ravi",
+          "en": "I like cycling. It's quiet, and I don't have to talk to anybody.",
+          "si": "මම බයිසිකල් පදින්න කැමතියි. එය නිශ්ශබ්දයි, කාත් එක්කවත් කථා කරන්න ඕන නෑ."
+        },
+        {
+          "speaker": "Tharu",
+          "en": "Really? I hate cycling. I prefer swimming.",
+          "si": "ඇත්තද? මම බයිසිකල් පදින්න පිළිකුලයි. මම පිහිනන්න වඩා කැමතියි."
+        },
+        {
+          "speaker": "Ravi",
+          "en": "Why don't you like it?",
+          "si": "ඔබ ඒකට අකැමති ඇයි?"
+        },
+        {
+          "speaker": "Tharu",
+          "en": "Because of the traffic. I don't mind the hills, but I hate the noise.",
+          "si": "රථවාහන නිසා. කඳු ගැන කමක් නෑ, හැබැයි ඝෝෂාවට මම පිළිකුලයි."
+        },
+        {
+          "speaker": "Ravi",
+          "en": "That's fair. Do you swim every week?",
+          "si": "ඒක සාධාරණයි. ඔබ හැම සතියෙම පිහිනනවාද?"
+        },
+        {
+          "speaker": "Tharu",
+          "en": "Twice a week, usually. Would you like to come one day?",
+          "si": "සාමාන්‍යයෙන් සතියකට දෙපාරක්. දවසක් එන්න කැමතිද?"
+        }
+      ]
+    },
+    {
+      "type": "practice",
+      "title": "Add -ing where it belongs",
+      "titleSi": "-ing යන තැනට එකතු කරන්න",
+      "instructionSi": "වරහන් තුළ ඇති ක්‍රියාවේ නිවැරදි ස්වරූපය ලියන්න.",
+      "items": [
+        {
+          "prompt": "I love ___ (read) before bed.",
+          "answer": "reading",
+          "hintSi": "love + -ing.",
+          "full": "I love reading before bed."
+        },
+        {
+          "prompt": "She hates ___ (wait) in queues.",
+          "answer": "waiting",
+          "hintSi": "hate + -ing.",
+          "full": "She hates waiting in queues."
+        },
+        {
+          "prompt": "We don't mind ___ (walk) home.",
+          "answer": "walking",
+          "hintSi": "don't mind + -ing.",
+          "full": "We don't mind walking home."
+        },
+        {
+          "prompt": "I would like ___ (see) that film.",
+          "answer": "to see",
+          "hintSi": "'would like' සමඟ 'to'.",
+          "full": "I would like to see that film."
+        },
+        {
+          "prompt": "Does he like ___ (cook)?",
+          "answer": "cooking",
+          "hintSi": "like + -ing.",
+          "full": "Does he like cooking?"
+        },
+        {
+          "prompt": "They prefer ___ (stay) at home.",
+          "answer": "staying",
+          "hintSi": "prefer + -ing.",
+          "full": "They prefer staying at home."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "en": "hobby",
+      "si": "විනෝදාංශය"
+    },
+    {
+      "en": "music",
+      "si": "සංගීතය"
+    },
+    {
+      "en": "song",
+      "si": "ගීතය"
+    },
+    {
+      "en": "film",
+      "si": "චිත්‍රපටය"
+    },
+    {
+      "en": "draw",
+      "si": "චිත්‍ර අඳිනවා"
+    },
+    {
+      "en": "collect",
+      "si": "එකතු කරනවා"
+    },
+    {
+      "en": "dance",
+      "si": "නටනවා"
+    },
+    {
+      "en": "cycling",
+      "si": "බයිසිකල් පැදීම"
+    },
+    {
+      "en": "fishing",
+      "si": "මාළු බෑම"
+    },
+    {
+      "en": "free time",
+      "si": "නිදහස් කාලය"
+    },
+    {
+      "en": "boring",
+      "si": "කම්මැලි"
+    },
+    {
+      "en": "interesting",
+      "si": "රසවත්"
+    },
+    {
+      "en": "relaxing",
+      "si": "සැහැල්ලු"
+    },
+    {
+      "en": "noise",
+      "si": "ඝෝෂාව"
+    },
+    {
+      "en": "patient",
+      "si": "ඉවසිලිවන්ත"
+    },
+    {
+      "en": "reason",
+      "si": "හේතුව"
+    },
+    {
+      "en": "prefer",
+      "si": "වඩා කැමතියි"
+    },
+    {
+      "en": "notebook",
+      "si": "සටහන් පොත"
+    },
+    {
+      "en": "village",
+      "si": "ගම"
+    },
+    {
+      "en": "agree",
+      "si": "එකඟ වෙනවා"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "a1-11-q1",
+      "q": "'මම පිහිනන්න කැමතියි' — නිවැරදි ඉංග්‍රීසිය?",
+      "options": [
+        "I like swim.",
+        "I like swimming.",
+        "I like swims.",
+        "I am like swimming."
+      ],
+      "answer": 1,
+      "explainSi": "ක්‍රියා දෙකක් එකට එද්දී මැදට යමක් ඕන: -ing හෝ to. 'I like to swim' කිව්වත් හරි.",
+      "speak": "I like swimming."
+    },
+    {
+      "id": "a1-11-q2",
+      "q": "'I like swim' වැරදි වන්නේ ඇයි?",
+      "options": [
+        "'swim' අවිධිමත් නිසා",
+        "ක්‍රියා දෙකක් අතර -ing හෝ to අවශ්‍ය නිසා",
+        "'like' සමඟ ක්‍රියා යෙදිය නොහැකි නිසා",
+        "'I' සමඟ 'like' යෙදිය නොහැකි නිසා"
+      ],
+      "answer": 1,
+      "explainSi": "සිංහලෙන් 'පිහිනන්න කැමතියි' කියලා කෙළින්ම කියනවා. ඉංග්‍රීසියෙන් මැදට යමක් ඕන."
+    },
+    {
+      "id": "a1-11-q3",
+      "q": "'She ___ cooking.' — හිස්තැනට?",
+      "options": [
+        "like",
+        "likes",
+        "liking",
+        "is like"
+      ],
+      "answer": 1,
+      "explainSi": "She සමඟ -s: likes. ගිය පාඩමේ නීතිය මෙතනත් අදාළයි.",
+      "speak": "She likes cooking."
+    },
+    {
+      "id": "a1-11-q4",
+      "q": "'I would like ___ that film.' — හිස්තැනට?",
+      "options": [
+        "seeing",
+        "to see",
+        "see",
+        "sees"
+      ],
+      "answer": 1,
+      "explainSi": "'would like' සමඟ හැම විටම 'to' — -ing නෙවෙයි.",
+      "speak": "I would like to see that film."
+    },
+    {
+      "id": "a1-11-q5",
+      "q": "'I like tea' සහ 'I would like tea' අතර වෙනස?",
+      "options": [
+        "වෙනසක් නෑ",
+        "පළමුවැන්න පුරුද්දක්, දෙවැන්න දැන් ඉල්ලීමක්",
+        "පළමුවැන්න ආචාරශීලීයි",
+        "දෙවැන්න අතීතය"
+      ],
+      "answer": 1,
+      "explainSi": "'I like tea' — මම හැම විටම තේට කැමතියි. 'I would like tea' — දැන් මට තේ ඕන."
+    },
+    {
+      "id": "a1-11-q6",
+      "q": "'don't mind' කියන්නේ මොකක්ද?",
+      "options": [
+        "ගොඩක් කැමතියි",
+        "පිළිකුලයි",
+        "කමක් නෑ — කැමැත්තත් අකැමැත්තත් නෑ",
+        "තේරෙන්නේ නෑ"
+      ],
+      "answer": 2,
+      "explainSi": "'I don't mind waiting' — බලාගෙන ඉන්න එකේ ප්‍රශ්නයක් නෑ."
+    },
+    {
+      "id": "a1-11-q7",
+      "q": "'ඔවුන් උදෙන් නැගිටින්න පිළිකුලයි' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "They hate get up early.",
+        "They hate getting up early.",
+        "They hates getting up early.",
+        "They are hate getting up early."
+      ],
+      "answer": 1,
+      "explainSi": "hate + -ing, සහ 'They' සමඟ -s නෑ.",
+      "speak": "They hate getting up early."
+    },
+    {
+      "id": "a1-11-q8",
+      "q": "'I prefer tea ___ coffee.' — හිස්තැනට?",
+      "options": [
+        "than",
+        "to",
+        "from",
+        "over than"
+      ],
+      "answer": 1,
+      "explainSi": "'prefer A to B' — ඉංග්‍රීසියේ මෙතන 'than' නෙවෙයි 'to'.",
+      "speak": "I prefer tea to coffee."
+    },
+    {
+      "id": "a1-11-q9",
+      "q": "'Does he like ___?' — හිස්තැනට ගැළපෙන්නේ?",
+      "options": [
+        "draws",
+        "drawing",
+        "draw",
+        "to drawing"
+      ],
+      "answer": 1,
+      "explainSi": "like + -ing. 'to drawing' කියලා දෙකම එකට යෙදෙන්නේ නෑ.",
+      "speak": "Does he like drawing?"
+    },
+    {
+      "id": "a1-11-q10",
+      "q": "'What do you like doing?' සහ 'What are you doing?' අතර වෙනස?",
+      "options": [
+        "වෙනසක් නෑ",
+        "පළමුවැන්න පුරුදු ගැන, දෙවැන්න දැන් මේ මොහොත ගැන",
+        "පළමුවැන්න අනාගතය ගැන",
+        "දෙවැන්න වඩා ආචාරශීලීයි"
+      ],
+      "answer": 1,
+      "explainSi": "'What do you like doing?' — සාමාන්‍යයෙන් මොනවද කරන්න කැමති. 'What are you doing?' — දැන් මොකද කරන්නේ."
+    },
+    {
+      "id": "a1-11-q11",
+      "context": "My uncle Gamini is sixty years old, and he has one hobby. He likes watching birds. Every Saturday he sits under the same tree with an old notebook.",
+      "contextSi": "මගේ මාමා ගාමිණීට අවුරුදු හැටයි, එයාට විනෝදාංශයක් තියෙනවා. එයා කුරුල්ලෝ බලන්න කැමතියි. හැම සෙනසුරාදාම එයා පරණ සටහන් පොතක් අරගෙන එකම ගහ යට ඉඳගන්නවා.",
+      "q": "කතාව අනුව: මාමා තමන්ගේ විනෝදාංශය කරන්නේ කවදාද?",
+      "options": [
+        "හැම දාම",
+        "හැම සෙනසුරාදාම",
+        "හැම ඉරිදාම",
+        "මාසෙකට එකපාරක්"
+      ],
+      "answer": 1,
+      "explainSi": "'Every Saturday he sits under the same tree'."
+    },
+    {
+      "id": "a1-11-q12",
+      "context": "My cousins think this is boring. \"He doesn't do anything,\" they say. \"He just sits.\" They prefer playing cricket, and they never sit still.",
+      "contextSi": "මගේ නෑනා මස්සිනාලා හිතන්නේ මේක කම්මැලියි කියලා. \"එයා කිසිම දෙයක් කරන්නේ නෑ,\" ඔවුන් කියනවා. \"එයා ඉඳගෙන ඉන්නවා විතරයි.\" ඔවුන් ක්‍රිකට් ගහන්න වඩා කැමතියි, කවදාවත් නිශ්චලව ඉන්නේ නෑ.",
+      "q": "කතාව අනුව: නෑනා මස්සිනාලා වඩා කැමති කුමකටද?",
+      "options": [
+        "කුරුල්ලෝ බැලීමට",
+        "ක්‍රිකට් ගැසීමට",
+        "කියවීමට",
+        "නිශ්චලව ඉඳීමට"
+      ],
+      "answer": 1,
+      "explainSi": "'They prefer playing cricket'."
+    },
+    {
+      "id": "a1-11-q13",
+      "context": "\"I don't watch birds,\" he told me once. \"I listen to them. Watching is the easy part.\"",
+      "contextSi": "\"මම කුරුල්ලෝ බලන්නේ නෑ,\" එයා වරක් මට කිව්වා. \"මම ඒවාට සවන් දෙනවා. බලන එක ලේසි කොටස.\"",
+      "q": "කතාව අනුව: මාමා මෙසේ කියන්නෙන් අදහස් කරන්නේ කුමක්ද?",
+      "options": [
+        "එයාට ඇස් පේන්නේ නෑ",
+        "එයාගේ විනෝදාංශය පෙනෙනවාට වඩා ගැඹුරුයි — හඬ හඳුනාගැනීම වඩා අමාරුයි",
+        "එයා කුරුල්ලෝ බලන්නේම නෑ",
+        "එයාට කථා කරන්න කැමැත්තක් නෑ"
+      ],
+      "answer": 1,
+      "explainSi": "'Watching is the easy part' — ඇත්තටම කරන්නේ සවන් දීම, ඒක වඩා දක්ෂතාවක්."
+    },
+    {
+      "id": "a1-11-q14",
+      "context": "She needed old records of the birds, and nobody had any. Then somebody remembered my uncle. She read his notebook for three days. Now his name is in her report.",
+      "contextSi": "එයාට කුරුල්ලන්ගේ පරණ වාර්තා ඕන වුණා, කාටවත් තිබුණේ නෑ. එතකොට කාටහරි මාමා මතක් වුණා. එයා දවස් තුනක් එයාගේ සටහන් පොත කියෙව්වා. දැන් එයාගේ නම එයාගේ වාර්තාවේ තියෙනවා.",
+      "q": "කතාව අනුව: ශිෂ්‍යාවට මාමාගේ සටහන් පොත වැදගත් වුණේ ඇයි?",
+      "options": [
+        "එය ලස්සනට ලියලා තිබූ නිසා",
+        "වෙන කාටවත් පරණ වාර්තා නොතිබූ නිසා",
+        "එයා මාමාව දැනගෙන සිටි නිසා",
+        "එයාට ගම ගැන දැනගන්න ඕන වූ නිසා"
+      ],
+      "answer": 1,
+      "explainSi": "'nobody had any' — අවුරුදු ගණනක් එකතු කළ දත්ත වෙන කිසිවෙකුට තිබුණේ නෑ."
+    },
+    {
+      "id": "a1-11-q15",
+      "context": "My cousins still think the hobby is boring, but they do not say it so loudly.",
+      "contextSi": "මගේ නෑනා මස්සිනාලා තාමත් හිතන්නේ ඒක කම්මැලියි කියලා, හැබැයි දැන් ඒක එච්චර හයියෙන් කියන්නේ නෑ.",
+      "q": "කතාව අනුව: අන්තිම වාක්‍යයෙන් අදහස් වන්නේ කුමක්ද?",
+      "options": [
+        "ඔවුන් අදහස සම්පූර්ණයෙන් වෙනස් කළා",
+        "ඔවුන්ගේ අදහස තාම එකයි, නමුත් දැන් ටිකක් ලැජ්ජාවක් තියෙනවා",
+        "ඔවුන් තවදුරටත් කථා කරන්නේ නෑ",
+        "ඔවුන් දැන් කුරුල්ලෝ බලනවා"
+      ],
+      "answer": 1,
+      "explainSi": "'still think … but do not say it so loudly' — අදහස වෙනස් වෙලා නෑ, විශ්වාසය අඩු වෙලා."
+    },
+    {
+      "id": "a1-11-q16",
+      "context": "I like walking in the rain, / I love sitting by the sea. / I don't mind waiting for a bus — / It gives the day to me.",
+      "contextSi": "මම වැස්සේ ඇවිදින්න කැමතියි, / මුහුද ළඟ ඉඳගන්න ගොඩක් කැමතියි. / බස් එකට බලාගෙන ඉන්න එකේ කමක් නෑ — / එය දවස මට දෙනවා.",
+      "q": "කවියේ 'It gives the day to me' කියන්නෙන් අදහස් වන්නේ?",
+      "options": [
+        "බස් එක නොමිලේ",
+        "බලාගෙන ඉන්න වෙලාව එයාට තමන්ගේම වෙලාවක් වෙනවා",
+        "දවස ඉක්මනට යනවා",
+        "එයාට වැඩට යන්න ඕන නෑ"
+      ],
+      "answer": 1,
+      "explainSi": "බලාගෙන ඉන්න එක නාස්තියක් නෙවෙයි — එය නිශ්ශබ්ද වෙලාවක් විදිහට එයා දකිනවා."
+    },
+    {
+      "id": "a1-11-q17",
+      "context": "I'd like to keep one quiet hour / Before the world wakes up.",
+      "contextSi": "නිශ්ශබ්ද පැයක් තියාගන්න මට ඕන / ලෝකය අවදි වෙන්න කලින්.",
+      "q": "කවියේ මෙතන 'to keep' යෙදෙන්නේ ඇයි, 'keeping' නොවේ?",
+      "options": [
+        "පදවැල ගැළපෙන්න",
+        "'I'd like' යනු 'I would like' — එය සමඟ හැම විටම 'to'",
+        "'keep' අවිධිමත් නිසා",
+        "අනාගතය ගැන නිසා"
+      ],
+      "answer": 1,
+      "explainSi": "කවියේ පළමු කොටසේ 'I like walking' (-ing), අන්තිමේ 'I'd like to keep' (to). වෙනස මෙතන පේනවා."
+    },
+    {
+      "id": "a1-11-q18",
+      "context": "Tharu: Because of the traffic. I don't mind the hills, but I hate the noise.",
+      "contextSi": "තරු: රථවාහන නිසා. කඳු ගැන කමක් නෑ, හැබැයි ඝෝෂාවට මම පිළිකුලයි.",
+      "q": "සංවාදයේ: තරු බයිසිකල් පදින්න අකැමති ඇයි?",
+      "options": [
+        "කඳු නිසා",
+        "රථවාහන සහ ඝෝෂාව නිසා",
+        "බයිසිකලයක් නැති නිසා",
+        "එයාට පිහිනන්න ඕන නිසා"
+      ],
+      "answer": 1,
+      "explainSi": "'Because of the traffic … I hate the noise.' කඳු ගැන එයාට ප්‍රශ්නයක් නෑ."
+    },
+    {
+      "id": "a1-11-q19",
+      "q": "'Why don't you like it?' යන ප්‍රශ්නය අහන්නේ මොකක්ද?",
+      "options": [
+        "ඔබට ඒක කරන්න බැරි ඇයි?",
+        "ඔබ ඒකට අකැමති හේතුව කුමක්ද?",
+        "ඔබ ඒක කරන්නේ නැත්තේ ඇයි?",
+        "ඔබට ඒක ඕන නැද්ද?"
+      ],
+      "answer": 1,
+      "explainSi": "හේතුවක් අහනවා. පිළිතුරු දෙන්න 'Because …' කියලා පටන් ගන්නවා."
+    },
+    {
+      "id": "a1-11-q20",
+      "q": "කුමන වාක්‍යය වැරදිද?",
+      "options": [
+        "I love listening to music.",
+        "She doesn't like waiting.",
+        "We would like swimming tomorrow.",
+        "They prefer staying at home."
+      ],
+      "answer": 2,
+      "explainSi": "'would like' සමඟ 'to': 'We would like to swim tomorrow'."
+    },
+    {
+      "id": "a1-11-q21",
+      "q": "'මම උයන එකේ කමක් නෑ, හැබැයි පිඟන් හෝදන එකට පිළිකුලයි' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "I don't mind cook, but I hate wash the dishes.",
+        "I don't mind cooking, but I hate washing the dishes.",
+        "I don't mind cooking, but I hate to washing the dishes.",
+        "I not mind cooking, but I hate washing the dishes."
+      ],
+      "answer": 1,
+      "explainSi": "දෙකටම -ing. 'to washing' කියලා දෙකම එකට යෙදෙන්නේ නෑ.",
+      "speak": "I don't mind cooking, but I hate washing the dishes."
+    },
+    {
+      "id": "a1-11-q22",
+      "q": "කැමති දේ ගැන අහද්දී වඩාත් ස්වාභාවික ප්‍රශ්නය?",
+      "options": [
+        "What is your like?",
+        "What do you like doing in your free time?",
+        "What you like to do?",
+        "Which thing you like?"
+      ],
+      "answer": 1,
+      "explainSi": "'What do you like doing …?' යනු සම්මත ක්‍රමය. do + like + -ing.",
+      "speak": "What do you like doing in your free time?"
+    }
+  ]
+}

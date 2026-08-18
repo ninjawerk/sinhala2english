@@ -1,0 +1,152 @@
+{
+  "quiz": [
+    {
+      "id": "u4c-cp-q1",
+      "q": "Future continuous හැදෙන්නේ කොහොමද?",
+      "options": ["will + -ing", "will be + -ing", "will have + -ing", "going to + -ing"],
+      "answer": 1,
+      "explainSi": "will + be + -ing. 'be' අවශ්‍යයි."
+    },
+    {
+      "id": "u4c-cp-q2",
+      "q": "'හෙට මේ වෙලාවේ මම ගුවනින් යනවා' — කොහොමද?",
+      "options": [
+        "This time tomorrow I will fly.",
+        "This time tomorrow I will be flying.",
+        "This time tomorrow I will flying.",
+        "This time tomorrow I am flying now."
+      ],
+      "answer": 1,
+      "explainSi": "ඒ මොහොතේ මැදින් — will be flying.",
+      "speak": "This time tomorrow I will be flying."
+    },
+    {
+      "id": "u4c-cp-q3",
+      "q": "කුමන එක වැරදිද?",
+      "options": [
+        "When you come, call me.",
+        "When you will come, call me.",
+        "I'll wait until she arrives.",
+        "As soon as he leaves, tell me."
+      ],
+      "answer": 1,
+      "explainSi": "when, while, until, as soon as — මේවාට පස්සේ will යෙදෙන්නේ නෑ."
+    },
+    {
+      "id": "u4c-cp-q4",
+      "q": "සම්මුඛ පරීක්ෂණයකට වඩාත් ආචාරශීලී එක?",
+      "options": [
+        "I want to be a manager.",
+        "I would like to become a manager.",
+        "I will be a manager.",
+        "I must be a manager."
+      ],
+      "answer": 1,
+      "explainSi": "'would like to' ආචාරශීලීයි."
+    },
+    {
+      "id": "u4c-cp-q5",
+      "q": "'I'm looking forward to ___ you.' — හිස් තැනට?",
+      "options": ["meet", "meeting", "met", "to meet"],
+      "answer": 1,
+      "explainSi": "මේ 'to' එකට පස්සේ -ing.",
+      "speak": "I'm looking forward to meeting you."
+    },
+    {
+      "id": "u4c-cp-q6",
+      "q": "හිස් තැනට: 'I'm saving money ___ I can go next year.'",
+      "options": ["because", "so that", "in order", "for"],
+      "answer": 1,
+      "explainSi": "අරමුණ + can — 'so that'."
+    },
+    {
+      "id": "u4c-cp-q7",
+      "q": "කුමන එක වැරදිද?",
+      "options": [
+        "I came here to study.",
+        "I came here in order to study.",
+        "I came here for study.",
+        "I came here for my studies."
+      ],
+      "answer": 2,
+      "explainSi": "අරමුණ කියන්න 'to study'; 'for' එකට පස්සේ නාම පදයක්."
+    },
+    {
+      "id": "u4c-cp-q8",
+      "q": "'probably' යන්නේ කොහෙද?",
+      "options": [
+        "will එකට කලින්, won't එකට පස්සේ",
+        "will එකට පස්සේ, won't එකට කලින්",
+        "හැමවිටම වාක්‍යය අගට",
+        "හැමවිටම වාක්‍යය මුලට"
+      ],
+      "answer": 1,
+      "explainSi": "She will probably come. / She probably won't come."
+    },
+    {
+      "id": "u4c-cp-q9",
+      "q": "'might' එකට පස්සේ එන්නේ?",
+      "options": ["to + ක්‍රියාව", "මූලික ක්‍රියාව", "-ing", "past participle"],
+      "answer": 1,
+      "explainSi": "might + go. 'might to go' වැරදියි."
+    },
+    {
+      "id": "u4c-cp-q10",
+      "q": "'maybe' සාමාන්‍යයෙන් යන්නේ කොහෙද?",
+      "options": ["වාක්‍යය මුලට", "ක්‍රියාවට පස්සේ", "subject එකට පස්සේ", "will එකට පස්සේ"],
+      "answer": 0,
+      "explainSi": "maybe ක්‍රියා විශේෂණයක් — 'Maybe she is at home.'"
+    },
+    {
+      "id": "u4c-cp-q11",
+      "q": "'must' කියන අනුමානයේ විරුද්ධ පැත්ත?",
+      "options": ["mustn't", "can't", "don't have to", "shouldn't"],
+      "answer": 1,
+      "explainSi": "'It can't be true.' — mustn't කියන්නේ 'කරන්න එපා'."
+    },
+    {
+      "id": "u4c-cp-q12",
+      "q": "'ලයිට් දාලා, ඒ නිසා ඇතුළේ කවුරු හරි ඇති' — කොහොමද?",
+      "options": [
+        "Somebody must be inside.",
+        "Somebody must inside.",
+        "Somebody can be inside.",
+        "Somebody mustn't be inside."
+      ],
+      "answer": 0,
+      "explainSi": "must + be.",
+      "speak": "The lights are on, so somebody must be inside."
+    },
+    {
+      "id": "u4c-cp-q13",
+      "q": "අතීතය ගැන අනුමානයක් කරන රටාව?",
+      "options": [
+        "must + had + past participle",
+        "must + have + past participle",
+        "must + was + -ing",
+        "must + to have"
+      ],
+      "answer": 1,
+      "explainSi": "'She must have missed the bus.'"
+    },
+    {
+      "id": "u4c-cp-q14",
+      "q": "නිශ්චිතභාවය අනුව පිළිවෙළ?",
+      "options": [
+        "must be → might be → can't be",
+        "can't be → might be → must be",
+        "might be → must be → can't be",
+        "must be → can't be → might be"
+      ],
+      "answer": 0,
+      "explainSi": "must be (95%) → might be (50%) → can't be (5%)."
+    },
+    {
+      "id": "u4c-cp-q15",
+      "q": "හිස් තැනට: 'Don't call at seven — I ___.'",
+      "options": ["will drive", "will be driving", "drive", "am driving now"],
+      "answer": 1,
+      "explainSi": "ඒ මොහොතේ මම එළවමින් ඉන්නවා."
+    }
+  ]
+}

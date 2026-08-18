@@ -1,0 +1,907 @@
+{
+  "hero": {
+    "src": "images/a2-08-hero.webp",
+    "alt": "Nadeesha looking at her own reflection in a bathroom mirror while fixing an earring, warm morning light, tiled wall."
+  },
+  "goalsSi": [
+    "myself, yourself, himself... — reflexive සර්වනාම",
+    "ක්‍රියාව කරන කෙනාම ලබන කෙනා වන විට reflexive යෙදෙන බව",
+    "අවශ්‍ය නැති තැන reflexive යොදන එක නවත්වන ආකාරය",
+    "each other / one another — දෙදෙනෙක් අතර ක්‍රියාවක් සඳහා",
+    "අවධාරණයට reflexive යෙදීම — I did it myself",
+    "by myself — තනියම යන අර්ථය"
+  ],
+  "goals": [
+    "Use reflexive pronouns correctly",
+    "Know when not to use one",
+    "Use each other for two-way actions",
+    "Use a reflexive for emphasis",
+    "Use by myself to mean alone"
+  ],
+  "sections": [
+    {
+      "type": "note",
+      "title": "Only when it bounces back",
+      "titleSi": "ආපහු එනවා නම් විතරයි",
+      "bodySi": "reflexive සර්වනාමයක් (myself, yourself...) යෙදෙන්නේ ක්‍රියාව කරන කෙනාම ඒ ක්‍රියාව ලබන කෙනා වුණාම විතරයි — ක්‍රියාව 'ආපහු ගැහෙනවා' කෙනා ළඟටම.\n\nHe cut himself while cooking. — කැපුවේ එයාම, කැපුණේත් එයාටම.\nShe looked at herself in the mirror. — බැලුවේ එයාම, බැලුවේත් එයාවම.\n\nහැබැයි සිංහල කථා කරන අය නිතරම reflexive එකතු කරනවා අවශ්‍ය නැති තැනටත්:\n\nI feel myself good. ✗\nI feel good. ✓\n\n'feel', 'relax' වගේ ක්‍රියා ඉංග්‍රීසියේ reflexive එකක් ඉල්ලන්නේ නෑ — ඒවා දැනටමත් තමන් ගැනම කථා කරන ක්‍රියා. reflexive එකතු කරන්න ඕන එකක් ඇතුළේ ක්‍රියාව 'ආපහු ගැහෙනවා' කියලා පේනවා නම් විතරයි — cut, hurt, blame, introduce, enjoy වගේ ක්‍රියාවලට.",
+      "body": "Add a reflexive only when the action genuinely returns to the doer."
+    },
+    {
+      "type": "grammar",
+      "title": "myself, yourself, himself…",
+      "titleSi": "myself, yourself, himself…",
+      "explainSi": "සර්වනාමය අනුව reflexive එකේ ස්වරූපය වෙනස් වෙනවා. එකක් (myself) හෝ බොහෝ දෙනෙක් (ourselves) අනුවත් වෙනස් වෙනවා.",
+      "formula": "I → myself · you → yourself/yourselves · he → himself · she → herself · it → itself · we → ourselves · they → themselves",
+      "table": {
+        "headers": [
+          "සර්වනාමය",
+          "reflexive",
+          "උදාහරණය"
+        ],
+        "rows": [
+          [
+            "I",
+            "myself",
+            "I cut myself with the knife."
+          ],
+          [
+            "you (එකෙක්)",
+            "yourself",
+            "Did you hurt yourself?"
+          ],
+          [
+            "he",
+            "himself",
+            "He introduced himself to the class."
+          ],
+          [
+            "she",
+            "herself",
+            "She made herself a cup of tea."
+          ],
+          [
+            "it",
+            "itself",
+            "The cat cleaned itself."
+          ],
+          [
+            "we",
+            "ourselves",
+            "We enjoyed ourselves at the party."
+          ],
+          [
+            "you (කිහිප දෙනෙක්)",
+            "yourselves",
+            "Help yourselves to some food."
+          ],
+          [
+            "they",
+            "themselves",
+            "The children dressed themselves."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "Be careful with that knife — you could cut yourself.",
+          "si": "ඒ පිහියෙන් පරිස්සමින් — ඔබවම කැපිය හැක."
+        },
+        {
+          "en": "My grandmother still looks after herself, at eighty.",
+          "si": "මගේ ආච්චි අවුරුදු අසූවේදීත් තමන් ගැන තමන්ම බලාගන්නවා."
+        },
+        {
+          "en": "We really enjoyed ourselves at the wedding.",
+          "si": "අපි මංගල උත්සවයේදී හරිම සතුටු වුණා."
+        }
+      ],
+      "watchOutSi": "'you' එකෙක් නම් 'yourself', කිහිප දෙනෙක් නම් 'yourselves' — වෙනස මතක තියාගන්න."
+    },
+    {
+      "type": "grammar",
+      "title": "When not to use one",
+      "titleSi": "reflexive එකක් අවශ්‍ය නොවන තැන්",
+      "explainSi": "'feel', 'relax', 'wake up', 'sit down', 'get up', 'concentrate' වගේ ක්‍රියා දැනටමත් තමන් ගැනම — reflexive එකක් ඕන නෑ. එකතු කළොත් රළු අමුතු ඉංග්‍රීසියක් වගේ ඇහෙනවා.",
+      "formula": "feel / relax / wake up / concentrate + adjective  (no reflexive)",
+      "table": {
+        "headers": [
+          "වැරදි",
+          "නිවැරදි",
+          "සිංහල"
+        ],
+        "rows": [
+          [
+            "I feel myself tired.",
+            "I feel tired.",
+            "මට මහන්සියි."
+          ],
+          [
+            "Please relax yourself.",
+            "Please relax.",
+            "කරුණාකර සැහැල්ලුවෙන් ඉන්න."
+          ],
+          [
+            "I woke myself up at six.",
+            "I woke up at six.",
+            "මම හයට අවදි වුණා."
+          ],
+          [
+            "Sit yourself down.",
+            "Sit down.",
+            "ඉඳගන්න."
+          ],
+          [
+            "Concentrate yourself.",
+            "Concentrate.",
+            "අවධානය යොමු කරන්න."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "I don't feel well today.",
+          "si": "අද මට හොඳ නෑ."
+        },
+        {
+          "en": "Just relax — there's plenty of time.",
+          "si": "සැහැල්ලුවෙන් ඉන්න — වෙලාව ගොඩක් තියෙනවා."
+        },
+        {
+          "en": "She woke up early and went for a walk.",
+          "si": "එයා කලින් අවදි වෙලා ඇවිදින්න ගියා."
+        }
+      ],
+      "watchOutSi": "පරීක්ෂාව: ක්‍රියාව 'යමකට යමක් කරනවා' කියලා පේනවා නම් reflexive ඕන (cut, hurt, blame). තමන්ගේම තත්ත්වයක් විස්තර කරනවා නම් (feel, relax, wake up) reflexive ඕන නෑ."
+    },
+    {
+      "type": "grammar",
+      "title": "each other — a two-way action",
+      "titleSi": "each other — දෙපැත්තටම යන ක්‍රියාවක්",
+      "explainSi": "reflexive එකෙන් ක්‍රියාව එකම කෙනා ළඟටම ආපහු එනවා. 'each other' එකෙන් ක්‍රියාව අය දෙදෙනෙක් අතර යනවා — කෙනෙක් අනිත් කෙනාට කරනවා, අනිත් කෙනා මෙයාට කරනවා.",
+      "formula": "A does X to B, and B does X to A → each other",
+      "table": {
+        "headers": [
+          "Reflexive",
+          "each other",
+          "වෙනස"
+        ],
+        "rows": [
+          [
+            "They looked at themselves.",
+            "They looked at each other.",
+            "තමන්ගේ පිළිබිඹුව / එකිනෙකා"
+          ],
+          [
+            "We blame ourselves.",
+            "We blame each other.",
+            "අපිටම දොස් / එකිනෙකාට දොස්"
+          ],
+          [
+            "The children hurt themselves.",
+            "The children hurt each other.",
+            "තමන්ටම රිදෙනවා / එකිනෙකාට රිදෙනවා"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "The old friends hugged each other at the airport.",
+          "si": "පරණ යාළුවෝ ගුවන්තොටුපොළේදී එකිනෙකාව බදාගත්තා."
+        },
+        {
+          "en": "We help each other with homework.",
+          "si": "අපි ගෙදර වැඩවලට එකිනෙකාට උදව් කරනවා."
+        },
+        {
+          "en": "They don't understand each other's language.",
+          "si": "ඔවුන්ට එකිනෙකාගේ භාෂාව තේරෙන්නේ නෑ."
+        }
+      ],
+      "watchOutSi": "'one another' කිව්වත් 'each other' කියන එකේම අර්ථයයි — දෙකම හරි, 'each other' වඩා පොදුයි."
+    },
+    {
+      "type": "grammar",
+      "title": "myself for emphasis, and by myself",
+      "titleSi": "අවධාරණයට myself, සහ by myself",
+      "explainSi": "reflexive සර්වනාමය තව ක්‍රම දෙකකින් යෙදෙනවා: 'මමම' කියලා අවධාරණය කරන්න (අනිත් කෙනෙක් නෙවෙයි), සහ 'by myself' කියලා 'තනියම' කියන අර්ථයට.",
+      "formula": "subject + verb + object + reflexive (emphasis)  ·  by + reflexive = alone",
+      "table": {
+        "headers": [
+          "වාක්‍යය",
+          "අර්ථය"
+        ],
+        "rows": [
+          [
+            "I did it myself.",
+            "මම කළා — කවුරුවත් උදව් කළේ නෑ"
+          ],
+          [
+            "She said so herself.",
+            "එයාම එහෙම කිව්වා — වෙන කවුරුවත් නෙවෙයි"
+          ],
+          [
+            "I live by myself.",
+            "මම තනියම ජීවත් වෙනවා"
+          ],
+          [
+            "He went to the shop by himself.",
+            "එයා තනියම කඩේට ගියා"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "I fixed the roof myself — I didn't call anyone.",
+          "si": "වහලය මමම හැදුවා — කවුරුවත් කැඳවුවේ නෑ."
+        },
+        {
+          "en": "My grandfather still travels by himself.",
+          "si": "මගේ සීයා තාමත් තනියම ගමන් කරනවා."
+        }
+      ],
+      "watchOutSi": "'alone' සහ 'by myself' දෙකම 'තනියම' කියන අර්ථයට යෙදෙනවා, නමුත් 'by myself' කථා බසේ වඩාත් සාමාන්‍යයි."
+    },
+    {
+      "type": "vocab",
+      "title": "Together and alone",
+      "titleSi": "එකට සහ තනියම",
+      "items": [
+        {
+          "en": "myself",
+          "si": "මාවම",
+          "say": "මයිසෙල්ෆ්"
+        },
+        {
+          "en": "yourself",
+          "si": "ඔබවම",
+          "say": "යුවර්සෙල්ෆ්"
+        },
+        {
+          "en": "himself",
+          "si": "එයාවම (පිරිමි)",
+          "say": "හිම්සෙල්ෆ්"
+        },
+        {
+          "en": "herself",
+          "si": "එයාවම (ගැහැණු)",
+          "say": "හර්සෙල්ෆ්"
+        },
+        {
+          "en": "ourselves",
+          "si": "අපිටම",
+          "say": "අවර්සෙල්ව්ස්"
+        },
+        {
+          "en": "themselves",
+          "si": "ඔවුන්ටම",
+          "say": "දෙම්සෙල්ව්ස්"
+        },
+        {
+          "en": "each other",
+          "si": "එකිනෙකා",
+          "say": "ඊච් අදර්"
+        },
+        {
+          "en": "by myself",
+          "si": "තනියම",
+          "say": "බයි මයිසෙල්ෆ්"
+        },
+        {
+          "en": "hurt",
+          "si": "රිදෙනවා / රිදවනවා",
+          "say": "හර්ට්"
+        },
+        {
+          "en": "cut",
+          "si": "කැපෙනවා / කපනවා",
+          "say": "කට්"
+        },
+        {
+          "en": "introduce",
+          "si": "හඳුන්වා දෙනවා",
+          "say": "ඉන්ට්‍රඩියුස්"
+        },
+        {
+          "en": "blame",
+          "si": "දොස් කියනවා",
+          "say": "බ්ලේම්"
+        },
+        {
+          "en": "hug",
+          "si": "බදාගන්නවා",
+          "say": "හග්"
+        },
+        {
+          "en": "look after",
+          "si": "බලාගන්නවා",
+          "say": "ලුක් ආෆ්ටර්"
+        },
+        {
+          "en": "proud",
+          "si": "ආඩම්බර",
+          "say": "ප්‍රවුඩ්"
+        },
+        {
+          "en": "twins",
+          "si": "නිවුන්නු",
+          "say": "ට්වින්ස්"
+        }
+      ]
+    },
+    {
+      "type": "story",
+      "title": "The Twins",
+      "titleSi": "නිවුන්නු",
+      "introSi": "නිවුන් සහෝදරයන් දෙදෙනෙක් ගැන කතාවක්. reflexive (themselves) සහ each other දෙකම එනවා — වෙනස බලාගෙන කියවන්න.",
+      "paragraphs": [
+        {
+          "en": "My cousins Sanduni and Sanuki are twins, and even at twenty-five, people still mix them up. The two of them stopped correcting people years ago.",
+          "si": "මගේ නෑනාවරු සඳුනි සහ සනුකි නිවුන්නු, අවුරුදු විසිපහේදීත් මිනිස්සු තාමත් ඔවුන්ව පටලවගන්නවා. දෙන්නා අවුරුදු ගණනකට කලින් මිනිස්සුන්ව නිවැරදි කිරීම නැවැත්තුවා."
+        },
+        {
+          "en": "They know each other better than anyone else does. Sanduni finishes Sanuki's sentences, and Sanuki always knows when her sister is not telling the truth.",
+          "si": "වෙන කවුරුවත්ට වඩා ඔවුන් එකිනෙකාව හොඳින් දන්නවා. සඳුනි සනුකිගේ වාක්‍ය අවසන් කරනවා, සනුකිට හැම විටම දැනගන්නවා අක්කාගේ නංගි ඇත්ත කියන්නේ නෑ කියලා."
+        },
+        {
+          "en": "When they were sixteen, they had a huge argument and did not speak to each other for three months. \"We both blamed ourselves afterwards,\" Sanuki told me. \"It felt like blaming half of myself.\"",
+          "si": "ඔවුන්ට අවුරුදු දාහයේදී, ලොකු තර්කයක් වුණා, මාස තුනක් එකිනෙකා එක්ක කථා කළේ නෑ. \"ඊට පස්සේ දෙන්නම තමන්ටම දොස් කිව්වා,\" සනුකි මට කිව්වා. \"මගේම බාගයකට දොස් කියනවා වගේ දැනුණා.\""
+        },
+        {
+          "en": "Now they live in different cities, each one by herself, which is new for both of them. \"I had to learn to look after myself,\" Sanduni says. \"I never had to before — Sanuki was always there.\"",
+          "si": "දැන් ඔවුන් වෙනස් නගරවල ජීවත් වෙනවා, දෙන්නම තනි තනියම, දෙන්නටම මේක අලුත් දෙයක්. \"මට තමන් ගැන තමන්ම බලාගන්න ඉගෙන ගන්න ඕන වුණා,\" සඳුනි කියනවා. \"මට කවදාවත් ඒක කරන්න ඕන වුණේ නෑ කලින් — සනුකි හැම විටම එතන හිටියා.\""
+        },
+        {
+          "en": "They call each other every single day, sometimes twice. \"We're proud of ourselves,\" Sanuki said, \"for learning to live apart. But we still finish each other's sentences on the phone.\"",
+          "si": "ඔවුන් හැම දාම එකිනෙකාට කථා කරනවා, සමහර වෙලාවට දෙපාරක්. \"අපි තමන් ගැනම ආඩම්බරයි,\" සනුකි කිව්වා, \"වෙන් වෙලා ජීවත් වෙන්න ඉගෙන ගත්ත එකට. හැබැයි තාමත් අපි දුරකථනයෙන් එකිනෙකාගේ වාක්‍ය අවසන් කරනවා.\""
+        }
+      ],
+      "glossary": [
+        {
+          "en": "twins",
+          "si": "නිවුන්නු"
+        },
+        {
+          "en": "mix up",
+          "si": "පටලවගන්නවා"
+        },
+        {
+          "en": "correct",
+          "si": "නිවැරදි කරනවා"
+        },
+        {
+          "en": "argument",
+          "si": "තර්කය"
+        },
+        {
+          "en": "afterwards",
+          "si": "ඊට පස්සේ"
+        },
+        {
+          "en": "apart",
+          "si": "වෙන් වෙලා"
+        },
+        {
+          "en": "proud",
+          "si": "ආඩම්බර"
+        }
+      ],
+      "questionsSi": [
+        "සඳුනි සහ සනුකි එකිනෙකාව හඳුනාගන්නේ කොහොමද?",
+        "අවුරුදු දාහයේදී මොකද වුණේ?",
+        "'මගේම බාගයකට දොස් කියනවා වගේ' කියලා සනුකි කියන්නේ ඇයි?",
+        "දැන් ඔවුන්ගේ ජීවිතේ අලුතින් තියෙන දෙය මොකක්ද?"
+      ]
+    },
+    {
+      "type": "poem",
+      "title": "Two Chairs",
+      "titleSi": "පුටු දෙකක්",
+      "introSi": "reflexive සහ each other දෙකම එන කවියක්.",
+      "lines": [
+        {
+          "en": "We used to talk to ourselves out loud,",
+          "si": "අපි හයියෙන් තමන්ටම කථා කරමින් හිටියා,"
+        },
+        {
+          "en": "Two chairs, an empty room.",
+          "si": "පුටු දෙකක්, හිස් කාමරයක්."
+        },
+        {
+          "en": "Now we talk to each other instead —",
+          "si": "දැන් ඒ වෙනුවට එකිනෙකාට කථා කරනවා —"
+        },
+        {
+          "en": "One chair is enough room.",
+          "si": "පුටුවක් ඇති ඉඩ."
+        },
+        {
+          "en": "",
+          "si": ""
+        },
+        {
+          "en": "I used to blame myself at night,",
+          "si": "රෑට මම තමන්ටම දොස් කිව්වා,"
+        },
+        {
+          "en": "Now you're the one I tell.",
+          "si": "දැන් මම කියන්නේ ඔබටයි."
+        },
+        {
+          "en": "We help each other through the dark —",
+          "si": "අඳුරේදී අපි එකිනෙකාට උදව් කරනවා —"
+        },
+        {
+          "en": "Two people do it well.",
+          "si": "දෙන්නෙක් හොඳට කරනවා."
+        }
+      ],
+      "noteSi": "'talk to ourselves' (තනි කෙනෙක් තමන්ටම) සහ 'talk to each other' (දෙදෙනෙක් අතර) — කවියේ අදහසම මේ වෙනසයි."
+    },
+    {
+      "type": "dialogue",
+      "title": "Did you hurt yourself?",
+      "titleSi": "ඔබටම රිදුණාද?",
+      "settingSi": "පිසීමේදී අනතුරක්. myself/yourself සහ 'not myself' බලාගෙන කියවන්න.",
+      "lines": [
+        {
+          "speaker": "Kavindi",
+          "en": "Ow! I just cut myself with this knife.",
+          "si": "අඃ! මේ පිහියෙන් මාවම කැපුණා."
+        },
+        {
+          "speaker": "Thushan",
+          "en": "Are you okay? Let me see.",
+          "si": "ඔබට හොඳද? බලන්න."
+        },
+        {
+          "speaker": "Kavindi",
+          "en": "It's not too bad. I don't feel great, though.",
+          "si": "එච්චර නරක නෑ. හැබැයි මට ගොඩක් හොඳ දැනෙන්නේ නෑ."
+        },
+        {
+          "speaker": "Thushan",
+          "en": "Sit down. You're pale. Did you eat this morning?",
+          "si": "ඉඳගන්න. ඔබ සුදුමැලියි. උදේ කෑවද?"
+        },
+        {
+          "speaker": "Kavindi",
+          "en": "No, I didn't. I've been cooking by myself all morning without a break.",
+          "si": "නෑ, කෑවේ නෑ. මම මුළු උදෑසනම තනියම විවේකයක් නැතුව උයනවා."
+        },
+        {
+          "speaker": "Thushan",
+          "en": "That explains it. Relax for a bit — I'll finish this myself.",
+          "si": "ඒකෙන් තේරෙනවා. ටිකක් සැහැල්ලුවෙන් ඉන්න — මම මේක අවසන් කරන්නම්."
+        },
+        {
+          "speaker": "Kavindi",
+          "en": "Are you sure? You don't have to do it all yourself.",
+          "si": "විශ්වාසද? ඔබටම එතන කරන්න ඕන නෑ."
+        },
+        {
+          "speaker": "Thushan",
+          "en": "We can help each other — you rest, I'll cook, and later we'll eat together.",
+          "si": "අපිට එකිනෙකාට උදව් කරන්න පුළුවන් — ඔබ විවේක ගන්න, මම උයන්නම්, පස්සේ එකට කමු."
+        }
+      ]
+    },
+    {
+      "type": "practice",
+      "title": "Fill in the reflexive, or leave it out",
+      "titleSi": "reflexive එකතු කරන්න, නැත්නම් ඉතුරු කරන්න",
+      "instructionSi": "ක්‍රියාව 'ආපහු ගැහෙනවා' කෙනා ළඟටම ද කියලා බලන්න.",
+      "items": [
+        {
+          "prompt": "He cut ___ while shaving.",
+          "answer": "himself",
+          "hintSi": "ක්‍රියාව ආපහු එයාටම.",
+          "full": "He cut himself while shaving."
+        },
+        {
+          "prompt": "I feel ___ tired. (හිස්තැනට reflexive එකක් ඕන නෑ)",
+          "answer": "—",
+          "hintSi": "'feel' පසුව reflexive ඕන නෑ.",
+          "full": "I feel tired."
+        },
+        {
+          "prompt": "We enjoyed ___ at the party.",
+          "answer": "ourselves",
+          "hintSi": "ක්‍රියාව ආපහු අපිටම.",
+          "full": "We enjoyed ourselves at the party."
+        },
+        {
+          "prompt": "They looked at ___ and laughed. (එකිනෙකා දිහා)",
+          "answer": "each other",
+          "hintSi": "දෙදෙනෙක් අතර — reflexive නෙවෙයි.",
+          "full": "They looked at each other and laughed."
+        },
+        {
+          "prompt": "I did it ___ — nobody helped.",
+          "answer": "myself",
+          "hintSi": "අවධාරණයට.",
+          "full": "I did it myself — nobody helped."
+        },
+        {
+          "prompt": "My sister lives ___ in Kandy.",
+          "answer": "by herself",
+          "hintSi": "'තනියම' කියන අර්ථයට.",
+          "full": "My sister lives by herself in Kandy."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "en": "myself",
+      "si": "මාවම"
+    },
+    {
+      "en": "yourself",
+      "si": "ඔබවම"
+    },
+    {
+      "en": "himself",
+      "si": "එයාවම (පිරිමි)"
+    },
+    {
+      "en": "herself",
+      "si": "එයාවම (ගැහැණු)"
+    },
+    {
+      "en": "ourselves",
+      "si": "අපිටම"
+    },
+    {
+      "en": "themselves",
+      "si": "ඔවුන්ටම"
+    },
+    {
+      "en": "each other",
+      "si": "එකිනෙකා"
+    },
+    {
+      "en": "by myself",
+      "si": "තනියම"
+    },
+    {
+      "en": "hurt",
+      "si": "රිදෙනවා"
+    },
+    {
+      "en": "cut",
+      "si": "කැපෙනවා"
+    },
+    {
+      "en": "introduce",
+      "si": "හඳුන්වා දෙනවා"
+    },
+    {
+      "en": "blame",
+      "si": "දොස් කියනවා"
+    },
+    {
+      "en": "hug",
+      "si": "බදාගන්නවා"
+    },
+    {
+      "en": "look after",
+      "si": "බලාගන්නවා"
+    },
+    {
+      "en": "proud",
+      "si": "ආඩම්බර"
+    },
+    {
+      "en": "twins",
+      "si": "නිවුන්නු"
+    },
+    {
+      "en": "argument",
+      "si": "තර්කය"
+    },
+    {
+      "en": "mix up",
+      "si": "පටලවගන්නවා"
+    },
+    {
+      "en": "apart",
+      "si": "වෙන් වෙලා"
+    },
+    {
+      "en": "relax",
+      "si": "සැහැල්ලුවෙන් ඉන්නවා"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "a2-08-q1",
+      "q": "'එයා තමන්වම කැපුවා' (පිරිමි) — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "He cut him.",
+        "He cut himself.",
+        "He cut his.",
+        "He cut he."
+      ],
+      "answer": 1,
+      "explainSi": "ක්‍රියාව ආපහු එයාටම එන නිසා reflexive: 'himself'.",
+      "speak": "He cut himself."
+    },
+    {
+      "id": "a2-08-q2",
+      "q": "'I feel myself tired' වැරදි වන්නේ ඇයි?",
+      "options": [
+        "'tired' වැරදි වචනය නිසා",
+        "'feel' දැනටමත් තමන් ගැනම කථා කරන ක්‍රියාවක් — reflexive ඕන නෑ",
+        "'myself' වෙනුවට 'yourself' විය යුතු නිසා",
+        "වැරදි නෑ"
+      ],
+      "answer": 1,
+      "explainSi": "'I feel tired' ඇති. 'feel', 'relax' වගේ ක්‍රියාවලට reflexive අවශ්‍ය නෑ."
+    },
+    {
+      "id": "a2-08-q3",
+      "q": "'Please relax yourself' — නිවැරදි ස්වරූපය?",
+      "options": [
+        "Please relax yourself.",
+        "Please relax.",
+        "Please relaxing.",
+        "Please relax you."
+      ],
+      "answer": 1,
+      "explainSi": "'relax' reflexive ඕන නැති ක්‍රියාවක්.",
+      "speak": "Please relax."
+    },
+    {
+      "id": "a2-08-q4",
+      "q": "reflexive සර්වනාමයක් ඕන කරන්නේ කවදාද?",
+      "options": [
+        "හැම වාක්‍යයකටම",
+        "ක්‍රියාව කරන කෙනාම ඒ ක්‍රියාව ලබන කෙනා වූ විට",
+        "'feel', 'relax' වගේ ක්‍රියාවලට",
+        "ප්‍රශ්නවලට විතරයි"
+      ],
+      "answer": 1,
+      "explainSi": "'She cut herself' — කැපුවේත් එයාම, කැපුණේත් එයාවම."
+    },
+    {
+      "id": "a2-08-q5",
+      "q": "'They looked at themselves' සහ 'They looked at each other' — වෙනස?",
+      "options": [
+        "වෙනසක් නෑ",
+        "පළමුවැන්නෙන් තමන්ගේම පිළිබිඹුව (කණ්නාඩියක) දිහා, දෙවැන්නෙන් එකිනෙකා දිහා",
+        "දෙවැන්න වැරදියි",
+        "පළමුවැන්න එකිනෙකා දිහා"
+      ],
+      "answer": 1,
+      "explainSi": "reflexive = තමන්ටම ආපහු. each other = දෙදෙනෙක් අතර."
+    },
+    {
+      "id": "a2-08-q6",
+      "q": "'අපි ගෙදර වැඩවලට එකිනෙකාට උදව් කරනවා' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "We help ourselves with homework.",
+        "We help each other with homework.",
+        "We help myself with homework.",
+        "We help other with homework."
+      ],
+      "answer": 1,
+      "explainSi": "දෙදෙනෙක් අතර ක්‍රියාවක් — 'each other'.",
+      "speak": "We help each other with homework."
+    },
+    {
+      "id": "a2-08-q7",
+      "q": "'I did it myself' යන වාක්‍යයේ 'myself' යෙදෙන්නේ ඇයි?",
+      "options": [
+        "ක්‍රියාව ආපහු එනවා නිසා",
+        "අවධාරණය කරන්න — කවුරුවත් උදව් කළේ නෑ කියලා",
+        "වැරදීමකින්",
+        "දෙදෙනෙක් අතර ක්‍රියාවක් නිසා"
+      ],
+      "answer": 1,
+      "explainSi": "'I did it myself' = මමම කළා, වෙන කවුරුවත් නෙවෙයි."
+    },
+    {
+      "id": "a2-08-q8",
+      "q": "'මගේ සීයා තනියම ගමන් කරනවා' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "My grandfather travels himself.",
+        "My grandfather travels by himself.",
+        "My grandfather travels each other.",
+        "My grandfather travels his self."
+      ],
+      "answer": 1,
+      "explainSi": "'by himself' = තනියම.",
+      "speak": "My grandfather travels by himself."
+    },
+    {
+      "id": "a2-08-q9",
+      "q": "'you' කිහිප දෙනෙක් ගැන කථා කරද්දී reflexive ස්වරූපය?",
+      "options": [
+        "yourself",
+        "yourselves",
+        "youself",
+        "yours"
+      ],
+      "answer": 1,
+      "explainSi": "එකෙක් නම් yourself, කිහිප දෙනෙක් නම් yourselves."
+    },
+    {
+      "id": "a2-08-q10",
+      "q": "'Sit yourself down' — වඩාත් ස්වාභාවික ස්වරූපය?",
+      "options": [
+        "Sit yourself down.",
+        "Sit down.",
+        "Sit you down.",
+        "Sit downself."
+      ],
+      "answer": 1,
+      "explainSi": "'sit down' reflexive ඕන නැති ක්‍රියාවක්.",
+      "speak": "Sit down."
+    },
+    {
+      "id": "a2-08-q11",
+      "context": "My cousins Sanduni and Sanuki are twins, and even at twenty-five, people still mix them up. The two of them stopped correcting people years ago.",
+      "contextSi": "මගේ නෑනාවරු සඳුනි සහ සනුකි නිවුන්නු, අවුරුදු විසිපහේදීත් මිනිස්සු තාමත් ඔවුන්ව පටලවගන්නවා. දෙන්නා අවුරුදු ගණනකට කලින් මිනිස්සුන්ව නිවැරදි කිරීම නැවැත්තුවා.",
+      "q": "කතාව අනුව: 'stopped correcting people' කියන එකෙන් අදහස් වන්නේ කුමක්ද?",
+      "options": [
+        "ඔවුන්ට තව නිවැරදි කරන්න බැරි",
+        "මුලින් වෙනස කියපු නමුත් දැන් කියන්නේ නෑ",
+        "මිනිස්සු දැන් වරද්දන්නේ නෑ",
+        "ඔවුන් නිවුන්නු නෙවෙයි"
+      ],
+      "answer": 1,
+      "explainSi": "'stopped' කියන්නෙන් කලින් කරපු දෙයක් නැවැත්තුවා කියලා."
+    },
+    {
+      "id": "a2-08-q12",
+      "context": "They know each other better than anyone else does. Sanduni finishes Sanuki's sentences, and Sanuki always knows when her sister is not telling the truth.",
+      "contextSi": "වෙන කවුරුවත්ට වඩා ඔවුන් එකිනෙකාව හොඳින් දන්නවා. සඳුනි සනුකිගේ වාක්‍ය අවසන් කරනවා, සනුකිට හැම විටම දැනගන්නවා අක්කාගේ නංගි ඇත්ත කියන්නේ නෑ කියලා.",
+      "q": "කතාව අනුව: 'know each other better than anyone else' කියන එකෙන් අදහස් වන්නේ කුමක්ද?",
+      "options": [
+        "ඔවුන්ට වෙන යාළුවෝ නෑ",
+        "ඔවුන් දෙදෙනා තුළ තියෙන අවබෝධය වෙන කාටවත් නෑ",
+        "ඔවුන් තමන්ම දන්නේ නෑ",
+        "ඔවුන්ට කථා කරන්න බෑ"
+      ],
+      "answer": 1,
+      "explainSi": "'each other' — දෙදෙනා අතර සම්බන්ධයේ ගැඹුර."
+    },
+    {
+      "id": "a2-08-q13",
+      "context": "When they were sixteen, they had a huge argument and did not speak to each other for three months. \"We both blamed ourselves afterwards,\" Sanuki told me.",
+      "contextSi": "ඔවුන්ට අවුරුදු දාහයේදී, ලොකු තර්කයක් වුණා, මාස තුනක් එකිනෙකා එක්ක කථා කළේ නෑ. \"ඊට පස්සේ දෙන්නම තමන්ටම දොස් කිව්වා,\" සනුකි මට කිව්වා.",
+      "q": "කතාව අනුව: 'blamed ourselves' සහ 'did not speak to each other' — වෙනස කුමක්ද?",
+      "options": [
+        "වෙනසක් නෑ",
+        "එක්කෙනා තමන්ටම දොස් කීවා (reflexive), අනිත් එක දෙදෙනා අතර සිදු වූ දෙයක් (each other)",
+        "දෙකම එකිනෙකා ගැන",
+        "'blamed ourselves' යනු එකිනෙකාට දොස් කීම"
+      ],
+      "answer": 1,
+      "explainSi": "'blamed ourselves' = තමන්ටම (reflexive). 'speak to each other' = දෙදෙනා අතර (reciprocal)."
+    },
+    {
+      "id": "a2-08-q14",
+      "context": "\"I had to learn to look after myself,\" Sanduni says. \"I never had to before — Sanuki was always there.\"",
+      "contextSi": "\"මට තමන් ගැන තමන්ම බලාගන්න ඉගෙන ගන්න ඕන වුණා,\" සඳුනි කියනවා. \"මට කවදාවත් ඒක කරන්න ඕන වුණේ නෑ කලින් — සනුකි හැම විටම එතන හිටියා.\"",
+      "q": "කතාව අනුව: සඳුනිට 'look after myself' ඉගෙන ගන්න ඕන වුණේ ඇයි?",
+      "options": [
+        "එයාට රැකියාවක් නොතිබූ නිසා",
+        "වෙනස් නගරවල ජීවත් වීම නිසා, කලින් සනුකි හැම විටම එතන හිටි නිසා",
+        "එයාට ලෙඩක් නිසා",
+        "සනුකි එයාට තරහ නිසා"
+      ],
+      "answer": 1,
+      "explainSi": "'Sanuki was always there' — කලින් තනියම ඉන්න ඕන වුණේ නෑ."
+    },
+    {
+      "id": "a2-08-q15",
+      "context": "They call each other every single day, sometimes twice. \"We're proud of ourselves,\" Sanuki said, \"for learning to live apart.\"",
+      "contextSi": "ඔවුන් හැම දාම එකිනෙකාට කථා කරනවා, සමහර වෙලාවට දෙපාරක්. \"අපි තමන් ගැනම ආඩම්බරයි,\" සනුකි කිව්වා, \"වෙන් වෙලා ජීවත් වෙන්න ඉගෙන ගත්ත එකට.\"",
+      "q": "කතාව අනුව: 'proud of ourselves' කියන එකෙන් අදහස් වන්නේ කුමක්ද?",
+      "options": [
+        "ඔවුන්ට එකිනෙකා ගැන ආඩම්බරයි",
+        "වෙන් වෙලා ජීවත් වීම ඉගෙන ගත් තමන් ගැනම ආඩම්බරයි",
+        "ඔවුන්ට කථා කරන්න ලැජ්ජා",
+        "ඔවුන් තව එකට ජීවත් වෙනවා"
+      ],
+      "answer": 1,
+      "explainSi": "'for learning to live apart' — කරපු දේ ගැනම ආඩම්බරය."
+    },
+    {
+      "id": "a2-08-q16",
+      "context": "\"But we still finish each other's sentences on the phone.\"",
+      "contextSi": "\"හැබැයි තාමත් අපි දුරකථනයෙන් එකිනෙකාගේ වාක්‍ය අවසන් කරනවා.\"",
+      "q": "කතාව අනුව: අන්තිම වාක්‍යයෙන් කියවෙන්නේ මොකක්ද?",
+      "options": [
+        "ඔවුන් තව දුරකථනයෙන් කථා කරන්නේ නෑ",
+        "දුරින් ජීවත් වුණත්, දෙදෙනා අතර සම්බන්ධය දුර්වල වී නෑ",
+        "ඔවුන් තර්ක කරනවා",
+        "එකෙක් අනිත් එකාගේ වාක්‍ය තේරුම් ගන්නේ නෑ"
+      ],
+      "answer": 1,
+      "explainSi": "'still' — දුර වුණත් අර්ථවත් සම්බන්ධය තියෙනවා."
+    },
+    {
+      "id": "a2-08-q17",
+      "context": "We used to talk to ourselves out loud, / Two chairs, an empty room. / Now we talk to each other instead — / One chair is enough room.",
+      "contextSi": "අපි හයියෙන් තමන්ටම කථා කරමින් හිටියා, / පුටු දෙකක්, හිස් කාමරයක්. / දැන් ඒ වෙනුවට එකිනෙකාට කථා කරනවා — / පුටුවක් ඇති ඉඩ.",
+      "q": "කවියේ 'talk to ourselves' සහ 'talk to each other' — වෙනස කුමක්ද?",
+      "options": [
+        "වෙනසක් නෑ",
+        "පළමුවැන්න තනිකමේදී තමන්ටම කථා කිරීම, දෙවැන්න දැන් දෙදෙනෙක් අතර",
+        "දෙකම එකිනෙකාට",
+        "පළමුවැන්න වැරදියි"
+      ],
+      "answer": 1,
+      "explainSi": "'Two chairs, an empty room' → 'One chair is enough room' — තනිකමින් සහයෝගයට මාරු වීම."
+    },
+    {
+      "id": "a2-08-q18",
+      "context": "I used to blame myself at night, / Now you're the one I tell. / We help each other through the dark —",
+      "contextSi": "රෑට මම තමන්ටම දොස් කිව්වා, / දැන් මම කියන්නේ ඔබටයි. / අඳුරේදී අපි එකිනෙකාට උදව් කරනවා —",
+      "q": "කවියේ 'blame myself' සිට 'help each other' දක්වා වෙනස කුමක්ද?",
+      "options": [
+        "දොස් කීම නවතිලා නෑ",
+        "තනියම දරාගත් දුක දැන් දෙදෙනෙක් අතර බෙදාගන්නවා",
+        "එයාට තව අඳුරින් බය නෑ",
+        "වෙනසක් නෑ"
+      ],
+      "answer": 1,
+      "explainSi": "reflexive (myself) සිට reciprocal (each other) වෙනස කවියෙන්ම කවියේ අදහසයි."
+    },
+    {
+      "id": "a2-08-q19",
+      "context": "Kavindi: I've been cooking by myself all morning without a break.\nThushan: That explains it. Relax for a bit — I'll finish this myself.",
+      "contextSi": "කවින්දි: මම මුළු උදෑසනම තනියම විවේකයක් නැතුව උයනවා.\nතුෂාන්: ඒකෙන් තේරෙනවා. ටිකක් සැහැල්ලුවෙන් ඉන්න — මම මේක අවසන් කරන්නම්.",
+      "q": "සංවාදයේ: කවින්දිට හොඳ දැනෙන්නේ නැත්තේ ඇයි?",
+      "options": [
+        "එයාට ලෙඩක් නිසා",
+        "විවේකයක් නැතුව තනියම දිගටම උයපු නිසා",
+        "එයාට කෑම කැමති නෑ",
+        "තුෂාන් උදව් නොකළ නිසා"
+      ],
+      "answer": 1,
+      "explainSi": "'cooking by myself all morning without a break' — හේතුව එතනයි."
+    },
+    {
+      "id": "a2-08-q20",
+      "context": "Thushan: We can help each other — you rest, I'll cook, and later we'll eat together.",
+      "contextSi": "තුෂාන්: අපිට එකිනෙකාට උදව් කරන්න පුළුවන් — ඔබ විවේක ගන්න, මම උයන්නම්, පස්සේ එකට කමු.",
+      "q": "සංවාදයේ: 'help each other' කියද්දී මෙතන අදහස් වන්නේ කුමක්ද?",
+      "options": [
+        "දෙන්නම එකවර උයනවා",
+        "එකෙක් දැන් උදව් කරනවා, පස්සේ අනිත් එකා කරයි — දෙදෙනාම දෙන දෙයක්",
+        "කවුරුවත් උදව් කරන්නේ නෑ",
+        "කවින්දි උයනවා, තුෂාන් විවේක ගන්නවා"
+      ],
+      "answer": 1,
+      "explainSi": "'each other' යනු එකවර නොව, දෙපැත්තෙන්ම එන සහයෝගයක්."
+    },
+    {
+      "id": "a2-08-q21",
+      "q": "කුමන වාක්‍යය වැරදිද?",
+      "options": [
+        "She made herself a cup of tea.",
+        "I feel myself happy today.",
+        "We enjoyed ourselves at the party.",
+        "They looked at each other."
+      ],
+      "answer": 1,
+      "explainSi": "'I feel happy today' විය යුතුයි — 'feel' reflexive ඕන නැති ක්‍රියාවක්."
+    },
+    {
+      "id": "a2-08-q22",
+      "q": "'මගේ ආච්චි තමන් ගැන තමන්ම බලාගන්නවා' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "My grandmother looks after her.",
+        "My grandmother looks after herself.",
+        "My grandmother looks after each other.",
+        "My grandmother looks after himself."
+      ],
+      "answer": 1,
+      "explainSi": "ක්‍රියාව ආපහු එයාටම — 'herself'.",
+      "speak": "My grandmother looks after herself."
+    }
+  ]
+}

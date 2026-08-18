@@ -1,0 +1,950 @@
+{
+  "hero": {
+    "src": "images/a1-18-hero.webp",
+    "alt": "Nadeesha sitting on a bed at night looking through a shoebox of old photographs, one lamp lit, a fond and slightly wistful expression."
+  },
+  "goalsSi": [
+    "was සහ were — am, is, are ගේ අතීතය",
+    "be ක්‍රියාවට අතීත ස්වරූප දෙකක් තිබෙන්නේ ඇයි",
+    "wasn't, weren't සහ Was …? Were …? ප්‍රශ්න",
+    "There was / There were",
+    "yesterday, last night, two years ago — අතීත කාල වචන",
+    "දැනුණු ආකාරය කීම — It was cold, I was afraid"
+  ],
+  "goals": [
+    "Use was and were correctly",
+    "Make past negatives and questions",
+    "Say what there was somewhere",
+    "Describe how something felt"
+  ],
+  "sections": [
+    {
+      "type": "note",
+      "title": "The verb with two pasts",
+      "titleSi": "අතීත ස්වරූප දෙකක් ඇති ක්‍රියාව",
+      "bodySi": "ඉංග්‍රීසියේ බොහෝ ක්‍රියාවලට අතීත ස්වරූපය එකයි. 'work' → 'worked' — කවුරු ගැන කිව්වත් එකම වචනය:\n\nI worked. You worked. He worked. They worked.\n\nහැබැයි 'be' ක්‍රියාවට වර්තමානයේ ස්වරූප තුනක් තියෙනවා (am, is, are). අතීතයේ ඒවා දෙකකට හැකිලෙනවා:\n\nam → was\nis → was\nare → were\n\nඑනිසා:\nI am → I was\nHe is → He was\nYou are → You were\nThey are → They were\n\nතුනක් දෙකක් වෙනවා විතරයි. ඒක අලුත් නීතියක් නෙවෙයි — දැනටමත් දන්න එකේ අතීතය.\n\nඉංග්‍රීසියේ දෙපාරක්ම වෙනස් වෙන එකම ක්‍රියාව මේකයි. අනිත් හැම ක්‍රියාවක්ම අතීතයේ එක වචනයයි.",
+      "body": "am and is become was. are becomes were."
+    },
+    {
+      "type": "grammar",
+      "title": "was and were",
+      "titleSi": "was සහ were",
+      "explainSi": "සර්වනාමය අනුව තෝරන්න. I සහ he/she/it → was. you, we, they → were.",
+      "formula": "I / he / she / it + was  ·  you / we / they + were",
+      "table": {
+        "headers": [
+          "වර්තමානය",
+          "අතීතය",
+          "සිංහල"
+        ],
+        "rows": [
+          [
+            "I am tired.",
+            "I was tired.",
+            "මම මහන්සියි / මහන්සි වුණා."
+          ],
+          [
+            "You are late.",
+            "You were late.",
+            "ඔබ පරක්කුයි / පරක්කු වුණා."
+          ],
+          [
+            "He is at home.",
+            "He was at home.",
+            "එයා ගෙදර / ගෙදර හිටියා."
+          ],
+          [
+            "She is a teacher.",
+            "She was a teacher.",
+            "එයා ගුරුවරියක් / වුණා."
+          ],
+          [
+            "It is cold.",
+            "It was cold.",
+            "සීතලයි / සීතල වුණා."
+          ],
+          [
+            "We are happy.",
+            "We were happy.",
+            "අපි සතුටුයි / සතුටු වුණා."
+          ],
+          [
+            "They are here.",
+            "They were here.",
+            "ඔවුන් මෙතන / මෙතන හිටියා."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "I was at my grandmother's house last week.",
+          "si": "පහුගිය සතියේ මම ආච්චිගේ ගෙදර හිටියා."
+        },
+        {
+          "en": "The children were very quiet.",
+          "si": "ළමයි හරිම නිශ්ශබ්දයි වුණා."
+        },
+        {
+          "en": "It was hot yesterday, but today it is cool.",
+          "si": "ඊයේ රස්නෙයි වුණා, හැබැයි අද සිසිලයි."
+        }
+      ],
+      "watchOutSi": "'We was' සහ 'They was' වැරදියි — බහුවචනයට 'were'. 'You was' කියලාත් කියන්නේ නෑ, 'you' හැම විටම 'were'."
+    },
+    {
+      "type": "grammar",
+      "title": "wasn't, weren't and questions",
+      "titleSi": "wasn't, weren't සහ ප්‍රශ්න",
+      "explainSi": "වර්තමානයේ වගේම — 'not' එකතු කරනවා, ප්‍රශ්නයට වචනය මුලට. do/did මෙතන ඕන නෑ.",
+      "formula": "was / were + not  ·  Was / Were + subject …?",
+      "table": {
+        "headers": [
+          "ධනාත්මක",
+          "නැහැ",
+          "ප්‍රශ්නය",
+          "කෙටි පිළිතුර"
+        ],
+        "rows": [
+          [
+            "I was there.",
+            "I wasn't there.",
+            "Was I there?",
+            "Yes, you were."
+          ],
+          [
+            "He was late.",
+            "He wasn't late.",
+            "Was he late?",
+            "No, he wasn't."
+          ],
+          [
+            "She was happy.",
+            "She wasn't happy.",
+            "Was she happy?",
+            "Yes, she was."
+          ],
+          [
+            "You were right.",
+            "You weren't right.",
+            "Were you right?",
+            "No, I wasn't."
+          ],
+          [
+            "They were at home.",
+            "They weren't at home.",
+            "Were they at home?",
+            "Yes, they were."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "Were you at the wedding? — No, I wasn't. I was ill.",
+          "si": "ඔබ මංගල උත්සවයට ගියාද? — නෑ. මම ලෙඩ වුණා."
+        },
+        {
+          "en": "Why weren't you at school yesterday?",
+          "si": "ඊයේ ඔබ පාසල් ආවේ නැත්තේ ඇයි?"
+        },
+        {
+          "en": "The shop wasn't open on Sunday.",
+          "si": "ඉරිදාට කඩේ ඇරලා තිබුණේ නෑ."
+        }
+      ],
+      "watchOutSi": "'Did you were …?' කියලා කියන්නේ නෑ. be ක්‍රියාව සමඟ did අවශ්‍ය නෑ — can සහ am/is/are වගේම."
+    },
+    {
+      "type": "grammar",
+      "title": "There was, there were",
+      "titleSi": "There was, there were",
+      "explainSi": "a1-06 හි 'There is / There are' ඉගෙන ගත්තා. අතීතයේ ඒවා 'There was' සහ 'There were' බවට පත් වෙනවා. එකක් නම් was, කිහිපයක් නම් were.",
+      "formula": "There was + singular  ·  There were + plural",
+      "table": {
+        "headers": [
+          "වර්තමානය",
+          "අතීතය",
+          "සිංහල"
+        ],
+        "rows": [
+          [
+            "There is a shop.",
+            "There was a shop.",
+            "කඩයක් තිබුණා."
+          ],
+          [
+            "There are two shops.",
+            "There were two shops.",
+            "කඩ දෙකක් තිබුණා."
+          ],
+          [
+            "There isn't a bus.",
+            "There wasn't a bus.",
+            "බස් එකක් තිබුණේ නෑ."
+          ],
+          [
+            "Are there any seats?",
+            "Were there any seats?",
+            "ආසන තිබුණාද?"
+          ],
+          [
+            "There is nobody.",
+            "There was nobody.",
+            "කවුරුවත් හිටියේ නෑ."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "There was a big tree in front of our house.",
+          "si": "අපේ ගෙදර ඉස්සරහ ලොකු ගහක් තිබුණා."
+        },
+        {
+          "en": "There weren't any tickets left.",
+          "si": "ටිකට් ඉතුරු වෙලා තිබුණේ නෑ."
+        }
+      ],
+      "watchOutSi": "පස්සේ එන දෙය එකද කිහිපයද කියලා තමයි was/were තෝරන්නේ — 'there' කියන වචනය බලලා නෙවෙයි."
+    },
+    {
+      "type": "grammar",
+      "title": "When? Past time words",
+      "titleSi": "කවදාද? අතීත කාල වචන",
+      "explainSi": "මේ වචන වාක්‍යයට අතීතය කියලා කියනවා. සාමාන්‍යයෙන් වාක්‍යයේ අන්තිමට හෝ මුලට යනවා.",
+      "formula": "yesterday · last night / week / year · … ago · when I was small",
+      "table": {
+        "headers": [
+          "වචනය",
+          "අර්ථය",
+          "උදාහරණය"
+        ],
+        "rows": [
+          [
+            "yesterday",
+            "ඊයේ",
+            "I was busy yesterday."
+          ],
+          [
+            "last night",
+            "ඊයේ රෑ",
+            "Where were you last night?"
+          ],
+          [
+            "last week",
+            "පහුගිය සතියේ",
+            "She was in Kandy last week."
+          ],
+          [
+            "two years ago",
+            "අවුරුදු දෙකකට කලින්",
+            "We were students two years ago."
+          ],
+          [
+            "when I was small",
+            "මම පොඩි කාලේ",
+            "When I was small, there was no road here."
+          ],
+          [
+            "at that time",
+            "එකල",
+            "At that time, everybody was poor."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "Ten years ago there weren't any buildings here.",
+          "si": "අවුරුදු දහයකට කලින් මෙතන ගොඩනැගිලි තිබුණේ නෑ."
+        },
+        {
+          "en": "When I was small, my grandfather was the postman.",
+          "si": "මම පොඩි කාලේ, මගේ සීයා තමයි තැපැල්කාරයා."
+        }
+      ],
+      "watchOutSi": "'ago' පසුව නෙවෙයි කලින් තමයි කාලය: 'two years ago' — 'ago two years' නෙවෙයි."
+    },
+    {
+      "type": "vocab",
+      "title": "Then and now",
+      "titleSi": "එදා සහ අද",
+      "items": [
+        {
+          "en": "yesterday",
+          "si": "ඊයේ",
+          "say": "යෙස්ටර්ඩේ"
+        },
+        {
+          "en": "last night",
+          "si": "ඊයේ රෑ",
+          "say": "ලාස්ට් නයිට්"
+        },
+        {
+          "en": "ago",
+          "si": "කලින්",
+          "say": "අගෝ"
+        },
+        {
+          "en": "then",
+          "si": "එතකොට / එදා",
+          "say": "දෙන්"
+        },
+        {
+          "en": "at that time",
+          "si": "එකල",
+          "say": "ඇට් දැට් ටයිම්"
+        },
+        {
+          "en": "before",
+          "si": "කලින්",
+          "say": "බිෆෝ"
+        },
+        {
+          "en": "after",
+          "si": "පස්සේ",
+          "say": "ආෆ්ටර්"
+        },
+        {
+          "en": "afraid",
+          "si": "බය",
+          "say": "අෆ්‍රේඩ්"
+        },
+        {
+          "en": "alone",
+          "si": "තනියම",
+          "say": "අලෝන්"
+        },
+        {
+          "en": "poor",
+          "si": "දුප්පත්",
+          "say": "පුවර්"
+        },
+        {
+          "en": "empty",
+          "si": "හිස්",
+          "say": "එම්ටි"
+        },
+        {
+          "en": "field",
+          "si": "කුඹුර / පිට්ටනිය",
+          "say": "ෆීල්ඩ්"
+        },
+        {
+          "en": "well",
+          "si": "ළිඳ",
+          "say": "වෙල්"
+        },
+        {
+          "en": "path",
+          "si": "අඩිපාර",
+          "say": "පාත්"
+        },
+        {
+          "en": "building",
+          "si": "ගොඩනැගිල්ල",
+          "say": "බිල්ඩින්"
+        },
+        {
+          "en": "noise",
+          "si": "ඝෝෂාව",
+          "say": "නොයිස්"
+        },
+        {
+          "en": "ill",
+          "si": "ලෙඩ",
+          "say": "ඉල්"
+        },
+        {
+          "en": "wedding",
+          "si": "මංගල උත්සවය",
+          "say": "වෙඩින්"
+        }
+      ]
+    },
+    {
+      "type": "story",
+      "title": "There Was a Well Here",
+      "titleSi": "මෙතන ළිඳක් තිබුණා",
+      "introSi": "මේ කතාව මතකයක්. හැම වාක්‍යයක්ම වගේ 'was' හෝ 'were'. අන්තිම ඡේදයේ විතරයි වර්තමානය එන්නේ — ඒක ඇයි කියලා හිතන්න.",
+      "paragraphs": [
+        {
+          "en": "When I was small, there was a well at the end of our lane. It was deep and the water was very cold, even in April.",
+          "si": "මම පොඩි කාලේ, අපේ පාරේ කෙළවරේ ළිඳක් තිබුණා. ඒක ගැඹුරු වුණා, වතුර හරිම සීතලයි වුණා — අප්‍රේල් මාසේ වුණත්."
+        },
+        {
+          "en": "There were three houses on the lane, and we were the last one. My mother was a teacher and my father was away most of the year.",
+          "si": "පාරේ ගෙවල් තුනක් තිබුණා, අපි අන්තිම එක. අම්මා ගුරුවරියක් වුණා, තාත්තා අවුරුද්දේ වැඩි කාලයක් ගෙදර හිටියේ නෑ."
+        },
+        {
+          "en": "In the evenings the women were at the well with their buckets. They weren't in a hurry. That was the news of the village — who was ill, whose son was in Colombo, whose daughter was getting married.",
+          "si": "හවස කාන්තාවෝ බාල්දි එක්ක ළිඳ ළඟ. ඔවුන් ඉක්මන් වුණේ නෑ. ඒක තමයි ගමේ ආරංචිය — කවුද ලෙඩ, කාගේ පුතාද කොළඹ, කාගේ දුවද බඳිනවා."
+        },
+        {
+          "en": "I was afraid of the well. It was too deep, and there was no wall around it — only four stones. My mother wasn't afraid. She was there every evening.",
+          "si": "මම ළිඳට බය වුණා. ඒක ගොඩක් ගැඹුරු, වටේට තාප්පයක් තිබුණේ නෑ — ගල් හතරක් විතරයි. අම්මා බය වුණේ නෑ. හැම හවසකම එයා එතන."
+        },
+        {
+          "en": "Then there were pipes, and the water was in the houses. It was easier. Nobody was at the well after that, and one year somebody filled it with earth.",
+          "si": "ඊට පස්සේ නළ ආවා, වතුර ගෙවල් ඇතුළට. ඒක ලේසි වුණා. ඊට පස්සේ කවුරුවත් ළිඳ ළඟ හිටියේ නෑ, එක් අවුරුද්දක කවුරුහරි ඒක පස්වලින් පිරෙව්වා."
+        },
+        {
+          "en": "There is a garage there now. My mother is eighty and she is still on the lane. She says the water is better today. She also says the evenings are very long.",
+          "si": "දැන් එතන ගරාජයක්. අම්මාට අවුරුදු අසූයි, තාමත් එයා ඒ පාරේ. එයා කියනවා අද වතුර හොඳයි කියලා. එයාම කියනවා හවස් වරු හරිම දිගුයි කියලා."
+        }
+      ],
+      "glossary": [
+        {
+          "en": "well",
+          "si": "ළිඳ"
+        },
+        {
+          "en": "deep",
+          "si": "ගැඹුරු"
+        },
+        {
+          "en": "bucket",
+          "si": "බාල්දිය"
+        },
+        {
+          "en": "in a hurry",
+          "si": "ඉක්මනින්"
+        },
+        {
+          "en": "village",
+          "si": "ගම"
+        },
+        {
+          "en": "wall",
+          "si": "තාප්පය"
+        },
+        {
+          "en": "pipe",
+          "si": "නළය"
+        },
+        {
+          "en": "fill",
+          "si": "පුරවනවා"
+        },
+        {
+          "en": "earth",
+          "si": "පස"
+        },
+        {
+          "en": "garage",
+          "si": "ගරාජය"
+        }
+      ],
+      "questionsSi": [
+        "ළිඳ තිබුණේ කොහෙද, සහ එය කොහොමද?",
+        "හවසට කාන්තාවෝ ළිඳ ළඟ එකතු වුණේ ඇයි?",
+        "කථකයා ළිඳට බය වුණේ ඇයි?",
+        "අන්තිම ඡේදයේ වර්තමානය යෙදෙන්නේ ඇයි, සහ අම්මාගේ අන්තිම වාක්‍යයෙන් කියවෙන්නේ මොකක්ද?"
+      ]
+    },
+    {
+      "type": "poem",
+      "title": "It Wasn't Far",
+      "titleSi": "එච්චර දුර වුණේ නෑ",
+      "introSi": "සරල කවියක් — 'was' සහ 'were' පමණයි.",
+      "lines": [
+        {
+          "en": "The road was dust. The school was small.",
+          "si": "පාර දූවිලි. පාසල පොඩි."
+        },
+        {
+          "en": "The teacher's chair was blue.",
+          "si": "ගුරුතුමාගේ පුටුව නිල්."
+        },
+        {
+          "en": "There were no shoes for half of us,",
+          "si": "අපෙන් බාගයකට සපත්තු තිබුණේ නෑ,"
+        },
+        {
+          "en": "And nobody was new.",
+          "si": "අලුත් කවුරුවත් හිටියේ නෑ."
+        },
+        {
+          "en": "",
+          "si": ""
+        },
+        {
+          "en": "It wasn't far. It wasn't much.",
+          "si": "එච්චර දුර වුණේ නෑ. එච්චර දෙයක් වුණේ නෑ."
+        },
+        {
+          "en": "We weren't clever, we weren't rich.",
+          "si": "අපි දක්ෂ වුණේ නෑ, පොහොසත් වුණේ නෑ."
+        },
+        {
+          "en": "But every window there was open —",
+          "si": "හැබැයි එතන හැම ජනේලයක්ම ඇරලා —"
+        },
+        {
+          "en": "I don't know which I miss.",
+          "si": "මට මතක් වෙන්නේ මොකක්ද කියලා දන්නේ නෑ."
+        }
+      ],
+      "noteSi": "'There were no shoes' — 'no' යෙදුවම 'weren't any' කියන එකේම අර්ථය. 'nobody was' — 'nobody' සමඟ was."
+    },
+    {
+      "type": "dialogue",
+      "title": "Where were you?",
+      "titleSi": "ඔබ කොහෙද හිටියේ?",
+      "settingSi": "ඊයේ ගැන ප්‍රශ්න. Was/Were ප්‍රශ්න සහ කෙටි පිළිතුරු බලන්න.",
+      "lines": [
+        {
+          "speaker": "Manel",
+          "en": "Were you at the office yesterday? I didn't see you.",
+          "si": "ඊයේ ඔබ කාර්යාලයේ හිටියාද? මම දැක්කේ නෑ."
+        },
+        {
+          "speaker": "Roshan",
+          "en": "No, I wasn't. I was at the hospital with my father.",
+          "si": "නෑ. මම තාත්තා එක්ක රෝහලේ හිටියා."
+        },
+        {
+          "speaker": "Manel",
+          "en": "Oh. Was it serious?",
+          "si": "අනේ. බරපතළද?"
+        },
+        {
+          "speaker": "Roshan",
+          "en": "It wasn't, in the end. But we were there for six hours.",
+          "si": "අන්තිමට බරපතළ වුණේ නෑ. හැබැයි අපි පැය හයක් එතන හිටියා."
+        },
+        {
+          "speaker": "Manel",
+          "en": "Six hours! Were there many people?",
+          "si": "පැය හයක්! මිනිස්සු ගොඩක් හිටියාද?"
+        },
+        {
+          "speaker": "Roshan",
+          "en": "There were about forty in front of us. There weren't enough chairs, so my father was on the floor for an hour.",
+          "si": "අපිට ඉස්සරහින් හතළිහක් විතර. පුටු ඇති තරම් තිබුණේ නෑ, එනිසා තාත්තා පැයක් බිම හිටියා."
+        },
+        {
+          "speaker": "Manel",
+          "en": "That's terrible. Is he all right now?",
+          "si": "ඒක නරකයි. දැන් එයාට හොඳද?"
+        },
+        {
+          "speaker": "Roshan",
+          "en": "He's fine. He says the tea there was good, so it wasn't a wasted day.",
+          "si": "එයාට හොඳයි. එයා කියනවා එහෙ තේ හොඳයි කියලා, එනිසා දවස නාස්ති වුණේ නෑ."
+        }
+      ]
+    },
+    {
+      "type": "practice",
+      "title": "was or were?",
+      "titleSi": "was ද were ද?",
+      "instructionSi": "සර්වනාමය බලන්න. There was/were නම් පස්සේ එන දෙය බලන්න.",
+      "items": [
+        {
+          "prompt": "I ___ tired last night.",
+          "answer": "was",
+          "hintSi": "I → was.",
+          "full": "I was tired last night."
+        },
+        {
+          "prompt": "They ___ at home.",
+          "answer": "were",
+          "hintSi": "බහුවචනය → were.",
+          "full": "They were at home."
+        },
+        {
+          "prompt": "You ___ right.",
+          "answer": "were",
+          "hintSi": "'you' හැම විටම were.",
+          "full": "You were right."
+        },
+        {
+          "prompt": "There ___ two shops here.",
+          "answer": "were",
+          "hintSi": "'two shops' බහුවචනය.",
+          "full": "There were two shops here."
+        },
+        {
+          "prompt": "There ___ a big tree here.",
+          "answer": "was",
+          "hintSi": "'a tree' එකයි.",
+          "full": "There was a big tree here."
+        },
+        {
+          "prompt": "___ she at the wedding?",
+          "answer": "Was",
+          "hintSi": "ප්‍රශ්නය — was මුලට.",
+          "full": "Was she at the wedding?"
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "en": "yesterday",
+      "si": "ඊයේ"
+    },
+    {
+      "en": "last night",
+      "si": "ඊයේ රෑ"
+    },
+    {
+      "en": "ago",
+      "si": "කලින්"
+    },
+    {
+      "en": "at that time",
+      "si": "එකල"
+    },
+    {
+      "en": "before",
+      "si": "කලින්"
+    },
+    {
+      "en": "after",
+      "si": "පස්සේ"
+    },
+    {
+      "en": "afraid",
+      "si": "බය"
+    },
+    {
+      "en": "alone",
+      "si": "තනියම"
+    },
+    {
+      "en": "poor",
+      "si": "දුප්පත්"
+    },
+    {
+      "en": "empty",
+      "si": "හිස්"
+    },
+    {
+      "en": "field",
+      "si": "කුඹුර"
+    },
+    {
+      "en": "well",
+      "si": "ළිඳ"
+    },
+    {
+      "en": "path",
+      "si": "අඩිපාර"
+    },
+    {
+      "en": "building",
+      "si": "ගොඩනැගිල්ල"
+    },
+    {
+      "en": "ill",
+      "si": "ලෙඩ"
+    },
+    {
+      "en": "wedding",
+      "si": "මංගල උත්සවය"
+    },
+    {
+      "en": "deep",
+      "si": "ගැඹුරු"
+    },
+    {
+      "en": "bucket",
+      "si": "බාල්දිය"
+    },
+    {
+      "en": "village",
+      "si": "ගම"
+    },
+    {
+      "en": "serious",
+      "si": "බරපතළ"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "a1-18-q1",
+      "q": "'I am tired' — අතීතයේ?",
+      "options": [
+        "I were tired.",
+        "I was tired.",
+        "I am was tired.",
+        "I did tired."
+      ],
+      "answer": 1,
+      "explainSi": "am → was.",
+      "speak": "I was tired."
+    },
+    {
+      "id": "a1-18-q2",
+      "q": "'They are here' — අතීතයේ?",
+      "options": [
+        "They was here.",
+        "They were here.",
+        "They is here.",
+        "They did here."
+      ],
+      "answer": 1,
+      "explainSi": "are → were. බහුවචනයට හැම විටම were.",
+      "speak": "They were here."
+    },
+    {
+      "id": "a1-18-q3",
+      "q": "'be' ක්‍රියාවට අතීත ස්වරූප දෙකක් තිබෙන්නේ ඇයි?",
+      "options": [
+        "එය අවිධිමත් නිසා විතරයි",
+        "වර්තමානයේ ස්වරූප තුනක් තියෙනවා (am/is/are) — අතීතයේ ඒවා දෙකකට හැකිලෙනවා",
+        "එය පරණ ක්‍රියාවක් නිසා",
+        "නීතියක් නෑ"
+      ],
+      "answer": 1,
+      "explainSi": "am සහ is දෙකම was බවට. are එක were බවට. අනිත් හැම ක්‍රියාවකටම අතීතයේ එක වචනයයි."
+    },
+    {
+      "id": "a1-18-q4",
+      "q": "'You ___ right.' — හිස්තැනට?",
+      "options": [
+        "was",
+        "were",
+        "is",
+        "are was"
+      ],
+      "answer": 1,
+      "explainSi": "'you' එක් අයෙක් වුණත් හැම විටම 'were'."
+    },
+    {
+      "id": "a1-18-q5",
+      "q": "'එයා පරක්කු වුණේ නෑ' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "He didn't was late.",
+        "He wasn't late.",
+        "He weren't late.",
+        "He not was late."
+      ],
+      "answer": 1,
+      "explainSi": "be ක්‍රියාව සමඟ did අවශ්‍ය නෑ — 'not' එකතු කරනවා විතරයි.",
+      "speak": "He wasn't late."
+    },
+    {
+      "id": "a1-18-q6",
+      "q": "'Did you were at home?' වැරදි වන්නේ ඇයි?",
+      "options": [
+        "'home' සමඟ 'were' යෙදිය නොහැකි නිසා",
+        "be ක්‍රියාව ප්‍රශ්නය තනියම හදනවා — did අවශ්‍ය නෑ",
+        "'you' සමඟ 'did' යෙදිය නොහැකි නිසා",
+        "'were' වෙනුවට 'was' විය යුතු නිසා"
+      ],
+      "answer": 1,
+      "explainSi": "'Were you at home?' — can සහ am/is/are වගේම, be තමන්ගේ ප්‍රශ්නය තමන්ම හදනවා."
+    },
+    {
+      "id": "a1-18-q7",
+      "q": "'Were you at the wedding?' — නෑ නම් කෙටි පිළිතුර?",
+      "options": [
+        "No, I didn't.",
+        "No, I wasn't.",
+        "No, I weren't.",
+        "No, I am not."
+      ],
+      "answer": 1,
+      "explainSi": "ප්‍රශ්නයේ 'Were you' වුණත් පිළිතුරේ 'I' නිසා 'wasn't'."
+    },
+    {
+      "id": "a1-18-q8",
+      "q": "'මෙතන ලොකු ගහක් තිබුණා' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "There were a big tree here.",
+        "There was a big tree here.",
+        "There is a big tree here.",
+        "Here was a big tree."
+      ],
+      "answer": 1,
+      "explainSi": "'a tree' එකයි — එනිසා 'There was'.",
+      "speak": "There was a big tree here."
+    },
+    {
+      "id": "a1-18-q9",
+      "q": "'There ___ two shops on our lane.' — හිස්තැනට?",
+      "options": [
+        "was",
+        "were",
+        "is",
+        "are"
+      ],
+      "answer": 1,
+      "explainSi": "was/were තෝරන්නේ පස්සේ එන දෙය අනුව — 'two shops' බහුවචනයි."
+    },
+    {
+      "id": "a1-18-q10",
+      "q": "'අවුරුදු දෙකකට කලින්' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "ago two years",
+        "two years ago",
+        "before two years",
+        "two years before now"
+      ],
+      "answer": 1,
+      "explainSi": "'ago' කාලයට පස්සේ එනවා: 'two years ago'."
+    },
+    {
+      "id": "a1-18-q11",
+      "q": "කුමන වාක්‍යය වැරදිද?",
+      "options": [
+        "We were students two years ago.",
+        "She was in Kandy last week.",
+        "They was at home yesterday.",
+        "It wasn't cold last night."
+      ],
+      "answer": 2,
+      "explainSi": "'They were at home yesterday' විය යුතුයි."
+    },
+    {
+      "id": "a1-18-q12",
+      "context": "When I was small, there was a well at the end of our lane. It was deep and the water was very cold, even in April.",
+      "contextSi": "මම පොඩි කාලේ, අපේ පාරේ කෙළවරේ ළිඳක් තිබුණා. ඒක ගැඹුරු වුණා, වතුර හරිම සීතලයි වුණා — අප්‍රේල් මාසේ වුණත්.",
+      "q": "කතාව අනුව: 'even in April' කියන එකෙන් කියවෙන්නේ කුමක්ද?",
+      "options": [
+        "අප්‍රේල් සීතලම මාසය",
+        "අප්‍රේල් රස්නෙම කාලය — එවිටත් වතුර සීතලයි",
+        "අප්‍රේල් වැසි කාලය",
+        "ළිඳ අප්‍රේල් වහනවා"
+      ],
+      "answer": 1,
+      "explainSi": "'even' යෙදෙන්නේ බලාපොරොත්තු නොවන දෙයකට. අප්‍රේල් රස්නෙ නිසා තමයි එය පුදුමයක්."
+    },
+    {
+      "id": "a1-18-q13",
+      "context": "In the evenings the women were at the well with their buckets. They weren't in a hurry. That was the news of the village — who was ill, whose son was in Colombo, whose daughter was getting married.",
+      "contextSi": "හවස කාන්තාවෝ බාල්දි එක්ක ළිඳ ළඟ. ඔවුන් ඉක්මන් වුණේ නෑ. ඒක තමයි ගමේ ආරංචිය — කවුද ලෙඩ, කාගේ පුතාද කොළඹ, කාගේ දුවද බඳිනවා.",
+      "q": "කතාව අනුව: ළිඳ වතුරට අමතරව කුමකට යෙදුණාද?",
+      "options": [
+        "ළමයින්ට සෙල්ලම් කරන්න",
+        "ගමේ ආරංචි හුවමාරු වන තැන",
+        "රැස්වීම් පවත්වන්න",
+        "නාන්න"
+      ],
+      "answer": 1,
+      "explainSi": "'That was the news of the village' — ඔවුන් ඉක්මන් නොවුණේ ඒකයි."
+    },
+    {
+      "id": "a1-18-q14",
+      "context": "I was afraid of the well. It was too deep, and there was no wall around it — only four stones. My mother wasn't afraid. She was there every evening.",
+      "contextSi": "මම ළිඳට බය වුණා. ඒක ගොඩක් ගැඹුරු, වටේට තාප්පයක් තිබුණේ නෑ — ගල් හතරක් විතරයි. අම්මා බය වුණේ නෑ. හැම හවසකම එයා එතන.",
+      "q": "කතාව අනුව: කථකයා ළිඳට බය වුණේ ඇයි?",
+      "options": [
+        "වතුර සීතල නිසා",
+        "ගැඹුරු වූ අතර වටේට තාප්පයක් නොතිබූ නිසා",
+        "අම්මා බය වූ නිසා",
+        "එය දුර නිසා"
+      ],
+      "answer": 1,
+      "explainSi": "'It was too deep, and there was no wall around it'."
+    },
+    {
+      "id": "a1-18-q15",
+      "context": "Then there were pipes, and the water was in the houses. It was easier. Nobody was at the well after that, and one year somebody filled it with earth.",
+      "contextSi": "ඊට පස්සේ නළ ආවා, වතුර ගෙවල් ඇතුළට. ඒක ලේසි වුණා. ඊට පස්සේ කවුරුවත් ළිඳ ළඟ හිටියේ නෑ, එක් අවුරුද්දක කවුරුහරි ඒක පස්වලින් පිරෙව්වා.",
+      "q": "කතාව අනුව: නළ ආපු එකෙන් ගමට අහිමි වුණේ කුමක්ද?",
+      "options": [
+        "පිරිසිදු වතුර",
+        "හවසට එකතු වෙන තැන",
+        "ළිඳේ ගැඹුර",
+        "කිසිවක් නෑ"
+      ],
+      "answer": 1,
+      "explainSi": "'Nobody was at the well after that' — වතුර ලේසි වුණා, එකතු වීම නැති වුණා."
+    },
+    {
+      "id": "a1-18-q16",
+      "context": "There is a garage there now. My mother is eighty and she is still on the lane. She says the water is better today. She also says the evenings are very long.",
+      "contextSi": "දැන් එතන ගරාජයක්. අම්මාට අවුරුදු අසූයි, තාමත් එයා ඒ පාරේ. එයා කියනවා අද වතුර හොඳයි කියලා. එයාම කියනවා හවස් වරු හරිම දිගුයි කියලා.",
+      "q": "කතාව අනුව: අන්තිම ඡේදය වර්තමානයෙන් ලියා ඇත්තේ ඇයි?",
+      "options": [
+        "වැරදීමකින්",
+        "එය තවම දිගටම පවතින නිසා — සහ අම්මාගේ තනිකම දැන් තියෙන දෙයක්",
+        "ලියන කෙනා අමතක කරපු නිසා",
+        "අම්මා තවම ජීවතුන් අතර නිසා පමණයි"
+      ],
+      "answer": 1,
+      "explainSi": "අතීත ඡේද පහ ළිඳ ගැන. අන්තිම එක වර්තමානය — 'the evenings are very long' කියන එකෙන් නැති වුණේ මොකක්ද කියලා පේනවා."
+    },
+    {
+      "id": "a1-18-q17",
+      "context": "It wasn't far. It wasn't much. / We weren't clever, we weren't rich. / But every window there was open — / I don't know which I miss.",
+      "contextSi": "එච්චර දුර වුණේ නෑ. එච්චර දෙයක් වුණේ නෑ. / අපි දක්ෂ වුණේ නෑ, පොහොසත් වුණේ නෑ. / හැබැයි එතන හැම ජනේලයක්ම ඇරලා — / මට මතක් වෙන්නේ මොකක්ද කියලා දන්නේ නෑ.",
+      "q": "කවියේ අන්තිම පේළියෙන් අදහස් වන්නේ කුමක්ද?",
+      "options": [
+        "එයාට පාසල මතක නෑ",
+        "පාසලද, ඒ කාලයේ තමන්ද — කුමකට මතක් වෙනවාද කියලා එයාට විශ්වාස නෑ",
+        "එයාට ජනේල මතක් වෙනවා",
+        "එයාට කිසිවක් මතක් වෙන්නේ නෑ"
+      ],
+      "answer": 1,
+      "explainSi": "පේළි හතරක් තිස්සේ තිබුණේ නැති දේවල්. 'which I miss' කියන්නේ ඒ අතරින් කුමකටද කියලා."
+    },
+    {
+      "id": "a1-18-q18",
+      "context": "Roshan: There were about forty in front of us. There weren't enough chairs, so my father was on the floor for an hour.",
+      "contextSi": "රොෂාන්: අපිට ඉස්සරහින් හතළිහක් විතර. පුටු ඇති තරම් තිබුණේ නෑ, එනිසා තාත්තා පැයක් බිම හිටියා.",
+      "q": "සංවාදයේ: තාත්තා බිම හිටියේ ඇයි?",
+      "options": [
+        "එයාට ඉඳගන්න බැරි නිසා",
+        "පුටු ඇති තරම් නොතිබූ නිසා",
+        "එයාට බිම කැමති නිසා",
+        "පැය හයක් හිටි නිසා"
+      ],
+      "answer": 1,
+      "explainSi": "'There weren't enough chairs, so …' — 'so' ප්‍රතිඵලය සම්බන්ධ කරනවා."
+    },
+    {
+      "id": "a1-18-q19",
+      "context": "Roshan: He's fine. He says the tea there was good, so it wasn't a wasted day.",
+      "contextSi": "රොෂාන්: එයාට හොඳයි. එයා කියනවා එහෙ තේ හොඳයි කියලා, එනිසා දවස නාස්ති වුණේ නෑ.",
+      "q": "සංවාදයේ: තාත්තා ගැන මෙයින් කියවෙන්නේ කුමක්ද?",
+      "options": [
+        "එයා තේවලට ගොඩක් කැමතියි",
+        "එයා නරක දවසකින් හොඳ දෙයක් හොයාගන්නවා",
+        "එයාට රෝහල ගැන කැමැත්තක් නෑ",
+        "එයා තාමත් ලෙඩයි"
+      ],
+      "answer": 1,
+      "explainSi": "පැය හයක් බලාගෙන ඉඳලා, එයාට මතක් වෙන්නේ තේ ගැන."
+    },
+    {
+      "id": "a1-18-q20",
+      "q": "'ඊයේ ඔබ පාසල් ආවේ නැත්තේ ඇයි?' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "Why you weren't at school yesterday?",
+        "Why weren't you at school yesterday?",
+        "Why didn't you were at school yesterday?",
+        "Why wasn't you at school yesterday?"
+      ],
+      "answer": 1,
+      "explainSi": "ප්‍රශ්නය හදලා 'Why' මුලට — a1-17 හි නීතියමයි.",
+      "speak": "Why weren't you at school yesterday?"
+    },
+    {
+      "id": "a1-18-q21",
+      "q": "'There were no shoes' සහ 'There weren't any shoes' — වෙනස?",
+      "options": [
+        "අර්ථයේ වෙනසක් නෑ — ක්‍රම දෙකක් විතරයි",
+        "පළමුවැන්න වඩා සපත්තු",
+        "දෙවැන්න ප්‍රශ්නයක්",
+        "පළමුවැන්න වර්තමානය"
+      ],
+      "answer": 0,
+      "explainSi": "'no' යෙදුවම 'not any' අවශ්‍ය නෑ. දෙකම හරි."
+    },
+    {
+      "id": "a1-18-q22",
+      "q": "'මම පොඩි කාලේ, මෙතන පාරක් තිබුණේ නෑ' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "When I was small, there wasn't a road here.",
+        "When I am small, there wasn't a road here.",
+        "When I was small, there weren't a road here.",
+        "When I was small, here wasn't a road."
+      ],
+      "answer": 0,
+      "explainSi": "'When I was small' — කාල වචනයත් අතීතයෙන්. 'a road' එකයි, එනිසා wasn't.",
+      "speak": "When I was small, there wasn't a road here."
+    }
+  ]
+}

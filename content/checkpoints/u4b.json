@@ -1,0 +1,156 @@
+{
+  "quiz": [
+    {
+      "id": "u4b-cp-q1",
+      "q": "'මම ස්ටේෂන් එකට යනකොට කෝච්චිය ගිහින්' — කොහොමද?",
+      "options": [
+        "The train had left when I got to the station.",
+        "The train left when I had got to the station.",
+        "The train has left when I got to the station.",
+        "The train was leaving when I got to the station."
+      ],
+      "answer": 0,
+      "explainSi": "කලින් වුණු දේට had + past participle.",
+      "speak": "The train had left when I got to the station."
+    },
+    {
+      "id": "u4b-cp-q2",
+      "q": "'When I arrived, the party had finished.' — කලින් වුණේ මොකක්ද?",
+      "options": ["මම ඒම", "party එක ඉවර වීම", "දෙකම එකවර", "කියන්න බෑ"],
+      "answer": 1,
+      "explainSi": "had තියෙන ක්‍රියාව තමයි කලින් වුණේ."
+    },
+    {
+      "id": "u4b-cp-q3",
+      "q": "කුමන වාක්‍යය වැරදිද?",
+      "options": [
+        "I hadn't finished.",
+        "Had you eaten?",
+        "I didn't had finished.",
+        "She had already left."
+      ],
+      "answer": 2,
+      "explainSi": "Past perfect එකට did/didn't යෙදෙන්නේ නෑ — hadn't finished."
+    },
+    {
+      "id": "u4b-cp-q4",
+      "q": "'ඇයට කලින් දිග කොණ්ඩයක් තිබුණා' — කොහොමද?",
+      "options": [
+        "She would have long hair.",
+        "She used to have long hair.",
+        "She would has long hair.",
+        "She has had long hair."
+      ],
+      "answer": 1,
+      "explainSi": "'have' තත්ත්ව ක්‍රියාවක් — would යෙදෙන්නේ නෑ.",
+      "speak": "She used to have long hair."
+    },
+    {
+      "id": "u4b-cp-q5",
+      "q": "'හැම හවසම අපි වෙරළේ ඇවිද්දා' — කොහොමද?",
+      "options": [
+        "Every evening we would walked on the beach.",
+        "Every evening we would walk on the beach.",
+        "Every evening we will walk on the beach.",
+        "Every evening we would walking on the beach."
+      ],
+      "answer": 1,
+      "explainSi": "would + මූලික ක්‍රියාව.",
+      "speak": "Every evening we would walk on the beach."
+    },
+    {
+      "id": "u4b-cp-q6",
+      "q": "'I'd walked home.' — 'd කියන්නේ?",
+      "options": ["would", "had", "did", "should"],
+      "answer": 1,
+      "explainSi": "walked කියන්නේ past participle — ඒ නිසා had."
+    },
+    {
+      "id": "u4b-cp-q7",
+      "q": "'මම පැයක් තිස්සේ බලාගෙන ඉන්නවා' — කොහොමද?",
+      "options": [
+        "I have been waiting since an hour.",
+        "I have been waiting for an hour.",
+        "I have waiting for an hour.",
+        "I am waiting since an hour."
+      ],
+      "answer": 1,
+      "explainSi": "have been + -ing, සහ ප්‍රමාණයකට for.",
+      "speak": "I have been waiting for an hour."
+    },
+    {
+      "id": "u4b-cp-q8",
+      "q": "කුමන එක වැරදිද?",
+      "options": ["for two hours", "since two o'clock", "since two hours", "since March"],
+      "answer": 2,
+      "explainSi": "පැය දෙකක් කියන්නේ ප්‍රමාණයක් — 'for two hours'."
+    },
+    {
+      "id": "u4b-cp-q9",
+      "q": "'She has been knowing him for years.' — මේක හරිද?",
+      "options": [
+        "ඔව්",
+        "නෑ — 'know' තත්ත්ව ක්‍රියාවක්, 'She has known him for years'",
+        "ඔව්, ඒත් 'for' වෙනුවට 'since'",
+        "නෑ, 'had known' කියන්න ඕන"
+      ],
+      "answer": 1,
+      "explainSi": "know, be, like, want — තත්ත්ව ක්‍රියාවලට continuous යෙදෙන්නේ නෑ."
+    },
+    {
+      "id": "u4b-cp-q10",
+      "q": "'කවුද ඔයාට කතා කළේ?' — කොහොමද?",
+      "options": ["Who did call you?", "Who called you?", "Who did you call?", "Who you called?"],
+      "answer": 1,
+      "explainSi": "wh- වචනය subject එක නම් did යෙදෙන්නේ නෑ.",
+      "speak": "Who called you?"
+    },
+    {
+      "id": "u4b-cp-q11",
+      "q": "කුමන එක හරිද?",
+      "options": ["Where did she went?", "Where did she go?", "Where she did go?", "Where did she gone?"],
+      "answer": 1,
+      "explainSi": "did තියෙනකොට ක්‍රියාව මූලික ආකෘතියෙන්."
+    },
+    {
+      "id": "u4b-cp-q12",
+      "q": "'මුලදී මට ඒක අමාරු වුණා, ඒත් දැන් පුරුදුයි' — කුමන වචනයද?",
+      "options": ["First", "At first", "Finally", "Meanwhile"],
+      "answer": 1,
+      "explainSi": "පස්සේ වෙනසක් තියෙන නිසා 'At first'.",
+      "speak": "At first it was hard, but now I'm used to it."
+    },
+    {
+      "id": "u4b-cp-q13",
+      "q": "'___ of the film, everybody was crying.' — හිස් තැනට?",
+      "options": ["In the end", "At the end", "Finally", "Later"],
+      "answer": 1,
+      "explainSi": "දෙයක අන්තිම කොටස — 'At the end of'."
+    },
+    {
+      "id": "u4b-cp-q14",
+      "q": "'Meanwhile' යෙදෙන්නේ?",
+      "options": [
+        "ඊට පස්සේ වුණු දෙයකට",
+        "එකවර වුණු දෙයකට",
+        "අන්තිමට වුණු දෙයකට",
+        "මුලින්ම වුණු දෙයකට"
+      ],
+      "answer": 1,
+      "explainSi": "ඒ අතරේ, එකවර වෙන දෙයක්."
+    },
+    {
+      "id": "u4b-cp-q15",
+      "q": "'මම නැගිටිනකොටටත් හැමෝම ගිහින්' — කොහොමද?",
+      "options": [
+        "By the time I woke up, everyone had gone.",
+        "By the time I had woken up, everyone went.",
+        "When I woke up, everyone has gone.",
+        "Everyone went when I had woken up."
+      ],
+      "answer": 0,
+      "explainSi": "කලින් වුණේ හැමෝම යාම — had gone.",
+      "speak": "By the time I woke up, everyone had gone."
+    }
+  ]
+}

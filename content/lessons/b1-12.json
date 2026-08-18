@@ -1,0 +1,785 @@
+{
+  "hero": {
+    "src": "images/b1-12-hero.webp",
+    "alt": "Ruwan working through a numbered list on a notepad at a kitchen table, pen in hand, taking the steps one at a time, morning light."
+  },
+  "goalsSi": [
+    "සිද්ධි පිළිවෙළට ගොතන වචන යොදන්න — first, then, after that, later, finally",
+    "ඒ වචන වාක්‍යයේ තියෙන්නේ කොහෙද කියන එකයි කොමාවයි",
+    "'first' සහ 'at first' අතර වෙනස",
+    "'in the end' සහ 'at the end' අතර වෙනස",
+    "meanwhile — එකවර සිද්ධ වෙන දේවල්",
+    "වෙන් වෙන් වාක්‍ය ටිකක් එකම ඡේදයක් කරන්න"
+  ],
+  "goals": [
+    "Sequence events with first, then, after that, later and finally",
+    "Place these linkers correctly and punctuate them",
+    "Tell first and at first apart",
+    "Tell in the end and at the end apart",
+    "Use meanwhile for things happening at the same time",
+    "Turn separate sentences into one connected paragraph"
+  ],
+  "sections": [
+    {
+      "type": "note",
+      "title": "Sentences, or a story?",
+      "titleSi": "වාක්‍ය ටිකක්ද, කතාවක්ද?",
+      "bodySi": "මේ ඡේද දෙක කියවලා බලන්න. එකම සිද්ධියයි.\n\nඑක: 'I woke up late. I missed the bus. I walked to the junction. I took a three-wheeler. I got to the office at ten.'\n\nදෙක: 'I woke up late and missed the bus. First I walked to the junction, then I took a three-wheeler. In the end I got to the office at ten.'\n\nදෙකේම කියන්නේ එකම දේ. ඒත් පළවෙනි එක ලැයිස්තුවක්. දෙවෙනි එක කතාවක්.\n\nවෙනස තියෙන්නේ ව්‍යාකරණයේ නෙවෙයි — first, then, in the end කියන පොඩි වචන කීපයේ.\n\nCEFR B1 මට්ටමේ ලොකුම වෙනස මේකයි. A2 හි ඉගෙන ගත්තේ නිවැරදි වාක්‍ය හදන්න. B1 හි ඉගෙන ගන්නේ ඒ වාක්‍ය එකට බඳින්න. ලියන එකේදීත්, කථා කරන එකේදීත් අහන කෙනාට 'මේ මිනිහා ඉංග්‍රීසි දන්නවා' කියලා දැනෙන්නේ මේ වචන එනකොටයි.",
+      "body": "The difference between a list of sentences and a story is a handful of small words. This is the biggest single step from A2 to B1."
+    },
+    {
+      "type": "grammar",
+      "title": "The order words",
+      "titleSi": "පිළිවෙළ කියන වචන",
+      "explainSi": "මේ තමයි මූලික කට්ටලය. පිළිවෙළටම ඉගෙන ගන්න:\n\nFirst — මුලින්ම.\nThen — ඊට පස්සේ.\nAfter that — ඊට පස්සේ. (then එකට සමානයි, ඒත් ටිකක් බරයි)\nLater — පස්සේ, ටික වෙලාවකට පස්සේ.\nFinally — අන්තිමට.\n\n'First I checked the tyres. Then I filled the tank. After that I cleaned the mirrors. Finally I started the engine.'\n\nහැම එකක්ම වාක්‍යයේ මුලට දාන්න පුළුවන් — ඒක ලේසිම විදිහ.\n\nthen සහ after that මැදටත් යනවා: 'I filled the tank and then cleaned the mirrors.'\n\nකොමාව: වාක්‍යය මුලට දාද්දී, දිග වචනවලට කොමාවක් දානවා — 'After that, we went home.' 'Finally, she agreed.' පොඩි 'then' එකට කොමාව අවශ්‍ය නෑ.",
+      "explain": "First, then, after that, later, finally. Any of them can open a sentence; then and after that can also sit in the middle.",
+      "formula": "First … Then … After that … Finally …",
+      "table": {
+        "headers": [
+          "වචනය",
+          "සිංහල",
+          "උදාහරණය"
+        ],
+        "rows": [
+          [
+            "First",
+            "මුලින්ම",
+            "First we bought the tickets."
+          ],
+          [
+            "Then",
+            "ඊට පස්සේ",
+            "Then we found our seats."
+          ],
+          [
+            "After that",
+            "ඊට පස්සේ",
+            "After that, the lights went off."
+          ],
+          [
+            "Later",
+            "පස්සේ",
+            "Later, we heard why."
+          ],
+          [
+            "Finally",
+            "අන්තිමට",
+            "Finally, the film started."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "First I boiled the water. Then I added the tea.",
+          "si": "මුලින්ම මම වතුර නටව්වා. ඊට පස්සේ තේ දැම්මා."
+        },
+        {
+          "en": "After that, nobody said anything for a while.",
+          "si": "ඊට පස්සේ ටික වෙලාවක් කවුරුවත් මොකුත් කිව්වේ නෑ."
+        },
+        {
+          "en": "Finally, the bus came.",
+          "si": "අන්තිමට බස් එක ආවා."
+        }
+      ],
+      "watchOutSi": "'After that' කියන එකට 'that' අවශ්‍යයි. 'After, we went home' කියන එක වැරදියි — 'After that, we went home' නැත්නම් 'Afterwards, we went home'."
+    },
+    {
+      "type": "grammar",
+      "title": "first, or at first?",
+      "titleSi": "first ද, at first ද?",
+      "explainSi": "වචන දෙකක් වගේ පේනවා, ඒත් අර්ථ දෙකක්.\n\nFirst — පිළිවෙළේ එක. මුලින්ම කරපු දේ.\n'First I washed the rice, then I put it on the fire.'\n\nAt first — මුලදී එහෙම හිතුණා/තිබුණා, ඒත් පස්සේ වෙනස් වුණා. ඒකට හැමවිටම වෙනසක් පස්සෙන් එනවා.\n'At first I didn't like him. Now he's my closest friend.'\n'At first the work was hard, but I got used to it.'\n\n'At first' අහපු ගමන් ඉංග්‍රීසි කථා කරන කෙනා බලාගෙන ඉන්නවා 'but' එකක් හෝ 'now' එකක් එනකම්. ඒක නොදැම්මොත් වාක්‍යය අඩුයි වගේ දැනෙනවා.\n\nපරීක්ෂාව: වෙනසක් කියන්නද? — at first. පිළිවෙළ කියන්නද? — first.",
+      "explain": "First is step one. At first means it was like that in the beginning but changed — so something must follow it.",
+      "formula": "First = පිළිවෙළ  ·  At first … but/now … = වෙනස",
+      "table": {
+        "headers": [
+          "වාක්‍යය",
+          "අර්ථය"
+        ],
+        "rows": [
+          [
+            "First, add the onions.",
+            "පිළිවෙළේ පළවෙනි පියවර"
+          ],
+          [
+            "At first it tasted strange.",
+            "මුලදී එහෙම — පස්සේ වෙනස් වුණා"
+          ],
+          [
+            "First I was in Kandy, then in Galle.",
+            "පිළිවෙළ"
+          ],
+          [
+            "At first I was afraid, but I got used to it.",
+            "වෙනස"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "At first nobody believed her, but the photographs were real.",
+          "si": "මුලදී කවුරුවත් ඇයව විශ්වාස කළේ නෑ, ඒත් ෆොටෝ ඇත්ත."
+        },
+        {
+          "en": "First we ate, then we walked to the lake.",
+          "si": "මුලින්ම අපි කෑවා, ඊට පස්සේ වැව ළඟට ඇවිද්දා."
+        }
+      ],
+      "watchOutSi": "'At first' කියලා පටන් අරන් වෙනසක් නොකිව්වොත් අහන කෙනා බලාගෙන ඉන්නවා. 'At first I liked it.' කියලා නැවතුනොත් — 'දැන් නැද්ද?' කියලා අහයි."
+    },
+    {
+      "type": "grammar",
+      "title": "in the end, at the end, meanwhile",
+      "titleSi": "in the end, at the end, meanwhile",
+      "explainSi": "In the end — හුඟක් දේවල් වුණාට පස්සේ, අන්තිමට. finally එකට සමානයි.\n'We argued for an hour. In the end we took the train.'\n\nAt the end — දෙයක අන්තිම කොටස. ඊට පස්සේ 'of' එකක් ඕන.\n'At the end of the film, everybody was crying.'\n'At the end of the month I get paid.'\n\nවෙනස මතක තියාගන්න: *in the end* = අන්තිමට (කාලය). *at the end of…* = අගදී (තැන).\n\nMeanwhile — ඒ අතරේ, එකවර වෙන දෙයක්.\n'I was cooking. Meanwhile, the children were setting the table.'\n\nකතාවක තැන් දෙකක් එකවර පෙන්නන්න ඕන වුණාම meanwhile යොදනවා. ඒක නැත්නම් අහන කෙනා හිතන්නේ එකින් එක වුණා කියලා.",
+      "explain": "In the end = eventually. At the end of = the final part of something. Meanwhile = at the same time, somewhere else.",
+      "formula": "in the end (අන්තිමට)  ·  at the end of + නාම පදය  ·  meanwhile (ඒ අතරේ)",
+      "table": {
+        "headers": [
+          "English",
+          "සිංහල",
+          ""
+        ],
+        "rows": [
+          [
+            "In the end, we walked.",
+            "අන්තිමට අපි ඇවිද්දා",
+            "හුඟක් දේවලට පස්සේ"
+          ],
+          [
+            "At the end of the road",
+            "පාරේ අගදී",
+            "තැනක අග"
+          ],
+          [
+            "At the end of the year",
+            "අවුරුද්ද අගදී",
+            "කාලයක අග"
+          ],
+          [
+            "Meanwhile, he waited outside.",
+            "ඒ අතරේ එයා පිටත බලාගෙන හිටියා",
+            "එකවර"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "In the end, nobody went.",
+          "si": "අන්තිමට කවුරුවත් ගියේ නෑ."
+        },
+        {
+          "en": "At the end of the lane there is a well.",
+          "si": "පාර අගදී ළිඳක් තියෙනවා."
+        },
+        {
+          "en": "Meanwhile, the rain had stopped.",
+          "si": "ඒ අතරේ වැස්ස නැවතිලා තිබුණා."
+        }
+      ],
+      "watchOutSi": "'At the end' කියලා තනියම යෙදුවොත් අඩුයි — 'at the end of what?' කියලා අහන්න වෙනවා. 'In the end' නම් තනියම හරි."
+    },
+    {
+      "type": "vocab",
+      "title": "Words that hold a story together",
+      "titleSi": "කතාවක් බඳින වචන",
+      "introSi": "මේවා අර්ථය එකතු කරන්නේ නෑ — පිළිවෙළ එකතු කරනවා. ඒත් ඒක නැතුව කතාවක් නෑ.",
+      "items": [
+        {
+          "en": "first",
+          "si": "මුලින්ම",
+          "say": "ෆර්ස්ට්",
+          "exampleEn": "First we packed the bags.",
+          "exampleSi": "මුලින්ම අපි බෑග් ඇහුරුවා."
+        },
+        {
+          "en": "at first",
+          "si": "මුලදී (පස්සේ වෙනස් වුණා)",
+          "say": "ඇට් ෆර්ස්ට්",
+          "exampleEn": "At first I was nervous.",
+          "exampleSi": "මුලදී මට බයයි වගේ."
+        },
+        {
+          "en": "then",
+          "si": "ඊට පස්සේ",
+          "say": "දෙන්",
+          "exampleEn": "Then the lights went out.",
+          "exampleSi": "ඊට පස්සේ ලයිට් නිවුණා."
+        },
+        {
+          "en": "after that",
+          "si": "ඊට පස්සේ",
+          "say": "ආෆ්ටර් දැට්",
+          "exampleEn": "After that, we never spoke.",
+          "exampleSi": "ඊට පස්සේ අපි කවදාවත් කථා කළේ නෑ."
+        },
+        {
+          "en": "afterwards",
+          "si": "පස්සේ",
+          "say": "ආෆ්ටර්වර්ඩ්ස්",
+          "exampleEn": "We had tea afterwards.",
+          "exampleSi": "පස්සේ අපි තේ බිව්වා."
+        },
+        {
+          "en": "later",
+          "si": "ටික වෙලාවකට පස්සේ",
+          "say": "ලේටර්",
+          "exampleEn": "Later, he apologised.",
+          "exampleSi": "පස්සේ එයා සමාව ඉල්ලුවා."
+        },
+        {
+          "en": "meanwhile",
+          "si": "ඒ අතරේ",
+          "say": "මීන්වයිල්",
+          "exampleEn": "Meanwhile, the rice was burning.",
+          "exampleSi": "ඒ අතරේ බත් පිච්චෙනවා."
+        },
+        {
+          "en": "finally",
+          "si": "අන්තිමට",
+          "say": "ෆයිනලි",
+          "exampleEn": "Finally, the door opened.",
+          "exampleSi": "අන්තිමට දොර ඇරුණා."
+        },
+        {
+          "en": "in the end",
+          "si": "අන්තිමේදී",
+          "say": "ඉන් ද එන්ඩ්",
+          "exampleEn": "In the end we stayed home.",
+          "exampleSi": "අන්තිමේදී අපි ගෙදර හිටියා."
+        },
+        {
+          "en": "at the end of",
+          "si": "... අගදී",
+          "say": "ඇට් ද එන්ඩ් ඔෆ්",
+          "exampleEn": "At the end of the month.",
+          "exampleSi": "මාසේ අගදී."
+        },
+        {
+          "en": "as soon as",
+          "si": "...ම",
+          "say": "ඇස් සූන් ඇස්",
+          "exampleEn": "As soon as he left, it rained.",
+          "exampleSi": "එයා ගියාමම වහින්න ගත්තා."
+        },
+        {
+          "en": "suddenly",
+          "si": "හදිසියේම",
+          "say": "සඩන්ලි",
+          "exampleEn": "Suddenly the bus stopped.",
+          "exampleSi": "හදිසියේම බස් එක නැවතුණා."
+        },
+        {
+          "en": "eventually",
+          "si": "කලකට පස්සේ",
+          "say": "ඉවෙන්චුඅලි",
+          "exampleEn": "Eventually they agreed.",
+          "exampleSi": "කලකට පස්සේ ඒගොල්ලෝ එකඟ වුණා."
+        },
+        {
+          "en": "step",
+          "si": "පියවර",
+          "say": "ස්ටෙප්",
+          "exampleEn": "The first step is easy.",
+          "exampleSi": "පළවෙනි පියවර ලේසියි."
+        },
+        {
+          "en": "next",
+          "si": "ඊළඟට",
+          "say": "නෙක්ස්ට්",
+          "exampleEn": "Next, add the salt.",
+          "exampleSi": "ඊළඟට ලුණු දාන්න."
+        },
+        {
+          "en": "in the meantime",
+          "si": "ඒ අතරතුර",
+          "say": "ඉන් ද මීන්ටයිම්",
+          "exampleEn": "In the meantime, wait here.",
+          "exampleSi": "ඒ අතරතුර මෙතන ඉන්න."
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "How do you make it?",
+      "titleSi": "ඒක හදන්නේ කොහොමද?",
+      "settingSi": "කුස්සියේ. නදීෂා පොල් රොටී හදන හැටි කියලා දෙනවා. පිළිවෙළ කියන වචන ගණන් කරන්න.",
+      "lines": [
+        {
+          "speaker": "Ruwan",
+          "en": "How do you make pol roti? Mine always breaks.",
+          "si": "පොල් රොටී හදන්නේ කොහොමද? මගේ හැමදාම කැඩෙනවා."
+        },
+        {
+          "speaker": "Nadeesha",
+          "en": "First, mix the flour and the scraped coconut. Dry, no water yet.",
+          "si": "මුලින්ම පිටියි ගාපු පොලුයි මිශ්‍ර කරන්න. වේලලා, තාම වතුර නෑ."
+        },
+        {
+          "speaker": "Ruwan",
+          "en": "No water? At first that sounds wrong.",
+          "si": "වතුර නෑ? මුලින්ම ඒක වැරදියි වගේ."
+        },
+        {
+          "speaker": "Nadeesha",
+          "en": "It does, but the coconut has its own. Then add salt, then a little warm water.",
+          "si": "ඔව්, ඒත් පොල්වල වතුර තියෙනවා. ඊට පස්සේ ලුණු, ඊට පස්සේ ටිකක් උණු වතුර."
+        },
+        {
+          "speaker": "Ruwan",
+          "en": "And after that?",
+          "si": "ඊට පස්සේ?"
+        },
+        {
+          "speaker": "Nadeesha",
+          "en": "After that, leave it for ten minutes. Meanwhile, heat the pan.",
+          "si": "ඊට පස්සේ විනාඩි දහයක් තියන්න. ඒ අතරේ තාච්චිය රත් කරන්න."
+        },
+        {
+          "speaker": "Ruwan",
+          "en": "Then I press it flat?",
+          "si": "ඊට පස්සේ තට්ටු කරලා පැතලි කරන්නද?"
+        },
+        {
+          "speaker": "Nadeesha",
+          "en": "Finally, yes. And do not turn it twice — that is why yours breaks.",
+          "si": "අන්තිමට, ඔව්. දෙපාරක් හරවන්න එපා — ඔයාගේ එක කැඩෙන්නේ ඒකයි."
+        }
+      ]
+    },
+    {
+      "type": "story",
+      "title": "The letter he did not send",
+      "titleSi": "යවන්නේ නැති ලියුම",
+      "introSi": "එකම සිද්ධිය. පිළිවෙළ කියන වචන අයින් කරලා කියෙව්වොත් කොහොම දැනෙයිද කියලා හිතන්න.",
+      "paragraphs": [
+        {
+          "en": "Piyal decided to write to his brother. They had not spoken for nine years, and he no longer remembered why.",
+          "si": "පියල් තීරණය කළා අයියාට ලියන්න. අවුරුදු නමයක් ඒගොල්ලෝ කථා කරලා තිබුණේ නෑ, ඇයි කියලා එයාට දැන් මතකත් නෑ."
+        },
+        {
+          "en": "First he wrote two pages. Then he read them again and threw them away, because they sounded angry.",
+          "si": "මුලින්ම එයා පිටු දෙකක් ලිව්වා. ඊට පස්සේ ආපහු කියෙව්වා, ඒවා තරහෙන් ලියපු ඒවා වගේ නිසා ඉරලා දැම්මා."
+        },
+        {
+          "en": "After that he wrote four lines. Meanwhile the rain had started, and the light in the room had gone orange.",
+          "si": "ඊට පස්සේ පේළි හතරක් ලිව්වා. ඒ අතරේ වහින්න පටන් අරන් තිබුණා, කාමරේ එළිය තැඹිලි පාට වෙලා."
+        },
+        {
+          "en": "Later he put the four lines in an envelope and wrote the address. In the end he did not post it. He kept it in the drawer, and telephoned instead.",
+          "si": "පස්සේ ඒ පේළි හතර කවරයකට දාලා ලිපිනය ලිව්වා. අන්තිමේදී එයා ඒක තැපැල් කළේ නෑ. ලාච්චුවේ තියලා, ඒ වෙනුවට කතා කළා."
+        }
+      ],
+      "glossary": [
+        {
+          "en": "envelope",
+          "si": "කවරය"
+        },
+        {
+          "en": "address",
+          "si": "ලිපිනය"
+        },
+        {
+          "en": "drawer",
+          "si": "ලාච්චුව"
+        },
+        {
+          "en": "post (v)",
+          "si": "තැපැල් කරනවා"
+        }
+      ],
+      "questionsSi": [
+        "පිළිවෙළ කියන වචන කීයක් හොයාගන්න පුළුවන්ද?",
+        "'Meanwhile' යෙදුවේ ඇයි? එකවර වුණේ මොනවාද?",
+        "'In the end' වෙනුවට 'At the end' දැම්මොත් වාක්‍යය හරිද?"
+      ]
+    },
+    {
+      "type": "tip",
+      "title": "Do not use all of them at once",
+      "titleSi": "ඔක්කොම එකපාර දාන්න එපා",
+      "bodySi": "වචන ඉගෙන ගත්ත ගමන් හැම වාක්‍යයකටම එකක් දාන්න හිතෙනවා. ඒක ලියන එක බර කරනවා.\n\nවැඩියි: 'First I woke up. Then I washed. After that I ate. Then I left. Finally I arrived.'\n\nහොඳයි: 'I woke up late and washed quickly. After that I ate standing up. In the end I still arrived on time.'\n\nඡේදයකට දෙකක් තුනක් ඇති. සිද්ධි පිළිවෙළට වුණා නම් ඒක තනියම පැහැදිලියි — වචනය දාන්නේ පිළිවෙළ පැහැදිලි නැති තැනටයි, නැත්නම් අවධාරණයක් ඕන තැනටයි.",
+      "body": "Two or three in a paragraph is plenty. Use them where the order is not already obvious."
+    },
+    {
+      "type": "practice",
+      "title": "Choose the linker",
+      "titleSi": "ගැලපෙන වචනය තෝරන්න",
+      "instructionSi": "වරහන් තුළ ඇති දෙකෙන් ගැලපෙන එක තෝරලා ලියන්න.",
+      "items": [
+        {
+          "prompt": "___ I didn't like the job, but now I love it. (First / At first)",
+          "answer": "At first",
+          "hintSi": "පස්සේ වෙනසක් තියෙනවා.",
+          "full": "At first I didn't like the job, but now I love it."
+        },
+        {
+          "prompt": "___ add the onions, then the garlic. (First / At first)",
+          "answer": "First",
+          "hintSi": "පිළිවෙළේ පළවෙනි පියවර.",
+          "full": "First add the onions, then the garlic."
+        },
+        {
+          "prompt": "We argued for an hour. ___ we took the train. (In the end / At the end)",
+          "answer": "In the end",
+          "hintSi": "අන්තිමට ගත්ත තීරණය.",
+          "full": "In the end we took the train."
+        },
+        {
+          "prompt": "___ of the film, everybody was crying. (In the end / At the end)",
+          "answer": "At the end",
+          "hintSi": "දෙයක අන්තිම කොටස — 'of' එකක් තියෙනවා.",
+          "full": "At the end of the film, everybody was crying."
+        },
+        {
+          "prompt": "I was cooking. ___, the children set the table. (Meanwhile / Finally)",
+          "answer": "Meanwhile",
+          "hintSi": "එකවර වුණු දෙයක්.",
+          "full": "I was cooking. Meanwhile, the children set the table."
+        },
+        {
+          "prompt": "We waited three hours. ___, the bus came. (Meanwhile / Finally)",
+          "answer": "Finally",
+          "hintSi": "බලාගෙන ඉඳලා අන්තිමට.",
+          "full": "We waited three hours. Finally, the bus came."
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "b1-12-q1",
+      "q": "සිද්ධි පිළිවෙළට ගොතන මූලික කට්ටලය?",
+      "options": [
+        "and, but, because",
+        "first, then, after that, finally",
+        "very, quite, too",
+        "who, what, where"
+      ],
+      "answer": 1,
+      "explainSi": "පිළිවෙළ කියන වචන — first, then, after that, finally."
+    },
+    {
+      "id": "b1-12-q2",
+      "q": "'මුලදී මට ඒක අමාරු වුණා, ඒත් දැන් පුරුදුයි' — කුමන වචනයද?",
+      "options": [
+        "First",
+        "At first",
+        "Finally",
+        "Meanwhile"
+      ],
+      "answer": 1,
+      "explainSi": "පස්සේ වෙනසක් තියෙන නිසා 'At first'.",
+      "speak": "At first it was hard, but now I'm used to it."
+    },
+    {
+      "id": "b1-12-q3",
+      "q": "'First, add the onions' — මෙතන 'first' කරන්නේ මොකක්ද?",
+      "options": [
+        "වෙනසක් කියනවා",
+        "පිළිවෙළේ පළවෙනි පියවර කියනවා",
+        "අන්තිමට කියනවා",
+        "එකවර කියනවා"
+      ],
+      "answer": 1,
+      "explainSi": "පිළිවෙළ — පළවෙනි පියවර."
+    },
+    {
+      "id": "b1-12-q4",
+      "q": "කුමන එක හරිද?",
+      "options": [
+        "After, we went home.",
+        "After that, we went home.",
+        "After this we go home.",
+        "Afterward that, we went home."
+      ],
+      "answer": 1,
+      "explainSi": "'After that' — 'that' අවශ්‍යයි. නැත්නම් 'Afterwards'."
+    },
+    {
+      "id": "b1-12-q5",
+      "q": "'In the end' කියන්නේ?",
+      "options": [
+        "දෙයක අන්තිම කොටස",
+        "හුඟක් දේවලට පස්සේ, අන්තිමට",
+        "එකවර",
+        "මුලින්ම"
+      ],
+      "answer": 1,
+      "explainSi": "finally එකට සමානයි — අන්තිමට ගත්ත තීරණය හෝ වුණු දේ."
+    },
+    {
+      "id": "b1-12-q6",
+      "q": "'___ of the road there is a well.' — හිස් තැනට?",
+      "options": [
+        "In the end",
+        "At the end",
+        "Finally",
+        "Later"
+      ],
+      "answer": 1,
+      "explainSi": "තැනක අග — 'At the end of'.",
+      "speak": "At the end of the road there is a well."
+    },
+    {
+      "id": "b1-12-q7",
+      "q": "'Meanwhile' යෙදෙන්නේ?",
+      "options": [
+        "ඊට පස්සේ වුණු දෙයකට",
+        "එකවර වුණු දෙයකට",
+        "අන්තිමට වුණු දෙයකට",
+        "මුලින්ම වුණු දෙයකට"
+      ],
+      "answer": 1,
+      "explainSi": "ඒ අතරේ, එකවර වෙන දෙයක්."
+    },
+    {
+      "id": "b1-12-q8",
+      "q": "'At first I liked it.' කියලා නැවතුනොත් අහන කෙනාට හිතෙන්නේ?",
+      "options": [
+        "කතාව ඉවරයි",
+        "දැන් නැද්ද කියලා — වෙනසක් එනවා කියලා බලාපොරොත්තුවක්",
+        "පිළිවෙළ තේරෙනවා",
+        "ප්‍රශ්නයක් අහනවා"
+      ],
+      "answer": 1,
+      "explainSi": "'At first' කිව්වම වෙනසක් එනකම් බලාගෙන ඉන්නවා."
+    },
+    {
+      "id": "b1-12-q9",
+      "q": "හිස් තැනට: 'We waited three hours. ___, the bus came.'",
+      "options": [
+        "Meanwhile",
+        "Finally",
+        "First",
+        "At first"
+      ],
+      "answer": 1,
+      "explainSi": "බලාගෙන ඉඳලා අන්තිමට.",
+      "speak": "We waited three hours. Finally, the bus came."
+    },
+    {
+      "id": "b1-12-q10",
+      "q": "ඡේදයකට මේ වචන කීයක් විතර ඕනද?",
+      "options": [
+        "හැම වාක්‍යයකටම එකක්",
+        "දෙකක් තුනක් විතර",
+        "එකක්වත් එපා",
+        "අඩුම තරමේ පහක්"
+      ],
+      "answer": 1,
+      "explainSi": "වැඩිපුර දැම්මම ලියන එක බර වෙනවා."
+    },
+    {
+      "id": "b1-12-q11",
+      "q": "'Suddenly' කියන්නේ?",
+      "options": [
+        "හෙමින්",
+        "හදිසියේම",
+        "නිතරම",
+        "අන්තිමට"
+      ],
+      "answer": 1,
+      "explainSi": "බලාපොරොත්තු නොවුණු විදිහට, එක වර."
+    },
+    {
+      "id": "b1-12-q12",
+      "q": "'As soon as he left, it rained.' — තේරුම?",
+      "options": [
+        "එයා යන්න කලින් වහිනවා",
+        "එයා ගියාමම වහින්න ගත්තා",
+        "එයා යනකොට වහිනවා තිබුණා",
+        "එයා ගියේ නෑ"
+      ],
+      "answer": 1,
+      "explainSi": "as soon as = ...ම, ඒ මොහොතේම."
+    },
+    {
+      "id": "b1-12-q13",
+      "q": "'Then' සහ 'after that' අතර ලොකු වෙනසක් තියෙනවාද?",
+      "options": [
+        "ඔව්, අර්ථ දෙකක්",
+        "නෑ — දෙකම 'ඊට පස්සේ', 'after that' ටිකක් බරයි",
+        "'then' අනාගතයට විතරයි",
+        "'after that' ප්‍රශ්නවලට විතරයි"
+      ],
+      "answer": 1,
+      "explainSi": "අර්ථය එකයි. 'after that' ලියන එකට වඩා ගැලපෙනවා."
+    },
+    {
+      "id": "b1-12-q14",
+      "q": "'Eventually' කියන්නේ?",
+      "options": [
+        "හදිසියේම",
+        "කලකට පස්සේ, අන්තිමට",
+        "මුලින්ම",
+        "ඒ අතරේ"
+      ],
+      "answer": 1,
+      "explainSi": "කල් ගත වුණාට පස්සේ — in the end එකට ළං අර්ථයක්."
+    },
+    {
+      "id": "b1-12-q15",
+      "q": "කුමන ඡේදය හොඳද?",
+      "options": [
+        "First I woke. Then I washed. Then I ate. Then I left. Finally I arrived.",
+        "I woke up late and washed quickly. After that I ate standing up. In the end I still arrived on time.",
+        "I woke. I washed. I ate. I left. I arrived.",
+        "Finally I woke. Finally I washed. Finally I ate."
+      ],
+      "answer": 1,
+      "explainSi": "වචන දෙකක් තුනක්, ඕන තැනට විතරක්."
+    },
+    {
+      "id": "b1-12-q16",
+      "q": "හිස් තැනට: 'I was cooking. ___, the children were setting the table.'",
+      "options": [
+        "Finally",
+        "Meanwhile",
+        "At first",
+        "After that"
+      ],
+      "answer": 1,
+      "explainSi": "එකවර, වෙන තැනක වුණු දෙයක්.",
+      "speak": "I was cooking. Meanwhile, the children were setting the table."
+    },
+    {
+      "id": "b1-12-q17",
+      "q": "වාක්‍යය මුලට 'After that' දාද්දී කොමාව?",
+      "options": [
+        "කොමාවක් දාන්නේ නෑ",
+        "'After that, …' කියලා කොමාවක් දානවා",
+        "අගට කොමාවක්",
+        "තිත් තුනක්"
+      ],
+      "answer": 1,
+      "explainSi": "දිග linker එකක් මුලට දාද්දී කොමාවක් දානවා."
+    },
+    {
+      "id": "b1-12-q18",
+      "q": "A2 සහ B1 අතර ලොකුම වෙනස මොකක්ද?",
+      "options": [
+        "වචන ගාණ",
+        "නිවැරදි වාක්‍ය හදන එක",
+        "වාක්‍ය එකට බැඳලා කතාවක් හදන එක",
+        "උච්චාරණය"
+      ],
+      "answer": 2,
+      "explainSi": "B1 කියන්නේ වෙන් වුණු වාක්‍ය නෙවෙයි, බැඳුණු ලියවිල්ලක්."
+    }
+  ],
+  "vocab": [
+    {
+      "en": "first",
+      "si": "මුලින්ම",
+      "say": "ෆර්ස්ට්",
+      "exampleEn": "First we packed the bags.",
+      "exampleSi": "මුලින්ම අපි බෑග් ඇහුරුවා."
+    },
+    {
+      "en": "at first",
+      "si": "මුලදී (පස්සේ වෙනස් වුණා)",
+      "say": "ඇට් ෆර්ස්ට්",
+      "exampleEn": "At first I was nervous.",
+      "exampleSi": "මුලදී මට බයයි වගේ."
+    },
+    {
+      "en": "then",
+      "si": "ඊට පස්සේ",
+      "say": "දෙන්",
+      "exampleEn": "Then the lights went out.",
+      "exampleSi": "ඊට පස්සේ ලයිට් නිවුණා."
+    },
+    {
+      "en": "after that",
+      "si": "ඊට පස්සේ",
+      "say": "ආෆ්ටර් දැට්",
+      "exampleEn": "After that, we never spoke.",
+      "exampleSi": "ඊට පස්සේ අපි කවදාවත් කථා කළේ නෑ."
+    },
+    {
+      "en": "afterwards",
+      "si": "පස්සේ",
+      "say": "ආෆ්ටර්වර්ඩ්ස්",
+      "exampleEn": "We had tea afterwards.",
+      "exampleSi": "පස්සේ අපි තේ බිව්වා."
+    },
+    {
+      "en": "later",
+      "si": "ටික වෙලාවකට පස්සේ",
+      "say": "ලේටර්",
+      "exampleEn": "Later, he apologised.",
+      "exampleSi": "පස්සේ එයා සමාව ඉල්ලුවා."
+    },
+    {
+      "en": "meanwhile",
+      "si": "ඒ අතරේ",
+      "say": "මීන්වයිල්",
+      "exampleEn": "Meanwhile, the rice was burning.",
+      "exampleSi": "ඒ අතරේ බත් පිච්චෙනවා."
+    },
+    {
+      "en": "finally",
+      "si": "අන්තිමට",
+      "say": "ෆයිනලි",
+      "exampleEn": "Finally, the door opened.",
+      "exampleSi": "අන්තිමට දොර ඇරුණා."
+    },
+    {
+      "en": "in the end",
+      "si": "අන්තිමේදී",
+      "say": "ඉන් ද එන්ඩ්",
+      "exampleEn": "In the end we stayed home.",
+      "exampleSi": "අන්තිමේදී අපි ගෙදර හිටියා."
+    },
+    {
+      "en": "at the end of",
+      "si": "... අගදී",
+      "say": "ඇට් ද එන්ඩ් ඔෆ්",
+      "exampleEn": "At the end of the month.",
+      "exampleSi": "මාසේ අගදී."
+    },
+    {
+      "en": "as soon as",
+      "si": "...ම",
+      "say": "ඇස් සූන් ඇස්",
+      "exampleEn": "As soon as he left, it rained.",
+      "exampleSi": "එයා ගියාමම වහින්න ගත්තා."
+    },
+    {
+      "en": "suddenly",
+      "si": "හදිසියේම",
+      "say": "සඩන්ලි",
+      "exampleEn": "Suddenly the bus stopped.",
+      "exampleSi": "හදිසියේම බස් එක නැවතුණා."
+    },
+    {
+      "en": "eventually",
+      "si": "කලකට පස්සේ",
+      "say": "ඉවෙන්චුඅලි",
+      "exampleEn": "Eventually they agreed.",
+      "exampleSi": "කලකට පස්සේ ඒගොල්ලෝ එකඟ වුණා."
+    },
+    {
+      "en": "step",
+      "si": "පියවර",
+      "say": "ස්ටෙප්",
+      "exampleEn": "The first step is easy.",
+      "exampleSi": "පළවෙනි පියවර ලේසියි."
+    },
+    {
+      "en": "next",
+      "si": "ඊළඟට",
+      "say": "නෙක්ස්ට්",
+      "exampleEn": "Next, add the salt.",
+      "exampleSi": "ඊළඟට ලුණු දාන්න."
+    },
+    {
+      "en": "in the meantime",
+      "si": "ඒ අතරතුර",
+      "say": "ඉන් ද මීන්ටයිම්",
+      "exampleEn": "In the meantime, wait here.",
+      "exampleSi": "ඒ අතරතුර මෙතන ඉන්න."
+    }
+  ]
+}

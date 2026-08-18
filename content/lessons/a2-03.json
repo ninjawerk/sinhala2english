@@ -1,0 +1,481 @@
+{
+  "hero": {
+    "src": "images/a2-03-hero.webp",
+    "alt": "Nadeesha at a market stall choosing vegetables and fruit, a cloth bag over her arm, baskets of produce and fish on ice, bright awnings overhead."
+  },
+  "goalsSi": [
+    "ආහාර සහ මිල දී ගැනීමේ වචන",
+    "some / any සහ ගණන් කළ හැකි / නොහැකි නාම පද",
+    "ආචාරශීලීව යමක් ඉල්ලීම",
+    "මිල ඇසීම සහ මිල ගැන කතා කිරීම"
+  ],
+  "goals": [
+    "Buy things in English",
+    "Use some and any",
+    "Ask for prices politely"
+  ],
+  "sections": [
+    {
+      "type": "note",
+      "title": "Shopping in English",
+      "titleSi": "ඉංග්‍රීසියෙන් සාප්පු යාම",
+      "bodySi": "මේ පාඩමේ සිට පැහැදිලි කිරීම් ටිකක් කෙටි වෙනවා, සහ ඉංග්‍රීසි වාක්‍ය වැඩියෙන් එනවා. බය වෙන්න එපා — සිංහල පරිවර්තනය තාම හැම වාක්‍යයක් යටින්ම තියෙනවා. ඔබට ඕන නම් උඩ තියෙන 'සිං' බොත්තමෙන් සිංහල සඟවලා ඔබටම පරීක්ෂා කරගන්නත් පුළුවන්.\n\nකඩේකදී අවශ්‍ය වන්නේ වාක්‍ය කිහිපයක් පමණයි. ඒවා හොඳින් පුරුදු කළොත් ඕනෑම තැනක සාප්පු යන්න පුළුවන්.",
+      "body": "From now on, more of the explanation comes in English. The Sinhala meaning is still under every line."
+    },
+    {
+      "type": "vocab",
+      "title": "Food words",
+      "titleSi": "ආහාර වචන",
+      "items": [
+        {
+          "en": "rice",
+          "si": "බත්",
+          "say": "රයිස්",
+          "exampleEn": "A kilo of rice, please.",
+          "exampleSi": "කරුණාකර බත් කිලෝ එකක්."
+        },
+        {
+          "en": "bread",
+          "si": "පාන්",
+          "say": "බ්‍රෙඩ්",
+          "exampleEn": "I buy bread every morning.",
+          "exampleSi": "මම හැම උදෑසනකම පාන් ගන්නවා."
+        },
+        {
+          "en": "vegetables",
+          "si": "එළවළු",
+          "say": "වෙජිටබල්ස්",
+          "exampleEn": "Fresh vegetables are cheap here.",
+          "exampleSi": "මෙතන අලුත් එළවළු ලාභයි."
+        },
+        {
+          "en": "fruit",
+          "si": "පලතුරු",
+          "say": "ෆෘට්",
+          "exampleEn": "She eats fruit after lunch.",
+          "exampleSi": "එයා දවල් කෑමෙන් පස්සේ පලතුරු කනවා."
+        },
+        {
+          "en": "fish",
+          "si": "මාළු",
+          "say": "ෆිෂ්",
+          "exampleEn": "The fish is very fresh.",
+          "exampleSi": "මාළු හරිම අලුත්."
+        },
+        {
+          "en": "egg",
+          "si": "බිත්තර",
+          "say": "එග්",
+          "exampleEn": "Two eggs, please.",
+          "exampleSi": "කරුණාකර බිත්තර දෙකක්."
+        },
+        {
+          "en": "milk",
+          "si": "කිරි",
+          "say": "මිල්ක්",
+          "exampleEn": "We need some milk.",
+          "exampleSi": "අපිට කිරි ටිකක් ඕන."
+        },
+        {
+          "en": "sugar",
+          "si": "සීනි",
+          "say": "ෂුගර්",
+          "exampleEn": "No sugar in my tea, please.",
+          "exampleSi": "කරුණාකර මගේ තේකට සීනි එපා."
+        },
+        {
+          "en": "salt",
+          "si": "ලුණු",
+          "say": "සෝල්ට්",
+          "exampleEn": "Add a little salt.",
+          "exampleSi": "ලුණු ටිකක් දාන්න."
+        },
+        {
+          "en": "chilli",
+          "si": "මිරිස්",
+          "say": "චිලී",
+          "exampleEn": "This curry has too much chilli.",
+          "exampleSi": "මේ ව්‍යාංජනයේ මිරිස් වැඩියි."
+        },
+        {
+          "en": "expensive",
+          "si": "මිල අධික",
+          "say": "එක්ස්පෙන්සිව්",
+          "exampleEn": "That shirt is too expensive.",
+          "exampleSi": "අර කමිසය මිල වැඩියි."
+        },
+        {
+          "en": "cheap",
+          "si": "ලාභ",
+          "say": "චීප්",
+          "exampleEn": "The market is cheaper than the shop.",
+          "exampleSi": "කඩයට වඩා වෙළඳපොළ ලාභයි."
+        }
+      ]
+    },
+    {
+      "type": "grammar",
+      "title": "Countable and uncountable",
+      "titleSi": "ගණන් කළ හැකි සහ නොහැකි",
+      "explainSi": "ඉංග්‍රීසියෙන් නාම පද වර්ග දෙකක් තියෙනවා.\n\n• ගණන් කළ හැකි (countable): one egg, two eggs — බහුවචනයක් තියෙනවා.\n• ගණන් කළ නොහැකි (uncountable): water, rice, milk, sugar — බහුවචනයක් නෑ.\n\n'How many' සහ 'How much' තෝරන්නෙත් මේ අනුවයි.",
+      "explain": "Countable nouns have a plural. Uncountable nouns do not.",
+      "formula": "How many + countable   ·   How much + uncountable",
+      "table": {
+        "headers": [
+          "Countable",
+          "Uncountable",
+          "Question"
+        ],
+        "rows": [
+          [
+            "an egg / three eggs",
+            "milk",
+            "How many eggs? / How much milk?"
+          ],
+          [
+            "a banana / five bananas",
+            "rice",
+            "How many bananas? / How much rice?"
+          ],
+          [
+            "a bottle / two bottles",
+            "water",
+            "How many bottles? / How much water?"
+          ],
+          [
+            "a coin / ten coins",
+            "money",
+            "How many coins? / How much money?"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "How many eggs do you want?",
+          "si": "ඔබට බිත්තර කීයක් ඕනද?"
+        },
+        {
+          "en": "How much rice do we need?",
+          "si": "අපිට බත් කොපමණ ඕනද?"
+        },
+        {
+          "en": "How much does it cost?",
+          "si": "ඒක කීයද?"
+        }
+      ],
+      "watchOutSi": "'money' ගණන් කළ නොහැකි වචනයක්! 'How much money' කියන්න, 'How many money' නෙවෙයි."
+    },
+    {
+      "type": "grammar",
+      "title": "some and any",
+      "titleSi": "some සහ any",
+      "explainSi": "නිශ්චිත ගණනක් නොකියා 'ටිකක්' කියන්න 'some' සහ 'any' යොදනවා.\n\n• some → ධනාත්මක වාක්‍යවල\n• any → නැහැ කියද්දී සහ ප්‍රශ්නවල\n• some → ආචාරශීලීව යමක් ඉල්ලද්දී හෝ දෙන්න ඉදිරිපත් වෙද්දී (special case)",
+      "formula": "some → +   ·   any → − සහ ?   ·   some → ආචාරශීලී ඉල්ලීම්",
+      "examples": [
+        {
+          "en": "I need some sugar.",
+          "si": "මට සීනි ටිකක් ඕන."
+        },
+        {
+          "en": "We don't have any milk.",
+          "si": "අපිට කිරි නෑ."
+        },
+        {
+          "en": "Do you have any bananas?",
+          "si": "ඔබට කෙසෙල් තියෙනවද?"
+        },
+        {
+          "en": "Would you like some tea?",
+          "si": "ඔබට තේ ටිකක් ඕනද?"
+        }
+      ],
+      "watchOutSi": "'Would you like some tea?' — මෙය ප්‍රශ්නයක් වුවත් 'some' යෙදෙනවා, මොකද මෙය ඉදිරිපත් කිරීමක් (offer)."
+    },
+    {
+      "type": "dialogue",
+      "title": "At the market",
+      "titleSi": "වෙළඳපොළේදී",
+      "settingSi": "කුමාරි එළවළු කඩයකට යනවා. මේ වාක්‍ය ඔබට ඕනෑම කඩයකදී භාවිත කරන්න පුළුවන්.",
+      "lines": [
+        {
+          "speaker": "Kumari",
+          "en": "Good morning. How much are the tomatoes?",
+          "si": "සුබ උදෑසනක්. තක්කාලි කීයද?"
+        },
+        {
+          "speaker": "Seller",
+          "en": "Three hundred rupees a kilo, madam.",
+          "si": "කිලෝ එකක් රුපියල් තුන්සියයයි, මැඩම්."
+        },
+        {
+          "speaker": "Kumari",
+          "en": "That's a bit expensive. Do you have any small ones?",
+          "si": "ඒක ටිකක් මිල වැඩියි. පොඩි ඒවා තියෙනවද?"
+        },
+        {
+          "speaker": "Seller",
+          "en": "Yes, these are two hundred and fifty. They are very fresh.",
+          "si": "ඔව්, මේවා දෙසිය පනහයි. හරිම අලුත්."
+        },
+        {
+          "speaker": "Kumari",
+          "en": "Good. I'll take one kilo. And I need some green chillies.",
+          "si": "හොඳයි. මම කිලෝ එකක් ගන්නම්. මට කොළ මිරිස් ටිකකුත් ඕන."
+        },
+        {
+          "speaker": "Seller",
+          "en": "How much do you want?",
+          "si": "කොපමණ ඕනද?"
+        },
+        {
+          "speaker": "Kumari",
+          "en": "A hundred grams is enough. How much is that altogether?",
+          "si": "ග්‍රෑම් සීයක් ඇති. ඔක්කොම කීයද?"
+        },
+        {
+          "speaker": "Seller",
+          "en": "Three hundred and twenty rupees, madam.",
+          "si": "රුපියල් තුන්සිය විස්සයි, මැඩම්."
+        },
+        {
+          "speaker": "Kumari",
+          "en": "Here you are. Thank you.",
+          "si": "මේන්න. ස්තුතියි."
+        }
+      ]
+    },
+    {
+      "type": "tip",
+      "title": "Useful shopping phrases",
+      "titleSi": "ප්‍රයෝජනවත් වාක්‍ය",
+      "bodySi": "මේ වාක්‍ය පහ මතක තියාගත්තොත් ඕනෑම කඩයකදී කතා කරන්න පුළුවන්:\n\n1. How much is this? — මේක කීයද?\n2. Do you have …? — ඔබට … තියෙනවද?\n3. I'll take this one. — මම මේක ගන්නම්.\n4. That's too expensive. — ඒක මිල වැඩියි.\n5. Here you are. — මේන්න. (යමක් දෙද්දී කියන ආචාරශීලී වචනය)",
+      "body": "Learn these five phrases and you can shop anywhere."
+    },
+    {
+      "type": "practice",
+      "title": "some, any, much or many?",
+      "titleSi": "some, any, much නැත්නම් many?",
+      "instructionSi": "නිවැරදි වචනය ලියන්න.",
+      "items": [
+        {
+          "prompt": "How ___ eggs do you want?",
+          "answer": "many",
+          "hintSi": "'eggs' ගණන් කළ හැකියි.",
+          "full": "How many eggs do you want?"
+        },
+        {
+          "prompt": "How ___ water is in the bottle?",
+          "answer": "much",
+          "hintSi": "'water' ගණන් කළ නොහැකියි.",
+          "full": "How much water is in the bottle?"
+        },
+        {
+          "prompt": "I need ___ sugar for the tea.",
+          "answer": "some",
+          "hintSi": "ධනාත්මක වාක්‍යයක්.",
+          "full": "I need some sugar for the tea."
+        },
+        {
+          "prompt": "We don't have ___ bread.",
+          "answer": "any",
+          "hintSi": "නැහැ කියන වාක්‍යයක්.",
+          "full": "We don't have any bread."
+        },
+        {
+          "prompt": "Do you have ___ fresh fish?",
+          "answer": "any",
+          "hintSi": "ප්‍රශ්නයක්.",
+          "full": "Do you have any fresh fish?"
+        },
+        {
+          "prompt": "'මේක කීයද?' → How ___ is this?",
+          "answer": "much",
+          "hintSi": "මිල අහද්දී යෙදෙන එක.",
+          "full": "How much is this?"
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "en": "bread",
+      "si": "පාන්"
+    },
+    {
+      "en": "vegetables",
+      "si": "එළවළු"
+    },
+    {
+      "en": "fruit",
+      "si": "පලතුරු"
+    },
+    {
+      "en": "fish",
+      "si": "මාළු"
+    },
+    {
+      "en": "egg",
+      "si": "බිත්තර"
+    },
+    {
+      "en": "milk",
+      "si": "කිරි"
+    },
+    {
+      "en": "sugar",
+      "si": "සීනි"
+    },
+    {
+      "en": "salt",
+      "si": "ලුණු"
+    },
+    {
+      "en": "chilli",
+      "si": "මිරිස්"
+    },
+    {
+      "en": "expensive",
+      "si": "මිල අධික"
+    },
+    {
+      "en": "cheap",
+      "si": "ලාභ"
+    },
+    {
+      "en": "fresh",
+      "si": "අලුත් / නැවුම්"
+    },
+    {
+      "en": "money",
+      "si": "සල්ලි"
+    },
+    {
+      "en": "shop",
+      "si": "කඩය"
+    },
+    {
+      "en": "buy",
+      "si": "ගන්නවා"
+    },
+    {
+      "en": "sell",
+      "si": "විකුණනවා"
+    },
+    {
+      "en": "enough",
+      "si": "ඇති / ප්‍රමාණවත්"
+    },
+    {
+      "en": "bottle",
+      "si": "බෝතලය"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "a2-03-q1",
+      "q": "'How ___ money do you have?' — නිවැරදි වචනය?",
+      "options": [
+        "many",
+        "much",
+        "some",
+        "any"
+      ],
+      "answer": 1,
+      "explainSi": "'money' ගණන් කළ නොහැකි නාම පදයක්. එනිසා 'how much'.",
+      "speak": "How much money do you have?"
+    },
+    {
+      "id": "a2-03-q2",
+      "q": "'We don't have ___ rice.' — නිවැරදි වචනය?",
+      "options": [
+        "some",
+        "any",
+        "many",
+        "much of"
+      ],
+      "answer": 1,
+      "explainSi": "නැහැ කියන වාක්‍යවල 'any' යෙදෙනවා.",
+      "speak": "We don't have any rice."
+    },
+    {
+      "id": "a2-03-q3",
+      "q": "'මේක කීයද?' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "How many is this?",
+        "How much is this?",
+        "What money this?",
+        "How cost this?"
+      ],
+      "answer": 1,
+      "explainSi": "මිල අහද්දී 'How much is this?' හෝ 'How much does it cost?'",
+      "speak": "How much is this?"
+    },
+    {
+      "id": "a2-03-q4",
+      "q": "පහත කුමන වචනය ගණන් කළ නොහැකිද (uncountable)?",
+      "options": [
+        "egg",
+        "banana",
+        "milk",
+        "bottle"
+      ],
+      "answer": 2,
+      "explainSi": "'milk' ගණන් කළ නොහැකියි — 'two milks' කියලා කියන්නේ නෑ. අනෙක් ඒවා ගණන් කළ හැකියි.",
+      "speak": "milk"
+    },
+    {
+      "id": "a2-03-q5",
+      "q": "'Would you like ___ tea?' — ආචාරශීලීව ඉදිරිපත් කරද්දී?",
+      "options": [
+        "any",
+        "some",
+        "many",
+        "much"
+      ],
+      "answer": 1,
+      "explainSi": "ප්‍රශ්නයක් වුවත්, ඉදිරිපත් කිරීමකදී (offer) 'some' යෙදෙනවා.",
+      "speak": "Would you like some tea?"
+    },
+    {
+      "id": "a2-03-q6",
+      "q": "'expensive' යන්නෙහි විරුද්ධ පදය?",
+      "options": [
+        "fresh",
+        "cheap",
+        "big",
+        "new"
+      ],
+      "answer": 1,
+      "explainSi": "expensive = මිල අධික, cheap = ලාභ.",
+      "speak": "expensive, cheap"
+    },
+    {
+      "id": "a2-03-q7",
+      "q": "යමක් අතට දෙද්දී කියන ආචාරශීලී වාක්‍යය?",
+      "options": [
+        "Take it.",
+        "Here you are.",
+        "Give me.",
+        "That is all."
+      ],
+      "answer": 1,
+      "explainSi": "'Here you are.' යනු යමක් දෙද්දී කියන සුපුරුදු ආචාරශීලී වාක්‍යයයි.",
+      "speak": "Here you are."
+    },
+    {
+      "id": "a2-03-q8",
+      "context": "Seller: Three hundred rupees a kilo, madam.\nSeller: Yes, these are two hundred and fifty. They are very fresh.\nKumari: Good. I'll take one kilo.",
+      "contextSi": "විකුණන්නා: කිලෝ එකක් රුපියල් තුන්සීයයි, මැඩම්.\nවිකුණන්නා: ඔව්, මේවා දෙසිය පනහයි. මේවා ගොඩක් නැවුම්.\nකුමාරි: හොඳයි. මම කිලෝ එකක් ගන්නම්.",
+      "q": "සංවාදයේ කුමාරි කිලෝ එකකට ගෙවුවේ කීයද?",
+      "options": [
+        "300",
+        "250",
+        "320",
+        "100"
+      ],
+      "answer": 1,
+      "explainSi": "එයා පොඩි තක්කාලි කිලෝ එකක් රුපියල් 250කට ගත්තා. ඔක්කොම (මිරිස් සමඟ) 320යි.",
+      "speak": "Two hundred and fifty rupees."
+    }
+  ]
+}

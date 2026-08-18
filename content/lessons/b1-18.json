@@ -1,0 +1,775 @@
+{
+  "hero": {
+    "src": "images/b1-18-hero.webp",
+    "alt": "Ruwan raising one hand slightly at a crowded meeting table covered in papers and cups, about to speak, whiteboard behind."
+  },
+  "goalsSi": [
+    "ආචාරශීලීව බාධා කරන්න",
+    "බාධා කරලා ආපහු කථාව භාර දෙන්න",
+    "මාතෘකාව වෙනස් කරන්න",
+    "බාධාවකට පස්සේ කථාව ආපහු ගන්න",
+    "අනිත් කෙනාට කථා කරන්න ඉඩ දෙන්න",
+    "'Anyway' කියන වචනයේ වැඩ තුන"
+  ],
+  "goals": [
+    "Interrupt politely",
+    "Hand the conversation back after interrupting",
+    "Change the topic",
+    "Return to what you were saying",
+    "Invite the other person to speak",
+    "Use anyway in its three jobs"
+  ],
+  "sections": [
+    {
+      "type": "note",
+      "title": "Waiting for a gap that never comes",
+      "titleSi": "එන්නේ නැති හිඩැසක් බලාගෙන",
+      "bodySi": "කණ්ඩායම් සාකච්ඡාවක. හැමෝම ඉංග්‍රීසියෙන් කථා කරනවා. ඔයාට කියන්න හොඳ දෙයක් තියෙනවා.\n\nඔයා බලාගෙන ඉන්නවා — කවුරු හරි නවතිනකම්. නවත්තන්නේ නෑ. සාකච්ඡාව ඉවර වෙනවා. ඔයාගේ අදහස ඔයා ළඟම.\n\nමේක ඉංග්‍රීසි නොදන්නාකමක් නෙවෙයි. මේක බාධා කරන්න බැරිකමක්.\n\nඉංග්‍රීසි කථාවේ හිඩැස් ඉතාම කෙටියි. හැමෝම බලාගෙන හිටියොත් කවුරුවත් කථා කරන්නේ නෑ. ඒ නිසා බාධා කිරීම අශිෂ්ට නෑ — ඒක කරන විදිහක් තියෙනවා විතරයි.\n\n'Sorry to interrupt, but…'\n'Could I just say something?'\n'Can I come in here?'\n\nමේ කෑලි තුනෙන් ඕනම සාකච්ඡාවකට ඇතුළු වෙන්න පුළුවන්. CEFR B1 මට්ටමේ මේකට කියන්නේ 'Managing interaction' — කථාව මෙහෙයවීම.\n\nවැදගත්: ඔයා බාධා කරන එකට වඩා වැදගත් අනිත් කෙනාට ආපහු භාර දෙන එක. ඒක නැත්නම් ඔයා කථාව පැහැරගත්තා වගේ.",
+      "body": "Gaps in English conversation are very short. Interrupting is not rude — there is simply a way to do it, and a way to hand the floor back."
+    },
+    {
+      "type": "grammar",
+      "title": "Coming in",
+      "titleSi": "ඇතුළු වීම",
+      "explainSi": "බාධා කරන කෑලි, මෘදු ඉඳන් තදට:\n\nඉතාම ආචාරශීලී:\n'Sorry to interrupt, but…'\n'Could I just say something?'\n'Do you mind if I say something?'\n'Can I come in here?'\n\nසාමාන්‍ය:\n'Actually, …'\n'Just one thing —'\n'If I could just add something…'\n\nප්‍රශ්නයක් තියෙනවා නම්:\n'Sorry, can I ask a question?'\n'Sorry, I have a question about that.'\n\nරටාව: සමාව + ඉල්ලීම + ඔයාගේ අදහස.\n\n'Sorry to interrupt, but I think there's another problem with that date.'\n\nලොකුම වැරැද්ද: කෑල්ල කියලා නවතින එක. 'Sorry to interrupt…' කියලා නිශ්ශබ්ද වුණොත් අනිත් කෙනා ආපහු පටන් ගන්නවා. කෑල්ලයි අදහසයි එකට කියන්න.\n\nතව එකක්: 'Actually' කියන එක බාධාවක් වගේම නිවැරදි කිරීමකුත් වෙනවා — 'Actually, it was Tuesday.' ඒක ආචාරශීලීයි, මොකද ඒක අනිත් කෙනාව වැරදියි කියලා කෙළින්ම කියන්නේ නෑ.",
+      "explain": "Apology plus request plus your point, in one breath. Pausing after the apology gives the floor straight back.",
+      "formula": "Sorry to interrupt, but + ඔයාගේ අදහස",
+      "table": {
+        "headers": [
+          "තරම",
+          "කෑල්ල",
+          "සිංහල"
+        ],
+        "rows": [
+          [
+            "ඉතාම ආචාරශීලී",
+            "Sorry to interrupt, but…",
+            "බාධා කරනවා, ඒත්…"
+          ],
+          [
+            "ආචාරශීලී",
+            "Could I just say something?",
+            "දෙයක් කියන්න පුළුවන්ද?"
+          ],
+          [
+            "සාමාන්‍ය",
+            "Actually, …",
+            "ඇත්තටම…"
+          ],
+          [
+            "ප්‍රශ්නයක්",
+            "Sorry, can I ask a question?",
+            "සමාවෙන්න, ප්‍රශ්නයක් අහන්න පුළුවන්ද?"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "Sorry to interrupt, but we only have ten minutes left.",
+          "si": "බාධා කරනවා, ඒත් අපිට ඉතුරු වෙලා තියෙන්නේ විනාඩි දහයයි."
+        },
+        {
+          "en": "Could I just say something about the cost?",
+          "si": "ගාන ගැන දෙයක් කියන්න පුළුවන්ද?"
+        },
+        {
+          "en": "Actually, I think it was Tuesday, not Monday.",
+          "si": "ඇත්තටම ඒක අඟහරුවාදා කියලා මට හිතෙනවා, සඳුදා නෙවෙයි."
+        }
+      ],
+      "watchOutSi": "'Excuse me' කියන එක බාධා කරන්න යෙදෙන්නෙත් නෑ නෙවෙයි, ඒත් සාකච්ඡාවක් මැදදී ඒක ටිකක් විධිමත්. 'Sorry to interrupt' ස්වාභාවිකයි."
+    },
+    {
+      "type": "grammar",
+      "title": "Handing it back",
+      "titleSi": "ආපහු භාර දීම",
+      "explainSi": "බාධා කරලා ඔයාගේ දේ කිව්වට පස්සේ, කථාව ආපහු දෙන්න ඕන. මේක ගොඩක් අය අමතක කරනවා.\n\n'Sorry, you were saying?' — ඔයා කියමින් හිටියේ?\n'Anyway, go on.' — එහෙනම් කියන්න.\n'Sorry, I interrupted you.' — සමාවෙන්න, මම බාධා කළා.\n'Please, carry on.' — කරුණාකර දිගටම කියන්න.\n\nමේ එක වාක්‍යයෙන් ඔයා පෙන්නනවා ඔයා කථාව පැහැරගන්න ආවේ නෑ කියලා.\n\nඅනිත් පැත්තෙන් — ඔයාට කවුරු හරි බාධා කළොත්, ආපහු පටන් ගන්නේ මෙහෙම:\n\n'Anyway, as I was saying…' — එහෙනම්, මම කියමින් හිටියේ…\n'So, where was I?' — එහෙනම්, මම කොහෙද හිටියේ?\n'To get back to what I was saying…' — මම කියපු දේට ආපහු එනවා නම්…\n\n'As I was saying' කියන එක ඉතාම ප්‍රයෝජනවත් — ඒක තරහක් නැතුව 'මම තාම ඉවර නෑ' කියනවා.",
+      "explain": "After your point, give the floor back. And if you were the one interrupted, As I was saying picks the thread up without sounding annoyed.",
+      "formula": "බාධාවෙන් පස්සේ: Sorry, you were saying?  ·  ආපහු ගන්න: Anyway, as I was saying…",
+      "table": {
+        "headers": [
+          "අවස්ථාව",
+          "කියන්නේ"
+        ],
+        "rows": [
+          [
+            "භාර දෙන්න",
+            "Sorry, you were saying?"
+          ],
+          [
+            "භාර දෙන්න",
+            "Please, carry on."
+          ],
+          [
+            "ආපහු ගන්න",
+            "Anyway, as I was saying…"
+          ],
+          [
+            "ආපහු ගන්න",
+            "So, where was I?"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "Sorry, I interrupted you. You were saying?",
+          "si": "සමාවෙන්න, මම බාධා කළා. ඔයා කියමින් හිටියේ?"
+        },
+        {
+          "en": "Anyway, as I was saying, the road is closed until June.",
+          "si": "එහෙනම්, මම කියමින් හිටියේ, පාර ජූනි වෙනකම් වහලා."
+        },
+        {
+          "en": "Where was I? Oh yes — the letter.",
+          "si": "මම කොහෙද හිටියේ? අහ් ඔව් — ඒ ලියුම."
+        }
+      ],
+      "watchOutSi": "'You were saying?' කියන එකේ ස්වරය වැදගත්. උඩට යන ස්වරයකින් කිව්වොත් ඒක ආචාරශීලීයි. පැතලිව කිව්වොත් 'ඉතින්?' වගේ ඇහෙනවා."
+    },
+    {
+      "type": "grammar",
+      "title": "Changing the subject",
+      "titleSi": "මාතෘකාව වෙනස් කිරීම",
+      "explainSi": "මාතෘකාව හදිසියේ වෙනස් කරන එකත් සංඥාවක් ඕන දෙයක්. එහෙම නැත්නම් අනිත් කෙනා පැටලෙනවා.\n\nBy the way… — අනිත් දේ අමතක වෙන්න කලින්.\n'By the way, did you get my message?'\n\nAnyway… — කලින් මාතෘකාව ඇති, අලුත් එකකට.\n'Anyway, what time is the train?'\n\nSpeaking of… — දැන් කිව්ව දෙයක් නිසා මතක් වුණා.\n'Speaking of Kandy, when are you going?'\n\nThat reminds me… — ඒකෙන් මට මතක් වුණා.\n'That reminds me — I have to call the bank.'\n\nBefore I forget… — අමතක වෙන්න කලින්.\n'Before I forget, your book is in my bag.'\n\nමේවා පොඩි වචන, ඒත් මේවා නැත්නම් අලුත් මාතෘකාව හදිසි පහරක් වගේ දැනෙනවා.\n\n'Anyway' කියන එකට වැඩ තුනක් තියෙනවා, ඒ නිසා ඒක ඉංග්‍රීසි කථාවේ බහුලම වචනවලින් එකක්:\n1. මාතෘකාව වෙනස් කරන්න — 'Anyway, what about Friday?'\n2. ආපහු පටන් ගන්න — 'Anyway, as I was saying…'\n3. කථාව ඉවර කරන්න (b1-17) — 'Anyway, I'd better go.'",
+      "explain": "By the way, anyway, speaking of, that reminds me — a new topic needs a signal or it lands like an interruption.",
+      "formula": "By the way / Anyway / Speaking of… / That reminds me…",
+      "table": {
+        "headers": [
+          "කෑල්ල",
+          "යෙදෙන්නේ"
+        ],
+        "rows": [
+          [
+            "By the way",
+            "අලුත් දෙයක්, සම්බන්ධයක් නෑ"
+          ],
+          [
+            "Anyway",
+            "කලින් එක ඇති, ඊළඟට"
+          ],
+          [
+            "Speaking of…",
+            "දැන් කිව්ව දෙයක් නිසා"
+          ],
+          [
+            "That reminds me",
+            "ඒකෙන් මතක් වුණා"
+          ],
+          [
+            "Before I forget",
+            "අමතක වෙන්න කලින්"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "By the way, did you get my message yesterday?",
+          "si": "අනික, ඊයේ මගේ පණිවිඩය ලැබුණාද?"
+        },
+        {
+          "en": "Speaking of the rain, is your roof still leaking?",
+          "si": "වැස්ස ගැන කිව්වම — ඔයාගේ වහලේ තාමත් කාන්දුද?"
+        },
+        {
+          "en": "That reminds me — I owe you two hundred rupees.",
+          "si": "ඒකෙන් මතක් වුණා — මම ඔයාට රුපියල් දෙසීයක් ණයයි."
+        }
+      ],
+      "watchOutSi": "'By the way' කියන එක වාක්‍යය මුලට. අගට දාන එකත් වැරදි නෑ, ඒත් මුලට දැම්මම අහන කෙනා සූදානම් වෙනවා."
+    },
+    {
+      "type": "vocab",
+      "title": "Managing the conversation",
+      "titleSi": "කථාව මෙහෙයවීම",
+      "introSi": "බාධා කරන්න, භාර දෙන්න, මාතෘකාව හරවන්න.",
+      "items": [
+        {
+          "en": "sorry to interrupt",
+          "si": "බාධා කරනවා",
+          "say": "සොරි ටු ඉන්ටරප්ට්",
+          "exampleEn": "Sorry to interrupt, but…",
+          "exampleSi": "බාධා කරනවා, ඒත්…"
+        },
+        {
+          "en": "could I just say",
+          "si": "දෙයක් කියන්න පුළුවන්ද",
+          "say": "කුඩ් අයි ජස්ට් සේ",
+          "exampleEn": "Could I just say something?",
+          "exampleSi": "දෙයක් කියන්න පුළුවන්ද?"
+        },
+        {
+          "en": "can I come in here",
+          "si": "මටත් එකතු වෙන්න පුළුවන්ද",
+          "say": "කෑන් අයි කම් ඉන් හියර්",
+          "exampleEn": "Can I come in here?",
+          "exampleSi": "මටත් මෙතනට එකතු වෙන්න පුළුවන්ද?"
+        },
+        {
+          "en": "actually",
+          "si": "ඇත්තටම",
+          "say": "ඇක්චුඅලි",
+          "exampleEn": "Actually, it was Tuesday.",
+          "exampleSi": "ඇත්තටම ඒක අඟහරුවාදා."
+        },
+        {
+          "en": "you were saying",
+          "si": "ඔයා කියමින් හිටියේ",
+          "say": "යූ වර් සේයින්",
+          "exampleEn": "Sorry — you were saying?",
+          "exampleSi": "සමාවෙන්න — ඔයා කියමින් හිටියේ?"
+        },
+        {
+          "en": "carry on",
+          "si": "දිගටම කියන්න",
+          "say": "කැරි ඔන්",
+          "exampleEn": "Please, carry on.",
+          "exampleSi": "කරුණාකර දිගටම කියන්න."
+        },
+        {
+          "en": "as I was saying",
+          "si": "මම කියමින් හිටියේ",
+          "say": "ඇස් අයි වොස් සේයින්",
+          "exampleEn": "As I was saying, the road is closed.",
+          "exampleSi": "මම කියමින් හිටියේ, පාර වහලා."
+        },
+        {
+          "en": "where was I",
+          "si": "මම කොහෙද හිටියේ",
+          "say": "වෙයා වොස් අයි",
+          "exampleEn": "So, where was I?",
+          "exampleSi": "එහෙනම්, මම කොහෙද හිටියේ?"
+        },
+        {
+          "en": "by the way",
+          "si": "අනික",
+          "say": "බයි ද වේ",
+          "exampleEn": "By the way, did you call?",
+          "exampleSi": "අනික, ඔයා කතා කළාද?"
+        },
+        {
+          "en": "anyway",
+          "si": "එහෙනම්",
+          "say": "එනිවේ",
+          "exampleEn": "Anyway, what about Friday?",
+          "exampleSi": "එහෙනම්, සිකුරාදා කොහොමද?"
+        },
+        {
+          "en": "speaking of",
+          "si": "...ගැන කිව්වම",
+          "say": "ස්පීකින් ඔෆ්",
+          "exampleEn": "Speaking of Kandy…",
+          "exampleSi": "නුවර ගැන කිව්වම…"
+        },
+        {
+          "en": "that reminds me",
+          "si": "ඒකෙන් මතක් වුණා",
+          "say": "දැට් රිමයින්ඩ්ස් මී",
+          "exampleEn": "That reminds me — I owe you.",
+          "exampleSi": "ඒකෙන් මතක් වුණා — මම ණයයි."
+        },
+        {
+          "en": "before I forget",
+          "si": "අමතක වෙන්න කලින්",
+          "say": "බිෆෝ අයි ෆොගෙට්",
+          "exampleEn": "Before I forget, here's your key.",
+          "exampleSi": "අමතක වෙන්න කලින්, මේ ඔයාගේ යතුර."
+        },
+        {
+          "en": "hold on",
+          "si": "ඉන්න",
+          "say": "හෝල්ඩ් ඔන්",
+          "exampleEn": "Hold on — say that again?",
+          "exampleSi": "ඉන්න — ආපහු කියන්නකෝ?"
+        },
+        {
+          "en": "go ahead",
+          "si": "කියන්න",
+          "say": "ගෝ අහෙඩ්",
+          "exampleEn": "No, you go ahead.",
+          "exampleSi": "නෑ, ඔයා කියන්න."
+        },
+        {
+          "en": "what do you think",
+          "si": "ඔයා මොකද හිතන්නේ",
+          "say": "වොට් ඩූ යූ තින්ක්",
+          "exampleEn": "What do you think, Ruwan?",
+          "exampleSi": "රුවන්, ඔයා මොකද හිතන්නේ?"
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "Can I come in here?",
+      "titleSi": "මටත් එකතු වෙන්න පුළුවන්ද?",
+      "settingSi": "පොඩි වැඩ රැස්වීමක්. බාධා කිරීම, භාර දීම, මාතෘකාව හැරවීම — තුනම එකට.",
+      "lines": [
+        {
+          "speaker": "Ruwan",
+          "en": "So if we move the deadline to the fifteenth, the printers will have time to —",
+          "si": "එහෙනම් අපි කාලය පහළොස්වෙනිදාට මාරු කළොත්, මුද්‍රණාලයට වෙලාව —"
+        },
+        {
+          "speaker": "Nadeesha",
+          "en": "Sorry to interrupt, but the fifteenth is a holiday.",
+          "si": "බාධා කරනවා, ඒත් පහළොස්වෙනිදා නිවාඩුවක්."
+        },
+        {
+          "speaker": "Ruwan",
+          "en": "Is it? Are you sure?",
+          "si": "එහෙමද? නිශ්චිතද?"
+        },
+        {
+          "speaker": "Nadeesha",
+          "en": "Fairly sure. Anyway, sorry — you were saying?",
+          "si": "ගොඩක් දුරට. එහෙනම්, සමාවෙන්න — ඔයා කියමින් හිටියේ?"
+        },
+        {
+          "speaker": "Ruwan",
+          "en": "As I was saying, they need four working days. So the sixteenth, then.",
+          "si": "මම කියමින් හිටියේ, ඒගොල්ලන්ට වැඩ කරන දවස් හතරක් ඕන. එහෙනම් දහසයවෙනිදා."
+        },
+        {
+          "speaker": "Nadeesha",
+          "en": "That works. By the way, did the new paper arrive?",
+          "si": "ඒක හරි. අනික, අලුත් කඩදාසි ආවාද?"
+        },
+        {
+          "speaker": "Ruwan",
+          "en": "Not yet. That reminds me — I should chase them today.",
+          "si": "තාම නෑ. ඒකෙන් මතක් වුණා — අද මම ඒගොල්ලන්ට කියන්න ඕන."
+        }
+      ]
+    },
+    {
+      "type": "story",
+      "title": "The quiet one in the meeting",
+      "titleSi": "රැස්වීමේ නිශ්ශබ්ද කෙනා",
+      "introSi": "බාධා කරන්න බැරි වීම ගැන කෙටි කතාවක්.",
+      "paragraphs": [
+        {
+          "en": "For the first six months, Tharushi said nothing in the Monday meeting. Her English was good — better than two of the men who spoke most — but there was never a gap.",
+          "si": "පළවෙනි මාස හය පුරාම තරුෂි සඳුදා රැස්වීමේදී මොකුත් කිව්වේ නෑ. ඇයගේ ඉංග්‍රීසි හොඳයි — වැඩිපුරම කථා කරපු පිරිමි දෙදෙනාට වඩා හොඳයි — ඒත් හිඩැසක් ආවේම නෑ."
+        },
+        {
+          "en": "She would prepare a sentence in her head, wait for a pause, and by the time the pause came, the subject had moved on.",
+          "si": "ඇය හිතේ වාක්‍යයක් හදාගෙන, නැවතීමක් එනකම් බලාගෙන ඉන්නවා; නැවතීම එනකොට මාතෘකාව ඉස්සරහට ගිහින්."
+        },
+        {
+          "en": "In March a colleague told her a phrase over tea: \"Sorry to interrupt, but —\". Not a sentence. Two words and a comma.",
+          "si": "මාර්තුවේ තේ එකක් බොනකොට සගයෙක් ඇයට කෑල්ලක් කිව්වා: \"Sorry to interrupt, but —\". වාක්‍යයක් නෙවෙයි. වචන දෙකයි කොමාවයි."
+        },
+        {
+          "en": "The next Monday she used it, and the room turned to her, and she said her sentence, and nobody thought it was rude. She has been the second most talkative person in that meeting ever since.",
+          "si": "ඊළඟ සඳුදා ඇය ඒක යෙදුවා, කාමරයම ඇය දිහා හැරුණා, ඇය වාක්‍යය කිව්වා, ඒක අශිෂ්ට කියලා කවුරුවත් හිතුවේ නෑ. එදා ඉඳන් ඒ රැස්වීමේ දෙවෙනියට වැඩිපුරම කථා කරන්නේ ඇය."
+        }
+      ],
+      "glossary": [
+        {
+          "en": "gap",
+          "si": "හිඩැස"
+        },
+        {
+          "en": "pause",
+          "si": "නැවතීම"
+        },
+        {
+          "en": "colleague",
+          "si": "සගයා"
+        },
+        {
+          "en": "talkative",
+          "si": "කථා කරන"
+        }
+      ],
+      "questionsSi": [
+        "තරුෂිට කථා කරන්න බැරි වුණේ ඇයි? ඉංග්‍රීසි නොදන්න නිසාද?",
+        "සගයා දුන්නේ මොකක්ද?",
+        "ඔයාට කථා කරන්න බැරි වුණු අවස්ථාවක් මතකද?"
+      ]
+    },
+    {
+      "type": "tip",
+      "title": "Do not pause after the apology",
+      "titleSi": "සමාව කියලා නවතින්න එපා",
+      "bodySi": "බාධා කරන කෙනා කරන ලොකුම වැරැද්ද මේකයි:\n\n'Sorry to interrupt…' *(නිශ්ශබ්ද)*\n\nඒ නිශ්ශබ්දතාවේදී අනිත් කෙනා ආපහු පටන් ගන්නවා, ඔයාට හිඩැස නැති වෙනවා.\n\nකෑල්ලයි අදහසයි එකට කියන්න:\n\n'Sorry to interrupt, but the fifteenth is a holiday.'\n\nඑක හුස්මක්. නවතින්නේ ඔයාගේ අදහස කිව්වට පස්සේ.",
+      "body": "Say the apology and the point in one breath. A pause after Sorry to interrupt just gives the floor straight back."
+    },
+    {
+      "type": "practice",
+      "title": "Which phrase?",
+      "titleSi": "කුමන කෑල්ලද?",
+      "instructionSi": "අවස්ථාවට ගැලපෙන කෑල්ල ලියන්න.",
+      "items": [
+        {
+          "prompt": "සාකච්ඡාවකට ආචාරශීලීව ඇතුළු වෙනවා: ___ to interrupt, but we're running out of time.",
+          "answer": "Sorry",
+          "hintSi": "සමාවෙන් පටන් ගන්නවා.",
+          "full": "Sorry to interrupt, but we're running out of time."
+        },
+        {
+          "prompt": "බාධා කරලා ආපහු භාර දෙනවා: Sorry — you ___ ?",
+          "answer": "were saying",
+          "hintSi": "එයා කියමින් හිටියේ මොකක්ද කියලා අහනවා.",
+          "full": "Sorry — you were saying?"
+        },
+        {
+          "prompt": "ඔයාට බාධා වුණාට පස්සේ ආපහු ගන්නවා: Anyway, ___ I was saying, the road is closed.",
+          "answer": "as",
+          "hintSi": "වචන දෙකයි: 'as I was saying'.",
+          "full": "Anyway, as I was saying, the road is closed."
+        },
+        {
+          "prompt": "සම්බන්ධයක් නැති අලුත් දෙයක්: ___ the way, did you get my message?",
+          "answer": "By",
+          "hintSi": "වචන තුනක්, මුලට.",
+          "full": "By the way, did you get my message?"
+        },
+        {
+          "prompt": "දැන් කිව්ව දෙයක් නිසා මතක් වුණා: That ___ me — I have to call the bank.",
+          "answer": "reminds",
+          "hintSi": "'මතක් කරනවා' කියන ක්‍රියාව.",
+          "full": "That reminds me — I have to call the bank."
+        },
+        {
+          "prompt": "අනිත් කෙනාට කථා කරන්න ඉඩ දෙනවා: No, you ___ ahead.",
+          "answer": "go",
+          "hintSi": "වචන දෙකයි.",
+          "full": "No, you go ahead."
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "b1-18-q1",
+      "q": "ඉංග්‍රීසි සාකච්ඡාවක බාධා කිරීම ගැන හරි කියමන?",
+      "options": [
+        "ඒක හැමවිටම අශිෂ්ටයි",
+        "ඒක සාමාන්‍යයි — කරන විදිහක් තියෙනවා",
+        "ඒක විධිමත් අවස්ථාවලට විතරයි",
+        "ඒක යාළුවො එක්ක විතරයි"
+      ],
+      "answer": 1,
+      "explainSi": "හිඩැස් කෙටියි. හැමෝම බලාගෙන හිටියොත් කවුරුවත් කථා කරන්නේ නෑ."
+    },
+    {
+      "id": "b1-18-q2",
+      "q": "ආචාරශීලීම බාධා කිරීම?",
+      "options": [
+        "Listen!",
+        "Sorry to interrupt, but…",
+        "Stop.",
+        "No, no."
+      ],
+      "answer": 1,
+      "explainSi": "සමාව + ඉල්ලීම + අදහස.",
+      "speak": "Sorry to interrupt, but…"
+    },
+    {
+      "id": "b1-18-q3",
+      "q": "'Sorry to interrupt…' කියලා නිශ්ශබ්ද වුණොත් මොකද වෙන්නේ?",
+      "options": [
+        "අනිත් කෙනා ඉන්නවා",
+        "අනිත් කෙනා ආපහු පටන් ගන්නවා, හිඩැස නැති වෙනවා",
+        "ඒක වඩාත් ආචාරශීලීයි",
+        "කිසිවක් වෙන්නේ නෑ"
+      ],
+      "answer": 1,
+      "explainSi": "කෑල්ලයි අදහසයි එක හුස්මකින් කියන්න."
+    },
+    {
+      "id": "b1-18-q4",
+      "q": "බාධා කරලා ඔයාගේ දේ කිව්වට පස්සේ කරන්න ඕන?",
+      "options": [
+        "දිගටම කථා කරන්න",
+        "කථාව ආපහු භාර දෙන්න",
+        "නිශ්ශබ්ද වෙන්න",
+        "යන්න"
+      ],
+      "answer": 1,
+      "explainSi": "'Sorry, you were saying?' — ඒක නැත්නම් කථාව පැහැරගත්තා වගේ."
+    },
+    {
+      "id": "b1-18-q5",
+      "q": "ඔයාට බාධා වුණාට පස්සේ ආපහු පටන් ගන්නේ?",
+      "options": [
+        "I was talking!",
+        "As I was saying…",
+        "You interrupted me.",
+        "Never mind."
+      ],
+      "answer": 1,
+      "explainSi": "තරහක් නැතුව 'මම තාම ඉවර නෑ' කියන ක්‍රමය."
+    },
+    {
+      "id": "b1-18-q6",
+      "q": "'By the way' යෙදෙන්නේ?",
+      "options": [
+        "සම්බන්ධයක් නැති අලුත් දෙයකට",
+        "කථාව ඉවර කරන්න",
+        "බාධා කරන්න",
+        "එකඟ වෙන්න"
+      ],
+      "answer": 0,
+      "explainSi": "අලුත් මාතෘකාවක්, කලින් එකට සම්බන්ධයක් නෑ."
+    },
+    {
+      "id": "b1-18-q7",
+      "q": "'Speaking of…' යෙදෙන්නේ?",
+      "options": [
+        "සම්බන්ධයක් නැති දෙයකට",
+        "දැන් කිව්ව දෙයක් නිසා මතක් වුණු දෙයකට",
+        "සමුගන්න",
+        "බාධා කරන්න"
+      ],
+      "answer": 1,
+      "explainSi": "'Speaking of Kandy, when are you going?'"
+    },
+    {
+      "id": "b1-18-q8",
+      "q": "'Anyway' කියන එකට වැඩ කීයක් තියෙනවාද?",
+      "options": [
+        "එකයි",
+        "දෙකයි",
+        "තුනයි — මාතෘකාව හරවනවා, ආපහු ගන්නවා, ඉවර කරනවා",
+        "හතරයි"
+      ],
+      "answer": 2,
+      "explainSi": "ඒ නිසා ඒක බහුලම වචනවලින් එකක්."
+    },
+    {
+      "id": "b1-18-q9",
+      "q": "හිස් තැනට: 'That ___ me — I have to call the bank.'",
+      "options": [
+        "remembers",
+        "reminds",
+        "remind",
+        "reminding"
+      ],
+      "answer": 1,
+      "explainSi": "'That reminds me' — ඒකෙන් මතක් වුණා."
+    },
+    {
+      "id": "b1-18-q10",
+      "q": "'Actually' කියන එකෙන් නිවැරදි කිරීම ආචාරශීලී වෙන්නේ ඇයි?",
+      "options": [
+        "ඒක දිග නිසා",
+        "අනිත් කෙනා වැරදියි කියලා කෙළින්ම කියන්නේ නැති නිසා",
+        "ඒක විධිමත් නිසා",
+        "ඒක ප්‍රශ්නයක් නිසා"
+      ],
+      "answer": 1,
+      "explainSi": "'Actually, it was Tuesday' — මෘදුයි."
+    },
+    {
+      "id": "b1-18-q11",
+      "q": "අනිත් කෙනාට කථා කරන්න ඉඩ දෙන්නේ?",
+      "options": [
+        "Go ahead.",
+        "Hold on.",
+        "Anyway.",
+        "Actually."
+      ],
+      "answer": 0,
+      "explainSi": "'No, you go ahead.'"
+    },
+    {
+      "id": "b1-18-q12",
+      "q": "හිස් තැනට: 'So, where ___ I?'",
+      "options": [
+        "am",
+        "was",
+        "were",
+        "have"
+      ],
+      "answer": 1,
+      "explainSi": "'Where was I?' — කථාව ආපහු ගන්නකොට."
+    },
+    {
+      "id": "b1-18-q13",
+      "q": "'Could I just say something?' කියන එකේ 'just' කරන්නේ?",
+      "options": [
+        "වෙලාව කියනවා",
+        "ඉල්ලීම කුඩා කරලා පෙන්නනවා — මෘදු කරනවා",
+        "අවධාරණය කරනවා",
+        "වැඩක් නෑ"
+      ],
+      "answer": 1,
+      "explainSi": "'just' ඉල්ලීම පොඩි කරලා පෙන්නනවා, ඒ නිසා ආචාරශීලීයි."
+    },
+    {
+      "id": "b1-18-q14",
+      "q": "රැස්වීමක කථා කරන්න බැරි වෙන්නේ බොහෝවිට?",
+      "options": [
+        "ඉංග්‍රීසි නොදන්න නිසා",
+        "බාධා කරන කෑලි නොදන්න නිසා",
+        "අදහස් නැති නිසා",
+        "බය නිසා විතරයි"
+      ],
+      "answer": 1,
+      "explainSi": "වචන දන්නවා — කෑල්ල නොදන්නවා."
+    },
+    {
+      "id": "b1-18-q15",
+      "q": "හිස් තැනට: 'Sorry, I interrupted you. You ___ ?'",
+      "options": [
+        "said",
+        "were saying",
+        "say",
+        "are saying"
+      ],
+      "answer": 1,
+      "explainSi": "'You were saying?' — ආපහු භාර දෙනවා."
+    },
+    {
+      "id": "b1-18-q16",
+      "q": "'Before I forget…' යෙදෙන්නේ?",
+      "options": [
+        "අමතක වෙන්න කලින් දෙයක් කියන්න",
+        "සමුගන්න",
+        "එකඟ නොවෙන්න",
+        "බාධා කරන්න"
+      ],
+      "answer": 0,
+      "explainSi": "'Before I forget, here's your key.'"
+    },
+    {
+      "id": "b1-18-q17",
+      "q": "බාධා කිරීමේ රටාව?",
+      "options": [
+        "අදහස + සමාව",
+        "සමාව + ඉල්ලීම + අදහස",
+        "සමාව විතරයි",
+        "ප්‍රශ්නය විතරයි"
+      ],
+      "answer": 1,
+      "explainSi": "'Sorry to interrupt, but I think there's a problem with that date.'"
+    },
+    {
+      "id": "b1-18-q18",
+      "q": "'You were saying?' කියනකොට වැදගත් දේ?",
+      "options": [
+        "වේගය",
+        "ස්වරය — උඩට යන ස්වරයක් ආචාරශීලීයි",
+        "දිග",
+        "වචන ගාන"
+      ],
+      "answer": 1,
+      "explainSi": "පැතලිව කිව්වොත් 'ඉතින්?' වගේ ඇහෙනවා."
+    }
+  ],
+  "vocab": [
+    {
+      "en": "sorry to interrupt",
+      "si": "බාධා කරනවා",
+      "say": "සොරි ටු ඉන්ටරප්ට්",
+      "exampleEn": "Sorry to interrupt, but…",
+      "exampleSi": "බාධා කරනවා, ඒත්…"
+    },
+    {
+      "en": "could I just say",
+      "si": "දෙයක් කියන්න පුළුවන්ද",
+      "say": "කුඩ් අයි ජස්ට් සේ",
+      "exampleEn": "Could I just say something?",
+      "exampleSi": "දෙයක් කියන්න පුළුවන්ද?"
+    },
+    {
+      "en": "can I come in here",
+      "si": "මටත් එකතු වෙන්න පුළුවන්ද",
+      "say": "කෑන් අයි කම් ඉන් හියර්",
+      "exampleEn": "Can I come in here?",
+      "exampleSi": "මටත් මෙතනට එකතු වෙන්න පුළුවන්ද?"
+    },
+    {
+      "en": "actually",
+      "si": "ඇත්තටම",
+      "say": "ඇක්චුඅලි",
+      "exampleEn": "Actually, it was Tuesday.",
+      "exampleSi": "ඇත්තටම ඒක අඟහරුවාදා."
+    },
+    {
+      "en": "you were saying",
+      "si": "ඔයා කියමින් හිටියේ",
+      "say": "යූ වර් සේයින්",
+      "exampleEn": "Sorry — you were saying?",
+      "exampleSi": "සමාවෙන්න — ඔයා කියමින් හිටියේ?"
+    },
+    {
+      "en": "carry on",
+      "si": "දිගටම කියන්න",
+      "say": "කැරි ඔන්",
+      "exampleEn": "Please, carry on.",
+      "exampleSi": "කරුණාකර දිගටම කියන්න."
+    },
+    {
+      "en": "as I was saying",
+      "si": "මම කියමින් හිටියේ",
+      "say": "ඇස් අයි වොස් සේයින්",
+      "exampleEn": "As I was saying, the road is closed.",
+      "exampleSi": "මම කියමින් හිටියේ, පාර වහලා."
+    },
+    {
+      "en": "where was I",
+      "si": "මම කොහෙද හිටියේ",
+      "say": "වෙයා වොස් අයි",
+      "exampleEn": "So, where was I?",
+      "exampleSi": "එහෙනම්, මම කොහෙද හිටියේ?"
+    },
+    {
+      "en": "by the way",
+      "si": "අනික",
+      "say": "බයි ද වේ",
+      "exampleEn": "By the way, did you call?",
+      "exampleSi": "අනික, ඔයා කතා කළාද?"
+    },
+    {
+      "en": "anyway",
+      "si": "එහෙනම්",
+      "say": "එනිවේ",
+      "exampleEn": "Anyway, what about Friday?",
+      "exampleSi": "එහෙනම්, සිකුරාදා කොහොමද?"
+    },
+    {
+      "en": "speaking of",
+      "si": "...ගැන කිව්වම",
+      "say": "ස්පීකින් ඔෆ්",
+      "exampleEn": "Speaking of Kandy…",
+      "exampleSi": "නුවර ගැන කිව්වම…"
+    },
+    {
+      "en": "that reminds me",
+      "si": "ඒකෙන් මතක් වුණා",
+      "say": "දැට් රිමයින්ඩ්ස් මී",
+      "exampleEn": "That reminds me — I owe you.",
+      "exampleSi": "ඒකෙන් මතක් වුණා — මම ණයයි."
+    },
+    {
+      "en": "before I forget",
+      "si": "අමතක වෙන්න කලින්",
+      "say": "බිෆෝ අයි ෆොගෙට්",
+      "exampleEn": "Before I forget, here's your key.",
+      "exampleSi": "අමතක වෙන්න කලින්, මේ ඔයාගේ යතුර."
+    },
+    {
+      "en": "hold on",
+      "si": "ඉන්න",
+      "say": "හෝල්ඩ් ඔන්",
+      "exampleEn": "Hold on — say that again?",
+      "exampleSi": "ඉන්න — ආපහු කියන්නකෝ?"
+    },
+    {
+      "en": "go ahead",
+      "si": "කියන්න",
+      "say": "ගෝ අහෙඩ්",
+      "exampleEn": "No, you go ahead.",
+      "exampleSi": "නෑ, ඔයා කියන්න."
+    },
+    {
+      "en": "what do you think",
+      "si": "ඔයා මොකද හිතන්නේ",
+      "say": "වොට් ඩූ යූ තින්ක්",
+      "exampleEn": "What do you think, Ruwan?",
+      "exampleSi": "රුවන්, ඔයා මොකද හිතන්නේ?"
+    }
+  ]
+}

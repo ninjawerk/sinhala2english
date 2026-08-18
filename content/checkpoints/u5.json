@@ -1,0 +1,128 @@
+{
+  "quiz": [
+    {
+      "id": "u5-cp-q1",
+      "q": "'මම මේක කලින් කවදාවත් කරලා නෑ.' (present perfect) — ඉංග්‍රීසියෙන්?",
+      "options": ["I never did this before.", "I have never done this before.", "I never done this before.", "I am never doing this before."],
+      "answer": 1,
+      "explainSi": "'have + past participle' — present perfect, ජීවිත කාලය තුළ අත්දැකීමක්.",
+      "speak": "I have never done this before."
+    },
+    {
+      "id": "u5-cp-q2",
+      "q": "'මම එය ඊයේ ලැබුවා.' (නිශ්චිත, ඉවත් වූ කාලයක්) — present perfect ද past simple ද?",
+      "options": ["I have received it yesterday.", "I received it yesterday.", "I have receive it yesterday.", "I receiving it yesterday."],
+      "answer": 1,
+      "explainSi": "'yesterday' වගේ නිශ්චිත ඉවත් වූ කාලයක් සමඟ past simple භාවිතා කරනවා, present perfect නෙවෙයි."
+    },
+    {
+      "id": "u5-cp-q3",
+      "q": "'for' සහ 'since' අතර වෙනස කුමක්ද?",
+      "options": [
+        "'for' කාල පරාසයක් (three years), 'since' ආරම්භක ලක්ෂ්‍යයක් (2020)",
+        "වෙනසක් නෑ",
+        "'for' ආරම්භක ලක්ෂ්‍යයක්, 'since' කාල පරාසයක්",
+        "දෙකම අනාගතයට විතරයි"
+      ],
+      "answer": 0,
+      "explainSi": "'for three years' (කාල දිග), 'since 2020' (ආරම්භ වූ අවස්ථාව)."
+    },
+    {
+      "id": "u5-cp-q4",
+      "q": "'මම දැනටමත් කෑවා.' — 'already'?",
+      "options": ["I already have eaten.", "I have already eaten.", "I have eaten already yet.", "I have eat already."],
+      "answer": 1,
+      "explainSi": "'already' සාමාන්‍යයෙන් 'have' සහ past participle අතර යෙදෙනවා.",
+      "speak": "I have already eaten."
+    },
+    {
+      "id": "u5-cp-q5",
+      "q": "'ජලය 100°C ට රත් කළහොත්, එය උනු පැන් වෙනවා.' (සැමවිටම සත්‍ය) — conditional?",
+      "options": [
+        "If you heat water to 100°C, it boils. (zero conditional)",
+        "If you heated water to 100°C, it would boil. (second)",
+        "If you heat water to 100°C, it will boil. (first)",
+        "If you had heated water to 100°C, it would have boiled. (third)"
+      ],
+      "answer": 0,
+      "explainSi": "Zero conditional — සැමවිටම සත්‍ය විද්‍යාත්මක/සාමාන්‍ය කරුණු, 'If + present, present'."
+    },
+    {
+      "id": "u5-cp-q6",
+      "q": "'මට ලොතරැයි ලැබුනොත්, මම ලෝකය වටේ ගමන් කරනවා.' (කිසිසේත් සිදු වීමට ඉඩක් නැති, ‘‘unreal’’) — second conditional?",
+      "options": [
+        "If I won the lottery, I would travel the world.",
+        "If I win the lottery, I will travel the world.",
+        "If I would win the lottery, I travel the world.",
+        "If I had won the lottery, I would travel the world."
+      ],
+      "answer": 0,
+      "explainSi": "Second conditional — 'If + past simple, would + ක්‍රියාව' — වර්තමාන/අනාගත 'unreal' තත්ත්වයන්."
+    },
+    {
+      "id": "u5-cp-q7",
+      "q": "'මම ඉක්මනින් නැගිටියා නම්, බස් එක මගහරින්නේ නෑ.' (අතීත පසුතැවීමක්) — third conditional?",
+      "options": [
+        "If I get up earlier, I don't miss the bus.",
+        "If I got up earlier, I wouldn't miss the bus.",
+        "If I had got up earlier, I wouldn't have missed the bus.",
+        "If I would get up earlier, I hadn't missed the bus."
+      ],
+      "answer": 2,
+      "explainSi": "Third conditional — 'If + past perfect, would have + past participle' — අතීත 'unreal' තත්ත්වයන් සහ පසුතැවීම."
+    },
+    {
+      "id": "u5-cp-q8",
+      "q": "'මේ පාලම 1990දී ගොඩනැගුවා.' (ක්‍රියාව කළේ කවුද කියන එකට වඩා සිදු වූ දේ වැදගත්) — passive?",
+      "options": ["This bridge built in 1990.", "This bridge was built in 1990.", "This bridge has built in 1990.", "This bridge is building in 1990."],
+      "answer": 1,
+      "explainSi": "'was/were + past participle' — passive voice, past simple.",
+      "speak": "This bridge was built in 1990."
+    },
+    {
+      "id": "u5-cp-q9",
+      "q": "Active: 'They are repairing the road.' — passive?",
+      "options": ["The road is repaired by them.", "The road is being repaired.", "The road being repaired.", "The road repairs."],
+      "answer": 1,
+      "explainSi": "'is/are being + past participle' — present continuous passive."
+    },
+    {
+      "id": "u5-cp-q10",
+      "q": "'මම කවුරුත් නෑ' ඇය කිව්වා — reported speech?",
+      "options": [
+        "She said that nobody was there.",
+        "She said that nobody is there.",
+        "She said nobody there.",
+        "She says that nobody was there."
+      ],
+      "answer": 0,
+      "explainSi": "reported speech හි ක්‍රියා පදය එක පියවරක් අතීතයට යනවා — 'is' → 'was'."
+    },
+    {
+      "id": "u5-cp-q11",
+      "context": "The museum, which was built in the 1800s, has already welcomed thousands of visitors this year. If it hadn't been renovated last year, it would have closed permanently.",
+      "contextSi": "1800 ගණන්වල ගොඩනගන ලද ඒ කෞතුකාගාරය, මේ වසරේ දැනටමත් අමුත්තන් දහස් ගණනක් සාදරයෙන් පිළිගෙන තියෙනවා. එය පසුගිය වසරේ අලුත්වැඩියා කරලා නොතිබුනා නම්, එය ස්ථිරවම වැහෙනවා.",
+      "q": "මේ වාක්‍යවල 'which was built' (relative clause + passive), 'has already welcomed' (present perfect), 'If it hadn't been...would have closed' (third conditional passive) — තුනම එකට එකතු වෙලා තියෙනවද?",
+      "options": [
+        "ඔව් — b2-01, b2-02, b2-03, b2-04 හි රටා හතරම එකම ඡේදයේ එකතු වෙලා තියෙනවා",
+        "නෑ, 'has already welcomed' වෙනුවට 'already welcomed' විය යුතුයි",
+        "නෑ, 'which was built' වෙනුවට 'that build' විය යුතුයි",
+        "නෑ, third conditional වැරදියි"
+      ],
+      "answer": 0,
+      "explainSi": "'which was built' (relative clause + passive), 'has already welcomed' (present perfect + already), 'If it hadn't been...would have closed' (third conditional, passive ස්වරූපයෙන්) — u5 හි සියලුම රටා එකට එකතු වෙලා තියෙනවා."
+    },
+    {
+      "id": "u5-cp-q12",
+      "q": "'The manager told us that the report, which had been written by the new intern, would be reviewed tomorrow.' — reported speech, relative clause, passive — තුනම නිවැරදිද?",
+      "options": [
+        "ඔව් — 'told us that...would be' (reported speech), 'which had been written' (relative clause + past perfect passive), 'would be reviewed' (passive) — තුනම නිවැරදියි",
+        "නෑ, 'which had been written' වෙනුවට 'which was write' විය යුතුයි",
+        "නෑ, 'would be reviewed' වෙනුවට 'will be reviewed' විය යුතුයි",
+        "දෙකම වැරදියි"
+      ],
+      "answer": 0,
+      "explainSi": "'told us that...would be' (reported speech, 'will'→'would'), 'which had been written' (relative clause, past perfect passive), 'would be reviewed' (passive) — තුනම b2-04 හි නිවැරදි රටා."
+    }
+  ]
+}

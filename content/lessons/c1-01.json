@@ -1,0 +1,621 @@
+{
+  "hero": {
+    "src": "images/c1-01-hero.webp",
+    "alt": "Nadeesha standing up on a crowded bus to give her seat to an elderly passenger, warm everyday kindness, sunlight through the bus windows."
+  },
+  "goalsSi": [
+    "Phrasal verbs සෑදෙන ආකාරය සහ ඒවා වෙන් කළ හැකිද යන්න",
+    "නිතර භාවිත වන phrasal verbs 25ක්",
+    "සාමාන්‍ය ඉංග්‍රීසි ideoms සහ ඒවායේ අර්ථ",
+    "අවිධිමත් ඉංග්‍රීසිය ස්වාභාවිකව යෙදීම"
+  ],
+  "goals": [
+    "Understand how phrasal verbs work",
+    "Use twenty-five common phrasal verbs",
+    "Recognise everyday idioms"
+  ],
+  "sections": [
+    {
+      "type": "note",
+      "title": "Why phrasal verbs are hard",
+      "titleSi": "Phrasal verbs අමාරු වන්නේ ඇයි?",
+      "bodySi": "A phrasal verb is a verb plus a small word — up, off, out, on, in, down — and together they mean something you cannot guess from the parts.\n\nLook at 'give':\n• give up = quit (අත්හරිනවා)\n• give in = surrender (යටත් වෙනවා)\n• give away = donate or reveal (දෙනවා / හෙළි කරනවා)\n• give off = emit (පිට කරනවා)\n\nOne verb, four completely different meanings. This is why a dictionary alone will not save you — phrasal verbs must be met in context, again and again.\n\nඑකම ක්‍රියාව, සම්පූර්ණයෙන්ම වෙනස් අර්ථ හතරක්. එනිසා ශබ්දකෝෂයෙන් පමණක් මේවා ඉගෙන ගන්න බෑ — නැවත නැවත සන්දර්භය තුළ හමු විය යුතුයි.",
+      "body": "A phrasal verb means something you cannot guess from its parts."
+    },
+    {
+      "type": "grammar",
+      "title": "Separable or not?",
+      "titleSi": "වෙන් කළ හැකිද?",
+      "explainSi": "Some phrasal verbs can be split by their object; others cannot. There is one rule you must never break: if the object is a pronoun (it, him, them), a separable phrasal verb MUST be split.\n\nකර්ම පදය සර්වනාමයක් නම් (it, him, them), වෙන් කළ හැකි phrasal verb එක අනිවාර්යයෙන් වෙන් කළ යුතුයි.\n\n✓ Turn off the light. / Turn the light off. / Turn it off.\n✗ Turn off it.",
+      "formula": "Pronoun object → always split: 'turn it off', never 'turn off it'",
+      "table": {
+        "headers": [
+          "Type",
+          "Example",
+          "Rule"
+        ],
+        "rows": [
+          [
+            "Separable",
+            "turn off, put on, pick up, throw away",
+            "Object can go in the middle; pronoun MUST"
+          ],
+          [
+            "Inseparable",
+            "look after, run into, get over, look for",
+            "Object always comes after the whole phrase"
+          ],
+          [
+            "No object",
+            "grow up, break down, show up, take off",
+            "Nothing comes between or after"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "Could you pick the children up at four?",
+          "si": "හතරට ළමයි එක්කගෙන එන්න පුළුවන්ද?"
+        },
+        {
+          "en": "Could you pick them up at four?",
+          "si": "හතරට ඔවුන්ව එක්කගෙන එන්න පුළුවන්ද?"
+        },
+        {
+          "en": "I ran into my old teacher yesterday.",
+          "si": "ඊයේ මට මගේ පරණ ගුරුතුමා අහම්බෙන් හම්බුණා."
+        },
+        {
+          "en": "The car broke down on the way to Kandy.",
+          "si": "මහනුවර යද්දී කාර් එක කැඩුණා."
+        }
+      ],
+      "watchOutSi": "'look after' (බලාගන්නවා), 'look for' (හොයනවා), 'look up' (ශබ්දකෝෂයෙන් බලනවා), 'look into' (විමර්ශනය කරනවා) — එකම ක්‍රියාව, අර්ථ හතරක්. සන්දර්භය අනුව තෝරන්න."
+    },
+    {
+      "type": "vocab",
+      "title": "Twenty-five essential phrasal verbs",
+      "titleSi": "අත්‍යවශ්‍ය phrasal verbs 25",
+      "introSi": "දිනකට පහක් බැගින් ඉගෙන ගන්න. සෑම එකක්ම වාක්‍යයක් තුළ භාවිත කරන්න.",
+      "items": [
+        {
+          "en": "give up",
+          "si": "අත්හරිනවා",
+          "exampleEn": "Don't give up now — you're almost there.",
+          "exampleSi": "දැන් අත්හරින්න එපා — ඔබ ළඟටම ඇවිත්."
+        },
+        {
+          "en": "find out",
+          "si": "දැනගන්නවා",
+          "exampleEn": "I found out the truth later.",
+          "exampleSi": "මම පස්සේ ඇත්ත දැනගත්තා."
+        },
+        {
+          "en": "look after",
+          "si": "බලාගන්නවා",
+          "exampleEn": "She looks after her grandmother.",
+          "exampleSi": "එයා ආච්චිව බලාගන්නවා."
+        },
+        {
+          "en": "look for",
+          "si": "හොයනවා",
+          "exampleEn": "I'm looking for my keys.",
+          "exampleSi": "මම යතුරු හොයනවා."
+        },
+        {
+          "en": "put off",
+          "si": "කල් දානවා",
+          "exampleEn": "They put off the meeting until Friday.",
+          "exampleSi": "ඔවුන් රැස්වීම සිකුරාදා දක්වා කල් දැම්මා."
+        },
+        {
+          "en": "carry on",
+          "si": "දිගටම කරගෙන යනවා",
+          "exampleEn": "Carry on — I'm listening.",
+          "exampleSi": "දිගටම කියන්න — මම අහගෙන ඉන්නවා."
+        },
+        {
+          "en": "turn down",
+          "si": "ප්‍රතික්ෂේප කරනවා",
+          "exampleEn": "He turned down the offer.",
+          "exampleSi": "එයා යෝජනාව ප්‍රතික්ෂේප කළා."
+        },
+        {
+          "en": "bring up",
+          "si": "හදාවඩා ගන්නවා / මතු කරනවා",
+          "exampleEn": "She brought up three children alone.",
+          "exampleSi": "එයා තනියම ළමයි තුන්දෙනෙක් හදාවඩා ගත්තා."
+        },
+        {
+          "en": "get over",
+          "si": "යථා තත්ත්වයට පත් වෙනවා",
+          "exampleEn": "It took him a year to get over the loss.",
+          "exampleSi": "ඒ අලාභයෙන් යථා තත්ත්වයට එන්න එයාට අවුරුද්දක් ගියා."
+        },
+        {
+          "en": "run out of",
+          "si": "ඉවර වෙනවා",
+          "exampleEn": "We've run out of sugar.",
+          "exampleSi": "අපේ සීනි ඉවරයි."
+        },
+        {
+          "en": "take off",
+          "si": "ගුවන් ගත වෙනවා / ගලවනවා",
+          "exampleEn": "The plane took off on time.",
+          "exampleSi": "ගුවන් යානය වෙලාවට පිටත් වුණා."
+        },
+        {
+          "en": "break down",
+          "si": "කැඩෙනවා",
+          "exampleEn": "The bus broke down twice.",
+          "exampleSi": "බස් එක දෙපාරක් කැඩුණා."
+        },
+        {
+          "en": "show up",
+          "si": "පැමිණෙනවා",
+          "exampleEn": "Nobody showed up for the meeting.",
+          "exampleSi": "රැස්වීමට කවුරුවත් ආවේ නෑ."
+        },
+        {
+          "en": "come across",
+          "si": "අහම්බෙන් හම්බවෙනවා",
+          "exampleEn": "I came across an old photo.",
+          "exampleSi": "මට පරණ ඡායාරූපයක් අහම්බෙන් හම්බුණා."
+        },
+        {
+          "en": "point out",
+          "si": "පෙන්වා දෙනවා",
+          "exampleEn": "She pointed out my mistake politely.",
+          "exampleSi": "එයා මගේ වැරැද්ද ආචාරශීලීව පෙන්වා දුන්නා."
+        },
+        {
+          "en": "make up",
+          "si": "හදනවා (කතාවක්) / සමගි වෙනවා",
+          "exampleEn": "He made up an excuse.",
+          "exampleSi": "එයා නිදහසට කරුණක් හැදුවා."
+        },
+        {
+          "en": "put up with",
+          "si": "ඉවසනවා",
+          "exampleEn": "I can't put up with this noise.",
+          "exampleSi": "මට මේ ශබ්දය ඉවසන්න බෑ."
+        },
+        {
+          "en": "work out",
+          "si": "විසඳෙනවා / ව්‍යායාම කරනවා",
+          "exampleEn": "Everything worked out in the end.",
+          "exampleSi": "අන්තිමට හැම දෙයක්ම හරි ගියා."
+        },
+        {
+          "en": "grow up",
+          "si": "වැඩෙනවා",
+          "exampleEn": "I grew up in a small village.",
+          "exampleSi": "මම පොඩි ගමක වැඩුණා."
+        },
+        {
+          "en": "call off",
+          "si": "අවලංගු කරනවා",
+          "exampleEn": "They called off the match.",
+          "exampleSi": "ඔවුන් තරගය අවලංගු කළා."
+        },
+        {
+          "en": "get along with",
+          "si": "හොඳින් ගැළපෙනවා",
+          "exampleEn": "I get along with my colleagues.",
+          "exampleSi": "මම සගයන් සමඟ හොඳින් ගැළපෙනවා."
+        },
+        {
+          "en": "look up to",
+          "si": "ගරු කරනවා",
+          "exampleEn": "He looks up to his elder brother.",
+          "exampleSi": "එයා අයියාට ගරු කරනවා."
+        },
+        {
+          "en": "turn out",
+          "si": "අවසානයේ එසේ වෙනවා",
+          "exampleEn": "It turned out to be a good decision.",
+          "exampleSi": "අන්තිමට ඒක හොඳ තීරණයක් වුණා."
+        },
+        {
+          "en": "set up",
+          "si": "ආරම්භ කරනවා",
+          "exampleEn": "She set up her own business.",
+          "exampleSi": "එයා තමන්ගේම ව්‍යාපාරයක් ආරම්භ කළා."
+        },
+        {
+          "en": "hold on",
+          "si": "ටිකක් ඉන්න",
+          "exampleEn": "Hold on a moment, please.",
+          "exampleSi": "කරුණාකර මොහොතක් ඉන්න."
+        }
+      ]
+    },
+    {
+      "type": "grammar",
+      "title": "Everyday idioms",
+      "titleSi": "දිනපතා idioms",
+      "explainSi": "An idiom is a fixed expression whose meaning is not literal. Using two or three naturally will make your English sound far more fluent — but using too many sounds forced.\n\nIdiom යනු වචනාර්ථයෙන් තේරුම් ගත නොහැකි ස්ථාවර යෙදුමකි. දෙක තුනක් ස්වාභාවිකව යෙදුවොත් ඔබේ ඉංග්‍රීසි වඩා චතුර ලෙස ඇහෙනවා — නමුත් වැඩිපුර යෙදුවොත් කෘත්‍රිමයි.",
+      "table": {
+        "headers": [
+          "Idiom",
+          "Meaning",
+          "සිංහල"
+        ],
+        "rows": [
+          [
+            "It's raining cats and dogs.",
+            "raining very heavily",
+            "හරිම වැස්සක්"
+          ],
+          [
+            "Once in a blue moon",
+            "very rarely",
+            "කලාතුරකින්"
+          ],
+          [
+            "Break the ice",
+            "start a conversation",
+            "කතාව පටන් ගන්නවා"
+          ],
+          [
+            "Cost an arm and a leg",
+            "be very expensive",
+            "ගොඩක් මිල අධිකයි"
+          ],
+          [
+            "Under the weather",
+            "slightly ill",
+            "ටිකක් අසනීපයි"
+          ],
+          [
+            "Hit the nail on the head",
+            "say exactly the right thing",
+            "හරියටම හරි දේ කිව්වා"
+          ],
+          [
+            "Let the cat out of the bag",
+            "reveal a secret",
+            "රහස හෙළි කරනවා"
+          ],
+          [
+            "Bite off more than you can chew",
+            "take on too much",
+            "දරාගන්න බැරි තරම් බාරගන්නවා"
+          ],
+          [
+            "The last straw",
+            "the final problem you can bear",
+            "ඉවසීමේ සීමාව"
+          ],
+          [
+            "Call it a day",
+            "stop working for now",
+            "අද මෙච්චරයි කියලා නවතිනවා"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "That laptop cost an arm and a leg.",
+          "si": "ඒ ලැප්ටොප් එකට ගොඩක් සල්ලි ගියා."
+        },
+        {
+          "en": "I'm feeling a bit under the weather today.",
+          "si": "අද මට ටිකක් අසනීපයි වගේ."
+        },
+        {
+          "en": "We only meet once in a blue moon.",
+          "si": "අපි කලාතුරකින් තමයි හම්බවෙන්නේ."
+        }
+      ],
+      "watchOutSi": "Idioms විධිමත් ලේඛනවල (වාර්තා, විද්‍යාත්මක ලිපි, නිල ලිපි) සුදුසු නෑ. ඒවා කථනයට සහ අවිධිමත් ලිවීමට පමණයි."
+    },
+    {
+      "type": "story",
+      "title": "The Interview That Went Wrong",
+      "titleSi": "වැරදුණු සම්මුඛ පරීක්ෂණය",
+      "introSi": "A story written in natural, informal English. Count the phrasal verbs and idioms.",
+      "paragraphs": [
+        {
+          "en": "Tharindu had been putting off the interview for weeks. When the day finally came round, everything that could go wrong did.",
+          "si": "තරිඳු සති ගණනක් සම්මුඛ පරීක්ෂණය කල් දාගෙන හිටියා. අන්තිමට ඒ දවස ආවම වැරදෙන්න පුළුවන් හැම දෙයක්ම වැරදුණා."
+        },
+        {
+          "en": "His alarm didn't go off. The three-wheeler broke down halfway. By the time he showed up, he was twenty minutes late and soaked through.",
+          "si": "එයාගේ එලාම් එක නාද වුණේ නෑ. ත්‍රීවීලරය අඩක් ගියාම කැඩුණා. එයා ආපු වෙලාවට විනාඩි විස්සක් පරක්කුයි, තෙමිලා."
+        },
+        {
+          "en": "The panel looked him up and down. He wanted to give up and walk out. Instead, he decided to break the ice himself.",
+          "si": "මණ්ඩලය එයාව උඩ ඉඳන් යටට බැලුවා. එයාට අත්හැරලා යන්න හිතුණා. ඒ වෙනුවට එයාම කතාව පටන් ගන්න තීරණය කළා."
+        },
+        {
+          "en": "\"I could make up a story about traffic,\" he said, \"but the truth is my three-wheeler broke down and I ran the last two kilometres.\"",
+          "si": "\"මට රථවාහන ගැන කතාවක් හදන්න පුළුවන්,\" එයා කිව්වා, \"නමුත් ඇත්ත තමයි මගේ ත්‍රීවීලරය කැඩුණා, අන්තිම කිලෝමීටර දෙක මම දිව්වා.\""
+        },
+        {
+          "en": "One of the panel members laughed. \"You've hit the nail on the head,\" she said. \"We've had eleven candidates today and every single one blamed the traffic.\"",
+          "si": "මණ්ඩල සාමාජිකාවක් හිනා වුණා. \"ඔබ හරියටම හරි දේ කිව්වා,\" එයා කිව්වා. \"අද අපිට අයදුම්කරුවෝ එකොළහක් ආවා, හැම එකෙක්ම රථවාහන වලට දොස් කිව්වා.\""
+        },
+        {
+          "en": "Tharindu got the job. It turned out that the only thing they were really looking for was someone who wouldn't make things up.",
+          "si": "තරිඳුට රැකියාව ලැබුණා. අන්තිමට පෙනුණේ ඔවුන් සැබවින්ම හොයමින් හිටියේ බොරු නොකියන කෙනෙක් බව පමණයි."
+        }
+      ],
+      "glossary": [
+        {
+          "en": "put off",
+          "si": "කල් දානවා"
+        },
+        {
+          "en": "come round",
+          "si": "පැමිණෙනවා (දිනයක්)"
+        },
+        {
+          "en": "go off",
+          "si": "නාද වෙනවා (එලාම්)"
+        },
+        {
+          "en": "soaked through",
+          "si": "සම්පූර්ණයෙන් තෙමිලා"
+        },
+        {
+          "en": "walk out",
+          "si": "පිටව යනවා"
+        },
+        {
+          "en": "candidate",
+          "si": "අයදුම්කරු"
+        },
+        {
+          "en": "blame",
+          "si": "දොස් කියනවා"
+        }
+      ],
+      "questionsSi": [
+        "කතාවේ phrasal verbs කීයක් හොයාගන්න පුළුවන්ද?",
+        "'hit the nail on the head' යන idiom එකේ අර්ථය කුමක්ද?",
+        "තරිඳුට රැකියාව ලැබුණේ ඇයි?"
+      ]
+    },
+    {
+      "type": "practice",
+      "title": "Complete the phrasal verb",
+      "titleSi": "Phrasal verb සම්පූර්ණ කරන්න",
+      "instructionSi": "නිවැරදි කුඩා වචනය ලියන්න.",
+      "items": [
+        {
+          "prompt": "Don't give ___ ! You're almost there.",
+          "answer": "up",
+          "hintSi": "අත්හරිනවා.",
+          "full": "Don't give up! You're almost there."
+        },
+        {
+          "prompt": "She looks ___ her elderly mother.",
+          "answer": "after",
+          "hintSi": "බලාගන්නවා.",
+          "full": "She looks after her elderly mother."
+        },
+        {
+          "prompt": "We've run ___ ___ milk. (ඉවර වෙලා)",
+          "answer": "out of",
+          "hintSi": "වචන දෙකයි.",
+          "full": "We've run out of milk."
+        },
+        {
+          "prompt": "They called ___ the match because of rain.",
+          "answer": "off",
+          "hintSi": "අවලංගු කරනවා.",
+          "full": "They called off the match because of rain."
+        },
+        {
+          "prompt": "Turn ___ the light before you leave. (or: turn it ___)",
+          "answer": "off",
+          "hintSi": "නිවනවා.",
+          "full": "Turn off the light before you leave."
+        },
+        {
+          "prompt": "I can't put ___ ___ this noise any longer.",
+          "answer": "up with",
+          "hintSi": "ඉවසනවා — වචන දෙකයි.",
+          "full": "I can't put up with this noise any longer."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "en": "give up",
+      "si": "අත්හරිනවා"
+    },
+    {
+      "en": "find out",
+      "si": "දැනගන්නවා"
+    },
+    {
+      "en": "look after",
+      "si": "බලාගන්නවා"
+    },
+    {
+      "en": "put off",
+      "si": "කල් දානවා"
+    },
+    {
+      "en": "turn down",
+      "si": "ප්‍රතික්ෂේප කරනවා"
+    },
+    {
+      "en": "bring up",
+      "si": "හදාවඩා ගන්නවා"
+    },
+    {
+      "en": "get over",
+      "si": "යථා තත්ත්වයට පත් වෙනවා"
+    },
+    {
+      "en": "run out of",
+      "si": "ඉවර වෙනවා"
+    },
+    {
+      "en": "break down",
+      "si": "කැඩෙනවා"
+    },
+    {
+      "en": "show up",
+      "si": "පැමිණෙනවා"
+    },
+    {
+      "en": "come across",
+      "si": "අහම්බෙන් හම්බවෙනවා"
+    },
+    {
+      "en": "point out",
+      "si": "පෙන්වා දෙනවා"
+    },
+    {
+      "en": "put up with",
+      "si": "ඉවසනවා"
+    },
+    {
+      "en": "work out",
+      "si": "විසඳෙනවා"
+    },
+    {
+      "en": "call off",
+      "si": "අවලංගු කරනවා"
+    },
+    {
+      "en": "look up to",
+      "si": "ගරු කරනවා"
+    },
+    {
+      "en": "turn out",
+      "si": "අවසානයේ එසේ වෙනවා"
+    },
+    {
+      "en": "set up",
+      "si": "ආරම්භ කරනවා"
+    },
+    {
+      "en": "candidate",
+      "si": "අයදුම්කරු"
+    },
+    {
+      "en": "blame",
+      "si": "දොස් කියනවා"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "c1-01-q1",
+      "q": "Which sentence is WRONG?",
+      "qSi": "වැරදි වාක්‍යය කුමක්ද?",
+      "options": [
+        "Turn off the light.",
+        "Turn the light off.",
+        "Turn it off.",
+        "Turn off it."
+      ],
+      "answer": 3,
+      "explainSi": "කර්ම පදය සර්වනාමයක් නම් (it), වෙන් කළ හැකි phrasal verb එක අනිවාර්යයෙන් වෙන් කළ යුතුයි: 'turn it off'.",
+      "speak": "Turn it off, not turn off it."
+    },
+    {
+      "id": "c1-01-q2",
+      "q": "'She looks after her mother' means she:",
+      "qSi": "'look after' යන්නෙහි අර්ථය?",
+      "options": [
+        "searches for her mother",
+        "takes care of her mother",
+        "resembles her mother",
+        "checks a dictionary"
+      ],
+      "answer": 1,
+      "explainSi": "look after = බලාගන්නවා. look for = හොයනවා. look up = ශබ්දකෝෂයෙන් බලනවා.",
+      "speak": "She looks after her mother."
+    },
+    {
+      "id": "c1-01-q3",
+      "q": "'They put off the meeting' means they:",
+      "qSi": "'put off' යන්නෙහි අර්ථය?",
+      "options": [
+        "cancelled it",
+        "postponed it",
+        "attended it",
+        "enjoyed it"
+      ],
+      "answer": 1,
+      "explainSi": "put off = කල් දානවා. සම්පූර්ණයෙන් අවලංගු කිරීම නම් 'call off'.",
+      "speak": "They put off the meeting."
+    },
+    {
+      "id": "c1-01-q4",
+      "q": "'That phone cost an arm and a leg' means it was:",
+      "qSi": "මෙම idiom එකේ අර්ථය?",
+      "options": [
+        "very cheap",
+        "broken",
+        "very expensive",
+        "second-hand"
+      ],
+      "answer": 2,
+      "explainSi": "cost an arm and a leg = ගොඩක් මිල අධිකයි.",
+      "speak": "It cost an arm and a leg."
+    },
+    {
+      "id": "c1-01-q5",
+      "q": "'Once in a blue moon' means:",
+      "qSi": "අර්ථය කුමක්ද?",
+      "options": [
+        "every night",
+        "very rarely",
+        "at midnight",
+        "very often"
+      ],
+      "answer": 1,
+      "explainSi": "once in a blue moon = කලාතුරකින්.",
+      "speak": "We meet once in a blue moon."
+    },
+    {
+      "id": "c1-01-q6",
+      "q": "Where should you AVOID using idioms?",
+      "qSi": "Idioms යෙදිය යුතු නොවන්නේ කොහෙද?",
+      "options": [
+        "In conversation with friends",
+        "In a formal report or scientific paper",
+        "In a casual message",
+        "In a story"
+      ],
+      "answer": 1,
+      "explainSi": "Idioms අවිධිමත් ඉංග්‍රීසියට. විධිමත් වාර්තා සහ විද්‍යාත්මක ලිපිවලට සුදුසු නෑ."
+    },
+    {
+      "id": "c1-01-q7",
+      "q": "'I can't put up with this noise' means I can't:",
+      "qSi": "'put up with' යන්නෙහි අර්ථය?",
+      "options": [
+        "hear it",
+        "tolerate it",
+        "increase it",
+        "repeat it"
+      ],
+      "answer": 1,
+      "explainSi": "put up with = ඉවසනවා.",
+      "speak": "I can't put up with this noise."
+    },
+    {
+      "id": "c1-01-q8",
+      "context": "\"I could make up a story about traffic,\" he said, \"but the truth is my three-wheeler broke down and I ran the last two kilometres.\" … It turned out that the only thing they were really looking for was someone who wouldn't make things up.",
+      "contextSi": "\"මට රථවාහන ගැන කතාවක් හදන්න පුළුවන්,\" එයා කිව්වා, \"නමුත් ඇත්ත තමයි මගේ ත්‍රීවීලරය කැඩුණා, අන්තිම කිලෝමීටර දෙක මම දිව්වා.\" … අන්තිමට පෙනුණේ ඔවුන් සැබවින්ම හොයමින් හිටියේ බොරු නොකියන කෙනෙක් බව පමණයි.",
+      "q": "In the story, why did Tharindu get the job?",
+      "qSi": "තරිඳුට රැකියාව ලැබුණේ ඇයි?",
+      "options": [
+        "He arrived first",
+        "He told the truth instead of making up an excuse",
+        "He blamed the traffic convincingly",
+        "He was the only candidate"
+      ],
+      "answer": 1,
+      "explainSi": "'the only thing they were really looking for was someone who wouldn't make things up' — බොරු නොකියන කෙනෙක්."
+    }
+  ]
+}

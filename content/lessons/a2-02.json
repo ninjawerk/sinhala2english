@@ -1,0 +1,568 @@
+{
+  "hero": {
+    "src": "images/a2-02-hero.webp",
+    "alt": "Ruwan eating breakfast standing at a kitchen counter before work, bag already on his shoulder, early morning light through the window."
+  },
+  "goalsSi": [
+    "Present Simple කාලය භාවිතා කිරීම",
+    "He / She / It සමඟ -s එකතු කිරීම",
+    "do / does යොදා ප්‍රශ්න සහ නැහැ කීම",
+    "නිතර භාවිත වන ක්‍රියා 15ක් ඉගෙන ගැනීම"
+  ],
+  "goals": [
+    "Talk about daily habits",
+    "Add -s for he, she, it",
+    "Ask questions with do and does"
+  ],
+  "sections": [
+    {
+      "type": "note",
+      "title": "Talking about every day",
+      "titleSi": "හැමදාම කරන දේ ගැන කතා කිරීම",
+      "bodySi": "Present Simple කියන්නේ නිතර සිදුවන දේවල් ගැන කතා කරන කාලයයි — පුරුදු, දිනචරියාව, සහ සදාකාලික සත්‍ය.\n\nඋදාහරණ:\n• I go to school every day. (පුරුද්දක්)\n• The sun rises in the east. (සත්‍යයක්)\n• She works in a bank. (දිගුකාලීන තත්ත්වයක්)\n\nමෙහි ඇති එකම අභියෝගය: he, she, it සමඟ ක්‍රියාවට '-s' එකතු වීම. එය මතක තබා ගැනීම වැදගත්.",
+      "body": "We use the present simple for habits, routines and facts."
+    },
+    {
+      "type": "grammar",
+      "title": "The -s rule",
+      "titleSi": "-s නීතිය",
+      "explainSi": "He, She, It (හෝ එක් පුද්ගලයෙකුගේ නමක්) සමඟ ක්‍රියාවට '-s' එකතු වෙනවා. අනෙක් සියල්ල සමඟ ක්‍රියාව වෙනස් වෙන්නේ නෑ.",
+      "formula": "I / You / We / They + work   ·   He / She / It + workS",
+      "table": {
+        "headers": [
+          "Subject",
+          "Verb",
+          "Example",
+          "සිංහල"
+        ],
+        "rows": [
+          [
+            "I",
+            "eat",
+            "I eat rice.",
+            "මම බත් කනවා."
+          ],
+          [
+            "You",
+            "eat",
+            "You eat early.",
+            "ඔබ කලින් කනවා."
+          ],
+          [
+            "He / She",
+            "eats",
+            "She eats at seven.",
+            "එයා හතට කනවා."
+          ],
+          [
+            "It",
+            "eats",
+            "The cat eats fish.",
+            "පූසා මාළු කනවා."
+          ],
+          [
+            "We / They",
+            "eat",
+            "They eat together.",
+            "ඔවුන් එකට කනවා."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "I wake up at six every morning.",
+          "si": "මම හැම උදෑසනකම හයට අවදි වෙනවා."
+        },
+        {
+          "en": "My mother cooks rice and curry.",
+          "si": "මගේ අම්මා බත් සහ ව්‍යාංජන උයනවා."
+        },
+        {
+          "en": "We study English on Saturdays.",
+          "si": "අපි සෙනසුරාදාවලට ඉංග්‍රීසි ඉගෙන ගන්නවා."
+        },
+        {
+          "en": "He works in Colombo.",
+          "si": "එයා කොළඹ වැඩ කරනවා."
+        }
+      ],
+      "watchOutSi": "විශේෂ අවස්ථා: -o, -ch, -sh, -ss, -x වලින් අවසන් වන ක්‍රියාවලට '-es' එකතු වෙනවා (go → goes, watch → watches). ව්‍යාංජනයකින් පසු 'y' නම් 'y' ඉවත් වී '-ies' එනවා (study → studies)."
+    },
+    {
+      "type": "vocab",
+      "title": "Everyday verbs",
+      "titleSi": "දිනපතා ක්‍රියා",
+      "introSi": "මේ ක්‍රියා 15 ඔබ දිනපතා භාවිත කරයි. හොඳින් මතක තබා ගන්න.",
+      "items": [
+        {
+          "en": "wake up",
+          "si": "අවදි වෙනවා",
+          "say": "වේක් අප්",
+          "exampleEn": "I wake up at five.",
+          "exampleSi": "මම පහට අවදි වෙනවා."
+        },
+        {
+          "en": "eat",
+          "si": "කනවා",
+          "say": "ඊට්",
+          "exampleEn": "We eat breakfast together.",
+          "exampleSi": "අපි එකට උදෑසන ආහාරය ගන්නවා."
+        },
+        {
+          "en": "drink",
+          "si": "බොනවා",
+          "say": "ඩ්‍රින්ක්",
+          "exampleEn": "She drinks plain tea.",
+          "exampleSi": "එයා සරල තේ බොනවා."
+        },
+        {
+          "en": "go",
+          "si": "යනවා",
+          "say": "ගෝ",
+          "exampleEn": "He goes to work by bus.",
+          "exampleSi": "එයා බස් එකෙන් වැඩට යනවා."
+        },
+        {
+          "en": "come",
+          "si": "එනවා",
+          "say": "කම්",
+          "exampleEn": "They come home at six.",
+          "exampleSi": "ඔවුන් හයට ගෙදර එනවා."
+        },
+        {
+          "en": "work",
+          "si": "වැඩ කරනවා",
+          "say": "වර්ක්",
+          "exampleEn": "My father works in a factory.",
+          "exampleSi": "මගේ තාත්තා කර්මාන්ත ශාලාවක වැඩ කරනවා."
+        },
+        {
+          "en": "study",
+          "si": "ඉගෙන ගන්නවා",
+          "say": "ස්ටඩි",
+          "exampleEn": "She studies at night.",
+          "exampleSi": "එයා රෑට ඉගෙන ගන්නවා."
+        },
+        {
+          "en": "read",
+          "si": "කියවනවා",
+          "say": "රීඩ්",
+          "exampleEn": "I read the newspaper.",
+          "exampleSi": "මම පත්තරය කියවනවා."
+        },
+        {
+          "en": "write",
+          "si": "ලියනවා",
+          "say": "රයිට්",
+          "exampleEn": "He writes letters to his mother.",
+          "exampleSi": "එයා අම්මාට ලියුම් ලියනවා."
+        },
+        {
+          "en": "cook",
+          "si": "උයනවා",
+          "say": "කුක්",
+          "exampleEn": "My sister cooks very well.",
+          "exampleSi": "මගේ අක්කා හොඳට උයනවා."
+        },
+        {
+          "en": "sleep",
+          "si": "නිදාගන්නවා",
+          "say": "ස්ලීප්",
+          "exampleEn": "The baby sleeps in the afternoon.",
+          "exampleSi": "බබා දවල්ට නිදාගන්නවා."
+        },
+        {
+          "en": "play",
+          "si": "සෙල්ලම් කරනවා",
+          "say": "ප්ලේ",
+          "exampleEn": "The boys play cricket.",
+          "exampleSi": "පිරිමි ළමයි ක්‍රිකට් සෙල්ලම් කරනවා."
+        },
+        {
+          "en": "help",
+          "si": "උදව් කරනවා",
+          "say": "හෙල්ප්",
+          "exampleEn": "I help my mother.",
+          "exampleSi": "මම අම්මාට උදව් කරනවා."
+        },
+        {
+          "en": "watch",
+          "si": "බලනවා",
+          "say": "වොච්",
+          "exampleEn": "We watch the news at eight.",
+          "exampleSi": "අපි අටට පුවත් බලනවා."
+        },
+        {
+          "en": "walk",
+          "si": "ඇවිදිනවා",
+          "say": "වෝක්",
+          "exampleEn": "She walks to school.",
+          "exampleSi": "එයා පාසලට ඇවිදගෙන යනවා."
+        }
+      ]
+    },
+    {
+      "type": "grammar",
+      "title": "Questions and negatives with do / does",
+      "titleSi": "do / does සමඟ ප්‍රශ්න සහ නැහැ",
+      "explainSi": "Present Simple හි ප්‍රශ්නයක් අහන්න හෝ 'නැහැ' කියන්න 'do' හෝ 'does' අවශ්‍යයි.\n\nඉතා වැදගත් නීතියක්: 'does' භාවිත කරද්දී ප්‍රධාන ක්‍රියාවෙන් '-s' ඉවත් වෙනවා. මොකද '-s' එක දැනටමත් 'does' එකට ගිහින්.\n\n✗ Does she works? — වැරදියි\n✓ Does she work? — නිවැරදියි",
+      "formula": "Do / Does + subject + verb?   ·   don't / doesn't + verb",
+      "table": {
+        "headers": [
+          "Positive",
+          "Negative",
+          "Question"
+        ],
+        "rows": [
+          [
+            "I work here.",
+            "I don't work here.",
+            "Do you work here?"
+          ],
+          [
+            "She works here.",
+            "She doesn't work here.",
+            "Does she work here?"
+          ],
+          [
+            "They go by bus.",
+            "They don't go by bus.",
+            "Do they go by bus?"
+          ],
+          [
+            "He studies English.",
+            "He doesn't study English.",
+            "Does he study English?"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "Do you like Sri Lankan food?",
+          "si": "ඔබ ලංකාවේ කෑමට කැමතිද?"
+        },
+        {
+          "en": "She doesn't drink coffee.",
+          "si": "එයා කෝපි බොන්නේ නෑ."
+        },
+        {
+          "en": "Where do you live?",
+          "si": "ඔබ කොහෙද ජීවත් වෙන්නේ?"
+        },
+        {
+          "en": "What does your father do?",
+          "si": "ඔබේ තාත්තා කරන්නේ මොකක්ද?"
+        }
+      ],
+      "watchOutSi": "කෙටි පිළිතුරු: 'Yes, I do.' / 'No, I don't.' / 'Yes, she does.' / 'No, she doesn't.'"
+    },
+    {
+      "type": "story",
+      "title": "A Day in Nimal's Life",
+      "titleSi": "නිමල්ගේ දවසක්",
+      "introSi": "නිමල් තේ වතුයායක වැඩ කරන කෙනෙක්. එයාගේ දවස කියවලා, -s එකතු වුණු ක්‍රියා හොයාගන්න.",
+      "paragraphs": [
+        {
+          "en": "Nimal wakes up at half past four every morning. It is still dark outside.",
+          "si": "නිමල් හැම උදෑසනකම හතරහමාරට අවදි වෙනවා. පිටත තාම අඳුරුයි."
+        },
+        {
+          "en": "He drinks a cup of plain tea and eats two pieces of bread. Then he walks to the tea estate.",
+          "si": "එයා සරල තේ කෝප්පයක් බීලා පාන් කෑලි දෙකක් කනවා. ඊට පස්සේ තේ වතුයායට ඇවිදගෙන යනවා."
+        },
+        {
+          "en": "The walk takes forty minutes. On the way he meets his friend Sunil. They talk about the weather.",
+          "si": "ඇවිදීමට විනාඩි හතළිහක් යනවා. පාරේදී එයා යාළුවා සුනිල්ව හම්බවෙනවා. ඔවුන් කාලගුණය ගැන කතා කරනවා."
+        },
+        {
+          "en": "Nimal works until four o'clock. He does not stop for a long lunch. He eats quickly and continues.",
+          "si": "නිමල් හතර වෙනකම් වැඩ කරනවා. එයා දිගු දවල් කෑමකට නවතින්නේ නෑ. ඉක්මනට කාලා දිගටම කරගෙන යනවා."
+        },
+        {
+          "en": "In the evening he comes home tired. His daughter shows him her school book. \"Do you understand this word, Thaththa?\" she asks.",
+          "si": "සවස එයා මහන්සියෙන් ගෙදර එනවා. එයාගේ දුව එයාට එයාගේ පාසල් පොත පෙන්නනවා. \"තාත්තා, මේ වචනය තේරෙනවද?\" එයා අහනවා."
+        },
+        {
+          "en": "Nimal does not know the word. But he smiles. \"Teach me,\" he says. And every evening, his daughter teaches him one new English word.",
+          "si": "නිමල් ඒ වචනය දන්නේ නෑ. නමුත් එයා සිනාසෙනවා. \"මට උගන්නන්න,\" එයා කියනවා. හැම සවසකම එයාගේ දුව එයාට අලුත් ඉංග්‍රීසි වචනයක් උගන්නනවා."
+        }
+      ],
+      "glossary": [
+        {
+          "en": "dark",
+          "si": "අඳුරු"
+        },
+        {
+          "en": "outside",
+          "si": "පිටත"
+        },
+        {
+          "en": "estate",
+          "si": "වතුයාය"
+        },
+        {
+          "en": "weather",
+          "si": "කාලගුණය"
+        },
+        {
+          "en": "until",
+          "si": "වෙනකම්"
+        },
+        {
+          "en": "quickly",
+          "si": "ඉක්මනට"
+        },
+        {
+          "en": "continue",
+          "si": "දිගටම කරගෙන යනවා"
+        },
+        {
+          "en": "understand",
+          "si": "තේරෙනවා"
+        },
+        {
+          "en": "teach",
+          "si": "උගන්නනවා"
+        }
+      ],
+      "questionsSi": [
+        "නිමල් අවදි වෙන්නේ කීයටද?",
+        "වතුයායට යන්න කොපමණ වේලාවක් යනවද?",
+        "සවස ගෙදර ආවම නිමල් කරන්නේ මොකක්ද?"
+      ]
+    },
+    {
+      "type": "practice",
+      "title": "Add the right form",
+      "titleSi": "නිවැරදි ස්වරූපය ලියන්න",
+      "instructionSi": "වරහන් තුළ ඇති ක්‍රියාව නිවැරදි ස්වරූපයෙන් ලියන්න.",
+      "items": [
+        {
+          "prompt": "She ___ (work) in a hospital.",
+          "answer": "works",
+          "hintSi": "She සමඟ -s.",
+          "full": "She works in a hospital."
+        },
+        {
+          "prompt": "They ___ (play) cricket on Sundays.",
+          "answer": "play",
+          "hintSi": "They සමඟ වෙනසක් නෑ.",
+          "full": "They play cricket on Sundays."
+        },
+        {
+          "prompt": "He ___ (go) to school by bus.",
+          "answer": "goes",
+          "hintSi": "-o වලින් අවසන් නිසා -es.",
+          "full": "He goes to school by bus."
+        },
+        {
+          "prompt": "My sister ___ (study) medicine.",
+          "answer": "studies",
+          "hintSi": "y → ies.",
+          "full": "My sister studies medicine."
+        },
+        {
+          "prompt": "___ you like tea? (Do / Does)",
+          "answer": "do",
+          "hintSi": "'you' සමඟ.",
+          "full": "Do you like tea?"
+        },
+        {
+          "prompt": "She ___ eat meat. (don't / doesn't)",
+          "answer": "doesn't",
+          "hintSi": "She සමඟ.",
+          "full": "She doesn't eat meat."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "en": "wake up",
+      "si": "අවදි වෙනවා"
+    },
+    {
+      "en": "eat",
+      "si": "කනවා"
+    },
+    {
+      "en": "drink",
+      "si": "බොනවා"
+    },
+    {
+      "en": "go",
+      "si": "යනවා"
+    },
+    {
+      "en": "come",
+      "si": "එනවා"
+    },
+    {
+      "en": "work",
+      "si": "වැඩ කරනවා"
+    },
+    {
+      "en": "study",
+      "si": "ඉගෙන ගන්නවා"
+    },
+    {
+      "en": "read",
+      "si": "කියවනවා"
+    },
+    {
+      "en": "write",
+      "si": "ලියනවා"
+    },
+    {
+      "en": "cook",
+      "si": "උයනවා"
+    },
+    {
+      "en": "sleep",
+      "si": "නිදාගන්නවා"
+    },
+    {
+      "en": "play",
+      "si": "සෙල්ලම් කරනවා"
+    },
+    {
+      "en": "help",
+      "si": "උදව් කරනවා"
+    },
+    {
+      "en": "watch",
+      "si": "බලනවා"
+    },
+    {
+      "en": "walk",
+      "si": "ඇවිදිනවා"
+    },
+    {
+      "en": "weather",
+      "si": "කාලගුණය"
+    },
+    {
+      "en": "understand",
+      "si": "තේරෙනවා"
+    },
+    {
+      "en": "teach",
+      "si": "උගන්නනවා"
+    },
+    {
+      "en": "quickly",
+      "si": "ඉක්මනට"
+    },
+    {
+      "en": "dark",
+      "si": "අඳුරු"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "a2-02-q1",
+      "q": "'He ___ to school every day.' — නිවැරදි ස්වරූපය?",
+      "options": [
+        "go",
+        "goes",
+        "going",
+        "gos"
+      ],
+      "answer": 1,
+      "explainSi": "He සමඟ -s. 'go' -o වලින් අවසන් නිසා 'goes'.",
+      "speak": "He goes to school every day."
+    },
+    {
+      "id": "a2-02-q2",
+      "q": "'Does she ___ English?' — නිවැරදි වචනය?",
+      "options": [
+        "studies",
+        "study",
+        "studying",
+        "studied"
+      ],
+      "answer": 1,
+      "explainSi": "'does' භාවිත කරද්දී ප්‍රධාන ක්‍රියාව මූලික ස්වරූපයෙන් තියෙනවා — -s නෑ.",
+      "speak": "Does she study English?"
+    },
+    {
+      "id": "a2-02-q3",
+      "q": "'මම මස් කන්නේ නෑ' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "I not eat meat.",
+        "I don't eat meat.",
+        "I doesn't eat meat.",
+        "I am not eat meat."
+      ],
+      "answer": 1,
+      "explainSi": "I සමඟ 'don't'. He/She/It සමඟ පමණයි 'doesn't'.",
+      "speak": "I don't eat meat."
+    },
+    {
+      "id": "a2-02-q4",
+      "q": "'study' යන ක්‍රියාවේ he/she ස්වරූපය?",
+      "options": [
+        "studys",
+        "studies",
+        "studyes",
+        "study"
+      ],
+      "answer": 1,
+      "explainSi": "ව්‍යාංජනයකින් පසු 'y' නම් y ඉවත් වී '-ies' එකතු වෙනවා: study → studies.",
+      "speak": "She studies every night."
+    },
+    {
+      "id": "a2-02-q5",
+      "q": "Present Simple භාවිත කරන්නේ කුමකටද?",
+      "options": [
+        "දැන් මේ මොහොතේ සිදුවන දේ",
+        "නිතර සිදුවන දේ සහ සත්‍ය",
+        "ඊයේ සිදු වූ දේ",
+        "හෙට සිදුවන දේ"
+      ],
+      "answer": 1,
+      "explainSi": "පුරුදු, දිනචරියා සහ සදාකාලික සත්‍ය සඳහා Present Simple යොදනවා."
+    },
+    {
+      "id": "a2-02-q6",
+      "q": "'Do you like rice?' — නිවැරදි කෙටි පිළිතුර?",
+      "options": [
+        "Yes, I like.",
+        "Yes, I do.",
+        "Yes, I does.",
+        "Yes, I am."
+      ],
+      "answer": 1,
+      "explainSi": "'do' සමඟ ඇසූ ප්‍රශ්නයකට 'do' සමඟම පිළිතුරු දෙනවා: Yes, I do. / No, I don't.",
+      "speak": "Do you like rice? Yes, I do."
+    },
+    {
+      "id": "a2-02-q7",
+      "q": "කුමන වාක්‍යය වැරදිද?",
+      "options": [
+        "My mother cooks rice.",
+        "My mother cook rice.",
+        "They cook rice.",
+        "I cook rice."
+      ],
+      "answer": 1,
+      "explainSi": "'My mother' යනු 'she' වගේ එක් අයෙක්. එනිසා 'cooks' විය යුතුයි.",
+      "speak": "My mother cooks rice."
+    },
+    {
+      "id": "a2-02-q8",
+      "context": "Nimal wakes up at half past four every morning. It is still dark outside.",
+      "contextSi": "නිමල් හැම උදෑසනකම හතරහමාරට අවදි වෙනවා. පිටත තාම අඳුරුයි.",
+      "q": "කතාවේ නිමල් අවදි වන්නේ කීයටද?",
+      "options": [
+        "4.30",
+        "5.00",
+        "6.00",
+        "4.00"
+      ],
+      "answer": 0,
+      "explainSi": "'half past four' යනු හතරහමාරයි. 'half past' = හමාරයි.",
+      "speak": "He wakes up at half past four."
+    }
+  ]
+}

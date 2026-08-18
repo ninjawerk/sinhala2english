@@ -1,0 +1,982 @@
+{
+  "hero": {
+    "src": "images/a1-17-hero.webp",
+    "alt": "Ruwan leaning on a counter with his head tilted and eyebrows raised, asking a curious question, a small shop interior behind him."
+  },
+  "goalsSi": [
+    "what, where, who, when, why, how — ප්‍රශ්න වචන",
+    "ප්‍රශ්න වචනය ප්‍රශ්නය ආදේශ නොකරන බව — වචන අනුපිළිවෙළ",
+    "Why …? සහ Because … පිළිතුර",
+    "Who කර්තෘව වූ විට do අවශ්‍ය නොවන බව",
+    "How old, How far, How long, How much",
+    "ආචාරශීලී ප්‍රශ්නවල අනුපිළිවෙළ ආපසු හැරෙන බව"
+  ],
+  "goals": [
+    "Ask with every question word",
+    "Get the word order right",
+    "Ask Why and answer Because",
+    "Use How with adjectives"
+  ],
+  "sections": [
+    {
+      "type": "note",
+      "title": "The question word is extra, not instead",
+      "titleSi": "ප්‍රශ්න වචනය අමතරයි, ආදේශයක් නෙවෙයි",
+      "bodySi": "සිංහලෙන් ප්‍රශ්නයක් අහද්දී වචන අනුපිළිවෙළ වෙනස් වෙන්නේ නෑ. 'ඔබ කොහෙද ජීවත් වෙන්නේ?' — 'ඔබ ජීවත් වෙනවා' කියන එකට 'කොහෙද' එකතු වුණා විතරයි.\n\nඉංග්‍රීසියේ එහෙම නෑ. පියවර දෙකක් තියෙනවා:\n\n1. මුලින්ම ඔව්/නෑ ප්‍රශ්නය හදන්න: Do you live here?\n2. ඊට පස්සේ ප්‍රශ්න වචනය මුලට දාන්න: Where do you live?\n\n'Where you live?' කියලා කියන්නේ නෑ — do එක අයින් වෙන්නේ නෑ. ප්‍රශ්න වචනය එකතු වෙනවා විතරයි, කිසිවක් අයින් වෙන්නේ නෑ.\n\nඑකම නීතිය be සහ can සමඟත්:\nIs he working? → What is he working on?\nCan she drive? → Where can she drive?\n\nප්‍රශ්නය දැනටමත් හරි නම්, ඉස්සරහට වචනයක් දාන එක විතරයි ඉතුරු.",
+      "body": "Build the yes/no question first, then add the question word."
+    },
+    {
+      "type": "grammar",
+      "title": "The question words",
+      "titleSi": "ප්‍රශ්න වචන",
+      "explainSi": "හැම එකක්ම වෙනස් තොරතුරක් අහනවා. පිළිතුරේ වර්ගය ප්‍රශ්න වචනයෙන් තීරණය වෙනවා.",
+      "formula": "question word + do/does/is/are/can + subject + verb?",
+      "table": {
+        "headers": [
+          "වචනය",
+          "අහන්නේ",
+          "උදාහරණය",
+          "පිළිතුර"
+        ],
+        "rows": [
+          [
+            "What",
+            "දෙයක්",
+            "What do you want?",
+            "Some tea."
+          ],
+          [
+            "Where",
+            "තැනක්",
+            "Where do you live?",
+            "In Galle."
+          ],
+          [
+            "Who",
+            "කෙනෙක්",
+            "Who is that man?",
+            "My uncle."
+          ],
+          [
+            "When",
+            "වෙලාවක්",
+            "When does it start?",
+            "At seven."
+          ],
+          [
+            "Why",
+            "හේතුවක්",
+            "Why are you late?",
+            "Because of the bus."
+          ],
+          [
+            "Which",
+            "තෝරාගැනීමක්",
+            "Which bag is yours?",
+            "The blue one."
+          ],
+          [
+            "Whose",
+            "අයිතිකරු",
+            "Whose keys are these?",
+            "Mine."
+          ],
+          [
+            "How",
+            "ක්‍රමයක්",
+            "How do you go to work?",
+            "By train."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "What are you doing tonight?",
+          "si": "අද රෑට ඔබ මොකද කරන්නේ?"
+        },
+        {
+          "en": "Where does your sister work?",
+          "si": "ඔබේ අක්කා කොහෙද වැඩ කරන්නේ?"
+        },
+        {
+          "en": "When can you come?",
+          "si": "ඔබට කවදාද එන්න පුළුවන්?"
+        }
+      ],
+      "watchOutSi": "'Where you live?' සහ 'What he is doing?' දෙකම වැරදියි. ප්‍රශ්නය හදලා ඉවර වුණාට පස්සේ ප්‍රශ්න වචනය මුලට — වෙනත් කිසිවක් මාරු වෙන්නේ නෑ."
+    },
+    {
+      "type": "grammar",
+      "title": "Why? Because.",
+      "titleSi": "Why? Because.",
+      "explainSi": "'Why' අහන්නේ හේතුව. පිළිතුරේ 'Because' යෙදෙනවා. කථා කරද්දී 'Because' තනියම වාක්‍යයක් විදිහට යෙදෙනවා, නමුත් ලියද්දී එය වාක්‍ය දෙකක් සම්බන්ධ කරනවා.",
+      "formula": "Why + question?  ·  Because + subject + verb.",
+      "table": {
+        "headers": [
+          "ප්‍රශ්නය",
+          "පිළිතුර"
+        ],
+        "rows": [
+          [
+            "Why are you late?",
+            "Because the bus didn't come."
+          ],
+          [
+            "Why do you like it?",
+            "Because it's quiet."
+          ],
+          [
+            "Why is she laughing?",
+            "Because of the photo."
+          ],
+          [
+            "Why not?",
+            "Because I'm tired."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "Why are you learning English? — Because I want a better job.",
+          "si": "ඔබ ඉංග්‍රීසි ඉගෙන ගන්නේ ඇයි? — මට හොඳ රැකියාවක් ඕන නිසා."
+        },
+        {
+          "en": "I'm not going, because it's raining.",
+          "si": "මම යන්නේ නෑ, මොකද වහිනවා."
+        }
+      ],
+      "watchOutSi": "'Because of' පසුව නාම පදයක් විතරයි: 'because of the rain'. වාක්‍යයක් නම් 'because' තනියම: 'because it is raining'."
+    },
+    {
+      "type": "grammar",
+      "title": "When Who is the subject",
+      "titleSi": "Who කර්තෘව වූ විට",
+      "explainSi": "මේක ලේසි වුණත් අමුතුයි. 'Who' අහන්නේ ක්‍රියාව කරන කෙනා ගැන නම්, do/does අවශ්‍ය නෑ — 'Who' කර්තෘවගේ තැනට එනවා විතරයි.",
+      "formula": "Who + verb?  (no do)  ·  Who + do/does + subject + verb?  (Who is the object)",
+      "table": {
+        "headers": [
+          "ප්‍රශ්නය",
+          "අහන්නේ",
+          "පිළිතුර"
+        ],
+        "rows": [
+          [
+            "Who lives here?",
+            "කරන කෙනා",
+            "My aunt does."
+          ],
+          [
+            "Who does she know?",
+            "ලබන කෙනා",
+            "She knows my brother."
+          ],
+          [
+            "Who wants tea?",
+            "කරන කෙනා",
+            "I do."
+          ],
+          [
+            "Who do you want?",
+            "ලබන කෙනා",
+            "The manager."
+          ],
+          [
+            "What happened?",
+            "කරන දෙය",
+            "An accident."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "Who cooks in your house? — My father does.",
+          "si": "ඔබේ ගෙදර උයන්නේ කවුද? — තාත්තා."
+        },
+        {
+          "en": "Who did you call? — I called Ishara.",
+          "si": "ඔබ කාටද කතා කළේ? — ඉෂාරාට."
+        }
+      ],
+      "watchOutSi": "'Who does live here?' කියලා කියන්නේ නෑ. 'Who' කර්තෘව නම් 'Who lives here?' — ක්‍රියාවට -s එකත් තියෙනවා."
+    },
+    {
+      "type": "grammar",
+      "title": "How + adjective",
+      "titleSi": "How + විශේෂණය",
+      "explainSi": "'How' තනියම ක්‍රමය අහනවා. විශේෂණයක් සමඟ ප්‍රමාණය අහනවා.",
+      "formula": "How + old / far / long / much / many / often / tall?",
+      "table": {
+        "headers": [
+          "ප්‍රශ්නය",
+          "අහන්නේ",
+          "පිළිතුර"
+        ],
+        "rows": [
+          [
+            "How old are you?",
+            "වයස",
+            "I'm twenty-six."
+          ],
+          [
+            "How far is it?",
+            "දුර",
+            "About three kilometres."
+          ],
+          [
+            "How long does it take?",
+            "කාලය",
+            "Twenty minutes."
+          ],
+          [
+            "How much is this?",
+            "මිල",
+            "Four hundred rupees."
+          ],
+          [
+            "How many brothers do you have?",
+            "ගණන",
+            "Two."
+          ],
+          [
+            "How often do you come?",
+            "වාර ගණන",
+            "Twice a week."
+          ],
+          [
+            "How tall is he?",
+            "උස",
+            "About six feet."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "How long are you staying in Colombo?",
+          "si": "ඔබ කොළඹ කොපමණ කාලයක් ඉන්නවාද?"
+        },
+        {
+          "en": "How far is the station from here?",
+          "si": "මෙතනින් දුම්රියපොළට කොපමණ දුරද?"
+        }
+      ],
+      "watchOutSi": "'How much' ගණන් කරන්න බැරි දේවලට (money, water, time). 'How many' ගණන් කරන්න පුළුවන් දේවලට (brothers, books). ඒක a1-07 හි නීතියමයි."
+    },
+    {
+      "type": "grammar",
+      "title": "Polite questions turn the order back",
+      "titleSi": "ආචාරශීලී ප්‍රශ්නවල අනුපිළිවෙළ ආපසු",
+      "explainSi": "'Could you tell me …?' වැනි වචනවලින් පස්සේ එන කොටස ප්‍රශ්නයක් නෙවෙයි — එය සාමාන්‍ය වාක්‍යයක්. එනිසා අනුපිළිවෙළ ආපසු හැරෙනවා.",
+      "formula": "Where is he?  →  Could you tell me where he is?",
+      "table": {
+        "headers": [
+          "සාමාන්‍ය ප්‍රශ්නය",
+          "ආචාරශීලී ස්වරූපය"
+        ],
+        "rows": [
+          [
+            "Where is the station?",
+            "Could you tell me where the station is?"
+          ],
+          [
+            "What time does it open?",
+            "Do you know what time it opens?"
+          ],
+          [
+            "Where does he live?",
+            "Could you tell me where he lives?"
+          ],
+          [
+            "Is she coming?",
+            "Do you know if she is coming?"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "Could you tell me where the toilets are?",
+          "si": "වැසිකිළිය කොහෙද කියලා කියන්න පුළුවන්ද?"
+        },
+        {
+          "en": "Do you know what time the bank closes?",
+          "si": "බැංකුව කීයටද වහන්නේ කියලා ඔබ දන්නවාද?"
+        }
+      ],
+      "watchOutSi": "'Could you tell me where is the station?' — වැරදියි. ඇතුළේ තියෙන කොටස ප්‍රශ්නයක් නෙවෙයි: 'where the station is'."
+    },
+    {
+      "type": "vocab",
+      "title": "Asking and answering",
+      "titleSi": "අහන එකයි කියන එකයි",
+      "items": [
+        {
+          "en": "question",
+          "si": "ප්‍රශ්නය",
+          "say": "ක්වෙස්චන්"
+        },
+        {
+          "en": "answer",
+          "si": "පිළිතුර",
+          "say": "ආන්සර්"
+        },
+        {
+          "en": "ask",
+          "si": "අහනවා",
+          "say": "ආස්ක්"
+        },
+        {
+          "en": "because",
+          "si": "මොකද / නිසා",
+          "say": "බිකෝස්"
+        },
+        {
+          "en": "reason",
+          "si": "හේතුව",
+          "say": "රීසන්"
+        },
+        {
+          "en": "sure",
+          "si": "විශ්වාසයි",
+          "say": "ෂුවර්"
+        },
+        {
+          "en": "maybe",
+          "si": "සමහරවිට",
+          "say": "මේබී"
+        },
+        {
+          "en": "I don't know",
+          "si": "මම දන්නේ නෑ",
+          "say": "අයි ඩෝන්ට් නෝ"
+        },
+        {
+          "en": "How far?",
+          "si": "කොපමණ දුරද?",
+          "say": "හව් ෆාර්"
+        },
+        {
+          "en": "How long?",
+          "si": "කොපමණ කාලයක්ද?",
+          "say": "හව් ලෝං"
+        },
+        {
+          "en": "lost",
+          "si": "නැති වූ / පාර වැරදුණු",
+          "say": "ලොස්ට්"
+        },
+        {
+          "en": "name",
+          "si": "නම",
+          "say": "නේම්"
+        },
+        {
+          "en": "address",
+          "si": "ලිපිනය",
+          "say": "අඩ්‍රස්"
+        },
+        {
+          "en": "police station",
+          "si": "පොලිස් ස්ථානය",
+          "say": "පොලීස් ස්ටේෂන්"
+        },
+        {
+          "en": "form",
+          "si": "පෝරමය",
+          "say": "ෆෝම්"
+        },
+        {
+          "en": "afraid",
+          "si": "බය",
+          "say": "අෆ්‍රේඩ්"
+        },
+        {
+          "en": "shy",
+          "si": "ලැජ්ජා",
+          "say": "ෂයි"
+        },
+        {
+          "en": "remember",
+          "si": "මතකයි",
+          "say": "රිමෙම්බර්"
+        }
+      ]
+    },
+    {
+      "type": "story",
+      "title": "The Girl Who Asked Everything",
+      "titleSi": "හැම දෙයක්ම ඇහුව ගැහැණු ළමයා",
+      "introSi": "මේ කතාව පුරාවට ප්‍රශ්න තියෙනවා. ප්‍රශ්න වචනය කුමක්ද, පිළිතුරෙන් ලැබෙන්නේ මොකක්ද කියලා බලන්න.",
+      "paragraphs": [
+        {
+          "en": "A small girl is standing alone at the bus station. She is about six. A woman goes to her and asks, \"Where is your mother?\"",
+          "si": "පොඩි ගැහැණු ළමයෙක් බස් නැවතුම්පොළේ තනියම ඉන්නවා. එයාට වයස හයක් විතර. කාන්තාවක් එයා ළඟට ගිහින් අහනවා, \"ඔබේ අම්මා කොහෙද?\""
+        },
+        {
+          "en": "\"I don't know,\" the girl says. \"Who are you?\" The woman laughs. \"That's a good question. My name is Rani. What's your name?\"",
+          "si": "\"මම දන්නේ නෑ,\" ළමයා කියනවා. \"ඔබ කවුද?\" කාන්තාව හිනාවෙනවා. \"ඒක හොඳ ප්‍රශ්නයක්. මගේ නම රාණි. ඔබේ නම මොකක්ද?\""
+        },
+        {
+          "en": "\"Sithara. Why are you asking? Do you know my mother?\" \"No, I don't. But I know the station. How long have you been here?\"",
+          "si": "\"සිතාරා. ඔබ අහන්නේ ඇයි? ඔබ මගේ අම්මාව දන්නවාද?\" \"නෑ, දන්නේ නෑ. හැබැයි මම මේ නැවතුම්පොළ දන්නවා. ඔබ මෙතන කොපමණ වෙලාවක් ඉන්නවාද?\""
+        },
+        {
+          "en": "Sithara thinks. \"Two buses,\" she says. Rani nods — that is a better answer than a number. \"Which bus does your mother take?\" \"The red one. It goes to my grandmother's house.\"",
+          "si": "සිතාරා හිතනවා. \"බස් දෙකක්,\" එයා කියනවා. රාණි හිස සලනවා — ඒක අංකයකට වඩා හොඳ පිළිතුරක්. \"ඔබේ අම්මා නගින්නේ මොන බස් එකද?\" \"රතු එක. ඒක ආච්චිගේ ගෙදරට යනවා.\""
+        },
+        {
+          "en": "\"Good. Who lives with your grandmother?\" \"Nobody. That's why we go.\" Rani stops. She is asking questions to help, but this child is answering with her whole life.",
+          "si": "\"හොඳයි. ආච්චි එක්ක ජීවත් වෙන්නේ කවුද?\" \"කවුරුවත් නෑ. ඒකයි අපි යන්නේ.\" රාණි නවතිනවා. එයා ප්‍රශ්න අහන්නේ උදව් කරන්න, හැබැයි මේ දරුවා පිළිතුරු දෙන්නේ තමන්ගේ මුළු ජීවිතයම."
+        },
+        {
+          "en": "Then a woman is running towards them, shouting Sithara's name. \"Where were you?\" she says, and she is holding the child too hard. Sithara looks up at Rani. \"Why do grown-ups ask where you were,\" she says, \"when they know they were the ones who went away?\"",
+          "si": "එතකොට කාන්තාවක් ඔවුන් දෙසට දුවගෙන එනවා, සිතාරාගේ නම කෑගහමින්. \"ඔබ කොහෙද හිටියේ?\" එයා කියනවා, දරුවව ගොඩක් තදින් අල්ලාගෙන. සිතාරා රාණි දිහා බලනවා. \"ලොකු අය අහන්නේ ඇයි ඔබ කොහෙද හිටියේ කියලා,\" එයා කියනවා, \"ගියේ ඔවුන් බව ඔවුන් දන්නවා නම්?\""
+        }
+      ],
+      "glossary": [
+        {
+          "en": "alone",
+          "si": "තනියම"
+        },
+        {
+          "en": "about six",
+          "si": "හයක් විතර"
+        },
+        {
+          "en": "nod",
+          "si": "හිස සලනවා"
+        },
+        {
+          "en": "towards",
+          "si": "දෙසට"
+        },
+        {
+          "en": "hold",
+          "si": "අල්ලාගන්නවා"
+        },
+        {
+          "en": "grown-up",
+          "si": "ලොකු කෙනා"
+        },
+        {
+          "en": "go away",
+          "si": "ගිහින්"
+        }
+      ],
+      "questionsSi": [
+        "රාණි අහන පළමු ප්‍රශ්නය කුමක්ද?",
+        "සිතාරා 'බස් දෙකක්' කියලා කියන්නේ ඇයි?",
+        "රාණි නවතින්නේ ඇයි?",
+        "අන්තිම ප්‍රශ්නයෙන් සිතාරා කියන්නේ මොකක්ද?"
+      ]
+    },
+    {
+      "type": "poem",
+      "title": "Questions at Six",
+      "titleSi": "වයස හයේදී ප්‍රශ්න",
+      "introSi": "හැම පේළියක්ම ප්‍රශ්නයක්. අන්තිම දෙක විතරයි වෙනස්.",
+      "lines": [
+        {
+          "en": "Why is the sea not sweet like rain?",
+          "si": "වැස්ස වගේ මුහුද මිහිරි නැත්තේ ඇයි?"
+        },
+        {
+          "en": "Where does the evening go?",
+          "si": "හවස කොහෙද යන්නේ?"
+        },
+        {
+          "en": "Who taught the first man how to speak?",
+          "si": "පළමු මිනිසාට කථා කරන්න උගැන්නුවේ කවුද?"
+        },
+        {
+          "en": "How long till I can know?",
+          "si": "මට දැනගන්න පුළුවන් වෙන්න තව කොපමණ කල්ද?"
+        },
+        {
+          "en": "",
+          "si": ""
+        },
+        {
+          "en": "My father says: stop asking, child.",
+          "si": "තාත්තා කියනවා: ළමයෝ, අහන එක නවත්තන්න."
+        },
+        {
+          "en": "My mother says: ask two.",
+          "si": "අම්මා කියනවා: දෙකක් අහන්න."
+        },
+        {
+          "en": "I'm going to be like her, I think.",
+          "si": "මම එයා වගේ වෙනවා කියලා හිතනවා."
+        },
+        {
+          "en": "There's nothing else to do.",
+          "si": "වෙන කරන්න දෙයක් නෑ."
+        }
+      ],
+      "noteSi": "'Who taught the first man …?' — මෙතන 'Who' කර්තෘවයි, එනිසා do නෑ. අනිත් ප්‍රශ්නවල අනුපිළිවෙළ බලන්න."
+    },
+    {
+      "type": "dialogue",
+      "title": "At the police station",
+      "titleSi": "පොලිස් ස්ථානයේදී",
+      "settingSi": "නැති වූ බෑග් එකක් ගැන පැමිණිල්ලක්. ප්‍රශ්න වචන ගොඩක් එනවා.",
+      "lines": [
+        {
+          "speaker": "Officer",
+          "en": "What did you lose?",
+          "si": "ඔබට නැති වුණේ මොකක්ද?"
+        },
+        {
+          "speaker": "Amila",
+          "en": "A brown bag. My laptop is in it.",
+          "si": "දුඹුරු බෑග් එකක්. ඒකේ මගේ ලැප්ටොප් එක තියෙනවා."
+        },
+        {
+          "speaker": "Officer",
+          "en": "Where were you when you lost it?",
+          "si": "නැති වෙද්දී ඔබ කොහෙද හිටියේ?"
+        },
+        {
+          "speaker": "Amila",
+          "en": "On the 138 bus. I think.",
+          "si": "138 බස් එකේ. මම හිතන්නේ."
+        },
+        {
+          "speaker": "Officer",
+          "en": "How long ago was this?",
+          "si": "මේක වුණේ කොපමණ කලකට කලින්ද?"
+        },
+        {
+          "speaker": "Amila",
+          "en": "About an hour. Could you tell me what I should do now?",
+          "si": "පැයක් විතර. දැන් මම මොකද කරන්න ඕන කියලා කියන්න පුළුවන්ද?"
+        },
+        {
+          "speaker": "Officer",
+          "en": "Fill in this form. Who else was with you?",
+          "si": "මේ පෝරමය පුරවන්න. ඔබ එක්ක තව කවුද හිටියේ?"
+        },
+        {
+          "speaker": "Amila",
+          "en": "Nobody. Why do you ask?",
+          "si": "කවුරුවත් නෑ. ඔබ අහන්නේ ඇයි?"
+        },
+        {
+          "speaker": "Officer",
+          "en": "Because two people remember more than one.",
+          "si": "මොකද කෙනෙකුට වඩා දෙදෙනෙකුට වැඩිය මතක තියෙනවා."
+        }
+      ]
+    },
+    {
+      "type": "practice",
+      "title": "Put the question in order",
+      "titleSi": "ප්‍රශ්නය පිළිවෙළට තියන්න",
+      "instructionSi": "මුලින්ම ඔව්/නෑ ප්‍රශ්නය හිතන්න, ඊට පස්සේ ප්‍රශ්න වචනය මුලට දාන්න.",
+      "items": [
+        {
+          "prompt": "you / live / where / do → ___",
+          "answer": "Where do you live?",
+          "hintSi": "Do you live … → Where do you live?",
+          "full": "Where do you live?"
+        },
+        {
+          "prompt": "he / is / what / doing → ___",
+          "answer": "What is he doing?",
+          "hintSi": "Is he doing … → What is he doing?",
+          "full": "What is he doing?"
+        },
+        {
+          "prompt": "here / who / lives → ___",
+          "answer": "Who lives here?",
+          "hintSi": "Who කර්තෘවයි — do නෑ.",
+          "full": "Who lives here?"
+        },
+        {
+          "prompt": "is / how far / it → ___",
+          "answer": "How far is it?",
+          "hintSi": "How + far.",
+          "full": "How far is it?"
+        },
+        {
+          "prompt": "does / start / when / it → ___",
+          "answer": "When does it start?",
+          "hintSi": "Does it start … → When does it start?",
+          "full": "When does it start?"
+        },
+        {
+          "prompt": "polite: where is the bank → ___",
+          "answer": "Could you tell me where the bank is?",
+          "hintSi": "ඇතුළේ අනුපිළිවෙළ ආපසු.",
+          "full": "Could you tell me where the bank is?"
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "en": "question",
+      "si": "ප්‍රශ්නය"
+    },
+    {
+      "en": "answer",
+      "si": "පිළිතුර"
+    },
+    {
+      "en": "ask",
+      "si": "අහනවා"
+    },
+    {
+      "en": "because",
+      "si": "මොකද / නිසා"
+    },
+    {
+      "en": "reason",
+      "si": "හේතුව"
+    },
+    {
+      "en": "maybe",
+      "si": "සමහරවිට"
+    },
+    {
+      "en": "How far?",
+      "si": "කොපමණ දුරද?"
+    },
+    {
+      "en": "How long?",
+      "si": "කොපමණ කාලයක්ද?"
+    },
+    {
+      "en": "lost",
+      "si": "නැති වූ"
+    },
+    {
+      "en": "address",
+      "si": "ලිපිනය"
+    },
+    {
+      "en": "police station",
+      "si": "පොලිස් ස්ථානය"
+    },
+    {
+      "en": "form",
+      "si": "පෝරමය"
+    },
+    {
+      "en": "alone",
+      "si": "තනියම"
+    },
+    {
+      "en": "grown-up",
+      "si": "ලොකු කෙනා"
+    },
+    {
+      "en": "towards",
+      "si": "දෙසට"
+    },
+    {
+      "en": "nod",
+      "si": "හිස සලනවා"
+    },
+    {
+      "en": "fill in",
+      "si": "පුරවනවා"
+    },
+    {
+      "en": "else",
+      "si": "තව / වෙන"
+    },
+    {
+      "en": "sure",
+      "si": "විශ්වාසයි"
+    },
+    {
+      "en": "laptop",
+      "si": "ලැප්ටොප් එක"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "a1-17-q1",
+      "q": "'ඔබ කොහෙද ජීවත් වෙන්නේ?' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "Where you live?",
+        "Where do you live?",
+        "Where live you?",
+        "Where you are live?"
+      ],
+      "answer": 1,
+      "explainSi": "මුලින්ම 'Do you live …?' ඊට පස්සේ 'Where' මුලට. do අයින් වෙන්නේ නෑ.",
+      "speak": "Where do you live?"
+    },
+    {
+      "id": "a1-17-q2",
+      "q": "'Where you live?' වැරදි වන්නේ ඇයි?",
+      "options": [
+        "'Where' මුලට යා නොහැකි නිසා",
+        "ප්‍රශ්න වචනය එකතු වෙනවා මිස 'do' ආදේශ කරන්නේ නෑ",
+        "'live' වැරදි ස්වරූපය නිසා",
+        "'you' සමඟ 'where' යෙදිය නොහැකි නිසා"
+      ],
+      "answer": 1,
+      "explainSi": "සිංහලෙන් වචනයක් එකතු කරනවා විතරයි. ඉංග්‍රීසියේ ප්‍රශ්නයේ ව්‍යුහයත් ඕන."
+    },
+    {
+      "id": "a1-17-q3",
+      "q": "'එයා මොකද කරන්නේ?' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "What he is doing?",
+        "What is he doing?",
+        "What he does doing?",
+        "What does he doing?"
+      ],
+      "answer": 1,
+      "explainSi": "'Is he doing …?' ප්‍රශ්නය හදලා 'What' මුලට. 'he is' නෙවෙයි 'is he'.",
+      "speak": "What is he doing?"
+    },
+    {
+      "id": "a1-17-q4",
+      "q": "'මෙතන ජීවත් වෙන්නේ කවුද?' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "Who does live here?",
+        "Who lives here?",
+        "Who do live here?",
+        "Who is live here?"
+      ],
+      "answer": 1,
+      "explainSi": "'Who' කර්තෘව නම් do/does අවශ්‍ය නෑ — සහ ක්‍රියාවට -s තියෙනවා.",
+      "speak": "Who lives here?"
+    },
+    {
+      "id": "a1-17-q5",
+      "q": "'Who lives here?' සමඟ do නොයෙදෙන්නේ ඇයි?",
+      "options": [
+        "'Who' කෙටි වචනයක් නිසා",
+        "'Who' කර්තෘවගේ තැනට එන නිසා — වාක්‍යය දැනටමත් සම්පූර්ණයි",
+        "'live' සමඟ do යෙදිය නොහැකි නිසා",
+        "එය ව්‍යතිරේකයක් — හේතුවක් නෑ"
+      ],
+      "answer": 1,
+      "explainSi": "'Somebody lives here' → 'Who lives here?' කර්තෘව වෙනුවට 'Who' පමණයි. 'Who do you know?' නම් 'Who' කර්මය, එතන do ඕන."
+    },
+    {
+      "id": "a1-17-q6",
+      "q": "'Why are you late?' — ගැළපෙන පිළිතුර?",
+      "options": [
+        "At seven.",
+        "Because the bus didn't come.",
+        "By bus.",
+        "In Galle."
+      ],
+      "answer": 1,
+      "explainSi": "'Why' අහන්නේ හේතුව — පිළිතුර 'Because'."
+    },
+    {
+      "id": "a1-17-q7",
+      "q": "'මම යන්නේ නෑ, මොකද වහිනවා' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "I'm not going, because of it is raining.",
+        "I'm not going, because it is raining.",
+        "I'm not going, because of raining.",
+        "I'm not going, why it is raining."
+      ],
+      "answer": 1,
+      "explainSi": "වාක්‍යයක් නම් 'because'. නාම පදයක් නම් 'because of the rain'.",
+      "speak": "I'm not going, because it is raining."
+    },
+    {
+      "id": "a1-17-q8",
+      "q": "'How ___ is the station?' — දුර අහන්න?",
+      "options": [
+        "much",
+        "far",
+        "long",
+        "many"
+      ],
+      "answer": 1,
+      "explainSi": "දුරට 'How far'. 'How long' කාලයට."
+    },
+    {
+      "id": "a1-17-q9",
+      "q": "'How many' සහ 'How much' අතර වෙනස?",
+      "options": [
+        "වෙනසක් නෑ",
+        "'How many' ගණන් කරන්න පුළුවන් දේවලට, 'How much' බැරි දේවලට",
+        "'How much' වඩා ආචාරශීලීයි",
+        "'How many' මිලට විතරයි"
+      ],
+      "answer": 1,
+      "explainSi": "How many brothers? / How much water? — a1-07 හි එකම නීතිය."
+    },
+    {
+      "id": "a1-17-q10",
+      "q": "'How long does it take?' — ගැළපෙන පිළිතුර?",
+      "options": [
+        "Three kilometres.",
+        "Twenty minutes.",
+        "Four hundred rupees.",
+        "Twice a week."
+      ],
+      "answer": 1,
+      "explainSi": "'How long' කාලය අහනවා. දුර නම් 'How far'."
+    },
+    {
+      "id": "a1-17-q11",
+      "q": "ආචාරශීලී ස්වරූපය කුමක්ද?",
+      "options": [
+        "Could you tell me where is the bank?",
+        "Could you tell me where the bank is?",
+        "Could you tell me where does the bank is?",
+        "Could you tell me the bank where is?"
+      ],
+      "answer": 1,
+      "explainSi": "'Could you tell me …' පසුව එන කොටස ප්‍රශ්නයක් නෙවෙයි — අනුපිළිවෙළ සාමාන්‍ය වාක්‍යයක් වගේ.",
+      "speak": "Could you tell me where the bank is?"
+    },
+    {
+      "id": "a1-17-q12",
+      "q": "'Do you know what time ___?' — හිස්තැනට?",
+      "options": [
+        "does it open",
+        "it opens",
+        "is it open",
+        "opens it"
+      ],
+      "answer": 1,
+      "explainSi": "ඇතුළේ ප්‍රශ්න ව්‍යුහය අවශ්‍ය නෑ: 'what time it opens'."
+    },
+    {
+      "id": "a1-17-q13",
+      "context": "A woman goes to her and asks, \"Where is your mother?\" \"I don't know,\" the girl says. \"Who are you?\"",
+      "contextSi": "කාන්තාවක් එයා ළඟට ගිහින් අහනවා, \"ඔබේ අම්මා කොහෙද?\" \"මම දන්නේ නෑ,\" ළමයා කියනවා. \"ඔබ කවුද?\"",
+      "q": "කතාව අනුව: ළමයාගේ පිළිතුරෙන් පස්සේ එයා කරන්නේ කුමක්ද?",
+      "options": [
+        "අඬනවා",
+        "ආපසු ප්‍රශ්නයක් අහනවා",
+        "දුවනවා",
+        "අම්මාව හොයනවා"
+      ],
+      "answer": 1,
+      "explainSi": "'Who are you?' — පිළිතුරු දීලා වහාම එයාත් අහනවා. කතාවේ නම එතනින්."
+    },
+    {
+      "id": "a1-17-q14",
+      "context": "\"How long have you been here?\" Sithara thinks. \"Two buses,\" she says. Rani nods — that is a better answer than a number.",
+      "contextSi": "\"ඔබ මෙතන කොපමණ වෙලාවක් ඉන්නවාද?\" සිතාරා හිතනවා. \"බස් දෙකක්,\" එයා කියනවා. රාණි හිස සලනවා — ඒක අංකයකට වඩා හොඳ පිළිතුරක්.",
+      "q": "කතාව අනුව: 'බස් දෙකක්' අංකයකට වඩා හොඳ පිළිතුරක් වන්නේ ඇයි?",
+      "options": [
+        "ළමයාට ගණන් කරන්න බැරි නිසා",
+        "එය ඇත්ත වෙලාව මනිනවා — ළමයෙකුට ඔරලෝසුවක් නැතුව දැනගන්න පුළුවන් ක්‍රමයෙන්",
+        "බස් වැදගත් නිසා",
+        "රාණි බස්වලට කැමති නිසා"
+      ],
+      "answer": 1,
+      "explainSi": "ඔරලෝසුවක් නැති දරුවෙක් වෙලාව මනින්නේ තමන්ට පේන දෙයින්."
+    },
+    {
+      "id": "a1-17-q15",
+      "context": "\"Good. Who lives with your grandmother?\" \"Nobody. That's why we go.\" Rani stops. She is asking questions to help, but this child is answering with her whole life.",
+      "contextSi": "\"හොඳයි. ආච්චි එක්ක ජීවත් වෙන්නේ කවුද?\" \"කවුරුවත් නෑ. ඒකයි අපි යන්නේ.\" රාණි නවතිනවා. එයා ප්‍රශ්න අහන්නේ උදව් කරන්න, හැබැයි මේ දරුවා පිළිතුරු දෙන්නේ තමන්ගේ මුළු ජීවිතයම.",
+      "q": "කතාව අනුව: රාණි නවතින්නේ ඇයි?",
+      "options": [
+        "ළමයා පිළිතුරු නොදෙන නිසා",
+        "සරල ප්‍රශ්නවලට ලැබෙන පිළිතුරු එයා බලාපොරොත්තු වූවාට වඩා ගැඹුරු නිසා",
+        "අම්මා ආපු නිසා",
+        "බස් එක ආපු නිසා"
+      ],
+      "answer": 1,
+      "explainSi": "'Who lives with your grandmother?' කියන එකට 'Nobody. That's why we go' — ඒක තොරතුරකට වඩා වැඩියි."
+    },
+    {
+      "id": "a1-17-q16",
+      "context": "\"Why do grown-ups ask where you were,\" she says, \"when they know they were the ones who went away?\"",
+      "contextSi": "\"ලොකු අය අහන්නේ ඇයි ඔබ කොහෙද හිටියේ කියලා,\" එයා කියනවා, \"ගියේ ඔවුන් බව ඔවුන් දන්නවා නම්?\"",
+      "q": "කතාව අනුව: සිතාරාගේ අන්තිම ප්‍රශ්නයෙන් කියවෙන්නේ කුමක්ද?",
+      "options": [
+        "එයාට අම්මාව හොයාගන්න බැරි වුණා",
+        "නැති වුණේ එයා නෙවෙයි — එයා තිබූ තැනම හිටියා, ගියේ අම්මා",
+        "එයාට ලොකු අයට කැමැත්තක් නෑ",
+        "එයාට බස් නැවතුම් තේරෙන්නේ නෑ"
+      ],
+      "answer": 1,
+      "explainSi": "'Where were you?' කියන ප්‍රශ්නය එයාට වැරදි කෙනාට අහන ප්‍රශ්නයක්."
+    },
+    {
+      "id": "a1-17-q17",
+      "context": "Why is the sea not sweet like rain? / Where does the evening go? / Who taught the first man how to speak? / How long till I can know?",
+      "contextSi": "වැස්ස වගේ මුහුද මිහිරි නැත්තේ ඇයි? / හවස කොහෙද යන්නේ? / පළමු මිනිසාට කථා කරන්න උගැන්නුවේ කවුද? / මට දැනගන්න පුළුවන් වෙන්න තව කොපමණ කල්ද?",
+      "q": "කවියේ 'Who taught the first man …?' සමඟ 'did' නොයෙදෙන්නේ ඇයි?",
+      "options": [
+        "පදවැල ගැළපෙන්න",
+        "'Who' උගැන්නූ කෙනා — කර්තෘවයි, එනිසා do/did අවශ්‍ය නෑ",
+        "එය අතීතය නිසා",
+        "කවියක් නිසා"
+      ],
+      "answer": 1,
+      "explainSi": "අනිත් පේළිවල 'does' තියෙනවා ('Where does the evening go?') මොකද එතන 'Where' කර්තෘව නෙවෙයි."
+    },
+    {
+      "id": "a1-17-q18",
+      "context": "My father says: stop asking, child. / My mother says: ask two. / I'm going to be like her, I think.",
+      "contextSi": "තාත්තා කියනවා: ළමයෝ, අහන එක නවත්තන්න. / අම්මා කියනවා: දෙකක් අහන්න. / මම එයා වගේ වෙනවා කියලා හිතනවා.",
+      "q": "කවියේ ළමයා තෝරාගන්නේ කාගේ ක්‍රමයද, සහ 'her' යනු කවුද?",
+      "options": [
+        "තාත්තාගේ — 'her' යනු අම්මා",
+        "අම්මාගේ — 'her' යනු අම්මා",
+        "අම්මාගේ — 'her' යනු තාත්තා",
+        "කාගේවත් නෑ"
+      ],
+      "answer": 1,
+      "explainSi": "'her' යනු ගැහැණු කෙනා — අම්මා. එයා කිව්වේ තව දෙකක් අහන්න කියලා."
+    },
+    {
+      "id": "a1-17-q19",
+      "context": "Officer: Who else was with you?\nAmila: Nobody. Why do you ask?\nOfficer: Because two people remember more than one.",
+      "contextSi": "නිලධාරියා: ඔබ එක්ක තව කවුද හිටියේ?\nඅමිල: කවුරුවත් නෑ. ඔබ අහන්නේ ඇයි?\nනිලධාරියා: මොකද කෙනෙකුට වඩා දෙදෙනෙකුට වැඩිය මතක තියෙනවා.",
+      "q": "සංවාදයේ: නිලධාරියා ඒ ප්‍රශ්නය අහන්නේ ඇයි?",
+      "options": [
+        "සැක කරන නිසා",
+        "සාක්ෂිකරුවෙක් හිටියා නම් වැඩි විස්තර ලැබෙන නිසා",
+        "පෝරමයට ඕන නිසා",
+        "අමිල තනියම නිසා"
+      ],
+      "answer": 1,
+      "explainSi": "'two people remember more than one' — හේතුව එයාම කියනවා."
+    },
+    {
+      "id": "a1-17-q20",
+      "q": "කුමන ප්‍රශ්නය වැරදිද?",
+      "options": [
+        "When does the film start?",
+        "Why is she laughing?",
+        "Where does he lives?",
+        "How much is this?"
+      ],
+      "answer": 2,
+      "explainSi": "'does' යෙදුවම ක්‍රියාවෙන් -s අයින්: 'Where does he live?'"
+    },
+    {
+      "id": "a1-17-q21",
+      "q": "'Which bag is yours?' සහ 'What bag is yours?' — 'Which' යෙදෙන්නේ කවදාද?",
+      "options": [
+        "වෙනසක් නෑ",
+        "පේන තෝරාගැනීමක් තියෙද්දී — බෑග් තුනක් තියෙනවා නම් 'Which'",
+        "'Which' වඩා ආචාරශීලීයි",
+        "'What' බෑග්වලට යෙදිය නොහැක"
+      ],
+      "answer": 1,
+      "explainSi": "'Which' සීමිත තෝරාගැනීමකින්. 'What' විවෘත ප්‍රශ්නයකට."
+    },
+    {
+      "id": "a1-17-q22",
+      "q": "'ඔබේ අක්කා කොහෙද වැඩ කරන්නේ?' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "Where your sister works?",
+        "Where does your sister work?",
+        "Where does your sister works?",
+        "Where is your sister work?"
+      ],
+      "answer": 1,
+      "explainSi": "'Does your sister work …?' + 'Where' මුලට. does යෙදුණම ක්‍රියාව මූලික ස්වරූපයෙන්.",
+      "speak": "Where does your sister work?"
+    }
+  ]
+}

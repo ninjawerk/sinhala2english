@@ -1,0 +1,790 @@
+{
+  "hero": {
+    "src": "images/b1-28-hero.webp",
+    "alt": "Nadeesha driving carefully in heavy rain with both hands on the wheel, wipers going, blurred tail lights ahead through the windscreen."
+  },
+  "goalsSi": [
+    "ක්‍රියා විශේෂණ සසඳන්න — more quickly, the hardest",
+    "-ly ඇති ඒවාට more, කෙටි ඒවාට -er",
+    "well → better → best වගේ අවිධිමත් ඒවා",
+    "ක්‍රියා විශේෂණ වාක්‍යයේ තියෙන්නේ කොහෙද",
+    "වේලාව, තැන, නිතරකම — පිළිවෙළ",
+    "නිතරකම කියන වචන ක්‍රියාවට කලින්"
+  ],
+  "goals": [
+    "Compare adverbs with more quickly and the hardest",
+    "Use more with -ly adverbs and -er with short ones",
+    "Handle the irregulars: well, badly, far",
+    "Place adverbs correctly in a sentence",
+    "Order time, place and frequency",
+    "Put frequency adverbs before the main verb"
+  ],
+  "sections": [
+    {
+      "type": "note",
+      "title": "How, not what",
+      "titleSi": "මොකක්ද නෙවෙයි, කොහොමද",
+      "bodySi": "b1-06 හි ඉගෙන ගත්තා විශේෂණ සසඳන එක — bigger, the best. ඒවා දේවල් සසඳනවා.\n\nදැන් ක්‍රියා සසඳන එක.\n\n'She is faster.' — ඇය වේගවත්. (ඇය කවුද කියන එක)\n'She runs faster.' — ඇය වේගෙන් දුවනවා. (ඇය කරන විදිහ)\n\nදෙවෙනි එකේ 'faster' කරන්නේ 'runs' කියන ක්‍රියාව විස්තර කරන එකයි. ඒකට කියන්නේ ක්‍රියා විශේෂණයක් — adverb එකක්.\n\nB1 මට්ටමේ මේකට කොටස් දෙකක්:\n1. ඒවා සසඳන විදිහ — more quickly, the hardest.\n2. ඒවා වාක්‍යයේ තියෙන තැන — ඒක ලංකාවේ ඉගෙන ගන්න අයට වඩාත් අමාරු කොටස.\n\n'I every day go to work' ✗\n'I go to work every day' ✓\n\nරටාවක් තියෙනවා, ඒක මේ පාඩමේ දෙවෙනි භාගය.",
+      "body": "Adjectives compare things; adverbs compare how things are done. And where the adverb sits matters as much as its form."
+    },
+    {
+      "type": "grammar",
+      "title": "more quickly, the most quickly",
+      "titleSi": "more quickly, the most quickly",
+      "explainSi": "නීතිය සරලයි: -ly ඇති ක්‍රියා විශේෂණවලට more සහ most.\n\nquickly → more quickly → the most quickly\ncarefully → more carefully → the most carefully\nfrequently → more frequently → the most frequently\n\n'Paula got ready more quickly than the others.'\n'The person who most frequently got ill was Angela.'\n\nකෙටි ඒවාට (-ly නැති) -er සහ -est:\n\nfast → faster → the fastest\nhard → harder → the hardest\nearly → earlier → the earliest (මේකට -ly තිබුණත් කෙටියි)\nlate → later → the latest\n\n'Jenson Button was faster in practice.'\n'Stig worked the hardest.'\n\nඅවිධිමත් තුනක් මතක තියාගන්න ඕන:\n\nwell → better → the best\nbadly → worse → the worst\nfar → further/farther → the furthest\n\n'She sings well.' → 'She sings better than me.' → 'She sings the best.'\n'Marie did the worst in the exam.'\n'I'm afraid he's getting worse.'\n\nවැදගත්: 'good' කියන්නේ විශේෂණයක්, 'well' කියන්නේ ක්‍රියා විශේෂණයක්. 'She sings good' ✗ — 'She sings well' ✓.",
+      "explain": "-ly adverbs take more and most. Short ones take -er and -est. well/badly/far are irregular.",
+      "formula": "-ly → more/most  ·  කෙටි → -er/-est",
+      "table": {
+        "headers": [
+          "Adverb",
+          "සැසඳීම",
+          "උපරිමය"
+        ],
+        "rows": [
+          [
+            "quickly",
+            "more quickly",
+            "the most quickly"
+          ],
+          [
+            "carefully",
+            "more carefully",
+            "the most carefully"
+          ],
+          [
+            "fast",
+            "faster",
+            "the fastest"
+          ],
+          [
+            "hard",
+            "harder",
+            "the hardest"
+          ],
+          [
+            "well",
+            "better",
+            "the best"
+          ],
+          [
+            "badly",
+            "worse",
+            "the worst"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "Please drive more slowly — the road is wet.",
+          "si": "කරුණාකර හෙමින් එළවන්න — පාර තෙතයි."
+        },
+        {
+          "en": "He works harder than anyone else here.",
+          "si": "එයා මෙතන අනිත් හැමෝටම වඩා වැඩ කරනවා."
+        },
+        {
+          "en": "Of the three of them, she explained it the best.",
+          "si": "තුන්දෙනාගෙන් ඒක හොඳටම පැහැදිලි කළේ ඇය."
+        }
+      ],
+      "watchOutSi": "'She sings good' කියන එක බහුලම වැරදිවලින් එකක්. 'good' නාම පදයක් විස්තර කරනවා; 'well' ක්‍රියාවක් විස්තර කරනවා. 'She is a good singer. She sings well.'"
+    },
+    {
+      "type": "grammar",
+      "title": "Where the adverb goes",
+      "titleSi": "ක්‍රියා විශේෂණය තියෙන්නේ කොහෙද",
+      "explainSi": "මේකයි ඇත්තටම අමාරු කොටස. රටා තුනක් තියෙනවා.\n\n1. විදිහ කියන ඒවා (quickly, carefully, well) — ක්‍රියාවට පස්සේ, නැත්නම් object එකට පස්සේ.\n\n'He drives carefully.' ✓\n'He drives the bus carefully.' ✓\n'He drives carefully the bus.' ✗\n\nක්‍රියාවයි object එකයි අතරට කවදාවත් යන්නේ නෑ. ඒක ලංකාවේ ඉගෙන ගන්න අය නිතරම කරන වැරැද්දක්.\n\n2. නිතරකම කියන ඒවා (always, never, often, usually, sometimes) — ප්‍රධාන ක්‍රියාවට කලින්.\n\n'I always walk to work.' ✓\n'I walk always to work.' ✗\n\nඒත් 'be' එකට පස්සේ:\n'He is always late.' ✓ (කලින් නෙවෙයි)\n\nසහ සහායක ක්‍රියාවක් තියෙනවා නම් — ඒකට පස්සේ:\n'I have never been there.' ✓\n'She can usually finish by five.' ✓\n\n3. වේලාව සහ තැන — වාක්‍යය අගට.\n\n'We usually go abroad in summer.'\n'They often play upstairs.'\n\nදෙකම තියෙනවා නම් පිළිවෙළ: තැන, ඊට පස්සේ වේලාව.\n\n'I went to the market yesterday.' ✓ (තැන → වේලාව)\n'I went yesterday to the market.' ✗\n\nවේලාව වාක්‍යය මුලටත් දාන්න පුළුවන් — 'Yesterday I went to the market.' ඒක අවධාරණයක් දෙනවා.",
+      "explain": "Manner adverbs after the verb or its object — never between them. Frequency adverbs before the main verb but after be. Place before time.",
+      "formula": "verb + object + how  ·  always + verb  ·  place + time",
+      "table": {
+        "headers": [
+          "හරි",
+          "වැරදි"
+        ],
+        "rows": [
+          [
+            "He drives the bus carefully.",
+            "He drives carefully the bus."
+          ],
+          [
+            "I always walk to work.",
+            "I walk always to work."
+          ],
+          [
+            "He is always late.",
+            "He always is late."
+          ],
+          [
+            "I went to the market yesterday.",
+            "I went yesterday to the market."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "We usually go abroad in summer.",
+          "si": "සාමාන්‍යයෙන් අපි නිවාඩුවට පිටරට යනවා."
+        },
+        {
+          "en": "I have never been abroad.",
+          "si": "මම කවදාවත් පිටරට ගිහින් නෑ."
+        },
+        {
+          "en": "They often play upstairs in the evening.",
+          "si": "ඒගොල්ලෝ නිතරම හවසට උඩ තට්ටුවේ සෙල්ලම් කරනවා."
+        }
+      ],
+      "watchOutSi": "ක්‍රියාවයි object එකයි අතරට කිසිම ක්‍රියා විශේෂණයක් යන්නේ නෑ. 'I like very much this song' ✗ — 'I like this song very much' ✓."
+    },
+    {
+      "type": "grammar",
+      "title": "Degree and probability",
+      "titleSi": "තරමයි ඉඩයි",
+      "explainSi": "තව ක්‍රියා විශේෂණ දෙවර්ගයක් B1 මට්ටමට අවශ්‍යයි.\n\nතරම කියන ඒවා — ක්‍රියාව හෝ විශේෂණය කොච්චරද කියනවා:\n\n'The water was extremely cold.'\n'He speaks very quickly.'\n'He speaks too quickly.' (ඕනවට වඩා — ප්‍රශ්නයක්)\n'This cheese is a bit hard.'\n\n'very' සහ 'too' අතර වෙනස වැදගත්: very = ගොඩක් (කමක් නෑ). too = ඕනවට වඩා (ප්‍රශ්නයක්).\n\n'The tea is very hot.' — ගොඩක් උණුයි. (හොඳයි)\n'The tea is too hot.' — බොන්න බෑ. (ප්‍රශ්නයක්)\n\nඉඩ කියන ඒවා — වෙන්න තියෙන ඉඩ කොච්චරද (b1-15 මතක් කරගන්න):\n\n'There will probably be some speeches.'\n'He'll definitely win.'\n'She has certainly seen it.'\n\nමේවා තියෙන්නේ සහායක ක්‍රියාවට පස්සේ, ප්‍රධාන ක්‍රියාවට කලින් — නිතරකම වචන වගේම:\n\n'He will definitely come.' ✓\n'He definitely won't come.' ✓ (නැහැ එකට කලින්)",
+      "explain": "Degree adverbs say how much; probability adverbs say how likely. Very is fine; too is a problem.",
+      "formula": "very = ගොඩක්  ·  too = ඕනවට වඩා",
+      "table": {
+        "headers": [
+          "Adverb",
+          "අර්ථය",
+          "උදාහරණය"
+        ],
+        "rows": [
+          [
+            "very",
+            "ගොඩක් (කමක් නෑ)",
+            "very hot"
+          ],
+          [
+            "too",
+            "ඕනවට වඩා (ප්‍රශ්නයක්)",
+            "too hot to drink"
+          ],
+          [
+            "extremely",
+            "අතිශයින්",
+            "extremely cold"
+          ],
+          [
+            "a bit",
+            "ටිකක්",
+            "a bit hard"
+          ],
+          [
+            "probably",
+            "බොහෝවිට",
+            "will probably rain"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "The water was extremely cold, but we swam anyway.",
+          "si": "වතුර අතිශයින් සීතලයි, ඒත් අපි පීනුවා."
+        },
+        {
+          "en": "He speaks too quickly for me to follow.",
+          "si": "එයා මට තේරෙන්නේ නැති තරම් ඉක්මනට කථා කරනවා."
+        },
+        {
+          "en": "There will probably be a queue at the counter.",
+          "si": "කවුන්ටරයේ පෝලිමක් ඇති."
+        }
+      ],
+      "watchOutSi": "'too' කියන එකේ තේරුම 'ගොඩක්' නෙවෙයි. 'The film was too good' කියන එකේ තේරුම 'ඒක එච්චර හොඳ නිසා ප්‍රශ්නයක්' කියන එකයි — ඒක බොහෝවිට ඔයාට කියන්න ඕන දේ නෙවෙයි. 'very good' කියන්න."
+    },
+    {
+      "type": "vocab",
+      "title": "How, how often, how much",
+      "titleSi": "කොහොමද, කොච්චර නිතරද, කොච්චරද",
+      "introSi": "ක්‍රියා විශේෂණ තුන් වර්ගයම මෙතන.",
+      "items": [
+        {
+          "en": "quickly",
+          "si": "ඉක්මනට",
+          "say": "ක්විකලි",
+          "exampleEn": "She got ready quickly.",
+          "exampleSi": "ඇය ඉක්මනට සූදානම් වුණා."
+        },
+        {
+          "en": "slowly",
+          "si": "හෙමින්",
+          "say": "ස්ලෝලි",
+          "exampleEn": "Please drive more slowly.",
+          "exampleSi": "කරුණාකර හෙමින් එළවන්න."
+        },
+        {
+          "en": "carefully",
+          "si": "පරෙස්සමින්",
+          "say": "කෙයාෆුලි",
+          "exampleEn": "He drives carefully.",
+          "exampleSi": "එයා පරෙස්සමින් එළවනවා."
+        },
+        {
+          "en": "well",
+          "si": "හොඳට",
+          "say": "වෙල්",
+          "exampleEn": "She sings well.",
+          "exampleSi": "ඇය හොඳට සිංදු කියනවා."
+        },
+        {
+          "en": "better",
+          "si": "වඩා හොඳට",
+          "say": "බෙටර්",
+          "exampleEn": "He plays better than me.",
+          "exampleSi": "එයා මට වඩා හොඳට සෙල්ලම් කරනවා."
+        },
+        {
+          "en": "the best",
+          "si": "හොඳටම",
+          "say": "ද බෙස්ට්",
+          "exampleEn": "She explained it the best.",
+          "exampleSi": "ඇය ඒක හොඳටම පැහැදිලි කළා."
+        },
+        {
+          "en": "worse",
+          "si": "වඩා නරකට",
+          "say": "වර්ස්",
+          "exampleEn": "He's getting worse.",
+          "exampleSi": "එයා වඩාත් නරක වෙනවා."
+        },
+        {
+          "en": "hard",
+          "si": "වෙහෙසෙන්",
+          "say": "හාඩ්",
+          "exampleEn": "Stig worked the hardest.",
+          "exampleSi": "වැඩිපුරම වැඩ කළේ ස්ටිග්."
+        },
+        {
+          "en": "always",
+          "si": "හැමවිටම",
+          "say": "ඕල්වේස්",
+          "exampleEn": "I always walk.",
+          "exampleSi": "මම හැමවිටම ඇවිදිනවා."
+        },
+        {
+          "en": "never",
+          "si": "කවදාවත් නෑ",
+          "say": "නෙවර්",
+          "exampleEn": "I have never been abroad.",
+          "exampleSi": "මම කවදාවත් පිටරට ගිහින් නෑ."
+        },
+        {
+          "en": "usually",
+          "si": "සාමාන්‍යයෙන්",
+          "say": "යූෂුඅලි",
+          "exampleEn": "We usually go in summer.",
+          "exampleSi": "සාමාන්‍යයෙන් අපි නිවාඩුවට යනවා."
+        },
+        {
+          "en": "often",
+          "si": "නිතරම",
+          "say": "ඔෆන්",
+          "exampleEn": "They often play upstairs.",
+          "exampleSi": "ඒගොල්ලෝ නිතරම උඩ තට්ටුවේ සෙල්ලම් කරනවා."
+        },
+        {
+          "en": "extremely",
+          "si": "අතිශයින්",
+          "say": "එක්ස්ට්‍රීම්ලි",
+          "exampleEn": "It was extremely cold.",
+          "exampleSi": "ඒක අතිශයින් සීතලයි."
+        },
+        {
+          "en": "too",
+          "si": "ඕනවට වඩා",
+          "say": "ටූ",
+          "exampleEn": "It's too hot to drink.",
+          "exampleSi": "ඒක බොන්න බැරි තරම් උණුයි."
+        },
+        {
+          "en": "a bit",
+          "si": "ටිකක්",
+          "say": "අ බිට්",
+          "exampleEn": "This cheese is a bit hard.",
+          "exampleSi": "මේ චීස් ටිකක් තදයි."
+        },
+        {
+          "en": "upstairs",
+          "si": "උඩ තට්ටුවේ",
+          "say": "අප්ස්ටෙයාස්",
+          "exampleEn": "They play upstairs.",
+          "exampleSi": "ඒගොල්ලෝ උඩ තට්ටුවේ සෙල්ලම් කරනවා."
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "Drive a bit more slowly",
+      "titleSi": "ටිකක් හෙමින් එළවන්න",
+      "settingSi": "වැස්සේ කාරයක. ක්‍රියා විශේෂණ තියෙන තැන් බලන්න.",
+      "lines": [
+        {
+          "speaker": "Nadeesha",
+          "en": "Could you drive a bit more slowly? The road is extremely wet.",
+          "si": "ටිකක් හෙමින් එළවන්න පුළුවන්ද? පාර හරිම තෙතයි."
+        },
+        {
+          "speaker": "Ruwan",
+          "en": "I'm going quite slowly already.",
+          "si": "මම දැනටමත් හෙමින් යනවා."
+        },
+        {
+          "speaker": "Nadeesha",
+          "en": "You always say that. You drove past that bus far too fast.",
+          "si": "ඔයා හැමදාම එහෙම කියනවා. අර බස් එක පැත්තෙන් ඔයා ගොඩක් වේගෙන් ගියා."
+        },
+        {
+          "speaker": "Ruwan",
+          "en": "Fair enough. I usually drive more carefully than this.",
+          "si": "හරි. සාමාන්‍යයෙන් මම මීට වඩා පරෙස්සමින් එළවනවා."
+        },
+        {
+          "speaker": "Nadeesha",
+          "en": "You do, normally. It's the rain — I've never liked driving in it.",
+          "si": "ඔව්, සාමාන්‍යයෙන්. ඒක වැස්ස — වැස්සේ එළවන එකට මම කවදාවත් කැමති නෑ."
+        },
+        {
+          "speaker": "Ruwan",
+          "en": "We'll be there by six. Probably.",
+          "si": "අපි හයට එහෙ ඉන්නවා. බොහෝවිට."
+        },
+        {
+          "speaker": "Nadeesha",
+          "en": "Get there later and safely, please.",
+          "si": "පරක්කු වුණත් ආරක්ෂිතව යමු."
+        }
+      ]
+    },
+    {
+      "type": "story",
+      "title": "The slowest runner",
+      "titleSi": "හෙමිම දුවන්නා",
+      "introSi": "සැසඳීම් ගැන කෙටි කතාවක්.",
+      "paragraphs": [
+        {
+          "en": "In our class Nuwan ran the slowest of anyone. He knew it, and he still turned up to every practice, always first and always last home.",
+          "si": "අපේ පන්තියේ හැමෝටම වඩා හෙමින් දිව්වේ නුවන්. ඒක එයා දැනගෙන හිටියා, ඒත් එයා හැම පුහුණුවකටම ආවා — හැමවිටම මුලින්ම ඇවිත්, හැමවිටම අන්තිමට ගෙදර ගිහින්."
+        },
+        {
+          "en": "In the last term he still ran more slowly than the rest. But he had improved more than anybody, and the coach put that on the noticeboard instead of the times.",
+          "si": "අන්තිම වාරයේත් එයා අනිත් අයට වඩා හෙමින් දිව්වා. ඒත් හැමෝටම වඩා එයා දියුණු වෙලා තිබුණා, පුහුණුකරු වෙලාවන් වෙනුවට ඒක දැන්වීම් පුවරුවේ දැම්මා."
+        },
+        {
+          "en": "Somebody asked him why he bothered. He said he was not trying to run faster than us. He was trying to run faster than himself.",
+          "si": "කවුරු හරි එයාගෙන් ඇහුවා ඇයි කරදර වෙන්නේ කියලා. එයා කිව්වා අපිට වඩා වේගෙන් දුවන්න නෙවෙයි උත්සාහ කරන්නේ කියලා. තමන්ට වඩා වේගෙන් දුවන්නයි."
+        },
+        {
+          "en": "He is a doctor in Kegalle now. He still runs, badly, every morning.",
+          "si": "එයා දැන් කෑගල්ලේ දොස්තර කෙනෙක්. හැම උදෙම එයා තාමත් දුවනවා — දුර්වලව, ඒත් නොවරදවා."
+        }
+      ],
+      "glossary": [
+        {
+          "en": "practice",
+          "si": "පුහුණුව"
+        },
+        {
+          "en": "improve",
+          "si": "දියුණු වෙනවා"
+        },
+        {
+          "en": "coach",
+          "si": "පුහුණුකරු"
+        },
+        {
+          "en": "noticeboard",
+          "si": "දැන්වීම් පුවරුව"
+        }
+      ],
+      "questionsSi": [
+        "නුවන් දිව්වේ කොහොමද?",
+        "පුහුණුකරු දැන්වීම් පුවරුවේ දැම්මේ මොකක්ද? ඇයි?",
+        "'faster than himself' කියන එකේ තේරුම මොකක්ද?"
+      ]
+    },
+    {
+      "type": "tip",
+      "title": "Never between the verb and its object",
+      "titleSi": "ක්‍රියාවයි object එකයි අතරට කවදාවත් නෑ",
+      "bodySi": "මේක ලංකාවේ ඉගෙන ගන්න අය නිතරම කරන වැරැද්ද:\n\n✗ 'I like very much this song.'\n✓ 'I like this song very much.'\n\n✗ 'He drives carefully the bus.'\n✓ 'He drives the bus carefully.'\n\n✗ 'She speaks well English.'\n✓ 'She speaks English well.'\n\nක්‍රියාවයි object එකයි එකට තියෙන්න ඕන. ක්‍රියා විශේෂණය අගට.\n\nඑකම ව්‍යතිරේකය නිතරකම කියන වචන — ඒවා ප්‍රධාන ක්‍රියාවට කලින්: 'I always read the paper.'",
+      "body": "Keep the verb and its object together. The adverb goes after the object — except frequency adverbs, which go before the verb."
+    },
+    {
+      "type": "practice",
+      "title": "Put the adverb in",
+      "titleSi": "ක්‍රියා විශේෂණය දාන්න",
+      "instructionSi": "වරහන් තුළ ඇති වචනය හරි තැනට දාලා වාක්‍යය ආපහු ලියන්න.",
+      "items": [
+        {
+          "prompt": "She speaks English. (well)",
+          "answer": "She speaks English well.",
+          "hintSi": "object එකට පස්සේ.",
+          "full": "She speaks English well."
+        },
+        {
+          "prompt": "I walk to work. (always)",
+          "answer": "I always walk to work.",
+          "hintSi": "නිතරකම වචනයක් — ප්‍රධාන ක්‍රියාවට කලින්.",
+          "full": "I always walk to work."
+        },
+        {
+          "prompt": "He is late. (always)",
+          "answer": "He is always late.",
+          "hintSi": "'be' එකට පස්සේ.",
+          "full": "He is always late."
+        },
+        {
+          "prompt": "I have been abroad. (never)",
+          "answer": "I have never been abroad.",
+          "hintSi": "සහායක ක්‍රියාවට පස්සේ.",
+          "full": "I have never been abroad."
+        },
+        {
+          "prompt": "Please drive. (more slowly)",
+          "answer": "Please drive more slowly.",
+          "hintSi": "ක්‍රියාවට පස්සේ.",
+          "full": "Please drive more slowly."
+        },
+        {
+          "prompt": "I went to the market. (yesterday)",
+          "answer": "I went to the market yesterday.",
+          "hintSi": "තැන, ඊට පස්සේ වේලාව.",
+          "full": "I went to the market yesterday."
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "b1-28-q1",
+      "q": "'quickly' සසඳන්නේ කොහොමද?",
+      "options": [
+        "quicklier",
+        "more quickly",
+        "quickly-er",
+        "most quickly than"
+      ],
+      "answer": 1,
+      "explainSi": "-ly ඇති ඒවාට more."
+    },
+    {
+      "id": "b1-28-q2",
+      "q": "'hard' සසඳන්නේ?",
+      "options": [
+        "more hard",
+        "harder",
+        "hardly",
+        "more hardly"
+      ],
+      "answer": 1,
+      "explainSi": "කෙටි ඒවාට -er."
+    },
+    {
+      "id": "b1-28-q3",
+      "q": "'well' එකේ සැසඳීම?",
+      "options": [
+        "weller",
+        "more well",
+        "better",
+        "goodder"
+      ],
+      "answer": 2,
+      "explainSi": "well → better → the best."
+    },
+    {
+      "id": "b1-28-q4",
+      "q": "කුමන එක හරිද?",
+      "options": [
+        "She sings good.",
+        "She sings well.",
+        "She sings goodly.",
+        "She sings the good."
+      ],
+      "answer": 1,
+      "explainSi": "'good' විශේෂණයක්; ක්‍රියාවකට 'well'."
+    },
+    {
+      "id": "b1-28-q5",
+      "q": "කුමන එක වැරදිද?",
+      "options": [
+        "He drives the bus carefully.",
+        "He drives carefully the bus.",
+        "He drives carefully.",
+        "He always drives carefully."
+      ],
+      "answer": 1,
+      "explainSi": "ක්‍රියාවයි object එකයි අතරට යන්නේ නෑ."
+    },
+    {
+      "id": "b1-28-q6",
+      "q": "'always' යන්නේ කොහෙද?",
+      "options": [
+        "වාක්‍යය අගට",
+        "ප්‍රධාන ක්‍රියාවට කලින්",
+        "වාක්‍යය මුලට විතරයි",
+        "object එකට පස්සේ"
+      ],
+      "answer": 1,
+      "explainSi": "'I always walk to work.'"
+    },
+    {
+      "id": "b1-28-q7",
+      "q": "'be' එකත් එක්ක 'always' යන්නේ?",
+      "options": [
+        "කලින්",
+        "පස්සේ — 'He is always late'",
+        "අගට",
+        "මුලට"
+      ],
+      "answer": 1,
+      "explainSi": "'be' එකට පස්සේ; අනිත් ක්‍රියාවලට කලින්."
+    },
+    {
+      "id": "b1-28-q8",
+      "q": "තැනයි වේලාවයි දෙකම තියෙනකොට පිළිවෙළ?",
+      "options": [
+        "වේලාව, ඊට පස්සේ තැන",
+        "තැන, ඊට පස්සේ වේලාව",
+        "පිළිවෙළක් නෑ",
+        "දෙකම මුලට"
+      ],
+      "answer": 1,
+      "explainSi": "'I went to the market yesterday.'"
+    },
+    {
+      "id": "b1-28-q9",
+      "q": "'very' සහ 'too' අතර වෙනස?",
+      "options": [
+        "වෙනසක් නෑ",
+        "very = ගොඩක් (කමක් නෑ); too = ඕනවට වඩා (ප්‍රශ්නයක්)",
+        "too වඩා ආචාරශීලීයි",
+        "very අතීතයට"
+      ],
+      "answer": 1,
+      "explainSi": "'too hot to drink' — බොන්න බෑ."
+    },
+    {
+      "id": "b1-28-q10",
+      "q": "'The film was too good' කියන එකේ ප්‍රශ්නය?",
+      "options": [
+        "ව්‍යාකරණ වැරදියි",
+        "'too' කියන්නේ 'ප්‍රශ්නයක්' — ඒක ඔයාට කියන්න ඕන දේ නෙවෙයි",
+        "'good' වැරදියි",
+        "ප්‍රශ්නයක් නෑ"
+      ],
+      "answer": 1,
+      "explainSi": "'very good' කියන්න."
+    },
+    {
+      "id": "b1-28-q11",
+      "q": "'badly' එකේ සැසඳීම?",
+      "options": [
+        "more badly",
+        "worse",
+        "badlier",
+        "worser"
+      ],
+      "answer": 1,
+      "explainSi": "badly → worse → the worst."
+    },
+    {
+      "id": "b1-28-q12",
+      "q": "හිස් තැනට: 'I have ___ been abroad.'",
+      "options": [
+        "never",
+        "always never",
+        "not never",
+        "ever not"
+      ],
+      "answer": 0,
+      "explainSi": "සහායක ක්‍රියාවට පස්සේ, participle එකට කලින්."
+    },
+    {
+      "id": "b1-28-q13",
+      "q": "'I like very much this song' — වැරැද්ද?",
+      "options": [
+        "'very much' වැරදියි",
+        "ක්‍රියාවයි object එකයි අතරට යන්නේ නෑ",
+        "'like' වැරදියි",
+        "වැරැද්දක් නෑ"
+      ],
+      "answer": 1,
+      "explainSi": "'I like this song very much.'"
+    },
+    {
+      "id": "b1-28-q14",
+      "q": "'She is a good singer' සහ 'She sings well' —",
+      "options": [
+        "දෙකම වැරදියි",
+        "දෙකම හරි — එකක් විශේෂණය, අනිත් එක ක්‍රියා විශේෂණය",
+        "පළවෙනි එක වැරදියි",
+        "දෙවෙනි එක වැරදියි"
+      ],
+      "answer": 1,
+      "explainSi": "good නාම පදයට; well ක්‍රියාවට."
+    },
+    {
+      "id": "b1-28-q15",
+      "q": "'far' එකේ උපරිමය?",
+      "options": [
+        "the farrest",
+        "the furthest",
+        "the more far",
+        "the farly"
+      ],
+      "answer": 1,
+      "explainSi": "far → further/farther → the furthest."
+    },
+    {
+      "id": "b1-28-q16",
+      "q": "හිස් තැනට: 'Of the three, she explained it ___.'",
+      "options": [
+        "the best",
+        "the goodest",
+        "more good",
+        "the well"
+      ],
+      "answer": 0,
+      "explainSi": "well එකේ උපරිමය the best."
+    },
+    {
+      "id": "b1-28-q17",
+      "q": "'He speaks too quickly for me to follow' — 'too' කරන්නේ?",
+      "options": [
+        "ප්‍රශංසාවක්",
+        "ප්‍රශ්නයක් කියනවා — මට තේරෙන්නේ නෑ",
+        "වේගය හොඳයි කියනවා",
+        "කාලය කියනවා"
+      ],
+      "answer": 1,
+      "explainSi": "'too' කියන එකේ හැමවිටම අවහිරයක් තියෙනවා."
+    },
+    {
+      "id": "b1-28-q18",
+      "q": "'earlier' කියන්නේ?",
+      "options": [
+        "more early",
+        "early එකේ සැසඳීම",
+        "වැරදි වචනයක්",
+        "විශේෂණයක් විතරයි"
+      ],
+      "answer": 1,
+      "explainSi": "'early' -ly තිබුණත් කෙටියි, ඒ නිසා -er."
+    }
+  ],
+  "vocab": [
+    {
+      "en": "quickly",
+      "si": "ඉක්මනට",
+      "say": "ක්විකලි",
+      "exampleEn": "She got ready quickly.",
+      "exampleSi": "ඇය ඉක්මනට සූදානම් වුණා."
+    },
+    {
+      "en": "slowly",
+      "si": "හෙමින්",
+      "say": "ස්ලෝලි",
+      "exampleEn": "Please drive more slowly.",
+      "exampleSi": "කරුණාකර හෙමින් එළවන්න."
+    },
+    {
+      "en": "carefully",
+      "si": "පරෙස්සමින්",
+      "say": "කෙයාෆුලි",
+      "exampleEn": "He drives carefully.",
+      "exampleSi": "එයා පරෙස්සමින් එළවනවා."
+    },
+    {
+      "en": "well",
+      "si": "හොඳට",
+      "say": "වෙල්",
+      "exampleEn": "She sings well.",
+      "exampleSi": "ඇය හොඳට සිංදු කියනවා."
+    },
+    {
+      "en": "better",
+      "si": "වඩා හොඳට",
+      "say": "බෙටර්",
+      "exampleEn": "He plays better than me.",
+      "exampleSi": "එයා මට වඩා හොඳට සෙල්ලම් කරනවා."
+    },
+    {
+      "en": "the best",
+      "si": "හොඳටම",
+      "say": "ද බෙස්ට්",
+      "exampleEn": "She explained it the best.",
+      "exampleSi": "ඇය ඒක හොඳටම පැහැදිලි කළා."
+    },
+    {
+      "en": "worse",
+      "si": "වඩා නරකට",
+      "say": "වර්ස්",
+      "exampleEn": "He's getting worse.",
+      "exampleSi": "එයා වඩාත් නරක වෙනවා."
+    },
+    {
+      "en": "hard",
+      "si": "වෙහෙසෙන්",
+      "say": "හාඩ්",
+      "exampleEn": "Stig worked the hardest.",
+      "exampleSi": "වැඩිපුරම වැඩ කළේ ස්ටිග්."
+    },
+    {
+      "en": "always",
+      "si": "හැමවිටම",
+      "say": "ඕල්වේස්",
+      "exampleEn": "I always walk.",
+      "exampleSi": "මම හැමවිටම ඇවිදිනවා."
+    },
+    {
+      "en": "never",
+      "si": "කවදාවත් නෑ",
+      "say": "නෙවර්",
+      "exampleEn": "I have never been abroad.",
+      "exampleSi": "මම කවදාවත් පිටරට ගිහින් නෑ."
+    },
+    {
+      "en": "usually",
+      "si": "සාමාන්‍යයෙන්",
+      "say": "යූෂුඅලි",
+      "exampleEn": "We usually go in summer.",
+      "exampleSi": "සාමාන්‍යයෙන් අපි නිවාඩුවට යනවා."
+    },
+    {
+      "en": "often",
+      "si": "නිතරම",
+      "say": "ඔෆන්",
+      "exampleEn": "They often play upstairs.",
+      "exampleSi": "ඒගොල්ලෝ නිතරම උඩ තට්ටුවේ සෙල්ලම් කරනවා."
+    },
+    {
+      "en": "extremely",
+      "si": "අතිශයින්",
+      "say": "එක්ස්ට්‍රීම්ලි",
+      "exampleEn": "It was extremely cold.",
+      "exampleSi": "ඒක අතිශයින් සීතලයි."
+    },
+    {
+      "en": "too",
+      "si": "ඕනවට වඩා",
+      "say": "ටූ",
+      "exampleEn": "It's too hot to drink.",
+      "exampleSi": "ඒක බොන්න බැරි තරම් උණුයි."
+    },
+    {
+      "en": "a bit",
+      "si": "ටිකක්",
+      "say": "අ බිට්",
+      "exampleEn": "This cheese is a bit hard.",
+      "exampleSi": "මේ චීස් ටිකක් තදයි."
+    },
+    {
+      "en": "upstairs",
+      "si": "උඩ තට්ටුවේ",
+      "say": "අප්ස්ටෙයාස්",
+      "exampleEn": "They play upstairs.",
+      "exampleSi": "ඒගොල්ලෝ උඩ තට්ටුවේ සෙල්ලම් කරනවා."
+    }
+  ]
+}

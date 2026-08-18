@@ -1,0 +1,115 @@
+{
+  "quiz": [
+    {
+      "id": "u6-cp-q1",
+      "q": "'Turn it off' සහ 'Turn off it' — කුමන එක වැරදිද?",
+      "options": ["'Turn it off' වැරදියි", "'Turn off it' වැරදියි", "දෙකම නිවැරදියි", "දෙකම වැරදියි"],
+      "answer": 1,
+      "explainSi": "කර්ම පදය සර්වනාමයක් නම් (it), වෙන් කළ හැකි phrasal verb එක අනිවාර්යයෙන් වෙන් කළ යුතුයි — 'turn it off', 'turn off it' නෙවෙයි."
+    },
+    {
+      "id": "u6-cp-q2",
+      "q": "'She looks after her mother.' — 'look after' යන්නෙහි අර්ථය?",
+      "options": ["ඇය අම්මාව හොයනවා", "ඇය අම්මාව බලාගන්නවා", "ඇය අම්මාට සමානයි", "ඇය ශබ්දකෝෂයක් බලනවා"],
+      "answer": 1,
+      "explainSi": "look after = බලාගන්නවා (take care of). look for = හොයනවා. look up = ශබ්දකෝෂයෙන් බලනවා."
+    },
+    {
+      "id": "u6-cp-q3",
+      "q": "විධිමත් විද්‍යුත් තැපෑලක් (formal email) ආරම්භ කිරීමට වඩාත් සුදුසු ආකාරය කුමක්ද?",
+      "options": ["Hey! What's up?", "Dear Mr. Silva,", "Hiya,", "Yo, quick question:"],
+      "answer": 1,
+      "explainSi": "'Dear Mr./Ms. [Surname],' — විධිමත් විද්‍යුත් තැපෑලක සම්මත ආරම්භය."
+    },
+    {
+      "id": "u6-cp-q4",
+      "q": "'I need to talk to you.' (අවිධිමත්) — වඩාත් විධිමත් ලෙස ලියන ආකාරය?",
+      "options": ["I need to talk to you.", "I would like to discuss a matter with you.", "Gotta talk to you.", "We need to chat."],
+      "answer": 1,
+      "explainSi": "'I would like to discuss...' — විධිමත් ලේඛන විලාසය, තෝරාගත් වචන සහ වාක්‍ය ව්‍යුහය."
+    },
+    {
+      "id": "u6-cp-q5",
+      "q": "'Her smile was as bright as the sun.' — මෙය simile ද metaphor ද?",
+      "options": ["Simile — 'as' භාවිතා කර සැසඳීම", "Metaphor — කෙලින්ම එකක් අනෙක් එක ලෙස කීම", "Personification", "Hyperbole"],
+      "answer": 0,
+      "explainSi": "'as...as' භාවිතා කර දේවල් දෙකක් සසඳන විට එය simile."
+    },
+    {
+      "id": "u6-cp-q6",
+      "q": "'Time is a thief.' — මෙය simile ද metaphor ද?",
+      "options": ["Simile", "Metaphor — කෙලින්ම කාලය හොරෙක් ලෙස කියනවා", "Personification විතරයි", "Alliteration"],
+      "answer": 1,
+      "explainSi": "'as/like' නැතිව කෙලින්ම එකක් අනෙක් එක ලෙස කියන විට එය metaphor."
+    },
+    {
+      "id": "u6-cp-q7",
+      "q": "'The wind whispered through the trees.' — මෙය කුමන ආකාරයේ රූපකයක්ද?",
+      "options": ["Simile", "Metaphor", "Personification — මිනිස් ගුණයක් (whisper) වස්තුවකට ('the wind') දීම", "Hyperbole"],
+      "answer": 2,
+      "explainSi": "Personification — මිනිස් නොවන දෙයකට (wind) මිනිස් ක්‍රියාවක් (whisper) ආරෝපණය කිරීම."
+    },
+    {
+      "id": "u6-cp-q8",
+      "q": "'The results might suggest a possible correlation.' — මෙය hedging ද definite claim ද?",
+      "options": [
+        "Definite claim — නිශ්චිත ප්‍රකාශයක්",
+        "Hedging — නිශ්චිත නොවන, ප්‍රවේශම් සහගත ශාස්ත්‍රීය ප්‍රකාශයක්",
+        "අදහසක් නෙවෙයි",
+        "Personification"
+      ],
+      "answer": 1,
+      "explainSi": "'might', 'suggest', 'possible' — hedging භාෂාව, ශාස්ත්‍රීය ලේඛනවල අධික විශ්වාසයක් නොපෙන්වන ප්‍රවේශම් සහගත ප්‍රකාශ."
+    },
+    {
+      "id": "u6-cp-q9",
+      "q": "'Never had I seen such a beautiful sunset.' — මෙය inversion ද normal word order ද?",
+      "options": [
+        "Normal word order",
+        "Inversion — negative adverbial ('Never') ඉදිරියට ගෙන subject-verb අනුපිළිවෙල මාරු කර ඇත",
+        "Cleft sentence",
+        "Passive voice"
+      ],
+      "answer": 1,
+      "explainSi": "'Never' වගේ negative adverbial එකක් වාක්‍යයේ මුලට ගෙනාවම, subject සහ auxiliary verb එකේ අනුපිළිවෙල මාරු වෙනවා (inversion) — අවධාරණය සඳහා."
+    },
+    {
+      "id": "u6-cp-q10",
+      "q": "'It was the manager who approved the budget.' — මෙය cleft sentence ද?",
+      "options": [
+        "ඔව් — 'It was...who' රටාවෙන් 'the manager' කියන කොටසට අවධාරණය දෙනවා",
+        "නෑ, මෙය passive voice",
+        "නෑ, මෙය relative clause විතරයි",
+        "නෑ, මෙය hedging"
+      ],
+      "answer": 0,
+      "explainSi": "'It was [X] who/that...' — cleft sentence, වාක්‍යයේ එක් කොටසකට විශේෂ අවධාරණයක් දීම සඳහා."
+    },
+    {
+      "id": "u6-cp-q11",
+      "context": "Never had the committee faced such a difficult decision. It was the chairperson who suggested a compromise, though the data might only weakly support it.",
+      "contextSi": "කමිටුව මෙතරම් අසීරු තීරණයකට කිසිදාක මුහුණ දී තිබුනේ නෑ. සම්මුතියක් යෝජනා කළේ සභාපතිවරයායි, එහෙත් දත්ත ඒවාට දුර්වල ලෙස පමණක් සහාය විය හැක.",
+      "q": "මේ වාක්‍යවල 'Never had...faced' (inversion), 'It was the chairperson who' (cleft sentence), 'might only weakly support' (hedging) — තුනම එකට එකතු වෙලා තියෙනවද?",
+      "options": [
+        "ඔව් — c1-04 හි රටා තුනම (inversion, cleft, hedging) එකම ඡේදයේ එකතු වෙලා තියෙනවා",
+        "නෑ, 'Never had...faced' වෙනුවට 'The committee never faced' විය යුතුයි",
+        "නෑ, 'It was the chairperson who' වැරදියි",
+        "නෑ, 'might' වෙනුවට 'will' විය යුතුයි"
+      ],
+      "answer": 0,
+      "explainSi": "'Never had the committee faced' (inversion, අවධාරණය), 'It was the chairperson who suggested' (cleft sentence), 'might only weakly support' (hedging) — c1-04 හි ඉගෙන ගත් උසස් රටා තුනම එකට එකතු වී තියෙනවා."
+    },
+    {
+      "id": "u6-cp-q12",
+      "q": "'I regret to inform you that, having looked into the matter, we cannot offer a refund — the request fell through the cracks of our review process, like a stone sinking through still water.' — විධිමත් register, phrasal verb ('fell through'), simile ('like a stone') — තුනම නිවැරදිද?",
+      "options": [
+        "ඔව් — 'I regret to inform you' (විධිමත් register), 'fell through the cracks' (idiom/phrasal), 'like a stone sinking' (simile) — තුනම u6 හි රටා",
+        "නෑ, 'I regret to inform you' අවිධිමත්",
+        "නෑ, 'fell through the cracks' idiom එකක් නෙවෙයි",
+        "නෑ, 'like a stone sinking' metaphor එකක්, simile නෙවෙයි"
+      ],
+      "answer": 0,
+      "explainSi": "'I regret to inform you' (c1-02, විධිමත් register), 'fell through the cracks' (c1-01, idiom — නොසලකා හරින ලද), 'like a stone sinking through still water' (c1-03, 'like' භාවිතා කළ simile) — තුනම u6 හි නිවැරදි රටා."
+    }
+  ]
+}

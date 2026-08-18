@@ -1,0 +1,829 @@
+{
+  "hero": {
+    "src": "images/a2-17-hero.webp",
+    "alt": "Ruwan at a hotel front desk with a suitcase beside him, taking a key card, a bell and a potted palm on the polished counter."
+  },
+  "goalsSi": [
+    "Check in කිරීම — I have a reservation under...",
+    "කාමරය ගැන අහන එක — Does the room have...? / Is there...?",
+    "කාමරයේ ප්‍රශ්නයක් වාර්තා කිරීම — a2-16 හි 'isn't working' නැවත භාවිතය",
+    "Check out කිරීම — I'd like to check out, please."
+  ],
+  "goals": [
+    "Check in with I have a reservation under…",
+    "Ask about the room with Does the room have…? / Is there…?",
+    "Report a problem in the room",
+    "Check out and ask for the bill"
+  ],
+  "sections": [
+    {
+      "type": "note",
+      "title": "Four stages, four sets of phrases",
+      "titleSi": "අවස්ථා හතරක්, වාක්‍ය කට්ටල හතරක්",
+      "bodySi": "හෝටලයක රැඳී සිටින්නෙක් සාමාන්‍යයෙන් අවස්ථා හතරකට මුහුණ දෙනවා — check in වීම, කාමරය ගැන දැනගැනීම, කාමරයේ ප්‍රශ්නයක් තියෙනවා නම් වාර්තා කිරීම, check out වීම. එක් එක් අවස්ථාවට ම සම්මත, පුරුදු වචන කට්ටලයක් තියෙනවා.\n\nකලින් පාඩමේදී (a2-16) ඉගෙන ගත්ත 'isn't working properly' කියන වාක්‍යාංශයම මෙතනත් එනවා — හෝටල් කාමරයේ AC එක වැඩ නොකළොත්, සාප්පුවක භාණ්ඩයක් වගේම, 'isn't working' කියන්නේ.",
+      "body": "Checking in, asking about the room, reporting a problem, checking out — each stage has its own set phrases."
+    },
+    {
+      "type": "grammar",
+      "title": "Checking in",
+      "titleSi": "Check in වීම",
+      "explainSi": "Check in වෙද්දී මුලින්ම වෙන්කරගැනීම (reservation) කරගත් නමින් හඳුන්වා දෙනවා. ID/passport එකක් අහනවා, පසුව key card එකක් ලබා දෙනවා, කාමර අංකයත් කියනවා.",
+      "formula": "I have a reservation under + name.",
+      "table": {
+        "headers": [
+          "වාක්‍යය",
+          "සිංහල"
+        ],
+        "rows": [
+          [
+            "I have a reservation under Weerasinghe.",
+            "වීරසිංහ නමින් වෙන්කරගැනීමක් තියෙනවා."
+          ],
+          [
+            "Could I see your ID, please?",
+            "ඔබේ හැඳුනුම්පත බලන්න පුළුවන්ද?"
+          ],
+          [
+            "Here's your key card. You're in room 304.",
+            "මෙන්න ඔබේ key card එක. ඔබ 304 කාමරයේ."
+          ],
+          [
+            "Breakfast is from seven to ten.",
+            "උදෑසන ආහාරය හතේ සිට දහය දක්වා."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "Hello, I have a reservation under the name Fernando.",
+          "si": "හලෝ, ෆර්නාන්දු නමින් වෙන්කරගැනීමක් තියෙනවා."
+        },
+        {
+          "en": "Could I see your ID? — Yes, here you go.",
+          "si": "ඔබේ හැඳුනුම්පත බලන්න පුළුවන්ද? — ඔව්, මෙන්න."
+        }
+      ],
+      "watchOutSi": "'under' යනු මෙතන 'නමින්' කියන අර්ථයෙන් — 'I have a reservation under my name' කියන්නේ 'මගේ නමින්' කියන එකයි, 'under' කෙළින්ම 'යටින්' කියලා පරිවර්තනය කරන්න එපා."
+    },
+    {
+      "type": "grammar",
+      "title": "Asking about the room",
+      "titleSi": "කාමරය ගැන අහන එක",
+      "explainSi": "කාමරයේ මොනවද තියෙන්නේ කියලා අහන්නේ 'Does the room have...?' කියලා (a1-14 හි ඉගෙන ගත් 'Does' රටාවම). යමක් තියෙනවද කියලා පොදුවේ අහන්නේ 'Is there...?' කියලා.",
+      "formula": "Does the room have + noun? / Is there + noun?",
+      "table": {
+        "headers": [
+          "වාක්‍යය",
+          "සිංහල"
+        ],
+        "rows": [
+          [
+            "Does the room have air conditioning?",
+            "කාමරයේ AC එකක් තියෙනවද?"
+          ],
+          [
+            "Is there wifi in the room?",
+            "කාමරයේ wifi එකක් තියෙනවද?"
+          ],
+          [
+            "What time is checkout?",
+            "check out කරන වෙලාව මොකක්ද?"
+          ],
+          [
+            "What's the wifi password?",
+            "wifi password එක මොකක්ද?"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "Does the room have a view of the sea?",
+          "si": "කාමරයෙන් මුහුදු දර්ශනයක් තියෙනවද?"
+        },
+        {
+          "en": "Is there hot water in the morning?",
+          "si": "උදේට උණු වතුර තියෙනවද?"
+        }
+      ],
+      "watchOutSi": "'Does the room have' — 'have' ඉදිරියේ 's' එකක් නෑ, 'Does' එකෙන්ම ප්‍රශ්නය පේන්නේ. 'Does the room has' කියන්නේ නෑ."
+    },
+    {
+      "type": "grammar",
+      "title": "Reporting a problem in the room",
+      "titleSi": "කාමරයේ ප්‍රශ්නයක් වාර්තා කිරීම",
+      "explainSi": "කාමරයේ යමක් වැඩ නොකළොත්, a2-16 හි ඉගෙන ගත් 'isn't working' යොදාගන්නවා — 'The air conditioning isn't working.' යමක් අවශ්‍ය නම් 'Could we get...?' කියලා ආචාරශීලීව අහනවා.",
+      "formula": "The + noun + isn't working. Could we get + noun, please?",
+      "table": {
+        "headers": [
+          "වාක්‍යය",
+          "සිංහල"
+        ],
+        "rows": [
+          [
+            "The air conditioning isn't working.",
+            "AC එක වැඩ කරන්නේ නෑ."
+          ],
+          [
+            "Could we get extra towels, please?",
+            "අමතර තුවා ටිකක් ගන්න පුළුවන්ද?"
+          ],
+          [
+            "The room hasn't been cleaned.",
+            "කාමරය පිරිසිදු කරලා නෑ."
+          ],
+          [
+            "Could someone come and take a look?",
+            "කවුරුහරි ඇවිත් බලන්න පුළුවන්ද?"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "Excuse me, the air conditioning in room 304 isn't working.",
+          "si": "සමාවෙන්න, 304 කාමරයේ AC එක වැඩ කරන්නේ නෑ."
+        },
+        {
+          "en": "Could we get an extra pillow, please?",
+          "si": "අමතර කොට්ටයක් ගන්න පුළුවන්ද?"
+        }
+      ],
+      "watchOutSi": "'The room hasn't been cleaned' කියන්නේ 'තාම කරලා නෑ' — a2-10 හි ඉගෙන ගත් present perfect ('have you ever') එකේම ස්වරූපය, නමුත් මෙතන 'yet' අර්ථයෙන්."
+    },
+    {
+      "type": "grammar",
+      "title": "Checking out",
+      "titleSi": "Check out වීම",
+      "explainSi": "පිටත් වෙද්දී 'I'd like to check out, please' කියලා කියනවා, පසුව බිල/invoice එක අහනවා. ටැක්සියක් අවශ්‍ය නම් front desk එකෙන්ම ඉල්ලන්න පුළුවන්.",
+      "formula": "I'd like to check out, please.",
+      "table": {
+        "headers": [
+          "වාක්‍යය",
+          "සිංහල"
+        ],
+        "rows": [
+          [
+            "I'd like to check out, please.",
+            "check out කරන්න ඕන."
+          ],
+          [
+            "Could I get a receipt, please?",
+            "රිසිට් පතක් ගන්න පුළුවන්ද?"
+          ],
+          [
+            "Could you call a taxi for us?",
+            "අපිට taxi එකක් කැඳවන්න පුළුවන්ද?"
+          ],
+          [
+            "Thank you for staying with us.",
+            "අප එක්ක රැඳුනාට ස්තූතියි."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "I'd like to check out, please — room 304.",
+          "si": "check out කරන්න ඕන — 304 කාමරය."
+        },
+        {
+          "en": "Could you call a taxi for us? We need to be at the airport by six.",
+          "si": "අපිට taxi එකක් කැඳවන්න පුළුවන්ද? අපි හයට ගුවන්තොටුපළේ ඉන්න ඕන."
+        }
+      ],
+      "watchOutSi": "'check in' සහ 'check out' දෙකම එක වචනයක් නෙවෙයි — වෙන වෙනම, 'checkin' කියලා ලියන්නේ නෑ."
+    },
+    {
+      "type": "vocab",
+      "title": "At the hotel",
+      "titleSi": "හෝටලයේ",
+      "items": [
+        {
+          "en": "reservation",
+          "si": "වෙන්කරගැනීම",
+          "say": "රෙසර්වේශන්"
+        },
+        {
+          "en": "front desk",
+          "si": "පිළිගැනීමේ මේසය",
+          "say": "ෆ්‍රන්ට් ඩෙස්ක්"
+        },
+        {
+          "en": "key card",
+          "si": "key card එක",
+          "say": "කී කාඩ්"
+        },
+        {
+          "en": "housekeeping",
+          "si": "කාමර පිරිසිදු කිරීම",
+          "say": "හවුස්කීපින්"
+        },
+        {
+          "en": "towel",
+          "si": "තුවාය",
+          "say": "ටවල්"
+        },
+        {
+          "en": "pillow",
+          "si": "කොට්ටය",
+          "say": "පිලෝ"
+        },
+        {
+          "en": "invoice",
+          "si": "බිල් පත",
+          "say": "ඉන්වොයිස්"
+        },
+        {
+          "en": "luggage",
+          "si": "බඩු",
+          "say": "ලගේජ්"
+        },
+        {
+          "en": "lobby",
+          "si": "ලොබිය",
+          "say": "ලොබි"
+        },
+        {
+          "en": "checkout",
+          "si": "check out වීම",
+          "say": "චෙක්අවුට්"
+        },
+        {
+          "en": "air conditioning",
+          "si": "වායු සමීකරණය",
+          "say": "එයා කන්ඩිශනින්"
+        },
+        {
+          "en": "wifi password",
+          "si": "wifi මුරපදය",
+          "say": "වයිෆයි පාස්වර්ඩ්"
+        }
+      ]
+    },
+    {
+      "type": "story",
+      "title": "Room 304",
+      "titleSi": "304 කාමරය",
+      "introSi": "රැකියාවක් සඳහා කොළඹට ගිය රුවන් හෝටලයක රැඳෙන කතාවක්. හෝටල් වාක්‍ය ගණන් කරන්න.",
+      "paragraphs": [
+        {
+          "en": "Ruwan arrived at the hotel just after ten at night, tired after a long drive from Kandy. \"Hello,\" he said at the front desk, \"I have a reservation under Ruwan Bandara.\"",
+          "si": "රුවන් රාත්‍රී දහයට පස්සේ හෝටලයට ආවා, කැන්ඩි සිට දිගු ගමනකින් පස්සේ මහන්සියෙන්. \"හලෝ,\" එයා ෆ්‍රන්ට් ඩෙස්ක් එකේදී කිව්වා, \"රුවන් බණ්ඩාර නමින් වෙන්කරගැනීමක් තියෙනවා.\""
+        },
+        {
+          "en": "\"Yes, Mr. Bandara, one night, room 304. Could I see your ID, please?\" Ruwan handed it over. \"Here's your key card. Breakfast is from seven to ten, and checkout is at eleven.\"",
+          "si": "\"ඔව්, බණ්ඩාර මහත්තයා, එක රාත්‍රියක්, 304 කාමරය. ඔබේ හැඳුනුම්පත බලන්න පුළුවන්ද?\" රුවන් ඒක දුන්නා. \"මෙන්න ඔබේ key card එක. උදෑසන ආහාරය හතේ සිට දහය දක්වා, check out එකොළහට.\""
+        },
+        {
+          "en": "In the room, Ruwan noticed it was uncomfortably warm. He checked the air conditioning — it hummed but blew no cold air at all. He called the front desk. \"Excuse me, the air conditioning in room 304 isn't working.\"",
+          "si": "කාමරයේදී, රුවන්ට හැඟුනා අපහසුතාවයෙන් උණුසුම් කියලා. එයා AC එක බැලුවා — ශබ්දයක් නැගුවා නමුත් සිසිල් වාතයක් කිසිසේත් ආවේ නෑ. එයා ෆ්‍රන්ට් ඩෙස්ක් එකට කථා කළා. \"සමාවෙන්න, 304 කාමරයේ AC එක වැඩ කරන්නේ නෑ.\""
+        },
+        {
+          "en": "\"I'm sorry about that, sir. I'll send someone up right away. Is there anything else you need?\" \"Actually, could we get an extra pillow too, please?\" \"Of course, right away.\"",
+          "si": "\"ඒකට සමාවෙන්න, සර්. මම වහාම කෙනෙක් යවන්නම්. වෙන මොනවහරි ඕනද?\" \"ඇත්තටම, අමතර කොට්ටයක් ගන්න පුළුවන්ද?\" \"ඇත්තෙන්ම, වහාම.\""
+        },
+        {
+          "en": "A technician arrived in ten minutes, fixed a loose wire, and the room cooled down quickly. Ruwan slept well and woke up refreshed for his meeting.",
+          "si": "තාක්ෂණවේදියෙක් විනාඩි දහයකින් ආවා, ලිහිල් වූ රැහැනක් හදාගත්තා, කාමරය ඉක්මනින් සිසිල් වුණා. රුවන් හොඳට නිදාගත්තා, රැස්වීමට නැඟිටියේ නැවුම් වෙලා."
+        },
+        {
+          "en": "The next morning, after breakfast, he went to the front desk. \"I'd like to check out, please — room 304.\" \"Certainly. Here's your invoice. I hope the room was comfortable in the end?\" \"Yes, thank you — everything was sorted out quickly.\"",
+          "si": "ඊළඟ දවසේ උදේ, උදෑසන ආහාරයෙන් පස්සේ, එයා ෆ්‍රන්ට් ඩෙස්ක් එකට ගියා. \"check out කරන්න ඕන — 304 කාමරය.\" \"ඇත්තෙන්ම. මෙන්න ඔබේ බිල් පත. අන්තිමට කාමරය සුවපහසු වුණාද කියලා බලාපොරොත්තු වෙනවා?\" \"ඔව්, ස්තූතියි — හැම දේම ඉක්මනින් විසඳුනා.\""
+        }
+      ],
+      "glossary": [
+        {
+          "en": "hand over",
+          "si": "දෙනවා (අතට)"
+        },
+        {
+          "en": "hum",
+          "si": "මොර දෙනවා (ශබ්දයක්)"
+        },
+        {
+          "en": "loose wire",
+          "si": "ලිහිල් රැහැන"
+        },
+        {
+          "en": "refreshed",
+          "si": "නැවුම්"
+        },
+        {
+          "en": "sorted out",
+          "si": "විසඳුනු"
+        }
+      ],
+      "questionsSi": [
+        "රුවන් හෝටලයට ආවේ කවදාද, කොහෙන්ද?",
+        "රුවන්ගේ කාමරයේ මුලින්ම තිබූ ප්‍රශ්නය මොකක්ද?",
+        "රුවන් AC එකට අමතරව තව මොකක්ද ඉල්ලුවේ?",
+        "check out වෙද්දී රුවන් සේවකයාට කිව්වේ මොකක්ද?"
+      ]
+    },
+    {
+      "type": "poem",
+      "title": "Room for a Night",
+      "titleSi": "එක රැයකට කාමරයක්",
+      "introSi": "එක රැයක් තිස්සේ රැඳී, පසුව පිටත්ව යන කාමරයක් ගැන කවියක්.",
+      "lines": [
+        {
+          "en": "A key card, a number, a made-up bed —",
+          "si": "key card එකක්, අංකයක්, හදාපු ඇඳක් —"
+        },
+        {
+          "en": "A room that knows nothing of who I am.",
+          "si": "මම කවුද කියලා කිසිවක් නොදන්නා කාමරයක්."
+        },
+        {
+          "en": "By morning it's mine — the towel, the view —",
+          "si": "උදේට ඒක මගේම — තුවාය, දර්ශනය —"
+        },
+        {
+          "en": "By noon, another guest's, not my plan.",
+          "si": "දහවල් වන විට, තව ගෙස්ට් කෙනෙක්ගේ, මගේ සැලසුම නෙවෙයි."
+        },
+        {
+          "en": "",
+          "si": ""
+        },
+        {
+          "en": "I leave the key, I leave the door,",
+          "si": "key එක තියලා යනවා, දොර තියලා යනවා,"
+        },
+        {
+          "en": "The bill is paid, the bags are light.",
+          "si": "බිල ගෙවලා ඉවරයි, බෑග් සැහැල්ලුයි."
+        },
+        {
+          "en": "Somewhere behind, room 304",
+          "si": "පිටිපස්සේ කොහේහරි, 304 කාමරය"
+        },
+        {
+          "en": "Forgets me by the end of the night.",
+          "si": "රාත්‍රිය අවසානයේදී මාව අමතක කරනවා."
+        }
+      ],
+      "noteSi": "'key card', 'towel', 'the bill is paid' — කවියේම, පාඩමේ වචන එකට එනවා."
+    },
+    {
+      "type": "dialogue",
+      "title": "Checking in",
+      "titleSi": "Check in වීම",
+      "settingSi": "අමාලී හෝටලයේ check in වෙනවා. හතරම අවස්ථා — check in, කාමරය ගැන අහන එක, ප්‍රශ්නයක්, check out — එකට එනවා.",
+      "lines": [
+        {
+          "speaker": "Receptionist",
+          "en": "Good evening, welcome. Do you have a reservation?",
+          "si": "සුබ සන්ධ්‍යාවක්, ආයුබෝවන්. වෙන්කරගැනීමක් තියෙනවද?"
+        },
+        {
+          "speaker": "Amali",
+          "en": "Yes, I have a reservation under Amali Jayasuriya.",
+          "si": "ඔව්, අමාලී ජයසූරිය නමින් වෙන්කරගැනීමක් තියෙනවා."
+        },
+        {
+          "speaker": "Receptionist",
+          "en": "Perfect, two nights, room 210. Could I see your ID, please?",
+          "si": "හරි, රාත්‍රී දෙකක්, 210 කාමරය. ඔබේ හැඳුනුම්පත බලන්න පුළුවන්ද?"
+        },
+        {
+          "speaker": "Amali",
+          "en": "Here you go. Does the room have a balcony, by any chance?",
+          "si": "මෙන්න. කාමරයේ balcony එකක් තියෙනවද?"
+        },
+        {
+          "speaker": "Receptionist",
+          "en": "It does, with a garden view. Here's your key card, and the wifi password is on the back.",
+          "si": "තියෙනවා, උද්‍යාන දර්ශනයකින්. මෙන්න key card එක, wifi password එක පිටිපස්සේ තියෙනවා."
+        },
+        {
+          "speaker": "Amali",
+          "en": "Thank you. One more thing — the last hotel I stayed at, the air conditioning wasn't working, so I hope this one's alright!",
+          "si": "ස්තූතියි. තව දෙයක් — ගිය හෝටලයේදී, AC එක වැඩ කරේ නැති නිසා, මේකේ හරි ඇති කියලා බලාපොරොත්තු වෙනවා!"
+        },
+        {
+          "speaker": "Receptionist",
+          "en": "Everything's working in 210, don't worry. Checkout is at eleven tomorrow.",
+          "si": "210 හි හැම දේම වැඩ කරනවා, කරදර වෙන්න එපා. හෙට check out එකොළහට."
+        }
+      ]
+    },
+    {
+      "type": "practice",
+      "title": "Which stage?",
+      "titleSi": "කුමන අවස්ථාවටද?",
+      "instructionSi": "දුන් තත්ත්වයට ගැලපෙන හෝටල් වාක්‍යය ලියන්න.",
+      "items": [
+        {
+          "prompt": "arriving, giving your name",
+          "answer": "I have a reservation under…",
+          "hintSi": "I have a reservation under...",
+          "full": "I have a reservation under Perera."
+        },
+        {
+          "prompt": "asking if the room has wifi",
+          "answer": "Is there wifi in the room?",
+          "hintSi": "Is there...?",
+          "full": "Is there wifi in the room?"
+        },
+        {
+          "prompt": "the air conditioning is broken",
+          "answer": "The air conditioning isn't working.",
+          "hintSi": "isn't working",
+          "full": "The air conditioning isn't working."
+        },
+        {
+          "prompt": "you need more towels",
+          "answer": "Could we get extra towels, please?",
+          "hintSi": "Could we get...?",
+          "full": "Could we get extra towels, please?"
+        },
+        {
+          "prompt": "leaving the hotel",
+          "answer": "I'd like to check out, please.",
+          "hintSi": "I'd like to check out, please.",
+          "full": "I'd like to check out, please."
+        },
+        {
+          "prompt": "asking for the bill",
+          "answer": "Could I get a receipt, please?",
+          "hintSi": "Could I get a receipt, please?",
+          "full": "Could I get a receipt, please?"
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "en": "reservation",
+      "si": "වෙන්කරගැනීම"
+    },
+    {
+      "en": "front desk",
+      "si": "පිළිගැනීමේ මේසය"
+    },
+    {
+      "en": "key card",
+      "si": "key card එක"
+    },
+    {
+      "en": "housekeeping",
+      "si": "කාමර පිරිසිදු කිරීම"
+    },
+    {
+      "en": "towel",
+      "si": "තුවාය"
+    },
+    {
+      "en": "pillow",
+      "si": "කොට්ටය"
+    },
+    {
+      "en": "invoice",
+      "si": "බිල් පත"
+    },
+    {
+      "en": "luggage",
+      "si": "බඩු"
+    },
+    {
+      "en": "lobby",
+      "si": "ලොබිය"
+    },
+    {
+      "en": "checkout",
+      "si": "check out වීම"
+    },
+    {
+      "en": "air conditioning",
+      "si": "වායු සමීකරණය"
+    },
+    {
+      "en": "wifi password",
+      "si": "wifi මුරපදය"
+    },
+    {
+      "en": "hand over",
+      "si": "දෙනවා (අතට)"
+    },
+    {
+      "en": "hum",
+      "si": "මොර දෙනවා"
+    },
+    {
+      "en": "loose wire",
+      "si": "ලිහිල් රැහැන"
+    },
+    {
+      "en": "refreshed",
+      "si": "නැවුම්"
+    },
+    {
+      "en": "sorted out",
+      "si": "විසඳුනු"
+    },
+    {
+      "en": "balcony",
+      "si": "බැල්කනිය"
+    },
+    {
+      "en": "garden view",
+      "si": "උද්‍යාන දර්ශනය"
+    },
+    {
+      "en": "technician",
+      "si": "තාක්ෂණවේදියා"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "a2-17-q1",
+      "q": "'වීරසිංහ නමින් වෙන්කරගැනීමක් තියෙනවා.' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "I have reservation Weerasinghe.",
+        "I have a reservation under Weerasinghe.",
+        "I reserved under Weerasinghe name.",
+        "My reservation is Weerasinghe."
+      ],
+      "answer": 1,
+      "explainSi": "'I have a reservation under + name.'",
+      "speak": "I have a reservation under Weerasinghe."
+    },
+    {
+      "id": "a2-17-q2",
+      "q": "check in වෙද්දී 'Could I see your ID, please?' කියලා අහන්නේ ඇයි?",
+      "options": [
+        "වෙන්කරගැනීම නමින් තහවුරු කරගන්න",
+        "සල්ලි අහන්න",
+        "key card එක දෙන්න",
+        "check out කරන්න"
+      ],
+      "answer": 0,
+      "explainSi": "වෙන්කරගත් නම ID එකට ගැලපෙනවද කියලා තහවුරු කිරීමට."
+    },
+    {
+      "id": "a2-17-q3",
+      "q": "'කාමරයේ AC එකක් තියෙනවද?' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "Does the room has air conditioning?",
+        "Does the room have air conditioning?",
+        "Is the room have air conditioning?",
+        "Have the room air conditioning?"
+      ],
+      "answer": 1,
+      "explainSi": "'Does the room have...?' — 'Does' එකෙන්ම ප්‍රශ්නය, 'have' ට 's' නෑ.",
+      "speak": "Does the room have air conditioning?"
+    },
+    {
+      "id": "a2-17-q4",
+      "q": "'Does the room have...?' සහ 'Is there...?' අතර වෙනස කුමක්ද?",
+      "options": [
+        "වෙනසක් නෑ",
+        "දෙකම එකම අර්ථය, විවිධ ආකෘති — කාමරයේ යමක් තියෙනවද කියලා අහන්න",
+        "'Is there' කාමරය ගැන අහන්න බෑ",
+        "'Does the room have' ප්‍රශ්නයක් නෙවෙයි"
+      ],
+      "answer": 1,
+      "explainSi": "දෙකම කාමරයේ යමක් තියෙනවද කියලා අහන ක්‍රම දෙකක්."
+    },
+    {
+      "id": "a2-17-q5",
+      "q": "'AC එක වැඩ කරන්නේ නෑ.' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "The air conditioning don't working.",
+        "The air conditioning isn't working.",
+        "The air conditioning not work.",
+        "The air conditioning didn't working."
+      ],
+      "answer": 1,
+      "explainSi": "'isn't working' — a2-16 හි ඉගෙන ගත් වාක්‍යාංශයම.",
+      "speak": "The air conditioning isn't working."
+    },
+    {
+      "id": "a2-17-q6",
+      "q": "'අමතර තුවා ටිකක් ගන්න පුළුවන්ද?' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "Could we get extra towels, please?",
+        "Give me more towels.",
+        "Could we getting extra towels?",
+        "We need towels now."
+      ],
+      "answer": 0,
+      "explainSi": "'Could we get...?' — ආචාරශීලී ඉල්ලීමක්.",
+      "speak": "Could we get extra towels, please?"
+    },
+    {
+      "id": "a2-17-q7",
+      "q": "'The room hasn't been cleaned' කියන්නේ මොකද්ද?",
+      "options": [
+        "කාමරය කවදාවත් පිරිසිදු කරලා නෑ",
+        "කාමරය තාම පිරිසිදු කරලා නෑ",
+        "කාමරය පිරිසිදුයි",
+        "කාමරය අද පිරිසිදු කරලා"
+      ],
+      "answer": 1,
+      "explainSi": "'hasn't been cleaned' — present perfect, තාම වෙලා නැති දෙයක්."
+    },
+    {
+      "id": "a2-17-q8",
+      "q": "'check out කරන්න ඕන.' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "I'd like to check out, please.",
+        "I check out now.",
+        "Please to check out.",
+        "I want checkout."
+      ],
+      "answer": 0,
+      "explainSi": "'I'd like to check out, please.' — ආචාරශීලී, සම්මත වාක්‍යය.",
+      "speak": "I'd like to check out, please."
+    },
+    {
+      "id": "a2-17-q9",
+      "q": "'check in' සහ 'checkin' — කුමන ලිවීම හරිද?",
+      "options": [
+        "check in (වචන දෙකක්)",
+        "checkin (එක වචනයක්)",
+        "දෙකම හරි",
+        "checkedin"
+      ],
+      "answer": 0,
+      "explainSi": "ක්‍රියාව විදිහට 'check in' — වචන දෙකක්. ('checkout'/'check-out' නාමයක් විදිහට වෙනස්.)"
+    },
+    {
+      "id": "a2-17-q10",
+      "q": "'අපිට taxi එකක් කැඳවන්න පුළුවන්ද?' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "Could you call a taxi for us?",
+        "Call taxi for us now.",
+        "We want a taxi calling.",
+        "Could you calling a taxi?"
+      ],
+      "answer": 0,
+      "explainSi": "'Could you call a taxi for us?' — ආචාරශීලී ඉල්ලීමක්.",
+      "speak": "Could you call a taxi for us?"
+    },
+    {
+      "id": "a2-17-q11",
+      "context": "Ruwan arrived at the hotel just after ten at night, tired after a long drive from Kandy. \"Hello,\" he said at the front desk, \"I have a reservation under Ruwan Bandara.\"",
+      "contextSi": "රුවන් රාත්‍රී දහයට පස්සේ හෝටලයට ආවා, කැන්ඩි සිට දිගු ගමනකින් පස්සේ මහන්සියෙන්. \"හලෝ,\" එයා ෆ්‍රන්ට් ඩෙස්ක් එකේදී කිව්වා, \"රුවන් බණ්ඩාර නමින් වෙන්කරගැනීමක් තියෙනවා.\"",
+      "q": "කතාව අනුව: රුවන් හෝටලයට ආවේ කොහෙන්ද, කවදාද?",
+      "options": [
+        "කොළඹ සිට, උදේ",
+        "කැන්ඩි සිට, රාත්‍රී දහයට පස්සේ",
+        "එල්ල සිට, දවල්",
+        "ගාල්ල සිට, රාත්‍රී"
+      ],
+      "answer": 1,
+      "explainSi": "'a long drive from Kandy' — 'just after ten at night.'"
+    },
+    {
+      "id": "a2-17-q12",
+      "context": "\"Yes, Mr. Bandara, one night, room 304. Could I see your ID, please?\" Ruwan handed it over. \"Here's your key card. Breakfast is from seven to ten, and checkout is at eleven.\"",
+      "contextSi": "\"ඔව්, බණ්ඩාර මහත්තයා, එක රාත්‍රියක්, 304 කාමරය. ඔබේ හැඳුනුම්පත බලන්න පුළුවන්ද?\" රුවන් ඒක දුන්නා. \"මෙන්න ඔබේ key card එක. උදෑසන ආහාරය හතේ සිට දහය දක්වා, check out එකොළහට.\"",
+      "q": "කතාව අනුව: රුවන්ගේ check out වෙලාව මොකක්ද?",
+      "options": [
+        "හතයි",
+        "දහයයි",
+        "එකොළහයි",
+        "රාත්‍රී"
+      ],
+      "answer": 2,
+      "explainSi": "'checkout is at eleven.'"
+    },
+    {
+      "id": "a2-17-q13",
+      "context": "In the room, Ruwan noticed it was uncomfortably warm. He checked the air conditioning — it hummed but blew no cold air at all. He called the front desk. \"Excuse me, the air conditioning in room 304 isn't working.\"",
+      "contextSi": "කාමරයේදී, රුවන්ට හැඟුනා අපහසුතාවයෙන් උණුසුම් කියලා. එයා AC එක බැලුවා — ශබ්දයක් නැගුවා නමුත් සිසිල් වාතයක් කිසිසේත් ආවේ නෑ. එයා ෆ්‍රන්ට් ඩෙස්ක් එකට කථා කළා. \"සමාවෙන්න, 304 කාමරයේ AC එක වැඩ කරන්නේ නෑ.\"",
+      "q": "කතාව අනුව: කාමරයේ AC එකේ ප්‍රශ්නය මොකක්ද?",
+      "options": [
+        "AC එකම නැහැ",
+        "ශබ්දයක් නැගුවත් සිසිල් වාතයක් නෑ",
+        "AC එක ගිනිගත්තා",
+        "AC එක අධික ලෙස සිසිල්"
+      ],
+      "answer": 1,
+      "explainSi": "'it hummed but blew no cold air at all.'"
+    },
+    {
+      "id": "a2-17-q14",
+      "context": "\"I'm sorry about that, sir. I'll send someone up right away. Is there anything else you need?\" \"Actually, could we get an extra pillow too, please?\"",
+      "contextSi": "\"ඒකට සමාවෙන්න, සර්. මම වහාම කෙනෙක් යවන්නම්. වෙන මොනවහරි ඕනද?\" \"ඇත්තටම, අමතර කොට්ටයක් ගන්න පුළුවන්ද?\"",
+      "q": "කතාව අනුව: AC ප්‍රශ්නයට අමතරව රුවන් තවත් මොකක්ද ඉල්ලුවේ?",
+      "options": [
+        "අමතර තුවායක්",
+        "අමතර කොට්ටයක්",
+        "වෙනත් කාමරයක්",
+        "මුදල් ආපසුවක්"
+      ],
+      "answer": 1,
+      "explainSi": "'could we get an extra pillow too, please?'"
+    },
+    {
+      "id": "a2-17-q15",
+      "context": "A technician arrived in ten minutes, fixed a loose wire, and the room cooled down quickly. Ruwan slept well and woke up refreshed for his meeting.",
+      "contextSi": "තාක්ෂණවේදියෙක් විනාඩි දහයකින් ආවා, ලිහිල් වූ රැහැනක් හදාගත්තා, කාමරය ඉක්මනින් සිසිල් වුණා. රුවන් හොඳට නිදාගත්තා, රැස්වීමට නැඟිටියේ නැවුම් වෙලා.",
+      "q": "කතාව අනුව: AC ප්‍රශ්නය හදාගත්තේ කොහොමද?",
+      "options": [
+        "අලුත් AC එකක් ගෙනාවා",
+        "ලිහිල් වූ රැහැනක් හදාගත්තා",
+        "රුවන් වෙන කාමරයකට මාරු වුණා",
+        "විදුලිය නැවත සම්බන්ධ කළා"
+      ],
+      "answer": 1,
+      "explainSi": "'fixed a loose wire.'"
+    },
+    {
+      "id": "a2-17-q16",
+      "context": "\"I'd like to check out, please — room 304.\" \"Certainly. Here's your invoice. I hope the room was comfortable in the end?\" \"Yes, thank you — everything was sorted out quickly.\"",
+      "contextSi": "\"check out කරන්න ඕන — 304 කාමරය.\" \"ඇත්තෙන්ම. මෙන්න ඔබේ බිල් පත. අන්තිමට කාමරය සුවපහසු වුණාද කියලා බලාපොරොත්තු වෙනවා?\" \"ඔව්, ස්තූතියි — හැම දේම ඉක්මනින් විසඳුනා.\"",
+      "q": "කතාව අනුව: check out වෙද්දී රුවන්ගේ පිළිතුර කුමන ආකාරයේද?",
+      "options": [
+        "AC ප්‍රශ්නය ගැන තවමත් තරහ",
+        "ප්‍රශ්නය ඉක්මනින් විසඳුනු නිසා සතුටින්",
+        "කාමරය ගැන කිසිවක් කිව්වේ නෑ",
+        "check out කරන්න බැරි වුණා"
+      ],
+      "answer": 1,
+      "explainSi": "'everything was sorted out quickly.'"
+    },
+    {
+      "id": "a2-17-q17",
+      "context": "A key card, a number, a made-up bed — / A room that knows nothing of who I am. / By morning it's mine — the towel, the view — / By noon, another guest's, not my plan.",
+      "contextSi": "key card එකක්, අංකයක්, හදාපු ඇඳක් — / මම කවුද කියලා කිසිවක් නොදන්නා කාමරයක්. / උදේට ඒක මගේම — තුවාය, දර්ශනය — / දහවල් වන විට, තව ගෙස්ට් කෙනෙක්ගේ, මගේ සැලසුම නෙවෙයි.",
+      "q": "කවියේ පළමු කොටසේ, කථකයා කාමරය විස්තර කරන්නේ කොහොමද?",
+      "options": [
+        "ස්ථිරව තමන්ගේම එකක් විදිහට",
+        "තාවකාලිකව තමන්ගේ, පසුව වෙන කෙනෙක්ගේ වෙන එකක් විදිහට",
+        "කවදාවත් තමන්ගේ නොවන එකක් විදිහට",
+        "නිවසක් වගේ එකක් විදිහට"
+      ],
+      "answer": 1,
+      "explainSi": "'By morning it's mine... By noon, another guest's.' — තාවකාලික අයිතියක්."
+    },
+    {
+      "id": "a2-17-q18",
+      "context": "I leave the key, I leave the door, / The bill is paid, the bags are light. / Somewhere behind, room 304 / Forgets me by the end of the night.",
+      "contextSi": "key එක තියලා යනවා, දොර තියලා යනවා, / බිල ගෙවලා ඉවරයි, බෑග් සැහැල්ලුයි. / පිටිපස්සේ කොහේහරි, 304 කාමරය / රාත්‍රිය අවසානයේදී මාව අමතක කරනවා.",
+      "q": "කවියේ අන්තිම කොටසේ, කථකයා පිටත් වෙන්නේ කුමන අවස්ථාවේද?",
+      "options": [
+        "check in වෙද්දී",
+        "check out වෙලා, බිල ගෙවලා",
+        "AC ප්‍රශ්නයක් නිසා",
+        "පණිවිඩයක් තියද්දී"
+      ],
+      "answer": 1,
+      "explainSi": "'The bill is paid, the bags are light' — check out කරලා, පිටත් වෙනවා."
+    },
+    {
+      "id": "a2-17-q19",
+      "context": "Amali: Does the room have a balcony, by any chance? / Receptionist: It does, with a garden view. Here's your key card, and the wifi password is on the back.",
+      "contextSi": "අමාලී: කාමරයේ balcony එකක් තියෙනවද? / රිසෙප්ෂනිස්ට්: තියෙනවා, උද්‍යාන දර්ශනයකින්. මෙන්න key card එක, wifi password එක පිටිපස්සේ තියෙනවා.",
+      "q": "සංවාදයේ: අමාලීගේ කාමරයේ balcony එකෙන් පේන්නේ මොකක්ද?",
+      "options": [
+        "මුහුද",
+        "උද්‍යානය",
+        "නගරය",
+        "පිටිපස්සේ පාර"
+      ],
+      "answer": 1,
+      "explainSi": "'with a garden view.'"
+    },
+    {
+      "id": "a2-17-q20",
+      "context": "Amali: One more thing — the last hotel I stayed at, the air conditioning wasn't working, so I hope this one's alright! / Receptionist: Everything's working in 210, don't worry.",
+      "contextSi": "අමාලී: තව දෙයක් — ගිය හෝටලයේදී, AC එක වැඩ කරේ නැති නිසා, මේකේ හරි ඇති කියලා බලාපොරොත්තු වෙනවා! / රිසෙප්ෂනිස්ට්: 210 හි හැම දේම වැඩ කරනවා, කරදර වෙන්න එපා.",
+      "q": "සංවාදයේ: අමාලී තමන්ගේ අනුභවය (ගිය හෝටලය) සඳහන් කරන්නේ ඇයි?",
+      "options": [
+        "රිසෙප්ෂනිස්ට්ට තරහ ගන්වන්න",
+        "AC එක වැඩ කරනවද කියලා දැනගැනීමට හේතුවක් දෙන්න",
+        "වෙන හෝටලයක් ගැන පැමිණිල්ලක් කරන්න",
+        "check out කරන්න"
+      ],
+      "answer": 1,
+      "explainSi": "කලින් අත්දැකීමක් නිසා, දැන් තහවුරු කරගන්න ඕන."
+    },
+    {
+      "id": "a2-17-q21",
+      "q": "කුමන වාක්‍යය වැරදිද?",
+      "options": [
+        "I have a reservation under Silva.",
+        "Does the room has wifi?",
+        "The air conditioning isn't working.",
+        "I'd like to check out, please."
+      ],
+      "answer": 1,
+      "explainSi": "'Does the room have wifi?' විය යුතුයි — 'have' ට 's' නෑ."
+    },
+    {
+      "id": "a2-17-q22",
+      "q": "'රිසිට් පතක් ගන්න පුළුවන්ද?' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "Could I get a receipt, please?",
+        "Give receipt me.",
+        "Receipt please now.",
+        "I need get receipt."
+      ],
+      "answer": 0,
+      "explainSi": "'Could I get a receipt, please?' — ආචාරශීලී ඉල්ලීමක්.",
+      "speak": "Could I get a receipt, please?"
+    }
+  ]
+}

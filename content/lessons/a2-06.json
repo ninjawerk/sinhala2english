@@ -1,0 +1,886 @@
+{
+  "hero": {
+    "src": "images/a2-06-hero.webp",
+    "alt": "Nadeesha stepping into a completely empty room and looking around for anyone at all, chairs stacked against the wall, quiet late afternoon light."
+  },
+  "goalsSi": [
+    "someone, anyone, no one, everyone — කවුරු ගැනද කියලා නොදන්නා විට කථා කිරීම",
+    "-one සහ -body ස්වරූප දෙකම එකම අර්ථය බව",
+    "බහුවචන අර්ථයක් තිබුණත් තනි වචන ලෙස සලකන බව — ක්‍රියාවට -s",
+    "some- සහ any- අතර තෝරාගැනීම — a1-07 හි නීතියම",
+    "no one හි ඇති negative එකක්, double negative නොකළ යුතු බව",
+    "someone ... their — ස්ත්‍රී පුරුෂ භාවය නොදන්නා විට"
+  ],
+  "goals": [
+    "Talk about an unknown person with someone, anyone, no one, everyone",
+    "Use the -one and -body forms correctly",
+    "Keep the verb singular",
+    "Choose some- or any- the way a1-07 already taught",
+    "Avoid the double negative with no one",
+    "Refer back with they/them/their"
+  ],
+  "sections": [
+    {
+      "type": "note",
+      "title": "One word, many people, one verb",
+      "titleSi": "එක වචනයක්, මිනිස්සු ගොඩක්, ක්‍රියාව එකයි",
+      "bodySi": "'කවුරුහරි' කියද්දී එක් කෙනෙක් ගැනද, ගොඩක් දෙනෙක්ගෙන් එක්කෙනෙක් ගැනද අපි හිතන්නේ නෑ — කවුරුහරි කියනවා විතරයි. ඉංග්‍රීසියේත් එහෙමයි: 'someone' කියන්නේ කවුද කියලා නොදන්නා නිශ්චිත එක් කෙනෙක්.\n\nහැබැයි 'everyone' 'everybody' වගේ වචන අහද්දී විශේෂයෙන් හිතෙනවා 'මිනිස්සු ගොඩක්' කියලා — 'Everyone' කියන්නේ හැමෝම නේ. ඒත් ඉංග්‍රීසි ව්‍යාකරණයේදී මේ වචන හැම එකක්ම තනි වචන විදිහට සලකනවා. ක්‍රියාවටත් 'she/he/it' වගේම -s එකතු වෙනවා:\n\nEveryone likes her. — 'Everyone like her' නෙවෙයි.\nSomebody knows the answer. — 'Somebody know' නෙවෙයි.\nNobody wants to go. — 'Nobody want' නෙවෙයි.\n\nවචනයේ අර්ථය බහුවචනයක් වගේ දැනුණත්, ව්‍යාකරණයෙන් එය තනි කෙනෙක්. මේකයි මේ පාඩමේ තියෙන තියුණුම උගුල.",
+      "body": "someone/anyone/no one/everyone take a singular verb, however plural they feel."
+    },
+    {
+      "type": "grammar",
+      "title": "someone, anyone, no one, everyone",
+      "titleSi": "someone, anyone, no one, everyone",
+      "explainSi": "වචන හතරක් — කවුරුහරි, කවුරුත් (ප්‍රශ්නයේ/නැහැයේ), කවුරුවත් නෑ, හැමෝම. හැම එකකටම -one සහ -body ස්වරූප දෙකක් තියෙනවා, දෙකම එකම අර්ථය.",
+      "formula": "some-/any-/no-/every- + one/body  ·  + singular verb",
+      "table": {
+        "headers": [
+          "-one",
+          "-body",
+          "සිංහල",
+          "උදාහරණය"
+        ],
+        "rows": [
+          [
+            "someone",
+            "somebody",
+            "කවුරුහරි (ධනාත්මක)",
+            "Someone is at the door."
+          ],
+          [
+            "anyone",
+            "anybody",
+            "කවුරුත් (ප්‍රශ්නය/නැහැ)",
+            "Is anyone home?"
+          ],
+          [
+            "no one",
+            "nobody",
+            "කවුරුවත් නෑ",
+            "No one answered."
+          ],
+          [
+            "everyone",
+            "everybody",
+            "හැමෝම",
+            "Everyone was late."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "Someone is knocking. Can you check who it is?",
+          "si": "කවුරුහරි තට්ටු කරනවා. කවුද කියලා බලන්න පුළුවන්ද?"
+        },
+        {
+          "en": "Everybody enjoyed the film except my father.",
+          "si": "තාත්තා හැරෙන්නට හැමෝම චිත්‍රපටයට කැමති වුණා."
+        },
+        {
+          "en": "Nobody told me the meeting was cancelled.",
+          "si": "රැස්වීම අවලංගු කළා කියලා කවුරුවත් මට කිව්වේ නෑ."
+        }
+      ],
+      "watchOutSi": "'-one' සහ '-body' අතර වෙනසක් නෑ — 'someone' සහ 'somebody' දෙකම හරි, එකම වචනයක ස්වරූප දෙකක් විතරයි. එකක් තෝරාගෙන ස්ථිර ඉන්න."
+    },
+    {
+      "type": "grammar",
+      "title": "some- or any-?",
+      "titleSi": "some- ද any- ද?",
+      "explainSi": "a1-07 හි ඉගෙන ගත්තා: ධනාත්මක වාක්‍යවලට 'some', ප්‍රශ්න සහ නැහැ වාක්‍යවලට 'any'. මිනිස්සු ගැන කථා කරද්දීත් එකම නීතියම යෙදෙනවා.",
+      "formula": "positive → some-  ·  question / negative → any-",
+      "table": {
+        "headers": [
+          "තත්ත්වය",
+          "වචනය",
+          "උදාහරණය"
+        ],
+        "rows": [
+          [
+            "ධනාත්මක",
+            "someone/somebody",
+            "Someone called for you."
+          ],
+          [
+            "ප්‍රශ්නය",
+            "anyone/anybody",
+            "Did anyone call for me?"
+          ],
+          [
+            "නැහැ",
+            "anyone/anybody",
+            "No one called for me. / I didn't see anyone."
+          ],
+          [
+            "ඉල්ලීමක්/ආරාධනාවක්",
+            "someone",
+            "Could someone help me with this bag?"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "Is there anyone who can drive?",
+          "si": "රිය පදවන්න පුළුවන් කවුරුහරි ඉන්නවාද?"
+        },
+        {
+          "en": "I don't think anybody saw the accident.",
+          "si": "අනතුර දැක්ක කවුරුවත් ඉන්නවා කියලා මම හිතන්නේ නෑ."
+        },
+        {
+          "en": "Could someone open the window? It's hot.",
+          "si": "කවුරුහරි ජනේලය අරින්න පුළුවන්ද? රස්නෙයි."
+        }
+      ],
+      "watchOutSi": "ඉල්ලීමක් හෝ ආරාධනාවක් කරද්දී ප්‍රශ්නයක් වුණත් 'some-' යෙදෙනවා — 'Could someone help me?' — 'Could anyone help me?' කිව්වත් තේරෙනවා, නමුත් 'someone' වඩා ස්වාභාවික, මොකද එය සැබෑ ඉල්ලීමක් මිස පොදු ප්‍රශ්නයක් නෙවෙයි."
+    },
+    {
+      "type": "grammar",
+      "title": "no one already means 'not'",
+      "titleSi": "no one හි දැනටමත් 'නෑ' කියන එක තියෙනවා",
+      "explainSi": "'no one' සහ 'nobody' යන්නෙන්ම 'කවුරුවත් නෑ' කියන අර්ථය. එනිසා 'don't' එක්කත් යොදන්න බෑ — වාක්‍යයේ නැහැ දෙපාරක් වෙනවා.",
+      "formula": "no one / nobody + positive verb  (not: don't + no one)",
+      "table": {
+        "headers": [
+          "වැරදි",
+          "නිවැරදි",
+          "සිංහල"
+        ],
+        "rows": [
+          [
+            "I don't know no one here.",
+            "I don't know anyone here.",
+            "මෙතන මම කාවවත් දන්නේ නෑ."
+          ],
+          [
+            "I don't know no one here.",
+            "I know no one here.",
+            "මෙතන මම කාවවත් දන්නේ නෑ."
+          ],
+          [
+            "Nobody didn't come.",
+            "Nobody came.",
+            "කවුරුවත් ආවේ නෑ."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "No one knows the answer.",
+          "si": "පිළිතුර කවුරුවත් දන්නේ නෑ."
+        },
+        {
+          "en": "I know no one in this city.",
+          "si": "මේ නගරයේ මම කාවවත් දන්නේ නෑ."
+        },
+        {
+          "en": "I don't know anyone in this city.",
+          "si": "මේ නගරයේ මම කාවවත් දන්නේ නෑ."
+        }
+      ],
+      "watchOutSi": "එකම අර්ථය ක්‍රම දෙකකින් කියන්න පුළුවන්: 'no one' + ධනාත්මක ක්‍රියාව, නැත්නම් 'don't' + 'anyone'. දෙකම එකට යොදන්න බෑ."
+    },
+    {
+      "type": "grammar",
+      "title": "Someone left their bag",
+      "titleSi": "Someone left their bag",
+      "explainSi": "'someone' කවුද කියලා දන්නේ නෑ — පිරිමිද ගැහැණුද කියලා නොදන්නා නිසා, ආපහු කියද්දී 'they/them/their' යොදනවා. සිංහලෙන් 'එයාගේ' කියද්දී ස්ත්‍රී පුරුෂ භාවය කියන්නේ නෑ — ඉංග්‍රීසියේ 'his/her' අතර තෝරන්න ඕන වුණාට, 'they' යෙදුවොත් ඒ ප්‍රශ්නයම එන්නේ නෑ.",
+      "formula": "someone/anyone/everyone … they/them/their",
+      "table": {
+        "headers": [
+          "වාක්‍යය",
+          "සිංහල"
+        ],
+        "rows": [
+          [
+            "Someone left their umbrella.",
+            "කවුරුහරි එයාගේ කුඩය අතහැරලා ගිහින්."
+          ],
+          [
+            "If anyone calls, tell them I'm out.",
+            "කවුරුහරි කතා කළොත්, මම පිටත ඉන්නවා කියලා කියන්න."
+          ],
+          [
+            "Everyone should bring their own lunch.",
+            "හැමෝම තමන්ගේම දිවා ආහාරය අරගෙන එන්න ඕන."
+          ],
+          [
+            "Somebody forgot their phone.",
+            "කවුරුහරි එයාගේ දුරකථනය අමතක කරලා."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "If someone knocks, ask them to wait.",
+          "si": "කවුරුහරි තට්ටු කළොත්, බලාගෙන ඉන්න කියලා කියන්න."
+        },
+        {
+          "en": "Everyone has their own opinion.",
+          "si": "හැමෝටම තමන්ගේම අදහසක් තියෙනවා."
+        }
+      ],
+      "watchOutSi": "'his or her' කියලා දිගට කියනවාට වඩා 'their' කියන එක වඩා පොදු, කථා බස් ඉංග්‍රීසියේ සම්මතයි."
+    },
+    {
+      "type": "vocab",
+      "title": "People, things, places — nobody knows",
+      "titleSi": "මිනිස්සු, දේවල්, තැන් — කවුරුවත් දන්නේ නෑ",
+      "items": [
+        {
+          "en": "someone / somebody",
+          "si": "කවුරුහරි",
+          "say": "සම්වන් / සම්බඩි"
+        },
+        {
+          "en": "anyone / anybody",
+          "si": "කවුරුත්",
+          "say": "එනිවන් / එනිබඩි"
+        },
+        {
+          "en": "no one / nobody",
+          "si": "කවුරුවත් නෑ",
+          "say": "නෝවන් / නෝබඩි"
+        },
+        {
+          "en": "everyone / everybody",
+          "si": "හැමෝම",
+          "say": "එව්රිවන් / එව්රිබඩි"
+        },
+        {
+          "en": "stranger",
+          "si": "නොදන්නා කෙනා",
+          "say": "ස්ට්‍රේන්ජර්"
+        },
+        {
+          "en": "in particular",
+          "si": "විශේෂයෙන්",
+          "say": "ඉන් පර්ටිකියුලර්"
+        },
+        {
+          "en": "each other",
+          "si": "එකිනෙකා",
+          "say": "ඊච් අදර්"
+        },
+        {
+          "en": "note",
+          "si": "සටහන",
+          "say": "නෝට්"
+        },
+        {
+          "en": "handwriting",
+          "si": "අකුර",
+          "say": "හෑන්ඩ්රයිටින්"
+        },
+        {
+          "en": "guess",
+          "si": "අනුමාන කරනවා",
+          "say": "ගෙස්"
+        },
+        {
+          "en": "leave (something)",
+          "si": "අතහැර යනවා",
+          "say": "ලීව්"
+        },
+        {
+          "en": "claim",
+          "si": "ඉල්ලනවා (තමන්ගේ කියලා)",
+          "say": "ක්ලේම්"
+        },
+        {
+          "en": "suspect",
+          "si": "සැක කරනවා",
+          "say": "සස්පෙක්ට්"
+        },
+        {
+          "en": "confess",
+          "si": "පිළිගන්නවා (වැරැද්ද)",
+          "say": "කන්ෆෙස්"
+        },
+        {
+          "en": "anonymous",
+          "si": "නම නොකියන",
+          "say": "අනොනිමස්"
+        },
+        {
+          "en": "mystery",
+          "si": "රහස",
+          "say": "මිස්ට්‍රි"
+        }
+      ]
+    },
+    {
+      "type": "story",
+      "title": "The Cake in the Staff Room",
+      "titleSi": "කාර්යාල කාමරයේ තිබූ කේක් එක",
+      "introSi": "රහසක් ගැන කතාවක් — කවුද කළේ කියලා කවුරුවත් දන්නේ නෑ. someone, anyone, no one, everyone එනවා, බලාගෙන කියවන්න.",
+      "paragraphs": [
+        {
+          "en": "On Friday morning, someone left a cake in the staff room with a note: \"For anyone who has a hard week. No name needed.\"",
+          "si": "සිකුරාදා උදේ, කවුරුහරි කාර්යාල කාමරයේ කේක් එකක් තිබුවා, සටහනක් සමඟ: \"අමාරු සතියක් ගත කරන ඕනෑම කෙනෙකුට. නම අවශ්‍ය නෑ.\""
+        },
+        {
+          "en": "By lunchtime, everyone had heard about it, and almost everybody had eaten a piece. Nobody knew who had made it.",
+          "si": "දහවල් කෑම වෙලාවට, හැමෝම ඒක ගැන අහලා තිබුණා, සහ මුළුමනින්ම කිව්වොත් හැමෝම වගේ එකක් කාලා තිබුණා. ඒක හැදුවේ කවුද කියලා කවුරුවත් දැනගෙන හිටියේ නෑ."
+        },
+        {
+          "en": "\"Does anyone recognise the handwriting?\" Priya asked. No one did. \"It could be someone from another floor,\" she said.",
+          "si": "\"අකුර කාටහරි හඳුනාගන්න පුළුවන්ද?\" ප්‍රියා ඇහුවා. කවුරුවත් හඳුනාගත්තේ නෑ. \"මේක වෙන තට්ටුවක කවුරුහරි වෙන්නත් පුළුවන්,\" එයා කිව්වා."
+        },
+        {
+          "en": "Three people said they suspected someone. Two of them suspected the same person, who was, in fact, on leave that day and could not have baked anything.",
+          "si": "තුන්දෙනෙක් කිව්වා තමන් කවුරුහරි කෙනෙකුට සැක කරනවා කියලා. ඒ අතරින් දෙන්නෙක් සැක කළේ එකම කෙනෙකුට, ඇත්තටම ඒ කෙනා ඒ දවසේ නිවාඩුවේ හිටියා, කිසිවක් හදන්න බැරි."
+        },
+        {
+          "en": "Nobody found the answer that day, or the next. Then, three weeks later, another cake appeared, with the same handwriting: \"For everyone. Still no name.\"",
+          "si": "ඒ දවසේවත් ඊළඟ දවසේවත් කවුරුවත් පිළිතුර හොයාගත්තේ නෑ. ඊට පස්සේ, සති තුනකින්, තව කේක් එකක් තිබුණා, එකම අකුරෙන්: \"හැමෝටම. තාමත් නමක් නෑ.\""
+        },
+        {
+          "en": "By now, most people had stopped guessing. Somebody was doing something kind, again and again, and did not want anyone to know. That, everyone agreed, was the nicest part.",
+          "si": "දැන් වෙනකොට, බොහෝ දෙනෙක් අනුමාන කිරීම නැවැත්තුවා. කවුරුහරි කරුණාවන්ත දෙයක් නැවත නැවත කරමින් හිටියා, කවුරුවත් දැනගන්න ඕන නෑ. ඒක තමයි වඩාත්ම ලස්සන කොටස කියලා හැමෝම එකඟ වුණා."
+        }
+      ],
+      "glossary": [
+        {
+          "en": "staff room",
+          "si": "කාර්යාල කාමරය"
+        },
+        {
+          "en": "note",
+          "si": "සටහන"
+        },
+        {
+          "en": "recognise",
+          "si": "හඳුනාගන්නවා"
+        },
+        {
+          "en": "handwriting",
+          "si": "අකුර"
+        },
+        {
+          "en": "on leave",
+          "si": "නිවාඩුවේ"
+        },
+        {
+          "en": "bake",
+          "si": "(කේක් වගේ දෙයක්) හදනවා"
+        },
+        {
+          "en": "appear",
+          "si": "පෙනී එනවා"
+        },
+        {
+          "en": "guess",
+          "si": "අනුමාන කරනවා"
+        }
+      ],
+      "questionsSi": [
+        "සටහනේ තිබූ පණිවුඩය කුමක්ද?",
+        "අකුර හඳුනාගත්තේ කවුද?",
+        "සැක කළ කෙනාට ඇත්තටම කේක් හදන්න බැරි වුණේ ඇයි?",
+        "අන්තිම ඡේදයෙන් කියවෙන්නේ මොකක්ද?"
+      ]
+    },
+    {
+      "type": "poem",
+      "title": "Nobody Saw",
+      "titleSi": "කවුරුවත් දැක්කේ නෑ",
+      "introSi": "සරල කවියක් — someone, no one, everyone පේළි පුරාවටම එනවා.",
+      "lines": [
+        {
+          "en": "Someone waters the plant by the gate.",
+          "si": "ගේට්ටුව ළඟ ගසට කවුරුහරි වතුර දානවා."
+        },
+        {
+          "en": "No one has ever seen who.",
+          "si": "කවුද කියලා කවුරුවත් කවදාවත් දැක්කේ නෑ."
+        },
+        {
+          "en": "Every morning it's greener than yesterday —",
+          "si": "හැම උදෑසනකම ඊයේට වඩා කොළයි —"
+        },
+        {
+          "en": "Someone is caring for you.",
+          "si": "කවුරුහරි ඔබ ගැන සැලකිලිමත් වෙනවා."
+        },
+        {
+          "en": "",
+          "si": ""
+        },
+        {
+          "en": "Everyone wants to be thanked for the good —",
+          "si": "හැමෝටම ඕන හොඳ දේට ස්තූතියක් ලැබෙන්න —"
+        },
+        {
+          "en": "Nobody wants to be seen.",
+          "si": "කවුරුවත්ම ඕන නෑ පේන්න."
+        },
+        {
+          "en": "So somebody, quietly, every single day,",
+          "si": "එනිසා කවුරුහරි, නිශ්ශබ්දව, හැම දාම,"
+        },
+        {
+          "en": "Keeps something alive and green.",
+          "si": "යමක් ජීවත් කරවනවා, කොළ පාටින්."
+        }
+      ],
+      "noteSi": "'Someone waters', 'No one has seen', 'Everyone wants' — හැම එකකටම -s තියෙනවා, තනි ක්‍රියාවක් විදිහට."
+    },
+    {
+      "type": "dialogue",
+      "title": "Whose umbrella is this?",
+      "titleSi": "මේ කුඩය කාගේද?",
+      "settingSi": "නොදන්නා යමක් ගැන කථා කිරීම. some-/any-/no one/everyone යෙදෙන තැන් බලන්න.",
+      "lines": [
+        {
+          "speaker": "Rukshan",
+          "en": "Someone left an umbrella under my desk. Is it yours?",
+          "si": "කවුරුහරි කුඩයක් මගේ මේසය යට තියලා ගිහින්. ඔබේ ද?"
+        },
+        {
+          "speaker": "Amaya",
+          "en": "No, it isn't mine. Did anyone say anything about a missing umbrella?",
+          "si": "නෑ, මගේ නෙවෙයි. නැති වුණ කුඩයක් ගැන කවුරුහරි යමක් කිව්වද?"
+        },
+        {
+          "speaker": "Rukshan",
+          "en": "Not that I heard. Everyone in this office has a black one, so it could belong to anyone.",
+          "si": "මට ඇහුණේ නෑ. මේ කාර්යාලයේ හැමෝටම කළු එකක් තියෙනවා, එනිසා ඕනෑම කෙනෙකුගේ එකක් වෙන්නත් පුළුවන්."
+        },
+        {
+          "speaker": "Amaya",
+          "en": "Ask Nimal. If anyone knows, it's him — he notices everything.",
+          "si": "නිමල්ගෙන් අහන්න. කවුරුහරි දන්නවා නම්, ඒ එයායි — එයාට හැම දෙයක්ම පේනවා."
+        },
+        {
+          "speaker": "Rukshan",
+          "en": "Nimal? Nobody tells Nimal anything, he just finds out.",
+          "si": "නිමල්ද? කවුරුවත් නිමල්ට කිසිවක් කියන්නේ නෑ, එයාම හොයාගන්නවා."
+        },
+        {
+          "speaker": "Amaya",
+          "en": "True. Well, let's leave it on the shelf. Someone will claim it eventually.",
+          "si": "ඇත්ත. හරි, එහෙනම් රාක්කයේ තියමු. කවුරුහරි අන්තිමට ඒක ගන්නවා."
+        }
+      ]
+    },
+    {
+      "type": "practice",
+      "title": "someone, anyone, no one or everyone?",
+      "titleSi": "someone, anyone, no one නැත්නම් everyone?",
+      "instructionSi": "වාක්‍යය ධනාත්මකද, ප්‍රශ්නයක්ද, නැහැයක්ද කියලා බලන්න.",
+      "items": [
+        {
+          "prompt": "___ is at the door. Can you check?",
+          "answer": "Someone",
+          "hintSi": "ධනාත්මක — some-.",
+          "full": "Someone is at the door. Can you check?"
+        },
+        {
+          "prompt": "Is ___ home?",
+          "answer": "anyone",
+          "hintSi": "ප්‍රශ්නය — any-.",
+          "full": "Is anyone home?"
+        },
+        {
+          "prompt": "___ told me about the meeting. I found out too late.",
+          "answer": "No one",
+          "hintSi": "නැහැ, දැනටමත් negative.",
+          "full": "No one told me about the meeting. I found out too late."
+        },
+        {
+          "prompt": "___ enjoyed the trip — even the ones who complained.",
+          "answer": "Everyone",
+          "hintSi": "හැමෝම.",
+          "full": "Everyone enjoyed the trip — even the ones who complained."
+        },
+        {
+          "prompt": "I don't know ___ in this city.",
+          "answer": "anyone",
+          "hintSi": "'don't' + any-.",
+          "full": "I don't know anyone in this city."
+        },
+        {
+          "prompt": "___ left their bag on the bus.",
+          "answer": "Someone",
+          "hintSi": "ධනාත්මක, ඊට පස්සේ 'their'.",
+          "full": "Someone left their bag on the bus."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "en": "someone",
+      "si": "කවුරුහරි"
+    },
+    {
+      "en": "anyone",
+      "si": "කවුරුත්"
+    },
+    {
+      "en": "no one",
+      "si": "කවුරුවත් නෑ"
+    },
+    {
+      "en": "everyone",
+      "si": "හැමෝම"
+    },
+    {
+      "en": "stranger",
+      "si": "නොදන්නා කෙනා"
+    },
+    {
+      "en": "in particular",
+      "si": "විශේෂයෙන්"
+    },
+    {
+      "en": "each other",
+      "si": "එකිනෙකා"
+    },
+    {
+      "en": "note",
+      "si": "සටහන"
+    },
+    {
+      "en": "handwriting",
+      "si": "අකුර"
+    },
+    {
+      "en": "guess",
+      "si": "අනුමාන කරනවා"
+    },
+    {
+      "en": "leave",
+      "si": "අතහැර යනවා"
+    },
+    {
+      "en": "claim",
+      "si": "ඉල්ලනවා"
+    },
+    {
+      "en": "suspect",
+      "si": "සැක කරනවා"
+    },
+    {
+      "en": "confess",
+      "si": "පිළිගන්නවා"
+    },
+    {
+      "en": "anonymous",
+      "si": "නම නොකියන"
+    },
+    {
+      "en": "mystery",
+      "si": "රහස"
+    },
+    {
+      "en": "recognise",
+      "si": "හඳුනාගන්නවා"
+    },
+    {
+      "en": "appear",
+      "si": "පෙනී එනවා"
+    },
+    {
+      "en": "on leave",
+      "si": "නිවාඩුවේ"
+    },
+    {
+      "en": "bake",
+      "si": "හදනවා (කේක් වගේ)"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "a2-06-q1",
+      "q": "'කවුරුහරි දොර ළඟ ඉන්නවා' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "Someone are at the door.",
+        "Someone is at the door.",
+        "Anyone is at the door.",
+        "Someone is at the door?"
+      ],
+      "answer": 1,
+      "explainSi": "ධනාත්මක වාක්‍යයක් — 'someone', සහ තනි ක්‍රියාවක් නිසා 'is'.",
+      "speak": "Someone is at the door."
+    },
+    {
+      "id": "a2-06-q2",
+      "q": "'Everyone like her' වැරදි වන්නේ ඇයි?",
+      "options": [
+        "'Everyone' බහුවචනයක් නිසා 'like' හරි",
+        "'Everyone' තනි වචනයක් ලෙස සලකන නිසා ක්‍රියාවට -s ඕන — 'likes'",
+        "'her' වෙනුවට 'she' විය යුතු නිසා",
+        "වැරදි නෑ"
+      ],
+      "answer": 1,
+      "explainSi": "අර්ථය බහුවචනයක් වගේ දැනුණත්, 'everyone' ව්‍යාකරණයෙන් තනි කෙනෙක්."
+    },
+    {
+      "id": "a2-06-q3",
+      "q": "'Somebody knows the answer' — 'knows' යෙදෙන්නේ ඇයි 'know' නොවේ?",
+      "options": [
+        "'somebody' he/she/it වගේ තනි වචනයක් නිසා",
+        "'answer' නාම පදයක් නිසා",
+        "එය ප්‍රශ්නයක් නිසා",
+        "වැරදියි, 'know' විය යුතුයි"
+      ],
+      "answer": 0,
+      "explainSi": "a1-09 හි නීතියම මෙතනටත්: he/she/it (සහ මේ වචනත්) සමඟ -s."
+    },
+    {
+      "id": "a2-06-q4",
+      "q": "'someone' සහ 'somebody' අතර වෙනස කුමක්ද?",
+      "options": [
+        "'somebody' වඩා ආචාරශීලීයි",
+        "වෙනසක් නෑ — එකම වචනයේ ස්වරූප දෙකක්",
+        "'someone' ලියද්දී විතරයි යෙදෙන්නේ",
+        "'somebody' බහුවචනය"
+      ],
+      "answer": 1,
+      "explainSi": "-one සහ -body හැම යුගලයකම එකම අර්ථය: someone=somebody, anyone=anybody, ආදිය."
+    },
+    {
+      "id": "a2-06-q5",
+      "q": "'රියදුරෙක් ඉන්නවාද?' — ප්‍රශ්නයට ගැළපෙන වචනය?",
+      "options": [
+        "someone",
+        "anyone",
+        "no one",
+        "everyone"
+      ],
+      "answer": 1,
+      "explainSi": "ප්‍රශ්නයකට 'any-'.",
+      "speak": "Is there anyone who can drive?"
+    },
+    {
+      "id": "a2-06-q6",
+      "q": "'කවුරුහරි උදව් කරන්න පුළුවන්ද?' — ආචාරශීලී ඉල්ලීමකට ගැළපෙන වචනය?",
+      "options": [
+        "someone",
+        "anyone",
+        "no one",
+        "nothing"
+      ],
+      "answer": 0,
+      "explainSi": "ඉල්ලීමක්/ආරාධනාවක් නම් ප්‍රශ්නයක් වුණත් 'some-' වඩා ස්වාභාවික.",
+      "speak": "Could someone help me with this bag?"
+    },
+    {
+      "id": "a2-06-q7",
+      "q": "'I don't know no one here' වැරදි වන්නේ ඇයි?",
+      "options": [
+        "'here' අන්තිමට යා නොහැකි නිසා",
+        "'no one' එකේම 'නෑ' කියන අර්ථය තියෙනවා — 'don't' එක්කත් යෙදුවම දෙපාරක් නැහැ කියනවා",
+        "'know' වැරදි ස්වරූපය නිසා",
+        "'no one' ලියද්දී විතරයි යෙදෙන්නේ"
+      ],
+      "answer": 1,
+      "explainSi": "'I don't know anyone' හෝ 'I know no one' — දෙකෙන් එකක් තෝරන්න, දෙකම එකට යොදන්න බෑ."
+    },
+    {
+      "id": "a2-06-q8",
+      "q": "'මෙතන මම කාවවත් දන්නේ නෑ' — නිවැරදි ක්‍රම දෙක?",
+      "options": [
+        "I don't know no one here. / I know no one here.",
+        "I know no one here. / I don't know anyone here.",
+        "I don't know someone here. / I know anyone here.",
+        "I no know anyone here. / I don't no one here."
+      ],
+      "answer": 1,
+      "explainSi": "'no one' + ධනාත්මක ක්‍රියාව, හෝ 'don't' + 'anyone' — දෙකම නිවැරදියි.",
+      "speak": "I know no one here. I don't know anyone here."
+    },
+    {
+      "id": "a2-06-q9",
+      "q": "'Someone left ___ umbrella.' — හිස්තැනට ගැළපෙන්නේ?",
+      "options": [
+        "his",
+        "her",
+        "their",
+        "its"
+      ],
+      "answer": 2,
+      "explainSi": "'someone' ගේ ස්ත්‍රී පුරුෂ භාවය නොදන්නා නිසා 'their' යෙදෙනවා.",
+      "speak": "Someone left their umbrella."
+    },
+    {
+      "id": "a2-06-q10",
+      "q": "'their' යෙදෙන්නේ ඇයි 'his or her' නොවේ?",
+      "options": [
+        "'their' වැරදියි",
+        "'someone' කවුද කියලා නොදන්නා නිසා, 'their' කථා බස් ඉංග්‍රීසියේ සම්මත ක්‍රමය",
+        "'someone' බහුවචනයක් නිසා",
+        "වෙනසක් නෑ"
+      ],
+      "answer": 1,
+      "explainSi": "'his or her' දිගයි. 'they/their' සරලයි, සම්මතයි."
+    },
+    {
+      "id": "a2-06-q11",
+      "context": "On Friday morning, someone left a cake in the staff room with a note: \"For anyone who has a hard week. No name needed.\"",
+      "contextSi": "සිකුරාදා උදේ, කවුරුහරි කාර්යාල කාමරයේ කේක් එකක් තිබුවා, සටහනක් සමඟ: \"අමාරු සතියක් ගත කරන ඕනෑම කෙනෙකුට. නම අවශ්‍ය නෑ.\"",
+      "q": "කතාව අනුව: කේක් එක තැබුවේ කාටද?",
+      "options": [
+        "එක්කෙනෙකුට විතරයි",
+        "අමාරු සතියක් තියෙන ඕනෑම කෙනෙකුට",
+        "ප්‍රියාට විතරයි",
+        "කාටවත් නෑ"
+      ],
+      "answer": 1,
+      "explainSi": "'For anyone who has a hard week' — නිශ්චිත කෙනෙක් නෙවෙයි, කවුරුහරි."
+    },
+    {
+      "id": "a2-06-q12",
+      "context": "By lunchtime, everyone had heard about it, and almost everybody had eaten a piece. Nobody knew who had made it.",
+      "contextSi": "දහවල් කෑම වෙලාවට, හැමෝම ඒක ගැන අහලා තිබුණා, සහ මුළුමනින්ම කිව්වොත් හැමෝම වගේ එකක් කාලා තිබුණා. ඒක හැදුවේ කවුද කියලා කවුරුවත් දැනගෙන හිටියේ නෑ.",
+      "q": "කතාව අනුව: කේක් හැදුවේ කවුද කියලා දැනගෙන හිටියේ කී දෙනෙක්ද?",
+      "options": [
+        "හැමෝම",
+        "කිහිප දෙනෙක්",
+        "කවුරුවත් නෑ",
+        "එක් අයෙක්"
+      ],
+      "answer": 2,
+      "explainSi": "'Nobody knew who had made it.'"
+    },
+    {
+      "id": "a2-06-q13",
+      "context": "\"Does anyone recognise the handwriting?\" Priya asked. No one did.",
+      "contextSi": "\"අකුර කාටහරි හඳුනාගන්න පුළුවන්ද?\" ප්‍රියා ඇහුවා. කවුරුවත් හඳුනාගත්තේ නෑ.",
+      "q": "කතාව අනුව: 'Does anyone recognise the handwriting?' ප්‍රශ්නයට පිළිතුර කුමක්ද?",
+      "options": [
+        "ඔව්, එක් අයෙක්",
+        "ඔව්, කිහිප දෙනෙක්",
+        "නෑ, කවුරුවත් හඳුනාගත්තේ නෑ",
+        "ප්‍රියා විතරයි"
+      ],
+      "answer": 2,
+      "explainSi": "'No one did' — ප්‍රශ්නයේ 'anyone' පිළිතුරේ 'no one' බවට."
+    },
+    {
+      "id": "a2-06-q14",
+      "context": "Three people said they suspected someone. Two of them suspected the same person, who was, in fact, on leave that day and could not have baked anything.",
+      "contextSi": "තුන්දෙනෙක් කිව්වා තමන් කවුරුහරි කෙනෙකුට සැක කරනවා කියලා. ඒ අතරින් දෙන්නෙක් සැක කළේ එකම කෙනෙකුට, ඇත්තටම ඒ කෙනා ඒ දවසේ නිවාඩුවේ හිටියා, කිසිවක් හදන්න බැරි.",
+      "q": "කතාව අනුව: සැක කළ කෙනාට කේක් හදන්න බැරි වුණේ ඇයි?",
+      "options": [
+        "එයාට උයන්න බැරි නිසා",
+        "එයා ඒ දවසේ නිවාඩුවේ හිටි නිසා",
+        "එයාට කැමති නොවූ නිසා",
+        "එයා වෙන කෙනෙක් සැක කළ නිසා"
+      ],
+      "answer": 1,
+      "explainSi": "'on leave that day and could not have baked anything' — ඒ කෙනා එතන හිටියේවත් නෑ."
+    },
+    {
+      "id": "a2-06-q15",
+      "context": "Then, three weeks later, another cake appeared, with the same handwriting: \"For everyone. Still no name.\"",
+      "contextSi": "ඊට පස්සේ, සති තුනකින්, තව කේක් එකක් තිබුණා, එකම අකුරෙන්: \"හැමෝටම. තාමත් නමක් නෑ.\"",
+      "q": "කතාව අනුව: දෙවෙනි කේක් එකෙන් අපිට තේරෙන්නේ මොකක්ද?",
+      "options": [
+        "එයා අන්තිමට අල්ලා ගැනුනා",
+        "එය එකපාරක් වූ දෙයක් නෙවෙයි — කවුරුහරි එය පුරුද්දක් කරගෙන",
+        "කේක් වෙනස් කෙනෙකුගෙන්",
+        "හැමෝම දැන් අකුර හඳුනාගත්තා"
+      ],
+      "answer": 1,
+      "explainSi": "'the same handwriting' — එකම කෙනා, නැවතත්."
+    },
+    {
+      "id": "a2-06-q16",
+      "context": "Somebody was doing something kind, again and again, and did not want anyone to know. That, everyone agreed, was the nicest part.",
+      "contextSi": "කවුරුහරි කරුණාවන්ත දෙයක් නැවත නැවත කරමින් හිටියා, කවුරුවත් දැනගන්න ඕන නෑ. ඒක තමයි වඩාත්ම ලස්සන කොටස කියලා හැමෝම එකඟ වුණා.",
+      "q": "කතාව අනුව: 'වඩාත්ම ලස්සන කොටස' කුමක්ද?",
+      "options": [
+        "කේක් රසවත් වීම",
+        "කරුණාවන්තකම කීර්තියක් අපේක්ෂා නොකිරීම",
+        "හැමෝම හඳුනාගැනීම",
+        "සතියකට වරක් කේක් ලැබීම"
+      ],
+      "answer": 1,
+      "explainSi": "'did not want anyone to know' — නම නොකියා යමක් කිරීමම තමයි ලස්සන කොටස."
+    },
+    {
+      "id": "a2-06-q17",
+      "context": "Someone waters the plant by the gate. / No one has ever seen who. / Every morning it's greener than yesterday — / Someone is caring for you.",
+      "contextSi": "ගේට්ටුව ළඟ ගසට කවුරුහරි වතුර දානවා. / කවුද කියලා කවුරුවත් කවදාවත් දැක්කේ නෑ. / හැම උදෑසනකම ඊයේට වඩා කොළයි — / කවුරුහරි ඔබ ගැන සැලකිලිමත් වෙනවා.",
+      "q": "කවියේ පළමු කොටසේ අදහස කුමක්ද?",
+      "options": [
+        "ගස තනියම වැඩෙනවා",
+        "කවුරුහරි නිතරම, නොපෙනී, සැලකිලිමත් වෙනවා",
+        "ගේට්ටුව කැඩිලා",
+        "කවුරුවත් ගස බලන්නේ නෑ"
+      ],
+      "answer": 1,
+      "explainSi": "'No one has ever seen who' — කවුද කියලා පේන්නේ නෑ, නමුත් වැඩේ සිද්ධ වෙනවා."
+    },
+    {
+      "id": "a2-06-q18",
+      "context": "Everyone wants to be thanked for the good — / Nobody wants to be seen. / So somebody, quietly, every single day, / Keeps something alive and green.",
+      "contextSi": "හැමෝටම ඕන හොඳ දේට ස්තූතියක් ලැබෙන්න — / කවුරුවත්ම ඕන නෑ පේන්න. / එනිසා කවුරුහරි, නිශ්ශබ්දව, හැම දාම, / යමක් ජීවත් කරවනවා, කොළ පාටින්.",
+      "q": "කවියේ අන්තිම කොටසේ 'Everyone … Nobody …' යන පේළි දෙකේ ප්‍රතිවිරෝධය කුමක්ද?",
+      "options": [
+        "හැමෝටම ස්තූතිය ඕන, නමුත් මේ කෙනාට ඕන නෑ පේන්න",
+        "හැමෝටම ඕන පේන්න",
+        "කවුරුවත් ස්තූතියක් ඕන කරන්නේ නෑ",
+        "ප්‍රතිවිරෝධයක් නෑ"
+      ],
+      "answer": 0,
+      "explainSi": "පොදුවේ මිනිස්සු ස්තූතියක් බලාපොරොත්තු වෙනවා. මේ කෙනා ඊට වෙනස්."
+    },
+    {
+      "id": "a2-06-q19",
+      "context": "Rukshan: Everyone in this office has a black one, so it could belong to anyone.",
+      "contextSi": "රුක්ෂාන්: මේ කාර්යාලයේ හැමෝටම කළු එකක් තියෙනවා, එනිසා ඕනෑම කෙනෙකුගේ එකක් වෙන්නත් පුළුවන්.",
+      "q": "සංවාදයේ: කුඩය කාගේද කියලා දැනගන්න අමාරු වන්නේ ඇයි?",
+      "options": [
+        "කුඩය කැඩිලා",
+        "හැමෝගේම කුඩ කළු පාට නිසා, එකින් එක වෙනස් කරගන්න බැරි",
+        "කාර්යාලයේ කුඩ නෑ",
+        "රුක්ෂාන්ට කුඩය අවශ්‍ය නෑ"
+      ],
+      "answer": 1,
+      "explainSi": "'Everyone … has a black one' — ලකුණක් නැති නිසා අයිතිකරු තෝරාගන්න බෑ."
+    },
+    {
+      "id": "a2-06-q20",
+      "context": "Amaya: Ask Nimal. If anyone knows, it's him — he notices everything.\nRukshan: Nimal? Nobody tells Nimal anything, he just finds out.",
+      "contextSi": "අමායා: නිමල්ගෙන් අහන්න. කවුරුහරි දන්නවා නම්, ඒ එයායි — එයාට හැම දෙයක්ම පේනවා.\nරුක්ෂාන්: නිමල්ද? කවුරුවත් නිමල්ට කිසිවක් කියන්නේ නෑ, එයාම හොයාගන්නවා.",
+      "q": "සංවාදයේ: නිමල් ගැන කියවෙන්නේ මොකක්ද?",
+      "options": [
+        "එයාට කිසිවක් නොදනිතියි",
+        "එයාට කවුරුවත් තොරතුරු නොදුන්නත්, එයාම දේවල් හඳුනාගන්නවා",
+        "කවුරුවත් එයාට කථා කරන්නේ නෑ",
+        "එයා කුඩය සොරකම් කළා"
+      ],
+      "answer": 1,
+      "explainSi": "'Nobody tells Nimal anything, he just finds out.' — නොකියුවත් එයා දැනගන්නවා."
+    },
+    {
+      "id": "a2-06-q21",
+      "q": "කුමන වාක්‍යය වැරදිද?",
+      "options": [
+        "Everyone likes her.",
+        "No one knows the answer.",
+        "Somebody know the truth.",
+        "Is anyone home?"
+      ],
+      "answer": 2,
+      "explainSi": "'Somebody knows the truth' විය යුතුයි — 'somebody' තනි වචනයක්."
+    },
+    {
+      "id": "a2-06-q22",
+      "q": "'මට කිසිවෙක් නොදුන්නා' යන අර්ථය දිය හැකි නිවැරදි වාක්‍ය දෙක?",
+      "options": [
+        "Nobody gave me anything. / No one gave me anything.",
+        "Nobody didn't give me anything. / Everybody gave me nothing.",
+        "Anybody gave me nothing. / No one didn't give me.",
+        "Somebody gave me nothing. / Nobody gave me something."
+      ],
+      "answer": 0,
+      "explainSi": "'Nobody' සහ 'No one' දෙකම එකම අර්ථය, දෙකම ධනාත්මක ක්‍රියාවක් සමඟ.",
+      "speak": "Nobody gave me anything."
+    }
+  ]
+}

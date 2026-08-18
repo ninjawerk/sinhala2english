@@ -1,0 +1,785 @@
+{
+  "hero": {
+    "src": "images/b1-24-hero.webp",
+    "alt": "Ruwan holding a paperback open at the last page in a cinema seat, the screen dark, empty seats around him."
+  },
+  "goalsSi": [
+    "චිත්‍රපටියක් හෝ පොතක් ගැන කථා කරන්න",
+    "කතාව කියන්න — 'It's about…', 'It's set in…'",
+    "ඔබේ අදහස කියන්න — ඇයි කැමති, ඇයි නෑ",
+    "නළු නිළියන් සහ අවසානය ගැන කියන්න",
+    "නිර්දේශයක් කරන්න",
+    "අවසානය හෙළි නොකර කථා කරන්න"
+  ],
+  "goals": [
+    "Talk about a film or a book",
+    "Give the plot with It's about and It's set in",
+    "Say why you did or did not like it",
+    "Talk about the acting and the ending",
+    "Recommend it to someone",
+    "Talk about it without spoiling the ending"
+  ],
+  "sections": [
+    {
+      "type": "note",
+      "title": "The most common small talk there is",
+      "titleSi": "බහුලම කුඩා කථාව",
+      "bodySi": "'Have you seen anything good lately?'\n\nඉංග්‍රීසි කථා කරන අය අලුත් කෙනෙක් හම්බ වුණාම අහන පළවෙනි ප්‍රශ්න පහෙන් එකක් මේකයි. කාලගුණය, ගමන, වැඩ, පවුල — සහ මේක.\n\nඑතකොට උත්තර දෙන්න ඕන. ඒත් චිත්‍රපටියක් ගැන කථා කරන එකට වෙනම වචන කට්ටලයක් ඕන:\n\n'It's about a woman who goes back to her village.'\n'It's set in the 1980s.'\n'The acting was brilliant.'\n'It had a happy ending.'\n'If you like slow films, you'll like it.'\n\nCEFR B1 හි මේකට වෙනම කොටසක් — 'Talking about films and books'. ඒක තියෙන්නේ මේක භාෂාවක් ලෙස වෙනම කුසලතාවක් නිසා: කතාවක් සාරාංශ කරන එක, ඔයාගේ අදහස දෙන එක, අවසානය හෙළි නොකර ඒක කරන එක.\n\nතව එකක් — කතාව කියනකොට ඉංග්‍රීසියෙන් වර්තමාන කාලය යොදනවා. ඒක ලංකාවේ ඉගෙන ගන්න අයට අමුතුයි. 'It's about a woman who goes…' — 'went' නෙවෙයි.",
+      "body": "Have you seen anything good lately? is one of the five most common openers in English. Answering it well needs its own set of words."
+    },
+    {
+      "type": "grammar",
+      "title": "What it is about",
+      "titleSi": "ඒක මොකක් ගැනද",
+      "explainSi": "කතාව කියන්න මූලික කෑලි:\n\nIt's about + නාම පදය / -ing\n'It's about a family in the war.'\n'It's about growing up in a small town.'\n\nIt's about + කෙනෙක් + who…\n'It's about a woman who loses her memory.'\n'It's about two brothers who haven't spoken for years.'\n\nIt's set in + තැන / කාලය\n'It's set in Jaffna.'\n'It's set in the 1970s.'\n'It's set in a village near the border.'\n\nIt's based on…\n'It's based on a true story.'\n'It's based on a novel by Michael Ondaatje.'\n\nවැදගත්ම කරුණ: කතාව කියනකොට වර්තමාන කාලය. ඒක ඉංග්‍රීසි සම්මතයක්.\n\n✓ 'A man finds a letter and goes to look for the writer.'\n✗ 'A man found a letter and went to look for the writer.'\n\nඒත් ඔයාගේ අත්දැකීම ගැන කථා කරනකොට අතීතය: 'I saw it last week and I loved it.'\n\nදෙක එකට: 'I saw it last week. It's about a boy who runs away.'",
+      "explain": "It's about, it's set in, it's based on. Retell the plot in the present tense, even though you watched it in the past.",
+      "formula": "It's about + …  ·  It's set in + …  ·  It's based on + …",
+      "table": {
+        "headers": [
+          "අවශ්‍යතාව",
+          "යෙදුම",
+          "උදාහරණය"
+        ],
+        "rows": [
+          [
+            "කතාව",
+            "It's about…",
+            "It's about a woman who…"
+          ],
+          [
+            "තැන/කාලය",
+            "It's set in…",
+            "It's set in the 1980s."
+          ],
+          [
+            "මූලාශ්‍රය",
+            "It's based on…",
+            "It's based on a true story."
+          ],
+          [
+            "වර්ගය",
+            "It's a…",
+            "It's a thriller. / It's a comedy."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "It's about a teacher who moves to a village school.",
+          "si": "ඒක ගමේ ඉස්කෝලයකට යන ගුරුවරයෙක් ගැන."
+        },
+        {
+          "en": "It's set in Colombo, just after the war.",
+          "si": "ඒක යුද්ධෙට පස්සේ කොළඹ."
+        },
+        {
+          "en": "It's based on a book, but they changed the ending.",
+          "si": "ඒක පොතක් ඇසුරෙන්, ඒත් අවසානය මාරු කරලා."
+        }
+      ],
+      "watchOutSi": "'It's talking about…' කියන එක වැරදියි. පොතක් හෝ චිත්‍රපටියක් 'talk' කරන්නේ නෑ. 'It's about…' කියන්න."
+    },
+    {
+      "type": "grammar",
+      "title": "What you thought of it",
+      "titleSi": "ඔයාට මොකද හිතුණේ",
+      "explainSi": "අදහස දෙන්න වචන — හොඳ ඉඳන් නරක දක්වා:\n\nහොඳයි:\n'It was brilliant.' / 'It was excellent.'\n'I really enjoyed it.'\n'I couldn't put it down.' (පොතකට — තියන්න බැරි වුණා)\n'It's worth seeing.'\n\nසාමාන්‍යයි:\n'It was all right.'\n'It was OK, nothing special.'\n'It had its moments.' (හොඳ තැන් තිබුණා)\n\nනරකයි:\n'I didn't really like it.'\n'It was a bit slow.'\n'It was hard to follow.' (තේරුම් ගන්න අමාරු)\n'I gave up halfway through.'\n\nහේතුව දෙන්න — ඒක නැත්නම් අදහස අඩුයි:\n'I liked it because the characters felt real.'\n'I didn't like it because nothing happened for an hour.'\n\nවිශේෂ කොටස්:\n'The acting was superb.' — රංගනය\n'The photography was beautiful.' — කැමරාව\n'The music stayed with me.' — සංගීතය\n'The dialogue was funny.' — දෙබස්\n'It had a happy ending.' / 'The ending was sad.'\n\n'It had its moments' කියන එක ප්‍රයෝජනවත් — ඒක 'සම්පූර්ණයෙන් හොඳ නෑ, ඒත් හොඳ තැන් තිබුණා' කියන එක ආචාරශීලීව කියනවා.",
+      "explain": "Grade your verdict, then give the reason. Without a reason it is not an opinion, only a rating.",
+      "formula": "I liked / didn't like it because …",
+      "table": {
+        "headers": [
+          "මට්ටම",
+          "යෙදුම"
+        ],
+        "rows": [
+          [
+            "ඉතාම හොඳයි",
+            "It was brilliant. I couldn't put it down."
+          ],
+          [
+            "හොඳයි",
+            "I really enjoyed it. It's worth seeing."
+          ],
+          [
+            "සාමාන්‍යයි",
+            "It was all right. It had its moments."
+          ],
+          [
+            "නරකයි",
+            "It was a bit slow. It was hard to follow."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "I really enjoyed it, mainly because of the acting.",
+          "si": "මම ඒකට හරිම කැමතියි, ප්‍රධාන වශයෙන් රංගනය නිසා."
+        },
+        {
+          "en": "It was hard to follow — too many characters.",
+          "si": "ඒක තේරුම් ගන්න අමාරුයි — චරිත වැඩියි."
+        },
+        {
+          "en": "It had its moments, but it was too long.",
+          "si": "හොඳ තැන් තිබුණා, ඒත් ඒක ගොඩක් දිගයි."
+        }
+      ],
+      "watchOutSi": "'It was boring' කියන එක සෘජුයි, ඒත් තදයි. 'It was a bit slow for me' කියන එකෙන් එකම දේ මෘදුව කියනවා — b1-21 හි ඉගෙන ගත්ත මෘදු කිරීම."
+    },
+    {
+      "type": "grammar",
+      "title": "Recommending, without spoiling",
+      "titleSi": "අවසානය හෙළි නොකර නිර්දේශ කිරීම",
+      "explainSi": "නිර්දේශ කරන්න:\n'You should see it.'\n'I think you'd like it.'\n'If you like thrillers, you'll like this one.'\n'It's not for everyone, but I loved it.'\n\nඒ අන්තිම එක ප්‍රයෝජනවත් — ඒක අනිත් කෙනාට තෝරගන්න ඉඩ දෙනවා.\n\nනිර්දේශ නොකරන්න:\n'I wouldn't bother.' — මම නම් යන්නේ නෑ.\n'Wait until it's on television.' — ටීවී එකට එනකම් ඉන්න.\n\nඅවසානය හෙළි නොකර:\n\nඉංග්‍රීසියෙන් අවසානය කියන එකට වචනයක් තියෙනවා — spoiler. ඒක නරක දෙයක් කියලා සලකනවා, ඒ නිසා කථා කරන්න කලින් අහනවා:\n\n'Have you seen it? I don't want to spoil it.'\n'I won't say what happens.'\n'No spoilers — but the last twenty minutes are worth it.'\n'I can't tell you why, but stay until the end.'\n\nමේක සංස්කෘතික දෙයක්: කවුරු හරි තාම බලලා නැති දෙයක අවසානය කිව්වොත් ඒක අශිෂ්ට කියලා සලකනවා. ඒ නිසා 'Have you seen it?' කියලා අහන එක පුරුද්දක් කරගන්න.",
+      "explain": "Recommend by matching it to the person's taste. And ask before you discuss the ending — spoiling is treated as genuinely rude.",
+      "formula": "If you like X, you'll like this.  ·  I won't spoil it.",
+      "table": {
+        "headers": [
+          "අවශ්‍යතාව",
+          "යෙදුම"
+        ],
+        "rows": [
+          [
+            "නිර්දේශය",
+            "If you like…, you'll like this."
+          ],
+          [
+            "මෘදු නිර්දේශය",
+            "It's not for everyone, but I loved it."
+          ],
+          [
+            "නොනිර්දේශය",
+            "I wouldn't bother."
+          ],
+          [
+            "අවසානය ආරක්ෂා",
+            "No spoilers — but stay until the end."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "If you liked her first film, you'll like this one.",
+          "si": "ඔයා ඇයගේ පළවෙනි චිත්‍රපටියට කැමති නම්, මේකටත් කැමති වෙයි."
+        },
+        {
+          "en": "Have you finished it? I don't want to spoil the ending.",
+          "si": "ඔයා ඉවර කළාද? මට අවසානය කියලා නරක් කරන්න ඕන නෑ."
+        },
+        {
+          "en": "It's not for everyone, but I thought it was wonderful.",
+          "si": "ඒක හැමෝටම නෙවෙයි, ඒත් මට නම් ඒක අපූරුයි."
+        }
+      ],
+      "watchOutSi": "'Spoil' කියන ක්‍රියාවට තේරුම් දෙකක් — 'නරක් කරනවා' සහ 'අවසානය කියලා රසය නැති කරනවා'. දෙවෙනි එක නවීන යෙදුමක්, ඒත් හරිම බහුලයි."
+    },
+    {
+      "type": "vocab",
+      "title": "Films and books",
+      "titleSi": "චිත්‍රපටි සහ පොත්",
+      "introSi": "කුඩා කථාවකදී නිතරම එන වචන.",
+      "items": [
+        {
+          "en": "it's about",
+          "si": "ඒක ... ගැන",
+          "say": "ඉට්ස් අබවුට්",
+          "exampleEn": "It's about a family.",
+          "exampleSi": "ඒක පවුලක් ගැන."
+        },
+        {
+          "en": "it's set in",
+          "si": "ඒක සිද්ධ වෙන්නේ",
+          "say": "ඉට්ස් සෙට් ඉන්",
+          "exampleEn": "It's set in the 1980s.",
+          "exampleSi": "ඒක 1980 ගණන්වල."
+        },
+        {
+          "en": "based on",
+          "si": "ඇසුරෙන්",
+          "say": "බේස්ඩ් ඔන්",
+          "exampleEn": "Based on a true story.",
+          "exampleSi": "සත්‍ය කථාවක් ඇසුරෙන්."
+        },
+        {
+          "en": "plot",
+          "si": "කතාව",
+          "say": "ප්ලොට්",
+          "exampleEn": "The plot is simple.",
+          "exampleSi": "කතාව සරලයි."
+        },
+        {
+          "en": "character",
+          "si": "චරිතය",
+          "say": "කැරක්ටර්",
+          "exampleEn": "The characters felt real.",
+          "exampleSi": "චරිත ඇත්ත වගේ දැනුණා."
+        },
+        {
+          "en": "acting",
+          "si": "රංගනය",
+          "say": "ඇක්ටින්",
+          "exampleEn": "The acting was superb.",
+          "exampleSi": "රංගනය අපූරුයි."
+        },
+        {
+          "en": "ending",
+          "si": "අවසානය",
+          "say": "එන්ඩින්",
+          "exampleEn": "It had a happy ending.",
+          "exampleSi": "අවසානය සතුටුදායකයි."
+        },
+        {
+          "en": "hard to follow",
+          "si": "තේරුම් ගන්න අමාරු",
+          "say": "හාඩ් ටු ෆොලෝ",
+          "exampleEn": "It was hard to follow.",
+          "exampleSi": "ඒක තේරුම් ගන්න අමාරුයි."
+        },
+        {
+          "en": "worth seeing",
+          "si": "බලන්න වටිනවා",
+          "say": "වර්ත් සීයින්",
+          "exampleEn": "It's worth seeing.",
+          "exampleSi": "ඒක බලන්න වටිනවා."
+        },
+        {
+          "en": "couldn't put it down",
+          "si": "තියන්න බැරි වුණා",
+          "say": "කුඩ්න්ට් පුට් ඉට් ඩවුන්",
+          "exampleEn": "I couldn't put it down.",
+          "exampleSi": "මට ඒක තියන්න බැරි වුණා."
+        },
+        {
+          "en": "it had its moments",
+          "si": "හොඳ තැන් තිබුණා",
+          "say": "ඉට් හෑඩ් ඉට්ස් මෝමන්ට්ස්",
+          "exampleEn": "It had its moments.",
+          "exampleSi": "හොඳ තැන් තිබුණා."
+        },
+        {
+          "en": "spoiler",
+          "si": "අවසානය හෙළි කිරීම",
+          "say": "ස්පොයිලර්",
+          "exampleEn": "No spoilers, please.",
+          "exampleSi": "අවසානය කියන්න එපා."
+        },
+        {
+          "en": "novel",
+          "si": "නවකථාව",
+          "say": "නොවල්",
+          "exampleEn": "It's a novel, not a film.",
+          "exampleSi": "ඒක නවකථාවක්, චිත්‍රපටියක් නෙවෙයි."
+        },
+        {
+          "en": "thriller",
+          "si": "ත්‍රාසජනක",
+          "say": "ත්‍රිලර්",
+          "exampleEn": "I like a good thriller.",
+          "exampleSi": "මම හොඳ ත්‍රාසජනක එකකට කැමතියි."
+        },
+        {
+          "en": "documentary",
+          "si": "වාර්තා චිත්‍රපටිය",
+          "say": "ඩොකියුමෙන්ටරි",
+          "exampleEn": "It's a documentary about the sea.",
+          "exampleSi": "ඒක මුහුද ගැන වාර්තා චිත්‍රපටියක්."
+        },
+        {
+          "en": "recommend",
+          "si": "නිර්දේශ කරනවා",
+          "say": "රෙකමෙන්ඩ්",
+          "exampleEn": "I'd recommend it.",
+          "exampleSi": "මම ඒක නිර්දේශ කරනවා."
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "Seen anything good?",
+      "titleSi": "හොඳ දෙයක් බැලුවාද?",
+      "settingSi": "තේ බොමින්. චිත්‍රපටියක් ගැන කුඩා කථාවක් — කතාව, අදහස, නිර්දේශය.",
+      "lines": [
+        {
+          "speaker": "Nadeesha",
+          "en": "Have you seen anything good lately?",
+          "si": "ළඟදී හොඳ දෙයක් බැලුවාද?"
+        },
+        {
+          "speaker": "Ruwan",
+          "en": "I watched a Sinhala film on Sunday. It's about a bus driver who finds a bag of money.",
+          "si": "ඉරිදා මම සිංහල චිත්‍රපටියක් බැලුවා. ඒක සල්ලි බෑග් එකක් හම්බ වෙන බස් රියදුරෙක් ගැන."
+        },
+        {
+          "speaker": "Nadeesha",
+          "en": "Where's it set?",
+          "si": "ඒක සිද්ධ වෙන්නේ කොහෙද?"
+        },
+        {
+          "speaker": "Ruwan",
+          "en": "Badulla, in the eighties. It's based on something that really happened, apparently.",
+          "si": "බදුල්ල, අසූව ගණන්වල. ඇත්තටම වුණු දෙයක් ඇසුරෙන් කියලයි කියන්නේ."
+        },
+        {
+          "speaker": "Nadeesha",
+          "en": "Was it good?",
+          "si": "හොඳද?"
+        },
+        {
+          "speaker": "Ruwan",
+          "en": "The acting was excellent. The first half was a bit slow, mind you.",
+          "si": "රංගනය අපූරුයි. පළවෙනි භාගය ටිකක් හෙමීයි, ඒත්."
+        },
+        {
+          "speaker": "Nadeesha",
+          "en": "Does he keep the money?",
+          "si": "එයා සල්ලි තියාගන්නවාද?"
+        },
+        {
+          "speaker": "Ruwan",
+          "en": "I'm not telling you! No spoilers. But stay until the last scene.",
+          "si": "මම කියන්නේ නෑ! අවසානය කියන්නේ නෑ. ඒත් අන්තිම දර්ශනය වෙනකම් ඉන්න."
+        },
+        {
+          "speaker": "Nadeesha",
+          "en": "Would you recommend it?",
+          "si": "ඔයා ඒක නිර්දේශ කරනවාද?"
+        },
+        {
+          "speaker": "Ruwan",
+          "en": "It's not for everyone. But if you liked his last one, you'll like this.",
+          "si": "ඒක හැමෝටම නෙවෙයි. ඒත් ඔයා එයාගේ අන්තිම එකට කැමති නම්, මේකටත් කැමති වෙයි."
+        }
+      ]
+    },
+    {
+      "type": "story",
+      "title": "The book she gave away",
+      "titleSi": "ඇය දුන්නු පොත",
+      "introSi": "පොතක් ගැන කෙටි කතාවක්. අදහස කියන යෙදුම් හොයාගන්න.",
+      "paragraphs": [
+        {
+          "en": "Chandima read the same novel four times between the ages of fifteen and twenty. It is about a girl in a coastal town who writes letters to a brother who never answers.",
+          "si": "චන්දිමා පහළොවේ ඉඳන් විස්ස වෙනකම් එකම නවකථාව හතර පාරක් කියෙව්වා. ඒක උත්තර නොදෙන අයියෙකුට ලියුම් ලියන, වෙරළබඩ නගරයක ඉන්න කෙල්ලෙක් ගැන."
+        },
+        {
+          "en": "Nothing much happens in it. Her friends said it was slow. She could not put it down.",
+          "si": "ඒකේ ලොකු දෙයක් සිද්ධ වෙන්නේ නෑ. යාළුවෝ කිව්වා ඒක හෙමීයි කියලා. ඇයට ඒක තියන්න බැරි වුණා."
+        },
+        {
+          "en": "When she left for her first job she gave her copy to a cousin who had never read a novel in English. \"It's not for everyone,\" she said. \"But if you like quiet things, you'll like it.\"",
+          "si": "පළවෙනි රස්සාවට යනකොට ඇය ඒ පොත ඉංග්‍රීසියෙන් නවකථාවක් කවදාවත් කියවලා නැති නෑනා කෙනෙකුට දුන්නා. \"ඒක හැමෝටම නෙවෙයි,\" ඇය කිව්වා. \"ඒත් ඔයා නිශ්ශබ්ද දේවලට කැමති නම්, ඔයා ඒකට කැමති වෙයි.\""
+        },
+        {
+          "en": "Eleven years later the cousin sent her the same book back, in a new edition, with one line inside the cover: \"You were right about the ending.\"",
+          "si": "අවුරුදු එකොළහකට පස්සේ ඒ නෑනා ඇයට එම පොතම අලුත් මුද්‍රණයකින් ආපහු එව්වා, කවරය ඇතුළේ එක පේළියක් තියලා: \"අවසානය ගැන ඔයා හරි.\""
+        }
+      ],
+      "glossary": [
+        {
+          "en": "novel",
+          "si": "නවකථාව"
+        },
+        {
+          "en": "coastal",
+          "si": "වෙරළබඩ"
+        },
+        {
+          "en": "copy (of a book)",
+          "si": "පිටපත"
+        },
+        {
+          "en": "edition",
+          "si": "මුද්‍රණය"
+        }
+      ],
+      "questionsSi": [
+        "පොත මොකක් ගැනද?",
+        "යාළුවෝ කිව්වේ මොකක්ද? චන්දිමා කිව්වේ මොකක්ද?",
+        "ඔයාට හතර පාරක් කියවපු පොතක් තියෙනවාද?"
+      ]
+    },
+    {
+      "type": "tip",
+      "title": "Tell the plot in the present",
+      "titleSi": "කතාව වර්තමානයෙන් කියන්න",
+      "bodySi": "ඔයා ඒක බැලුවේ ගිය සතියේ. ඒත් කතාව කියනකොට වර්තමානය:\n\n✓ 'It's about a man who loses his job and moves back home.'\n✗ 'It was about a man who lost his job and moved back home.'\n\nඔයාගේ අත්දැකීම ගැන නම් අතීතය:\n\n'I saw it last week.' ✓\n'I read it when I was in school.' ✓\n\nදෙක එකට යනවා:\n'I saw it last week. It's about a boy who runs away from home.'\n\nමේක ඉංග්‍රීසි ලේඛන සම්මතයක් — කතාවක් හැමවිටම 'දැන් සිද්ධ වෙනවා' වගේ කියනවා.",
+      "body": "You watched it last week, but the story happens in the present. Your experience of it stays in the past."
+    },
+    {
+      "type": "practice",
+      "title": "Talk about it",
+      "titleSi": "ඒක ගැන කියන්න",
+      "instructionSi": "හිස් තැනට ගැලපෙන යෙදුම ලියන්න.",
+      "items": [
+        {
+          "prompt": "It's ___ a woman who goes back to her village.",
+          "answer": "about",
+          "hintSi": "කතාව හඳුන්වන වචනය.",
+          "full": "It's about a woman who goes back to her village."
+        },
+        {
+          "prompt": "It's ___ in Jaffna, just after the war.",
+          "answer": "set",
+          "hintSi": "තැනයි කාලයයි.",
+          "full": "It's set in Jaffna, just after the war."
+        },
+        {
+          "prompt": "It's ___ on a true story.",
+          "answer": "based",
+          "hintSi": "'ඇසුරෙන්' කියන අදහස.",
+          "full": "It's based on a true story."
+        },
+        {
+          "prompt": "I couldn't put it ___ — I finished it in two nights.",
+          "answer": "down",
+          "hintSi": "පොතක් තියන්න බැරි වුණා.",
+          "full": "I couldn't put it down."
+        },
+        {
+          "prompt": "It was hard to ___ — there were too many characters.",
+          "answer": "follow",
+          "hintSi": "තේරුම් ගන්න අමාරු.",
+          "full": "It was hard to follow."
+        },
+        {
+          "prompt": "No ___ — but stay until the last scene.",
+          "answer": "spoilers",
+          "hintSi": "අවසානය හෙළි කිරීම.",
+          "full": "No spoilers — but stay until the last scene."
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "b1-24-q1",
+      "q": "කතාව කියනකොට යෙදෙන කාලය?",
+      "options": [
+        "අතීතය",
+        "වර්තමානය",
+        "අනාගතය",
+        "present perfect"
+      ],
+      "answer": 1,
+      "explainSi": "'It's about a man who loses his job…' — ඉංග්‍රීසි සම්මතයක්."
+    },
+    {
+      "id": "b1-24-q2",
+      "q": "කුමන එක හරිද?",
+      "options": [
+        "It's talking about a family.",
+        "It's about a family.",
+        "It's telling about a family.",
+        "It's on a family."
+      ],
+      "answer": 1,
+      "explainSi": "පොතක් 'talk' කරන්නේ නෑ."
+    },
+    {
+      "id": "b1-24-q3",
+      "q": "'It's set in the 1980s' කියන්නේ?",
+      "options": [
+        "ඒක 1980 ගණන්වල හැදුවා",
+        "කතාව සිද්ධ වෙන්නේ 1980 ගණන්වල",
+        "ඒක 1980 ගණන්වල විකුණුවා",
+        "ඒක අවුරුදු 1980ක්"
+      ],
+      "answer": 1,
+      "explainSi": "'set in' කියන්නේ කතාවේ තැනයි කාලයයි."
+    },
+    {
+      "id": "b1-24-q4",
+      "q": "'I couldn't put it down' කියන්නේ?",
+      "options": [
+        "ඒක බර වැඩියි",
+        "ඒක එච්චර හොඳයි, තියන්න බැරි වුණා",
+        "ඒක නරකයි",
+        "ඒක නැති වුණා"
+      ],
+      "answer": 1,
+      "explainSi": "පොතකට යෙදෙන ප්‍රශංසාවක්."
+    },
+    {
+      "id": "b1-24-q5",
+      "q": "'It had its moments' කියන්නේ?",
+      "options": [
+        "ඒක සම්පූර්ණයෙන් හොඳයි",
+        "සම්පූර්ණයෙන් හොඳ නෑ, ඒත් හොඳ තැන් තිබුණා",
+        "ඒක හරිම නරකයි",
+        "ඒක දිගයි"
+      ],
+      "answer": 1,
+      "explainSi": "ආචාරශීලී අර්ධ ප්‍රශංසාවක්."
+    },
+    {
+      "id": "b1-24-q6",
+      "q": "'spoiler' කියන්නේ?",
+      "options": [
+        "නරක චිත්‍රපටියක්",
+        "අවසානය හෙළි කරලා රසය නැති කරන එක",
+        "දිග චිත්‍රපටියක්",
+        "නළුවෙක්"
+      ],
+      "answer": 1,
+      "explainSi": "ඒක අශිෂ්ට කියලා සලකනවා, ඒ නිසා කලින් අහනවා."
+    },
+    {
+      "id": "b1-24-q7",
+      "q": "අවසානය ගැන කථා කරන්න කලින් අහන්න ඕන?",
+      "options": [
+        "'Did you like it?'",
+        "'Have you seen it?'",
+        "'Was it long?'",
+        "'Who was in it?'"
+      ],
+      "answer": 1,
+      "explainSi": "බලලා නැත්නම් අවසානය කියන එක අශිෂ්ටයි."
+    },
+    {
+      "id": "b1-24-q8",
+      "q": "අනිත් කෙනාට තෝරගන්න ඉඩ දෙන නිර්දේශයක්?",
+      "options": [
+        "You must see it.",
+        "It's not for everyone, but I loved it.",
+        "It's the best film ever.",
+        "Everyone likes it."
+      ],
+      "answer": 1,
+      "explainSi": "ඒක අනිත් කෙනාගේ රසය ගැන ඉඩක් තියනවා."
+    },
+    {
+      "id": "b1-24-q9",
+      "q": "හිස් තැනට: 'It's ___ on a novel by Ondaatje.'",
+      "options": [
+        "about",
+        "set",
+        "based",
+        "made"
+      ],
+      "answer": 2,
+      "explainSi": "'based on' — ඇසුරෙන්."
+    },
+    {
+      "id": "b1-24-q10",
+      "q": "'It was hard to follow' කියන්නේ?",
+      "options": [
+        "ඒක දුරයි",
+        "තේරුම් ගන්න අමාරුයි",
+        "ඒක හෙමීයි",
+        "ඒක ශබ්ද වැඩියි"
+      ],
+      "answer": 1,
+      "explainSi": "කතාව හෝ චරිත පැටලෙනකොට."
+    },
+    {
+      "id": "b1-24-q11",
+      "q": "අදහසක් සම්පූර්ණ වෙන්නේ?",
+      "options": [
+        "ලකුණක් දුන්නම",
+        "හේතුවක් දුන්නම",
+        "දිග වුණාම",
+        "අනිත් කෙනා එකඟ වුණාම"
+      ],
+      "answer": 1,
+      "explainSi": "'I liked it because the characters felt real.'"
+    },
+    {
+      "id": "b1-24-q12",
+      "q": "'It was boring' කියනවා වෙනුවට මෘදු එක?",
+      "options": [
+        "It was very boring.",
+        "It was a bit slow for me.",
+        "It was terrible.",
+        "I hated it."
+      ],
+      "answer": 1,
+      "explainSi": "b1-21 හි ඉගෙන ගත්ත මෘදු කිරීම."
+    },
+    {
+      "id": "b1-24-q13",
+      "q": "කුමන එක වැරදිද?",
+      "options": [
+        "I saw it last week.",
+        "It's about a boy who runs away.",
+        "It was about a boy who ran away.",
+        "It's set in Kandy."
+      ],
+      "answer": 2,
+      "explainSi": "කතාව වර්තමානයෙන් — 'It's about a boy who runs away.'"
+    },
+    {
+      "id": "b1-24-q14",
+      "q": "'The plot' කියන්නේ?",
+      "options": [
+        "චරිත",
+        "කතාව",
+        "සංගීතය",
+        "අවසානය"
+      ],
+      "answer": 1,
+      "explainSi": "plot = කතාවේ සිද්ධි."
+    },
+    {
+      "id": "b1-24-q15",
+      "q": "'If you like thrillers, you'll like this one.' — මේකේ රටාව?",
+      "options": [
+        "අනිත් කෙනාගේ රසයට ගළපලා නිර්දේශ කිරීම",
+        "විවේචනය",
+        "අවසානය කීම",
+        "ප්‍රශ්නයක්"
+      ],
+      "answer": 0,
+      "explainSi": "'මට හොඳයි' කියනවාට වඩා ප්‍රයෝජනවත්."
+    },
+    {
+      "id": "b1-24-q16",
+      "q": "'I wouldn't bother' කියන්නේ?",
+      "options": [
+        "මම කරදර වෙන්නේ නෑ",
+        "මම නම් ඒක බලන්න යන්නේ නෑ",
+        "මට වෙලාවක් නෑ",
+        "මම දන්නේ නෑ"
+      ],
+      "answer": 1,
+      "explainSi": "මෘදු නොනිර්දේශයක්."
+    },
+    {
+      "id": "b1-24-q17",
+      "q": "ඔයාගේ අත්දැකීම ගැන කියනකොට කාලය?",
+      "options": [
+        "වර්තමානය",
+        "අතීතය",
+        "අනාගතය",
+        "කිසිවක් නෑ"
+      ],
+      "answer": 1,
+      "explainSi": "'I saw it last week' — ඔයාගේ අත්දැකීම අතීතයේ; කතාව වර්තමානයේ."
+    },
+    {
+      "id": "b1-24-q18",
+      "q": "'Have you seen anything good lately?' කියන්නේ?",
+      "options": [
+        "දුර්ලභ ප්‍රශ්නයක්",
+        "ඉංග්‍රීසි කුඩා කථාවේ බහුලම ප්‍රශ්නවලින් එකක්",
+        "අශිෂ්ට ප්‍රශ්නයක්",
+        "විධිමත් ප්‍රශ්නයක්"
+      ],
+      "answer": 1,
+      "explainSi": "කාලගුණය, වැඩ, පවුල — සහ මේක."
+    }
+  ],
+  "vocab": [
+    {
+      "en": "it's about",
+      "si": "ඒක ... ගැන",
+      "say": "ඉට්ස් අබවුට්",
+      "exampleEn": "It's about a family.",
+      "exampleSi": "ඒක පවුලක් ගැන."
+    },
+    {
+      "en": "it's set in",
+      "si": "ඒක සිද්ධ වෙන්නේ",
+      "say": "ඉට්ස් සෙට් ඉන්",
+      "exampleEn": "It's set in the 1980s.",
+      "exampleSi": "ඒක 1980 ගණන්වල."
+    },
+    {
+      "en": "based on",
+      "si": "ඇසුරෙන්",
+      "say": "බේස්ඩ් ඔන්",
+      "exampleEn": "Based on a true story.",
+      "exampleSi": "සත්‍ය කථාවක් ඇසුරෙන්."
+    },
+    {
+      "en": "plot",
+      "si": "කතාව",
+      "say": "ප්ලොට්",
+      "exampleEn": "The plot is simple.",
+      "exampleSi": "කතාව සරලයි."
+    },
+    {
+      "en": "character",
+      "si": "චරිතය",
+      "say": "කැරක්ටර්",
+      "exampleEn": "The characters felt real.",
+      "exampleSi": "චරිත ඇත්ත වගේ දැනුණා."
+    },
+    {
+      "en": "acting",
+      "si": "රංගනය",
+      "say": "ඇක්ටින්",
+      "exampleEn": "The acting was superb.",
+      "exampleSi": "රංගනය අපූරුයි."
+    },
+    {
+      "en": "ending",
+      "si": "අවසානය",
+      "say": "එන්ඩින්",
+      "exampleEn": "It had a happy ending.",
+      "exampleSi": "අවසානය සතුටුදායකයි."
+    },
+    {
+      "en": "hard to follow",
+      "si": "තේරුම් ගන්න අමාරු",
+      "say": "හාඩ් ටු ෆොලෝ",
+      "exampleEn": "It was hard to follow.",
+      "exampleSi": "ඒක තේරුම් ගන්න අමාරුයි."
+    },
+    {
+      "en": "worth seeing",
+      "si": "බලන්න වටිනවා",
+      "say": "වර්ත් සීයින්",
+      "exampleEn": "It's worth seeing.",
+      "exampleSi": "ඒක බලන්න වටිනවා."
+    },
+    {
+      "en": "couldn't put it down",
+      "si": "තියන්න බැරි වුණා",
+      "say": "කුඩ්න්ට් පුට් ඉට් ඩවුන්",
+      "exampleEn": "I couldn't put it down.",
+      "exampleSi": "මට ඒක තියන්න බැරි වුණා."
+    },
+    {
+      "en": "it had its moments",
+      "si": "හොඳ තැන් තිබුණා",
+      "say": "ඉට් හෑඩ් ඉට්ස් මෝමන්ට්ස්",
+      "exampleEn": "It had its moments.",
+      "exampleSi": "හොඳ තැන් තිබුණා."
+    },
+    {
+      "en": "spoiler",
+      "si": "අවසානය හෙළි කිරීම",
+      "say": "ස්පොයිලර්",
+      "exampleEn": "No spoilers, please.",
+      "exampleSi": "අවසානය කියන්න එපා."
+    },
+    {
+      "en": "novel",
+      "si": "නවකථාව",
+      "say": "නොවල්",
+      "exampleEn": "It's a novel, not a film.",
+      "exampleSi": "ඒක නවකථාවක්, චිත්‍රපටියක් නෙවෙයි."
+    },
+    {
+      "en": "thriller",
+      "si": "ත්‍රාසජනක",
+      "say": "ත්‍රිලර්",
+      "exampleEn": "I like a good thriller.",
+      "exampleSi": "මම හොඳ ත්‍රාසජනක එකකට කැමතියි."
+    },
+    {
+      "en": "documentary",
+      "si": "වාර්තා චිත්‍රපටිය",
+      "say": "ඩොකියුමෙන්ටරි",
+      "exampleEn": "It's a documentary about the sea.",
+      "exampleSi": "ඒක මුහුද ගැන වාර්තා චිත්‍රපටියක්."
+    },
+    {
+      "en": "recommend",
+      "si": "නිර්දේශ කරනවා",
+      "say": "රෙකමෙන්ඩ්",
+      "exampleEn": "I'd recommend it.",
+      "exampleSi": "මම ඒක නිර්දේශ කරනවා."
+    }
+  ]
+}

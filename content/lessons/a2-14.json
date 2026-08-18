@@ -1,0 +1,848 @@
+{
+  "hero": {
+    "src": "images/a2-14-hero.webp",
+    "alt": "Nadeesha leaning on a café table with a hand raised in a bright suggesting gesture, two cups of tea between them, sunny window."
+  },
+  "goalsSi": [
+    "Shall we...? — ප්‍රශ්නයක් විදිහට යෝජනාවක්",
+    "Why don't we...? / Why don't you...? — හේතුවක් විදිහට යෝජනාවක්",
+    "How about...? / What about...? + -ing — අවිධිමත් ක්‍රමය",
+    "යෝජනාවකට එකඟ වීම සහ ආචාරශීලීව ප්‍රතික්ෂේප කිරීම",
+    "a1-15 හි Let's සමඟ මේවායේ වෙනස"
+  ],
+  "goals": [
+    "Suggest with Shall we…?",
+    "Suggest with Why don't we…?",
+    "Suggest casually with How about…? + -ing",
+    "Agree or decline a suggestion politely",
+    "Tell these apart from a1-15's Let's"
+  ],
+  "sections": [
+    {
+      "type": "note",
+      "title": "Let's tells. These ask.",
+      "titleSi": "Let's කියනවා. මේවා අහනවා.",
+      "bodySi": "a1-15 හි ඉගෙන ගත්තා 'Let's' — 'Let's go home' කියද්දී ඒක ආරාධනාවක් වගේ පේනුවත්, ඇත්තටම එය ප්‍රකාශයක්: 'අපි යනවා' කියලා තීරණයක් දාන එකක්. පිළිතුරක් අනිවාර්ය නෑ.\n\nමේ පාඩමේ ඉගෙන ගන්නා යෝජනා ඇත්තටම ප්‍රශ්න — සැබෑ පිළිතුරක් බලාපොරොත්තු වෙනවා:\n\nShall we go home? — යනවාද කියලා ඇත්තටම අහනවා.\nWhy don't we go home? — යෝජනාවක්, හේතුවක් විදිහට.\nHow about going home? — වඩාත් අවිධිමත්, එකම යෝජනාව.\n\n'Let's go home' කිව්වොත් බලාපොරොත්තු වෙන්නේ 'හරි' කියන එකයි. 'Shall we go home?' කිව්වොත් 'නෑ, තව ටිකක් ඉමු' කියලා කීමටත් ඉඩ තියෙනවා — ඇත්තටම ප්‍රශ්නයක්.",
+      "body": "Let's states a decision. Shall we/Why don't we/How about genuinely ask."
+    },
+    {
+      "type": "grammar",
+      "title": "Shall we…?",
+      "titleSi": "Shall we...?",
+      "explainSi": "'Shall we' + ක්‍රියාවේ මූලික ස්වරූපය — යෝජනාවක් ප්‍රශ්නයක් විදිහට. දෙන්නෙක් හෝ ගොඩක් දෙනෙක් එකට කරන දෙයක් ගැන.",
+      "formula": "Shall we + verb?",
+      "table": {
+        "headers": [
+          "යෝජනාව",
+          "සිංහල"
+        ],
+        "rows": [
+          [
+            "Shall we go to the beach?",
+            "වෙරළට යමුද?"
+          ],
+          [
+            "Shall we start the meeting?",
+            "රැස්වීම පටන් ගමුද?"
+          ],
+          [
+            "Shall we order some food?",
+            "කෑමක් ඇණවුම් කරමුද?"
+          ],
+          [
+            "Shall we sit here?",
+            "මෙතන ඉඳගමුද?"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "It's getting late. Shall we head home?",
+          "si": "පරක්කු වෙනවා. ගෙදර යමුද?"
+        },
+        {
+          "en": "Shall we ask him to join us?",
+          "si": "එයාට අපිත් එක්ක එකතු වෙන්න කියමුද?"
+        }
+      ],
+      "watchOutSi": "'Shall we' පසුව 'to' යෙදෙන්නේ නෑ — 'Shall we to go?' නෙවෙයි, 'Shall we go?'"
+    },
+    {
+      "type": "grammar",
+      "title": "Why don't we…? / Why don't you…?",
+      "titleSi": "Why don't we...? / Why don't you...?",
+      "explainSi": "වචනාර්ථයෙන් 'ඇයි කරන්නේ නෑ' කියලා පේනුවත්, ඇත්තටම කරන්නේ යෝජනාවක් — විවේචනයක් නෙවෙයි. 'we' යෙදුවොත් තමන්වත් ඇතුළත්, 'you' යෙදුවොත් අනිත් කෙනාට යෝජනාවක්.",
+      "formula": "Why don't we/you + verb?",
+      "table": {
+        "headers": [
+          "යෝජනාව",
+          "සිංහල"
+        ],
+        "rows": [
+          [
+            "Why don't we try the new restaurant?",
+            "අලුත් ආපනශාලාව උත්සාහ කරමුද?"
+          ],
+          [
+            "Why don't you take a break?",
+            "ඔබ විවේකයක් ගන්නවා නම් කොහොමද?"
+          ],
+          [
+            "Why don't we ask for directions?",
+            "අපි පාර අහමුද?"
+          ],
+          [
+            "Why don't you call her tonight?",
+            "අද රෑට එයාට කථා කරන්නේ නම් කොහොමද?"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "We're lost. Why don't we ask someone?",
+          "si": "අපි නැති වෙලා. කවුරුහරි අහමුද?"
+        },
+        {
+          "en": "You look tired. Why don't you rest for a bit?",
+          "si": "ඔබ මහන්සියි වගේ පේනවා. ටිකක් විවේක ගන්නවා නම් කොහොමද?"
+        }
+      ],
+      "watchOutSi": "'Why don't we go?' යනු විවේචනයක් නෙවෙයි ('ඇයි නොයන්නේ?' කියලා චෝදනාවක් නෙවෙයි) — එය මෘදු යෝජනාවක්. ස්වරයෙන් තමයි වෙනස පේන්නේ."
+    },
+    {
+      "type": "grammar",
+      "title": "How about…? / What about…? + -ing",
+      "titleSi": "How about...? / What about...? + -ing",
+      "explainSi": "වඩාත්ම අවිධිමත් ක්‍රමය — යාළුවෝ අතර ගොඩක් යෙදෙනවා. 'Shall we'/'Why don't we' වගේ මූලික ක්‍රියාවක් නොව, ක්‍රියාවට -ing එකතු වෙනවා — a1-11 හි ඉගෙන ගත්ත 'like + -ing' රටාව මතක් කරන්න.",
+      "formula": "How about / What about + verb-ing?",
+      "table": {
+        "headers": [
+          "යෝජනාව",
+          "සිංහල"
+        ],
+        "rows": [
+          [
+            "How about going for a walk?",
+            "ඇවිදින්න යනවා නම් කොහොමද?"
+          ],
+          [
+            "What about ordering pizza tonight?",
+            "අද රෑට පීසා ඇණවුම් කරනවා නම් කොහොමද?"
+          ],
+          [
+            "How about meeting at six instead?",
+            "ඒ වෙනුවට හයට හමු වෙනවා නම් කොහොමද?"
+          ],
+          [
+            "What about asking Nimal to come too?",
+            "නිමල්ටත් එන්න කියනවා නම් කොහොමද?"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "How about watching a film instead?",
+          "si": "ඒ වෙනුවට චිත්‍රපටයක් බලනවා නම් කොහොමද?"
+        },
+        {
+          "en": "What about starting a little earlier tomorrow?",
+          "si": "හෙට ටිකක් කලින් පටන් ගන්නවා නම් කොහොමද?"
+        }
+      ],
+      "watchOutSi": "'How about go?' කියලා කියන්නේ නෑ — ක්‍රියාවට -ing ඕන: 'How about going?' 'Shall we' සහ 'Why don't we' සමඟ නම් මූලික ස්වරූපයම."
+    },
+    {
+      "type": "grammar",
+      "title": "Agreeing or declining",
+      "titleSi": "එකඟ වීම හෝ ප්‍රතික්ෂේප කිරීම",
+      "explainSi": "යෝජනාවකට එකඟ වෙන්නත් ආචාරශීලීව නෑ කියන්නත් සම්මත වචන තියෙනවා. ප්‍රතික්ෂේප කරද්දී හේතුවක් එකතු කරන එක ආචාරශීලීයි.",
+      "formula": "agree: Good idea / Sure  ·  decline: I'd rather not / Maybe another time",
+      "table": {
+        "headers": [
+          "වර්ගය",
+          "වාක්‍යය",
+          "සිංහල"
+        ],
+        "rows": [
+          [
+            "එකඟයි",
+            "Good idea, let's do that.",
+            "හොඳ අදහසක්, ඒක කරමු."
+          ],
+          [
+            "එකඟයි",
+            "Sure, why not?",
+            "හරි, ඇයි නොවෙන්නේ."
+          ],
+          [
+            "ප්‍රතික්ෂේප",
+            "I'd rather not, thanks.",
+            "බෑ කියලා කියන්නම්, ස්තූතියි."
+          ],
+          [
+            "ප්‍රතික්ෂේප",
+            "Maybe another time.",
+            "සමහරවිට වෙන දවසක."
+          ],
+          [
+            "ප්‍රතික්ෂේප + හේතුව",
+            "I can't today, I have work.",
+            "අද බෑ, මට වැඩ තියෙනවා."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "Shall we go for coffee? — Sure, why not?",
+          "si": "කෝපි එකකට යමුද? — හරි, ඇයි නොවෙන්නේ."
+        },
+        {
+          "en": "How about the cinema tonight? — I'd rather not, I'm really tired.",
+          "si": "අද රෑට සිනමා ශාලාවට යනවා නම්? — බෑ කියලා කියන්නම්, මම හරිම මහන්සියි."
+        }
+      ],
+      "watchOutSi": "'No' තනියම කිව්වොත් රළුයි. හේතුවක් හෝ 'maybe another time' වගේ මෘදු වචනයක් එකතු කරන එක ආචාරශීලීයි."
+    },
+    {
+      "type": "vocab",
+      "title": "Suggesting and deciding",
+      "titleSi": "යෝජනා කිරීම සහ තීරණය කිරීම",
+      "items": [
+        {
+          "en": "suggest",
+          "si": "යෝජනා කරනවා",
+          "say": "සජෙස්ට්"
+        },
+        {
+          "en": "suggestion",
+          "si": "යෝජනාව",
+          "say": "සජෙස්චන්"
+        },
+        {
+          "en": "instead",
+          "si": "ඒ වෙනුවට",
+          "say": "ඉන්ස්ටෙඩ්"
+        },
+        {
+          "en": "another time",
+          "si": "වෙන දවසක",
+          "say": "අනදර් ටයිම්"
+        },
+        {
+          "en": "decide",
+          "si": "තීරණය කරනවා",
+          "say": "ඩිසයිඩ්"
+        },
+        {
+          "en": "prefer",
+          "si": "වඩා කැමතියි",
+          "say": "ප්‍රිෆර්"
+        },
+        {
+          "en": "join",
+          "si": "එකතු වෙනවා",
+          "say": "ජොයින්"
+        },
+        {
+          "en": "cancel",
+          "si": "අවලංගු කරනවා",
+          "say": "කැන්සල්"
+        },
+        {
+          "en": "postpone",
+          "si": "කල් දානවා",
+          "say": "පෝස්ට්පෝන්"
+        },
+        {
+          "en": "settle on",
+          "si": "අන්තිමට තීරණය කරනවා",
+          "say": "සෙට්ල් ඔන්"
+        },
+        {
+          "en": "hesitate",
+          "si": "පැකිලෙනවා",
+          "say": "හෙසිටේට්"
+        },
+        {
+          "en": "compromise",
+          "si": "සම්මුතියක්",
+          "say": "කොම්ප්‍රමයිස්"
+        }
+      ]
+    },
+    {
+      "type": "story",
+      "title": "Deciding on Saturday",
+      "titleSi": "සෙනසුරාදාව තීරණය කිරීම",
+      "introSi": "යාළුවෝ තුන්දෙනෙක් සතියේ අන්තයට යෝජනා කරන කතාවක්. Shall we, Why don't we, How about එනවා — යෝජනා ගණන් කරන්න.",
+      "paragraphs": [
+        {
+          "en": "\"Shall we do something different this Saturday?\" Nadeeka asked in the group chat. \"We always just go to the same café.\"",
+          "si": "\"මේ සෙනසුරාදා අමුතු දෙයක් කරමුද?\" නදීකා කණ්ඩායම් කථාබහේ ඇහුවා. \"අපි හැම දාම එකම කැෆේ එකට යනවා.\""
+        },
+        {
+          "en": "\"Why don't we go hiking?\" Sanjula replied. \"There's a trail near Ella that's supposed to be beautiful.\" Nadeeka wasn't sure. \"That's a five-hour drive. How about something closer?\"",
+          "si": "\"පයින් කන්ද නගින්න යමුද?\" සංජුල පිළිතුරු දුන්නා. \"එල්ල ළඟ ලස්සන කියලා කියන පාරක් තියෙනවා.\" නදීකාට විශ්වාස වුණේ නෑ. \"ඒක පැය පහක රථ ගමනක්. ළඟ තැනක් නම් කොහොමද?\""
+        },
+        {
+          "en": "\"What about the botanical garden, then?\" Ishara suggested. \"It's only forty minutes away, and none of us have been in years.\" \"I'd rather not, actually,\" Sanjula said. \"I went there with my family last month.\"",
+          "si": "\"එහෙනම් උද්භිද උද්‍යානය ගැන කොහොමද?\" ඉෂාරා යෝජනා කළා. \"විනාඩි හතළිහක් විතරයි, අපෙන් කාටවත් අවුරුදු ගණනක් තිස්සේ ගිහින් නෑ.\" \"ඇත්තටම, බෑ කියලා කියන්නම්,\" සංජුල කිව්වා. \"ගිය මාසේ පවුලේ අය එක්ක ගියා.\""
+        },
+        {
+          "en": "\"Shall we just decide when we meet?\" Nadeeka finally suggested. \"We've spent twenty minutes on this and settled on nothing.\" Everyone agreed, mostly out of relief.",
+          "si": "\"හමුවෙද්දී තීරණය කරමුද?\" අන්තිමට නදීකා යෝජනා කළා. \"අපි මේකට විනාඩි විස්සක් ගත කරලා කිසිවක් තීරණය කරගත්තේ නෑ.\" හැමෝම එකඟ වුණා, වැඩිපුරම සහනයෙන්."
+        },
+        {
+          "en": "On Saturday morning, they met at the bus stop with no plan at all. \"Why don't we just walk and see where we end up?\" Ishara said. And, in the end, that's exactly what they did.",
+          "si": "සෙනසුරාදා උදේ, කිසිම සැලසුමක් නැතුව ඔවුන් බස් නැවතුමේ හමු වුණා. \"අපි ඇවිදගෙන ගිහින් කොහෙද ගිහින් ඉවර වෙනවද කියලා බලමුද?\" ඉෂාරා කිව්වා. අන්තිමට, ඔවුන් කළේ හරියටම ඒකයි."
+        },
+        {
+          "en": "It turned out to be the best Saturday they'd had in months — no plan, no argument, just three friends walking until they got hungry.",
+          "si": "මාස ගණනකින් ඔවුන්ට තිබූ හොඳම සෙනසුරාදාව ඒක වුණා — සැලසුමක් නෑ, තර්කයක් නෑ, යාළුවෝ තුන්දෙනෙක් බඩගිනි වෙනකම් ඇවිදගෙන යාම විතරයි."
+        }
+      ],
+      "glossary": [
+        {
+          "en": "trail",
+          "si": "පාර (කන්දක)"
+        },
+        {
+          "en": "botanical garden",
+          "si": "උද්භිද උද්‍යානය"
+        },
+        {
+          "en": "settle on",
+          "si": "අන්තිමට තීරණය කරනවා"
+        },
+        {
+          "en": "relief",
+          "si": "සහනය"
+        },
+        {
+          "en": "end up",
+          "si": "ඉවර වෙනවා (කොහෙහරි)"
+        },
+        {
+          "en": "turn out",
+          "si": "අන්තිමට වෙනවා"
+        }
+      ],
+      "questionsSi": [
+        "නදීකා මුලින්ම ඇහුවේ මොකක්ද?",
+        "සංජුලගේ පයින් කන්ද නැගීමේ යෝජනාව ප්‍රතික්ෂේප වුණේ ඇයි?",
+        "සංජුල උද්භිද උද්‍යානයට 'බෑ' කිව්වේ ඇයි?",
+        "අන්තිමට සෙනසුරාදාවේ දවස කොහොමද ගත වුණේ?"
+      ]
+    },
+    {
+      "type": "poem",
+      "title": "What Shall We Do?",
+      "titleSi": "අපි මොනවද කරන්නේ?",
+      "introSi": "යෝජනා කිහිපයක් එකට එන කවියක්.",
+      "lines": [
+        {
+          "en": "Shall we sit outside a while?",
+          "si": "ටිකක් එළියේ ඉඳගමුද?"
+        },
+        {
+          "en": "The evening's cool and slow.",
+          "si": "හවස සිසිල්, හෙමිහිට."
+        },
+        {
+          "en": "Why don't we leave the dishes till",
+          "si": "පිඟන් තියමු, කිසි"
+        },
+        {
+          "en": "Tomorrow, and just go?",
+          "si": "හේත වෙනකම්, දැන් යමු?"
+        },
+        {
+          "en": "",
+          "si": ""
+        },
+        {
+          "en": "How about no plan at all —",
+          "si": "සැලසුමක් නැතුව කොහොමද —"
+        },
+        {
+          "en": "No map, no time, no place?",
+          "si": "සිතියමක් නෑ, වේලාවක් නෑ, තැනක් නෑ?"
+        },
+        {
+          "en": "I'd rather walk with no idea",
+          "si": "අදහසක් නැතුව ඇවිදින්නම"
+        },
+        {
+          "en": "Than hurry anywhere with grace.",
+          "si": "වේගවත්ව, ලස්සනට, කොහේටත් යනවාට වඩා."
+        }
+      ],
+      "noteSi": "'Shall we sit', 'Why don't we leave', 'How about no plan' — කවියේ තුනම යෝජනා, තුනකින්ම විවිධ ස්වරූප."
+    },
+    {
+      "type": "dialogue",
+      "title": "Planning the evening",
+      "titleSi": "හවස සැලසුම් කිරීම",
+      "settingSi": "යෝජනා කිහිපයක් හුවමාරු වෙනවා. එකඟ වීම සහ ප්‍රතික්ෂේප කිරීම දෙකම බලාගෙන කියවන්න.",
+      "lines": [
+        {
+          "speaker": "Chami",
+          "en": "Shall we do something for your birthday this weekend?",
+          "si": "මේ සති අන්තයේ ඔබේ උපන්දිනයට යමක් කරමුද?"
+        },
+        {
+          "speaker": "Deshan",
+          "en": "Sure, why not? What did you have in mind?",
+          "si": "හරි, ඇයි නොවෙන්නේ. ඔබ හිතාගෙන හිටියේ මොකක්ද?"
+        },
+        {
+          "speaker": "Chami",
+          "en": "Why don't we invite a few friends over? Nothing big.",
+          "si": "යාළුවෝ කිහිප දෙනෙක් ගෙදරට ආරාධනා කරමුද? ලොකු දෙයක් නෙවෙයි."
+        },
+        {
+          "speaker": "Deshan",
+          "en": "I'd rather keep it small, actually. What about just the four of us?",
+          "si": "ඇත්තටම, පොඩි කරගෙන තියන්න මම කැමතියි. හතරදෙනා විතරක් නම් කොහොමද?"
+        },
+        {
+          "speaker": "Chami",
+          "en": "That works. How about dinner at that new place downtown?",
+          "si": "ඒක හරි. නගරයේ අලුත් තැනේ රෑ කෑමක් නම් කොහොමද?"
+        },
+        {
+          "speaker": "Deshan",
+          "en": "Maybe another time — it's a bit expensive. Why don't we just cook at home instead?",
+          "si": "සමහරවිට වෙන දවසක — ටිකක් මිල අධිකයි. ඒ වෙනුවට ගෙදර උයමුද?"
+        },
+        {
+          "speaker": "Chami",
+          "en": "Good idea. Shall we decide on the food tomorrow?",
+          "si": "හොඳ අදහසක්. හෙට කෑම ගැන තීරණය කරමුද?"
+        },
+        {
+          "speaker": "Deshan",
+          "en": "Sounds good to me.",
+          "si": "මට හොඳයි."
+        }
+      ]
+    },
+    {
+      "type": "practice",
+      "title": "Rewrite as a suggestion",
+      "titleSi": "යෝජනාවක් විදිහට ලියන්න",
+      "instructionSi": "වරහන් තුළ තියෙන ස්වරූපය යොදාගෙන යෝජනාව ලියන්න.",
+      "items": [
+        {
+          "prompt": "go / to the beach (Shall we)",
+          "answer": "Shall we go to the beach?",
+          "hintSi": "Shall we + මූලික ස්වරූපය.",
+          "full": "Shall we go to the beach?"
+        },
+        {
+          "prompt": "try / the new restaurant (Why don't we)",
+          "answer": "Why don't we try the new restaurant?",
+          "hintSi": "Why don't we + මූලික ස්වරූපය.",
+          "full": "Why don't we try the new restaurant?"
+        },
+        {
+          "prompt": "watch / a film (How about)",
+          "answer": "How about watching a film?",
+          "hintSi": "How about + -ing.",
+          "full": "How about watching a film?"
+        },
+        {
+          "prompt": "rest / for a bit (Why don't you)",
+          "answer": "Why don't you rest for a bit?",
+          "hintSi": "අනිත් කෙනාට යෝජනාවක්.",
+          "full": "Why don't you rest for a bit?"
+        },
+        {
+          "prompt": "order / pizza (What about)",
+          "answer": "What about ordering pizza?",
+          "hintSi": "What about + -ing.",
+          "full": "What about ordering pizza?"
+        },
+        {
+          "prompt": "ask / for directions (Shall we)",
+          "answer": "Shall we ask for directions?",
+          "hintSi": "Shall we + මූලික ස්වරූපය.",
+          "full": "Shall we ask for directions?"
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "en": "suggest",
+      "si": "යෝජනා කරනවා"
+    },
+    {
+      "en": "suggestion",
+      "si": "යෝජනාව"
+    },
+    {
+      "en": "instead",
+      "si": "ඒ වෙනුවට"
+    },
+    {
+      "en": "another time",
+      "si": "වෙන දවසක"
+    },
+    {
+      "en": "decide",
+      "si": "තීරණය කරනවා"
+    },
+    {
+      "en": "prefer",
+      "si": "වඩා කැමතියි"
+    },
+    {
+      "en": "join",
+      "si": "එකතු වෙනවා"
+    },
+    {
+      "en": "cancel",
+      "si": "අවලංගු කරනවා"
+    },
+    {
+      "en": "postpone",
+      "si": "කල් දානවා"
+    },
+    {
+      "en": "settle on",
+      "si": "අන්තිමට තීරණය කරනවා"
+    },
+    {
+      "en": "hesitate",
+      "si": "පැකිලෙනවා"
+    },
+    {
+      "en": "compromise",
+      "si": "සම්මුතියක්"
+    },
+    {
+      "en": "trail",
+      "si": "පාර (කන්දක)"
+    },
+    {
+      "en": "relief",
+      "si": "සහනය"
+    },
+    {
+      "en": "end up",
+      "si": "ඉවර වෙනවා"
+    },
+    {
+      "en": "turn out",
+      "si": "අන්තිමට වෙනවා"
+    },
+    {
+      "en": "downtown",
+      "si": "නගර මධ්‍යයේ"
+    },
+    {
+      "en": "invite",
+      "si": "ආරාධනා කරනවා"
+    },
+    {
+      "en": "keep it small",
+      "si": "පොඩි කරගෙන තියනවා"
+    },
+    {
+      "en": "sounds good",
+      "si": "හොඳයි වගේ"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "a2-14-q1",
+      "q": "'වෙරළට යමුද?' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "Let's go to the beach.",
+        "Shall we go to the beach?",
+        "Shall we to go to the beach?",
+        "How about go to the beach?"
+      ],
+      "answer": 1,
+      "explainSi": "'Shall we' + මූලික ස්වරූපය, 'to' නැතුව.",
+      "speak": "Shall we go to the beach?"
+    },
+    {
+      "id": "a2-14-q2",
+      "q": "'Let's go home' සහ 'Shall we go home?' — වෙනස කුමක්ද?",
+      "options": [
+        "වෙනසක් නෑ",
+        "පළමුවැන්න තීරණයක් වගේ ප්‍රකාශයක්, දෙවැන්න ඇත්තටම අහන ප්‍රශ්නයක්",
+        "දෙවැන්න වඩා රළුයි",
+        "පළමුවැන්න ප්‍රශ්නයක්"
+      ],
+      "answer": 1,
+      "explainSi": "'Let's' බලාපොරොත්තු වෙන්නේ 'හරි' කියන එකයි. 'Shall we?' ඇත්තටම පිළිතුරක් අහනවා."
+    },
+    {
+      "id": "a2-14-q3",
+      "q": "'අලුත් ආපනශාලාව උත්සාහ කරමුද?' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "Why don't we trying the new restaurant?",
+        "Why don't we try the new restaurant?",
+        "Why we don't try the new restaurant?",
+        "Why don't try we the new restaurant?"
+      ],
+      "answer": 1,
+      "explainSi": "'Why don't we' + මූලික ස්වරූපය.",
+      "speak": "Why don't we try the new restaurant?"
+    },
+    {
+      "id": "a2-14-q4",
+      "q": "'Why don't we go?' යනු චෝදනාවක්ද?",
+      "options": [
+        "ඔව්, 'ඇයි නොයන්නේ' කියන චෝදනාවක්",
+        "නෑ — එය මෘදු යෝජනාවක්, විවේචනයක් නෙවෙයි",
+        "එය ප්‍රශ්නයක් නෙවෙයි",
+        "එය 'Let's' එකේම අර්ථය"
+      ],
+      "answer": 1,
+      "explainSi": "වචනාර්ථයෙන් 'ඇයි නෑ' වගේ පේනුවත්, ස්වරයෙන් යෝජනාවක් විදිහට ඇහෙනවා."
+    },
+    {
+      "id": "a2-14-q5",
+      "q": "'ඇවිදින්න යනවා නම් කොහොමද?' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "How about go for a walk?",
+        "How about going for a walk?",
+        "How about to go for a walk?",
+        "How about goes for a walk?"
+      ],
+      "answer": 1,
+      "explainSi": "'How about' + -ing.",
+      "speak": "How about going for a walk?"
+    },
+    {
+      "id": "a2-14-q6",
+      "q": "'How about' සහ 'Shall we' පසුව ක්‍රියාවේ ස්වරූපය වෙනස් වන්නේ ඇයි?",
+      "options": [
+        "වැරදීමකින්",
+        "'How about' පසුව -ing (a1-11 හි like+-ing රටාවම), 'Shall we' පසුව මූලික ස්වරූපය",
+        "'Shall we' පසුවත් -ing",
+        "වෙනසක් නෑ"
+      ],
+      "answer": 1,
+      "explainSi": "'How about going' — 'How about go' නෙවෙයි. 'Shall we go' — 'Shall we going' නෙවෙයි."
+    },
+    {
+      "id": "a2-14-q7",
+      "q": "'Shall we go for coffee?' — ආචාරශීලීව එකඟ වෙන පිළිතුරක්?",
+      "options": [
+        "No.",
+        "Sure, why not?",
+        "I don't want to.",
+        "Never."
+      ],
+      "answer": 1,
+      "explainSi": "'Sure, why not?' ස්වාභාවික, ආචාරශීලී එකඟතාවයක්."
+    },
+    {
+      "id": "a2-14-q8",
+      "q": "'How about the cinema tonight?' — ආචාරශීලීව ප්‍රතික්ෂේප කරන පිළිතුරක්?",
+      "options": [
+        "No.",
+        "I'd rather not, I'm really tired.",
+        "Never ask me that.",
+        "I hate the cinema."
+      ],
+      "answer": 1,
+      "explainSi": "'I'd rather not' + හේතුවක් — ආචාරශීලීයි. 'No' තනියම රළුයි."
+    },
+    {
+      "id": "a2-14-q9",
+      "q": "'ඔබ විවේකයක් ගන්නවා නම් කොහොමද?' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "Why don't we take a break?",
+        "Why don't you take a break?",
+        "Shall you take a break?",
+        "How about you take a break?"
+      ],
+      "answer": 1,
+      "explainSi": "අනිත් කෙනාට යෝජනාවක් — 'Why don't you'.",
+      "speak": "Why don't you take a break?"
+    },
+    {
+      "id": "a2-14-q10",
+      "q": "'Why don't we' සහ 'Why don't you' අතර වෙනස කුමක්ද?",
+      "options": [
+        "වෙනසක් නෑ",
+        "'we' කථා කරන කෙනාත් ඇතුළත්, 'you' අනිත් කෙනාට විතරයි",
+        "'you' වඩා රළුයි",
+        "'we' ප්‍රශ්නයක් නෙවෙයි"
+      ],
+      "answer": 1,
+      "explainSi": "'Why don't we go?' — දෙන්නම යනවා. 'Why don't you go?' — ඔබ යන්න."
+    },
+    {
+      "id": "a2-14-q11",
+      "context": "\"Shall we do something different this Saturday?\" Nadeeka asked in the group chat. \"We always just go to the same café.\"",
+      "contextSi": "\"මේ සෙනසුරාදා අමුතු දෙයක් කරමුද?\" නදීකා කණ්ඩායම් කථාබහේ ඇහුවා. \"අපි හැම දාම එකම කැෆේ එකට යනවා.\"",
+      "q": "කතාව අනුව: නදීකා 'Shall we do something different?' කියලා අහන්නේ ඇයි?",
+      "options": [
+        "එයාට කැෆේ එකට කැමති නෑ",
+        "ඔවුන් හැම දාම එකම දේ කරන නිසා, එයාට වෙනසක් ඕන",
+        "එයාට යාළුවෝ නෑ",
+        "එයාට සල්ලි නෑ"
+      ],
+      "answer": 1,
+      "explainSi": "'We always just go to the same café.' — නීරසකමෙන් යෝජනාව එනවා."
+    },
+    {
+      "id": "a2-14-q12",
+      "context": "\"Why don't we go hiking?\" Sanjula replied. \"There's a trail near Ella that's supposed to be beautiful.\" Nadeeka wasn't sure. \"That's a five-hour drive. How about something closer?\"",
+      "contextSi": "\"පයින් කන්ද නගින්න යමුද?\" සංජුල පිළිතුරු දුන්නා. \"එල්ල ළඟ ලස්සන කියලා කියන පාරක් තියෙනවා.\" නදීකාට විශ්වාස වුණේ නෑ. \"ඒක පැය පහක රථ ගමනක්. ළඟ තැනක් නම් කොහොමද?\"",
+      "q": "කතාව අනුව: සංජුලගේ පයින් කන්ද නැගීමේ යෝජනාවට නදීකා පැකිලෙන්නේ ඇයි?",
+      "options": [
+        "එයාට ඇවිදින්න බෑ",
+        "ඒක පැය පහක රථ ගමනක් — ඈතයි",
+        "එයාට කන්ද කැමති නෑ",
+        "සංජුල එයාට තරහ"
+      ],
+      "answer": 1,
+      "explainSi": "'That's a five-hour drive.' — දුර තමයි ප්‍රශ්නය."
+    },
+    {
+      "id": "a2-14-q13",
+      "context": "\"What about the botanical garden, then?\" Ishara suggested. \"It's only forty minutes away, and none of us have been in years.\" \"I'd rather not, actually,\" Sanjula said. \"I went there with my family last month.\"",
+      "contextSi": "\"එහෙනම් උද්භිද උද්‍යානය ගැන කොහොමද?\" ඉෂාරා යෝජනා කළා. \"විනාඩි හතළිහක් විතරයි, අපෙන් කාටවත් අවුරුදු ගණනක් තිස්සේ ගිහින් නෑ.\" \"ඇත්තටම, බෑ කියලා කියන්නම්,\" සංජුල කිව්වා. \"ගිය මාසේ පවුලේ අය එක්ක ගියා.\"",
+      "q": "කතාව අනුව: සංජුල උද්භිද උද්‍යානයේ යෝජනාව ප්‍රතික්ෂේප කරන්නේ ඇයි?",
+      "options": [
+        "එයාට උද්‍යානවලට කැමති නෑ",
+        "ගිය මාසේම පවුලේ අය එක්ක එහෙ ගිය නිසා",
+        "ඒක ගොඩක් දුර නිසා",
+        "එයාට වෙලාව නැති නිසා"
+      ],
+      "answer": 1,
+      "explainSi": "'I went there with my family last month.' — දැනටමත් ගිහින්."
+    },
+    {
+      "id": "a2-14-q14",
+      "context": "\"Shall we just decide when we meet?\" Nadeeka finally suggested. \"We've spent twenty minutes on this and settled on nothing.\" Everyone agreed, mostly out of relief.",
+      "contextSi": "\"හමුවෙද්දී තීරණය කරමුද?\" අන්තිමට නදීකා යෝජනා කළා. \"අපි මේකට විනාඩි විස්සක් ගත කරලා කිසිවක් තීරණය කරගත්තේ නෑ.\" හැමෝම එකඟ වුණා, වැඩිපුරම සහනයෙන්.",
+      "q": "කතාව අනුව: 'agreed, mostly out of relief' කියන එකෙන් අදහස් වන්නේ කුමක්ද?",
+      "options": [
+        "ඔවුන්ට තීරණය ගැන සතුටුයි",
+        "දිගින් දිගටම තර්ක කිරීම නැවතුණ එකට සහනයක් දැනුණා",
+        "ඔවුන්ට තව යෝජනා තියෙනවා",
+        "නදීකා තරහ ගියා"
+      ],
+      "answer": 1,
+      "explainSi": "විනාඩි විස්සක් තීරණයක් නැතුව ගත වෙච්ච නිසා, ඕනෑම තීරණයක් සහනයක්."
+    },
+    {
+      "id": "a2-14-q15",
+      "context": "\"Why don't we just walk and see where we end up?\" Ishara said. And, in the end, that's exactly what they did.",
+      "contextSi": "\"අපි ඇවිදගෙන ගිහින් කොහෙද ගිහින් ඉවර වෙනවද කියලා බලමුද?\" ඉෂාරා කිව්වා. අන්තිමට, ඔවුන් කළේ හරියටම ඒකයි.",
+      "q": "කතාව අනුව: අන්තිමට ඔවුන් සෙනසුරාදාවේ කළේ මොකක්ද?",
+      "options": [
+        "පයින් කන්ද නැගුවා",
+        "සැලසුමක් නැතුව ඇවිද්දා",
+        "උද්භිද උද්‍යානයට ගියා",
+        "ගෙදර ඉන්නවා"
+      ],
+      "answer": 1,
+      "explainSi": "'that's exactly what they did' — කිසිම සැලසුමක් නොකළ එකම එකයි කළේ."
+    },
+    {
+      "id": "a2-14-q16",
+      "context": "It turned out to be the best Saturday they'd had in months — no plan, no argument, just three friends walking until they got hungry.",
+      "contextSi": "මාස ගණනකින් ඔවුන්ට තිබූ හොඳම සෙනසුරාදාව ඒක වුණා — සැලසුමක් නෑ, තර්කයක් නෑ, යාළුවෝ තුන්දෙනෙක් බඩගිනි වෙනකම් ඇවිදගෙන යාම විතරයි.",
+      "q": "කතාව අනුව: කථාවේ විහිළුව/පාඩම කුමක්ද?",
+      "options": [
+        "සැලසුම් හැම විටම වැදගත්",
+        "විනාඩි විස්සක් තිස්සේ තර්ක කළ සැලසුමට වඩා, කිසිම සැලසුමක් නැති දවස හොඳ වුණා",
+        "පයින් කන්ද නැගීම හොඳම විකල්පය වුණා",
+        "යාළුවෝ තර්ක කළා"
+      ],
+      "answer": 1,
+      "explainSi": "'no plan, no argument' — ගොඩක් යෝජනා විස්තර කළත්, හොඳම දේ වුණේ කිසිවක් තෝරාගන්නේ නැති එකයි."
+    },
+    {
+      "id": "a2-14-q17",
+      "context": "Shall we sit outside a while? / The evening's cool and slow. / Why don't we leave the dishes till / Tomorrow, and just go?",
+      "contextSi": "ටිකක් එළියේ ඉඳගමුද? / හවස සිසිල්, හෙමිහිට. / පිඟන් තියමු, කිසි / හේත වෙනකම්, දැන් යමු?",
+      "q": "කවියේ පළමු කොටසේ 'Shall we' සහ 'Why don't we' යෙදෙන්නේ කුමක් ගැනද?",
+      "options": [
+        "වැඩ කිරීමට",
+        "වගකීම් පසෙකට තියලා, දැන් සතුට තෝරාගැනීමට",
+        "පිඟන් හෝදන්න",
+        "ගෙදර ඉන්න"
+      ],
+      "answer": 1,
+      "explainSi": "'leave the dishes till tomorrow, and just go' — දැන් තෝරාගැනීම."
+    },
+    {
+      "id": "a2-14-q18",
+      "context": "How about no plan at all — / No map, no time, no place? / I'd rather walk with no idea / Than hurry anywhere with grace.",
+      "contextSi": "සැලසුමක් නැතුව කොහොමද — / සිතියමක් නෑ, වේලාවක් නෑ, තැනක් නෑ? / අදහසක් නැතුව ඇවිදින්නම / වේගවත්ව, ලස්සනට, කොහේටත් යනවාට වඩා.",
+      "q": "කවියේ අන්තිම කොටසේ කථකයාගේ කැමැත්ත කුමක්ද?",
+      "options": [
+        "ඉක්මනින් කොහේටහරි යාම",
+        "සැලසුමක් නැතුව, හෙමින් ඇවිදීම",
+        "සිතියමක් අනුගමනය කිරීම",
+        "වේලාවට ලක්ෂ්‍යයකට යාම"
+      ],
+      "answer": 1,
+      "explainSi": "'How about no plan at all' — කවියේම ප්‍රියතම යෝජනාව."
+    },
+    {
+      "id": "a2-14-q19",
+      "context": "Deshan: I'd rather keep it small, actually. What about just the four of us?",
+      "contextSi": "දේශාන්: ඇත්තටම, පොඩි කරගෙන තියන්න මම කැමතියි. හතරදෙනා විතරක් නම් කොහොමද?",
+      "q": "සංවාදයේ: දේශාන් 'keep it small' කියද්දී අදහස් කරන්නේ කුමක්ද?",
+      "options": [
+        "පොඩි ගෙදරක",
+        "ආරාධිතයන් ගණන අඩුව තියාගැනීම",
+        "රෑ කෑම කුඩා ප්‍රමාණයක් ගැනීම",
+        "පොඩි කේක් එකක්"
+      ],
+      "answer": 1,
+      "explainSi": "'just the four of us' — ලොකු ආරාධනාවක් වෙනුවට කුඩා පිරිසක්."
+    },
+    {
+      "id": "a2-14-q20",
+      "context": "Deshan: Maybe another time — it's a bit expensive. Why don't we just cook at home instead?",
+      "contextSi": "දේශාන්: සමහරවිට වෙන දවසක — ටිකක් මිල අධිකයි. ඒ වෙනුවට ගෙදර උයමුද?",
+      "q": "සංවාදයේ: 'Maybe another time' සහ 'Why don't we cook at home instead' — දෙකෙන්ම එකට කරන්නේ මොකක්ද?",
+      "options": [
+        "රෑ කෑම යෝජනාව සම්පූර්ණයෙන් ප්‍රතික්ෂේප කරනවා",
+        "එක යෝජනාව මෘදුව ප්‍රතික්ෂේප කරලා, වහාම විකල්පයක් ලබා දෙනවා",
+        "දෙකම එකඟතා",
+        "දෙකම නව යෝජනා, කලින් යෝජනාවට සම්බන්ධයක් නෑ"
+      ],
+      "answer": 1,
+      "explainSi": "ආචාරශීලී ප්‍රතික්ෂේපයක් හැම විටම විකල්පයක් සමඟ එනවා."
+    },
+    {
+      "id": "a2-14-q21",
+      "q": "කුමන වාක්‍යය වැරදිද?",
+      "options": [
+        "Shall we go for a walk?",
+        "Why don't you rest for a bit?",
+        "How about go swimming?",
+        "What about ordering pizza?"
+      ],
+      "answer": 2,
+      "explainSi": "'How about going swimming?' විය යුතුයි — 'How about' පසුව -ing."
+    },
+    {
+      "id": "a2-14-q22",
+      "q": "'ඒ වෙනුවට හයට හමු වෙනවා නම් කොහොමද?' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "How about meet at six instead?",
+        "How about meeting at six instead?",
+        "Shall we meeting at six instead?",
+        "Why don't we meeting at six instead?"
+      ],
+      "answer": 1,
+      "explainSi": "'How about' + -ing.",
+      "speak": "How about meeting at six instead?"
+    }
+  ]
+}

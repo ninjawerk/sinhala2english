@@ -1,0 +1,768 @@
+{
+  "hero": {
+    "src": "images/b1-11-hero.webp",
+    "alt": "Nadeesha leaning forward in a rattan chair mid-question, one hand open in the air, a cup of tea and a plate of biscuits on the low table in front of her, curtained window behind."
+  },
+  "goalsSi": [
+    "අතීතය ගැන wh- ප්‍රශ්න අහන්න",
+    "did + මූලික ක්‍රියාව කියන රටාව",
+    "'Who called you?' වගේ ප්‍රශ්නවලට did යෙදෙන්නේ නෑ කියන එක",
+    "අත්දැකීමක් ගැන කෙනෙකුගෙන් අහන්න",
+    "'What happened then?' වගේ වචනවලින් කතාව ඉදිරියට ගෙනියන්න",
+    "ඔබේම අත්දැකීමක් පිළිවෙළට කියන්න"
+  ],
+  "goals": [
+    "Ask wh-questions about the past",
+    "Use did plus the base verb",
+    "Know when did is not used",
+    "Ask someone about an experience",
+    "Keep a story moving with What happened then?",
+    "Tell an experience of your own in order"
+  ],
+  "sections": [
+    {
+      "type": "note",
+      "title": "Getting the story out of someone",
+      "titleSi": "අනිත් කෙනාගෙන් කතාව ගන්න",
+      "bodySi": "අත්දැකීමක් ගැන කථා කරන එක B1 මට්ටමේ ලොකුම දෙයක්. ඒත් ඒක පැති දෙකක් — කියන එකයි, අහන එකයි.\n\nකවුරු හරි 'I went to India last year' කිව්වම, ඊළඟ වාක්‍යය ඔයාගේ. එතනදී ඔයාට තියෙන ප්‍රශ්න මේවා:\n\n'Who did you go with?' — කාත් එක්කද ගියේ?\n'How long did you stay?' — කොච්චර කාලයක් හිටියද?\n'What did you see?' — මොනවද දැක්කේ?\n'Why did you go?' — ඇයි ගියේ?\n'What happened then?' — ඊට පස්සේ මොකද වුණේ?\n\nමේ ප්‍රශ්න පහ ඇතුළේ ඕනම කතාවක් එළියට එනවා. මේ පාඩම ඒවා හදන විදිහ ගැනයි.",
+      "body": "Telling an experience is half the skill; asking about one is the other half. These are the questions that pull a story out."
+    },
+    {
+      "type": "grammar",
+      "title": "wh- + did + base verb",
+      "titleSi": "wh- + did + මූලික ක්‍රියාව",
+      "explainSi": "a1-11 හි ඉගෙන ගත්තා do/does එක්ක ප්‍රශ්න අහන එක. අතීතයට ඒකම — ඒත් did එකෙන්.\n\nරටාව: wh- වචනය + did + subject + මූලික ක්‍රියාව?\n\n'What did you eat?' — මොනවද කෑවේ?\n'Where did they go?' — කොහෙද ගියේ?\n'When did she call?' — කවදාද ඇය කතා කළේ?\n'Why did you leave?' — ඇයි ගියේ?\n'How did you get there?' — කොහොමද එහෙ ගියේ?\n\nවැදගත්ම දේ: did තියෙනකොට ක්‍රියාව අතීතයට හරවන්නේ නෑ. අතීතය carry කරන්නේ did එකයි.\n\n✓ 'What did you eat?'\n✗ 'What did you ate?'\n\nදෙපාරක් අතීතය දාන්න එපා.",
+      "explain": "Wh-word + did + subject + base verb. Did already carries the past, so the main verb stays in its base form.",
+      "formula": "wh- + did + subject + මූලික ක්‍රියාව?",
+      "table": {
+        "headers": [
+          "ප්‍රශ්නය",
+          "සිංහල",
+          "අහන්නේ"
+        ],
+        "rows": [
+          [
+            "What did you do?",
+            "මොකද කළේ?",
+            "ක්‍රියාව"
+          ],
+          [
+            "Where did you stay?",
+            "කොහෙද නැවතුණේ?",
+            "තැන"
+          ],
+          [
+            "When did you arrive?",
+            "කවදාද ආවේ?",
+            "වෙලාව"
+          ],
+          [
+            "Who did you meet?",
+            "කාවද හම්බ වුණේ?",
+            "කෙනා"
+          ],
+          [
+            "Why did you go?",
+            "ඇයි ගියේ?",
+            "හේතුව"
+          ],
+          [
+            "How did you feel?",
+            "කොහොමද දැනුණේ?",
+            "විදිහ"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "Where did you learn to cook like that?",
+          "si": "එහෙම උයන්න ඉගෙන ගත්තේ කොහෙන්ද?"
+        },
+        {
+          "en": "How long did the journey take?",
+          "si": "ගමන කොච්චර වෙලාවක් ගියාද?"
+        },
+        {
+          "en": "What did the doctor say?",
+          "si": "දොස්තර මොකද කිව්වේ?"
+        }
+      ],
+      "watchOutSi": "'How long did you stay?' සහ 'How long have you been staying?' දෙකම හරි, ඒත් වෙනස් දේවල්. did — ඉවර වුණු ගමනක්. have been — තාමත් එහෙ ඉන්නවා (b1-10)."
+    },
+    {
+      "type": "grammar",
+      "title": "When did disappears",
+      "titleSi": "did නැති වෙන තැන",
+      "explainSi": "මේකට හුඟක් අය පැටලෙනවා. ප්‍රශ්නය අහන්නේ subject එක ගැනම නම්, did යෙදෙන්නේ නෑ. ක්‍රියාවම අතීතයට යනවා.\n\n'Who called you?' — කවුද ඔයාට කතා කළේ?\nමෙතන 'who' කියන්නේ කතා කරපු කෙනා. එයාව තමයි හොයන්නේ. එහෙනම් did නෑ.\n\n'Who did you call?' — ඔයා කාටද කතා කළේ?\nමෙතන කතා කරපු කෙනා ඔයා. හොයන්නේ ඔයා කතා කරපු කෙනාව. එහෙනම් did තියෙනවා.\n\nවෙනස ලොකුයි. එකම වචන, වෙනස් අර්ථ.\n\nඑහෙම ප්‍රශ්න තව:\n'What happened?' — මොකද වුණේ? (✗ What did happen?)\n'Who told you?' — කවුද කිව්වේ?\n'Which bus came first?' — කුමන බස් එකද කලින් ආවේ?\n\nපරීක්ෂාව: උත්තරය ප්‍රශ්නයේ subject එක නම් — did නෑ.",
+      "explain": "If the wh-word is the subject — Who called? What happened? — there is no did, and the verb itself goes into the past.",
+      "formula": "subject ගැන අහනවා නම්: wh- + past verb?  ·  නැත්නම්: wh- + did + subject + base verb?",
+      "table": {
+        "headers": [
+          "ප්‍රශ්නය",
+          "අහන්නේ",
+          "සිංහල"
+        ],
+        "rows": [
+          [
+            "Who called you?",
+            "කතා කරපු කෙනා",
+            "කවුද ඔයාට කතා කළේ?"
+          ],
+          [
+            "Who did you call?",
+            "ඔයා කතා කරපු කෙනා",
+            "ඔයා කාටද කතා කළේ?"
+          ],
+          [
+            "What happened?",
+            "සිද්ධිය",
+            "මොකද වුණේ?"
+          ],
+          [
+            "What did he say?",
+            "එයා කිව්ව දේ",
+            "එයා මොකද කිව්වේ?"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "Who broke the window?",
+          "si": "කවුද ජනේලේ කැඩුවේ?"
+        },
+        {
+          "en": "Who did they blame?",
+          "si": "ඒගොල්ලෝ දොස් කිව්වේ කාටද?"
+        },
+        {
+          "en": "What happened after that?",
+          "si": "ඊට පස්සේ මොකද වුණේ?"
+        }
+      ],
+      "watchOutSi": "'What did happen?' කියන එක සාමාන්‍ය කථාවේ වැරදියි. 'What happened?' කියන්න. (බලවත් අවධාරණයකදී 'What did happen?' අහන්න ලැබෙනවා, ඒත් ඒක වෙනම දෙයක්.)"
+    },
+    {
+      "type": "grammar",
+      "title": "Keeping it going",
+      "titleSi": "කතාව ඉදිරියට ගෙනියන එක",
+      "explainSi": "අනිත් කෙනා කථා කරනකොට ඔයා නිශ්ශබ්දව ඉන්නවා නම්, එයාට හිතෙනවා ඔයාට උනන්දුවක් නෑ කියලා. ඉංග්‍රීසි කථාවේදී අහගෙන ඉන්න කෙනා පොඩි වචන දානවා.\n\nකතාව ඉදිරියට ගෙනියන්න:\n'What happened then?' — ඊට පස්සේ මොකද වුණේ?\n'And then?' — ඊට පස්සේ?\n'So what did you do?' — එතකොට ඔයා මොකද කළේ?\n'Go on.' — කියන්න, කියන්න.\n\nඋනන්දුව පෙන්නන්න:\n'Really?' — ඇත්තටමද?\n'No!' — අනේ!\n'That's amazing.' — පුදුමයි.\n'You're joking.' — විහිළු කරනවා නේද?\n\nදුකක් නම්:\n'I'm sorry to hear that.' — ඒක අහන්න දුකයි.\n'That must have been hard.' — ඒක අමාරු ඇති.\n\nමේවා ව්‍යාකරණ නෙවෙයි — ඒත් මේවා නැත්නම් කථාව මැරෙනවා.",
+      "explain": "A listener who says nothing sounds uninterested. These short reactions are what keep an English conversation alive.",
+      "formula": "අහන්න → What happened then?  ·  පුදුම වෙන්න → Really?  ·  දුක් වෙන්න → I'm sorry to hear that.",
+      "examples": [
+        {
+          "en": "— And then the driver just left. — He left? What happened then?",
+          "si": "— ඊට පස්සේ රියදුරු යන්න ගියා. — ගියාද? ඊට පස්සේ මොකද වුණේ?"
+        },
+        {
+          "en": "— I waited four hours. — Really? That must have been hard.",
+          "si": "— මම පැය හතරක් බලාගෙන හිටියා. — ඇත්තටමද? ඒක අමාරු ඇති."
+        }
+      ],
+      "watchOutSi": "'Go on' කියන එක ආචාරශීලීයි — 'කියන්න, අහගෙන ඉන්නවා' කියන අදහස. ඒත් තදින් කිව්වොත් වෙනස් අර්ථයක් ඇවිත් වදිනවා, ඒ නිසා හෙමින් කියන්න."
+    },
+    {
+      "type": "vocab",
+      "title": "Asking and reacting",
+      "titleSi": "අහන එකයි, ප්‍රතිචාර දක්වන එකයි",
+      "introSi": "අත්දැකීමක් ගැන කථා කරන කථාවකදී මේවා නිතරම එනවා.",
+      "items": [
+        {
+          "en": "what happened",
+          "si": "මොකද වුණේ",
+          "say": "වොට් හැපන්ඩ්",
+          "exampleEn": "What happened then?",
+          "exampleSi": "ඊට පස්සේ මොකද වුණේ?"
+        },
+        {
+          "en": "how long",
+          "si": "කොච්චර කාලයක්",
+          "say": "හව් ලොං",
+          "exampleEn": "How long did you stay?",
+          "exampleSi": "කොච්චර කාලයක් හිටියද?"
+        },
+        {
+          "en": "who with",
+          "si": "කාත් එක්කද",
+          "say": "හූ විත්",
+          "exampleEn": "Who did you go with?",
+          "exampleSi": "කාත් එක්කද ගියේ?"
+        },
+        {
+          "en": "really?",
+          "si": "ඇත්තටමද?",
+          "say": "රියලි",
+          "exampleEn": "Really? I didn't know that.",
+          "exampleSi": "ඇත්තටමද? මම ඒක දැනගෙන හිටියේ නෑ."
+        },
+        {
+          "en": "go on",
+          "si": "කියන්න",
+          "say": "ගෝ ඔන්",
+          "exampleEn": "Go on, I'm listening.",
+          "exampleSi": "කියන්න, මම අහගෙන ඉන්නවා."
+        },
+        {
+          "en": "journey",
+          "si": "ගමන",
+          "say": "ජර්නි",
+          "exampleEn": "How was the journey?",
+          "exampleSi": "ගමන කොහොමද?"
+        },
+        {
+          "en": "trip",
+          "si": "සංචාරය",
+          "say": "ට්‍රිප්",
+          "exampleEn": "We took a trip to Ella.",
+          "exampleSi": "අපි ඇල්ලට ගමනක් ගියා."
+        },
+        {
+          "en": "accident",
+          "si": "අනතුර",
+          "say": "ඇක්සිඩන්ට්",
+          "exampleEn": "There was a small accident.",
+          "exampleSi": "පොඩි අනතුරක් වුණා."
+        },
+        {
+          "en": "on purpose",
+          "si": "දැනගෙනම",
+          "say": "ඔන් පර්පස්",
+          "exampleEn": "He didn't do it on purpose.",
+          "exampleSi": "එයා දැනගෙන ඒක කළේ නෑ."
+        },
+        {
+          "en": "by mistake",
+          "si": "වැරදීමකින්",
+          "say": "බයි මිස්ටේක්",
+          "exampleEn": "I took her bag by mistake.",
+          "exampleSi": "වැරදීමකින් මම ඇයගේ බෑග් එක ගත්තා."
+        },
+        {
+          "en": "in the end",
+          "si": "අන්තිමේදී",
+          "say": "ඉන් ද එන්ඩ්",
+          "exampleEn": "In the end we walked.",
+          "exampleSi": "අන්තිමේදී අපි ඇවිද්දා."
+        },
+        {
+          "en": "luckily",
+          "si": "වාසනාවකට",
+          "say": "ලක්කිලි",
+          "exampleEn": "Luckily, nobody was hurt.",
+          "exampleSi": "වාසනාවකට කාටවත් මොකුත් වුණේ නෑ."
+        },
+        {
+          "en": "unfortunately",
+          "si": "අවාසනාවකට",
+          "say": "අන්ෆෝචුනට්ලි",
+          "exampleEn": "Unfortunately, we missed it.",
+          "exampleSi": "අවාසනාවකට අපිට ඒක මඟ ඇරුණා."
+        },
+        {
+          "en": "manage to",
+          "si": "හැකි වෙනවා",
+          "say": "මැනේජ් ටු",
+          "exampleEn": "Did you manage to find it?",
+          "exampleSi": "ඒක හොයාගන්න පුළුවන් වුණාද?"
+        },
+        {
+          "en": "turn out",
+          "si": "අන්තිමට වෙනවා",
+          "say": "ටර්න් අවුට්",
+          "exampleEn": "It turned out fine.",
+          "exampleSi": "අන්තිමට හොඳට ඉවර වුණා."
+        },
+        {
+          "en": "that must have been",
+          "si": "ඒක ... ඇති",
+          "say": "දැට් මස්ට් හෑව් බීන්",
+          "exampleEn": "That must have been frightening.",
+          "exampleSi": "ඒක බය හිතෙන්න ඇති."
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "So what happened?",
+      "titleSi": "එතකොට මොකද වුණේ?",
+      "settingSi": "තේ එකක් බොමින් දෙන්නෙක්. නදීෂා ගමනක් ගැන කියනවා, රුවන් ප්‍රශ්න අහමින් කතාව ඉදිරියට ගෙනියනවා.",
+      "lines": [
+        {
+          "speaker": "Ruwan",
+          "en": "You went to Ella last month, didn't you? Who did you go with?",
+          "si": "ඔයා ගිය මාසේ ඇල්ලට ගියා නේද? කාත් එක්කද ගියේ?"
+        },
+        {
+          "speaker": "Nadeesha",
+          "en": "With my sister. We took the morning train.",
+          "si": "අක්කත් එක්ක. අපි උදේ කෝච්චියෙන් ගියා."
+        },
+        {
+          "speaker": "Ruwan",
+          "en": "How long did the journey take?",
+          "si": "ගමන කොච්චර වෙලාවක් ගියාද?"
+        },
+        {
+          "speaker": "Nadeesha",
+          "en": "Nine hours. And then the rain started.",
+          "si": "පැය නමයක්. ඊට පස්සේ වහින්න පටන් ගත්තා."
+        },
+        {
+          "speaker": "Ruwan",
+          "en": "Really? What happened then?",
+          "si": "ඇත්තටමද? ඊට පස්සේ මොකද වුණේ?"
+        },
+        {
+          "speaker": "Nadeesha",
+          "en": "Nothing opened. We sat in the guest house for two days.",
+          "si": "මොකුත් ඇරලා තිබුණේ නෑ. අපි දවස් දෙකක් ගෙස්ට් හවුස් එකේ ඉඳගෙන හිටියා."
+        },
+        {
+          "speaker": "Ruwan",
+          "en": "That must have been boring.",
+          "si": "ඒක කම්මැලි ඇති."
+        },
+        {
+          "speaker": "Nadeesha",
+          "en": "It turned out to be the best part. We talked for two days.",
+          "si": "අන්තිමට ඒක තමයි හොඳම කොටස. දවස් දෙකක් අපි කථා කළා."
+        }
+      ]
+    },
+    {
+      "type": "story",
+      "title": "The wrong bag",
+      "titleSi": "වැරදි බෑග් එක",
+      "introSi": "සිද්ධියක්, පිළිවෙළට. කියවලා ඉවර වුණාම මේ කතාව ගැන ප්‍රශ්න පහක් හදන්න.",
+      "paragraphs": [
+        {
+          "en": "Last April I took the night bus to Jaffna. It was full, so I put my bag under the seat and slept.",
+          "si": "ගිය අප්‍රේල් මම රෑ බස් එකෙන් යාපනේ ගියා. ඒක පිරිලා තිබුණු නිසා බෑග් එක සීට් එක යටින් තියලා නිදාගත්තා."
+        },
+        {
+          "en": "At five in the morning the conductor woke me. I picked up my bag and got off. It was only at the guest house that I opened it.",
+          "si": "උදේ පහට කොන්දොස්තර මාව ඇහැරෙව්වා. මම බෑග් එක අරගෙන බැස්සා. ගෙස්ට් හවුස් එකට ගිහින් තමයි ඒක ඇරියේ."
+        },
+        {
+          "en": "Inside were three school books, a comb, and a photograph of a family I had never seen. I had taken the wrong bag by mistake.",
+          "si": "ඇතුළේ තිබුණේ පාසල් පොත් තුනක්, පනාවක්, සහ මම කවදාවත් දැකලා නැති පවුලක ෆොටෝ එකක්. වැරදීමකින් මම වෙන බෑග් එකක් අරන් ඇවිත්."
+        },
+        {
+          "en": "I went back to the stand. A girl of about fifteen was standing there holding my bag, crying. \"I thought I had lost my books,\" she said. Neither of us had lost anything.",
+          "si": "මම ආපහු බස් නැවතුම්පොළට ගියා. පහළොවක් විතර වයසේ කෙල්ලෙක් මගේ බෑග් එක අල්ලගෙන අඬමින් හිටියා. \"මගේ පොත් නැති වුණා කියලා හිතුවා,\" ඇය කිව්වා. දෙන්නාගෙන් කාටවත් මොකුත් නැති වෙලා තිබුණේ නෑ."
+        }
+      ],
+      "glossary": [
+        {
+          "en": "conductor",
+          "si": "කොන්දොස්තර"
+        },
+        {
+          "en": "comb",
+          "si": "පනාව"
+        },
+        {
+          "en": "stand (bus)",
+          "si": "බස් නැවතුම්පොළ"
+        },
+        {
+          "en": "lose",
+          "si": "නැති වෙනවා"
+        }
+      ],
+      "questionsSi": [
+        "'Where did he go?' — උත්තරය මොකක්ද?",
+        "'What did he find in the bag?' — උත්තරය මොකක්ද?",
+        "'Who was crying?' — මේ ප්‍රශ්නයට did යෙදුවේ නැත්තේ ඇයි?"
+      ]
+    },
+    {
+      "type": "tip",
+      "title": "One past is enough",
+      "titleSi": "අතීතය එක පාරයි",
+      "bodySi": "did තියෙනකොට ක්‍රියාව මූලික ආකෘතියෙන්ම තියෙන්න ඕන.\n\n✗ 'What did you ate?'\n✓ 'What did you eat?'\n\n✗ 'Where did she went?'\n✓ 'Where did she go?'\n\ndid එකෙන් අතීතය කියලා ඉවරයි. ක්‍රියාවෙනුත් ආපහු කියන්න ඕන නෑ.\n\nඑකම ව්‍යතිරේකය — subject එක ගැනම අහන ප්‍රශ්න. එතන did නෑ, ඒ නිසා ක්‍රියාව අතීතයට යනවා: 'Who came?' 'What happened?'",
+      "body": "With did, the verb stays in its base form. The past is already marked once."
+    },
+    {
+      "type": "practice",
+      "title": "Make the question",
+      "titleSi": "ප්‍රශ්නය හදන්න",
+      "instructionSi": "දුන්න උත්තරයට ගැලපෙන ප්‍රශ්නය හදන්න. did ඕනද නැද්ද කියලා හිතන්න.",
+      "items": [
+        {
+          "prompt": "___ did you go? — To Ella.",
+          "answer": "Where",
+          "hintSi": "තැනක් ගැන.",
+          "full": "Where did you go?"
+        },
+        {
+          "prompt": "___ happened after that? — The rain started.",
+          "answer": "What",
+          "hintSi": "සිද්ධිය ගැනම අහනවා — did නෑ.",
+          "full": "What happened after that?"
+        },
+        {
+          "prompt": "___ did you go with? — With my sister.",
+          "answer": "Who",
+          "hintSi": "කෙනෙක් ගැන, ඒත් subject එක ඔයා.",
+          "full": "Who did you go with?"
+        },
+        {
+          "prompt": "___ called you last night? — My uncle.",
+          "answer": "Who",
+          "hintSi": "කතා කරපු කෙනා ගැනම — did නෑ.",
+          "full": "Who called you last night?"
+        },
+        {
+          "prompt": "___ long did the journey take? — Nine hours.",
+          "answer": "How",
+          "hintSi": "කාලය ගැන.",
+          "full": "How long did the journey take?"
+        },
+        {
+          "prompt": "___ did you leave so early? — Because of the traffic.",
+          "answer": "Why",
+          "hintSi": "හේතුව ගැන.",
+          "full": "Why did you leave so early?"
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "b1-11-q1",
+      "q": "අතීතය ගැන wh- ප්‍රශ්නයක රටාව?",
+      "options": [
+        "wh- + did + subject + මූලික ක්‍රියාව",
+        "wh- + did + subject + past ක්‍රියාව",
+        "wh- + subject + did + ක්‍රියාව",
+        "wh- + subject + ක්‍රියාව + did"
+      ],
+      "answer": 0,
+      "explainSi": "did අතීතය carry කරනවා, ඒ නිසා ක්‍රියාව මූලික ආකෘතියෙන්."
+    },
+    {
+      "id": "b1-11-q2",
+      "q": "කුමන එක හරිද?",
+      "options": [
+        "What did you ate?",
+        "What did you eat?",
+        "What you did eat?",
+        "What did you eaten?"
+      ],
+      "answer": 1,
+      "explainSi": "did + eat. අතීතය දෙපාරක් දාන්නේ නෑ.",
+      "speak": "What did you eat?"
+    },
+    {
+      "id": "b1-11-q3",
+      "q": "'කවුද ඔයාට කතා කළේ?' — කොහොමද?",
+      "options": [
+        "Who did call you?",
+        "Who called you?",
+        "Who did you call?",
+        "Who you called?"
+      ],
+      "answer": 1,
+      "explainSi": "කතා කරපු කෙනා ගැනම අහන නිසා did නෑ.",
+      "speak": "Who called you?"
+    },
+    {
+      "id": "b1-11-q4",
+      "q": "'ඔයා කාටද කතා කළේ?' — කොහොමද?",
+      "options": [
+        "Who called you?",
+        "Who did you call?",
+        "Who did call you?",
+        "Whom called you?"
+      ],
+      "answer": 1,
+      "explainSi": "මෙතන කතා කරපු කෙනා ඔයා — ඒ නිසා did තියෙනවා.",
+      "speak": "Who did you call?"
+    },
+    {
+      "id": "b1-11-q5",
+      "q": "'මොකද වුණේ?' — කොහොමද?",
+      "options": [
+        "What did happen?",
+        "What happened?",
+        "What was happen?",
+        "What did happened?"
+      ],
+      "answer": 1,
+      "explainSi": "සිද්ධිය ගැනම අහනවා — did නෑ."
+    },
+    {
+      "id": "b1-11-q6",
+      "q": "did යෙදෙන්නේ නැත්තේ කවදාද?",
+      "options": [
+        "ප්‍රශ්නය දිග වුණාම",
+        "wh- වචනය subject එක වුණාම",
+        "why ප්‍රශ්නවලට",
+        "he/she ප්‍රශ්නවලට"
+      ],
+      "answer": 1,
+      "explainSi": "Who came? What happened? — උත්තරය subject එකම නම් did නෑ."
+    },
+    {
+      "id": "b1-11-q7",
+      "q": "හිස් තැනට: '___ did she stay? — For a week.'",
+      "options": [
+        "How long",
+        "How many",
+        "How much",
+        "How far"
+      ],
+      "answer": 0,
+      "explainSi": "කාලය ගැන — How long.",
+      "speak": "How long did she stay?"
+    },
+    {
+      "id": "b1-11-q8",
+      "q": "කුමන එක වැරදිද?",
+      "options": [
+        "Where did she go?",
+        "Where did she went?",
+        "Why did he leave?",
+        "When did they arrive?"
+      ],
+      "answer": 1,
+      "explainSi": "did + go. 'went' යෙදෙන්නේ නෑ."
+    },
+    {
+      "id": "b1-11-q9",
+      "q": "අනිත් කෙනාගේ කතාව ඉදිරියට ගෙනියන්න කියන්නේ?",
+      "options": [
+        "Stop.",
+        "What happened then?",
+        "I know.",
+        "Never mind."
+      ],
+      "answer": 1,
+      "explainSi": "'What happened then?' — ඊට පස්සේ මොකද වුණේ?"
+    },
+    {
+      "id": "b1-11-q10",
+      "q": "කවුරු හරි දුකක් කිව්වම කියන්නේ?",
+      "options": [
+        "Really?",
+        "I'm sorry to hear that.",
+        "Go on.",
+        "That's amazing."
+      ],
+      "answer": 1,
+      "explainSi": "දුකකට ප්‍රතිචාරය — I'm sorry to hear that."
+    },
+    {
+      "id": "b1-11-q11",
+      "q": "'Who broke the window?' — මෙතන did නැත්තේ ඇයි?",
+      "options": [
+        "ප්‍රශ්නය කෙටි නිසා",
+        "කැඩුව කෙනා ගැනම අහන නිසා",
+        "'break' නිසා",
+        "වැරදි වාක්‍යයක් නිසා"
+      ],
+      "answer": 1,
+      "explainSi": "wh- වචනය subject එකයි."
+    },
+    {
+      "id": "b1-11-q12",
+      "q": "හිස් තැනට: '___ did you get there? — By train.'",
+      "options": [
+        "What",
+        "How",
+        "Who",
+        "When"
+      ],
+      "answer": 1,
+      "explainSi": "විදිහ ගැන — How.",
+      "speak": "How did you get there?"
+    },
+    {
+      "id": "b1-11-q13",
+      "q": "'How long did you stay?' සහ 'How long have you been staying?' — වෙනස?",
+      "options": [
+        "වෙනසක් නෑ",
+        "පළවෙනි එක ඉවර වුණු ගමනක්, දෙවෙනි එක තාම දිගටම",
+        "දෙවෙනි එක වැරදියි",
+        "පළවෙනි එක අනාගතය"
+      ],
+      "answer": 1,
+      "explainSi": "did — ඉවරයි. have been — තාමත් එහෙ."
+    },
+    {
+      "id": "b1-11-q14",
+      "q": "'වැරදීමකින්' කියන්නේ කොහොමද?",
+      "options": [
+        "on purpose",
+        "by mistake",
+        "in the end",
+        "luckily"
+      ],
+      "answer": 1,
+      "explainSi": "by mistake — දැනගෙන නෙවෙයි."
+    },
+    {
+      "id": "b1-11-q15",
+      "q": "හිස් තැනට: '___ did the doctor say?'",
+      "options": [
+        "What",
+        "Who",
+        "Where",
+        "How long"
+      ],
+      "answer": 0,
+      "explainSi": "කිව්ව දේ ගැන — What.",
+      "speak": "What did the doctor say?"
+    },
+    {
+      "id": "b1-11-q16",
+      "q": "'That must have been hard.' — කවදාද කියන්නේ?",
+      "options": [
+        "අනිත් කෙනා අමාරු දෙයක් කිව්වම",
+        "සතුටු පුවතකට",
+        "සමුගන්නකොට",
+        "ප්‍රශ්නයක් අහනකොට"
+      ],
+      "answer": 0,
+      "explainSi": "අනිත් කෙනාගේ අමාරුව තේරෙනවා කියලා පෙන්නන ක්‍රමයක්."
+    },
+    {
+      "id": "b1-11-q17",
+      "q": "කුමන ප්‍රශ්නයට did ඕන නෑ?",
+      "options": [
+        "___ you see? (මොනවද ඔයා දැක්කේ)",
+        "___ happened? (මොකද වුණේ)",
+        "___ she go? (කොහෙද ඇය ගියේ)",
+        "___ they leave? (ඇයි ඒගොල්ලෝ ගියේ)"
+      ],
+      "answer": 1,
+      "explainSi": "'What happened?' — සිද්ධිය ගැනම අහනවා."
+    },
+    {
+      "id": "b1-11-q18",
+      "q": "අත්දැකීමක් ගැන අහන්න හොඳම පළවෙනි ප්‍රශ්නය?",
+      "options": [
+        "Why?",
+        "Who did you go with?",
+        "Are you sure?",
+        "Did you like it or not?"
+      ],
+      "answer": 1,
+      "explainSi": "විවෘත ප්‍රශ්නයක් — කතාව එළියට එනවා. 'Yes/No' ප්‍රශ්නයකින් කතාව නවතිනවා."
+    }
+  ],
+  "vocab": [
+    {
+      "en": "what happened",
+      "si": "මොකද වුණේ",
+      "say": "වොට් හැපන්ඩ්",
+      "exampleEn": "What happened then?",
+      "exampleSi": "ඊට පස්සේ මොකද වුණේ?"
+    },
+    {
+      "en": "how long",
+      "si": "කොච්චර කාලයක්",
+      "say": "හව් ලොං",
+      "exampleEn": "How long did you stay?",
+      "exampleSi": "කොච්චර කාලයක් හිටියද?"
+    },
+    {
+      "en": "who with",
+      "si": "කාත් එක්කද",
+      "say": "හූ විත්",
+      "exampleEn": "Who did you go with?",
+      "exampleSi": "කාත් එක්කද ගියේ?"
+    },
+    {
+      "en": "really?",
+      "si": "ඇත්තටමද?",
+      "say": "රියලි",
+      "exampleEn": "Really? I didn't know that.",
+      "exampleSi": "ඇත්තටමද? මම ඒක දැනගෙන හිටියේ නෑ."
+    },
+    {
+      "en": "go on",
+      "si": "කියන්න",
+      "say": "ගෝ ඔන්",
+      "exampleEn": "Go on, I'm listening.",
+      "exampleSi": "කියන්න, මම අහගෙන ඉන්නවා."
+    },
+    {
+      "en": "journey",
+      "si": "ගමන",
+      "say": "ජර්නි",
+      "exampleEn": "How was the journey?",
+      "exampleSi": "ගමන කොහොමද?"
+    },
+    {
+      "en": "trip",
+      "si": "සංචාරය",
+      "say": "ට්‍රිප්",
+      "exampleEn": "We took a trip to Ella.",
+      "exampleSi": "අපි ඇල්ලට ගමනක් ගියා."
+    },
+    {
+      "en": "accident",
+      "si": "අනතුර",
+      "say": "ඇක්සිඩන්ට්",
+      "exampleEn": "There was a small accident.",
+      "exampleSi": "පොඩි අනතුරක් වුණා."
+    },
+    {
+      "en": "on purpose",
+      "si": "දැනගෙනම",
+      "say": "ඔන් පර්පස්",
+      "exampleEn": "He didn't do it on purpose.",
+      "exampleSi": "එයා දැනගෙන ඒක කළේ නෑ."
+    },
+    {
+      "en": "by mistake",
+      "si": "වැරදීමකින්",
+      "say": "බයි මිස්ටේක්",
+      "exampleEn": "I took her bag by mistake.",
+      "exampleSi": "වැරදීමකින් මම ඇයගේ බෑග් එක ගත්තා."
+    },
+    {
+      "en": "in the end",
+      "si": "අන්තිමේදී",
+      "say": "ඉන් ද එන්ඩ්",
+      "exampleEn": "In the end we walked.",
+      "exampleSi": "අන්තිමේදී අපි ඇවිද්දා."
+    },
+    {
+      "en": "luckily",
+      "si": "වාසනාවකට",
+      "say": "ලක්කිලි",
+      "exampleEn": "Luckily, nobody was hurt.",
+      "exampleSi": "වාසනාවකට කාටවත් මොකුත් වුණේ නෑ."
+    },
+    {
+      "en": "unfortunately",
+      "si": "අවාසනාවකට",
+      "say": "අන්ෆෝචුනට්ලි",
+      "exampleEn": "Unfortunately, we missed it.",
+      "exampleSi": "අවාසනාවකට අපිට ඒක මඟ ඇරුණා."
+    },
+    {
+      "en": "manage to",
+      "si": "හැකි වෙනවා",
+      "say": "මැනේජ් ටු",
+      "exampleEn": "Did you manage to find it?",
+      "exampleSi": "ඒක හොයාගන්න පුළුවන් වුණාද?"
+    },
+    {
+      "en": "turn out",
+      "si": "අන්තිමට වෙනවා",
+      "say": "ටර්න් අවුට්",
+      "exampleEn": "It turned out fine.",
+      "exampleSi": "අන්තිමට හොඳට ඉවර වුණා."
+    },
+    {
+      "en": "that must have been",
+      "si": "ඒක ... ඇති",
+      "say": "දැට් මස්ට් හෑව් බීන්",
+      "exampleEn": "That must have been frightening.",
+      "exampleSi": "ඒක බය හිතෙන්න ඇති."
+    }
+  ]
+}

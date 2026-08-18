@@ -1,0 +1,917 @@
+{
+  "hero": {
+    "src": "images/a1-24-hero.webp",
+    "alt": "Nadeesha at a desk writing a short note with a pen, an envelope beside her hand, a pot of pens and a mug of tea, quiet afternoon light."
+  },
+  "goalsSi": [
+    "මේසය මත තියන කෙටි සටහනක් ලිවීම",
+    "කෙටි පණිවුඩයක අත්හරින්න පුළුවන් දේ සහ බැරි දේ",
+    "එකම පණිවුඩය කියවන කෙනා අනුව වෙනස් වන ආකාරය",
+    "පළමු විද්‍යුත් ලිපිය — විෂය, ආමන්ත්‍රණය, අවසානය",
+    "ලොකු අකුරු සහ තිත් — අලංකාරයක් නෙවෙයි, අර්ථයක්",
+    "ආරම්භ සහ අවසාන වචන — කුමන ඒවා එකට යෙදිය හැකිද"
+  ],
+  "goals": [
+    "Leave a clear note",
+    "Write a text that is short but complete",
+    "Write a first email",
+    "Use capitals and full stops correctly"
+  ],
+  "sections": [
+    {
+      "type": "note",
+      "title": "Writing is not speech written down",
+      "titleSi": "ලිවීම කියන්නේ කථාව ලියලා තියන එක නෙවෙයි",
+      "bodySi": "කථා කරද්දී මූණ, ස්වරය, අත් — ඒ සියල්ල උදව් කරනවා. වචනයක් වැරදුණත් අනිත් කෙනාට තේරෙනවා.\n\nලියද්දී ඒ කිසිවක් නෑ. තියෙන්නේ වචන විතරයි. එනිසා:\n\n1. වැරැද්දක් තිබුණොත් ඒක එතනම තියෙනවා. කථාවේ වැරැද්දක් ගිහින් ඉවරයි; ලියපු වැරැද්දක් කවුරුත් නැවත නැවත කියවනවා.\n2. කියවන කෙනා අනුව ස්වරූපය වෙනස් වෙනවා. එකම ඉල්ලීම යාළුවෙකුට, අසල්වැසියෙකුට, ගෙදර හිමිකරුට — වෙනස් ආකාර තුනක්.\n\nයාළුවෙකුට: Can't come today, sorry!\nඅසල්වැසියෙකුට: Sorry, I can't come today.\nගෙදර හිමිකරුට: Dear Mr Perera, I am sorry, but I cannot come today.\n\nඅර්ථය එකයි. වචන ගණන සහ ස්වරූපය තුනක්.\n\nමේ පාඩම අලුත් ව්‍යාකරණයක් ගැන නෙවෙයි. දන්න ඉංග්‍රීසිය කවුරු කියවනවාද කියලා බලලා ලියන එක ගැනයි.",
+      "body": "The same message takes a different shape for each reader."
+    },
+    {
+      "type": "grammar",
+      "title": "A note on the table",
+      "titleSi": "මේසය මත සටහනක්",
+      "explainSi": "සටහනක් කෙටියි. ආමන්ත්‍රණයක් ඕන නෑ — කාටද කියලා දෙන්නාම දන්නවා. වැදගත් තොරතුර මුලින්ම.",
+      "formula": "who it's for (optional) + what happened + what to do",
+      "table": {
+        "headers": [
+          "තත්ත්වය",
+          "සටහන"
+        ],
+        "rows": [
+          [
+            "ආපහු එන වෙලාව",
+            "Back at 6."
+          ],
+          [
+            "කෑම",
+            "Your food is in the pot. Heat it."
+          ],
+          [
+            "අමතන්න",
+            "Amma called. Call her back."
+          ],
+          [
+            "යතුර",
+            "Key is with Nimal next door."
+          ],
+          [
+            "සමාව",
+            "Sorry — took your umbrella. Will return it tonight."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "Gone to the market. Back at 11. Your tea is on the stove.",
+          "si": "වෙළඳපොළට ගියා. එකොළහට එනවා. තේ ලිප උඩ."
+        },
+        {
+          "en": "The doctor changed the time to 4.30, not 3.30.",
+          "si": "වෛද්‍යවරයා වෙලාව 4.30ට මාරු කළා, 3.30 නෙවෙයි."
+        }
+      ],
+      "watchOutSi": "සටහනක් කෙටි වුණාට වැදගත් තොරතුර අත්හරින්න එපා. 'Back later' කියන එකෙන් වැඩක් නෑ — 'Back at 6' කියන එකෙන් වැඩක් තියෙනවා."
+    },
+    {
+      "type": "grammar",
+      "title": "A text message",
+      "titleSi": "කෙටි පණිවුඩයක්",
+      "explainSi": "කෙටි පණිවුඩවල කර්තෘව අත්හරින්න පුළුවන් — 'I' සහ 'It' නැතුව තේරෙනවා. නමුත් වැදගත් තොරතුරක් අත්හැරෙන්නේ නෑ.",
+      "formula": "drop I / It / the — never drop the fact",
+      "table": {
+        "headers": [
+          "සම්පූර්ණ",
+          "පණිවුඩයේ",
+          "නිවැරදිද?"
+        ],
+        "rows": [
+          [
+            "I can't come today.",
+            "Can't come today.",
+            "✓"
+          ],
+          [
+            "I am on the bus.",
+            "On the bus.",
+            "✓"
+          ],
+          [
+            "It is raining here.",
+            "Raining here.",
+            "✓"
+          ],
+          [
+            "I will be there at six.",
+            "There at 6.",
+            "✓"
+          ],
+          [
+            "The meeting moved to Friday.",
+            "Moved.",
+            "✗ — කවදාටද?"
+          ],
+          [
+            "I'm sorry, I can't come.",
+            "no",
+            "✗ — රළුයි"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "Running late — start without me. 15 mins.",
+          "si": "පරක්කුයි — මාව නැතුව පටන් ගන්න. විනාඩි 15."
+        },
+        {
+          "en": "Can't talk now. Call you after 5?",
+          "si": "දැන් කථා කරන්න බෑ. පහට පස්සේ කතා කරන්නද?"
+        }
+      ],
+      "watchOutSi": "කෙටි කරන එකයි රළු වෙන එකයි දෙකක්. 'No' කියන එක තනියම රළුයි — 'Sorry, can't today' කියන එකත් කෙටියි, නමුත් රළු නෑ."
+    },
+    {
+      "type": "grammar",
+      "title": "The same message, three readers",
+      "titleSi": "එකම පණිවුඩය, කියවන්නෝ තුන්දෙනෙක්",
+      "explainSi": "කවුරු කියවනවාද කියලා තමයි ස්වරූපය තීරණය කරන්නේ. එකම කරුණ, වෙනස් ආකාර තුනක්.",
+      "formula": "friend → short  ·  neighbour → polite sentence  ·  official → full email",
+      "table": {
+        "headers": [
+          "කියවන්නා",
+          "ලියන ආකාරය"
+        ],
+        "rows": [
+          [
+            "යාළුවෙක් (text)",
+            "Can't come today, sorry!"
+          ],
+          [
+            "අසල්වැසියෙක් (note)",
+            "Sorry, I can't come today. See you tomorrow."
+          ],
+          [
+            "ගෙදර හිමිකරු (email)",
+            "Dear Mr Perera, I am sorry, but I cannot come today."
+          ],
+          [
+            "යාළුවෙක්",
+            "Rent late this month, ok?"
+          ],
+          [
+            "ගෙදර හිමිකරු",
+            "Dear Mr Perera, I am afraid the rent will be a few days late."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "Hi Nadeeka, are you free at four?",
+          "si": "හායි නදීකා, හතරට නිදහස්ද?"
+        },
+        {
+          "en": "Dear Mrs Fernando, would four o'clock be convenient?",
+          "si": "ගරු ෆර්නැන්ඩෝ මහත්මිය, හතරට පහසුද?"
+        }
+      ],
+      "watchOutSi": "නොදන්නා කෙනෙකුට ලියද්දී කෙටි කරන්න එපා. 'Cant come' කියලා ලිව්වොත් ඒක කම්මැලිකමක් විදිහට කියවෙනවා — කොමාව නැති නිසාත් තමයි."
+    },
+    {
+      "type": "grammar",
+      "title": "A first email",
+      "titleSi": "පළමු විද්‍යුත් ලිපිය",
+      "explainSi": "කොටස් හතරක් තියෙනවා. හතරම කෙටි වුණාට හතරම ඕන.",
+      "formula": "Subject · Dear/Hi + name · one short paragraph · Thanks + your name",
+      "table": {
+        "headers": [
+          "කොටස",
+          "උදාහරණය",
+          "සටහන"
+        ],
+        "rows": [
+          [
+            "විෂය",
+            "Leave on Friday",
+            "වචන කිහිපයක් — වාක්‍යයක් නෙවෙයි"
+          ],
+          [
+            "ආමන්ත්‍රණය (විධිමත්)",
+            "Dear Mr Perera,",
+            "නම දන්නවා නම්"
+          ],
+          [
+            "ආමන්ත්‍රණය (හිතවත්)",
+            "Hi Nadeeka,",
+            "සගයෙක් නම්"
+          ],
+          [
+            "ශරීරය",
+            "I would like to take Friday off, because my mother has a hospital appointment.",
+            "එක් අදහසක්"
+          ],
+          [
+            "අවසානය (හිතවත්)",
+            "Thanks,",
+            "සාමාන්‍ය"
+          ],
+          [
+            "අවසානය (විධිමත්)",
+            "Best wishes,",
+            "නොදන්නා අයට"
+          ],
+          [
+            "නම",
+            "Kasun",
+            "අන්තිම පේළිය"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "Subject: Leave on Friday\n\nDear Mr Perera,\n\nI would like to take Friday off, because my mother has a hospital appointment. I will finish the report on Thursday.\n\nThanks,\nKasun",
+          "si": "විෂය: සිකුරාදා නිවාඩුව\n\nගරු පෙරේරා මහතා,\n\nසිකුරාදා නිවාඩුවක් ගන්න කැමතියි, මොකද අම්මාට රෝහල් වේලාවක් තියෙනවා. බ්‍රහස්පතින්දා වාර්තාව ඉවර කරනවා.\n\nස්තූතියි,\nකසුන්"
+        }
+      ],
+      "watchOutSi": "'Dear' සමඟ 'Hi' යෙදෙන්නේ නෑ, සහ 'Dear Sir' සමඟ නමක් යෙදෙන්නේ නෑ. නම දන්නවා නම් 'Dear Mr Perera'; නොදන්නවා නම් 'Dear Sir or Madam'."
+    },
+    {
+      "type": "tip",
+      "title": "Capitals and full stops carry meaning",
+      "titleSi": "ලොකු අකුරු සහ තිත් අර්ථය දරනවා",
+      "bodySi": "මේවා අලංකාරයක් නෙවෙයි. ඒවා නැති වුණාම අර්ථය වෙනස් වෙනවා.\n\n1. 'i' කියන එක හැම විටම 'I'. ඉංග්‍රීසියේ තනි අකුරක් ලොකු අකුරින් ලියන එකම වචනය මේකයි.\n2. නම්, රටවල්, භාෂා, දවස්, මාස — ලොකු අකුරින්: Nimal, Sri Lanka, English, Monday, April.\n   නමුත් ඍතු සහ විෂය නොවේ: summer, science.\n3. තිතක් නැති වුණාම වාක්‍ය දෙකක් එකක් වෙනවා:\n\n   Let's eat Amma.  ← අම්මාව කමු\n   Let's eat, Amma. ← අම්මේ, කමු\n\n   කොමාවකින් ජීවිතයක් බේරෙනවා.\n\n4. හැම වාක්‍යයක්ම ලොකු අකුරකින් පටන් අරගෙන තිතකින් ඉවර වෙනවා. පණිවුඩයක වුණත්.\n\nලියපු දෙයක් නැවත කියවන්න — ලොකු අකුරු, තිත්, ඊට පස්සේ අර්ථය."
+    },
+    {
+      "type": "vocab",
+      "title": "Words for writing",
+      "titleSi": "ලිවීමේ වචන",
+      "items": [
+        {
+          "en": "note",
+          "si": "සටහන",
+          "say": "නෝට්"
+        },
+        {
+          "en": "message",
+          "si": "පණිවුඩය",
+          "say": "මෙසේජ්"
+        },
+        {
+          "en": "subject (line)",
+          "si": "විෂය",
+          "say": "සබ්ජෙක්ට්"
+        },
+        {
+          "en": "Dear …",
+          "si": "ගරු …",
+          "say": "ඩියර්"
+        },
+        {
+          "en": "Thanks,",
+          "si": "ස්තූතියි,",
+          "say": "තෑන්ක්ස්"
+        },
+        {
+          "en": "Best wishes,",
+          "si": "සුබ පැතුම්,",
+          "say": "බෙස්ට් විෂස්"
+        },
+        {
+          "en": "reply",
+          "si": "පිළිතුරු දෙනවා",
+          "say": "රිප්ලයි"
+        },
+        {
+          "en": "send",
+          "si": "යවනවා",
+          "say": "සෙන්ඩ්"
+        },
+        {
+          "en": "attach",
+          "si": "අමුණනවා",
+          "say": "අටෑච්"
+        },
+        {
+          "en": "capital letter",
+          "si": "ලොකු අකුර",
+          "say": "කැපිටල් ලෙටර්"
+        },
+        {
+          "en": "full stop",
+          "si": "තිත",
+          "say": "ෆුල් ස්ටොප්"
+        },
+        {
+          "en": "comma",
+          "si": "කොමාව",
+          "say": "කොමා"
+        },
+        {
+          "en": "appointment",
+          "si": "නියමිත වේලාව",
+          "say": "අපොයින්ට්මන්ට්"
+        },
+        {
+          "en": "leave (time off)",
+          "si": "නිවාඩුව",
+          "say": "ලීව්"
+        },
+        {
+          "en": "rent",
+          "si": "කුලිය",
+          "say": "රෙන්ට්"
+        },
+        {
+          "en": "landlord",
+          "si": "ගෙදර හිමිකරු",
+          "say": "ලෑන්ඩ්ලෝඩ්"
+        },
+        {
+          "en": "polite",
+          "si": "ආචාරශීලී",
+          "say": "පොලයිට්"
+        },
+        {
+          "en": "rude",
+          "si": "රළු",
+          "say": "රූඩ්"
+        }
+      ]
+    },
+    {
+      "type": "story",
+      "title": "Four Pieces of Paper",
+      "titleSi": "කඩදාසි කැබලි හතරක්",
+      "introSi": "මේ කතාව ලියපු දේවලින් හදලා තියෙන්නේ. සටහන් හතර කියවලා මොකද වුණේ කියලා ඔබම හදාගන්න.",
+      "paragraphs": [
+        {
+          "en": "The first note was on the kitchen table on Monday morning, in my mother's writing: \"Gone to Kurunegala. Back Wednesday. Your food is in the fridge. Don't give the dog rice.\"",
+          "si": "පළමු සටහන සඳුදා උදේ කුස්සියේ මේසය මතේ, අම්මාගේ අකුරෙන්: \"කුරුණෑගලට ගියා. බදාදා එනවා. කෑම ෆ්‍රිජ් එකේ. බල්ලාට බත් දෙන්න එපා.\""
+        },
+        {
+          "en": "The second was a text from my sister at 4.10 on Monday: \"Amma didnt go to kurunegala she is at the hospital with achchi dont tell thaaththa yet\"",
+          "si": "දෙවැන්න සඳුදා 4.10ට අක්කාගෙන් ආපු පණිවුඩයක්: \"අම්මා කුරුණෑගල ගියේ නෑ එයා ආච්චි එක්ක රෝහලේ තාත්තට තාම කියන්න එපා\""
+        },
+        {
+          "en": "I read it four times. There was no full stop anywhere in it, so the three facts ran into each other and I could not tell which one was the important one.",
+          "si": "මම හතර පාරක් කියෙව්වා. ඒකේ කොහෙවත් තිතක් නෑ, එනිසා කරුණු තුන එකට එකතු වෙලා, වැදගත්ම එක කුමක්ද කියලා තේරුම් ගන්න බැරි වුණා."
+        },
+        {
+          "en": "The third was my own, left on the table for my father, and I wrote it eleven times: \"Thaaththa — Amma called. She is staying in Kurunegala until Wednesday. Nothing is wrong. Your food is in the fridge.\"",
+          "si": "තුන්වැන්න මගේම එක, තාත්තාට තියලා ගිය එක — මම ඒක එකොළොස් පාරක් ලිව්වා: \"තාත්තා — අම්මා කතා කළා. එයා බදාදා වෙනකම් කුරුණෑගල ඉන්නවා. කිසි වරදක් නෑ. කෑම ෆ්‍රිජ් එකේ.\""
+        },
+        {
+          "en": "Two of those four sentences were true. My father read it, nodded, and ate. On Wednesday my mother came home with my grandmother, who was thinner and who was fine.",
+          "si": "ඒ වාක්‍ය හතරෙන් දෙකක් ඇත්ත. තාත්තා ඒක කියවලා, හිස සලලා, කෑම කෑවා. බදාදා අම්මා ආච්චිත් එක්ක ගෙදර ආවා — ආච්චි කෙට්ටු වෙලා, හැබැයි හොඳින්."
+        },
+        {
+          "en": "The fourth was on my bed that night, in my mother's writing again: \"Thank you for the note. Next time write the truth and I will deal with your father. You are not old enough to carry this and you did it well.\"",
+          "si": "හතරවැන්න ඒ රෑ මගේ ඇඳ මතේ, ආපහු අම්මාගේ අකුරෙන්: \"සටහනට ස්තූතියි. ඊළඟ පාර ඇත්ත ලියන්න, තාත්තා මම බලාගන්නම්. මේක උස්සන්න තරම් ඔබ ලොකු නෑ, හැබැයි ඔබ ඒක හොඳට කළා.\""
+        }
+      ],
+      "glossary": [
+        {
+          "en": "writing (handwriting)",
+          "si": "අකුර"
+        },
+        {
+          "en": "fridge",
+          "si": "ශීතකරණය"
+        },
+        {
+          "en": "run into each other",
+          "si": "එකට එකතු වෙනවා"
+        },
+        {
+          "en": "until",
+          "si": "වෙනකම්"
+        },
+        {
+          "en": "nod",
+          "si": "හිස සලනවා"
+        },
+        {
+          "en": "thinner",
+          "si": "වඩා කෙට්ටු"
+        },
+        {
+          "en": "deal with",
+          "si": "බලාගන්නවා"
+        },
+        {
+          "en": "carry",
+          "si": "උස්සනවා"
+        }
+      ],
+      "questionsSi": [
+        "අක්කාගේ පණිවුඩය කියවන්න අමාරු වුණේ ඇයි?",
+        "කථකයාගේ සටහනේ වාක්‍ය හතරෙන් දෙකක් විතරක් ඇත්ත වුණේ කොහොමද?",
+        "කථකයා සටහන එකොළොස් පාරක් ලිව්වේ ඇයි?",
+        "අම්මාගේ අන්තිම සටහනෙන් කියවෙන්නේ මොකක්ද?"
+      ]
+    },
+    {
+      "type": "poem",
+      "title": "Full Stop",
+      "titleSi": "තිත",
+      "introSi": "කෙටි කවියක් — විරාම ලකුණු ගැන.",
+      "lines": [
+        {
+          "en": "A comma is a breath.",
+          "si": "කොමාවක් කියන්නේ හුස්මක්."
+        },
+        {
+          "en": "A full stop is a door.",
+          "si": "තිතක් කියන්නේ දොරක්."
+        },
+        {
+          "en": "A question mark is somebody",
+          "si": "ප්‍රශ්නාර්ථයක් කියන්නේ"
+        },
+        {
+          "en": "Still standing on the floor.",
+          "si": "තාමත් බිම ඉන්න කෙනෙක්."
+        },
+        {
+          "en": "",
+          "si": ""
+        },
+        {
+          "en": "My father wrote without them once —",
+          "si": "වරක් තාත්තා ඒවා නැතුව ලිව්වා —"
+        },
+        {
+          "en": "One line, and nothing clear.",
+          "si": "එක පේළියක්, කිසිවක් පැහැදිලි නෑ."
+        },
+        {
+          "en": "I read it twice. I read it ten times.",
+          "si": "දෙපාරක් කියෙව්වා. දහ පාරක් කියෙව්වා."
+        },
+        {
+          "en": "He was saying: I am here.",
+          "si": "එයා කියමින් හිටියේ: මම මෙතන කියලා."
+        }
+      ],
+      "noteSi": "විරාම ලකුණු කියන්නේ කියවන කෙනාට දෙන උපදෙස්. ඒවා නැති වුණාම අර්ථය නැති වෙන්නේ නෑ — ඒක හොයාගන්න වෙන එක අනිත් කෙනාට පවරනවා."
+    },
+    {
+      "type": "dialogue",
+      "title": "Is this email all right?",
+      "titleSi": "මේ ලිපිය හරිද?",
+      "settingSi": "සගයෙක් තව කෙනෙකුගේ ලිපියක් බලනවා.",
+      "lines": [
+        {
+          "speaker": "Kasun",
+          "en": "Can you read this before I send it? It's for Mr Perera.",
+          "si": "යවන්න කලින් මේක කියවන්න පුළුවන්ද? පෙරේරා මහත්තයාට."
+        },
+        {
+          "speaker": "Nadeeka",
+          "en": "\"hi sir i want leave on friday thanks\" — Kasun, no.",
+          "si": "\"hi sir i want leave on friday thanks\" — කසුන්, නෑ."
+        },
+        {
+          "speaker": "Kasun",
+          "en": "It's short. You always say short is good.",
+          "si": "ඒක කෙටියි. කෙටි හොඳයි කියලා ඔබ හැම විටම කියනවා."
+        },
+        {
+          "speaker": "Nadeeka",
+          "en": "Short is good. This isn't short, it's unfinished. There's no capital letter, no full stop, and 'i' is always 'I'.",
+          "si": "කෙටි හොඳයි. මේක කෙටි නෑ, මේක ඉවර නෑ. ලොකු අකුරක් නෑ, තිතක් නෑ, 'i' කියන එක හැම විටම 'I'."
+        },
+        {
+          "speaker": "Kasun",
+          "en": "He'll understand it.",
+          "si": "එයාට තේරෙයි."
+        },
+        {
+          "speaker": "Nadeeka",
+          "en": "He will. And he'll remember it too. Write: \"Dear Mr Perera, I would like to take Friday off, because my mother has a hospital appointment. Thanks, Kasun.\"",
+          "si": "තේරෙයි. හැබැයි එයාට ඒක මතකත් තියෙයි. ලියන්න: \"ගරු පෙරේරා මහතා, සිකුරාදා නිවාඩුවක් ගන්න කැමතියි, මොකද අම්මාට රෝහල් වේලාවක් තියෙනවා. ස්තූතියි, කසුන්.\""
+        },
+        {
+          "speaker": "Kasun",
+          "en": "That's four times longer.",
+          "si": "ඒක හතර ගුණයක් දිගයි."
+        },
+        {
+          "speaker": "Nadeeka",
+          "en": "It's twenty seconds longer. Send it.",
+          "si": "ඒක තත්පර විස්සක් දිගයි. යවන්න."
+        }
+      ]
+    },
+    {
+      "type": "practice",
+      "title": "Fix the message",
+      "titleSi": "පණිවුඩය හදන්න",
+      "instructionSi": "ලොකු අකුරු, තිත් සහ 'I' බලන්න.",
+      "items": [
+        {
+          "prompt": "i will come on monday → ___",
+          "answer": "I will come on Monday.",
+          "hintSi": "'I' සහ දවසේ නම ලොකු අකුරින්, අන්තිමට තිතක්.",
+          "full": "I will come on Monday."
+        },
+        {
+          "prompt": "my name is nimal i am from galle → ___",
+          "answer": "My name is Nimal. I am from Galle.",
+          "hintSi": "වාක්‍ය දෙකක් — මැදට තිතක්.",
+          "full": "My name is Nimal. I am from Galle."
+        },
+        {
+          "prompt": "Let's eat Amma → ___",
+          "answer": "Let's eat, Amma.",
+          "hintSi": "කොමාවක් නැතුව අර්ථය භයානකයි.",
+          "full": "Let's eat, Amma."
+        },
+        {
+          "prompt": "Formal opening for Mr Perera → ___",
+          "answer": "Dear Mr Perera,",
+          "hintSi": "'Hi' නෙවෙයි.",
+          "full": "Dear Mr Perera,"
+        },
+        {
+          "prompt": "Text to a friend: I cannot come today → ___",
+          "answer": "Can't come today, sorry!",
+          "hintSi": "'I' අත්හරින්න පුළුවන් — සමාව අත්හරින්න බෑ.",
+          "full": "Can't come today, sorry!"
+        },
+        {
+          "prompt": "Note: back later → ___",
+          "answer": "Back at 6.",
+          "hintSi": "වෙලාවක් නැති සටහනකින් වැඩක් නෑ.",
+          "full": "Back at 6."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "en": "note",
+      "si": "සටහන"
+    },
+    {
+      "en": "message",
+      "si": "පණිවුඩය"
+    },
+    {
+      "en": "subject",
+      "si": "විෂය"
+    },
+    {
+      "en": "Dear …",
+      "si": "ගරු …"
+    },
+    {
+      "en": "Thanks,",
+      "si": "ස්තූතියි,"
+    },
+    {
+      "en": "Best wishes,",
+      "si": "සුබ පැතුම්,"
+    },
+    {
+      "en": "reply",
+      "si": "පිළිතුරු දෙනවා"
+    },
+    {
+      "en": "send",
+      "si": "යවනවා"
+    },
+    {
+      "en": "attach",
+      "si": "අමුණනවා"
+    },
+    {
+      "en": "capital letter",
+      "si": "ලොකු අකුර"
+    },
+    {
+      "en": "full stop",
+      "si": "තිත"
+    },
+    {
+      "en": "comma",
+      "si": "කොමාව"
+    },
+    {
+      "en": "appointment",
+      "si": "නියමිත වේලාව"
+    },
+    {
+      "en": "leave (time off)",
+      "si": "නිවාඩුව"
+    },
+    {
+      "en": "rent",
+      "si": "කුලිය"
+    },
+    {
+      "en": "landlord",
+      "si": "ගෙදර හිමිකරු"
+    },
+    {
+      "en": "rude",
+      "si": "රළු"
+    },
+    {
+      "en": "fridge",
+      "si": "ශීතකරණය"
+    },
+    {
+      "en": "handwriting",
+      "si": "අකුර"
+    },
+    {
+      "en": "truth",
+      "si": "ඇත්ත"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "a1-24-q1",
+      "q": "'i will come on monday' — නිවැරදි ස්වරූපය?",
+      "options": [
+        "i will come on monday.",
+        "I will come on Monday.",
+        "I will come on monday.",
+        "i will come on Monday."
+      ],
+      "answer": 1,
+      "explainSi": "'I' හැම විටම ලොකු අකුරින්, දවස්වල නම්ද එහෙමයි, අන්තිමට තිතක්.",
+      "speak": "I will come on Monday."
+    },
+    {
+      "id": "a1-24-q2",
+      "q": "ඉංග්‍රීසියේ හැම විටම ලොකු අකුරින් ලියන තනි අකුරේ වචනය කුමක්ද?",
+      "options": [
+        "a",
+        "I",
+        "o",
+        "u"
+      ],
+      "answer": 1,
+      "explainSi": "'I' පමණයි. 'a' කුඩා අකුරින් — 'a book'."
+    },
+    {
+      "id": "a1-24-q3",
+      "q": "'Let's eat Amma' සහ 'Let's eat, Amma' — වෙනස කුමක්ද?",
+      "options": [
+        "වෙනසක් නෑ",
+        "පළමුවැන්නෙන් අම්මාව කනවා කියලා අර්ථය — දෙවැන්නෙන් අම්මාට ආරාධනා",
+        "දෙවැන්න වැරදියි",
+        "පළමුවැන්න වඩා ආචාරශීලීයි"
+      ],
+      "answer": 1,
+      "explainSi": "කොමාවක් අර්ථය සම්පූර්ණයෙන් වෙනස් කරනවා. විරාම ලකුණු අලංකාරයක් නෙවෙයි."
+    },
+    {
+      "id": "a1-24-q4",
+      "q": "ලොකු අකුරින් ලිවිය යුතු නොවන්නේ කුමක්ද?",
+      "options": [
+        "Monday",
+        "English",
+        "Sri Lanka",
+        "summer"
+      ],
+      "answer": 3,
+      "explainSi": "දවස්, භාෂා, රටවල් සහ නම් ලොකු අකුරින්. ඍතු නෑ."
+    },
+    {
+      "id": "a1-24-q5",
+      "q": "යාළුවෙකුට කෙටි පණිවුඩයක් — 'I cannot come today' කෙටියෙන්?",
+      "options": [
+        "No.",
+        "Can't come today, sorry!",
+        "Cant come",
+        "I cannot come today sir."
+      ],
+      "answer": 1,
+      "explainSi": "'I' අත්හරින්න පුළුවන්. සමාව අත්හරින්න බෑ — 'No' තනියම රළුයි.",
+      "speak": "Can't come today, sorry!"
+    },
+    {
+      "id": "a1-24-q6",
+      "q": "කෙටි පණිවුඩයක අත්හරින්න බැරි දේ කුමක්ද?",
+      "options": [
+        "'I' සහ 'It' වැනි කර්තෘ",
+        "වැදගත් තොරතුර — 'Meeting moved' කිව්වට කවදාටද කියලා ඕන",
+        "'the' වැනි වචන",
+        "කොමා"
+      ],
+      "answer": 1,
+      "explainSi": "කර්තෘව අත්හැරුණත් තේරෙනවා. කරුණක් අත්හැරුණොත් පණිවුඩයෙන් වැඩක් නෑ."
+    },
+    {
+      "id": "a1-24-q7",
+      "q": "පෙරේරා මහතාට ලියන ලිපියක නිවැරදි ආරම්භය?",
+      "options": [
+        "Hi sir,",
+        "Dear Mr Perera,",
+        "Dear Hi Perera,",
+        "Dear Sir Perera,"
+      ],
+      "answer": 1,
+      "explainSi": "නම දන්නවා නම් 'Dear Mr Perera'. නොදන්නවා නම් 'Dear Sir or Madam'. 'Dear' සහ 'Hi' එකට යෙදෙන්නේ නෑ."
+    },
+    {
+      "id": "a1-24-q8",
+      "q": "විද්‍යුත් ලිපියක විෂය පේළිය කොහොමද තියෙන්න ඕන?",
+      "options": [
+        "සම්පූර්ණ වාක්‍යයක්",
+        "වචන කිහිපයක් — 'Leave on Friday'",
+        "හිස්ව",
+        "ඔබේ නම"
+      ],
+      "answer": 1,
+      "explainSi": "විෂය පේළිය ලේබලයක් මිස වාක්‍යයක් නෙවෙයි."
+    },
+    {
+      "id": "a1-24-q9",
+      "q": "'hi sir i want leave on friday thanks' — මෙහි ඇති ප්‍රධාන ප්‍රශ්න මොනවාද?",
+      "options": [
+        "ඉතා දිගයි",
+        "ලොකු අකුරු නෑ, තිත් නෑ, 'i' කුඩා අකුරින්, සහ 'Hi sir' අමුතුයි",
+        "වචන වැරදියි",
+        "ප්‍රශ්නයක් නෑ"
+      ],
+      "answer": 1,
+      "explainSi": "තේරෙනවා කියලා හරි කියන්න බෑ. ලියපු දෙයක් කියවන කෙනාට මතක තියෙනවා."
+    },
+    {
+      "id": "a1-24-q10",
+      "q": "ලිවීම කථාවට වඩා වෙනස් වන්නේ ඇයි?",
+      "options": [
+        "ලිවීම අමාරු නිසා",
+        "කථාවේ මූණ, ස්වරය, අත් උදව් කරනවා — ලියද්දී තියෙන්නේ වචන විතරයි, සහ වැරැද්ද එතනම තියෙනවා",
+        "ලිවීම විධිමත් නිසා",
+        "වෙනසක් නෑ"
+      ],
+      "answer": 1,
+      "explainSi": "කථාවේ වැරැද්දක් ගිහින් ඉවරයි. ලියපු එකක් නැවත නැවත කියවෙනවා."
+    },
+    {
+      "id": "a1-24-q11",
+      "q": "එකම ඉල්ලීම යාළුවෙකුට සහ ගෙදර හිමිකරුට — වෙනස?",
+      "options": [
+        "වෙනසක් නෑ",
+        "අර්ථය එකයි, නමුත් ස්වරූපය සහ දිග වෙනස්",
+        "ගෙදර හිමිකරුට කෙටියෙන්",
+        "යාළුවෙකුට විධිමත්ව"
+      ],
+      "answer": 1,
+      "explainSi": "'Can't come today, sorry!' සහ 'Dear Mr Perera, I am sorry, but I cannot come today.'"
+    },
+    {
+      "id": "a1-24-q12",
+      "context": "The first note was on the kitchen table on Monday morning, in my mother's writing: \"Gone to Kurunegala. Back Wednesday. Your food is in the fridge. Don't give the dog rice.\"",
+      "contextSi": "පළමු සටහන සඳුදා උදේ කුස්සියේ මේසය මතේ, අම්මාගේ අකුරෙන්: \"කුරුණෑගලට ගියා. බදාදා එනවා. කෑම ෆ්‍රිජ් එකේ. බල්ලාට බත් දෙන්න එපා.\"",
+      "q": "කතාව අනුව: අම්මාගේ සටහන හොඳ සටහනක් වන්නේ ඇයි?",
+      "options": [
+        "ඒක දිගයි",
+        "කෙටි වුණත් හැම වාක්‍යයකින්ම වැඩක් වෙනවා — කොහෙද, කවදා එනවාද, කෑම, උපදෙසක්",
+        "ඒක ලස්සන අකුරෙන්",
+        "ඒක බල්ලා ගැන"
+      ],
+      "answer": 1,
+      "explainSi": "වාක්‍ය හතරයි, කරුණු හතරයි. එකක්වත් නාස්ති නෑ."
+    },
+    {
+      "id": "a1-24-q13",
+      "context": "The second was a text from my sister at 4.10 on Monday: \"Amma didnt go to kurunegala she is at the hospital with achchi dont tell thaaththa yet\"",
+      "contextSi": "දෙවැන්න සඳුදා 4.10ට අක්කාගෙන් ආපු පණිවුඩයක්: \"අම්මා කුරුණෑගල ගියේ නෑ එයා ආච්චි එක්ක රෝහලේ තාත්තට තාම කියන්න එපා\"",
+      "q": "කතාව අනුව: මේ පණිවුඩයේ කරුණු කීයක් තියෙනවාද?",
+      "options": [
+        "එකක්",
+        "දෙකක්",
+        "තුනක්",
+        "හතරක්"
+      ],
+      "answer": 2,
+      "explainSi": "අම්මා ගියේ නෑ; එයා රෝහලේ; තාත්තට කියන්න එපා. තිතක් නැති නිසා තුනම එකට එකතු වෙනවා."
+    },
+    {
+      "id": "a1-24-q14",
+      "context": "I read it four times. There was no full stop anywhere in it, so the three facts ran into each other and I could not tell which one was the important one.",
+      "contextSi": "මම හතර පාරක් කියෙව්වා. ඒකේ කොහෙවත් තිතක් නෑ, එනිසා කරුණු තුන එකට එකතු වෙලා, වැදගත්ම එක කුමක්ද කියලා තේරුම් ගන්න බැරි වුණා.",
+      "q": "කතාව අනුව: තිත් නැති වීමෙන් වුණු හානිය කුමක්ද?",
+      "options": [
+        "වචන කියවගන්න බැරි වුණා",
+        "කරුණු වෙන් වුණේ නෑ — කුමක් වැදගත්ද කියලා පේන්නේ නෑ",
+        "පණිවුඩය කෙටි වුණා",
+        "අක්කා තරහ වුණා"
+      ],
+      "answer": 1,
+      "explainSi": "විරාම ලකුණු කියන්නේ කියවන කෙනාට කොහෙද නවතින්නේ කියලා. ඒවා නැති වුණාම වැඩේ කියවන කෙනාට පැවරෙනවා."
+    },
+    {
+      "id": "a1-24-q15",
+      "context": "The third was my own, left on the table for my father, and I wrote it eleven times: \"Thaaththa — Amma called. She is staying in Kurunegala until Wednesday. Nothing is wrong. Your food is in the fridge.\" Two of those four sentences were true.",
+      "contextSi": "තුන්වැන්න මගේම එක, තාත්තාට තියලා ගිය එක — මම ඒක එකොළොස් පාරක් ලිව්වා: \"තාත්තා — අම්මා කතා කළා. එයා බදාදා වෙනකම් කුරුණෑගල ඉන්නවා. කිසි වරදක් නෑ. කෑම ෆ්‍රිජ් එකේ.\" ඒ වාක්‍ය හතරෙන් දෙකක් ඇත්ත.",
+      "q": "කතාව අනුව: ඇත්ත වූ වාක්‍ය දෙක කුමක්ද?",
+      "options": [
+        "'අම්මා කතා කළා' සහ 'කිසි වරදක් නෑ'",
+        "'එයා කුරුණෑගල' සහ 'කෑම ෆ්‍රිජ් එකේ'",
+        "'අම්මා කතා කළා' සහ 'කෑම ෆ්‍රිජ් එකේ'",
+        "හතරම ඇත්ත"
+      ],
+      "answer": 2,
+      "explainSi": "අම්මා කුරුණෑගල හිටියේ නෑ, සහ වරදක් තිබුණා — ආච්චි රෝහලේ. ඉතුරු දෙක ඇත්ත."
+    },
+    {
+      "id": "a1-24-q16",
+      "context": "The third was my own, left on the table for my father, and I wrote it eleven times.",
+      "contextSi": "තුන්වැන්න මගේම එක, තාත්තාට තියලා ගිය එක — මම ඒක එකොළොස් පාරක් ලිව්වා.",
+      "q": "කතාව අනුව: එකොළොස් පාරක් ලියන්න වුණේ ඇයි?",
+      "options": [
+        "අකුරු ලස්සන කරන්න",
+        "කුමක් කියනවාද, කුමක් නොකියනවාද කියලා තෝරාගැනීම අමාරු වූ නිසා",
+        "කඩදාසි නොතිබූ නිසා",
+        "තාත්තාට කියවන්න බැරි නිසා"
+      ],
+      "answer": 1,
+      "explainSi": "වචන හොයන එක නෙවෙයි අමාරු — ඇත්තෙන් කොපමණක් තියනවාද කියන එකයි."
+    },
+    {
+      "id": "a1-24-q17",
+      "context": "\"Thank you for the note. Next time write the truth and I will deal with your father. You are not old enough to carry this and you did it well.\"",
+      "contextSi": "\"සටහනට ස්තූතියි. ඊළඟ පාර ඇත්ත ලියන්න, තාත්තා මම බලාගන්නම්. මේක උස්සන්න තරම් ඔබ ලොකු නෑ, හැබැයි ඔබ ඒක හොඳට කළා.\"",
+      "q": "කතාව අනුව: අම්මාගේ සටහනෙන් කියවෙන්නේ කුමක්ද?",
+      "options": [
+        "එයා තරහයි",
+        "බොරුව ගැන නිවැරදි කරනවා, නමුත් දරුවා කළ දේ අගය කරනවා",
+        "එයාට සටහන තේරුණේ නෑ",
+        "එයාට ආපහු යන්න ඕන"
+      ],
+      "answer": 1,
+      "explainSi": "'Next time write the truth' සහ 'you did it well' — දෙකම එකම සටහනේ."
+    },
+    {
+      "id": "a1-24-q18",
+      "context": "My father wrote without them once — / One line, and nothing clear. / I read it twice. I read it ten times. / He was saying: I am here.",
+      "contextSi": "වරක් තාත්තා ඒවා නැතුව ලිව්වා — / එක පේළියක්, කිසිවක් පැහැදිලි නෑ. / දෙපාරක් කියෙව්වා. දහ පාරක් කියෙව්වා. / එයා කියමින් හිටියේ: මම මෙතන කියලා.",
+      "q": "කවියේ අන්තිම පේළියෙන් අදහස් වන්නේ කුමක්ද?",
+      "options": [
+        "තාත්තා ලියන්න දන්නේ නෑ",
+        "විරාම ලකුණු නැති නිසා අර්ථය හොයාගන්න වෙහෙසක් ගන්න වුණා — නමුත් අර්ථය තිබුණා",
+        "තාත්තා ගෙදර හිටියා",
+        "කවිය ඉවර නෑ"
+      ],
+      "answer": 1,
+      "explainSi": "ලකුණු නැති වුණාම අර්ථය නැති වෙන්නේ නෑ — ඒක හොයාගන්න වැඩේ අනිත් කෙනාට පවරනවා."
+    },
+    {
+      "id": "a1-24-q19",
+      "context": "Kasun: It's short. You always say short is good.\nNadeeka: Short is good. This isn't short, it's unfinished.",
+      "contextSi": "කසුන්: ඒක කෙටියි. කෙටි හොඳයි කියලා ඔබ හැම විටම කියනවා.\nනදීකා: කෙටි හොඳයි. මේක කෙටි නෑ, මේක ඉවර නෑ.",
+      "q": "සංවාදයේ: නදීකාගේ වෙනස්කම කුමක්ද?",
+      "options": [
+        "කෙටි ලිපි නරකයි",
+        "කෙටි කියන්නේ අවශ්‍ය දේ පමණක් — ඉවර නැති කියන්නේ අවශ්‍ය දේත් නැති",
+        "දිග ලිපි හොඳයි",
+        "කසුන්ට ලියන්න බෑ"
+      ],
+      "answer": 1,
+      "explainSi": "ලොකු අකුරු, තිත් සහ ආමන්ත්‍රණය අත්හැරීම කෙටි කිරීමක් නෙවෙයි."
+    },
+    {
+      "id": "a1-24-q20",
+      "context": "Kasun: That's four times longer.\nNadeeka: It's twenty seconds longer. Send it.",
+      "contextSi": "කසුන්: ඒක හතර ගුණයක් දිගයි.\nනදීකා: ඒක තත්පර විස්සක් දිගයි. යවන්න.",
+      "q": "සංවාදයේ: නදීකාගේ පිළිතුරේ අදහස කුමක්ද?",
+      "options": [
+        "ලිපිය ඉතා දිගයි",
+        "වචන ගණන නෙවෙයි වැදගත් — ගත වන කාලය සුළුයි, ලැබෙන හැඟීම විශාලයි",
+        "කසුන්ට වෙලාව නෑ",
+        "ලිපිය යවන්න එපා"
+      ],
+      "answer": 1,
+      "explainSi": "'හතර ගුණයක්' කියන එක බය කරනවා. 'තත්පර විස්සක්' කියන එකෙන් ඒක ඇත්ත ප්‍රමාණයට එනවා."
+    },
+    {
+      "id": "a1-24-q21",
+      "q": "'my name is nimal i am from galle' — නිවැරදිව?",
+      "options": [
+        "My name is nimal i am from galle.",
+        "My name is Nimal. I am from Galle.",
+        "My name is Nimal i am from Galle.",
+        "my name is Nimal. I am from galle."
+      ],
+      "answer": 1,
+      "explainSi": "වාක්‍ය දෙකක් — මැදට තිතක්. නම් සහ නගර ලොකු අකුරින්, 'I' හැම විටම.",
+      "speak": "My name is Nimal. I am from Galle."
+    },
+    {
+      "id": "a1-24-q22",
+      "q": "නොදන්නා කෙනෙකුට ලියන ලිපියක් අවසන් කරන්නේ කොහොමද?",
+      "options": [
+        "Bye!",
+        "Best wishes,",
+        "Thanks bro",
+        "See you"
+      ],
+      "answer": 1,
+      "explainSi": "'Best wishes,' නොදන්නා අයට. 'Thanks,' සගයන්ට. 'Bye!' පණිවුඩවලට විතරයි."
+    }
+  ]
+}

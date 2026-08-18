@@ -1,0 +1,868 @@
+{
+  "hero": {
+    "src": "images/a1-15-hero.webp",
+    "alt": "Ruwan giving directions to a kid, three-wheelers and a bus in the background, bright day."
+  },
+  "goalsSi": [
+    "ක්‍රියාව තනියම යොදා අණ කිරීම — Sit down, Wait here",
+    "අණ කරන වාක්‍යයට කර්තෘවක් නොමැති බව",
+    "Don't යොදා නොකරන්න කීම",
+    "Please සහ Could you — මෘදු කිරීම",
+    "Let's යොදා යෝජනා කිරීම",
+    "පොදු දැන්වීම් සහ ලකුණු කියවීම"
+  ],
+  "goals": [
+    "Give a direct instruction",
+    "Say what not to do",
+    "Soften a command politely",
+    "Make suggestions with Let's",
+    "Read everyday signs"
+  ],
+  "sections": [
+    {
+      "type": "note",
+      "title": "The sentence with nobody in it",
+      "titleSi": "කර්තෘවක් නැති වාක්‍යය",
+      "bodySi": "පාඩම් ගොඩක් තිස්සේ ඉගෙන ගත්තා: ඉංග්‍රීසි වාක්‍යයකට කර්තෘවක් ඕන. 'Is raining' කියන්න බෑ — 'It is raining' කියන්න ඕන.\n\nඅණ කරන වාක්‍යය එකම ව්‍යතිරේකයයි. එතන කර්තෘවක් නෑ:\n\nSit down. — 'You sit down' නෙවෙයි.\nWait here. — 'You wait here' නෙවෙයි.\nCome in. — 'You come in' නෙවෙයි.\n\nහේතුව: කථා කරන්නේ ඔබ එක්කයි. එනිසා 'you' කියන එක කියන්න ඕන නෑ — එය එතන තියෙනවා, නොකියාම.\n\nක්‍රියාව මූලික ස්වරූපයෙන් — -s නෑ, -ing නෑ, to නෑ. ඉංග්‍රීසියේ ලේසිම ස්වරූපය මේකයි.",
+      "body": "The imperative is the only English sentence with no subject."
+    },
+    {
+      "type": "grammar",
+      "title": "The command form",
+      "titleSi": "අණ කරන ස්වරූපය",
+      "explainSi": "ක්‍රියාවේ මූලික ස්වරූපය තනියම. එච්චරයි. එකම ස්වරූපය එක් අයෙකුටත් බොහෝ දෙනෙකුටත් යෙදෙනවා.",
+      "formula": "verb (+ rest)  ·  Don't + verb (+ rest)",
+      "table": {
+        "headers": [
+          "අණ",
+          "නොකරන්න",
+          "සිංහල"
+        ],
+        "rows": [
+          [
+            "Sit down.",
+            "Don't sit down.",
+            "ඉඳගන්න. / ඉඳගන්න එපා."
+          ],
+          [
+            "Come in.",
+            "Don't come in.",
+            "එන්න. / එන්න එපා."
+          ],
+          [
+            "Wait here.",
+            "Don't wait here.",
+            "මෙතන ඉන්න. / මෙතන ඉන්න එපා."
+          ],
+          [
+            "Open the window.",
+            "Don't open the window.",
+            "ජනේලය අරින්න. / අරින්න එපා."
+          ],
+          [
+            "Be careful.",
+            "Don't be late.",
+            "පරිස්සමින්. / පරක්කු වෙන්න එපා."
+          ],
+          [
+            "Tell me.",
+            "Don't tell him.",
+            "මට කියන්න. / එයාට කියන්න එපා."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "Turn left at the temple, then go straight on.",
+          "si": "පන්සල ළඟින් වමට හැරෙන්න, ඊට පස්සේ කෙළින්ම යන්න."
+        },
+        {
+          "en": "Don't worry. Take your time.",
+          "si": "කනස්සල්ලෙන් ඉන්න එපා. හෙමින් කරන්න."
+        },
+        {
+          "en": "Wash the rice twice and add three cups of water.",
+          "si": "බත් දෙපාරක් හෝදලා කෝප්ප තුනක් වතුර දාන්න."
+        }
+      ],
+      "watchOutSi": "'You sit down' කිව්වොත් ඒක අණක් නෙවෙයි — ඒක තරහෙන් හෝ දැඩිව කියන ආකාරයක්. සාමාන්‍ය අණට 'you' අවශ්‍ය නෑ."
+    },
+    {
+      "type": "grammar",
+      "title": "Making it polite",
+      "titleSi": "ආචාරශීලී කිරීම",
+      "explainSi": "අණ කරන ස්වරූපය කෙටියි, එනිසා සමහර වෙලාවට රළුයි. 'Please' එකතු කරන්න, නැත්නම් 'Could you …?' ප්‍රශ්නය බවට හරවන්න.",
+      "formula": "Please + verb  ·  verb + …, please  ·  Could you + verb?",
+      "table": {
+        "headers": [
+          "මට්ටම",
+          "වාක්‍යය",
+          "කොහෙද යෙදෙන්නේ"
+        ],
+        "rows": [
+          [
+            "කෙළින්ම",
+            "Sit down.",
+            "යාළුවෙක්, දරුවෙක්, හදිසියක්"
+          ],
+          [
+            "ආචාරශීලී",
+            "Please sit down.",
+            "සාමාන්‍ය තැන්"
+          ],
+          [
+            "ආචාරශීලී",
+            "Sit down, please.",
+            "එකම දේ — please අන්තිමට"
+          ],
+          [
+            "වඩාත් ආචාරශීලී",
+            "Could you sit down?",
+            "නොදන්නා අය, කාර්යාලය"
+          ],
+          [
+            "මෘදු නැහැ",
+            "Please don't smoke here.",
+            "දැන්වීම්, ආයාචනා"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "Please wait outside for a minute.",
+          "si": "විනාඩියක් පිටත ඉන්න."
+        },
+        {
+          "en": "Pass me the salt, please.",
+          "si": "ලුණු ටික දෙන්න."
+        },
+        {
+          "en": "Could you close the door? It's noisy.",
+          "si": "දොර වහන්න පුළුවන්ද? ඝෝෂාවයි."
+        }
+      ],
+      "watchOutSi": "'Please' කියන එකෙන් අණක් ඉල්ලීමක් වෙනවා, නමුත් ස්වරූපය වෙනස් වෙන්නේ නෑ — ක්‍රියාව තාමත් මූලික ස්වරූපයෙන්."
+    },
+    {
+      "type": "grammar",
+      "title": "Let's — including yourself",
+      "titleSi": "Let's — ඔබත් ඇතුළත්ව",
+      "explainSi": "අණක් අනිත් කෙනාට විතරයි. ඔබත් එකට කරනවා නම් 'Let's' යොදනවා. එය 'let us' කියන එකේ කෙටි ස්වරූපයයි.",
+      "formula": "Let's + verb  ·  Let's not + verb",
+      "table": {
+        "headers": [
+          "වාක්‍යය",
+          "අර්ථය"
+        ],
+        "rows": [
+          [
+            "Go home.",
+            "ඔබ ගෙදර යන්න (මම නෙවෙයි)"
+          ],
+          [
+            "Let's go home.",
+            "අපි ගෙදර යමු"
+          ],
+          [
+            "Let's have tea.",
+            "අපි තේ බොමු"
+          ],
+          [
+            "Let's not wait.",
+            "අපි බලාගෙන ඉමු එපා"
+          ],
+          [
+            "Let's go, shall we?",
+            "යමුද?"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "It's late. Let's take a taxi.",
+          "si": "පරක්කුයි. අපි ටැක්සියක් ගමු."
+        },
+        {
+          "en": "Let's not tell her yet.",
+          "si": "එයාට තාම කියමු එපා."
+        }
+      ],
+      "watchOutSi": "'Let's' පසුවත් ක්‍රියාව මූලික ස්වරූපයෙන්: 'Let's go' — 'Let's to go' හෝ 'Let's going' නෙවෙයි."
+    },
+    {
+      "type": "vocab",
+      "title": "Signs and instructions",
+      "titleSi": "ලකුණු සහ උපදෙස්",
+      "items": [
+        {
+          "en": "Push",
+          "si": "තල්ලු කරන්න",
+          "say": "පුෂ්"
+        },
+        {
+          "en": "Pull",
+          "si": "අදින්න",
+          "say": "පුල්"
+        },
+        {
+          "en": "Keep left",
+          "si": "වම් පැත්තෙන් යන්න",
+          "say": "කීප් ලෙෆ්ට්"
+        },
+        {
+          "en": "No parking",
+          "si": "වාහන නවත්වන්න එපා",
+          "say": "නෝ පාකින්"
+        },
+        {
+          "en": "Mind the step",
+          "si": "පඩිය ගැන පරිස්සමින්",
+          "say": "මයින්ඩ් ද ස්ටෙප්"
+        },
+        {
+          "en": "Do not enter",
+          "si": "ඇතුළු වෙන්න එපා",
+          "say": "ඩූ නොට් එන්ටර්"
+        },
+        {
+          "en": "Queue here",
+          "si": "මෙතන පෝලිමේ ඉන්න",
+          "say": "කිව් හියර්"
+        },
+        {
+          "en": "turn",
+          "si": "හැරෙනවා",
+          "say": "ටර්න්"
+        },
+        {
+          "en": "straight on",
+          "si": "කෙළින්ම",
+          "say": "ස්ට්‍රේට් ඔන්"
+        },
+        {
+          "en": "corner",
+          "si": "කොන",
+          "say": "කෝනර්"
+        },
+        {
+          "en": "careful",
+          "si": "පරිස්සම්",
+          "say": "කෙයාෆුල්"
+        },
+        {
+          "en": "wait",
+          "si": "ඉන්න / රැඳෙන්න",
+          "say": "වේට්"
+        },
+        {
+          "en": "hurry",
+          "si": "ඉක්මන් කරනවා",
+          "say": "හරි"
+        },
+        {
+          "en": "mix",
+          "si": "කලවම් කරනවා",
+          "say": "මික්ස්"
+        },
+        {
+          "en": "add",
+          "si": "එකතු කරනවා",
+          "say": "ඈඩ්"
+        },
+        {
+          "en": "boil",
+          "si": "තම්බනවා",
+          "say": "බොයිල්"
+        },
+        {
+          "en": "instructions",
+          "si": "උපදෙස්",
+          "say": "ඉන්ස්ට්‍රක්ෂන්ස්"
+        },
+        {
+          "en": "step",
+          "si": "පියවර / පඩිය",
+          "say": "ස්ටෙප්"
+        }
+      ]
+    },
+    {
+      "type": "story",
+      "title": "Follow the Instructions",
+      "titleSi": "උපදෙස් අනුව කරන්න",
+      "introSi": "මේ කතාවේ අණ ගොඩක් තියෙනවා. එකක් ප්‍රවේශමෙන් නොකියවා කරන කෙනෙක් ගැනයි කතාව. උපදෙස් හරියටම කියවන්න.",
+      "paragraphs": [
+        {
+          "en": "My aunt is going to Kandy for three days, so she is leaving me a list. \"Read it twice,\" she says at the gate. \"Don't read it once.\"",
+          "si": "නැන්දා දවස් තුනකට මහනුවර යනවා, එනිසා මට ලැයිස්තුවක් තියලා යනවා. \"දෙපාරක් කියවන්න,\" එයා ගේට්ටුව ළඟදී කියනවා. \"එකපාරක් කියවන්න එපා.\""
+        },
+        {
+          "en": "The list says: Water the plants on Tuesday. Don't water them every day. Feed the cat twice. Don't feed the dog twice — he is not hungry, he only looks hungry.",
+          "si": "ලැයිස්තුවේ තියෙනවා: අඟහරුවාදා ගස්වලට වතුර දාන්න. හැම දාම වතුර දාන්න එපා. බළලාට දෙපාරක් කන්න දෙන්න. බල්ලාට දෙපාරක් දෙන්න එපා — එයාට බඩගිනි නෑ, බඩගිනි වගේ පේනවා විතරයි."
+        },
+        {
+          "en": "On Monday I water the plants. On Tuesday I water them again. On Wednesday I water them one more time, because the leaves look dry to me.",
+          "si": "සඳුදා මම ගස්වලට වතුර දානවා. අඟහරුවාදා නැවතත් වතුර දානවා. බදාදා තව එකපාරක් වතුර දානවා, මොකද කොළ මට වේලිච්ච වගේ පේනවා."
+        },
+        {
+          "en": "The dog is watching me from the door. He is not moving. Every time I open the kitchen, he stands up and looks at his bowl. So I feed him. Twice.",
+          "si": "බල්ලා දොරෙන් මාව බලාගෙන ඉන්නවා. එයා හෙළවෙන්නේ නෑ. මම කුස්සිය ඇරින හැම වෙලාවකම, එයා නැගිටලා තමන්ගේ බඳුන දිහා බලනවා. එනිසා මම කන්න දෙනවා. දෙපාරක්."
+        },
+        {
+          "en": "My aunt comes home on Thursday. She looks at the plants, which are yellow and wet. She looks at the dog, who cannot climb the step. Then she looks at me.",
+          "si": "බ්‍රහස්පතින්දා නැන්දා ගෙදර එනවා. එයා ගස් දිහා බලනවා — කහ පාටයි, තෙමිලයි. එයා බල්ලා දිහා බලනවා — එයාට පඩිය නගින්න බෑ. එතකොට එයා මා දිහා බලනවා."
+        },
+        {
+          "en": "\"Read it again,\" she says, and she gives me the list. Under the last line there is one more sentence in small letters: \"If you are not sure, do nothing and call me.\"",
+          "si": "\"නැවත කියවන්න,\" එයා කියලා ලැයිස්තුව මට දෙනවා. අන්තිම පේළියට යටින් පොඩි අකුරෙන් තව වාක්‍යයක් තියෙනවා: \"විශ්වාස නැත්නම්, කිසිවක් කරන්න එපා, මට කතා කරන්න.\""
+        }
+      ],
+      "glossary": [
+        {
+          "en": "list",
+          "si": "ලැයිස්තුව"
+        },
+        {
+          "en": "water (a plant)",
+          "si": "වතුර දානවා"
+        },
+        {
+          "en": "feed",
+          "si": "කන්න දෙනවා"
+        },
+        {
+          "en": "hungry",
+          "si": "බඩගිනි"
+        },
+        {
+          "en": "leaves",
+          "si": "කොළ"
+        },
+        {
+          "en": "dry",
+          "si": "වේලිච්ච"
+        },
+        {
+          "en": "bowl",
+          "si": "බඳුන"
+        },
+        {
+          "en": "sure",
+          "si": "විශ්වාසයි"
+        }
+      ],
+      "questionsSi": [
+        "නැන්දාගේ ලැයිස්තුවේ තිබූ අණ හතර කුමක්ද?",
+        "ගස් කහ පාට වුණේ ඇයි?",
+        "බල්ලාට පඩිය නගින්න බැරි වුණේ ඇයි?",
+        "පොඩි අකුරෙන් තිබූ වාක්‍යය මුලින්ම කියෙව්වා නම් මොකද වෙන්නේ?"
+      ]
+    },
+    {
+      "type": "poem",
+      "title": "Everybody Tells Me",
+      "titleSi": "හැමෝම මට කියනවා",
+      "introSi": "හැම පේළියක්ම අණක්. එකකටවත් කර්තෘවක් නෑ.",
+      "lines": [
+        {
+          "en": "Sit up straight. Don't touch the pot.",
+          "si": "කෙළින් ඉඳගන්න. හැළිය අල්ලන්න එපා."
+        },
+        {
+          "en": "Eat your rice. Don't talk so much.",
+          "si": "බත් කන්න. එච්චර කථා කරන්න එපා."
+        },
+        {
+          "en": "Wash your hands. Come here. Sit down.",
+          "si": "අත් හෝදන්න. මෙහෙ එන්න. ඉඳගන්න."
+        },
+        {
+          "en": "Be careful with the cup.",
+          "si": "කෝප්පය ගැන පරිස්සමින්."
+        },
+        {
+          "en": "",
+          "si": ""
+        },
+        {
+          "en": "But nobody says: take your time.",
+          "si": "හැබැයි කවුරුවත් කියන්නේ නෑ: හෙමින් කරන්න කියලා."
+        },
+        {
+          "en": "Nobody says: sit still and look.",
+          "si": "කවුරුවත් කියන්නේ නෑ: නිශ්චලව ඉඳලා බලන්න කියලා."
+        },
+        {
+          "en": "So when I'm old I'll say it twice —",
+          "si": "එනිසා මම වයසට ගියාම දෙපාරක් කියනවා —"
+        },
+        {
+          "en": "Sit down. Be slow. Read the whole book.",
+          "si": "ඉඳගන්න. හෙමින් ඉන්න. පොත මුළුමනින්ම කියවන්න."
+        }
+      ],
+      "noteSi": "'Sit', 'Eat', 'Wash', 'Come', 'Be', 'Read' — හැම එකක්ම මූලික ස්වරූපයෙන්, කර්තෘවක් නැතුව."
+    },
+    {
+      "type": "dialogue",
+      "title": "Asking the way",
+      "titleSi": "පාර අහනවා",
+      "settingSi": "පාර කියලා දෙද්දී අණ කරන ස්වරූපය තමයි සාමාන්‍ය භාෂාව. එය රළු නෙවෙයි — එය පැහැදිලියි.",
+      "lines": [
+        {
+          "speaker": "Visitor",
+          "en": "Excuse me, could you tell me where the post office is?",
+          "si": "සමාවෙන්න, තැපැල් කන්තෝරුව කොහෙද කියලා කියන්න පුළුවන්ද?"
+        },
+        {
+          "speaker": "Local",
+          "en": "Yes. Go straight on and turn left at the corner.",
+          "si": "ඔව්. කෙළින්ම ගිහින් කොනෙන් වමට හැරෙන්න."
+        },
+        {
+          "speaker": "Visitor",
+          "en": "Left at the corner. Then?",
+          "si": "කොනෙන් වමට. ඊට පස්සේ?"
+        },
+        {
+          "speaker": "Local",
+          "en": "Don't cross the road. Walk past the bakery and it's on your right.",
+          "si": "පාර හරහා යන්න එපා. බේකරිය පහු කරලා යන්න, එතකොට එය දකුණු පැත්තේ."
+        },
+        {
+          "speaker": "Visitor",
+          "en": "Is it far?",
+          "si": "දුරද?"
+        },
+        {
+          "speaker": "Local",
+          "en": "Five minutes. But hurry — they close at four. Don't stop for tea.",
+          "si": "විනාඩි පහයි. හැබැයි ඉක්මන් කරන්න — හතරට වහනවා. තේ බොන්න නවතින්න එපා."
+        },
+        {
+          "speaker": "Visitor",
+          "en": "Thank you. Let's hope it's still open.",
+          "si": "ස්තූතියි. තාම ඇරලා තියෙයි කියලා හිතමු."
+        }
+      ]
+    },
+    {
+      "type": "tip",
+      "title": "A command is not rudeness",
+      "titleSi": "අණක් කියන්නේ රළුකම නෙවෙයි",
+      "bodySi": "සිංහලෙන් අණ කරද්දී ස්වරූපය මාරු කරලා ආචාරශීලී වෙනවා. ඉංග්‍රීසියේ ස්වරූපය එකමයි — වෙනස වෙන්නේ එතනට එකතු වෙන දේවලින්.\n\nඑනිසා පහත සියල්ලම සාමාන්‍ය, රළු නෙවෙයි:\n\n- උපදෙස්: 'Add two cups of water.'\n- පාර කීම: 'Turn left at the temple.'\n- ලකුණු: 'Keep left.' 'Mind the step.'\n- ආරාධනා: 'Come in. Sit down. Have some tea.'\n\nරළු වෙන්නේ ස්වරයෙන් සහ සන්දර්භයෙන් මිස ස්වරූපයෙන් නෙවෙයි. සැකයක් තියෙනවා නම් 'please' එකතු කරන්න."
+    },
+    {
+      "type": "practice",
+      "title": "Make it a command",
+      "titleSi": "අණක් බවට හරවන්න",
+      "instructionSi": "කර්තෘව අයින් කරලා ක්‍රියාව මූලික ස්වරූපයෙන් තියන්න.",
+      "items": [
+        {
+          "prompt": "You must close the door. → ___",
+          "answer": "Close the door.",
+          "hintSi": "කර්තෘව නෑ, ක්‍රියාව මුලට.",
+          "full": "Close the door."
+        },
+        {
+          "prompt": "You mustn't touch that. → ___",
+          "answer": "Don't touch that.",
+          "hintSi": "නොකරන්න නම් Don't.",
+          "full": "Don't touch that."
+        },
+        {
+          "prompt": "Politely: wait here → ___",
+          "answer": "Please wait here.",
+          "hintSi": "Please මුලට හෝ අන්තිමට.",
+          "full": "Please wait here."
+        },
+        {
+          "prompt": "Suggest together: go home → ___",
+          "answer": "Let's go home.",
+          "hintSi": "ඔබත් ඇතුළත් නම් Let's.",
+          "full": "Let's go home."
+        },
+        {
+          "prompt": "You should be careful. → ___",
+          "answer": "Be careful.",
+          "hintSi": "'be' එකේ මූලික ස්වරූපය 'be'.",
+          "full": "Be careful."
+        },
+        {
+          "prompt": "Suggest not doing it: we won't wait → ___",
+          "answer": "Let's not wait.",
+          "hintSi": "Let's not + ක්‍රියාව.",
+          "full": "Let's not wait."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "en": "Push",
+      "si": "තල්ලු කරන්න"
+    },
+    {
+      "en": "Pull",
+      "si": "අදින්න"
+    },
+    {
+      "en": "Keep left",
+      "si": "වම් පැත්තෙන් යන්න"
+    },
+    {
+      "en": "No parking",
+      "si": "වාහන නවත්වන්න එපා"
+    },
+    {
+      "en": "Mind the step",
+      "si": "පඩිය ගැන පරිස්සමින්"
+    },
+    {
+      "en": "Do not enter",
+      "si": "ඇතුළු වෙන්න එපා"
+    },
+    {
+      "en": "turn",
+      "si": "හැරෙනවා"
+    },
+    {
+      "en": "straight on",
+      "si": "කෙළින්ම"
+    },
+    {
+      "en": "corner",
+      "si": "කොන"
+    },
+    {
+      "en": "careful",
+      "si": "පරිස්සම්"
+    },
+    {
+      "en": "hurry",
+      "si": "ඉක්මන් කරනවා"
+    },
+    {
+      "en": "mix",
+      "si": "කලවම් කරනවා"
+    },
+    {
+      "en": "add",
+      "si": "එකතු කරනවා"
+    },
+    {
+      "en": "boil",
+      "si": "තම්බනවා"
+    },
+    {
+      "en": "instructions",
+      "si": "උපදෙස්"
+    },
+    {
+      "en": "step",
+      "si": "පියවර"
+    },
+    {
+      "en": "feed",
+      "si": "කන්න දෙනවා"
+    },
+    {
+      "en": "list",
+      "si": "ලැයිස්තුව"
+    },
+    {
+      "en": "cross",
+      "si": "හරහා යනවා"
+    },
+    {
+      "en": "past",
+      "si": "පහු කරලා"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "a1-15-q1",
+      "q": "'ඉඳගන්න' — ඉංග්‍රීසියෙන් අණක් විදිහට?",
+      "options": [
+        "You sit down.",
+        "Sit down.",
+        "Sitting down.",
+        "To sit down."
+      ],
+      "answer": 1,
+      "explainSi": "අණ කරන වාක්‍යයට කර්තෘවක් නෑ. ක්‍රියාව මූලික ස්වරූපයෙන් තනියම.",
+      "speak": "Sit down."
+    },
+    {
+      "id": "a1-15-q2",
+      "q": "අණ කරන වාක්‍යයට කර්තෘවක් නොමැත්තේ ඇයි?",
+      "options": [
+        "එය කෙටි කරන්න",
+        "කථා කරන්නේ ඔබ එක්කම නිසා — 'you' නොකියාම එතන තියෙනවා",
+        "අණවලට නීති අදාළ නොවන නිසා",
+        "එය ලිවීමේ දෝෂයක් නිසා"
+      ],
+      "answer": 1,
+      "explainSi": "ඉංග්‍රීසි වාක්‍යයකට හැම විටම කර්තෘවක් ඕන — මේක එකම ව්‍යතිරේකය, සහ හේතුව ඒකයි."
+    },
+    {
+      "id": "a1-15-q3",
+      "q": "'ඒක අල්ලන්න එපා' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "Not touch that.",
+        "Don't touch that.",
+        "You don't touch that.",
+        "Doesn't touch that."
+      ],
+      "answer": 1,
+      "explainSi": "නොකරන්න කියන්න 'Don't' + ක්‍රියාව. සර්වනාමය කුමක් වුණත් 'Don't' — 'Doesn't' නෙවෙයි.",
+      "speak": "Don't touch that."
+    },
+    {
+      "id": "a1-15-q4",
+      "q": "අණ කරද්දී 'Doesn't' කිසිවිටෙක නොයෙදෙන්නේ ඇයි?",
+      "options": [
+        "'Doesn't' පරණ වචනයක් නිසා",
+        "අණ කරන්නේ ඔබට — 'you' සමඟ හැම විටම don't",
+        "'Doesn't' ප්‍රශ්නවලට විතරයි",
+        "යෙදිය හැකියි"
+      ],
+      "answer": 1,
+      "explainSi": "අණක් හැම විටම 'you' ට. 'you' සමඟ don't — කථා කරන්නේ කවුරු ගැන වුණත්."
+    },
+    {
+      "id": "a1-15-q5",
+      "q": "වඩාත් ආචාරශීලී වන්නේ කුමක්ද?",
+      "options": [
+        "Close the door.",
+        "Could you close the door?",
+        "You close the door.",
+        "Door!"
+      ],
+      "answer": 1,
+      "explainSi": "ප්‍රශ්නයක් බවට හැරෙද්දී වඩාත් මෘදුයි. 'Please close the door' ඊට මැදින්."
+    },
+    {
+      "id": "a1-15-q6",
+      "q": "'Please' යෙදුවම ක්‍රියාවේ ස්වරූපය වෙනස් වෙනවාද?",
+      "options": [
+        "ඔව්, -s එකතු වෙනවා",
+        "නෑ — ක්‍රියාව තාමත් මූලික ස්වරූපයෙන්",
+        "ඔව්, to එකතු වෙනවා",
+        "ඔව්, -ing එකතු වෙනවා"
+      ],
+      "answer": 1,
+      "explainSi": "'Please wait' — 'Please waits' හෝ 'Please to wait' නෙවෙයි."
+    },
+    {
+      "id": "a1-15-q7",
+      "q": "'අපි ගෙදර යමු' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "Go home.",
+        "Let's go home.",
+        "Let's going home.",
+        "Let's to go home."
+      ],
+      "answer": 1,
+      "explainSi": "ඔබත් ඇතුළත් නම් 'Let's' + මූලික ස්වරූපය.",
+      "speak": "Let's go home."
+    },
+    {
+      "id": "a1-15-q8",
+      "q": "'Go home' සහ 'Let's go home' අතර වෙනස?",
+      "options": [
+        "වෙනසක් නෑ",
+        "පළමුවැන්නෙන් අනිත් කෙනා යනවා, දෙවැන්නෙන් දෙන්නම යනවා",
+        "දෙවැන්න වඩා දැඩියි",
+        "පළමුවැන්න ප්‍රශ්නයක්"
+      ],
+      "answer": 1,
+      "explainSi": "'Let's' = 'let us' — කථා කරන කෙනාත් ඇතුළත්."
+    },
+    {
+      "id": "a1-15-q9",
+      "q": "'Be careful' — මෙතන 'Be' යෙදෙන්නේ ඇයි, 'Are' නොවේ?",
+      "options": [
+        "'Are' රළු නිසා",
+        "අණ කරද්දී ක්‍රියාවේ මූලික ස්වරූපය — 'be' එකේ මූලික ස්වරූපය 'be'",
+        "'careful' සමඟ 'are' යෙදිය නොහැකි නිසා",
+        "එය වැරදියි"
+      ],
+      "answer": 1,
+      "explainSi": "am/is/are යනු වෙනස් වූ ස්වරූප. මූලික ස්වරූපය 'be' — අණට යෙදෙන්නේ ඒක."
+    },
+    {
+      "id": "a1-15-q10",
+      "q": "'Mind the step' යන ලකුණෙන් කියන්නේ?",
+      "options": [
+        "පඩිය ගැන කල්පනා කරන්න කියලා",
+        "පඩිය ගැන පරිස්සමින් — වැටෙන්න එපා",
+        "පඩිය පාවිච්චි කරන්න එපා",
+        "පඩිය හදන්න"
+      ],
+      "answer": 1,
+      "explainSi": "'Mind' මෙතන 'පරිස්සම් වෙන්න' කියන අර්ථයෙන්."
+    },
+    {
+      "id": "a1-15-q11",
+      "context": "\"Read it twice,\" she says at the gate. \"Don't read it once.\"",
+      "contextSi": "\"දෙපාරක් කියවන්න,\" එයා ගේට්ටුව ළඟදී කියනවා. \"එකපාරක් කියවන්න එපා.\"",
+      "q": "කතාව අනුව: නැන්දා මෙසේ කියන්නේ ඇයි?",
+      "options": [
+        "ලැයිස්තුව දිගු නිසා",
+        "එකපාරක් කියෙව්වොත් යමක් මඟහැරෙන බව එයා දන්නා නිසා",
+        "කථකයාට කියවන්න බැරි නිසා",
+        "ලැයිස්තුව අපැහැදිලි නිසා"
+      ],
+      "answer": 1,
+      "explainSi": "අන්තිමට පේනවා පොඩි අකුරෙන් තව වාක්‍යයක් තිබූ බව — දෙපාරක් කිව්වේ ඒකයි."
+    },
+    {
+      "id": "a1-15-q12",
+      "context": "The list says: Water the plants on Tuesday. Don't water them every day. Feed the cat twice. Don't feed the dog twice — he is not hungry, he only looks hungry.",
+      "contextSi": "ලැයිස්තුවේ තියෙනවා: අඟහරුවාදා ගස්වලට වතුර දාන්න. හැම දාම වතුර දාන්න එපා. බළලාට දෙපාරක් කන්න දෙන්න. බල්ලාට දෙපාරක් දෙන්න එපා — එයාට බඩගිනි නෑ, බඩගිනි වගේ පේනවා විතරයි.",
+      "q": "කතාව අනුව: ලැයිස්තුවේ අණ හතරෙන් 'එපා' කියන ඒවා කීයක්ද?",
+      "options": [
+        "එකක්",
+        "දෙකක්",
+        "තුනක්",
+        "හතරක්"
+      ],
+      "answer": 1,
+      "explainSi": "'Don't water them every day' සහ 'Don't feed the dog twice' — දෙකයි."
+    },
+    {
+      "id": "a1-15-q13",
+      "context": "On Monday I water the plants. On Tuesday I water them again. On Wednesday I water them one more time, because the leaves look dry to me.",
+      "contextSi": "සඳුදා මම ගස්වලට වතුර දානවා. අඟහරුවාදා නැවතත් වතුර දානවා. බදාදා තව එකපාරක් වතුර දානවා, මොකද කොළ මට වේලිච්ච වගේ පේනවා.",
+      "q": "කතාව අනුව: කථකයා කැඩූ අණ කුමක්ද?",
+      "options": [
+        "'Water the plants on Tuesday'",
+        "'Don't water them every day'",
+        "'Feed the cat twice'",
+        "එකක්වත් නෑ"
+      ],
+      "answer": 1,
+      "explainSi": "අඟහරුවාදා වතුර දාපු එක හරි. සඳුදා සහ බදාදාත් දාපු එක තමයි 'every day' බවට පත් වුණේ."
+    },
+    {
+      "id": "a1-15-q14",
+      "context": "The dog is watching me from the door. He is not moving. Every time I open the kitchen, he stands up and looks at his bowl. So I feed him. Twice.",
+      "contextSi": "බල්ලා දොරෙන් මාව බලාගෙන ඉන්නවා. එයා හෙළවෙන්නේ නෑ. මම කුස්සිය ඇරින හැම වෙලාවකම, එයා නැගිටලා තමන්ගේ බඳුන දිහා බලනවා. එනිසා මම කන්න දෙනවා. දෙපාරක්.",
+      "q": "කතාව අනුව: කථකයා බල්ලාට කන්න දෙන්නේ ඇයි?",
+      "options": [
+        "නැන්දා එහෙම කිව්ව නිසා",
+        "බල්ලා බඩගිනි වගේ පෙනුණ නිසා — ලැයිස්තුව ඒ ගැනම අනතුරු ඇඟවුවා",
+        "බළලා කන්නේ නැති නිසා",
+        "බල්ලා ලෙඩ නිසා"
+      ],
+      "answer": 1,
+      "explainSi": "'he is not hungry, he only looks hungry' — ලැයිස්තුවේ හේතුවත් තිබුණා, කථකයා ඒක නොසලකා හැරියා."
+    },
+    {
+      "id": "a1-15-q15",
+      "context": "She looks at the plants, which are yellow and wet. She looks at the dog, who cannot climb the step. Then she looks at me.",
+      "contextSi": "එයා ගස් දිහා බලනවා — කහ පාටයි, තෙමිලයි. එයා බල්ලා දිහා බලනවා — එයාට පඩිය නගින්න බෑ. එතකොට එයා මා දිහා බලනවා.",
+      "q": "කතාව අනුව: බල්ලාට පඩිය නගින්න බැරි වන්නේ ඇයි?",
+      "options": [
+        "එයා ලෙඩ නිසා",
+        "දවස් තුනක් දෙගුණයක් කෑම කාපු නිසා",
+        "පඩිය තෙමිලා නිසා",
+        "එයා වයසක නිසා"
+      ],
+      "answer": 1,
+      "explainSi": "අණ නොසලකා හැරීමේ ප්‍රතිඵලය. කතාව ඒක කෙළින්ම කියන්නේ නෑ — කියවන කෙනා තේරුම් ගන්න ඕන."
+    },
+    {
+      "id": "a1-15-q16",
+      "context": "Under the last line there is one more sentence in small letters: \"If you are not sure, do nothing and call me.\"",
+      "contextSi": "අන්තිම පේළියට යටින් පොඩි අකුරෙන් තව වාක්‍යයක් තියෙනවා: \"විශ්වාස නැත්නම්, කිසිවක් කරන්න එපා, මට කතා කරන්න.\"",
+      "q": "කතාව අනුව: මේ වාක්‍යය මුලින්ම කියෙව්වා නම් මොකද වෙන්නේ?",
+      "options": [
+        "කිසිවක් වෙනස් වෙන්නේ නෑ",
+        "ගස්වලටත් බල්ලාටත් අමතරව වතුරයි කෑමයි දෙන්නේ නෑ — එයාට කතා කරනවා",
+        "ලැයිස්තුව ඕන වෙන්නේ නෑ",
+        "නැන්දා කලින් එනවා"
+      ],
+      "answer": 1,
+      "explainSi": "'දෙපාරක් කියවන්න' කියපු එකේ තේරුම මෙතන — අන්තිම අණ තමයි වැදගත්ම එක."
+    },
+    {
+      "id": "a1-15-q17",
+      "context": "But nobody says: take your time. / Nobody says: sit still and look. / So when I'm old I'll say it twice — / Sit down. Be slow. Read the whole book.",
+      "contextSi": "හැබැයි කවුරුවත් කියන්නේ නෑ: හෙමින් කරන්න කියලා. / කවුරුවත් කියන්නේ නෑ: නිශ්චලව ඉඳලා බලන්න කියලා. / එනිසා මම වයසට ගියාම දෙපාරක් කියනවා — / ඉඳගන්න. හෙමින් ඉන්න. පොත මුළුමනින්ම කියවන්න.",
+      "q": "කවියේ අන්තිම කොටසේ අදහස කුමක්ද?",
+      "options": [
+        "වැඩිහිටියෝ ගොඩක් අණ කරනවා",
+        "ඉක්මන් වෙන්න කියන අණ තියෙනවා, හෙමින් ඉන්න කියන ඒවා නෑ — කථකයාට ඒවා දෙන්න ඕන",
+        "පොත් කියවීම වැදගත්",
+        "ළමයි අණවලට කීකරු විය යුතුයි"
+      ],
+      "answer": 1,
+      "explainSi": "පළමු කොටසේ අණ සියල්ලම ඉක්මන් කිරීම ගැන. අන්තිම කොටසේ අණ ප්‍රතිවිරුද්ධයි."
+    },
+    {
+      "id": "a1-15-q18",
+      "context": "Local: Don't cross the road. Walk past the bakery and it's on your right.",
+      "contextSi": "පදිංචිකරු: පාර හරහා යන්න එපා. බේකරිය පහු කරලා යන්න, එතකොට එය දකුණු පැත්තේ.",
+      "q": "සංවාදයේ: තැපැල් කන්තෝරුව තියෙන්නේ කොහෙද?",
+      "options": [
+        "පාරෙන් එහා පැත්තේ",
+        "බේකරියට පස්සේ, එකම පැත්තේ, දකුණට",
+        "බේකරියට කලින්",
+        "කොනේ"
+      ],
+      "answer": 1,
+      "explainSi": "'Don't cross the road' නිසා පාරෙන් එහාට යන්නේ නෑ. 'Walk past the bakery' නිසා ඒක පහු කරලා."
+    },
+    {
+      "id": "a1-15-q19",
+      "q": "පාර කියලා දෙද්දී අණ කරන ස්වරූපය යෙදීම රළුද?",
+      "options": [
+        "ඔව්, හැම විටම",
+        "නෑ — උපදෙස්, පාර සහ වට්ටෝරු සඳහා එය සාමාන්‍ය භාෂාවයි",
+        "ඔව්, 'please' නැත්නම්",
+        "නොදන්නා අය සමඟ පමණයි"
+      ],
+      "answer": 1,
+      "explainSi": "'Turn left', 'Add two cups of water', 'Come in' — රළු නෙවෙයි, පැහැදිලියි."
+    },
+    {
+      "id": "a1-15-q20",
+      "q": "කුමන වාක්‍යය වැරදිද?",
+      "options": [
+        "Please don't smoke here.",
+        "Let's not wait.",
+        "Don't to be late.",
+        "Be careful with the cup."
+      ],
+      "answer": 2,
+      "explainSi": "'Don't be late' විය යුතුයි. අණ කරන ස්වරූපයේ 'to' යෙදෙන්නේ නෑ."
+    },
+    {
+      "id": "a1-15-q21",
+      "q": "'බත් දෙපාරක් හෝදලා කෝප්ප තුනක් වතුර දාන්න' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "You wash the rice twice and you add three cups of water.",
+        "Wash the rice twice and add three cups of water.",
+        "Washing the rice twice and adding three cups of water.",
+        "To wash the rice twice and to add three cups of water."
+      ],
+      "answer": 1,
+      "explainSi": "වට්ටෝරුවක අණ කරන ස්වරූපය. ක්‍රියා දෙකටම කර්තෘවක් නෑ.",
+      "speak": "Wash the rice twice and add three cups of water."
+    },
+    {
+      "id": "a1-15-q22",
+      "q": "'Push' සහ 'Pull' යන ලකුණු දොරක තිබේ නම්?",
+      "options": [
+        "'Push' = අදින්න, 'Pull' = තල්ලු කරන්න",
+        "'Push' = තල්ලු කරන්න, 'Pull' = අදින්න",
+        "දෙකම එකම දෙයක්",
+        "'Push' = ඇරින්න එපා"
+      ],
+      "answer": 1,
+      "explainSi": "දෙකම එක වචනයේ අණ — ලකුණුවල හැම විටම මූලික ස්වරූපය තනියම."
+    }
+  ]
+}

@@ -1,0 +1,1240 @@
+{
+  "title": "Sinhala to English",
+  "titleSi": "සිංහලෙන් ඉංග්‍රීසි",
+  "tagline": "A complete beginner-to-advanced English course for Sinhala speakers.",
+  "taglineSi": "සිංහල කථා කරන අය සඳහා මුල සිට උසස් මට්ටම දක්වා සම්පූර්ණ ඉංග්‍රීසි පාඨමාලාවක්.",
+  "units": [
+    {
+      "id": "u1",
+      "order": 1,
+      "level": "A1",
+      "title": "First Steps",
+      "titleSi": "පළමු පියවර",
+      "summary": "Sounds, greetings, the verb 'to be', numbers and family.",
+      "summarySi": "ඉංග්‍රීසි හඬ, ආචාර කිරීම, 'be' ක්‍රියාව, සංඛ්‍යා සහ පවුලේ අය. සියල්ල සිංහලෙන් පැහැදිලි කරයි.",
+      "colour": "#17a95d",
+      "icon": "seedling",
+      "chapters": [
+        {
+          "id": "a1-01",
+          "order": 1,
+          "title": "Sounds & Letters",
+          "titleSi": "අකුරු සහ හඬ",
+          "blurbSi": "ඉංග්‍රීසි අකුරු 26, ස්වර සහ ව්‍යාංජන, සහ ඒවා උච්චාරණය කරන ආකාරය.",
+          "minutes": 12,
+          "support": "high",
+          "file": "lessons/a1-01.json"
+        },
+        {
+          "id": "a1-02",
+          "order": 2,
+          "title": "Hello & Goodbye",
+          "titleSi": "ආචාර කිරීම සහ සමුගැනීම",
+          "blurbSi": "ආචාර කිරීම, ඔබව හඳුන්වා දීම, සහ ආචාරශීලී වචන.",
+          "minutes": 14,
+          "support": "high",
+          "file": "lessons/a1-02.json"
+        },
+        {
+          "id": "a1-03",
+          "order": 3,
+          "title": "I am, You are",
+          "titleSi": "මම, ඔබ — 'be' ක්‍රියාව",
+          "blurbSi": "සර්වනාම සහ am / is / are. ඉංග්‍රීසියේ වැදගත්ම ක්‍රියාව.",
+          "minutes": 16,
+          "support": "high",
+          "file": "lessons/a1-03.json"
+        },
+        {
+          "id": "a1-04",
+          "order": 4,
+          "title": "Numbers, Family & Colours",
+          "titleSi": "සංඛ්‍යා, පවුල සහ වර්ණ",
+          "blurbSi": "1 සිට 100 දක්වා, පවුලේ සාමාජිකයන් සහ වර්ණ. ඒවා යොදාගෙන කතා කරමු.",
+          "minutes": 15,
+          "support": "high",
+          "file": "lessons/a1-04.json"
+        }
+      ],
+      "checkpoint": {
+        "file": "checkpoints/u1.json"
+      }
+    },
+    {
+      "id": "u1b",
+      "order": 2,
+      "level": "A1",
+      "title": "Everyday Words",
+      "titleSi": "දෛනික වචන",
+      "summary": "Time, home, food and shopping — the words a day is made of.",
+      "summarySi": "වේලාව, ගෙදර, කෑම සහ සාප්පු යාම — දවසක් හදන වචන.",
+      "colour": "#1aa3c9",
+      "icon": "calendar",
+      "chapters": [
+        {
+          "id": "a1-05",
+          "order": 1,
+          "title": "Time, Days & Dates",
+          "titleSi": "වේලාව, දවස් සහ දිනයන්",
+          "blurbSi": "වේලාව කීම, සතියේ දවස්, මාස, සහ in/on/at තෝරා ගැනීම.",
+          "minutes": 15,
+          "support": "high",
+          "file": "lessons/a1-05.json"
+        },
+        {
+          "id": "a1-06",
+          "order": 2,
+          "title": "My Home",
+          "titleSi": "මගේ ගෙදර",
+          "blurbSi": "කාමර සහ බඩු, There is / There are, සහ දෙයක් කොහෙද කියන වචන.",
+          "minutes": 16,
+          "support": "high",
+          "file": "lessons/a1-06.json"
+        },
+        {
+          "id": "a1-07",
+          "order": 3,
+          "title": "Food & Drink",
+          "titleSi": "කෑම සහ බීම",
+          "blurbSi": "ගණන් කළ හැකි/නොහැකි නාම පද, some/any, how much/how many, සහ අවන්හලක ඇණවුම් කිරීම.",
+          "minutes": 20,
+          "support": "high",
+          "file": "lessons/a1-07.json"
+        },
+        {
+          "id": "a1-08",
+          "order": 4,
+          "title": "Clothes, Colours & Shopping",
+          "titleSi": "ඇඳුම්, පාට සහ සාප්පු යාම",
+          "blurbSi": "this/that/these/those, විශේෂණ පිළිවෙළ, සහ කඩේක ප්‍රමාණය, පාට සහ මිල ගැන කථා කිරීම.",
+          "minutes": 20,
+          "support": "high",
+          "file": "lessons/a1-08.json"
+        }
+      ],
+      "checkpoint": {
+        "file": "checkpoints/u1b.json"
+      }
+    },
+    {
+      "id": "u1c",
+      "order": 3,
+      "level": "A1",
+      "title": "Every Day",
+      "titleSi": "හැම දාම",
+      "summary": "Habits, routines, likes and work — the present simple and the life it describes.",
+      "summarySi": "පුරුදු, දිනචරියා, කැමති දේ සහ රැකියාව — present simple සහ එය විස්තර කරන ජීවිතය.",
+      "colour": "#e0781a",
+      "icon": "repeat",
+      "chapters": [
+        {
+          "id": "a1-09",
+          "order": 1,
+          "title": "Every Day: the Present Simple",
+          "titleSi": "හැම දාම: Present Simple",
+          "blurbSi": "දිනපතා පුරුදු, he/she/it සමඟ -s, සහ එහි අක්ෂර වින්‍යාසය.",
+          "minutes": 20,
+          "support": "high",
+          "file": "lessons/a1-09.json"
+        },
+        {
+          "id": "a1-10",
+          "order": 2,
+          "title": "Do, Does & How Often",
+          "titleSi": "Do, Does සහ How Often",
+          "blurbSi": "don't/doesn't, Do/Does ප්‍රශ්න, කෙටි පිළිතුරු, සහ always/never යොදන තැන.",
+          "minutes": 20,
+          "support": "high",
+          "file": "lessons/a1-10.json"
+        },
+        {
+          "id": "a1-11",
+          "order": 3,
+          "title": "Likes, Dislikes & Free Time",
+          "titleSi": "කැමැත්ත, අකැමැත්ත සහ නිදහස් කාලය",
+          "blurbSi": "like, love, hate, don't mind — සහ ඉන් පසු එන ක්‍රියාවට -ing හෝ to අවශ්‍ය වන ආකාරය.",
+          "minutes": 20,
+          "support": "high",
+          "file": "lessons/a1-11.json"
+        },
+        {
+          "id": "a1-12",
+          "order": 4,
+          "title": "Can, Can't & Asking Politely",
+          "titleSi": "Can, Can't සහ ආචාරශීලීව ඉල්ලීම",
+          "blurbSi": "හැකියාව, ඉල්ලීම් සහ අවසර — can සමඟ -s හෝ do/does නොයෙදෙන්නේ ඇයි කියාත් සමඟ.",
+          "minutes": 20,
+          "support": "high",
+          "file": "lessons/a1-12.json"
+        }
+      ],
+      "checkpoint": {
+        "file": "checkpoints/u1c.json"
+      }
+    },
+    {
+      "id": "u1d",
+      "order": 4,
+      "level": "A1",
+      "title": "Right Now",
+      "titleSi": "දැන් මේ මොහොතේ",
+      "summary": "What is happening at this moment — the present continuous, and how it differs from a habit.",
+      "summarySi": "මේ මොහොතේ සිදුවෙන දේ — present continuous, සහ එය පුරුද්දකින් වෙනස් වන ආකාරය.",
+      "colour": "#2f8f6f",
+      "icon": "eye",
+      "chapters": [
+        {
+          "id": "a1-13",
+          "order": 1,
+          "title": "Right Now: The -ing Tense",
+          "titleSi": "දැන් මේ මොහොතේ: -ing කාලය",
+          "blurbSi": "am/is/are + -ing — දැන් සිදුවෙන දේ, සහ එය පුරුද්දකින් වෙන් කරන ආකාරය.",
+          "minutes": 20,
+          "support": "high",
+          "file": "lessons/a1-13.json"
+        },
+        {
+          "id": "a1-14",
+          "order": 2,
+          "title": "Verbs That Don't Take -ing",
+          "titleSi": "-ing නොගන්නා ක්‍රියා",
+          "blurbSi": "know, want, need, understand — තත්ත්ව ක්‍රියා, සහ have සහ think දෙපැත්තටම යෙදෙන ආකාරය.",
+          "minutes": 20,
+          "support": "high",
+          "file": "lessons/a1-14.json"
+        },
+        {
+          "id": "a1-15",
+          "order": 3,
+          "title": "Telling People What to Do",
+          "titleSi": "අණ කිරීම සහ උපදෙස් දීම",
+          "blurbSi": "Sit down, Don't touch, Let's go — කර්තෘවක් නැති එකම ඉංග්‍රීසි වාක්‍යය, සහ ලකුණු කියවීම.",
+          "minutes": 20,
+          "support": "high",
+          "file": "lessons/a1-15.json"
+        },
+        {
+          "id": "a1-16",
+          "order": 4,
+          "title": "Me, Him, Her: Pronouns & Possessives",
+          "titleSi": "මාව, එයාව, එයාගේ — සර්වනාම සහ අයිතිය",
+          "blurbSi": "me/him/her, my/his/her, Nimal's bag, සහ its එක්ක it's — කාගේ මොකක්ද කියන එක.",
+          "minutes": 20,
+          "support": "high",
+          "file": "lessons/a1-16.json"
+        }
+      ],
+      "checkpoint": {
+        "file": "checkpoints/u1d.json"
+      }
+    },
+    {
+      "id": "u1e",
+      "order": 5,
+      "level": "A1",
+      "title": "Asking and Doing",
+      "titleSi": "අහන එකයි කරන එකයි",
+      "summary": "Questions, reasons and the past of be — the tools for holding up your side of a conversation.",
+      "summarySi": "ප්‍රශ්න, හේතු සහ be ක්‍රියාවේ අතීතය — කථාවක ඔබේ පැත්ත රඳවාගන්න අවශ්‍ය දේ.",
+      "colour": "#6a4fb3",
+      "icon": "help",
+      "chapters": [
+        {
+          "id": "a1-17",
+          "order": 1,
+          "title": "What, Where, Who, Why",
+          "titleSi": "මොකක්ද, කොහෙද, කවුද, ඇයි",
+          "blurbSi": "ප්‍රශ්න වචන සහ ඒවා ගැළපෙන අනුපිළිවෙළ — Where do you live?, Who lives here?, How far?",
+          "minutes": 20,
+          "support": "high",
+          "file": "lessons/a1-17.json"
+        },
+        {
+          "id": "a1-18",
+          "order": 2,
+          "title": "Yesterday: Was & Were",
+          "titleSi": "ඊයේ: was සහ were",
+          "blurbSi": "be ක්‍රියාවේ අතීතය — was, were, wasn't, weren't සහ There was / There were.",
+          "minutes": 20,
+          "support": "high",
+          "file": "lessons/a1-18.json"
+        },
+        {
+          "id": "a1-19",
+          "order": 3,
+          "title": "Describing People & Feelings",
+          "titleSi": "මිනිස්සු සහ හැඟීම් විස්තර කිරීම",
+          "blurbSi": "tall, kind, tired — සහ 'I am hungry' මිස 'I have hunger' නොවන්නේ ඇයි.",
+          "minutes": 20,
+          "support": "high",
+          "file": "lessons/a1-19.json"
+        },
+        {
+          "id": "a1-20",
+          "order": 4,
+          "title": "And, But, Because, So",
+          "titleSi": "and, but, because, so",
+          "blurbSi": "වාක්‍ය එකට බැඳීම — සහ because හේතුවත් so ප්‍රතිඵලයත් ගෙන ප්‍රතිවිරුද්ධ දිශාවලට යන ආකාරය.",
+          "minutes": 20,
+          "support": "high",
+          "file": "lessons/a1-20.json"
+        }
+      ],
+      "checkpoint": {
+        "file": "checkpoints/u1e.json"
+      }
+    },
+    {
+      "id": "u1f",
+      "order": 6,
+      "level": "A1",
+      "title": "Out in the World",
+      "titleSi": "පිටත ලෝකයේ",
+      "summary": "Travel, health, weather and written notes — English for leaving the house.",
+      "summarySi": "ගමන්, සෞඛ්‍යය, කාලගුණය සහ ලිඛිත සටහන් — ගෙයින් පිටත්වීමට අවශ්‍ය ඉංග්‍රීසිය.",
+      "colour": "#1f7a8c",
+      "icon": "world",
+      "chapters": [
+        {
+          "id": "a1-21",
+          "order": 1,
+          "title": "Getting Around: By Bus, On Foot",
+          "titleSi": "යන එන එක: බස් එකෙන්, පයින්",
+          "blurbSi": "ප්‍රවාහනය — by bus, on foot, on the train, in the car, සහ catch, miss, get off.",
+          "minutes": 20,
+          "support": "high",
+          "file": "lessons/a1-21.json"
+        },
+        {
+          "id": "a1-22",
+          "order": 2,
+          "title": "The Body, Illness & the Doctor",
+          "titleSi": "සිරුර, ලෙඩ සහ වෛද්‍යවරයා",
+          "blurbSi": "සිරුරේ කොටස්, රිදෙන දේ කියන ක්‍රම තුනක්, සහ 'I have a cold' සමඟ 'I am cold' අතර වෙනස.",
+          "minutes": 20,
+          "support": "high",
+          "file": "lessons/a1-22.json"
+        },
+        {
+          "id": "a1-23",
+          "order": 3,
+          "title": "Weather & Seasons",
+          "titleSi": "කාලගුණය සහ ඍතු",
+          "blurbSi": "It is raining — අර්ථයක් නැති It, කාලගුණ වචන, සහ අපේ මෝසම් දෙක.",
+          "minutes": 20,
+          "support": "high",
+          "file": "lessons/a1-23.json"
+        },
+        {
+          "id": "a1-24",
+          "order": 4,
+          "title": "Writing It Down",
+          "titleSi": "ලියලා තියන එක",
+          "blurbSi": "සටහන්, කෙටි පණිවුඩ සහ පළමු විද්‍යුත් ලිපිය — සහ තිතක් අර්ථය වෙනස් කරන ආකාරය.",
+          "minutes": 20,
+          "support": "high",
+          "file": "lessons/a1-24.json"
+        }
+      ],
+      "checkpoint": {
+        "file": "checkpoints/u1f.json"
+      }
+    },
+    {
+      "id": "u1g",
+      "order": 7,
+      "level": "A1",
+      "title": "Rules and Sounds",
+      "titleSi": "නීති සහ හඬ",
+      "summary": "must and have to — obligation, prohibition, and their contrast — plus signs and simple everyday rules.",
+      "summarySi": "must, have to — නීති සහ බැඳීම්.",
+      "colour": "#7c2d12",
+      "icon": "ruler",
+      "chapters": [
+        {
+          "id": "a1-25",
+          "order": 1,
+          "title": "Must and Have To",
+          "titleSi": "Must සහ Have To",
+          "blurbSi": "have to, must not, don't have to — නීති සහ බැඳීම් කීම.",
+          "minutes": 12,
+          "support": "high",
+          "file": "lessons/a1-25.json"
+        }
+      ],
+      "checkpoint": {
+        "file": "checkpoints/u1g.json"
+      }
+    },
+    {
+      "id": "u2",
+      "order": 8,
+      "level": "A2",
+      "title": "Everyday Life",
+      "titleSi": "එදිනෙදා ජීවිතය",
+      "summary": "Articles, the present simple, food, shopping, time and places.",
+      "summarySi": "a / an / the, present simple, ආහාර, සාප්පු යාම, කාලය සහ ස්ථාන. පළමු කෙටිකතාව මෙහිදී.",
+      "colour": "#f18f14",
+      "icon": "sun",
+      "chapters": [
+        {
+          "id": "a2-01",
+          "order": 5,
+          "title": "This, That & the Little Words",
+          "titleSi": "This, That සහ a / an / the",
+          "blurbSi": "ඉංග්‍රීසියේ කුඩා නමුත් ඉතා වැදගත් වචන — a, an, the, this, that.",
+          "minutes": 15,
+          "support": "high",
+          "file": "lessons/a2-01.json"
+        },
+        {
+          "id": "a2-02",
+          "order": 6,
+          "title": "My Day — Present Simple",
+          "titleSi": "මගේ දවස — Present Simple",
+          "blurbSi": "සෑම දිනකම කරන දේ ගැන කතා කරන්න. -s අවසානය සහ do / does.",
+          "minutes": 18,
+          "support": "high",
+          "file": "lessons/a2-02.json"
+        },
+        {
+          "id": "a2-03",
+          "order": 7,
+          "title": "Food & Shopping",
+          "titleSi": "ආහාර සහ සාප්පු යාම",
+          "blurbSi": "කඩේට ගිහින් දේවල් ඉල්ලන්නේ කොහොමද? මිල අහන්නේ කොහොමද?",
+          "minutes": 17,
+          "support": "medium",
+          "file": "lessons/a2-03.json"
+        },
+        {
+          "id": "a2-04",
+          "order": 8,
+          "title": "Time, Days & Places",
+          "titleSi": "කාලය, දින සහ ස්ථාන",
+          "blurbSi": "වේලාව කියන්නේ කොහොමද, සහ in / on / at යෙදෙන්නේ කොහෙද.",
+          "minutes": 16,
+          "support": "medium",
+          "file": "lessons/a2-04.json"
+        }
+      ],
+      "checkpoint": {
+        "file": "checkpoints/u2.json"
+      }
+    },
+    {
+      "id": "u2b",
+      "order": 9,
+      "level": "A2",
+      "title": "Somebody, Anybody, Everybody",
+      "titleSi": "කවුරුහරි, කවුරුත්, හැමෝම",
+      "summary": "Indefinite and reflexive pronouns — someone, anyone, no one, everyone, myself, both, either, neither.",
+      "summarySi": "කවුරුහරි, කවුරුත්, කවුරුවත් නෑ, හැමෝම, myself, both, either, neither — නිශ්චිත නොවන සර්වනාම.",
+      "colour": "#7a4fb0",
+      "icon": "ghost",
+      "chapters": [
+        {
+          "id": "a2-06",
+          "order": 1,
+          "title": "Someone, Anyone, No One, Everyone",
+          "titleSi": "Someone, Anyone, No One, Everyone",
+          "blurbSi": "නිශ්චිත නොවන කෙනෙක් ගැන කථා කිරීම — සහ ඒවා තනි වචන විදිහට සලකන ආකාරය.",
+          "minutes": 20,
+          "support": "high",
+          "file": "lessons/a2-06.json"
+        },
+        {
+          "id": "a2-07",
+          "order": 2,
+          "title": "Something, Anything, Nothing, Everything",
+          "titleSi": "Something, Anything, Nothing, Everything",
+          "blurbSi": "දේවල් සහ තැන් ගැන — a2-06 හි එකම නීතිය, thing සහ where කාණ්ඩවලට.",
+          "minutes": 20,
+          "support": "high",
+          "file": "lessons/a2-07.json"
+        },
+        {
+          "id": "a2-08",
+          "order": 3,
+          "title": "Myself, Yourself & Each Other",
+          "titleSi": "Myself, Yourself සහ Each Other",
+          "blurbSi": "reflexive සර්වනාම — ක්‍රියාව ආපහු එනවා නම් විතරයි, සහ each other දෙදෙනෙක් අතර.",
+          "minutes": 20,
+          "support": "high",
+          "file": "lessons/a2-08.json"
+        },
+        {
+          "id": "a2-09",
+          "order": 4,
+          "title": "Both, Either, Neither",
+          "titleSi": "Both, Either, Neither",
+          "blurbSi": "හරියටම දෙකක් ගැන — both බහුවචනයි, either/neither තනි වචනයි.",
+          "minutes": 20,
+          "support": "high",
+          "file": "lessons/a2-09.json"
+        }
+      ],
+      "checkpoint": {
+        "file": "checkpoints/u2b.json"
+      }
+    },
+    {
+      "id": "u2c",
+      "order": 10,
+      "level": "A2",
+      "title": "Not Quite, Not Yet",
+      "titleSi": "හරියටම නෑ, තාම නෑ",
+      "summary": "Present perfect for experience, used to, small amounts, and too/enough — the small grammar points with no chapter of their own.",
+      "summarySi": "අත්දැකීම් (present perfect), used to, ප්‍රමාණ කුඩා වචන, too/enough — තමන්ගේම පාඩමක් නොතිබූ කුඩා ව්‍යාකරණ කරුණු.",
+      "colour": "#1a8f6f",
+      "icon": "hourglass",
+      "chapters": [
+        {
+          "id": "a2-10",
+          "order": 1,
+          "title": "Have You Ever…?",
+          "titleSi": "Have You Ever...?",
+          "blurbSi": "present perfect — have/has + past participle, සහ අත්දැකීම් ගැන දිනයක් නැතුව කථා කිරීම.",
+          "minutes": 20,
+          "support": "high",
+          "file": "lessons/a2-10.json"
+        },
+        {
+          "id": "a2-22",
+          "order": 2,
+          "title": "Already, Just and Yet",
+          "titleSi": "Already, Just සහ Yet",
+          "blurbSi": "present perfect එකට already, just, yet එකතු කරලා දෙයක් කොච්චර ඉදිරියටද කියන එක කියන්න.",
+          "minutes": 18,
+          "support": "high",
+          "file": "lessons/a2-22.json"
+        },
+        {
+          "id": "a2-11",
+          "order": 3,
+          "title": "Used To: Past Habits, and Now",
+          "titleSi": "Used To — කලින් තිබූ පුරුදු, දැන්",
+          "blurbSi": "used to + ක්‍රියාව — කලින් තිබූ, දැන් නැති පුරුද්දක් හෝ තත්ත්වයක්.",
+          "minutes": 20,
+          "support": "high",
+          "file": "lessons/a2-11.json"
+        },
+        {
+          "id": "a2-12",
+          "order": 4,
+          "title": "A Few, A Little: Small Amounts",
+          "titleSi": "A Few, A Little — කුඩා ප්‍රමාණ",
+          "blurbSi": "a1-07 හි ගණන් කළ හැකි/නොහැකි නීතියට තව මට්ටමක් — a තිබේද නැද්ද කියලා අර්ථය හැරෙන ආකාරය.",
+          "minutes": 20,
+          "support": "high",
+          "file": "lessons/a2-12.json"
+        },
+        {
+          "id": "a2-13",
+          "order": 5,
+          "title": "Too … To, … Enough To",
+          "titleSi": "Too ... To, ... Enough To",
+          "blurbSi": "too — ප්‍රමාණයට වඩා, ප්‍රශ්නයක්; enough — ප්‍රමාණවත්. සහ too ≠ very.",
+          "minutes": 20,
+          "support": "high",
+          "file": "lessons/a2-13.json"
+        }
+      ],
+      "checkpoint": {
+        "file": "checkpoints/u2c.json"
+      }
+    },
+    {
+      "id": "u2d",
+      "order": 11,
+      "level": "A2",
+      "title": "Everyday Arrangements",
+      "titleSi": "එදිනෙදා සැලසුම්",
+      "summary": "Making suggestions, phone calls, polite complaints, and staying at a hotel.",
+      "summarySi": "යෝජනා කිරීම, දුරකථනයෙන් කතා කිරීම, පැමිණිලි කිරීම, හෝටලයේ රැඳී සිටීම.",
+      "colour": "#c2410c",
+      "icon": "calendar",
+      "chapters": [
+        {
+          "id": "a2-14",
+          "order": 1,
+          "title": "Making Suggestions",
+          "titleSi": "යෝජනා කිරීම",
+          "blurbSi": "Shall we…?, Why don't we…?, How about…? භාවිතයෙන් යෝජනා කිරීම සහ ඒවාට පිළිතුරු දීම.",
+          "minutes": 12,
+          "support": "high",
+          "file": "lessons/a2-14.json"
+        },
+        {
+          "id": "a2-15",
+          "order": 2,
+          "title": "On the Phone",
+          "titleSi": "දුරකථනයෙන් කතා කිරීම",
+          "blurbSi": "දුරකථන අංකයක් කියවීම, Could I speak to...?, පණිවිඩයක් තැබීම, I'll call you back.",
+          "minutes": 12,
+          "support": "high",
+          "file": "lessons/a2-15.json"
+        },
+        {
+          "id": "a2-16",
+          "order": 3,
+          "title": "Making a Complaint Politely",
+          "titleSi": "ආචාරශීලීව පැමිණිලි කිරීම",
+          "blurbSi": "This doesn't work, I'd like a refund, could I speak to the manager — තරහ නොපෙන්නා පැමිණිලි කිරීම.",
+          "minutes": 12,
+          "support": "high",
+          "file": "lessons/a2-16.json"
+        },
+        {
+          "id": "a2-17",
+          "order": 4,
+          "title": "At the Hotel",
+          "titleSi": "හෝටලයේ",
+          "blurbSi": "Check in වීම, කාමරය ගැන අහන එක, ප්‍රශ්නයක් වාර්තා කිරීම, check out වීම.",
+          "minutes": 12,
+          "support": "high",
+          "file": "lessons/a2-17.json"
+        }
+      ],
+      "checkpoint": {
+        "file": "checkpoints/u2d.json"
+      }
+    },
+    {
+      "id": "u2e",
+      "order": 12,
+      "level": "A2",
+      "title": "Money, Work and School",
+      "titleSi": "මුදල්, රැකියාව සහ පාසල",
+      "summary": "Banking, jobs and work, school life, and everyday technology.",
+      "summarySi": "බැංකුවේ, රැකියා ගැන කතා කිරීම, පාසැලේ, wifi සහ තාක්ෂණය.",
+      "colour": "#0f766e",
+      "icon": "briefcase",
+      "chapters": [
+        {
+          "id": "a2-18",
+          "order": 1,
+          "title": "At the Bank",
+          "titleSi": "බැංකුවේ",
+          "blurbSi": "ගිණුමක් විවෘත කිරීම, ATM එක, විනිමය අනුපාතය.",
+          "minutes": 12,
+          "support": "high",
+          "file": "lessons/a2-18.json"
+        },
+        {
+          "id": "a2-19",
+          "order": 2,
+          "title": "Jobs and Work",
+          "titleSi": "රැකියා සහ වැඩ",
+          "blurbSi": "What do you do?, I work as a..., Where do you work?, full-time / part-time.",
+          "minutes": 12,
+          "support": "high",
+          "file": "lessons/a2-19.json"
+        },
+        {
+          "id": "a2-20",
+          "order": 3,
+          "title": "At School",
+          "titleSi": "පාසලේ",
+          "blurbSi": "විෂයයන්, කැමති විෂය, කාල සටහන, විභාග — pass, fail, grade.",
+          "minutes": 12,
+          "support": "high",
+          "file": "lessons/a2-20.json"
+        },
+        {
+          "id": "a2-21",
+          "order": 4,
+          "title": "Technology and the Internet",
+          "titleSi": "තාක්ෂණය සහ අන්තර්ජාලය",
+          "blurbSi": "wifi, download, password, charge your phone.",
+          "minutes": 12,
+          "support": "high",
+          "file": "lessons/a2-21.json"
+        }
+      ],
+      "checkpoint": {
+        "file": "checkpoints/u2e.json"
+      }
+    },
+    {
+      "id": "u3",
+      "order": 13,
+      "level": "A2",
+      "title": "The Past & Stories",
+      "titleSi": "අතීතය සහ කථා",
+      "summary": "Past simple, past continuous, connectors and descriptive language.",
+      "summarySi": "සිදු වූ දේ ගැන කතා කරමු. Past tense, කථා ගොතන වචන සහ විශේෂණ.",
+      "colour": "#e8425c",
+      "icon": "history",
+      "chapters": [
+        {
+          "id": "a2-05",
+          "order": 9,
+          "title": "Yesterday — Past Simple",
+          "titleSi": "ඊයේ — Past Simple",
+          "blurbSi": "-ed අවසානය සහ නීතිවිරෝධී ක්‍රියා (irregular verbs). අතීතය කියමු.",
+          "minutes": 18,
+          "support": "medium",
+          "file": "lessons/a2-05.json"
+        },
+        {
+          "id": "b1-01",
+          "order": 10,
+          "title": "While It Was Raining",
+          "titleSi": "වැස්ස වහිද්දී — Past Continuous",
+          "blurbSi": "was / were + -ing. කථා වලට පසුබිමක් දෙන ආකාරය.",
+          "minutes": 17,
+          "support": "medium",
+          "file": "lessons/b1-01.json"
+        },
+        {
+          "id": "b1-02",
+          "order": 11,
+          "title": "Joining Ideas",
+          "titleSi": "අදහස් සම්බන්ධ කිරීම",
+          "blurbSi": "because, so, but, although, then — වාක්‍ය දිගු කරන ආකාරය.",
+          "minutes": 16,
+          "support": "medium",
+          "file": "lessons/b1-02.json"
+        },
+        {
+          "id": "b1-03",
+          "order": 12,
+          "title": "Describing People & Places",
+          "titleSi": "මිනිසුන් සහ ස්ථාන විස්තර කිරීම",
+          "blurbSi": "විශේෂණ (adjectives) සහ ක්‍රියා විශේෂණ (adverbs). වචන පිළිවෙළ.",
+          "minutes": 18,
+          "support": "low",
+          "file": "lessons/b1-03.json"
+        }
+      ],
+      "checkpoint": {
+        "file": "checkpoints/u3.json"
+      }
+    },
+    {
+      "id": "u4",
+      "order": 14,
+      "level": "B1",
+      "title": "Future & Opinions",
+      "titleSi": "අනාගතය සහ අදහස්",
+      "summary": "Talking about plans, possibility, comparison and opinions.",
+      "summarySi": "සැලසුම්, හැකියාව, සැසඳීම සහ ඔබේ අදහස ප්‍රකාශ කිරීම. මෙතැන් සිට පැහැදිලි කිරීම් ඉංග්‍රීසියෙන්ද එයි.",
+      "colour": "#3b63f0",
+      "icon": "compass",
+      "chapters": [
+        {
+          "id": "b1-04",
+          "order": 13,
+          "title": "Will & Going To",
+          "titleSi": "අනාගතය — will සහ going to",
+          "blurbSi": "සැලසුම්, පොරොන්දු සහ අනාවැකි. දෙකේ වෙනස තේරුම් ගනිමු.",
+          "minutes": 17,
+          "support": "low",
+          "file": "lessons/b1-04.json"
+        },
+        {
+          "id": "b1-05",
+          "order": 14,
+          "title": "Can, Should, Must",
+          "titleSi": "Modal ක්‍රියා",
+          "blurbSi": "හැකියාව, උපදෙස්, අවශ්‍යතාව සහ අවසර ප්‍රකාශ කිරීම.",
+          "minutes": 18,
+          "support": "low",
+          "file": "lessons/b1-05.json"
+        },
+        {
+          "id": "b1-06",
+          "order": 15,
+          "title": "Bigger, Best, Better",
+          "titleSi": "සැසඳීම — Comparatives",
+          "blurbSi": "-er / -est, more / most, as … as. දේවල් සංසන්දනය කරමු.",
+          "minutes": 16,
+          "support": "low",
+          "file": "lessons/b1-06.json"
+        },
+        {
+          "id": "b1-07",
+          "order": 16,
+          "title": "What Do You Think?",
+          "titleSi": "ඔබේ අදහස කුමක්ද?",
+          "blurbSi": "එකඟ වීම, විරුද්ධ වීම සහ ආචාරශීලීව අදහස් ප්‍රකාශ කිරීම.",
+          "minutes": 17,
+          "support": "low",
+          "file": "lessons/b1-07.json"
+        }
+      ],
+      "checkpoint": {
+        "file": "checkpoints/u4.json"
+      }
+    },
+    {
+      "id": "u4b",
+      "order": 15,
+      "level": "B1",
+      "title": "Telling the Story",
+      "titleSi": "කතාව කියමු",
+      "summary": "The past perfect, past habits, and the words that put a story in order.",
+      "summarySi": "අතීතයේ සිද්ධි පිළිවෙළට කියන එක. Past perfect, කලින් තිබූ පුරුදු, සහ කතාවක් ගොතන වචන.",
+      "colour": "#c2410c",
+      "icon": "notebook",
+      "chapters": [
+        {
+          "id": "b1-08",
+          "order": 1,
+          "title": "Before That Happened",
+          "titleSi": "ඊට කලින් වුණු දේ",
+          "blurbSi": "past perfect — had + past participle. අතීතයේ දේවල් දෙකකින් කලින් වුණේ මොකක්ද කියලා පෙන්නන ක්‍රමය.",
+          "minutes": 20,
+          "support": "medium",
+          "file": "lessons/b1-08.json"
+        },
+        {
+          "id": "b1-09",
+          "order": 2,
+          "title": "Every Summer We Would Go",
+          "titleSi": "හැම නිවාඩුවකම අපි ගියා",
+          "blurbSi": "අතීතයේ නැවත නැවත කරපු දේවලට 'would'. a2-11 හි ඉගෙන ගත්ත used to එකයි මේකයි අතර වෙනස.",
+          "minutes": 20,
+          "support": "medium",
+          "file": "lessons/b1-09.json"
+        },
+        {
+          "id": "b1-10",
+          "order": 3,
+          "title": "How Long Have You Been Waiting?",
+          "titleSi": "කොච්චර වෙලාවක් තිස්සේ බලාගෙන ඉන්නවාද?",
+          "blurbSi": "present perfect continuous — have/has been + -ing. for සහ since, සහ 'How long…?' කියන ප්‍රශ්නය.",
+          "minutes": 20,
+          "support": "medium",
+          "file": "lessons/b1-10.json"
+        },
+        {
+          "id": "b1-11",
+          "order": 4,
+          "title": "What Happened Then?",
+          "titleSi": "ඊට පස්සේ මොකද වුණේ?",
+          "blurbSi": "අතීතය ගැන wh- ප්‍රශ්න, සහ අනිත් කෙනාගේ කතාව ඉදිරියට ගෙනියන පොඩි වචන.",
+          "minutes": 18,
+          "support": "medium",
+          "file": "lessons/b1-11.json"
+        },
+        {
+          "id": "b1-12",
+          "order": 5,
+          "title": "First, Then, After That",
+          "titleSi": "මුලින්ම, ඊට පස්සේ, අන්තිමට",
+          "blurbSi": "වෙන් වුණු වාක්‍ය කතාවක් කරන වචන. first සහ at first, in the end සහ at the end, meanwhile.",
+          "minutes": 18,
+          "support": "medium",
+          "file": "lessons/b1-12.json"
+        }
+      ],
+      "checkpoint": {
+        "file": "checkpoints/u4b.json"
+      }
+    },
+    {
+      "id": "u4c",
+      "order": 16,
+      "level": "B1",
+      "title": "What Might Happen",
+      "titleSi": "වෙන්නත් පුළුවන් දේ",
+      "summary": "The future in progress, hopes and plans, and saying how sure you are.",
+      "summarySi": "අනාගතයේ මොහොතක්, බලාපොරොත්තු සහ සැලසුම්, සහ කොච්චර නිශ්චිතද කියන එක කියන ක්‍රම.",
+      "colour": "#0f9d8f",
+      "icon": "hourglass",
+      "chapters": [
+        {
+          "id": "b1-13",
+          "order": 1,
+          "title": "This Time Tomorrow",
+          "titleSi": "හෙට මේ වෙලාවේ",
+          "blurbSi": "future continuous — will be + -ing. අනාගතයේ මොහොතක් මැදින් අල්ලගන්න ක්‍රමය.",
+          "minutes": 20,
+          "support": "medium",
+          "file": "lessons/b1-13.json"
+        },
+        {
+          "id": "b1-14",
+          "order": 2,
+          "title": "Dreams, Hopes and Plans",
+          "titleSi": "සිහින, බලාපොරොත්තු සහ සැලසුම්",
+          "blurbSi": "hope to, would like to, plan to, thinking of. සහ ඒවාට හේතුවක් දෙන because, so that, in order to.",
+          "minutes": 20,
+          "support": "medium",
+          "file": "lessons/b1-14.json"
+        },
+        {
+          "id": "b1-15",
+          "order": 3,
+          "title": "It Might Rain",
+          "titleSi": "වහින්නත් පුළුවන්",
+          "blurbSi": "might, may, will probably. ඔව් සහ නෑ අතරේ තියෙන උත්තර.",
+          "minutes": 18,
+          "support": "medium",
+          "file": "lessons/b1-15.json"
+        },
+        {
+          "id": "b1-16",
+          "order": 4,
+          "title": "It Must Be Him",
+          "titleSi": "ඒක එයා තමයි",
+          "blurbSi": "සාක්ෂි මත අනුමානය — must සහ can't. නියෝගය කියන must එකයි මේකයි වෙනස.",
+          "minutes": 20,
+          "support": "medium",
+          "file": "lessons/b1-16.json"
+        }
+      ],
+      "checkpoint": {
+        "file": "checkpoints/u4c.json"
+      }
+    },
+    {
+      "id": "u4d",
+      "order": 17,
+      "level": "B1",
+      "title": "Holding a Conversation",
+      "titleSi": "කථාවක් පවත්වාගෙන යාම",
+      "summary": "Opening, interrupting, checking understanding, agreeing and the small words that keep talk alive.",
+      "summarySi": "කථාවක් පටන් ගන්න, බාධා කරන්න, තේරුණාද කියලා අහන්න, එකඟ වෙන්න — සහ කථාව ජීවත් කරන පොඩි වචන.",
+      "colour": "#a3489b",
+      "icon": "user",
+      "chapters": [
+        {
+          "id": "b1-17",
+          "order": 1,
+          "title": "Starting and Ending a Conversation",
+          "titleSi": "කථාවක් පටන් ගැනීමයි අවසන් කිරීමයි",
+          "blurbSi": "Excuse me කියලා පටන් ගන්න එකයි, හදිසියේ නවත්තන්නේ නැතුව අවසන් කරන එකයි.",
+          "minutes": 18,
+          "support": "medium",
+          "file": "lessons/b1-17.json"
+        },
+        {
+          "id": "b1-18",
+          "order": 2,
+          "title": "Sorry to Interrupt",
+          "titleSi": "බාධා කරනවා",
+          "blurbSi": "ආචාරශීලීව බාධා කරන එක, ආපහු භාර දෙන එක, මාතෘකාව හරවන එක.",
+          "minutes": 18,
+          "support": "medium",
+          "file": "lessons/b1-18.json"
+        },
+        {
+          "id": "b1-19",
+          "order": 3,
+          "title": "Do You Follow Me?",
+          "titleSi": "තේරෙනවාද?",
+          "blurbSi": "තේරුණේ නෑ කියලා කියන එක, අහගත්ත දේ තහවුරු කරගන්න එක — ලැජ්ජාවක් නැතුව.",
+          "minutes": 18,
+          "support": "medium",
+          "file": "lessons/b1-19.json"
+        },
+        {
+          "id": "b1-20",
+          "order": 4,
+          "title": "I See What You Mean",
+          "titleSi": "ඔයා කියන දේ තේරෙනවා",
+          "blurbSi": "එකඟ වීම, So do I / Neither do I, සහ රණ්ඩුවක් නැතුව එකඟ නොවෙන රටාව.",
+          "minutes": 20,
+          "support": "medium",
+          "file": "lessons/b1-20.json"
+        },
+        {
+          "id": "b1-21",
+          "order": 5,
+          "title": "Right. Really? Well, Anyway",
+          "titleSi": "හරි. ඇත්තටමද? එහෙනම්…",
+          "blurbSi": "කථාව ගලාගෙන යන්න දෙන පොඩි වචන — I mean, you know, sort of, a bit.",
+          "minutes": 18,
+          "support": "medium",
+          "file": "lessons/b1-21.json"
+        }
+      ],
+      "checkpoint": {
+        "file": "checkpoints/u4d.json"
+      }
+    },
+    {
+      "id": "u4e",
+      "order": 18,
+      "level": "B1",
+      "title": "Making a Case",
+      "titleSi": "තර්කයක් ගොඩනැඟීම",
+      "summary": "Connectors, both sides of an argument, talking about films and books, and naming what you feel.",
+      "summarySi": "වාක්‍ය තර්කයකට බඳින වචන, පැති දෙකම කියන එක, චිත්‍රපටි සහ පොත් ගැන කථා කිරීම, සහ හැඟීම් නම් කිරීම.",
+      "colour": "#2563a8",
+      "icon": "bulb",
+      "chapters": [
+        {
+          "id": "b1-22",
+          "order": 1,
+          "title": "However, Therefore, On the Other Hand",
+          "titleSi": "එහෙත්, ඒ නිසා, අනිත් පැත්තෙන්",
+          "blurbSi": "හේතුවයි විරෝධයයි සම්බන්ධ කරන වචන — සහ ඒවායේ විරාම ලකුණු.",
+          "minutes": 20,
+          "support": "medium",
+          "file": "lessons/b1-22.json"
+        },
+        {
+          "id": "b1-23",
+          "order": 2,
+          "title": "On the One Hand",
+          "titleSi": "එක පැත්තකින්",
+          "blurbSi": "පැති දෙකම කියලා නිගමනයකට එන එක. වාසි, අවාසි, on balance.",
+          "minutes": 20,
+          "support": "medium",
+          "file": "lessons/b1-23.json"
+        },
+        {
+          "id": "b1-24",
+          "order": 3,
+          "title": "It Was Set in Chicago",
+          "titleSi": "ඒක සිද්ධ වෙන්නේ චිකාගෝවේ",
+          "blurbSi": "චිත්‍රපටියක් හෝ පොතක් ගැන කථා කරන එක — කතාව, අදහස, නිර්දේශය.",
+          "minutes": 18,
+          "support": "medium",
+          "file": "lessons/b1-24.json"
+        },
+        {
+          "id": "b1-25",
+          "order": 4,
+          "title": "How It Made Me Feel",
+          "titleSi": "මට කොහොමද දැනුණේ",
+          "blurbSi": "හැඟීම් නිවැරදිව නම් කරන එක, ඒවායේ තරම, සහ ගැලපෙන preposition.",
+          "minutes": 20,
+          "support": "medium",
+          "file": "lessons/b1-25.json"
+        }
+      ],
+      "checkpoint": {
+        "file": "checkpoints/u4e.json"
+      }
+    },
+    {
+      "id": "u4f",
+      "order": 19,
+      "level": "B1",
+      "title": "Saying It Precisely",
+      "titleSi": "නිවැරදිවම කීම",
+      "summary": "Phrasal verbs, question tags, and where an adverb belongs in a sentence.",
+      "summarySi": "Phrasal verbs, 'නේද?' ප්‍රශ්න, සහ ක්‍රියා විශේෂණයක් වාක්‍යයේ තියෙන්නේ කොහෙද කියන එක.",
+      "colour": "#b45309",
+      "icon": "ruler",
+      "chapters": [
+        {
+          "id": "b1-26",
+          "order": 1,
+          "title": "He Turned It Down",
+          "titleSi": "එයා ඒක ප්‍රතික්ෂේප කළා",
+          "blurbSi": "Phrasal verbs — වෙන් කරන්න පුළුවන් ඒවා, බැරි ඒවා, සහ සර්වනාමය මැදට යන නීතිය.",
+          "minutes": 20,
+          "support": "medium",
+          "file": "lessons/b1-26.json"
+        },
+        {
+          "id": "b1-27",
+          "order": 2,
+          "title": "It's Cold, Isn't It?",
+          "titleSi": "සීතලයි නේද?",
+          "blurbSi": "Question tags. නීති දෙක, අමුතු අවස්ථා, සහ ස්වරයෙන් අර්ථය වෙනස් වෙන එක.",
+          "minutes": 18,
+          "support": "medium",
+          "file": "lessons/b1-27.json"
+        },
+        {
+          "id": "b1-28",
+          "order": 3,
+          "title": "More Quickly, The Hardest",
+          "titleSi": "වඩා ඉක්මනට, වැඩිපුරම",
+          "blurbSi": "ක්‍රියා විශේෂණ සසඳන එකයි, ඒවා වාක්‍යයේ තියෙන තැනයි.",
+          "minutes": 20,
+          "support": "medium",
+          "file": "lessons/b1-28.json"
+        }
+      ],
+      "checkpoint": {
+        "file": "checkpoints/u4f.json"
+      }
+    },
+    {
+      "id": "u4g",
+      "order": 20,
+      "level": "B1",
+      "title": "Getting It Exactly Right",
+      "titleSi": "හරියටම හරි කරගැනීම",
+      "summary": "Intensifiers, collocation, quantity, articles and the obligation range.",
+      "summarySi": "තරම කියන වචන, එකට යන වචන, ප්‍රමාණය, article, සහ බැඳීමේ මට්ටම්. ව්‍යාකරණ හරි වුණාට පස්සේ ඉතුරු වෙන දේවල්.",
+      "colour": "#6d28d9",
+      "icon": "target",
+      "chapters": [
+        {
+          "id": "b1-29",
+          "order": 1,
+          "title": "Really, Quite, Much Too",
+          "titleSi": "හරිම, තරමක්, ඕනවට වඩා",
+          "blurbSi": "very, too, enough, quite. 'too' කියන්නේ 'ගොඩක්' නෙවෙයි කියන එක.",
+          "minutes": 20,
+          "support": "medium",
+          "file": "lessons/b1-29.json"
+        },
+        {
+          "id": "b1-30",
+          "order": 2,
+          "title": "Heavy Rain, Deep Sleep",
+          "titleSi": "තද වැස්ස, ගැඹුරු නින්ද",
+          "blurbSi": "එකට යන වචන. make ද do ද, සහ ව්‍යාකරණ හරි වුණත් අමුතුයි කියන එක.",
+          "minutes": 20,
+          "support": "medium",
+          "file": "lessons/b1-30.json"
+        },
+        {
+          "id": "b1-31",
+          "order": 3,
+          "title": "All the, Most, Several",
+          "titleSi": "ඔක්කොම, බොහෝමයක්, කීපයක්",
+          "blurbSi": "ප්‍රමාණය කියන වචන. 'most people' සහ 'most of the people', 'a few' සහ 'few'.",
+          "minutes": 20,
+          "support": "medium",
+          "file": "lessons/b1-31.json"
+        },
+        {
+          "id": "b1-32",
+          "order": 4,
+          "title": "Water, or The Water?",
+          "titleSi": "වතුර ද, ඒ වතුර ද?",
+          "blurbSi": "සිංහලේ නැති දෙයක් — a, an, the. ගණන් කරන්න බැරි නාම පද සහ article නැති අවස්ථා.",
+          "minutes": 22,
+          "support": "medium",
+          "file": "lessons/b1-32.json"
+        },
+        {
+          "id": "b1-33",
+          "order": 5,
+          "title": "Ought To, Need To, Have To",
+          "titleSi": "කරන්න ඕන, කරන්න වෙනවා",
+          "blurbSi": "බැඳීමේ මට්ටම්, සහ mustn't සහ don't have to අතර භයානක වෙනස.",
+          "minutes": 20,
+          "support": "medium",
+          "file": "lessons/b1-33.json"
+        }
+      ],
+      "checkpoint": {
+        "file": "checkpoints/u4g.json"
+      }
+    },
+    {
+      "id": "u5",
+      "order": 21,
+      "level": "B2",
+      "title": "Deeper Grammar",
+      "titleSi": "ගැඹුරු ව්‍යාකරණ",
+      "summary": "Present perfect, conditionals, the passive and reported speech.",
+      "summarySi": "ඉංග්‍රීසි ව්‍යාකරණයේ අභියෝගාත්මක කොටස්. පැහැදිලි කිරීම් බොහෝ දුරට ඉංග්‍රීසියෙන්.",
+      "colour": "#7c5cf0",
+      "icon": "search",
+      "chapters": [
+        {
+          "id": "b2-01",
+          "order": 17,
+          "title": "Present Perfect",
+          "titleSi": "Present Perfect",
+          "blurbSi": "have / has + past participle. Past simple සමඟ ඇති වෙනස.",
+          "minutes": 20,
+          "support": "low",
+          "file": "lessons/b2-01.json"
+        },
+        {
+          "id": "b2-02",
+          "order": 18,
+          "title": "If … Then — Conditionals",
+          "titleSi": "කොන්දේසි වාක්‍ය",
+          "blurbSi": "Zero, first, second සහ third conditional — හතරම එක තැනකින්.",
+          "minutes": 22,
+          "support": "low",
+          "file": "lessons/b2-02.json"
+        },
+        {
+          "id": "b2-03",
+          "order": 19,
+          "title": "The Passive Voice",
+          "titleSi": "කර්ම කාරකය",
+          "blurbSi": "ක්‍රියාව කවුරු කළාද යන්නට වඩා කුමක් සිදු වූවාද වැදගත් වන විට.",
+          "minutes": 19,
+          "support": "minimal",
+          "file": "lessons/b2-03.json"
+        },
+        {
+          "id": "b2-04",
+          "order": 20,
+          "title": "Reported Speech & Relative Clauses",
+          "titleSi": "වාර්තා කථනය සහ relative clauses",
+          "blurbSi": "අනෙකා කී දේ නැවත කීම, සහ who / which / that භාවිතය.",
+          "minutes": 21,
+          "support": "minimal",
+          "file": "lessons/b2-04.json"
+        }
+      ],
+      "checkpoint": {
+        "file": "checkpoints/u5.json"
+      }
+    },
+    {
+      "id": "u6",
+      "order": 22,
+      "level": "C1",
+      "title": "Advanced English",
+      "titleSi": "උසස් ඉංග්‍රීසි",
+      "summary": "Idioms, register, poetry and sophisticated written English.",
+      "summarySi": "ස්වදේශිකයන් මෙන් කතා කිරීම සහ ලිවීම. සිංහල උපකාරය අවම — ඉංග්‍රීසියෙන්ම සිතමු.",
+      "colour": "#1e35b2",
+      "icon": "mountain",
+      "chapters": [
+        {
+          "id": "c1-01",
+          "order": 21,
+          "title": "Phrasal Verbs & Idioms",
+          "titleSi": "Phrasal verbs සහ ideoms",
+          "blurbSi": "දිනපතා ඉංග්‍රීසියේ හදවත — වචනාර්ථයෙන් තේරුම් ගත නොහැකි වචන.",
+          "minutes": 20,
+          "support": "minimal",
+          "file": "lessons/c1-01.json"
+        },
+        {
+          "id": "c1-02",
+          "order": 22,
+          "title": "Register & Formal Writing",
+          "titleSi": "ලේඛන විලාසය",
+          "blurbSi": "විධිමත් සහ අවිධිමත් ඉංග්‍රීසිය. විද්‍යුත් තැපෑල සහ ලිපි ලිවීම.",
+          "minutes": 22,
+          "support": "minimal",
+          "file": "lessons/c1-02.json"
+        },
+        {
+          "id": "c1-03",
+          "order": 23,
+          "title": "Poetry & Figurative Language",
+          "titleSi": "කවි සහ රූපක භාෂාව",
+          "blurbSi": "Metaphor, simile, imagery — කවියක් තේරුම් ගන්නේ කොහොමද?",
+          "minutes": 21,
+          "support": "minimal",
+          "file": "lessons/c1-03.json"
+        },
+        {
+          "id": "c1-04",
+          "order": 24,
+          "title": "Nuance & Discourse",
+          "titleSi": "සියුම් අර්ථ සහ තර්කය",
+          "blurbSi": "Hedging, cohesion සහ තර්කානුකූල රචනාවක් ගොඩනැගීම.",
+          "minutes": 24,
+          "support": "minimal",
+          "file": "lessons/c1-04.json"
+        }
+      ],
+      "checkpoint": {
+        "file": "checkpoints/u6.json"
+      }
+    }
+  ]
+}

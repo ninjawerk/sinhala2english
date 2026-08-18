@@ -1,0 +1,919 @@
+{
+  "hero": {
+    "src": "images/a1-20-hero.webp",
+    "alt": "Nadeesha sitting at a table explaining something with both hands, counting reasons off on her fingers, a cup of tea beside her."
+  },
+  "goalsSi": [
+    "and, but, because, so — කුමක් කුමකටද",
+    "because හේතුව, so ප්‍රතිඵලය — ප්‍රතිවිරුද්ධ දිශා දෙකක්",
+    "or යොදා විකල්ප දීම",
+    "කර්තෘව නැවත නොකියා වාක්‍ය එකතු කිරීම",
+    "because සහ because of අතර වෙනස",
+    "කොමාව යොදන තැන"
+  ],
+  "goals": [
+    "Join two sentences with the right word",
+    "Tell reason from result",
+    "Avoid repeating the subject",
+    "Use because and because of correctly"
+  ],
+  "sections": [
+    {
+      "type": "note",
+      "title": "Four words, four jobs",
+      "titleSi": "වචන හතරක්, වැඩ හතරක්",
+      "bodySi": "දැන් ඔබට වචන ගොඩක් තියෙනවා. නමුත් වාක්‍ය කෙටියි නම් කථාව ළමා කථාවක් වගේ ඇහෙනවා:\n\nI was tired. I went to bed. It was late. I didn't eat.\n\nවචන හතරක් මේක සම්පූර්ණයෙන් වෙනස් කරනවා:\n\nand — තව එකක් එකතු කරනවා\nbut — බලාපොරොත්තු නොවුණු දෙයක් එනවා\nbecause — හේතුව කියනවා\nso — ප්‍රතිඵලය කියනවා\n\nI was tired, so I went to bed. It was late, but I didn't eat.\n\nඑකම කරුණු — වඩා හොඳ ඉංග්‍රීසි. මේ පාඩම අලුත් වචන ගැන නෙවෙයි, තියෙන ඒවා එකට බඳින එක ගැනයි.",
+      "body": "and adds, but surprises, because gives the reason, so gives the result."
+    },
+    {
+      "type": "grammar",
+      "title": "and, but, or",
+      "titleSi": "and, but, or",
+      "explainSi": "මේ තුනම වාක්‍ය දෙකක් සමානව සම්බන්ධ කරනවා. දෙවැනි කොටස පළමු එකට වඩා අඩු වැදගත් නෑ.",
+      "formula": "sentence + and / but / or + sentence",
+      "table": {
+        "headers": [
+          "වචනය",
+          "අර්ථය",
+          "උදාහරණය"
+        ],
+        "rows": [
+          [
+            "and",
+            "එකතු කිරීම",
+            "She is a teacher and her husband is a driver."
+          ],
+          [
+            "but",
+            "විරුද්ධ / පුදුමයක්",
+            "The food was cheap but it was very good."
+          ],
+          [
+            "or",
+            "විකල්පය",
+            "We can walk or we can take a bus."
+          ],
+          [
+            "and (අනුපිළිවෙළ)",
+            "ඊට පස්සේ",
+            "I washed the rice and put it on the stove."
+          ],
+          [
+            "but (බලාපොරොත්තුව)",
+            "නමුත්",
+            "He is only six, but he can read."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "I like tea and I like coffee, but I prefer tea.",
+          "si": "මම තේටත් කැමතියි කෝපිටත් කැමතියි, හැබැයි තේට වඩා කැමතියි."
+        },
+        {
+          "en": "Do you want rice or bread?",
+          "si": "ඔබට බත්ද පාන්ද ඕන?"
+        }
+      ],
+      "watchOutSi": "'but' යෙදෙන්නේ දෙවැනි කොටස පළමු එකෙන් බලාපොරොත්තු නොවෙන දෙයක් නම් විතරයි. 'He is tall but he is thin' අමුතුයි — ඒ දෙක එකිනෙකට විරුද්ධ නෑ."
+    },
+    {
+      "type": "grammar",
+      "title": "because and so run in opposite directions",
+      "titleSi": "because සහ so — ප්‍රතිවිරුද්ධ දිශා",
+      "explainSi": "මේක තමයි මේ පාඩමේ ප්‍රධාන දෙය. එකම කරුණු දෙක, එකම අර්ථය — නමුත් අනුපිළිවෙළ ප්‍රතිවිරුද්ධයි.",
+      "formula": "result + because + reason  ·  reason + so + result",
+      "table": {
+        "headers": [
+          "වාක්‍යය",
+          "මුලින්",
+          "පස්සේ"
+        ],
+        "rows": [
+          [
+            "I went to bed because I was tired.",
+            "ප්‍රතිඵලය",
+            "හේතුව"
+          ],
+          [
+            "I was tired, so I went to bed.",
+            "හේතුව",
+            "ප්‍රතිඵලය"
+          ],
+          [
+            "She was late because the bus broke down.",
+            "ප්‍රතිඵලය",
+            "හේතුව"
+          ],
+          [
+            "The bus broke down, so she was late.",
+            "හේතුව",
+            "ප්‍රතිඵලය"
+          ],
+          [
+            "We stayed home because it was raining.",
+            "ප්‍රතිඵලය",
+            "හේතුව"
+          ],
+          [
+            "It was raining, so we stayed home.",
+            "හේතුව",
+            "ප්‍රතිඵලය"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "I didn't call you because I lost my phone.",
+          "si": "දුරකථනය නැති වුණ නිසා මම ඔබට කතා කළේ නෑ."
+        },
+        {
+          "en": "I lost my phone, so I didn't call you.",
+          "si": "දුරකථනය නැති වුණා, එනිසා මම ඔබට කතා කළේ නෑ."
+        }
+      ],
+      "watchOutSi": "'I was tired because I went to bed' — වැරදියි. නිදාගත්ත නිසා මහන්සි වුණේ නෑ. දෙක මාරු වුණොත් අර්ථය පිස්සුවක්. හේතුව මොකක්ද කියලා මුලින්ම හිතන්න."
+    },
+    {
+      "type": "grammar",
+      "title": "Don't repeat the subject",
+      "titleSi": "කර්තෘව නැවත කියන්න එපා",
+      "explainSi": "එකම කෙනා දෙපැත්තෙම නම්, 'and' පසුව සර්වනාමය නැවත ඕන නෑ. එය කථාව සැහැල්ලු කරනවා.",
+      "formula": "I got up and made tea.  (not: I got up and I made tea)",
+      "table": {
+        "headers": [
+          "බර",
+          "සැහැල්ලු"
+        ],
+        "rows": [
+          [
+            "I got up and I made tea.",
+            "I got up and made tea."
+          ],
+          [
+            "She opened the door and she went out.",
+            "She opened the door and went out."
+          ],
+          [
+            "He is tall and he is thin.",
+            "He is tall and thin."
+          ],
+          [
+            "We ate and we talked.",
+            "We ate and talked."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "She sat down, opened her bag and took out a letter.",
+          "si": "එයා ඉඳගෙන, බෑග් එක ඇරලා, ලියුමක් අරගත්තා."
+        },
+        {
+          "en": "I washed the plates and went to bed.",
+          "si": "මම පිඟන් හෝදලා නිදාගත්තා."
+        }
+      ],
+      "watchOutSi": "කර්තෘවෝ දෙන්නෙක් නම් දෙකම ඕන: 'I got up and my sister made tea' — මෙතන 'my sister' අයින් කරන්න බෑ."
+    },
+    {
+      "type": "grammar",
+      "title": "because or because of?",
+      "titleSi": "because ද because of ද?",
+      "explainSi": "'because' පසුව සම්පූර්ණ වාක්‍යයක් (කර්තෘවත් ක්‍රියාවත්). 'because of' පසුව නාම පදයක් විතරයි.",
+      "formula": "because + subject + verb  ·  because of + noun",
+      "table": {
+        "headers": [
+          "ස්වරූපය",
+          "උදාහරණය",
+          "නිවැරදිද?"
+        ],
+        "rows": [
+          [
+            "because + වාක්‍යය",
+            "because it was raining",
+            "✓"
+          ],
+          [
+            "because of + නාමය",
+            "because of the rain",
+            "✓"
+          ],
+          [
+            "because + නාමය",
+            "because the rain",
+            "✗"
+          ],
+          [
+            "because of + වාක්‍යය",
+            "because of it was raining",
+            "✗"
+          ],
+          [
+            "because of + නාමය",
+            "because of the traffic",
+            "✓"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "We were late because of the traffic.",
+          "si": "රථවාහන නිසා අපි පරක්කු වුණා."
+        },
+        {
+          "en": "We were late because the traffic was bad.",
+          "si": "රථවාහන තදබදය නිසා අපි පරක්කු වුණා."
+        }
+      ],
+      "watchOutSi": "'of' තියෙනවා නම් ක්‍රියාවක් තියෙන්න බෑ. 'of' නෑ නම් ක්‍රියාවක් තියෙන්නම ඕන."
+    },
+    {
+      "type": "tip",
+      "title": "Where the comma goes",
+      "titleSi": "කොමාව යන තැන",
+      "bodySi": "A1 මට්ටමට නීති දෙකක් ඇති:\n\n1. 'but' සහ 'so' කලින් කොමාවක් දාන්න:\n   It was cheap, but it was good.\n   I was tired, so I went home.\n\n2. කෙටි 'and' එකකට කොමාවක් ඕන නෑ:\n   I got up and made tea.\n\n'because' නම්: වාක්‍යය මැදට ආවොත් කොමාවක් ඕන නෑ —\n   I stayed home because it was raining.\nමුලට ආවොත් කොමාවක් ඕන —\n   Because it was raining, I stayed home.\n\nකොමාව වැරදුණාට අර්ථය නැති වෙන්නේ නෑ. නමුත් වචනය වැරදුණොත් අර්ථය නැති වෙනවා — එනිසා මුලින්ම වචනය ගැන හිතන්න."
+    },
+    {
+      "type": "vocab",
+      "title": "Joining words and reasons",
+      "titleSi": "සම්බන්ධක වචන සහ හේතු",
+      "items": [
+        {
+          "en": "and",
+          "si": "සහ",
+          "say": "ඈන්ඩ්"
+        },
+        {
+          "en": "but",
+          "si": "හැබැයි / නමුත්",
+          "say": "බට්"
+        },
+        {
+          "en": "because",
+          "si": "මොකද / නිසා",
+          "say": "බිකෝස්"
+        },
+        {
+          "en": "so",
+          "si": "එනිසා",
+          "say": "සෝ"
+        },
+        {
+          "en": "or",
+          "si": "නැත්නම්",
+          "say": "ඕර්"
+        },
+        {
+          "en": "because of",
+          "si": "නිසා (නාමයකට කලින්)",
+          "say": "බිකෝස් ඔෆ්"
+        },
+        {
+          "en": "reason",
+          "si": "හේතුව",
+          "say": "රීසන්"
+        },
+        {
+          "en": "result",
+          "si": "ප්‍රතිඵලය",
+          "say": "රිසල්ට්"
+        },
+        {
+          "en": "decide",
+          "si": "තීරණය කරනවා",
+          "say": "ඩිසයිඩ්"
+        },
+        {
+          "en": "decision",
+          "si": "තීරණය",
+          "say": "ඩිසිෂන්"
+        },
+        {
+          "en": "borrow",
+          "si": "ණයට ගන්නවා",
+          "say": "බොරෝ"
+        },
+        {
+          "en": "save",
+          "si": "ඉතුරු කරනවා",
+          "say": "සේව්"
+        },
+        {
+          "en": "cost",
+          "si": "වියදම",
+          "say": "කොස්ට්"
+        },
+        {
+          "en": "exam",
+          "si": "විභාගය",
+          "say": "එක්සෑම්"
+        },
+        {
+          "en": "job",
+          "si": "රැකියාව",
+          "say": "ජොබ්"
+        },
+        {
+          "en": "factory",
+          "si": "කර්මාන්තශාලාව",
+          "say": "ෆැක්ටරි"
+        },
+        {
+          "en": "night shift",
+          "si": "රාත්‍රී මුරය",
+          "say": "නයිට් ෂිෆ්ට්"
+        },
+        {
+          "en": "still",
+          "si": "තාමත්",
+          "say": "ස්ටිල්"
+        }
+      ]
+    },
+    {
+      "type": "story",
+      "title": "The Third Bus",
+      "titleSi": "තුන්වෙනි බස් එක",
+      "introSi": "මේ කතාවේ හැම දෙයක්ම හේතුවකින් සිදුවෙනවා. 'because' සහ 'so' කොහෙද තියෙනවාද කියලා බලන්න — ප්‍රශ්නවලට පිළිතුරු තියෙන්නේ එතන.",
+      "paragraphs": [
+        {
+          "en": "My sister works in a factory in Ja-Ela, but we live in Kadawatha, so she leaves the house at half past four every morning.",
+          "si": "මගේ අක්කා ජා-ඇලේ කර්මාන්තශාලාවක වැඩ කරනවා, හැබැයි අපි ජීවත් වෙන්නේ කඩවතේ, එනිසා එයා හැම උදෑසනකම හතරයි කාලට ගෙදරින් යනවා."
+        },
+        {
+          "en": "She takes three buses. The first two are easy because they are almost empty at that hour. The third one is the problem, because everybody in the country wants that bus.",
+          "si": "එයා බස් තුනකට නගිනවා. පළමු දෙක ලේසියි, මොකද ඒ වෙලාවේ ඒවා හිස් වගේ. තුන්වෙනි එක තමයි ප්‍රශ්නය, මොකද රටේ හැමෝටම ඕන ඒ බස් එකයි."
+        },
+        {
+          "en": "Last month the factory changed the start time to seven, so she was thirty minutes late on the first day. She wasn't lazy and she wasn't ill — the bus was simply full.",
+          "si": "පහුගිය මාසේ කර්මාන්තශාලාව පටන් ගන්න වෙලාව හතට මාරු කළා, එනිසා පළමු දවසේ එයා විනාඩි තිහක් පරක්කු වුණා. එයා කම්මැලි වුණේ නෑ, ලෙඩ වුණේත් නෑ — බස් එක පිරිලා තිබුණා විතරයි."
+        },
+        {
+          "en": "The manager didn't ask why she was late, so she didn't explain. She lost two days' pay because of one bus.",
+          "si": "කළමනාකරු එයා පරක්කු වුණේ ඇයි කියලා ඇහුවේ නෑ, එනිසා එයාත් පැහැදිලි කළේ නෑ. එක බස් එකක් නිසා එයාට දවස් දෙකක වැටුප නැති වුණා."
+        },
+        {
+          "en": "So she made a decision. She now leaves at ten past four and she waits forty minutes at the factory gate, because forty minutes of waiting is cheaper than two days of pay.",
+          "si": "එනිසා එයා තීරණයක් ගත්තා. දැන් එයා හතරයි දහයට යනවා, කර්මාන්තශාලා ගේට්ටුව ළඟ විනාඩි හතළිහක් බලාගෙන ඉන්නවා — මොකද විනාඩි හතළිහක් බලාගෙන ඉන්න එක වැටුප් දවස් දෙකකට වඩා ලාභයි."
+        },
+        {
+          "en": "I asked her if she was angry. \"No,\" she said, \"because nobody did this to me. It's just the road, and the buses, and the time.\" Then she laughed and said: \"But I am tired.\"",
+          "si": "එයාට තරහද කියලා මම ඇහුවා. \"නෑ,\" එයා කිව්වා, \"මොකද කවුරුවත් මට මේක කළේ නෑ. ඒක පාරයි, බස්යි, වෙලාවයි විතරයි.\" එතකොට එයා හිනාවෙලා කිව්වා: \"හැබැයි මම මහන්සියි.\""
+        }
+      ],
+      "glossary": [
+        {
+          "en": "factory",
+          "si": "කර්මාන්තශාලාව"
+        },
+        {
+          "en": "almost",
+          "si": "වගේ / ආසන්නව"
+        },
+        {
+          "en": "empty",
+          "si": "හිස්"
+        },
+        {
+          "en": "full",
+          "si": "පිරුණු"
+        },
+        {
+          "en": "pay",
+          "si": "වැටුප"
+        },
+        {
+          "en": "explain",
+          "si": "පැහැදිලි කරනවා"
+        },
+        {
+          "en": "decision",
+          "si": "තීරණය"
+        },
+        {
+          "en": "cheaper",
+          "si": "වඩා ලාභ"
+        },
+        {
+          "en": "angry",
+          "si": "තරහ"
+        }
+      ],
+      "questionsSi": [
+        "අක්කා හතරයි කාලට යන්නේ ඇයි?",
+        "පළමු බස් දෙක ලේසි වන්නේ ඇයි?",
+        "එයාට වැටුප් දවස් දෙකක් නැති වුණේ ඇයි?",
+        "දැන් එයා විනාඩි හතළිහක් බලාගෙන ඉන්නේ ඇයි?"
+      ]
+    },
+    {
+      "type": "poem",
+      "title": "Because and So",
+      "titleSi": "Because සහ So",
+      "introSi": "පේළි හතරක් 'because', හතරක් 'so' — එකම කරුණු, දිශා දෙකක්.",
+      "lines": [
+        {
+          "en": "The rain came down, so the river rose.",
+          "si": "වැස්ස වැටුණා, එනිසා ගඟ නැගුණා."
+        },
+        {
+          "en": "The river rose, so the road was gone.",
+          "si": "ගඟ නැගුණා, එනිසා පාර නැති වුණා."
+        },
+        {
+          "en": "The road was gone, so nobody came.",
+          "si": "පාර නැති වුණා, එනිසා කවුරුවත් ආවේ නෑ."
+        },
+        {
+          "en": "And so the day went on.",
+          "si": "එහෙම දවස ගෙවුණා."
+        },
+        {
+          "en": "",
+          "si": ""
+        },
+        {
+          "en": "Now say it backwards, if you can:",
+          "si": "දැන් ආපස්සට කියන්න, පුළුවන් නම්:"
+        },
+        {
+          "en": "Nobody came because the road was gone,",
+          "si": "කවුරුවත් ආවේ නෑ මොකද පාර නැති වුණා,"
+        },
+        {
+          "en": "The road was gone because the river rose,",
+          "si": "පාර නැති වුණා මොකද ගඟ නැගුණා,"
+        },
+        {
+          "en": "The river rose because the rain came down.",
+          "si": "ගඟ නැගුණා මොකද වැස්ස වැටුණා."
+        }
+      ],
+      "noteSi": "එකම කරුණු හතර, පිළිවෙළ දෙකකින්. 'so' ඉස්සරහට යනවා, 'because' පස්සට. මේ කවිය හයියෙන් කියවලා දෙක දැනෙනවාද බලන්න."
+    },
+    {
+      "type": "dialogue",
+      "title": "Why didn't you come?",
+      "titleSi": "ඔබ ආවේ නැත්තේ ඇයි?",
+      "settingSi": "හේතු දෙන සංවාදයක්. because, because of සහ so යෙදෙන තැන් බලන්න.",
+      "lines": [
+        {
+          "speaker": "Tharindu",
+          "en": "Why didn't you come yesterday? We waited an hour.",
+          "si": "ඊයේ ඔබ ආවේ නැත්තේ ඇයි? අපි පැයක් බලාගෙන හිටියා."
+        },
+        {
+          "speaker": "Nilu",
+          "en": "Because my mother was ill. I couldn't leave her alone.",
+          "si": "මොකද අම්මා ලෙඩ වුණා. එයාව තනියම දාලා යන්න බැරි වුණා."
+        },
+        {
+          "speaker": "Tharindu",
+          "en": "Oh! Why didn't you call?",
+          "si": "අනේ! කතා කළේ නැත්තේ ඇයි?"
+        },
+        {
+          "speaker": "Nilu",
+          "en": "Because of the power cut. My phone was dead and the charger was at the office.",
+          "si": "විදුලිය කැපුණ නිසා. දුරකථනය ඕෆ්, චාජරය කාර්යාලයේ."
+        },
+        {
+          "speaker": "Tharindu",
+          "en": "So you were at home all evening with no phone?",
+          "si": "එහෙනම් දුරකථනයක් නැතුව මුළු හවසම ගෙදර හිටියාද?"
+        },
+        {
+          "speaker": "Nilu",
+          "en": "Yes, but it wasn't bad. My mother talked, and I listened, and we finished a whole packet of biscuits.",
+          "si": "ඔව්, හැබැයි නරක වුණේ නෑ. අම්මා කථා කළා, මම ඇහුම්කන් දුන්නා, බිස්කට් පැකට් එකක් ඉවර කළා."
+        },
+        {
+          "speaker": "Tharindu",
+          "en": "Is she better now?",
+          "si": "දැන් එයාට හොඳද?"
+        },
+        {
+          "speaker": "Nilu",
+          "en": "She's fine. She says she wants another power cut.",
+          "si": "එයාට හොඳයි. එයා කියනවා තව විදුලි කැපීමක් ඕන කියලා."
+        }
+      ]
+    },
+    {
+      "type": "practice",
+      "title": "Which word joins them?",
+      "titleSi": "සම්බන්ධ කරන්නේ කුමන වචනයද?",
+      "instructionSi": "දෙවැනි කොටස හේතුවක්ද, ප්‍රතිඵලයක්ද, එකතු කිරීමක්ද, පුදුමයක්ද කියලා බලන්න.",
+      "items": [
+        {
+          "prompt": "I was tired ___ I went to bed.",
+          "answer": "so",
+          "hintSi": "නිදාගැනීම ප්‍රතිඵලය.",
+          "full": "I was tired, so I went to bed."
+        },
+        {
+          "prompt": "I went to bed ___ I was tired.",
+          "answer": "because",
+          "hintSi": "මහන්සිය හේතුව.",
+          "full": "I went to bed because I was tired."
+        },
+        {
+          "prompt": "The food was cheap ___ it was very good.",
+          "answer": "but",
+          "hintSi": "බලාපොරොත්තු නොවුණු දෙයක්.",
+          "full": "The food was cheap but it was very good."
+        },
+        {
+          "prompt": "We can walk ___ we can take a bus.",
+          "answer": "or",
+          "hintSi": "විකල්ප දෙකක්.",
+          "full": "We can walk or we can take a bus."
+        },
+        {
+          "prompt": "We were late ___ the traffic.",
+          "answer": "because of",
+          "hintSi": "පස්සේ එන්නේ නාම පදයක් — ක්‍රියාවක් නෑ.",
+          "full": "We were late because of the traffic."
+        },
+        {
+          "prompt": "She is a teacher ___ her husband is a driver.",
+          "answer": "and",
+          "hintSi": "එකතු කිරීමක් විතරයි.",
+          "full": "She is a teacher and her husband is a driver."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "en": "and",
+      "si": "සහ"
+    },
+    {
+      "en": "but",
+      "si": "හැබැයි"
+    },
+    {
+      "en": "because",
+      "si": "මොකද / නිසා"
+    },
+    {
+      "en": "so",
+      "si": "එනිසා"
+    },
+    {
+      "en": "or",
+      "si": "නැත්නම්"
+    },
+    {
+      "en": "because of",
+      "si": "නිසා"
+    },
+    {
+      "en": "reason",
+      "si": "හේතුව"
+    },
+    {
+      "en": "result",
+      "si": "ප්‍රතිඵලය"
+    },
+    {
+      "en": "decide",
+      "si": "තීරණය කරනවා"
+    },
+    {
+      "en": "decision",
+      "si": "තීරණය"
+    },
+    {
+      "en": "save",
+      "si": "ඉතුරු කරනවා"
+    },
+    {
+      "en": "exam",
+      "si": "විභාගය"
+    },
+    {
+      "en": "factory",
+      "si": "කර්මාන්තශාලාව"
+    },
+    {
+      "en": "pay",
+      "si": "වැටුප"
+    },
+    {
+      "en": "full",
+      "si": "පිරුණු"
+    },
+    {
+      "en": "empty",
+      "si": "හිස්"
+    },
+    {
+      "en": "explain",
+      "si": "පැහැදිලි කරනවා"
+    },
+    {
+      "en": "power cut",
+      "si": "විදුලිය කැපීම"
+    },
+    {
+      "en": "charger",
+      "si": "චාජරය"
+    },
+    {
+      "en": "cheaper",
+      "si": "වඩා ලාභ"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "a1-20-q1",
+      "q": "'මම මහන්සියි. මම නිදාගත්තා.' — නිවැරදිව සම්බන්ධ කරන්නේ?",
+      "options": [
+        "I was tired, because I went to bed.",
+        "I was tired, so I went to bed.",
+        "I was tired, but I went to bed.",
+        "I was tired, or I went to bed."
+      ],
+      "answer": 1,
+      "explainSi": "මහන්සිය හේතුව, නිදාගැනීම ප්‍රතිඵලය. හේතුව මුලින් නම් 'so'.",
+      "speak": "I was tired, so I went to bed."
+    },
+    {
+      "id": "a1-20-q2",
+      "q": "'I went to bed ___ I was tired.' — හිස්තැනට?",
+      "options": [
+        "so",
+        "because",
+        "but",
+        "and"
+      ],
+      "answer": 1,
+      "explainSi": "මෙතන ප්‍රතිඵලය මුලින්. හේතුව පස්සේ නම් 'because'.",
+      "speak": "I went to bed because I was tired."
+    },
+    {
+      "id": "a1-20-q3",
+      "q": "'I was tired because I went to bed' වැරදි වන්නේ ඇයි?",
+      "options": [
+        "'because' වාක්‍ය මැදට යා නොහැකි නිසා",
+        "නිදාගැනීම මහන්සියට හේතුව නෙවෙයි — දිශාව ආපස්සට",
+        "'was' වෙනුවට 'am' විය යුතු නිසා",
+        "වැරදි නෑ"
+      ],
+      "answer": 1,
+      "explainSi": "'because' පසුව එන්නේ හේතුව. නිදාගත්ත නිසා මහන්සි වුණේ නෑ — අනිත් පැත්තයි."
+    },
+    {
+      "id": "a1-20-q4",
+      "q": "'The bus broke down, so she was late' — මෙතන හේතුව කුමක්ද?",
+      "options": [
+        "එයා පරක්කු වීම",
+        "බස් එක කැඩීම",
+        "දෙකම හේතු",
+        "හේතුවක් නෑ"
+      ],
+      "answer": 1,
+      "explainSi": "'so' කලින් තියෙන්නේ හේතුව, පස්සේ තියෙන්නේ ප්‍රතිඵලය."
+    },
+    {
+      "id": "a1-20-q5",
+      "q": "'She was late because the bus broke down' සහ 'The bus broke down, so she was late' — වෙනස?",
+      "options": [
+        "අර්ථය වෙනස්",
+        "අර්ථය එකයි — අනුපිළිවෙළ විතරයි වෙනස්",
+        "පළමුවැන්න වැරදියි",
+        "දෙවැන්න වඩා ආචාරශීලීයි"
+      ],
+      "answer": 1,
+      "explainSi": "එකම කරුණු දෙක. 'because' පස්සට යනවා, 'so' ඉස්සරහට."
+    },
+    {
+      "id": "a1-20-q6",
+      "q": "'කෑම ලාභයි. කෑම හරිම හොඳයි.' — නිවැරදිව සම්බන්ධ කරන්නේ?",
+      "options": [
+        "The food was cheap so it was very good.",
+        "The food was cheap but it was very good.",
+        "The food was cheap because it was very good.",
+        "The food was cheap or it was very good."
+      ],
+      "answer": 1,
+      "explainSi": "ලාභ දේවල් හොඳ වෙන එක බලාපොරොත්තු වෙන්නේ නෑ — එනිසා 'but'.",
+      "speak": "The food was cheap but it was very good."
+    },
+    {
+      "id": "a1-20-q7",
+      "q": "'රථවාහන නිසා අපි පරක්කු වුණා' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "We were late because the traffic.",
+        "We were late because of the traffic.",
+        "We were late because of the traffic was bad.",
+        "We were late so the traffic."
+      ],
+      "answer": 1,
+      "explainSi": "'the traffic' නාම පදයක් — එනිසා 'because of'.",
+      "speak": "We were late because of the traffic."
+    },
+    {
+      "id": "a1-20-q8",
+      "q": "'because' සහ 'because of' අතර නීතිය?",
+      "options": [
+        "'because of' වඩා ආචාරශීලීයි",
+        "'because' පසුව සම්පූර්ණ වාක්‍යයක්, 'because of' පසුව නාම පදයක්",
+        "දෙකම එකයි",
+        "'because of' අතීතයට විතරයි"
+      ],
+      "answer": 1,
+      "explainSi": "'of' තියෙනවා නම් ක්‍රියාවක් තියෙන්න බෑ."
+    },
+    {
+      "id": "a1-20-q9",
+      "q": "කුමන වාක්‍යය සැහැල්ලුම / වඩාත් ස්වාභාවිකද?",
+      "options": [
+        "I got up and I made tea.",
+        "I got up and made tea.",
+        "I got up, and then I made the tea after.",
+        "I got up. I made tea."
+      ],
+      "answer": 1,
+      "explainSi": "එකම කර්තෘව නම් 'and' පසුව නැවත කියන්න ඕන නෑ."
+    },
+    {
+      "id": "a1-20-q10",
+      "q": "'I got up and my sister made tea' — මෙතන 'my sister' අයින් කරන්න පුළුවන්ද?",
+      "options": [
+        "පුළුවන් — 'and made tea' කිව්වම ඇති",
+        "බෑ — කර්තෘවෝ දෙන්නෙක් නිසා දෙකම ඕන",
+        "පුළුවන්, නමුත් වැරදියි",
+        "'and' අයින් කරන්න ඕන"
+      ],
+      "answer": 1,
+      "explainSi": "අයින් කළොත් තේ හැදුවේ කථකයා කියලා අර්ථය වෙනස් වෙනවා."
+    },
+    {
+      "id": "a1-20-q11",
+      "q": "'It was raining ___ we stayed at home.' — හිස්තැනට?",
+      "options": [
+        "because",
+        "so",
+        "but",
+        "or"
+      ],
+      "answer": 1,
+      "explainSi": "වැස්ස හේතුව, ගෙදර ඉඳීම ප්‍රතිඵලය. හේතුව මුලින් — 'so'."
+    },
+    {
+      "id": "a1-20-q12",
+      "context": "My sister works in a factory in Ja-Ela, but we live in Kadawatha, so she leaves the house at half past four every morning.",
+      "contextSi": "මගේ අක්කා ජා-ඇලේ කර්මාන්තශාලාවක වැඩ කරනවා, හැබැයි අපි ජීවත් වෙන්නේ කඩවතේ, එනිසා එයා හැම උදෑසනකම හතරයි කාලට ගෙදරින් යනවා.",
+      "q": "කතාව අනුව: අක්කා හතරයි කාලට යන්නේ ඇයි?",
+      "options": [
+        "එයාට උදෙන් නැගිටින්න කැමති නිසා",
+        "වැඩපොළ ගෙදර ඉඳලා දුර නිසා",
+        "බස් නැති නිසා",
+        "එයා පරක්කු වුණ නිසා"
+      ],
+      "answer": 1,
+      "explainSi": "'but we live in Kadawatha, so …' — 'so' කලින් තියෙන කොටස තමයි හේතුව."
+    },
+    {
+      "id": "a1-20-q13",
+      "context": "The first two are easy because they are almost empty at that hour. The third one is the problem, because everybody in the country wants that bus.",
+      "contextSi": "පළමු දෙක ලේසියි, මොකද ඒ වෙලාවේ ඒවා හිස් වගේ. තුන්වෙනි එක තමයි ප්‍රශ්නය, මොකද රටේ හැමෝටම ඕන ඒ බස් එකයි.",
+      "q": "කතාව අනුව: පළමු බස් දෙක ලේසි වන්නේ ඇයි?",
+      "options": [
+        "ඒවා කෙටි ගමන් නිසා",
+        "ඒ වෙලාවේ ඒවා හිස් නිසා",
+        "ඒවා ලාභ නිසා",
+        "ඒවා ඉක්මන් නිසා"
+      ],
+      "answer": 1,
+      "explainSi": "'because they are almost empty at that hour' — පිළිතුර 'because' එකට පස්සේ."
+    },
+    {
+      "id": "a1-20-q14",
+      "context": "Last month the factory changed the start time to seven, so she was thirty minutes late on the first day. She wasn't lazy and she wasn't ill — the bus was simply full.",
+      "contextSi": "පහුගිය මාසේ කර්මාන්තශාලාව පටන් ගන්න වෙලාව හතට මාරු කළා, එනිසා පළමු දවසේ එයා විනාඩි තිහක් පරක්කු වුණා. එයා කම්මැලි වුණේ නෑ, ලෙඩ වුණේත් නෑ — බස් එක පිරිලා තිබුණා විතරයි.",
+      "q": "කතාව අනුව: එයා පරක්කු වුණේ ඇයි?",
+      "options": [
+        "එයා කම්මැලි නිසා",
+        "වැඩ පටන් ගන්න වෙලාව මාරු වූ නිසා සහ බස් එක පිරී තිබූ නිසා",
+        "එයා ලෙඩ නිසා",
+        "එයා පරක්කුවෙන් නැගිටි නිසා"
+      ],
+      "answer": 1,
+      "explainSi": "'so' කලින් වෙලාව මාරු වීම. ඊට පස්සේ නොවන හේතු දෙකක් කතාව කෙළින්ම බැහැර කරනවා."
+    },
+    {
+      "id": "a1-20-q15",
+      "context": "The manager didn't ask why she was late, so she didn't explain. She lost two days' pay because of one bus.",
+      "contextSi": "කළමනාකරු එයා පරක්කු වුණේ ඇයි කියලා ඇහුවේ නෑ, එනිසා එයාත් පැහැදිලි කළේ නෑ. එක බස් එකක් නිසා එයාට දවස් දෙකක වැටුප නැති වුණා.",
+      "q": "කතාව අනුව: එයා පැහැදිලි නොකළේ ඇයි?",
+      "options": [
+        "එයාට ලැජ්ජා නිසා",
+        "කළමනාකරු ඇහුවේ නැති නිසා",
+        "එයාට ඉංග්‍රීසි බැරි නිසා",
+        "එයාට වෙලාව නැති නිසා"
+      ],
+      "answer": 1,
+      "explainSi": "'didn't ask …, so she didn't explain' — නොඇසීම හේතුව, නොකීම ප්‍රතිඵලය."
+    },
+    {
+      "id": "a1-20-q16",
+      "context": "She now leaves at ten past four and she waits forty minutes at the factory gate, because forty minutes of waiting is cheaper than two days of pay.",
+      "contextSi": "දැන් එයා හතරයි දහයට යනවා, කර්මාන්තශාලා ගේට්ටුව ළඟ විනාඩි හතළිහක් බලාගෙන ඉන්නවා — මොකද විනාඩි හතළිහක් බලාගෙන ඉන්න එක වැටුප් දවස් දෙකකට වඩා ලාභයි.",
+      "q": "කතාව අනුව: එයාගේ තීරණයේ තර්කය කුමක්ද?",
+      "options": [
+        "උදෙන් යාම වඩා පහසුයි",
+        "බලාගෙන ඉන්න වෙලාව නැති කරගැනීම, වැටුප නැති කරගැනීමට වඩා අඩු පාඩුවක්",
+        "එයාට කර්මාන්තශාලාව ළඟ ඉන්න කැමතියි",
+        "බස් එක හතරයි දහයට හිස්"
+      ],
+      "answer": 1,
+      "explainSi": "'because … is cheaper than …' — හේතුව සම්පූර්ණයෙන්ම ගණන් හැදීමක්."
+    },
+    {
+      "id": "a1-20-q17",
+      "context": "\"No,\" she said, \"because nobody did this to me. It's just the road, and the buses, and the time.\" Then she laughed and said: \"But I am tired.\"",
+      "contextSi": "\"නෑ,\" එයා කිව්වා, \"මොකද කවුරුවත් මට මේක කළේ නෑ. ඒක පාරයි, බස්යි, වෙලාවයි විතරයි.\" එතකොට එයා හිනාවෙලා කිව්වා: \"හැබැයි මම මහන්සියි.\"",
+      "q": "කතාව අනුව: අන්තිම 'But' යෙදෙන්නේ ඇයි?",
+      "options": [
+        "එයා තරහ නිසා",
+        "තරහ නොවුණාට මහන්සිය තියෙනවා — දෙවැන්න පළමු එකෙන් බලාපොරොත්තු වෙන්නේ නෑ",
+        "වැරදීමකින්",
+        "'and' යෙදිය නොහැකි නිසා"
+      ],
+      "answer": 1,
+      "explainSi": "'තරහ නෑ' කිව්වට පස්සේ 'මම මහන්සියි' — ඒක ඉවසීම නෙවෙයි කියලා 'But' පෙන්නනවා."
+    },
+    {
+      "id": "a1-20-q18",
+      "context": "The rain came down, so the river rose. / The river rose, so the road was gone. / The road was gone, so nobody came.",
+      "contextSi": "වැස්ස වැටුණා, එනිසා ගඟ නැගුණා. / ගඟ නැගුණා, එනිසා පාර නැති වුණා. / පාර නැති වුණා, එනිසා කවුරුවත් ආවේ නෑ.",
+      "q": "කවියේ මේ පේළි තුනේ මුල් හේතුව කුමක්ද?",
+      "options": [
+        "ගඟ නැගීම",
+        "වැස්ස",
+        "පාර නැති වීම",
+        "කවුරුවත් නොඒම"
+      ],
+      "answer": 1,
+      "explainSi": "'so' දාමයක් — මුලින්ම තියෙන එක තමයි මුල් හේතුව, අන්තිමට තියෙන්නේ අන්තිම ප්‍රතිඵලය."
+    },
+    {
+      "id": "a1-20-q19",
+      "context": "Now say it backwards, if you can: / Nobody came because the road was gone, / The road was gone because the river rose, / The river rose because the rain came down.",
+      "contextSi": "දැන් ආපස්සට කියන්න, පුළුවන් නම්: / කවුරුවත් ආවේ නෑ මොකද පාර නැති වුණා, / පාර නැති වුණා මොකද ගඟ නැගුණා, / ගඟ නැගුණා මොකද වැස්ස වැටුණා.",
+      "q": "කවියේ දෙවෙනි කොටස පළමු කොටසින් වෙනස් වන්නේ කොහොමද?",
+      "options": [
+        "කරුණු වෙනස්",
+        "කරුණු එකයි — 'so' වෙනුවට 'because', සහ පිළිවෙළ ආපස්සට",
+        "දෙවැන්න ප්‍රශ්නයක්",
+        "දෙවැන්න අනාගතය"
+      ],
+      "answer": 1,
+      "explainSi": "එකම දාමය. 'so' ඉස්සරහට කියනවා, 'because' ආපස්සට කියනවා."
+    },
+    {
+      "id": "a1-20-q20",
+      "context": "Nilu: Because of the power cut. My phone was dead and the charger was at the office.",
+      "contextSi": "නිලූ: විදුලිය කැපුණ නිසා. දුරකථනය ඕෆ්, චාජරය කාර්යාලයේ.",
+      "q": "සංවාදයේ: 'Because of' යෙදෙන්නේ ඇයි, 'Because' නොවේ?",
+      "options": [
+        "එය වඩා ආචාරශීලී නිසා",
+        "පස්සේ එන්නේ නාම පදයක් ('the power cut') — ක්‍රියාවක් නෑ",
+        "එය කෙටි නිසා",
+        "ප්‍රශ්නයකට පිළිතුරු නිසා"
+      ],
+      "answer": 1,
+      "explainSi": "'Because the power was cut' කිව්වා නම් 'of' නෑ — එතන ක්‍රියාවක් තියෙනවා."
+    },
+    {
+      "id": "a1-20-q21",
+      "q": "කුමන වාක්‍යය වැරදිද?",
+      "options": [
+        "I stayed home because it was raining.",
+        "It was raining, so I stayed home.",
+        "I stayed home because of it was raining.",
+        "I stayed home because of the rain."
+      ],
+      "answer": 2,
+      "explainSi": "'because of' පසුව ක්‍රියාවක් යෙදෙන්නේ නෑ — 'because of the rain' හෝ 'because it was raining'."
+    },
+    {
+      "id": "a1-20-q22",
+      "q": "'දුරකථනය නැති වුණා. මම ඔබට කතා කළේ නෑ.' — 'because' යොදා නිවැරදිව?",
+      "options": [
+        "I lost my phone because I didn't call you.",
+        "I didn't call you because I lost my phone.",
+        "I didn't call you so I lost my phone.",
+        "Because I didn't call you, I lost my phone."
+      ],
+      "answer": 1,
+      "explainSi": "දුරකථනය නැති වීම හේතුව. 'because' පසුව හේතුව එන්න ඕන.",
+      "speak": "I didn't call you because I lost my phone."
+    }
+  ]
+}

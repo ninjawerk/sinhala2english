@@ -1,0 +1,784 @@
+{
+  "hero": {
+    "src": "images/a1-05-hero.webp",
+    "alt": "Nadeesha glancing up at a round wall clock in a sunlit hallway, one hand on the strap of her bag, about to leave, morning light through an open door."
+  },
+  "goalsSi": [
+    "වේලාව ඉංග්‍රීසියෙන් කීම සහ ඇසීම",
+    "සතියේ දවස්, මාස සහ ඍතු",
+    "පිළිවෙළ සංඛ්‍යා (1st, 2nd, 3rd) සහ දිනයන්",
+    "වේලාව සමඟ in / on / at තෝරා ගැනීම"
+  ],
+  "goals": [
+    "Tell and ask the time",
+    "Say days, months and dates",
+    "Choose in, on or at for time"
+  ],
+  "sections": [
+    {
+      "type": "note",
+      "title": "Why time words come early",
+      "titleSi": "වේලාව ගැන වචන මුලින්ම ඉගෙන ගන්නේ ඇයි",
+      "bodySi": "'කීයටද?', 'කවදාද?' — දවසේ කථාවෙන් විශාල කොටසක් වේලාව ගැනයි. බස් එකක්, හමුවීමක්, වැඩ පටන් ගන්න වෙලාවක් — හැම එකකටම මේ වචන ඕන.\n\nහොඳ ආරංචිය: ඉංග්‍රීසියේ වේලාව කියන ක්‍රම දෙකක් තියෙනවා, ඒ දෙකෙන් එකක් හරිම සරලයි — සංඛ්‍යා දෙක පිළිවෙළට කියනවා පමණයි.",
+      "body": "Time words appear in most everyday conversations."
+    },
+    {
+      "type": "grammar",
+      "title": "Telling the time",
+      "titleSi": "වේලාව කීම",
+      "explainSi": "පහසුම ක්‍රමය: පැය සහ මිනිත්තු පිළිවෙළට කියන්න. 7:20 = 'seven twenty'. මේක හැම විටම හරි.\n\nදෙවැනි ක්‍රමය ටිකක් සම්ප්‍රදායිකයි: මිනිත්තු 30ට කලින් 'past', පස්සේ 'to'.",
+      "formula": "It is + [hour] + [minutes]  ·  half past six  ·  quarter to nine",
+      "table": {
+        "headers": [
+          "Clock",
+          "සරල ක්‍රමය",
+          "සම්ප්‍රදායික ක්‍රමය",
+          "සිංහල"
+        ],
+        "rows": [
+          [
+            "7:00",
+            "seven o'clock",
+            "seven o'clock",
+            "හතයි"
+          ],
+          [
+            "7:15",
+            "seven fifteen",
+            "quarter past seven",
+            "හතයි කාලයි"
+          ],
+          [
+            "7:30",
+            "seven thirty",
+            "half past seven",
+            "හතහමාරයි"
+          ],
+          [
+            "7:45",
+            "seven forty-five",
+            "quarter to eight",
+            "අටට කාලක් අඩුයි"
+          ],
+          [
+            "7:05",
+            "seven oh five",
+            "five past seven",
+            "හතයි මිනිත්තු පහයි"
+          ],
+          [
+            "12:00",
+            "twelve o'clock",
+            "midday / midnight",
+            "දහඩොළහයි"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "What time is it?",
+          "si": "වෙලාව කීයද?"
+        },
+        {
+          "en": "It is half past eight.",
+          "si": "අටහමාරයි."
+        },
+        {
+          "en": "The bus comes at six thirty.",
+          "si": "බස් එක හය හමාරට එනවා."
+        },
+        {
+          "en": "I get up at five o'clock.",
+          "si": "මම පහට නැගිටිනවා."
+        }
+      ],
+      "watchOutSi": "'o'clock' කියන්නේ මිනිත්තු නැති හරි පැයට විතරයි. 'seven thirty o'clock' කියලා කියන්න බෑ."
+    },
+    {
+      "type": "vocab",
+      "title": "Days, months and seasons",
+      "titleSi": "දවස්, මාස සහ ඍතු",
+      "introSi": "ඉංග්‍රීසියෙන් දවස්වල සහ මාසවල නම් හැම විටම ලොකු අකුරෙන් පටන් ගන්නවා — මේක නීතියක්, තේරීමක් නෙවෙයි.",
+      "items": [
+        {
+          "en": "Monday",
+          "si": "සඳුදා",
+          "say": "මන්ඩේ",
+          "exampleEn": "I work on Monday.",
+          "exampleSi": "මම සඳුදා වැඩ කරනවා."
+        },
+        {
+          "en": "Tuesday",
+          "si": "අඟහරුවාදා",
+          "say": "ටියුස්ඩේ"
+        },
+        {
+          "en": "Wednesday",
+          "si": "බදාදා",
+          "say": "වෙන්ස්ඩේ",
+          "exampleEn": "The class is on Wednesday.",
+          "exampleSi": "පන්තිය බදාදා."
+        },
+        {
+          "en": "Thursday",
+          "si": "බ්‍රහස්පතින්දා",
+          "say": "තර්ස්ඩේ"
+        },
+        {
+          "en": "Friday",
+          "si": "සිකුරාදා",
+          "say": "ෆ්‍රයිඩේ"
+        },
+        {
+          "en": "Saturday",
+          "si": "සෙනසුරාදා",
+          "say": "සැටර්ඩේ"
+        },
+        {
+          "en": "Sunday",
+          "si": "ඉරිදා",
+          "say": "සන්ඩේ",
+          "exampleEn": "I rest on Sunday.",
+          "exampleSi": "මම ඉරිදා විවේක ගන්නවා."
+        },
+        {
+          "en": "today",
+          "si": "අද",
+          "say": "ටුඩේ"
+        },
+        {
+          "en": "tomorrow",
+          "si": "හෙට",
+          "say": "ටුමොරෝ",
+          "exampleEn": "See you tomorrow.",
+          "exampleSi": "හෙට හම්බවෙමු."
+        },
+        {
+          "en": "yesterday",
+          "si": "ඊයේ",
+          "say": "යෙස්ටර්ඩේ"
+        },
+        {
+          "en": "week",
+          "si": "සතිය",
+          "say": "වීක්"
+        },
+        {
+          "en": "month",
+          "si": "මාසය",
+          "say": "මන්ත්"
+        },
+        {
+          "en": "January",
+          "si": "ජනවාරි",
+          "say": "ජැනුවරි"
+        },
+        {
+          "en": "April",
+          "si": "අප්‍රේල්",
+          "say": "එයිප්‍රල්",
+          "exampleEn": "New Year is in April.",
+          "exampleSi": "අලුත් අවුරුද්ද අප්‍රේල්."
+        },
+        {
+          "en": "December",
+          "si": "දෙසැම්බර්",
+          "say": "ඩිසෙම්බර්"
+        },
+        {
+          "en": "season",
+          "si": "ඍතුව",
+          "say": "සීසන්"
+        }
+      ]
+    },
+    {
+      "type": "grammar",
+      "title": "Ordinal numbers and dates",
+      "titleSi": "පිළිවෙළ සංඛ්‍යා සහ දිනයන්",
+      "explainSi": "දිනයක් කියද්දී සාමාන්‍ය සංඛ්‍යාව නෙවෙයි, පිළිවෙළ සංඛ්‍යාව භාවිත කරනවා: 'the first', 'the second'. ලියද්දී 1st, 2nd, 3rd කියලා කෙටි කරනවා.",
+      "formula": "the + ordinal + of + month  ·  the fifth of May",
+      "table": {
+        "headers": [
+          "අංකය",
+          "පිළිවෙළ",
+          "කෙටියෙන්",
+          "සිංහල"
+        ],
+        "rows": [
+          [
+            "1",
+            "first",
+            "1st",
+            "පළමුවෙනි"
+          ],
+          [
+            "2",
+            "second",
+            "2nd",
+            "දෙවෙනි"
+          ],
+          [
+            "3",
+            "third",
+            "3rd",
+            "තුන්වෙනි"
+          ],
+          [
+            "4",
+            "fourth",
+            "4th",
+            "හතරවෙනි"
+          ],
+          [
+            "5",
+            "fifth",
+            "5th",
+            "පස්වෙනි"
+          ],
+          [
+            "12",
+            "twelfth",
+            "12th",
+            "දොළොස්වෙනි"
+          ],
+          [
+            "20",
+            "twentieth",
+            "20th",
+            "විසිවෙනි"
+          ],
+          [
+            "21",
+            "twenty-first",
+            "21st",
+            "විසිඑක්වෙනි"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "My birthday is on the third of June.",
+          "si": "මගේ උපන්දිනය ජූනි තුන්වෙනිදා."
+        },
+        {
+          "en": "Today is the first of May.",
+          "si": "අද මැයි පළමුවෙනිදා."
+        },
+        {
+          "en": "This is my second cup of tea.",
+          "si": "මේ මගේ දෙවෙනි තේ කෝප්පය."
+        }
+      ],
+      "watchOutSi": "1, 2, 3 වලට විශේෂ ස්වරූප තියෙනවා: first, second, third — 'oneth' වගේ දෙයක් නෑ. හතරේ ඉඳන් බොහෝ විට '-th' එකතු වෙනවා."
+    },
+    {
+      "type": "grammar",
+      "title": "in, on or at?",
+      "titleSi": "in, on නැත්නම් at?",
+      "explainSi": "සිංහලෙන් 'ට' කියලා එකම වචනයක් හැම තැනම යෙදෙනවා. ඉංග්‍රීසියෙන් කාලයේ විශාලත්වය අනුව වචනය වෙනස් වෙනවා: ලොකු කාලයට in, දවසකට on, නිශ්චිත වේලාවකට at.",
+      "formula": "in = long  ·  on = a day  ·  at = a point",
+      "table": {
+        "headers": [
+          "වචනය",
+          "භාවිතය",
+          "උදාහරණ"
+        ],
+        "rows": [
+          [
+            "in",
+            "මාස, ඍතු, අවුරුදු, දවසේ කොටස්",
+            "in April · in 2026 · in the morning"
+          ],
+          [
+            "on",
+            "දවස් සහ දිනයන්",
+            "on Monday · on the third of June"
+          ],
+          [
+            "at",
+            "නිශ්චිත වේලාවන්",
+            "at six o'clock · at night · at lunchtime"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "The shop opens at nine.",
+          "si": "කඩේ නවයට අරිනවා."
+        },
+        {
+          "en": "I study in the evening.",
+          "si": "මම හවස ඉගෙන ගන්නවා."
+        },
+        {
+          "en": "We meet on Friday.",
+          "si": "අපි සිකුරාදා හම්බවෙනවා."
+        },
+        {
+          "en": "It is cold in December.",
+          "si": "දෙසැම්බර් සීතලයි."
+        }
+      ],
+      "watchOutSi": "'in the morning', 'in the afternoon', 'in the evening' — නමුත් 'at night'. මේක නීතියක් නෙවෙයි, පුරුද්දක්. මතක තියාගන්න."
+    },
+    {
+      "type": "dialogue",
+      "title": "What time does it start?",
+      "titleSi": "එය පටන් ගන්නේ කීයටද?",
+      "settingSi": "නිමාලි ඇගේ යාළුවා වන සමන්ගෙන් පන්තියක් ගැන අහනවා.",
+      "lines": [
+        {
+          "speaker": "Nimali",
+          "en": "What time does the English class start?",
+          "si": "ඉංග්‍රීසි පන්තිය කීයට පටන් ගන්නවාද?"
+        },
+        {
+          "speaker": "Saman",
+          "en": "It starts at half past four.",
+          "si": "එය හතරහමාරට පටන් ගන්නවා."
+        },
+        {
+          "speaker": "Nimali",
+          "en": "And what day is it?",
+          "si": "ඒක කොයි දවසේද?"
+        },
+        {
+          "speaker": "Saman",
+          "en": "On Tuesday and on Thursday.",
+          "si": "අඟහරුවාදා සහ බ්‍රහස්පතින්දා."
+        },
+        {
+          "speaker": "Nimali",
+          "en": "Is it in this building?",
+          "si": "ඒක මේ ගොඩනැගිල්ලේද?"
+        },
+        {
+          "speaker": "Saman",
+          "en": "Yes. Room four, on the second floor.",
+          "si": "ඔව්. කාමර හතර, දෙවෙනි තට්ටුවේ."
+        },
+        {
+          "speaker": "Nimali",
+          "en": "Thank you. See you on Tuesday!",
+          "si": "ස්තූතියි. අඟහරුවාදා හම්බවෙමු!"
+        }
+      ]
+    },
+    {
+      "type": "tip",
+      "title": "Asking politely",
+      "titleSi": "ආචාරශීලීව ඇසීම",
+      "bodySi": "නාඳුනන කෙනෙකුගෙන් වේලාව අහද්දී 'What time is it?' කියනවාට වඩා 'Excuse me, what time is it?' කියන එක වඩා ආචාරශීලීයි. 'Excuse me' කියන වචන දෙක ඉංග්‍රීසියේ දොර අරින යතුරයි.",
+      "body": "Start with 'Excuse me' when you ask a stranger."
+    },
+    {
+      "type": "practice",
+      "title": "in, on or at",
+      "titleSi": "in, on නැත්නම් at",
+      "instructionSi": "නිවැරදි වචනය ලියන්න.",
+      "items": [
+        {
+          "prompt": "The train leaves ___ seven o'clock.",
+          "answer": "at",
+          "hintSi": "නිශ්චිත වේලාවක්.",
+          "full": "The train leaves at seven o'clock."
+        },
+        {
+          "prompt": "My birthday is ___ March.",
+          "answer": "in",
+          "hintSi": "මාසයක්.",
+          "full": "My birthday is in March."
+        },
+        {
+          "prompt": "We have a test ___ Friday.",
+          "answer": "on",
+          "hintSi": "දවසක්.",
+          "full": "We have a test on Friday."
+        },
+        {
+          "prompt": "She reads ___ the morning.",
+          "answer": "in",
+          "hintSi": "දවසේ කොටසක්.",
+          "full": "She reads in the morning."
+        },
+        {
+          "prompt": "The party is ___ the tenth of May.",
+          "answer": "on",
+          "hintSi": "දිනයක්.",
+          "full": "The party is on the tenth of May."
+        },
+        {
+          "prompt": "I sleep ___ night.",
+          "answer": "at",
+          "hintSi": "මේක විශේෂයි — 'in' නෙවෙයි.",
+          "full": "I sleep at night."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "en": "time",
+      "si": "වේලාව"
+    },
+    {
+      "en": "clock",
+      "si": "ඔරලෝසුව"
+    },
+    {
+      "en": "hour",
+      "si": "පැය"
+    },
+    {
+      "en": "minute",
+      "si": "මිනිත්තුව"
+    },
+    {
+      "en": "half past",
+      "si": "හමාරයි"
+    },
+    {
+      "en": "quarter",
+      "si": "කාල"
+    },
+    {
+      "en": "o'clock",
+      "si": "හරි පැයට"
+    },
+    {
+      "en": "morning",
+      "si": "උදේ"
+    },
+    {
+      "en": "afternoon",
+      "si": "දහවල්"
+    },
+    {
+      "en": "evening",
+      "si": "හවස"
+    },
+    {
+      "en": "night",
+      "si": "රාත්‍රිය"
+    },
+    {
+      "en": "today",
+      "si": "අද"
+    },
+    {
+      "en": "tomorrow",
+      "si": "හෙට"
+    },
+    {
+      "en": "yesterday",
+      "si": "ඊයේ"
+    },
+    {
+      "en": "week",
+      "si": "සතිය"
+    },
+    {
+      "en": "month",
+      "si": "මාසය"
+    },
+    {
+      "en": "season",
+      "si": "ඍතුව"
+    },
+    {
+      "en": "birthday",
+      "si": "උපන්දිනය"
+    },
+    {
+      "en": "floor",
+      "si": "තට්ටුව"
+    },
+    {
+      "en": "start",
+      "si": "පටන් ගන්නවා"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "a1-05-q1",
+      "q": "9:30 — සම්ප්‍රදායික ක්‍රමයෙන් කියන්නේ කොහොමද?",
+      "options": [
+        "half past nine",
+        "half to nine",
+        "nine half",
+        "quarter past nine"
+      ],
+      "answer": 0,
+      "explainSi": "මිනිත්තු 30 = half. පැය 9 පසු වී ඇති නිසා 'half past nine'.",
+      "speak": "It is half past nine."
+    },
+    {
+      "id": "a1-05-q2",
+      "q": "7:45 — 'quarter to eight' කියන්නේ ඇයි අටද, හතද නොවේ?",
+      "options": [
+        "පැය 7 තවම ඉවර නෑ",
+        "මිනිත්තු 15කින් පැය 8 එනවා",
+        "45 කියන්නේ 8ට කිට්ටුයි නිසා නීතියක් නෑ",
+        "'to' සමඟ හැම විටම ලොකු අංකය"
+      ],
+      "answer": 1,
+      "explainSi": "'to' කියන්නේ 'තව ටිකෙන් එන පැයට'. 7:45ට තව මිනිත්තු 15කින් 8 එනවා — quarter to eight.",
+      "speak": "It is quarter to eight."
+    },
+    {
+      "id": "a1-05-q3",
+      "q": "'The film starts ___ 8 o'clock.' — හිස්තැනට?",
+      "options": [
+        "in",
+        "on",
+        "at",
+        "to"
+      ],
+      "answer": 2,
+      "explainSi": "නිශ්චිත වේලාවකට 'at' යෙදෙනවා.",
+      "speak": "The film starts at eight o'clock."
+    },
+    {
+      "id": "a1-05-q4",
+      "q": "'I was born ___ 1998.' — හිස්තැනට?",
+      "options": [
+        "at",
+        "on",
+        "in",
+        "of"
+      ],
+      "answer": 2,
+      "explainSi": "අවුරුදු, මාස සහ ඍතු වැනි දිගු කාලයන්ට 'in' යෙදෙනවා.",
+      "speak": "I was born in 1998."
+    },
+    {
+      "id": "a1-05-q5",
+      "q": "පහත වාක්‍යවලින් නිවැරදිව ලියා ඇත්තේ කුමක්ද?",
+      "options": [
+        "The class is on monday.",
+        "The class is on Monday.",
+        "The class is at Monday.",
+        "The class is in Monday."
+      ],
+      "answer": 1,
+      "explainSi": "දෙකක් හරි වෙන්න ඕන: දවසකට 'on', සහ දවසේ නම ලොකු අකුරෙන් — Monday.",
+      "speak": "The class is on Monday."
+    },
+    {
+      "id": "a1-05-q6",
+      "q": "'මගේ උපන්දිනය ජූලි දෙවෙනිදා' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "My birthday is on the two of July.",
+        "My birthday is on the second of July.",
+        "My birthday is in the second of July.",
+        "My birthday is at second July."
+      ],
+      "answer": 1,
+      "explainSi": "දිනයන්ට පිළිවෙළ සංඛ්‍යාව — 'second', 'two' නෙවෙයි. දිනයකට 'on'.",
+      "speak": "My birthday is on the second of July."
+    },
+    {
+      "id": "a1-05-q7",
+      "q": "'3' යන්නෙහි පිළිවෙළ ස්වරූපය?",
+      "options": [
+        "threeth",
+        "thrid",
+        "third",
+        "three'th"
+      ],
+      "answer": 2,
+      "explainSi": "1, 2, 3 විශේෂයි: first, second, third. හතරේ ඉඳන් '-th' — fourth, fifth."
+    },
+    {
+      "id": "a1-05-q8",
+      "q": "'I study ___ the evening, but I sleep ___ night.' — පිළිවෙළින්?",
+      "options": [
+        "at / in",
+        "in / at",
+        "in / in",
+        "on / at"
+      ],
+      "answer": 1,
+      "explainSi": "'in the morning/afternoon/evening' — නමුත් 'at night'. මේ එකම වචනය පමණක් වෙනස්.",
+      "speak": "I study in the evening, but I sleep at night."
+    },
+    {
+      "id": "a1-05-q9",
+      "q": "6:15 — කියන්නේ කොහොමද?",
+      "options": [
+        "quarter to six",
+        "quarter past six",
+        "half past six",
+        "six quarter"
+      ],
+      "answer": 1,
+      "explainSi": "පසුවුණු විනාඩි 15ට 'quarter past'.",
+      "speak": "quarter past six"
+    },
+    {
+      "id": "a1-05-q10",
+      "q": "'quarter past' සහ 'quarter to' අතර වෙනස?",
+      "options": [
+        "වෙනසක් නෑ",
+        "'past' පැය ගෙවිලා, 'to' ඊළඟ පැයට තව තියෙනවා",
+        "'to' උදෑසනට විතරයි",
+        "'past' රාත්‍රියට විතරයි"
+      ],
+      "answer": 1,
+      "explainSi": "6:15 = quarter past six. 6:45 = quarter to seven — අංකයත් වෙනස් වෙනවා."
+    },
+    {
+      "id": "a1-05-q11",
+      "q": "'The class starts ___ Monday.' — හිස්තැනට?",
+      "options": [
+        "in",
+        "on",
+        "at",
+        "to"
+      ],
+      "answer": 1,
+      "explainSi": "දවස්වලට 'on'. වෙලාවට 'at'. මාස සහ අවුරුදුවලට 'in'."
+    },
+    {
+      "id": "a1-05-q12",
+      "q": "'I go to the temple ___ April.' — හිස්තැනට?",
+      "options": [
+        "on",
+        "at",
+        "in",
+        "to"
+      ],
+      "answer": 2,
+      "explainSi": "මාසවලට 'in'."
+    },
+    {
+      "id": "a1-05-q13",
+      "q": "in, on, at — නීතිය මතක තියාගන්නේ කොහොමද?",
+      "options": [
+        "නීතියක් නෑ",
+        "දිගම කාලයට 'in' (මාස, අවුරුදු), දවසකට 'on', මොහොතකට 'at'",
+        "හැම එකකටම 'at'",
+        "වචනයේ දිග අනුව"
+      ],
+      "answer": 1,
+      "explainSi": "in 2026 → on Monday → at 8 o'clock. කාලය පටු වෙන්න වෙන්න වචනය වෙනස් වෙනවා."
+    },
+    {
+      "id": "a1-05-q14",
+      "q": "'12' යන්නෙහි පිළිවෙළ ස්වරූපය?",
+      "options": [
+        "twelth",
+        "twelfth",
+        "twelvth",
+        "twelveth"
+      ],
+      "answer": 1,
+      "explainSi": "twelfth — 've' අයින් වෙලා 'fth'."
+    },
+    {
+      "id": "a1-05-q15",
+      "q": "සතියේ දවස්වල නම් ලියද්දී?",
+      "options": [
+        "කුඩා අකුරින්",
+        "ලොකු අකුරින් — Monday, Tuesday",
+        "මුල් අකුර විතරක් සමහර වෙලාවට",
+        "වෙනසක් නෑ"
+      ],
+      "answer": 1,
+      "explainSi": "දවස්, මාස, භාෂා සහ රටවල් හැම විටම ලොකු අකුරින්."
+    },
+    {
+      "id": "a1-05-q16",
+      "q": "'What time is it?' යන්නට ගැළපෙන පිළිතුර?",
+      "options": [
+        "On Tuesday.",
+        "It's half past three.",
+        "In the morning.",
+        "At the school."
+      ],
+      "answer": 1,
+      "explainSi": "'What time' වෙලාව අහනවා — 'It's …' කියලා පිළිතුරු දෙනවා."
+    },
+    {
+      "id": "a1-05-q17",
+      "context": "A: What time does the English class start?\nB: It starts at half past four.",
+      "contextSi": "A: ඉංග්‍රීසි පන්තිය කීයටද පටන් ගන්නේ?\nB: හතරයි කාලට පටන් ගන්නවා.",
+      "q": "සංවාදයේ: පන්තිය පටන් ගන්නේ කීයටද?",
+      "options": [
+        "4:15",
+        "4:30",
+        "4:45",
+        "5:30"
+      ],
+      "answer": 1,
+      "explainSi": "'half past four' = 4:30."
+    },
+    {
+      "id": "a1-05-q18",
+      "context": "A: And what day is it?\nB: On Tuesday and on Thursday.",
+      "contextSi": "A: ඒක මොන දවසේද?\nB: අඟහරුවාදා සහ බ්‍රහස්පතින්දා.",
+      "q": "සංවාදයේ: 'on' දෙපාරක්ම යෙදෙන්නේ ඇයි?",
+      "options": [
+        "වැරදීමකින්",
+        "දවස් දෙකකට දෙපාරක් — දවස්වලට 'on'",
+        "'and' නිසා",
+        "වඩා ආචාරශීලී නිසා"
+      ],
+      "answer": 1,
+      "explainSi": "'on Tuesday and Thursday' කිව්වත් හරි, නමුත් දෙපාරක් කියන එකත් සාමාන්‍යයි."
+    },
+    {
+      "id": "a1-05-q19",
+      "context": "A: Is it in this building?\nB: Yes. Room four, on the second floor.",
+      "contextSi": "A: ඒක මේ ගොඩනැගිල්ලේද?\nB: ඔව්. කාමර හතර, දෙවෙනි තට්ටුවේ.",
+      "q": "සංවාදයේ: පන්තිය තියෙන්නේ කොහෙද?",
+      "options": [
+        "පළමු තට්ටුවේ, කාමර දෙකේ",
+        "දෙවෙනි තට්ටුවේ, කාමර හතරේ",
+        "දෙවෙනි ගොඩනැගිල්ලේ",
+        "කාමර දෙකේ"
+      ],
+      "answer": 1,
+      "explainSi": "'Room four, on the second floor' — අංක දෙකක් තියෙනවා, පටලවා ගන්න එපා."
+    },
+    {
+      "id": "a1-05-q20",
+      "context": "A: Thank you. See you on Tuesday!",
+      "contextSi": "A: ස්තූතියි. අඟහරුවාදා හමු වෙමු!",
+      "q": "සංවාදයේ: 'See you on Tuesday' කියන්නේ කවදාද?",
+      "options": [
+        "අද",
+        "ඊළඟ පන්තියේ දවසේ",
+        "හෙට",
+        "දන්නේ නෑ"
+      ],
+      "answer": 1,
+      "explainSi": "පන්තිය අඟහරුවාදා සහ බ්‍රහස්පතින්දා. ළඟම එක අඟහරුවාදා."
+    },
+    {
+      "id": "a1-05-q21",
+      "q": "කුමන වාක්‍යය වැරදිද?",
+      "options": [
+        "I was born in 1998.",
+        "The shop opens at eight.",
+        "We meet in Monday.",
+        "She comes in the morning."
+      ],
+      "answer": 2,
+      "explainSi": "'on Monday' විය යුතුයි — දවස්වලට 'on'."
+    },
+    {
+      "id": "a1-05-q22",
+      "q": "'at night' නමුත් 'in the morning' — ඇයි වෙනස?",
+      "options": [
+        "නීතියක් නෑ — 'at night' ව්‍යතිරේකයක්, ඒක එහෙමම මතක තියාගන්න",
+        "රාත්‍රිය කෙටි නිසා",
+        "'night' ලොකු අකුරින් නිසා",
+        "දෙකම 'in'"
+      ],
+      "answer": 0,
+      "explainSi": "in the morning / in the afternoon / in the evening — නමුත් at night. එකම මේක විතරයි වෙනස්."
+    }
+  ]
+}

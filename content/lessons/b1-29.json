@@ -1,0 +1,820 @@
+{
+  "goalsSi": [
+    "very, really, quite, extremely — තරම කියන වචන",
+    "too සහ very අතර වෙනස",
+    "enough — විශේෂණයට පස්සේ, නාම පදයට කලින්",
+    "too … to සහ enough … to",
+    "බලවත් විශේෂණවලට very යෙදෙන්නේ නෑ කියන එක",
+    "quite කියන වචනයේ අවුල"
+  ],
+  "goals": [
+    "Grade with very, really, quite and extremely",
+    "Tell too and very apart",
+    "Place enough correctly",
+    "Use too … to and enough … to",
+    "Know which adjectives refuse very",
+    "Handle the two meanings of quite"
+  ],
+  "sections": [
+    {
+      "type": "note",
+      "title": "How much is 'a bit'?",
+      "titleSi": "'ටිකක්' කියන්නේ කොච්චරද?",
+      "bodySi": "a2-13 හි ඉගෙන ගත්තා too … to සහ enough. b1-21 හි ඉගෙන ගත්තා ඉංග්‍රීසි කථාව දේවල් මෘදු කරන එක.\n\nදැන් ඒ දෙක එකට — තරම කියන වචන මුළු කට්ටලය.\n\nමේ පේළිය බලන්න, දුර්වලම ඉඳන් බලවත්ම දක්වා:\n\nnot very → a bit → quite → very → really → extremely\n\n'The room was a bit cold.' — ටිකක් සීතලයි.\n'The room was quite cold.' — හොඳටම සීතලයි.\n'The room was very cold.' — ගොඩක් සීතලයි.\n'The room was extremely cold.' — අතිශයින් සීතලයි.\n\nහතරම එකම කාමරය ගැන කියන්න පුළුවන් — කියන කෙනාට අනුව. ඒත් අහන කෙනා ඒ වෙනස තේරුම් ගන්නවා.\n\nමේ පාඩමේ අමාරුම කොටස් දෙකයි: too කියන එකයි (ඒක 'ගොඩක්' නෙවෙයි), සහ quite කියන එකයි (ඒකට තේරුම් දෙකක් තියෙනවා).",
+      "body": "not very · a bit · quite · very · really · extremely. The two that catch people are too, which is not a synonym for very, and quite, which has two different meanings."
+    },
+    {
+      "type": "grammar",
+      "title": "very, really, extremely",
+      "titleSi": "very, really, extremely",
+      "explainSi": "මේ තුන විශේෂණයකට කලින් යනවා, තරම වැඩි කරන්න.\n\n'It was very expensive.'\n'It was really expensive.'\n'It was extremely expensive.'\n\nvery — සාමාන්‍ය, ලියන එකටත් හරි.\nreally — කථාවේ බහුලයි, ටිකක් හැඟීම්බරයි.\nextremely — බලවත්, ටිකක් විධිමත්.\n\nදැන් වැදගත් නීතිය (b1-25 හි හැඟීම් එක්කත් ආවා):\n\nබලවත් විශේෂණවලට very යෙදෙන්නේ නෑ.\n\nසමහර විශේෂණවලම 'ගොඩක්' කියන අර්ථය තියෙනවා:\nhuge (= ගොඩක් ලොකු), tiny, freezing, boiling, exhausted, delicious, terrible, brilliant, furious, starving\n\n✗ very huge · ✓ absolutely huge\n✗ very freezing · ✓ absolutely freezing\n✗ very delicious · ✓ absolutely delicious\n\nඒවාට යෙදෙන්නේ: absolutely, completely, totally.\n\nලේසි පරීක්ෂාව: වචනේම 'ගොඩක් …' කියනවා නම් — very එපා.\n\nතව එකක්: 'really' කියන එක දෙපැත්තටම යනවා — 'really cold' ✓ සහ 'really freezing' ✓. ඒක ආරක්ෂිතම එක.",
+      "explain": "very, really, extremely intensify a normal adjective. Extreme adjectives already contain very, so they take absolutely or completely instead.",
+      "formula": "very/really/extremely + සාමාන්‍ය විශේෂණය  ·  absolutely + බලවත් විශේෂණය",
+      "table": {
+        "headers": [
+          "සාමාන්‍ය",
+          "බලවත්",
+          "යෙදෙන්නේ"
+        ],
+        "rows": [
+          [
+            "big",
+            "huge",
+            "very big / absolutely huge"
+          ],
+          [
+            "cold",
+            "freezing",
+            "very cold / absolutely freezing"
+          ],
+          [
+            "tired",
+            "exhausted",
+            "very tired / absolutely exhausted"
+          ],
+          [
+            "good",
+            "brilliant",
+            "very good / absolutely brilliant"
+          ],
+          [
+            "hungry",
+            "starving",
+            "very hungry / absolutely starving"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "The soup was absolutely delicious — you must give me the recipe.",
+          "si": "සුප් එක අතිශයින් රසයි — වට්ටෝරුව මට දෙන්නම ඕන."
+        },
+        {
+          "en": "It's really cold this morning, isn't it?",
+          "si": "අද උදේ හරිම සීතලයි නේද?"
+        },
+        {
+          "en": "The queue was extremely long, so we left.",
+          "si": "පෝලිම හරිම දිගයි, ඒ නිසා අපි ගියා."
+        }
+      ],
+      "watchOutSi": "'Very delicious' කියන එක ලංකාවේ බහුලයි, ඒත් ඉංග්‍රීසි කථා කරන කෙනෙකුට ඒක අමුතුයි. 'Delicious' කියන එකේම 'ගොඩක් රසයි' කියන අර්ථය තියෙනවා."
+    },
+    {
+      "type": "grammar",
+      "title": "too is not very",
+      "titleSi": "too කියන්නේ very නෙවෙයි",
+      "explainSi": "මේකයි ලොකුම වැරැද්ද.\n\nvery = ගොඩක්. කමක් නෑ.\ntoo = ඕනවට වඩා. ප්‍රශ්නයක් තියෙනවා.\n\n'The tea is very hot.' — තේ ගොඩක් උණුයි. (හොඳයි, එහෙම තමයි ඕන)\n'The tea is too hot.' — තේ බොන්න බැරි තරම් උණුයි. (ප්‍රශ්නයක්)\n\n'This bag is very heavy.' — බර වැඩියි.\n'This bag is too heavy.' — මට උස්සන්න බෑ.\n\n'too' කියන එකේ හැමවිටම අවහිරයක් තියෙනවා — කරන්න බැරි දෙයක්.\n\nඒ නිසා ප්‍රශංසාවකට 'too' යෙදුවොත් අර්ථය පෙරළෙනවා:\n\n'The film was too good.' — වචනාර්ථයෙන් 'ඒක එච්චර හොඳ නිසා ප්‍රශ්නයක්'. ඒක ඔයාට කියන්න ඕන දේ නෙවෙයි.\n✓ 'The film was very good.'\n\ntoo … to රටාව (a2-13):\n'It's too hot to drink.' — බොන්න බැරි තරම් උණුයි.\n'He's too young to drive.' — රිය පදවන්න බැරි තරම් තරුණයි.\n\ntoo … for — කෙනෙකුට:\n'This is too difficult for me.'",
+      "explain": "very is a lot and fine. too is more than it should be, and always implies something you cannot do.",
+      "formula": "too + විශේෂණය + to + ක්‍රියාව  ·  too + විශේෂණය + for + කෙනා",
+      "table": {
+        "headers": [
+          "very (කමක් නෑ)",
+          "too (ප්‍රශ්නයක්)"
+        ],
+        "rows": [
+          [
+            "The tea is very hot.",
+            "The tea is too hot to drink."
+          ],
+          [
+            "He is very young.",
+            "He is too young to drive."
+          ],
+          [
+            "It's very expensive.",
+            "It's too expensive for us."
+          ],
+          [
+            "The film was very good.",
+            "(The film was too good.) ✗"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "It's too late to call her now.",
+          "si": "දැන් ඇයට කතා කරන්න පරක්කු වැඩියි."
+        },
+        {
+          "en": "The box was too heavy for one person.",
+          "si": "පෙට්ටිය එක් කෙනෙකුට බර වැඩියි."
+        },
+        {
+          "en": "I'm too tired to cook. Let's order.",
+          "si": "උයන්න බැරි තරම් මහන්සියි. ඕඩර් කරමු."
+        }
+      ],
+      "watchOutSi": "සිංහලෙන් 'ගොඩක්' කියන එකට ඉංග්‍රීසියෙන් 'too' යොදන එක බහුලම වැරදිවලින් එකක්. 'ගොඩක් හොඳයි' = 'very good', 'too good' නෙවෙයි."
+    },
+    {
+      "type": "grammar",
+      "title": "enough, and where it sits",
+      "titleSi": "enough, සහ ඒක තියෙන තැන",
+      "explainSi": "'Enough' කියන්නේ ප්‍රමාණවත් කියන එක. ඒත් ඒක තියෙන තැන දෙකක් — ඊළඟට එන්නේ මොකක්ද කියන එකට අනුව.\n\nවිශේෂණයකට / ක්‍රියා විශේෂණයකට — පස්සේ:\n'Is it warm enough?' ✓ ('enough warm' ✗)\n'He didn't run fast enough.' ✓\n\nනාම පදයකට — කලින්:\n'We have enough chairs.' ✓ ('chairs enough' ✗)\n'Do we have enough time?' ✓\n\nමතක තියාගන්න: විශේෂණයට පස්සේ, නාම පදයට කලින්.\n\nenough … to රටාව:\n'He's old enough to vote.' — ඡන්දය දෙන්න තරම් වයසයි.\n'We have enough money to buy it.' — ඒක ගන්න තරම් සල්ලි තියෙනවා.\n\nමේක 'too … to' එකේ අනිත් පැත්තයි:\n\n'He's too young to vote.' = 'He isn't old enough to vote.'\n\nඑකම දේ, ක්‍රම දෙකක්. එකක් අවහිරයෙන්, අනිත් එක ප්‍රමාණවත්කමෙන්.\n\nනැහැ කියන්න: 'not … enough'.\n'The room isn't big enough.' — කාමරය ලොකු මදි.",
+      "explain": "enough goes after an adjective but before a noun. too … to and not … enough to say the same thing from opposite sides.",
+      "formula": "විශේෂණය + enough  ·  enough + නාම පදය  ·  enough + to + ක්‍රියාව",
+      "table": {
+        "headers": [
+          "හරි",
+          "වැරදි"
+        ],
+        "rows": [
+          [
+            "warm enough",
+            "enough warm"
+          ],
+          [
+            "fast enough",
+            "enough fast"
+          ],
+          [
+            "enough chairs",
+            "chairs enough"
+          ],
+          [
+            "enough time",
+            "time enough"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "The water isn't hot enough for tea yet.",
+          "si": "තේ හදන්න තරම් වතුර තාම උණු නෑ."
+        },
+        {
+          "en": "Do we have enough chairs for everyone?",
+          "si": "හැමෝටම ඇති තරම් පුටු තියෙනවාද?"
+        },
+        {
+          "en": "She's old enough to decide for herself.",
+          "si": "තමන්ට තීරණය කරන්න තරම් ඇය වැඩිහිටියි."
+        }
+      ],
+      "watchOutSi": "'He is not enough old' කියන එක වැරදියි — 'He is not old enough'. විශේෂණයට හැමවිටම පස්සේ."
+    },
+    {
+      "type": "grammar",
+      "title": "The trouble with quite",
+      "titleSi": "quite කියන එකේ අවුල",
+      "explainSi": "මේ වචනයට තේරුම් දෙකක් තියෙනවා, සහ ඒවා එකිනෙකට විරුද්ධයි වගේ.\n\n1. සාමාන්‍ය විශේෂණයක් එක්ක — 'තරමක් දුරට', ඒත් සම්පූර්ණයෙන් නෙවෙයි.\n'The film was quite good.' — හොඳයි… ඒත් ලොකුවට නෙවෙයි.\n\nඑංගලන්තයේ මේක ප්‍රශංසාවක් නෙවෙයි. 'Quite good' කියන්නේ 'නරක නෑ' කියන එකයි.\n\n2. බලවත් විශේෂණයක් එක්ක — 'සම්පූර්ණයෙන්ම'.\n'The film was quite brilliant.' — සම්පූර්ණයෙන්ම අපූරුයි.\n'You're quite right.' — ඔයා සම්පූර්ණයෙන්ම හරි.\n\nඑකම වචනය, එකක් අඩු කරනවා, අනිත් එක වැඩි කරනවා. වෙනස තියෙන්නේ ඊළඟට එන විශේෂණයේ.\n\nතව එකක්: ඇමරිකානු ඉංග්‍රීසියේ 'quite good' කියන්නේ 'ගොඩක් හොඳයි' කියලා. එංගලන්තයේ ඒක 'නරක නෑ'. එකම වචනය, රටවල් දෙකක්, අර්ථ දෙකක්.\n\nඒ නිසා අවිනිශ්චිත නම් 'quite' වළක්වන එක ආරක්ෂිතයි. 'very good' නැත්නම් 'not bad' කියන එකේ අවුලක් නෑ.",
+      "explain": "quite weakens a normal adjective (quite good = not bad) but strengthens an extreme one (quite brilliant = completely). And American English reads quite good as high praise.",
+      "formula": "quite + සාමාන්‍ය = අඩුයි  ·  quite + බලවත් = සම්පූර්ණයෙන්",
+      "table": {
+        "headers": [
+          "යෙදුම",
+          "බ්‍රිතාන්‍ය අර්ථය"
+        ],
+        "rows": [
+          [
+            "quite good",
+            "නරක නෑ — ලොකුවට නෙවෙයි"
+          ],
+          [
+            "quite cold",
+            "තරමක් සීතලයි"
+          ],
+          [
+            "quite brilliant",
+            "සම්පූර්ණයෙන්ම අපූරුයි"
+          ],
+          [
+            "quite right",
+            "සම්පූර්ණයෙන්ම හරි"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "It was quite a long walk, but we managed.",
+          "si": "ඇවිදීම තරමක් දිගයි, ඒත් අපි කළා."
+        },
+        {
+          "en": "You're quite right — I had the date wrong.",
+          "si": "ඔයා සම්පූර්ණයෙන්ම හරි — දිනය මට වැරදිලා."
+        }
+      ],
+      "watchOutSi": "කවුරු හරි ඔයාගේ වැඩේට 'quite good' කිව්වොත් — එංගලන්තයේ ඒක මධ්‍යස්ථ ප්‍රතිචාරයක්, ලොකු ප්‍රශංසාවක් නෙවෙයි. තරහ ගන්න දෙයක් නෑ, ඒත් තේරුම් ගන්න."
+    },
+    {
+      "type": "vocab",
+      "title": "How much, exactly",
+      "titleSi": "හරියටම කොච්චරද",
+      "introSi": "තරම කියන වචන, දුර්වලම ඉඳන් බලවත්ම දක්වා.",
+      "items": [
+        {
+          "en": "a bit",
+          "si": "ටිකක්",
+          "say": "අ බිට්",
+          "exampleEn": "It's a bit cold.",
+          "exampleSi": "ටිකක් සීතලයි."
+        },
+        {
+          "en": "quite",
+          "si": "තරමක් දුරට",
+          "say": "ක්වයිට්",
+          "exampleEn": "It was quite good.",
+          "exampleSi": "ඒක නරක නෑ."
+        },
+        {
+          "en": "very",
+          "si": "ගොඩක්",
+          "say": "වෙරි",
+          "exampleEn": "It's very hot today.",
+          "exampleSi": "අද ගොඩක් උණුසුම්."
+        },
+        {
+          "en": "really",
+          "si": "හරිම",
+          "say": "රියලි",
+          "exampleEn": "That's really kind of you.",
+          "exampleSi": "ඒක හරිම කරුණාවන්තයි."
+        },
+        {
+          "en": "extremely",
+          "si": "අතිශයින්",
+          "say": "එක්ස්ට්‍රීම්ලි",
+          "exampleEn": "Extremely useful.",
+          "exampleSi": "අතිශයින් ප්‍රයෝජනවත්."
+        },
+        {
+          "en": "absolutely",
+          "si": "සම්පූර්ණයෙන්ම",
+          "say": "ඇබ්සලූට්ලි",
+          "exampleEn": "Absolutely freezing.",
+          "exampleSi": "සම්පූර්ණයෙන්ම ශීතලයි."
+        },
+        {
+          "en": "too",
+          "si": "ඕනවට වඩා",
+          "say": "ටූ",
+          "exampleEn": "Too hot to drink.",
+          "exampleSi": "බොන්න බැරි තරම් උණුයි."
+        },
+        {
+          "en": "enough",
+          "si": "ප්‍රමාණවත්",
+          "say": "ඉනෆ්",
+          "exampleEn": "Is it warm enough?",
+          "exampleSi": "ඇති තරම් උණුසුම්ද?"
+        },
+        {
+          "en": "not enough",
+          "si": "මදි",
+          "say": "නොට් ඉනෆ්",
+          "exampleEn": "That's not enough.",
+          "exampleSi": "ඒක මදි."
+        },
+        {
+          "en": "huge",
+          "si": "අති විශාල",
+          "say": "හියුජ්",
+          "exampleEn": "The crowd was huge.",
+          "exampleSi": "සෙනඟ අති විශාලයි."
+        },
+        {
+          "en": "freezing",
+          "si": "ශීතලයි",
+          "say": "ෆ්‍රීසින්",
+          "exampleEn": "It's freezing in here.",
+          "exampleSi": "මෙතන ශීතලයි."
+        },
+        {
+          "en": "starving",
+          "si": "බඩගින්නෙන්",
+          "say": "ස්ටාවින්",
+          "exampleEn": "I'm starving.",
+          "exampleSi": "මට හරිම බඩගිනියි."
+        },
+        {
+          "en": "delicious",
+          "si": "ඉතා රසයි",
+          "say": "ඩිලිෂස්",
+          "exampleEn": "The rice was delicious.",
+          "exampleSi": "බත් ඉතා රසයි."
+        },
+        {
+          "en": "exhausted",
+          "si": "වෙහෙසයි",
+          "say": "එග්සෝස්ටඩ්",
+          "exampleEn": "We were exhausted.",
+          "exampleSi": "අපි වෙහෙසට පත් වුණා."
+        },
+        {
+          "en": "hardly",
+          "si": "කිසිසේත් නෑ තරම්",
+          "say": "හාඩ්ලි",
+          "exampleEn": "I could hardly hear him.",
+          "exampleSi": "එයාගේ කථාව මට ඇහුණේම නෑ තරම්."
+        },
+        {
+          "en": "plenty of",
+          "si": "ඕන තරම්",
+          "say": "ප්ලෙන්ටි ඔෆ්",
+          "exampleEn": "There's plenty of time.",
+          "exampleSi": "ඕන තරම් වෙලාව තියෙනවා."
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "Is it warm enough?",
+      "titleSi": "ඇති තරම් උණුසුම්ද?",
+      "settingSi": "කුස්සියේ. තරම කියන වචන කීයක් තියෙනවාද කියලා බලන්න.",
+      "lines": [
+        {
+          "speaker": "Nadeesha",
+          "en": "Is the water hot enough for the tea?",
+          "si": "තේ හදන්න වතුර ඇති තරම් උණුයිද?"
+        },
+        {
+          "speaker": "Ruwan",
+          "en": "Not quite. Give it a minute.",
+          "si": "තාම මදි. විනාඩියක් ඉන්න."
+        },
+        {
+          "speaker": "Nadeesha",
+          "en": "Careful — last time it was too hot to drink.",
+          "si": "පරෙස්සමින් — ගිය පාර ඒක බොන්න බැරි තරම් උණුයි."
+        },
+        {
+          "speaker": "Ruwan",
+          "en": "That was your fault. You poured it straight away.",
+          "si": "ඒක ඔයාගේ වැරැද්ද. ඔයා එකපාරම වත් කළා."
+        },
+        {
+          "speaker": "Nadeesha",
+          "en": "Anyway, is there enough milk?",
+          "si": "එහෙනම්, කිරි ඇති තරම් තියෙනවාද?"
+        },
+        {
+          "speaker": "Ruwan",
+          "en": "Plenty. And the rotti your mother sent is absolutely delicious.",
+          "si": "ඕන තරම්. අම්මා එවපු රොටී අතිශයින් රසයි."
+        },
+        {
+          "speaker": "Nadeesha",
+          "en": "Quite good, I thought. Not her best.",
+          "si": "නරක නෑ කියලා මට හිතුණේ. ඇයගේ හොඳම එක නෙවෙයි."
+        },
+        {
+          "speaker": "Ruwan",
+          "en": "You're a difficult woman.",
+          "si": "ඔයා අමාරු කෙනෙක්."
+        }
+      ]
+    },
+    {
+      "type": "story",
+      "title": "Not quite good enough",
+      "titleSi": "හරියටම මදි",
+      "introSi": "'quite' සහ 'enough' කියන වචන දෙකේ බලය ගැන කෙටි කතාවක්.",
+      "paragraphs": [
+        {
+          "en": "Tharindu's English teacher wrote three words at the bottom of his essay: \"Quite good. Improving.\"",
+          "si": "තරිඳුගේ ඉංග්‍රීසි ගුරුතුමිය එයාගේ රචනයේ පහළ වචන කීපයක් ලිව්වා: \"Quite good. Improving.\""
+        },
+        {
+          "en": "He read it as praise for a week. Then a friend who had studied in London told him what it meant in England: not bad. Fine. Nothing more.",
+          "si": "සතියක් තිස්සේ එයා ඒක ප්‍රශංසාවක් විදිහට කියෙව්වා. ඊට පස්සේ ලන්ඩනයේ ඉගෙන ගත්ත යාළුවෙක් කිව්වා එංගලන්තයේ ඒකේ තේරුම මොකක්ද කියලා: නරක නෑ. හරි. ඊට වඩා නෑ."
+        },
+        {
+          "en": "He was annoyed for about an hour. Then he decided it was the most useful thing anyone had told him about English, and asked her what \"improving\" meant as well.",
+          "si": "පැයක් විතර එයාට අමනාපයි. ඊට පස්සේ එයා තීරණය කළා ඉංග්‍රීසි ගැන කවුරු හරි කියපු ප්‍රයෝජනවත්ම දේ ඒක කියලා, සහ \"improving\" කියන එකේ තේරුමත් ඇහුවා."
+        },
+        {
+          "en": "She said it meant she expected more from him next time. He got \"very good\" in March, and kept the paper.",
+          "si": "ඇය කිව්වා ඊළඟ පාර එයාගෙන් වැඩි දෙයක් බලාපොරොත්තු වෙනවා කියන එක කියලා. මාර්තුවේ එයාට \"very good\" ලැබුණා, ඒ කොළය එයා තියාගත්තා."
+        }
+      ],
+      "glossary": [
+        {
+          "en": "essay",
+          "si": "රචනය"
+        },
+        {
+          "en": "praise",
+          "si": "ප්‍රශංසාව"
+        },
+        {
+          "en": "improving",
+          "si": "දියුණු වෙමින්"
+        },
+        {
+          "en": "expect",
+          "si": "බලාපොරොත්තු වෙනවා"
+        }
+      ],
+      "questionsSi": [
+        "'Quite good' කියන එකේ තේරුම එංගලන්තයේ මොකක්ද?",
+        "තරිඳු මුලින් ඒක තේරුම් ගත්තේ කොහොමද?",
+        "ඔයාට 'quite good' කිව්වොත් මොකද හිතන්නේ?"
+      ]
+    },
+    {
+      "type": "tip",
+      "title": "very or absolutely?",
+      "titleSi": "very ද, absolutely ද?",
+      "bodySi": "විශේෂණයේම 'ගොඩක්' කියන අර්ථය තියෙනවා නම් — very එපා.\n\n✗ very huge → ✓ absolutely huge\n✗ very freezing → ✓ absolutely freezing\n✗ very delicious → ✓ absolutely delicious\n✗ very exhausted → ✓ completely exhausted\n\nසාමාන්‍ය විශේෂණවලට very හරි: very big, very cold, very tired, very good.\n\nඅවිනිශ්චිත නම් really යොදන්න — ඒක දෙපැත්තටම යනවා: 'really cold' ✓, 'really freezing' ✓.",
+      "body": "If the adjective already contains very, use absolutely or completely. really works with both, so it is the safe choice."
+    },
+    {
+      "type": "practice",
+      "title": "too, very or enough?",
+      "titleSi": "too ද, very ද, enough ද?",
+      "instructionSi": "හිස් තැනට ගැලපෙන වචනය දාන්න.",
+      "items": [
+        {
+          "prompt": "The tea is ___ hot to drink. Wait a minute.",
+          "answer": "too",
+          "hintSi": "බොන්න බෑ — ප්‍රශ්නයක්.",
+          "full": "The tea is too hot to drink."
+        },
+        {
+          "prompt": "The tea is ___ hot, just the way I like it.",
+          "answer": "very",
+          "hintSi": "ගොඩක් — ඒත් කමක් නෑ.",
+          "full": "The tea is very hot, just the way I like it."
+        },
+        {
+          "prompt": "Is the water warm ___ for the baby?",
+          "answer": "enough",
+          "hintSi": "විශේෂණයට පස්සේ.",
+          "full": "Is the water warm enough for the baby?"
+        },
+        {
+          "prompt": "Do we have ___ chairs for everyone?",
+          "answer": "enough",
+          "hintSi": "නාම පදයට කලින්.",
+          "full": "Do we have enough chairs for everyone?"
+        },
+        {
+          "prompt": "The soup was ___ delicious — I had three bowls. (not 'very')",
+          "answer": "absolutely",
+          "hintSi": "'delicious' බලවත් විශේෂණයක්.",
+          "full": "The soup was absolutely delicious."
+        },
+        {
+          "prompt": "He isn't old ___ to drive yet.",
+          "answer": "enough",
+          "hintSi": "'too young' එකේ අනිත් පැත්ත.",
+          "full": "He isn't old enough to drive yet."
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "b1-29-q1",
+      "q": "'very' සහ 'too' අතර වෙනස?",
+      "options": [
+        "වෙනසක් නෑ",
+        "very = ගොඩක් (කමක් නෑ); too = ඕනවට වඩා (ප්‍රශ්නයක්)",
+        "too වඩා ආචාරශීලීයි",
+        "very බලවත්"
+      ],
+      "answer": 1,
+      "explainSi": "'too' එකේ හැමවිටම අවහිරයක් තියෙනවා."
+    },
+    {
+      "id": "b1-29-q2",
+      "q": "'තේ බොන්න බැරි තරම් උණුයි' — කොහොමද?",
+      "options": [
+        "The tea is very hot to drink.",
+        "The tea is too hot to drink.",
+        "The tea is enough hot to drink.",
+        "The tea is hot too to drink."
+      ],
+      "answer": 1,
+      "explainSi": "too + විශේෂණය + to + ක්‍රියාව.",
+      "speak": "The tea is too hot to drink."
+    },
+    {
+      "id": "b1-29-q3",
+      "q": "කුමන එක වැරදිද?",
+      "options": [
+        "very cold",
+        "very tired",
+        "very freezing",
+        "very good"
+      ],
+      "answer": 2,
+      "explainSi": "'freezing' බලවත් විශේෂණයක් — 'absolutely freezing'."
+    },
+    {
+      "id": "b1-29-q4",
+      "q": "බලවත් විශේෂණවලට යෙදෙන්නේ?",
+      "options": [
+        "very",
+        "absolutely / completely",
+        "quite a bit",
+        "enough"
+      ],
+      "answer": 1,
+      "explainSi": "absolutely huge, completely exhausted."
+    },
+    {
+      "id": "b1-29-q5",
+      "q": "'enough' විශේෂණයක් එක්ක යන්නේ කොහෙද?",
+      "options": [
+        "කලින්",
+        "පස්සේ",
+        "වාක්‍යය අගට",
+        "වාක්‍යය මුලට"
+      ],
+      "answer": 1,
+      "explainSi": "'warm enough' ✓, 'enough warm' ✗."
+    },
+    {
+      "id": "b1-29-q6",
+      "q": "'enough' නාම පදයක් එක්ක යන්නේ කොහෙද?",
+      "options": [
+        "කලින්",
+        "පස්සේ",
+        "අගට",
+        "කොහෙද වුණත්"
+      ],
+      "answer": 0,
+      "explainSi": "'enough chairs' ✓, 'chairs enough' ✗."
+    },
+    {
+      "id": "b1-29-q7",
+      "q": "'He is not enough old' — වැරැද්ද?",
+      "options": [
+        "'old' වැරදියි",
+        "'enough' විශේෂණයට පස්සේ යන්න ඕන",
+        "'not' වැරදියි",
+        "වැරැද්දක් නෑ"
+      ],
+      "answer": 1,
+      "explainSi": "'He is not old enough.'"
+    },
+    {
+      "id": "b1-29-q8",
+      "q": "'He's too young to vote' එකට සමාන එක?",
+      "options": [
+        "He's old enough to vote.",
+        "He isn't old enough to vote.",
+        "He's very young to vote.",
+        "He's enough young to vote."
+      ],
+      "answer": 1,
+      "explainSi": "too … to සහ not … enough to — එකම දේ, දෙපැත්තෙන්."
+    },
+    {
+      "id": "b1-29-q9",
+      "q": "බ්‍රිතාන්‍ය ඉංග්‍රීසියෙන් 'quite good' කියන්නේ?",
+      "options": [
+        "ගොඩක් හොඳයි",
+        "නරක නෑ — ලොකුවට නෙවෙයි",
+        "හරිම නරකයි",
+        "සම්පූර්ණයෙන් හොඳයි"
+      ],
+      "answer": 1,
+      "explainSi": "සාමාන්‍ය විශේෂණයක් එක්ක 'quite' අර්ථය අඩු කරනවා."
+    },
+    {
+      "id": "b1-29-q10",
+      "q": "'quite brilliant' කියන්නේ?",
+      "options": [
+        "තරමක් අපූරුයි",
+        "සම්පූර්ණයෙන්ම අපූරුයි",
+        "නරක නෑ",
+        "අපූරු නෑ"
+      ],
+      "answer": 1,
+      "explainSi": "බලවත් විශේෂණයක් එක්ක 'quite' අර්ථය වැඩි කරනවා."
+    },
+    {
+      "id": "b1-29-q11",
+      "q": "අවිනිශ්චිත නම් ආරක්ෂිතම intensifier එක?",
+      "options": [
+        "quite",
+        "too",
+        "really",
+        "enough"
+      ],
+      "answer": 2,
+      "explainSi": "'really' සාමාන්‍ය සහ බලවත් දෙකටම යෙදෙනවා."
+    },
+    {
+      "id": "b1-29-q12",
+      "q": "'The film was too good' — ප්‍රශ්නය?",
+      "options": [
+        "ප්‍රශ්නයක් නෑ",
+        "'too' කියන්නේ ප්‍රශ්නයක් — ඔයාට කියන්න ඕන දේ නෙවෙයි",
+        "'good' වැරදියි",
+        "'film' වැරදියි"
+      ],
+      "answer": 1,
+      "explainSi": "'very good' කියන්න."
+    },
+    {
+      "id": "b1-29-q13",
+      "q": "දුර්වලම ඉඳන් බලවත්ම දක්වා පිළිවෙළ?",
+      "options": [
+        "very → quite → a bit → extremely",
+        "a bit → quite → very → extremely",
+        "extremely → very → quite → a bit",
+        "quite → a bit → extremely → very"
+      ],
+      "answer": 1,
+      "explainSi": "a bit → quite → very → really → extremely."
+    },
+    {
+      "id": "b1-29-q14",
+      "q": "හිස් තැනට: 'Do we have ___ time?'",
+      "options": [
+        "time enough",
+        "enough",
+        "too",
+        "very"
+      ],
+      "answer": 1,
+      "explainSi": "නාම පදයට කලින් — 'enough time'."
+    },
+    {
+      "id": "b1-29-q15",
+      "q": "'I'm starving' කියන එකට 'very' යෙදෙනවාද?",
+      "options": [
+        "ඔව්",
+        "නෑ — 'starving' බලවත් විශේෂණයක්",
+        "ඔව්, ප්‍රශ්නවලට විතරක්",
+        "ඔව්, ලියන එකට විතරක්"
+      ],
+      "answer": 1,
+      "explainSi": "'absolutely starving' නැත්නම් හුදෙක් 'starving'."
+    },
+    {
+      "id": "b1-29-q16",
+      "q": "'This is too difficult ___ me.'",
+      "options": [
+        "to",
+        "for",
+        "of",
+        "with"
+      ],
+      "answer": 1,
+      "explainSi": "කෙනෙකුට නම් 'too … for'."
+    },
+    {
+      "id": "b1-29-q17",
+      "q": "ඇමරිකානු ඉංග්‍රීසියෙන් 'quite good' කියන්නේ?",
+      "options": [
+        "නරක නෑ",
+        "ගොඩක් හොඳයි",
+        "නරකයි",
+        "සාමාන්‍යයි"
+      ],
+      "answer": 1,
+      "explainSi": "එංගලන්තයේ ඒක මධ්‍යස්ථයි — රටවල් දෙකක්, අර්ථ දෙකක්."
+    },
+    {
+      "id": "b1-29-q18",
+      "q": "සිංහල 'ගොඩක් හොඳයි' කියන එකට ඉංග්‍රීසිය?",
+      "options": [
+        "too good",
+        "very good",
+        "enough good",
+        "quite good"
+      ],
+      "answer": 1,
+      "explainSi": "'too' යොදන එක බහුලම වැරදිවලින් එකක්."
+    }
+  ],
+  "vocab": [
+    {
+      "en": "a bit",
+      "si": "ටිකක්",
+      "say": "අ බිට්",
+      "exampleEn": "It's a bit cold.",
+      "exampleSi": "ටිකක් සීතලයි."
+    },
+    {
+      "en": "quite",
+      "si": "තරමක් දුරට",
+      "say": "ක්වයිට්",
+      "exampleEn": "It was quite good.",
+      "exampleSi": "ඒක නරක නෑ."
+    },
+    {
+      "en": "very",
+      "si": "ගොඩක්",
+      "say": "වෙරි",
+      "exampleEn": "It's very hot today.",
+      "exampleSi": "අද ගොඩක් උණුසුම්."
+    },
+    {
+      "en": "really",
+      "si": "හරිම",
+      "say": "රියලි",
+      "exampleEn": "That's really kind of you.",
+      "exampleSi": "ඒක හරිම කරුණාවන්තයි."
+    },
+    {
+      "en": "extremely",
+      "si": "අතිශයින්",
+      "say": "එක්ස්ට්‍රීම්ලි",
+      "exampleEn": "Extremely useful.",
+      "exampleSi": "අතිශයින් ප්‍රයෝජනවත්."
+    },
+    {
+      "en": "absolutely",
+      "si": "සම්පූර්ණයෙන්ම",
+      "say": "ඇබ්සලූට්ලි",
+      "exampleEn": "Absolutely freezing.",
+      "exampleSi": "සම්පූර්ණයෙන්ම ශීතලයි."
+    },
+    {
+      "en": "too",
+      "si": "ඕනවට වඩා",
+      "say": "ටූ",
+      "exampleEn": "Too hot to drink.",
+      "exampleSi": "බොන්න බැරි තරම් උණුයි."
+    },
+    {
+      "en": "enough",
+      "si": "ප්‍රමාණවත්",
+      "say": "ඉනෆ්",
+      "exampleEn": "Is it warm enough?",
+      "exampleSi": "ඇති තරම් උණුසුම්ද?"
+    },
+    {
+      "en": "not enough",
+      "si": "මදි",
+      "say": "නොට් ඉනෆ්",
+      "exampleEn": "That's not enough.",
+      "exampleSi": "ඒක මදි."
+    },
+    {
+      "en": "huge",
+      "si": "අති විශාල",
+      "say": "හියුජ්",
+      "exampleEn": "The crowd was huge.",
+      "exampleSi": "සෙනඟ අති විශාලයි."
+    },
+    {
+      "en": "freezing",
+      "si": "ශීතලයි",
+      "say": "ෆ්‍රීසින්",
+      "exampleEn": "It's freezing in here.",
+      "exampleSi": "මෙතන ශීතලයි."
+    },
+    {
+      "en": "starving",
+      "si": "බඩගින්නෙන්",
+      "say": "ස්ටාවින්",
+      "exampleEn": "I'm starving.",
+      "exampleSi": "මට හරිම බඩගිනියි."
+    },
+    {
+      "en": "delicious",
+      "si": "ඉතා රසයි",
+      "say": "ඩිලිෂස්",
+      "exampleEn": "The rice was delicious.",
+      "exampleSi": "බත් ඉතා රසයි."
+    },
+    {
+      "en": "exhausted",
+      "si": "වෙහෙසයි",
+      "say": "එග්සෝස්ටඩ්",
+      "exampleEn": "We were exhausted.",
+      "exampleSi": "අපි වෙහෙසට පත් වුණා."
+    },
+    {
+      "en": "hardly",
+      "si": "කිසිසේත් නෑ තරම්",
+      "say": "හාඩ්ලි",
+      "exampleEn": "I could hardly hear him.",
+      "exampleSi": "එයාගේ කථාව මට ඇහුණේම නෑ තරම්."
+    },
+    {
+      "en": "plenty of",
+      "si": "ඕන තරම්",
+      "say": "ප්ලෙන්ටි ඔෆ්",
+      "exampleEn": "There's plenty of time.",
+      "exampleSi": "ඕන තරම් වෙලාව තියෙනවා."
+    }
+  ]
+}

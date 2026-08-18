@@ -1,0 +1,485 @@
+{
+  "hero": {
+    "src": "images/b1-07-hero.webp",
+    "alt": "Ruwan mid discussion at a table, leaning forward with an open palm making a point, teacups and a notebook in front of him."
+  },
+  "goalsSi": [
+    "අදහසක් ප්‍රකාශ කිරීමේ වාක්‍ය ඛණ්ඩ",
+    "එකඟ වීම සහ ආචාරශීලීව විරුද්ධ වීම",
+    "හේතු ඉදිරිපත් කිරීම සහ උදාහරණ දීම",
+    "සරල තර්කයක් ගොඩනැගීම"
+  ],
+  "goals": [
+    "Give your opinion clearly",
+    "Agree and disagree politely",
+    "Support an opinion with reasons and examples"
+  ],
+  "sections": [
+    {
+      "type": "note",
+      "title": "Opinions need structure",
+      "titleSi": "අදහසකට ව්‍යුහයක් ඕන",
+      "bodySi": "In English, an opinion is usually built in three steps. This structure works in conversation, in exams and in writing.\n\nඉංග්‍රීසියෙන් අදහසක් සාමාන්‍යයෙන් පියවර තුනකින් ගොඩනගනවා:\n\n1. Opinion — ඔබේ අදහස කියන්න\n2. Reason — ඇයි කියලා කියන්න\n3. Example — උදාහරණයක් දෙන්න\n\n\"I think students should learn a second language. This is because it opens more job opportunities. For example, my cousin got a job in Dubai only because she spoke good English.\"\n\nමේ ව්‍යුහය IELTS වගේ විභාග වලදීත් ඉතා ප්‍රයෝජනවත්.",
+      "body": "Opinion → Reason → Example. This structure works everywhere."
+    },
+    {
+      "type": "grammar",
+      "title": "Giving your opinion",
+      "titleSi": "අදහස ප්‍රකාශ කිරීම",
+      "explainSi": "Some phrases are neutral, some are stronger, and some are careful (we call this 'hedging'). Choose according to how sure you are.",
+      "table": {
+        "headers": [
+          "Strength",
+          "Phrase",
+          "සිංහල"
+        ],
+        "rows": [
+          [
+            "Neutral",
+            "I think (that) …",
+            "මම හිතනවා …"
+          ],
+          [
+            "Neutral",
+            "In my opinion, …",
+            "මගේ අදහසේ හැටියට …"
+          ],
+          [
+            "Personal",
+            "Personally, I feel …",
+            "පෞද්ගලිකව මට දැනෙනවා …"
+          ],
+          [
+            "Strong",
+            "I'm convinced that …",
+            "මට ස්ථිර විශ්වාසයි …"
+          ],
+          [
+            "Strong",
+            "There's no doubt that …",
+            "සැකයක් නෑ …"
+          ],
+          [
+            "Careful",
+            "It seems to me that …",
+            "මට පෙනෙන විදිහට …"
+          ],
+          [
+            "Careful",
+            "I'd say that …",
+            "මම කියන්නේ …"
+          ],
+          [
+            "Asking",
+            "What do you think about …?",
+            "ඔබ … ගැන මොකද හිතන්නේ?"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "In my opinion, public transport should be free for students.",
+          "si": "මගේ අදහසේ හැටියට ශිෂ්‍යයන්ට පොදු ප්‍රවාහනය නොමිලේ විය යුතුයි."
+        },
+        {
+          "en": "It seems to me that people read fewer books nowadays.",
+          "si": "මට පෙනෙන විදිහට දැන් මිනිස්සු පොත් අඩුවෙන් කියවනවා."
+        },
+        {
+          "en": "There's no doubt that exercise improves health.",
+          "si": "ව්‍යායාමයෙන් සෞඛ්‍යය දියුණු වන බවට සැකයක් නෑ."
+        }
+      ],
+      "watchOutSi": "'According to me' කියලා කියන්නේ නෑ — එය වැරදියි. 'According to' යෙදෙන්නේ අනෙක් අයගේ අදහස්වලට: 'According to the doctor …'. ඔබේම අදහසට 'In my opinion' යොදන්න."
+    },
+    {
+      "type": "grammar",
+      "title": "Agreeing and disagreeing",
+      "titleSi": "එකඟ වීම සහ විරුද්ධ වීම",
+      "explainSi": "English speakers rarely say a flat 'No, you are wrong.' It sounds rude. Instead they soften the disagreement first, then give their view.\n\nඉංග්‍රීසි කථා කරන අය කෙළින්ම 'ඔබ වැරදියි' කියන්නේ නෑ. මුලින් ටිකක් මෘදු කරලා පස්සේ තමන්ගේ අදහස කියනවා.",
+      "table": {
+        "headers": [
+          "Function",
+          "Phrase",
+          "සිංහල"
+        ],
+        "rows": [
+          [
+            "Agree",
+            "I agree with you.",
+            "මම එකඟයි."
+          ],
+          [
+            "Agree strongly",
+            "Absolutely! / Exactly!",
+            "හරියටම!"
+          ],
+          [
+            "Agree partly",
+            "You have a point, but …",
+            "ඔබ කියන එකේ තේරුමක් තියෙනවා, නමුත් …"
+          ],
+          [
+            "Soften",
+            "I see what you mean, however …",
+            "ඔබ කියන එක තේරෙනවා, නමුත් …"
+          ],
+          [
+            "Disagree politely",
+            "I'm afraid I don't agree.",
+            "සමාවෙන්න, මම එකඟ නෑ."
+          ],
+          [
+            "Disagree politely",
+            "I'm not sure I agree with that.",
+            "මම ඒකට එකඟද කියලා විශ්වාස නෑ."
+          ],
+          [
+            "Disagree strongly",
+            "I totally disagree.",
+            "මම සම්පූර්ණයෙන්ම විරුද්ධයි."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "I see what you mean, but I think there is another side to this.",
+          "si": "ඔබ කියන එක තේරෙනවා, නමුත් මට හිතෙනවා මේකට තව පැත්තක් තියෙනවා කියලා."
+        },
+        {
+          "en": "You have a point, but it isn't that simple.",
+          "si": "ඔබ කියන එකේ තේරුමක් තියෙනවා, නමුත් ඒක එච්චර සරල නෑ."
+        },
+        {
+          "en": "I'm afraid I don't agree with that at all.",
+          "si": "සමාවෙන්න, මම ඒකට කිසිසේත් එකඟ නෑ."
+        }
+      ]
+    },
+    {
+      "type": "grammar",
+      "title": "Reasons and examples",
+      "titleSi": "හේතු සහ උදාහරණ",
+      "explainSi": "These linking phrases carry your argument forward. Using them makes even simple English sound organised and confident.",
+      "table": {
+        "headers": [
+          "Function",
+          "Phrases"
+        ],
+        "rows": [
+          [
+            "Reason",
+            "because, since, the main reason is that, this is due to"
+          ],
+          [
+            "Example",
+            "for example, for instance, such as, take … for example"
+          ],
+          [
+            "Adding",
+            "moreover, in addition, what is more, besides"
+          ],
+          [
+            "Contrast",
+            "on the other hand, however, nevertheless"
+          ],
+          [
+            "Concluding",
+            "in conclusion, to sum up, overall, all in all"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "Many students struggle with English. This is mainly because they are afraid of making mistakes.",
+          "si": "ශිෂ්‍යයෝ ගොඩක් දෙනෙක් ඉංග්‍රීසියෙන් අමාරුවේ වැටෙනවා. ඒකට ප්‍රධාන හේතුව වැරදි කරන්න බය වීමයි."
+        },
+        {
+          "en": "Some jobs need very good English — nursing, for instance.",
+          "si": "සමහර රැකියාවලට ඉතා හොඳ ඉංග්‍රීසි ඕන — උදාහරණයක් ලෙස හෙද වෘත්තිය."
+        },
+        {
+          "en": "On the other hand, not everyone needs to speak perfectly.",
+          "si": "අනෙක් අතට, හැමෝටම පරිපූර්ණව කතා කරන්න ඕන නෑ."
+        },
+        {
+          "en": "All in all, practice matters more than talent.",
+          "si": "සමස්තයක් ලෙස, කුසලතාවට වඩා පුහුණුව වැදගත්."
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "Should children have smartphones?",
+      "titleSi": "ළමයින්ට ස්මාර්ට් දුරකථන දිය යුතුද?",
+      "settingSi": "Two teachers discuss a common question. Notice how they disagree without being rude.",
+      "lines": [
+        {
+          "speaker": "Nadeeka",
+          "en": "In my opinion, children under fourteen shouldn't have smartphones at all.",
+          "si": "මගේ අදහසේ හැටියට අවුරුදු දාහතරට අඩු ළමයින්ට ස්මාර්ට් දුරකථන කිසිසේත් නොදිය යුතුයි."
+        },
+        {
+          "speaker": "Ruwan",
+          "en": "That's quite strong. Why do you feel that way?",
+          "si": "ඒක ටිකක් ශක්තිමත් අදහසක්. ඇයි ඔබට එහෙම දැනෙන්නේ?"
+        },
+        {
+          "speaker": "Nadeeka",
+          "en": "Mainly because it affects their sleep. For example, half my class comes in tired every Monday.",
+          "si": "ප්‍රධාන වශයෙන් ඒක ඔවුන්ගේ නින්දට බලපානවා. උදාහරණයක් ලෙස මගේ පන්තියේ බාගයක් හැම සඳුදාවකම මහන්සියෙන් එනවා."
+        },
+        {
+          "speaker": "Ruwan",
+          "en": "You have a point there. However, phones also help them learn.",
+          "si": "ඔබ කියන එකේ තේරුමක් තියෙනවා. නමුත් දුරකථන ඔවුන්ට ඉගෙන ගන්නත් උදව් වෙනවා."
+        },
+        {
+          "speaker": "Nadeeka",
+          "en": "Do they? I'm not sure I agree. Most of them are watching videos, not studying.",
+          "si": "එහෙමද? මම ඒකට එකඟද කියලා විශ්වාස නෑ. ඔවුන්ගෙන් වැඩි දෙනෙක් වීඩියෝ බලනවා, ඉගෙන ගන්නේ නෑ."
+        },
+        {
+          "speaker": "Ruwan",
+          "en": "That's true for some. On the other hand, my daughter learned English mostly from her phone.",
+          "si": "සමහරුන්ට ඒක ඇත්ත. අනෙක් අතට මගේ දුව ඉංග්‍රීසි ඉගෙන ගත්තේ බොහෝ දුරට එයාගේ දුරකථනෙන්."
+        },
+        {
+          "speaker": "Nadeeka",
+          "en": "I see what you mean. Perhaps the problem isn't the phone but the rules around it.",
+          "si": "ඔබ කියන එක තේරෙනවා. සමහරවිට ප්‍රශ්නය දුරකථනය නෙවෙයි, ඒක වටා ඇති නීති වෙන්න ඇති."
+        },
+        {
+          "speaker": "Ruwan",
+          "en": "Exactly. All in all, I'd say it depends on the parents, not the device.",
+          "si": "හරියටම. සමස්තයක් ලෙස මම කියන්නේ ඒක උපකරණය නෙවෙයි, දෙමාපියන් මතයි කියලා."
+        }
+      ]
+    },
+    {
+      "type": "tip",
+      "title": "The three-sentence answer",
+      "titleSi": "වාක්‍ය තුනේ පිළිතුර",
+      "bodySi": "ඕනෑම අදහසක් ඇසූ විට මේ ආකෘතිය පාවිච්චි කරන්න. විභාග සම්මුඛ පරීක්ෂණවලදී මෙය ඉතා ප්‍රයෝජනවත්:\n\n1. \"In my opinion, …\" (අදහස)\n2. \"This is mainly because …\" (හේතුව)\n3. \"For example, …\" (උදාහරණය)\n\nවාක්‍ය තුනයි. නමුත් ඒවා ඔබේ පිළිතුර සංවිධානාත්මක සහ විශ්වාසදායක කරනවා. එක වචනයකින් උත්තර දෙනවාට වඩා මේක සෑම විටම හොඳයි.",
+      "body": "Opinion, reason, example. Three sentences will always sound organised."
+    },
+    {
+      "type": "practice",
+      "title": "Choose the phrase",
+      "titleSi": "වාක්‍ය ඛණ්ඩය තෝරන්න",
+      "instructionSi": "නිවැරදි වචනය හෝ වාක්‍ය ඛණ්ඩය ලියන්න.",
+      "items": [
+        {
+          "prompt": "___ my opinion, the exam was too long.",
+          "answer": "in",
+          "hintSi": "අදහසක් හඳුන්වන යෙදුම.",
+          "full": "In my opinion, the exam was too long."
+        },
+        {
+          "prompt": "Some jobs need good English — nursing, for ___ .",
+          "answer": "instance",
+          "hintSi": "'for example' වලට සමාන වචනයක්.",
+          "full": "Some jobs need good English — nursing, for instance."
+        },
+        {
+          "prompt": "I'm ___ I don't agree with you. (ආචාරශීලීව)",
+          "answer": "afraid",
+          "hintSi": "ආචාරශීලීව විරුද්ධ වන යෙදුම.",
+          "full": "I'm afraid I don't agree with you."
+        },
+        {
+          "prompt": "You have a ___, but it isn't that simple.",
+          "answer": "point",
+          "hintSi": "අර්ධ වශයෙන් එකඟ වීම.",
+          "full": "You have a point, but it isn't that simple."
+        },
+        {
+          "prompt": "___ the other hand, buses are cheaper.",
+          "answer": "on",
+          "hintSi": "විරුද්ධ පැත්ත ඉදිරිපත් කරන යෙදුම.",
+          "full": "On the other hand, buses are cheaper."
+        },
+        {
+          "prompt": "All in ___, practice matters most. (අවසන් කිරීම)",
+          "answer": "all",
+          "hintSi": "සමස්තයක් ලෙස.",
+          "full": "All in all, practice matters most."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "en": "opinion",
+      "si": "අදහස"
+    },
+    {
+      "en": "agree",
+      "si": "එකඟ වෙනවා"
+    },
+    {
+      "en": "disagree",
+      "si": "විරුද්ධ වෙනවා"
+    },
+    {
+      "en": "reason",
+      "si": "හේතුව"
+    },
+    {
+      "en": "example",
+      "si": "උදාහරණය"
+    },
+    {
+      "en": "however",
+      "si": "නමුත්"
+    },
+    {
+      "en": "moreover",
+      "si": "තවද"
+    },
+    {
+      "en": "affect",
+      "si": "බලපානවා"
+    },
+    {
+      "en": "depend on",
+      "si": "රඳා පවතිනවා"
+    },
+    {
+      "en": "device",
+      "si": "උපකරණය"
+    },
+    {
+      "en": "perhaps",
+      "si": "සමහරවිට"
+    },
+    {
+      "en": "doubt",
+      "si": "සැකය"
+    },
+    {
+      "en": "improve",
+      "si": "දියුණු කරනවා"
+    },
+    {
+      "en": "struggle",
+      "si": "අමාරුවේ වැටෙනවා"
+    },
+    {
+      "en": "opportunity",
+      "si": "අවස්ථාව"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "b1-07-q1",
+      "q": "Which phrase is WRONG in English?",
+      "qSi": "ඉංග්‍රීසියෙන් වැරදි යෙදුම කුමක්ද?",
+      "options": [
+        "In my opinion, …",
+        "According to me, …",
+        "Personally, I feel …",
+        "It seems to me that …"
+      ],
+      "answer": 1,
+      "explainSi": "'According to me' වැරදියි. 'According to' යෙදෙන්නේ අනෙක් අයට: 'According to the report …'. ඔබේ අදහසට 'In my opinion'.",
+      "speak": "In my opinion, not according to me."
+    },
+    {
+      "id": "b1-07-q2",
+      "q": "Which is the most POLITE way to disagree?",
+      "qSi": "වඩාත්ම ආචාරශීලීව විරුද්ධ වන ක්‍රමය?",
+      "options": [
+        "You are wrong.",
+        "No, that's not true.",
+        "I'm afraid I don't quite agree.",
+        "I totally disagree."
+      ],
+      "answer": 2,
+      "explainSi": "'I'm afraid I don't quite agree' යනු මෘදු, ආචාරශීලී ස්වරූපයයි.",
+      "speak": "I'm afraid I don't quite agree."
+    },
+    {
+      "id": "b1-07-q3",
+      "q": "What is the recommended three-step structure for an opinion?",
+      "qSi": "අදහසක් ගොඩනගන පියවර තුන?",
+      "options": [
+        "Reason → Opinion → Question",
+        "Opinion → Reason → Example",
+        "Example → Question → Opinion",
+        "Opinion → Opinion → Opinion"
+      ],
+      "answer": 1,
+      "explainSi": "අදහස, හේතුව, උදාහරණය — මේ පිළිවෙළ විභාග සහ සංවාද දෙකටම හොඳයි."
+    },
+    {
+      "id": "b1-07-q4",
+      "q": "'You have a point, but …' shows that you:",
+      "qSi": "මෙම යෙදුමෙන් පෙන්නන්නේ?",
+      "options": [
+        "completely agree",
+        "partly agree, then give another view",
+        "did not understand",
+        "are angry"
+      ],
+      "answer": 1,
+      "explainSi": "අර්ධ වශයෙන් එකඟ වී පසුව වෙනස් අදහසක් ඉදිරිපත් කරයි — ආචාරශීලී ක්‍රමයක්.",
+      "speak": "You have a point, but it isn't that simple."
+    },
+    {
+      "id": "b1-07-q5",
+      "q": "Which phrase introduces a CONTRASTING idea?",
+      "qSi": "විරුද්ධ අදහසක් හඳුන්වන යෙදුම?",
+      "options": [
+        "moreover",
+        "for instance",
+        "on the other hand",
+        "in addition"
+      ],
+      "answer": 2,
+      "explainSi": "'On the other hand' යනු අනෙක් පැත්ත ඉදිරිපත් කිරීමයි. 'moreover' සහ 'in addition' අදහසක් එකතු කරයි.",
+      "speak": "On the other hand, buses are cheaper."
+    },
+    {
+      "id": "b1-07-q6",
+      "q": "Which phrase would you use to CONCLUDE?",
+      "qSi": "අවසන් කිරීමට යොදන යෙදුම?",
+      "options": [
+        "For example",
+        "All in all",
+        "Because",
+        "Such as"
+      ],
+      "answer": 1,
+      "explainSi": "'All in all', 'to sum up', 'in conclusion' — අවසන් කිරීමට.",
+      "speak": "All in all, practice matters more than talent."
+    },
+    {
+      "id": "b1-07-q7",
+      "q": "'Such as' is used to introduce:",
+      "qSi": "'Such as' යෙදෙන්නේ කුමකටද?",
+      "options": [
+        "a reason",
+        "an example",
+        "a conclusion",
+        "a contrast"
+      ],
+      "answer": 1,
+      "explainSi": "'such as' යනු උදාහරණයක් හඳුන්වයි: 'fruits such as mango and papaya'.",
+      "speak": "fruits such as mango and papaya"
+    },
+    {
+      "id": "b1-07-q8",
+      "q": "In the dialogue, what did the two teachers finally agree on?",
+      "qSi": "අවසානයේ ගුරුවරු දෙදෙනා එකඟ වූයේ කුමකටද?",
+      "options": [
+        "Phones should be banned completely",
+        "The problem is the rules and the parents, not the device itself",
+        "Children learn nothing from phones",
+        "Phones improve sleep"
+      ],
+      "answer": 1,
+      "explainSi": "'Perhaps the problem isn't the phone but the rules around it' සහ 'it depends on the parents, not the device'."
+    }
+  ]
+}

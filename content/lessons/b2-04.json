@@ -1,0 +1,497 @@
+{
+  "hero": {
+    "src": "images/b2-04-hero.webp",
+    "alt": "Ruwan holding a phone to his ear mid call and gesturing with his free hand as he repeats what someone told him, standing at an office window with a desk beside him, a plant on the sill, bright daylight through the glass."
+  },
+  "goalsSi": [
+    "Reported speech හි කාල පසුබැසීම (backshift)",
+    "ප්‍රශ්න සහ විධාන වාර්තා කිරීම",
+    "say, tell, ask සහ වෙනත් reporting verbs",
+    "who, which, that සමඟ relative clauses"
+  ],
+  "goals": [
+    "Report what someone said",
+    "Report questions and commands",
+    "Join sentences with relative clauses"
+  ],
+  "sections": [
+    {
+      "type": "note",
+      "title": "One step back in time",
+      "titleSi": "කාලයෙන් එක් පියවරක් පිටුපසට",
+      "bodySi": "When you report what someone said earlier, the tense usually moves one step back into the past. This is called backshift.\n\nකලින් යමෙකු කී දෙයක් වාර්තා කරද්දී කාලය සාමාන්‍යයෙන් එක් පියවරක් අතීතයට යනවා.\n\nDirect: \"I am tired,\" she said.\nReported: She said (that) she WAS tired.\n\nපුද්ගල සර්වනාම සහ ස්ථාන/කාල වචනත් වෙනස් වෙනවා:\n• I → he / she\n• now → then\n• today → that day\n• tomorrow → the next day\n• here → there\n• this → that",
+      "body": "Reported speech usually moves the tense one step back."
+    },
+    {
+      "type": "grammar",
+      "title": "Backshift table",
+      "titleSi": "කාල පසුබැසීමේ වගුව",
+      "explainSi": "Learn this table and reported speech becomes mechanical.",
+      "table": {
+        "headers": [
+          "Direct speech",
+          "Reported speech"
+        ],
+        "rows": [
+          [
+            "\"I work here.\"",
+            "He said he worked there."
+          ],
+          [
+            "\"I am working.\"",
+            "He said he was working."
+          ],
+          [
+            "\"I worked yesterday.\"",
+            "He said he had worked the day before."
+          ],
+          [
+            "\"I have finished.\"",
+            "He said he had finished."
+          ],
+          [
+            "\"I will come.\"",
+            "He said he would come."
+          ],
+          [
+            "\"I can swim.\"",
+            "He said he could swim."
+          ],
+          [
+            "\"I may go.\"",
+            "He said he might go."
+          ],
+          [
+            "\"I must leave.\"",
+            "He said he had to leave."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "\"I am busy today,\" he said. → He said he was busy that day.",
+          "si": "\"මම අද කාර්යබහුලයි,\" එයා කිව්වා. → එයා කිව්වා ඒ දවසේ එයා කාර්යබහුල බව."
+        },
+        {
+          "en": "\"We will help you,\" they said. → They said they would help me.",
+          "si": "\"අපි ඔබට උදව් කරන්නම්,\" ඔවුන් කිව්වා. → ඔවුන් කිව්වා මට උදව් කරන බව."
+        },
+        {
+          "en": "\"I have lost my keys.\" → She said she had lost her keys.",
+          "si": "\"මගේ යතුරු නැති වුණා.\" → එයා කිව්වා එයාගේ යතුරු නැති වුණු බව."
+        }
+      ],
+      "watchOutSi": "සදාකාලික සත්‍යයක් නම් backshift අවශ්‍ය නෑ: 'She said that water boils at 100°C.' තවද වාර්තා කරන්නේ දැන්මම නම් backshift නොකර තිබෙන්නත් පුළුවන්."
+    },
+    {
+      "type": "grammar",
+      "title": "say, tell and ask",
+      "titleSi": "say, tell සහ ask",
+      "explainSi": "These three verbs are not interchangeable, and choosing wrongly is a very common mistake.\n\n• say — කාටද කියලා නොකියා: He said that …\n• tell — කාටද කියලා අනිවාර්යයෙන්: He told ME that …\n• ask — ප්‍රශ්න සහ ඉල්ලීම්: He asked me if …\n\n✗ He said me that … — වැරදියි\n✓ He told me that … / He said that …",
+      "formula": "say + (that)   ·   tell + person + (that)   ·   ask + person + if/whether",
+      "table": {
+        "headers": [
+          "Reporting verb",
+          "Pattern",
+          "Example"
+        ],
+        "rows": [
+          [
+            "say",
+            "say (that) + clause",
+            "She said (that) she was tired."
+          ],
+          [
+            "tell",
+            "tell + person + (that)",
+            "She told me (that) she was tired."
+          ],
+          [
+            "ask (yes/no Q)",
+            "ask + person + if / whether",
+            "He asked me if I was ready."
+          ],
+          [
+            "ask (wh- Q)",
+            "ask + person + wh-word",
+            "He asked me where I lived."
+          ],
+          [
+            "ask / tell (command)",
+            "+ person + to + verb",
+            "She told me to wait. He asked me to sit down."
+          ],
+          [
+            "advise / warn / remind",
+            "+ person + to + verb",
+            "The doctor advised him to rest."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "She told me that the shop was closed.",
+          "si": "එයා මට කිව්වා කඩේ වහලා කියලා."
+        },
+        {
+          "en": "He asked me if I had finished.",
+          "si": "එයා මගෙන් ඇහුවා මම ඉවර කරලද කියලා."
+        },
+        {
+          "en": "The teacher asked us where we had been.",
+          "si": "ගුරුතුමා අපෙන් ඇහුවා අපි කොහෙද හිටියේ කියලා."
+        },
+        {
+          "en": "She told the children not to run.",
+          "si": "එයා ළමයින්ට කිව්වා දුවන්න එපා කියලා."
+        }
+      ],
+      "watchOutSi": "වාර්තා කරන ප්‍රශ්නවල වචන පිළිවෙළ ප්‍රශ්නයක් වගේ නෑ! 'He asked me where I lived' ✓ නොවේ 'He asked me where did I live' ✗. තවද ප්‍රශ්න ලකුණක් නෑ."
+    },
+    {
+      "type": "grammar",
+      "title": "Relative clauses",
+      "titleSi": "Relative clauses",
+      "explainSi": "A relative clause adds information about a noun, letting you join two short sentences into one.\n\nදෙපිටක් තිබූ තොරතුරු එකම වාක්‍යයකට එකතු කරන්න පුළුවන්.\n\nThe man is my uncle. He lives next door.\n→ The man WHO lives next door is my uncle.\n\n• who — මිනිසුන්ට\n• which — දේවලට සහ සතුන්ට\n• that — දෙකටම (අවිධිමත්)\n• whose — අයිතිය පෙන්නන්න\n• where — ස්ථානවලට\n• when — කාලයට",
+      "table": {
+        "headers": [
+          "Word",
+          "Used for",
+          "Example"
+        ],
+        "rows": [
+          [
+            "who",
+            "people",
+            "The woman who called you is waiting."
+          ],
+          [
+            "which",
+            "things / animals",
+            "The book which I bought is missing."
+          ],
+          [
+            "that",
+            "people or things",
+            "The bus that goes to Galle is late."
+          ],
+          [
+            "whose",
+            "possession",
+            "The boy whose father died won a scholarship."
+          ],
+          [
+            "where",
+            "places",
+            "This is the village where I grew up."
+          ],
+          [
+            "when",
+            "times",
+            "I remember the day when we met."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "The teacher who taught me English has retired.",
+          "si": "මට ඉංග්‍රීසි උගන්නපු ගුරුතුමා විශ්‍රාම ගිහින්."
+        },
+        {
+          "en": "This is the house where my grandmother was born.",
+          "si": "මේක මගේ ආච්චි ඉපදුණු ගෙදර."
+        },
+        {
+          "en": "The film that we watched last night was excellent.",
+          "si": "අපි ඊයේ රෑ බැලූ චිත්‍රපටය අපූරුයි."
+        }
+      ],
+      "watchOutSi": "Relative clause එකේ පසුව සර්වනාමය නැවත යොදන්නේ නෑ: 'The book which I bought IT' ✗ → 'The book which I bought' ✓."
+    },
+    {
+      "type": "story",
+      "title": "What the Neighbour Said",
+      "titleSi": "අසල්වැසියා කී දේ",
+      "introSi": "A short piece where almost every sentence is reported speech.",
+      "paragraphs": [
+        {
+          "en": "When I came home, my neighbour told me that someone had come to the house that morning.",
+          "si": "මම ගෙදර ආවම අසල්වැසියා මට කිව්වා ඒ උදේ කවුරුහරි ගෙදරට ආවා කියලා."
+        },
+        {
+          "en": "I asked her who it was. She said she did not know, but that he was wearing a government uniform.",
+          "si": "මම එයාගෙන් ඇහුවා ඒක කවුද කියලා. එයා කිව්වා දන්නේ නෑ, නමුත් එයා රාජ්‍ය නිල ඇඳුමක් අඳලා හිටියා කියලා."
+        },
+        {
+          "en": "She told me that he had asked several questions: where I worked, how long I had lived there, and whether I owned the house.",
+          "si": "එයා මට කිව්වා ඒ මිනිහා ප්‍රශ්න කීපයක් ඇහුවා කියලා: මම කොහෙද වැඩ කරන්නේ, කොච්චර කාලයක් මෙතන ජීවත් වෙනවද, සහ ගෙදර මගේද කියලා."
+        },
+        {
+          "en": "\"Did you tell him?\" I asked. She smiled and said she had told him that I was a very quiet man who never caused trouble.",
+          "si": "\"ඔබ එයාට කිව්වද?\" මම ඇහුවා. එයා සිනාසිලා කිව්වා එයා ඔහුට කිව්වේ මම කරදරයක් නොකරන ඉතා නිශ්ශබ්ද මිනිසෙක් කියලා."
+        },
+        {
+          "en": "Then she added something that I have never forgotten. She said, \"I have lived beside you for eleven years. That is all anyone needed to ask.\"",
+          "si": "ඊට පස්සේ එයා මම කවදාවත් අමතක නොකරන දෙයක් එකතු කළා. එයා කිව්වා, \"මම අවුරුදු එකොළහක් ඔබ ළඟ ජීවත් වුණා. කවුරු හරි අහන්න ඕන වුණේ ඒක විතරයි.\""
+        }
+      ],
+      "glossary": [
+        {
+          "en": "neighbour",
+          "si": "අසල්වැසියා"
+        },
+        {
+          "en": "uniform",
+          "si": "නිල ඇඳුම"
+        },
+        {
+          "en": "several",
+          "si": "කීපයක්"
+        },
+        {
+          "en": "whether",
+          "si": "…ද කියලා"
+        },
+        {
+          "en": "own",
+          "si": "අයිතිය දරනවා"
+        },
+        {
+          "en": "cause trouble",
+          "si": "කරදර ඇති කරනවා"
+        },
+        {
+          "en": "add",
+          "si": "එකතු කරනවා"
+        },
+        {
+          "en": "beside",
+          "si": "ළඟ"
+        }
+      ],
+      "questionsSi": [
+        "අසල්වැසියා නිලධාරියාට කිව්වේ මොකක්ද?",
+        "'a very quiet man who never caused trouble' — මෙහි relative clause එක කුමක්ද?",
+        "අවසාන වාක්‍යයෙන් කියවෙන ගැඹුරු අර්ථය කුමක්ද?"
+      ]
+    },
+    {
+      "type": "practice",
+      "title": "Report it",
+      "titleSi": "වාර්තා කරන්න",
+      "instructionSi": "නිවැරදි ස්වරූපය ලියන්න.",
+      "items": [
+        {
+          "prompt": "\"I am tired.\" → She said she ___ tired.",
+          "answer": "was",
+          "hintSi": "එක් පියවරක් අතීතයට.",
+          "full": "She said she was tired."
+        },
+        {
+          "prompt": "\"I will call you.\" → He said he ___ call me.",
+          "answer": "would",
+          "hintSi": "will → ?",
+          "full": "He said he would call me."
+        },
+        {
+          "prompt": "He ___ me that the shop was closed. (say / tell)",
+          "answer": "told",
+          "hintSi": "පුද්ගලයෙක් සඳහන් වන නිසා.",
+          "full": "He told me that the shop was closed."
+        },
+        {
+          "prompt": "\"Are you ready?\" → She asked me ___ I was ready.",
+          "answer": "if",
+          "hintSi": "Yes/no ප්‍රශ්නයක්.",
+          "full": "She asked me if I was ready."
+        },
+        {
+          "prompt": "The man ___ lives next door is a doctor.",
+          "answer": "who",
+          "hintSi": "මිනිසෙකුට යෙදෙන වචනය.",
+          "full": "The man who lives next door is a doctor."
+        },
+        {
+          "prompt": "This is the village ___ I grew up.",
+          "answer": "where",
+          "hintSi": "ස්ථානයකට යෙදෙන වචනය.",
+          "full": "This is the village where I grew up."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "en": "report",
+      "si": "වාර්තා කරනවා"
+    },
+    {
+      "en": "mention",
+      "si": "සඳහන් කරනවා"
+    },
+    {
+      "en": "admit",
+      "si": "පිළිගන්නවා"
+    },
+    {
+      "en": "advise",
+      "si": "උපදෙස් දෙනවා"
+    },
+    {
+      "en": "warn",
+      "si": "අනතුරු අඟවනවා"
+    },
+    {
+      "en": "remind",
+      "si": "මතක් කරනවා"
+    },
+    {
+      "en": "whether",
+      "si": "…ද කියලා"
+    },
+    {
+      "en": "uniform",
+      "si": "නිල ඇඳුම"
+    },
+    {
+      "en": "several",
+      "si": "කීපයක්"
+    },
+    {
+      "en": "own",
+      "si": "අයිතිය දරනවා"
+    },
+    {
+      "en": "scholarship",
+      "si": "ශිෂ්‍යත්වය"
+    },
+    {
+      "en": "retire",
+      "si": "විශ්‍රාම යනවා"
+    },
+    {
+      "en": "excellent",
+      "si": "අපූරු"
+    },
+    {
+      "en": "trouble",
+      "si": "කරදරය"
+    },
+    {
+      "en": "quiet",
+      "si": "නිශ්ශබ්ද"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "b2-04-q1",
+      "q": "\"I am tired,\" she said. → Reported:",
+      "qSi": "නිවැරදි වාර්තා කථනය?",
+      "options": [
+        "She said she is tired.",
+        "She said she was tired.",
+        "She said she has been tired.",
+        "She said I was tired."
+      ],
+      "answer": 1,
+      "explainSi": "Backshift: am → was. තවද 'I' → 'she'.",
+      "speak": "She said she was tired."
+    },
+    {
+      "id": "b2-04-q2",
+      "q": "Which sentence is WRONG?",
+      "qSi": "වැරදි වාක්‍යය කුමක්ද?",
+      "options": [
+        "He said that he was busy.",
+        "He told me that he was busy.",
+        "He said me that he was busy.",
+        "He asked me if I was busy."
+      ],
+      "answer": 2,
+      "explainSi": "'say' පසුව කෙළින්ම පුද්ගලයෙක් යොදන්න බෑ. 'He told me' හෝ 'He said that' යොදන්න."
+    },
+    {
+      "id": "b2-04-q3",
+      "q": "\"Where do you live?\" he asked. → Reported:",
+      "qSi": "නිවැරදි වාර්තා ප්‍රශ්නය?",
+      "options": [
+        "He asked me where did I live.",
+        "He asked me where I lived.",
+        "He asked me where do I live?",
+        "He asked where I live?"
+      ],
+      "answer": 1,
+      "explainSi": "වාර්තා කරන ප්‍රශ්නවල වචන පිළිවෙළ සාමාන්‍ය වාක්‍යයක් වගේ, සහ ප්‍රශ්න ලකුණක් නෑ.",
+      "speak": "He asked me where I lived."
+    },
+    {
+      "id": "b2-04-q4",
+      "q": "\"I will help you.\" → He said he ___ help me.",
+      "qSi": "'will' පසුබැසෙන්නේ කුමකටද?",
+      "options": [
+        "will",
+        "would",
+        "shall",
+        "can"
+      ],
+      "answer": 1,
+      "explainSi": "will → would. එලෙසම can → could, may → might, must → had to.",
+      "speak": "He said he would help me."
+    },
+    {
+      "id": "b2-04-q5",
+      "q": "'The book ___ I bought is missing.'",
+      "qSi": "දෙයකට යෙදෙන relative pronoun?",
+      "options": [
+        "who",
+        "which",
+        "whose",
+        "where"
+      ],
+      "answer": 1,
+      "explainSi": "දේවලට 'which' හෝ 'that'. මිනිසුන්ට 'who'.",
+      "speak": "The book which I bought is missing."
+    },
+    {
+      "id": "b2-04-q6",
+      "q": "'The boy ___ father is a doctor won the prize.'",
+      "qSi": "අයිතිය පෙන්නන වචනය?",
+      "options": [
+        "who",
+        "which",
+        "whose",
+        "who's"
+      ],
+      "answer": 2,
+      "explainSi": "'whose' යනු අයිතිය පෙන්නයි. ('who's' යනු 'who is' — වෙනස් දෙයක්.)",
+      "speak": "The boy whose father is a doctor won the prize."
+    },
+    {
+      "id": "b2-04-q7",
+      "q": "To report a command, we use:",
+      "qSi": "විධානයක් වාර්තා කරන්නේ කෙසේද?",
+      "options": [
+        "tell + person + that",
+        "tell / ask + person + to + verb",
+        "say + person + verb",
+        "ask + if + verb"
+      ],
+      "answer": 1,
+      "explainSi": "'Wait here.' → She told me to wait there. 'Please sit.' → He asked me to sit.",
+      "speak": "She told me to wait there."
+    },
+    {
+      "id": "b2-04-q8",
+      "q": "Which sentence needs NO backshift?",
+      "qSi": "Backshift අවශ්‍ය නොවන්නේ කුමකටද?",
+      "options": [
+        "\"I am tired.\"",
+        "\"Water boils at 100°C.\"",
+        "\"I went home.\"",
+        "\"I will call you.\""
+      ],
+      "answer": 1,
+      "explainSi": "සදාකාලික සත්‍යයක් නම් backshift අවශ්‍ය නෑ: 'She said that water boils at 100°C.'"
+    }
+  ]
+}

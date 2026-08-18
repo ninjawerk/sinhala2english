@@ -1,0 +1,19 @@
+{
+  "quiz": [
+    { "id": "u4g-cp-q1", "q": "'very' සහ 'too' අතර වෙනස?", "options": ["වෙනසක් නෑ", "very = ගොඩක් (කමක් නෑ); too = ඕනවට වඩා (ප්‍රශ්නයක්)", "too ආචාරශීලීයි", "very බලවත්"], "answer": 1, "explainSi": "'too' එකේ හැමවිටම අවහිරයක් තියෙනවා." },
+    { "id": "u4g-cp-q2", "q": "කුමන එක වැරදිද?", "options": ["very cold", "very tired", "very freezing", "very good"], "answer": 2, "explainSi": "බලවත් විශේෂණවලට 'absolutely'." },
+    { "id": "u4g-cp-q3", "q": "'enough' විශේෂණයක් එක්ක යන්නේ?", "options": ["කලින්", "පස්සේ", "අගට", "මුලට"], "answer": 1, "explainSi": "'warm enough' ✓, 'enough warm' ✗." },
+    { "id": "u4g-cp-q4", "q": "වැස්සට යෙදෙන්නේ?", "options": ["strong rain", "heavy rain", "big rain", "hard rain"], "answer": 1, "explainSi": "heavy rain; 'strong' යෙදෙන්නේ සුළඟට සහ තේට." },
+    { "id": "u4g-cp-q5", "q": "කුමන එක හරිද?", "options": ["do a mistake", "make a mistake", "take a mistake", "have a mistake"], "answer": 1, "explainSi": "ලංකාවේ බහුලම වැරැද්ද." },
+    { "id": "u4g-cp-q6", "q": "'ගෙදර වැඩ' එක්ක යෙදෙන්නේ?", "options": ["make", "do", "take", "get"], "answer": 1, "explainSi": "do your homework." },
+    { "id": "u4g-cp-q7", "q": "'most people' සහ 'most of the people' —", "options": ["එකම දේ", "පළවෙනි එක පොදුවේ; දෙවෙනි එක නිශ්චිත කණ්ඩායමක්", "දෙවෙනි එක වැරදියි", "පළවෙනි එක වැරදියි"], "answer": 1, "explainSi": "'of the' කිව්වම නිශ්චිත කණ්ඩායමක්." },
+    { "id": "u4g-cp-q8", "q": "'I have few friends here' කියන එකේ හැඟීම?", "options": ["ධනාත්මක", "ඍණාත්මක — යාළුවෝ නෑ තරම්", "මධ්‍යස්ථ", "ප්‍රශ්නයක්"], "answer": 1, "explainSi": "'a' නැති 'few' ඍණාත්මකයි." },
+    { "id": "u4g-cp-q9", "q": "'Every student ___ a book.'", "options": ["need", "needs", "are needing", "have"], "answer": 1, "explainSi": "'every' එකට එකවචනය." },
+    { "id": "u4g-cp-q10", "q": "article වල මූලික නීතිය?", "options": ["දිග වචනවලට the", "අහන කෙනා දන්නවා නම් the; දන්නේ නෑ නම් a/an", "බහුවචනවලට a", "හැමවිටම the"], "answer": 1, "explainSi": "අලුත් → a/an; දන්න → the." },
+    { "id": "u4g-cp-q11", "q": "කුමන එක වැරදිද?", "options": ["some advice", "a piece of advice", "an advice", "the advice"], "answer": 2, "explainSi": "'advice' uncountable — 'a' යෙදෙන්නේ නෑ." },
+    { "id": "u4g-cp-q12", "q": "'I went to shop' — වැරැද්ද?", "options": ["'went' වැරදියි", "ගණන් කරන්න පුළුවන් එකවචනයකට article එකක් ඕන", "'to' වැරදියි", "වැරැද්දක් නෑ"], "answer": 1, "explainSi": "'the shop' නැත්නම් 'a shop'." },
+    { "id": "u4g-cp-q13", "q": "'You mustn't take this medicine' කියන්නේ?", "options": ["ගන්නම ඕන නෑ", "ගන්න එපා — තහනම්", "ගන්න පුළුවන්", "ගන්න ඕන"], "answer": 1, "explainSi": "mustn't = තහනම්; don't have to = අවශ්‍ය නෑ." },
+    { "id": "u4g-cp-q14", "q": "'must' එකේ අතීතය?", "options": ["musted", "had to", "must have", "was must"], "answer": 1, "explainSi": "'I had to wait two hours.'" },
+    { "id": "u4g-cp-q15", "q": "'had better' එකට පස්සේ එන්නේ?", "options": ["to + ක්‍රියාව", "මූලික ක්‍රියාව", "-ing", "past participle"], "answer": 1, "explainSi": "'You'd better go' ✓." }
+  ]
+}

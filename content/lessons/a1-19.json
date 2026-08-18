@@ -1,0 +1,957 @@
+{
+  "hero": {
+    "src": "images/a1-19-hero.webp",
+    "alt": "Nadeesha feeling happy and happy dancing alone in the bed room."
+  },
+  "goalsSi": [
+    "පෙනුම විස්තර කිරීම — tall, short, long hair, glasses",
+    "චරිතය විස්තර කිරීම — kind, quiet, funny, strict",
+    "හැඟීම් කීම — happy, tired, angry, worried",
+    "'I am hungry' — 'I have hunger' නොවන බව",
+    "look සහ feel පසුව විශේෂණය",
+    "very, quite, a bit — මට්ටම් කීම",
+    "What is he like? සහ What does he look like? අතර වෙනස"
+  ],
+  "goals": [
+    "Describe how someone looks",
+    "Describe what someone is like",
+    "Say how you feel",
+    "Grade an adjective with very, quite and a bit"
+  ],
+  "sections": [
+    {
+      "type": "note",
+      "title": "English keeps feelings in 'be'",
+      "titleSi": "ඉංග්‍රීසියේ හැඟීම් 'be' ක්‍රියාවේ",
+      "bodySi": "සිංහලෙන් 'මට බඩගිනියි' කියනවා — දෙයක් ලැබෙනවා වගේ.\n\nඉංග්‍රීසියේ ඒක තත්ත්වයක්, එනිසා 'be' ක්‍රියාව යෙදෙනවා:\n\nI am hungry. ✓\nI have hunger. ✗\n\nඑකම රටාව හැම හැඟීමකටම:\nI am thirsty. — මට තිබහයි.\nI am tired. — මම මහන්සියි.\nI am afraid. — මට බයයි.\nI am cold. — මට සීතලයි.\nI am twenty-six. — මට අවුරුදු විසිහයයි.\n\nඅන්තිම එකත් බලන්න — වයසත් 'be' ක්‍රියාවෙන්. 'I have 26 years' කියලා කියන්නේ නෑ.\n\nඑනිසා නීතිය සරලයි: ඔබ කොහොමද කියලා කියද්දී am/is/are.",
+      "body": "Feelings and age use be, not have."
+    },
+    {
+      "type": "vocab",
+      "title": "How people look",
+      "titleSi": "මිනිස්සු පේන ආකාරය",
+      "items": [
+        {
+          "en": "tall",
+          "si": "උස",
+          "say": "ටෝල්"
+        },
+        {
+          "en": "short",
+          "si": "කොට",
+          "say": "ෂෝට්"
+        },
+        {
+          "en": "young",
+          "si": "තරුණ",
+          "say": "යං"
+        },
+        {
+          "en": "old",
+          "si": "වයසක",
+          "say": "ඕල්ඩ්"
+        },
+        {
+          "en": "thin",
+          "si": "කෙට්ටු",
+          "say": "තින්"
+        },
+        {
+          "en": "strong",
+          "si": "ශක්තිමත්",
+          "say": "ස්ට්‍රෝං"
+        },
+        {
+          "en": "long hair",
+          "si": "දිග කොණ්ඩය",
+          "say": "ලෝං හෙයාර්"
+        },
+        {
+          "en": "grey hair",
+          "si": "පැහුණු කොණ්ඩය",
+          "say": "ග්‍රේ හෙයාර්"
+        },
+        {
+          "en": "glasses",
+          "si": "කණ්නාඩි",
+          "say": "ග්ලාසස්",
+          "exampleEn": "She wears glasses.",
+          "exampleSi": "එයා කණ්නාඩි දානවා."
+        },
+        {
+          "en": "beard",
+          "si": "රැවුල",
+          "say": "බියර්ඩ්"
+        },
+        {
+          "en": "smile",
+          "si": "සිනහව",
+          "say": "ස්මයිල්"
+        }
+      ]
+    },
+    {
+      "type": "vocab",
+      "title": "What people are like",
+      "titleSi": "මිනිස්සුන්ගේ චරිතය",
+      "items": [
+        {
+          "en": "kind",
+          "si": "කරුණාවන්ත",
+          "say": "කයින්ඩ්"
+        },
+        {
+          "en": "quiet",
+          "si": "නිශ්ශබ්ද / අඩුවෙන් කථා කරන",
+          "say": "ක්වයට්"
+        },
+        {
+          "en": "funny",
+          "si": "විහිළුකාර",
+          "say": "ෆනි"
+        },
+        {
+          "en": "strict",
+          "si": "දැඩි",
+          "say": "ස්ට්‍රික්ට්"
+        },
+        {
+          "en": "patient",
+          "si": "ඉවසිලිවන්ත",
+          "say": "පේෂන්ට්"
+        },
+        {
+          "en": "lazy",
+          "si": "කම්මැලි",
+          "say": "ලේසි"
+        },
+        {
+          "en": "clever",
+          "si": "දක්ෂ",
+          "say": "ක්ලෙවර්"
+        },
+        {
+          "en": "honest",
+          "si": "අවංක",
+          "say": "ඔනස්ට්"
+        },
+        {
+          "en": "friendly",
+          "si": "හිතවත්",
+          "say": "ෆ්‍රෙන්ඩ්ලි"
+        },
+        {
+          "en": "selfish",
+          "si": "ආත්මාර්ථකාමී",
+          "say": "සෙල්ෆිෂ්"
+        },
+        {
+          "en": "polite",
+          "si": "ආචාරශීලී",
+          "say": "පොලයිට්"
+        }
+      ]
+    },
+    {
+      "type": "grammar",
+      "title": "Feelings with be",
+      "titleSi": "be සමඟ හැඟීම්",
+      "explainSi": "හැම එකකටම am/is/are. 'have' යෙදෙන්නේ නෑ.",
+      "formula": "subject + am / is / are + feeling",
+      "table": {
+        "headers": [
+          "ඉංග්‍රීසි",
+          "සිංහල",
+          "වැරදි ස්වරූපය"
+        ],
+        "rows": [
+          [
+            "I am hungry.",
+            "මට බඩගිනියි.",
+            "I have hunger. ✗"
+          ],
+          [
+            "I am thirsty.",
+            "මට තිබහයි.",
+            "I have thirst. ✗"
+          ],
+          [
+            "I am tired.",
+            "මම මහන්සියි.",
+            "I have tired. ✗"
+          ],
+          [
+            "I am afraid.",
+            "මට බයයි.",
+            "I have fear. ✗"
+          ],
+          [
+            "I am cold.",
+            "මට සීතලයි.",
+            "I have cold. ✗"
+          ],
+          [
+            "I am twenty-six.",
+            "මට අවුරුදු විසිහයයි.",
+            "I have 26 years. ✗"
+          ],
+          [
+            "She is worried.",
+            "එයා කනස්සල්ලෙන්.",
+            "She has worry. ✗"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "The children are hungry and the rice isn't ready.",
+          "si": "ළමයින්ට බඩගිනියි, බත් තාම හදලා නෑ."
+        },
+        {
+          "en": "Are you cold? Take my jacket.",
+          "si": "ඔබට සීතලද? මගේ ජැකට් එක ගන්න."
+        },
+        {
+          "en": "He isn't angry. He's just tired.",
+          "si": "එයා තරහ නෑ. එයා මහන්සියි විතරයි."
+        }
+      ],
+      "watchOutSi": "'I am boring' සහ 'I am bored' දෙක වෙනස්. 'bored' = මට කම්මැලියි. 'boring' = මම කම්මැලි කෙනෙක්. වැරදුණොත් තමන් ගැනම නරක දෙයක් කියවෙනවා."
+    },
+    {
+      "type": "grammar",
+      "title": "look and feel",
+      "titleSi": "look සහ feel",
+      "explainSi": "'look' සහ 'feel' පසුව එන්නේ විශේෂණයක් — -ly සහිත වචනයක් නෙවෙයි. මේවා 'be' වගේ වැඩ කරනවා: ඒවා ක්‍රියාවක් නෙවෙයි, තත්ත්වයක් සම්බන්ධ කරනවා.",
+      "formula": "look / feel / seem / sound + adjective",
+      "table": {
+        "headers": [
+          "නිවැරදි",
+          "වැරදි",
+          "සිංහල"
+        ],
+        "rows": [
+          [
+            "You look tired.",
+            "You look tiredly. ✗",
+            "ඔබ මහන්සි වගේ පේනවා."
+          ],
+          [
+            "I feel better.",
+            "I feel well better. ✗",
+            "මට දැන් හොඳයි."
+          ],
+          [
+            "She looks happy.",
+            "She looks happily. ✗",
+            "එයා සතුටින් වගේ පේනවා."
+          ],
+          [
+            "It sounds good.",
+            "It sounds well. ✗",
+            "ඒක හොඳ වගේ ඇහෙනවා."
+          ],
+          [
+            "He seems kind.",
+            "He seems kindly. ✗",
+            "එයා කරුණාවන්ත වගේ පේනවා."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "You look worried. Is everything all right?",
+          "si": "ඔබ කනස්සල්ලෙන් වගේ පේනවා. හැම දෙයක්ම හරිද?"
+        },
+        {
+          "en": "I felt afraid, but I didn't say anything.",
+          "si": "මට බය දැනුණා, හැබැයි කිසිවක් කිව්වේ නෑ."
+        }
+      ],
+      "watchOutSi": "'look at' සහ 'look' වෙනස්. 'Look at me' = මා දිහා බලන්න (ක්‍රියාවක්). 'You look tired' = ඔබ මහන්සි වගේ පේනවා (තත්ත්වයක්)."
+    },
+    {
+      "type": "grammar",
+      "title": "very, quite, a bit",
+      "titleSi": "very, quite, a bit",
+      "explainSi": "විශේෂණයට කලින් මේ වචන දාලා මට්ටම වෙනස් කරනවා.",
+      "formula": "a bit < quite < very < really",
+      "table": {
+        "headers": [
+          "වචනය",
+          "මට්ටම",
+          "උදාහරණය"
+        ],
+        "rows": [
+          [
+            "a bit",
+            "ටිකක්",
+            "I'm a bit tired."
+          ],
+          [
+            "quite",
+            "සෑහෙන්න",
+            "She's quite tall."
+          ],
+          [
+            "very",
+            "ගොඩක්",
+            "He's very kind."
+          ],
+          [
+            "really",
+            "ඇත්තටම / හරිම",
+            "It's really cold today."
+          ],
+          [
+            "not very",
+            "එච්චර නෑ",
+            "He isn't very patient."
+          ],
+          [
+            "too",
+            "වැඩියි (නරක අර්ථයෙන්)",
+            "It's too hot."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "My boss is quite strict, but he's very fair.",
+          "si": "මගේ ලොක්කා සෑහෙන්න දැඩියි, හැබැයි හරිම සාධාරණයි."
+        },
+        {
+          "en": "I'm a bit worried about tomorrow.",
+          "si": "හෙට ගැන මට ටිකක් කනස්සල්ලයි."
+        }
+      ],
+      "watchOutSi": "'too' කියන්නේ 'ගොඩක්' නෙවෙයි — 'අවශ්‍ය ප්‍රමාණයට වඩා වැඩියි' කියලා. 'The tea is too hot' = බොන්න බෑ. 'The tea is very hot' = රස්නෙයි, බොන්න පුළුවන්."
+    },
+    {
+      "type": "grammar",
+      "title": "What is he like? What does he look like?",
+      "titleSi": "What is he like? What does he look like?",
+      "explainSi": "ප්‍රශ්න දෙකක්, පිළිතුරු දෙකක්. එකක් චරිතය ගැන, අනෙක පෙනුම ගැන. 'like' යනු මෙතන 'කැමතියි' කියන අර්ථය නෙවෙයි.",
+      "formula": "What is X like? → character  ·  What does X look like? → appearance",
+      "table": {
+        "headers": [
+          "ප්‍රශ්නය",
+          "අහන්නේ",
+          "පිළිතුර"
+        ],
+        "rows": [
+          [
+            "What is your boss like?",
+            "චරිතය",
+            "He's quiet but very fair."
+          ],
+          [
+            "What does your boss look like?",
+            "පෙනුම",
+            "He's tall, with grey hair."
+          ],
+          [
+            "What does he like?",
+            "කැමති දේ",
+            "Cricket and old films."
+          ],
+          [
+            "How is he?",
+            "දැන් කොහොමද",
+            "He's fine, thanks."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "What's your new teacher like? — She's strict, but she's funny too.",
+          "si": "ඔබේ අලුත් ගුරුතුමිය කොහොමද? — දැඩියි, හැබැයි විහිළුකාරයි."
+        },
+        {
+          "en": "What does she look like? — She's short and she wears glasses.",
+          "si": "එයා පේන්නේ කොහොමද? — කොටයි, කණ්නාඩි දානවා."
+        }
+      ],
+      "watchOutSi": "'How is he?' කියන්නේ දැන් සුවද කියලා — චරිතය ගැන නෙවෙයි. 'What is he like?' තමයි චරිතය."
+    },
+    {
+      "type": "story",
+      "title": "The Man at the Gate",
+      "titleSi": "ගේට්ටුව ළඟ මිනිසා",
+      "introSi": "මේ කතාවේ කෙනෙක් ගැන කියනවා — නමුත් එයාව විස්තර කරන වචන ගොඩක් නෑ. එයා කරන දේ බලලා ඔබම තීරණය කරන්න.",
+      "paragraphs": [
+        {
+          "en": "The man at our school gate was old. He was thin, and he was not tall. He had grey hair and no teeth in front, and he never wore shoes.",
+          "si": "අපේ පාසල් ගේට්ටුව ළඟ හිටිය මිනිසා වයසකයි. එයා කෙට්ටුයි, උස නෑ. පැහුණු කොණ්ඩයක්, ඉස්සරහ දත් නෑ, එයා කවදාවත් සපත්තු දාන්නේ නෑ."
+        },
+        {
+          "en": "He wasn't a teacher and he wasn't a guard. Nobody paid him. He was there at seven in the morning and he was there at four.",
+          "si": "එයා ගුරුවරයෙක් නෙවෙයි, මුරකරුවෙක් නෙවෙයි. කවුරුවත් එයාට ගෙව්වේ නෑ. උදේ හතට එයා එතන, හතරටත් එයා එතන."
+        },
+        {
+          "en": "When it was raining, he stood at the gate with two umbrellas. He gave one to any child without one and he kept the broken one for himself.",
+          "si": "වහින කොට එයා කුඩ දෙකක් අරගෙන ගේට්ටුව ළඟ. කුඩයක් නැති ඕනෑම ළමයෙකුට එකක් දුන්නා, කැඩුණු එක තමන්ට තියාගත්තා."
+        },
+        {
+          "en": "He was not a friendly man. He didn't smile and he didn't talk much. If you were late he said one word: \"Late.\" That was all.",
+          "si": "එයා හිතවත් මිනිසෙක් නෙවෙයි. එයා හිනාවුණේ නෑ, ගොඩක් කථා කළේ නෑ. පරක්කු වුණොත් එයා කිව්වේ එක වචනයයි: \"පරක්කු.\" එච්චරයි."
+        },
+        {
+          "en": "One boy in our class was very poor. His shirt was always dirty and the other children were unkind to him. The man at the gate said nothing about that either. But every morning that boy's shirt was clean.",
+          "si": "අපේ පන්තියේ එක් ළමයෙක් හරිම දුප්පත්. එයාගේ කමිසය හැම විටම කිලුටුයි, අනිත් ළමයි එයාට හොඳට සැලකුවේ නෑ. ගේට්ටුව ළඟ මිනිසාත් ඒ ගැන කිසිවක් කිව්වේ නෑ. හැබැයි හැම උදෑසනකම ඒ ළමයාගේ කමිසය පිරිසිදුයි."
+        },
+        {
+          "en": "Nobody knew who washed it. We were children; we didn't ask. Now I am forty, and I know one thing: the kindest people I have met were not the friendly ones.",
+          "si": "ඒක හේදුවේ කවුද කියලා කවුරුවත් දැනගෙන හිටියේ නෑ. අපි ළමයි; අපි ඇහුවේ නෑ. දැන් මට හතළිහයි, මම එක දෙයක් දන්නවා: මම හම්බ වුණ කරුණාවන්තම මිනිස්සු හිතවත් අය නෙවෙයි."
+        }
+      ],
+      "glossary": [
+        {
+          "en": "guard",
+          "si": "මුරකරු"
+        },
+        {
+          "en": "pay",
+          "si": "ගෙවනවා"
+        },
+        {
+          "en": "keep",
+          "si": "තියාගන්නවා"
+        },
+        {
+          "en": "dirty",
+          "si": "කිලුටු"
+        },
+        {
+          "en": "clean",
+          "si": "පිරිසිදු"
+        },
+        {
+          "en": "unkind",
+          "si": "කරුණාවක් නැති"
+        },
+        {
+          "en": "wash",
+          "si": "හෝදනවා"
+        },
+        {
+          "en": "kindest",
+          "si": "කරුණාවන්තම"
+        }
+      ],
+      "questionsSi": [
+        "ගේට්ටුව ළඟ මිනිසා පේන්නේ කොහොමද?",
+        "එයාගේ චරිතය ගැන කතාව කෙළින්ම කියන්නේ මොකක්ද?",
+        "එයා ඇත්තටම කරුණාවන්ත බව අපිට තේරෙන්නේ කොහොමද?",
+        "අන්තිම වාක්‍යයෙන් අදහස් වන්නේ කුමක්ද?"
+      ]
+    },
+    {
+      "type": "poem",
+      "title": "My Grandmother's Face",
+      "titleSi": "ආච්චිගේ මූණ",
+      "introSi": "පෙනුම සහ චරිතය දෙකම එකට එන කවියක්.",
+      "lines": [
+        {
+          "en": "Her hands were rough. Her voice was low.",
+          "si": "එයාගේ අත් රළුයි. හඬ පහත්."
+        },
+        {
+          "en": "She wasn't kind to fools.",
+          "si": "මෝඩයන්ට එයා කරුණාවන්ත වුණේ නෑ."
+        },
+        {
+          "en": "She never said a gentle word —",
+          "si": "මෘදු වචනයක් එයා කිව්වේ නෑ —"
+        },
+        {
+          "en": "She simply broke the rules.",
+          "si": "එයා නීති කැඩුවා විතරයි."
+        },
+        {
+          "en": "",
+          "si": ""
+        },
+        {
+          "en": "She fed the boy nobody fed,",
+          "si": "කවුරුවත් කන්න නොදුන් ළමයාට එයා දුන්නා,"
+        },
+        {
+          "en": "She hid him from his father.",
+          "si": "එයාව තාත්තාගෙන් හැංගුවා."
+        },
+        {
+          "en": "If you ask me what she was like,",
+          "si": "එයා කොහොමද කියලා මගෙන් ඇහුවොත්,"
+        },
+        {
+          "en": "I'll tell you what she did.",
+          "si": "එයා කළේ මොකක්ද කියලා මම කියන්නම්."
+        }
+      ],
+      "noteSi": "අන්තිම පේළි දෙක තමයි කවියේ අදහස: 'What was she like?' කියන ප්‍රශ්නයට විශේෂණවලින් නෙවෙයි, ක්‍රියාවලින් පිළිතුරු දෙනවා."
+    },
+    {
+      "type": "dialogue",
+      "title": "Describing the new manager",
+      "titleSi": "අලුත් කළමනාකරු ගැන",
+      "settingSi": "ප්‍රශ්න දෙක එකට යෙදෙන තැන බලන්න.",
+      "lines": [
+        {
+          "speaker": "Kavi",
+          "en": "You met the new manager. What's she like?",
+          "si": "ඔබ අලුත් කළමනාකරුව හම්බ වුණා. එයා කොහොමද?"
+        },
+        {
+          "speaker": "Dhanu",
+          "en": "She's quite strict, but she's very fair. And she's funny when she's tired.",
+          "si": "සෑහෙන්න දැඩියි, හැබැයි හරිම සාධාරණයි. මහන්සි වුණාම විහිළුකාරයි."
+        },
+        {
+          "speaker": "Kavi",
+          "en": "What does she look like? I don't know her.",
+          "si": "එයා පේන්නේ කොහොමද? මම එයාව දන්නේ නෑ."
+        },
+        {
+          "speaker": "Dhanu",
+          "en": "She's tall, with short grey hair and glasses. You can't miss her.",
+          "si": "උසයි, කොට පැහුණු කොණ්ඩයක්, කණ්නාඩි. ඔබට මඟහරින්න බෑ."
+        },
+        {
+          "speaker": "Kavi",
+          "en": "Is she friendly?",
+          "si": "එයා හිතවත්ද?"
+        },
+        {
+          "speaker": "Dhanu",
+          "en": "Not very. But she's honest, and I prefer that.",
+          "si": "එච්චර නෑ. හැබැයි අවංකයි, මම ඒකට වඩා කැමතියි."
+        },
+        {
+          "speaker": "Kavi",
+          "en": "You look worried, though.",
+          "si": "හැබැයි ඔබ කනස්සල්ලෙන් වගේ පේනවා."
+        },
+        {
+          "speaker": "Dhanu",
+          "en": "I'm a bit tired, that's all. It was a long week.",
+          "si": "ටිකක් මහන්සියි, එච්චරයි. සතිය දිගු වුණා."
+        }
+      ]
+    },
+    {
+      "type": "practice",
+      "title": "be or have?",
+      "titleSi": "be ද have ද?",
+      "instructionSi": "හැඟීම් සහ වයස 'be' ක්‍රියාවෙන්.",
+      "items": [
+        {
+          "prompt": "I ___ hungry.",
+          "answer": "am",
+          "hintSi": "'I have hunger' නෙවෙයි.",
+          "full": "I am hungry."
+        },
+        {
+          "prompt": "She ___ twenty-six.",
+          "answer": "is",
+          "hintSi": "වයසත් be ක්‍රියාවෙන්.",
+          "full": "She is twenty-six."
+        },
+        {
+          "prompt": "You ___ tired. (පේනවා)",
+          "answer": "look",
+          "hintSi": "'look' පසුව විශේෂණය.",
+          "full": "You look tired."
+        },
+        {
+          "prompt": "They ___ two children.",
+          "answer": "have",
+          "hintSi": "අයිතිය නම් have.",
+          "full": "They have two children."
+        },
+        {
+          "prompt": "I ___ a bit worried.",
+          "answer": "am",
+          "hintSi": "හැඟීමක්.",
+          "full": "I am a bit worried."
+        },
+        {
+          "prompt": "It ___ really cold today.",
+          "answer": "is",
+          "hintSi": "කාලගුණයත් be ක්‍රියාවෙන්.",
+          "full": "It is really cold today."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "en": "tall",
+      "si": "උස"
+    },
+    {
+      "en": "short",
+      "si": "කොට"
+    },
+    {
+      "en": "thin",
+      "si": "කෙට්ටු"
+    },
+    {
+      "en": "strong",
+      "si": "ශක්තිමත්"
+    },
+    {
+      "en": "glasses",
+      "si": "කණ්නාඩි"
+    },
+    {
+      "en": "beard",
+      "si": "රැවුල"
+    },
+    {
+      "en": "kind",
+      "si": "කරුණාවන්ත"
+    },
+    {
+      "en": "quiet",
+      "si": "නිශ්ශබ්ද"
+    },
+    {
+      "en": "funny",
+      "si": "විහිළුකාර"
+    },
+    {
+      "en": "strict",
+      "si": "දැඩි"
+    },
+    {
+      "en": "lazy",
+      "si": "කම්මැලි"
+    },
+    {
+      "en": "clever",
+      "si": "දක්ෂ"
+    },
+    {
+      "en": "honest",
+      "si": "අවංක"
+    },
+    {
+      "en": "friendly",
+      "si": "හිතවත්"
+    },
+    {
+      "en": "worried",
+      "si": "කනස්සල්ලෙන්"
+    },
+    {
+      "en": "angry",
+      "si": "තරහ"
+    },
+    {
+      "en": "bored",
+      "si": "කම්මැලි දැනෙන"
+    },
+    {
+      "en": "scared",
+      "si": "බය"
+    },
+    {
+      "en": "polite",
+      "si": "ආචාරශීලී"
+    },
+    {
+      "en": "fair",
+      "si": "සාධාරණ"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "a1-19-q1",
+      "q": "'මට බඩගිනියි' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "I have hunger.",
+        "I am hungry.",
+        "I have hungry.",
+        "I am hunger."
+      ],
+      "answer": 1,
+      "explainSi": "ඉංග්‍රීසියේ හැඟීම් 'be' ක්‍රියාවෙන්.",
+      "speak": "I am hungry."
+    },
+    {
+      "id": "a1-19-q2",
+      "q": "'මට අවුරුදු විසිහයයි' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "I have 26 years.",
+        "I am twenty-six.",
+        "I have twenty-six.",
+        "My age is have 26."
+      ],
+      "answer": 1,
+      "explainSi": "වයසත් be ක්‍රියාවෙන් — හැඟීම් වගේම.",
+      "speak": "I am twenty-six."
+    },
+    {
+      "id": "a1-19-q3",
+      "q": "'I am boring' සහ 'I am bored' අතර වෙනස?",
+      "options": [
+        "වෙනසක් නෑ",
+        "'bored' = මට කම්මැලියි. 'boring' = මම කම්මැලි කෙනෙක්",
+        "'boring' වඩා ආචාරශීලීයි",
+        "'bored' අතීතය"
+      ],
+      "answer": 1,
+      "explainSi": "වැරදුණොත් තමන් ගැනම නරක දෙයක් කියවෙනවා."
+    },
+    {
+      "id": "a1-19-q4",
+      "q": "'ඔබ මහන්සි වගේ පේනවා' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "You look tiredly.",
+        "You look tired.",
+        "You are look tired.",
+        "You look at tired."
+      ],
+      "answer": 1,
+      "explainSi": "'look' පසුව විශේෂණය — -ly සහිත වචනයක් නෙවෙයි.",
+      "speak": "You look tired."
+    },
+    {
+      "id": "a1-19-q5",
+      "q": "'look' පසුව -ly වචනයක් නොයෙදෙන්නේ ඇයි?",
+      "options": [
+        "'look' කෙටි නිසා",
+        "මෙතන 'look' යනු ක්‍රියාවක් නෙවෙයි — එය 'be' වගේ තත්ත්වයක් සම්බන්ධ කරනවා",
+        "-ly වචන පරණ නිසා",
+        "නීතියක් නෑ"
+      ],
+      "answer": 1,
+      "explainSi": "'She is tired' = 'She looks tired'. හැබැයි 'Look at me' යනු ඇත්ත ක්‍රියාවක්."
+    },
+    {
+      "id": "a1-19-q6",
+      "q": "'What is your boss like?' — ගැළපෙන පිළිතුර?",
+      "options": [
+        "He's tall with grey hair.",
+        "He's quiet but very fair.",
+        "Cricket and old films.",
+        "He's fine, thanks."
+      ],
+      "answer": 1,
+      "explainSi": "'What is … like?' අහන්නේ චරිතය. පෙනුම නම් 'What does he look like?'"
+    },
+    {
+      "id": "a1-19-q7",
+      "q": "'එයා පේන්නේ කොහොමද?' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "What is she like?",
+        "What does she look like?",
+        "What does she like?",
+        "How is she?"
+      ],
+      "answer": 1,
+      "explainSi": "'look like' පෙනුම ගැන. 'like' තනියම චරිතය ගැන.",
+      "speak": "What does she look like?"
+    },
+    {
+      "id": "a1-19-q8",
+      "q": "'What does he like?' අහන්නේ මොකක්ද?",
+      "options": [
+        "චරිතය",
+        "පෙනුම",
+        "එයා කැමති දේවල්",
+        "එයාගේ සුවය"
+      ],
+      "answer": 2,
+      "explainSi": "'like' තනියම ක්‍රියාවක් වුණාම 'කැමතියි' කියන අර්ථය. 'What is he like?' නම් වෙනස්."
+    },
+    {
+      "id": "a1-19-q9",
+      "q": "'The tea is too hot' කියන්නෙන් අදහස් වන්නේ?",
+      "options": [
+        "තේ හරිම රස්නෙයි, බොන්න හොඳයි",
+        "බොන්න බැරි තරම් රස්නෙයි",
+        "තේ ටිකක් රස්නෙයි",
+        "තේ සීතලයි"
+      ],
+      "answer": 1,
+      "explainSi": "'too' කියන්නේ අවශ්‍ය ප්‍රමාණයට වඩා වැඩියි කියලා — ප්‍රශ්නයක් තියෙනවා. 'very hot' නම් ප්‍රශ්නයක් නෑ."
+    },
+    {
+      "id": "a1-19-q10",
+      "q": "අඩුම මට්ටමේ සිට වැඩිම මට්ටමට නිවැරදි පිළිවෙළ?",
+      "options": [
+        "very → quite → a bit",
+        "a bit → quite → very",
+        "quite → a bit → very",
+        "a bit → very → quite"
+      ],
+      "answer": 1,
+      "explainSi": "a bit (ටිකක්) < quite (සෑහෙන්න) < very (ගොඩක්)."
+    },
+    {
+      "id": "a1-19-q11",
+      "q": "'He isn't very patient' කියන්නෙන් අදහස් වන්නේ?",
+      "options": [
+        "එයා ඉවසිලිවන්තයි",
+        "එයාට ඉවසීම අඩුයි — මෘදුව කියනවා",
+        "එයා හරිම ඉවසිලිවන්තයි",
+        "එයා තරහයි"
+      ],
+      "answer": 1,
+      "explainSi": "'not very' යනු නරක දෙයක් මෘදුව කියන ක්‍රමයක්. 'He is impatient' කියනවාට වඩා ආචාරශීලීයි."
+    },
+    {
+      "id": "a1-19-q12",
+      "context": "The man at our school gate was old. He was thin, and he was not tall. He had grey hair and no teeth in front, and he never wore shoes.",
+      "contextSi": "අපේ පාසල් ගේට්ටුව ළඟ හිටිය මිනිසා වයසකයි. එයා කෙට්ටුයි, උස නෑ. පැහුණු කොණ්ඩයක්, ඉස්සරහ දත් නෑ, එයා කවදාවත් සපත්තු දාන්නේ නෑ.",
+      "q": "කතාව අනුව: මේ ඡේදයෙන් කියවෙන්නේ මොකක්ද?",
+      "options": [
+        "එයාගේ චරිතය",
+        "එයාගේ පෙනුම",
+        "එයාගේ රැකියාව",
+        "එයාගේ පවුල"
+      ],
+      "answer": 1,
+      "explainSi": "මේ සියල්ලම 'What does he look like?' කියන ප්‍රශ්නයට පිළිතුරු."
+    },
+    {
+      "id": "a1-19-q13",
+      "context": "When it was raining, he stood at the gate with two umbrellas. He gave one to any child without one and he kept the broken one for himself.",
+      "contextSi": "වහින කොට එයා කුඩ දෙකක් අරගෙන ගේට්ටුව ළඟ. කුඩයක් නැති ඕනෑම ළමයෙකුට එකක් දුන්නා, කැඩුණු එක තමන්ට තියාගත්තා.",
+      "q": "කතාව අනුව: කැඩුණු කුඩය තමන්ට තියාගැනීමෙන් කියවෙන්නේ කුමක්ද?",
+      "options": [
+        "එයාට හොඳ කුඩයක් නෑ",
+        "එයා හොඳ එක ළමයාට දෙනවා — ඒක වචනයක් නැති කරුණාවක්",
+        "එයාට වහින එක ගැන කමක් නෑ",
+        "එයාට කුඩ දෙකක් අවශ්‍යයි"
+      ],
+      "answer": 1,
+      "explainSi": "කතාව 'kind' කියලා කියන්නේ නෑ. එය පෙන්නනවා."
+    },
+    {
+      "id": "a1-19-q14",
+      "context": "He was not a friendly man. He didn't smile and he didn't talk much. If you were late he said one word: \"Late.\" That was all.",
+      "contextSi": "එයා හිතවත් මිනිසෙක් නෙවෙයි. එයා හිනාවුණේ නෑ, ගොඩක් කථා කළේ නෑ. පරක්කු වුණොත් එයා කිව්වේ එක වචනයයි: \"පරක්කු.\" එච්චරයි.",
+      "q": "කතාව අනුව: එයාව විස්තර කරන්න වඩාත් ගැළපෙන වචන යුගලය?",
+      "options": [
+        "friendly සහ funny",
+        "quiet නමුත් kind",
+        "lazy සහ selfish",
+        "polite සහ clever"
+      ],
+      "answer": 1,
+      "explainSi": "කථා කරන්නේ නෑ — quiet. කරන දේ බැලුවම — kind. 'friendly' සහ 'kind' එකම දෙයක් නෙවෙයි."
+    },
+    {
+      "id": "a1-19-q15",
+      "context": "His shirt was always dirty and the other children were unkind to him. The man at the gate said nothing about that either. But every morning that boy's shirt was clean.",
+      "contextSi": "එයාගේ කමිසය හැම විටම කිලුටුයි, අනිත් ළමයි එයාට හොඳට සැලකුවේ නෑ. ගේට්ටුව ළඟ මිනිසාත් ඒ ගැන කිසිවක් කිව්වේ නෑ. හැබැයි හැම උදෑසනකම ඒ ළමයාගේ කමිසය පිරිසිදුයි.",
+      "q": "කතාව අනුව: කමිසය හේදුවේ කවුද?",
+      "options": [
+        "ළමයාගේ අම්මා",
+        "ගේට්ටුව ළඟ මිනිසා — කතාව එය කෙළින්ම නොකියතත්",
+        "ගුරුවරයෙක්",
+        "අනිත් ළමයි"
+      ],
+      "answer": 1,
+      "explainSi": "'said nothing … But every morning …' — 'But' කියන වචනයෙන් සම්බන්ධය හදනවා. කථකයාත් කියන්නේ නෑ, පෙන්නනවා."
+    },
+    {
+      "id": "a1-19-q16",
+      "context": "Now I am forty, and I know one thing: the kindest people I have met were not the friendly ones.",
+      "contextSi": "දැන් මට හතළිහයි, මම එක දෙයක් දන්නවා: මම හම්බ වුණ කරුණාවන්තම මිනිස්සු හිතවත් අය නෙවෙයි.",
+      "q": "කතාව අනුව: අන්තිම වාක්‍යයේ අදහස කුමක්ද?",
+      "options": [
+        "හිතවත් අය නරකයි",
+        "සිනාවක් සහ කරුණාව එකම දෙයක් නෙවෙයි — කරන දේ තමයි වැදගත්",
+        "වයසක අය වඩා කරුණාවන්තයි",
+        "කථකයාට යාළුවෝ නෑ"
+      ],
+      "answer": 1,
+      "explainSi": "'friendly' යනු පෙනුමට ළං වචනයක්. 'kind' යනු ක්‍රියාවලින් මනින එකක්."
+    },
+    {
+      "id": "a1-19-q17",
+      "context": "If you ask me what she was like, / I'll tell you what she did.",
+      "contextSi": "එයා කොහොමද කියලා මගෙන් ඇහුවොත්, / එයා කළේ මොකක්ද කියලා මම කියන්නම්.",
+      "q": "කවියේ අන්තිම පේළි දෙකේ අදහස කුමක්ද?",
+      "options": [
+        "එයාට විස්තර කරන්න වචන නෑ",
+        "චරිතය හොඳම විදිහට පෙන්නන්නේ විශේෂණවලින් නෙවෙයි, ක්‍රියාවලින්",
+        "එයා කථා කළේ නෑ",
+        "ප්‍රශ්නය වැරදියි"
+      ],
+      "answer": 1,
+      "explainSi": "'What was she like?' කියන ප්‍රශ්නයට කවිය පිළිතුරු දෙන්නේ එයා කළ දෙයින්."
+    },
+    {
+      "id": "a1-19-q18",
+      "context": "Kavi: Is she friendly?\nDhanu: Not very. But she's honest, and I prefer that.",
+      "contextSi": "කවි: එයා හිතවත්ද?\nධනු: එච්චර නෑ. හැබැයි අවංකයි, මම ඒකට වඩා කැමතියි.",
+      "q": "සංවාදයේ: ධනු කළමනාකරු ගැන කුමක් කියනවාද?",
+      "options": [
+        "එයාට කළමනාකරුව කැමති නෑ",
+        "හිතවත්කමට වඩා අවංකකම වටිනවා කියලා",
+        "කළමනාකරු රළුයි",
+        "එයා කළමනාකරුව දන්නේ නෑ"
+      ],
+      "answer": 1,
+      "explainSi": "'But she's honest, and I prefer that' — 'that' යනු අවංකකම."
+    },
+    {
+      "id": "a1-19-q19",
+      "context": "Kavi: You look worried, though.\nDhanu: I'm a bit tired, that's all. It was a long week.",
+      "contextSi": "කවි: හැබැයි ඔබ කනස්සල්ලෙන් වගේ පේනවා.\nධනු: ටිකක් මහන්සියි, එච්චරයි. සතිය දිගු වුණා.",
+      "q": "සංවාදයේ: 'a bit' යෙදීමෙන් ධනු කරන්නේ කුමක්ද?",
+      "options": [
+        "තත්ත්වය වැඩි කරනවා",
+        "තත්ත්වය අඩු කර පෙන්නනවා — ලොකු දෙයක් නෙවෙයි කියලා",
+        "ප්‍රශ්නයක් අහනවා",
+        "කවිට තරහ වෙනවා"
+      ],
+      "answer": 1,
+      "explainSi": "'a bit' අඩුම මට්ටම. 'very tired' කිව්වා නම් අර්ථය වෙනස්."
+    },
+    {
+      "id": "a1-19-q20",
+      "q": "කුමන වාක්‍යය වැරදිද?",
+      "options": [
+        "She looks happy today.",
+        "I feel better now.",
+        "He seems kindly.",
+        "It sounds good."
+      ],
+      "answer": 2,
+      "explainSi": "'He seems kind' විය යුතුයි — මේ ක්‍රියා පසුව විශේෂණයක්."
+    },
+    {
+      "id": "a1-19-q21",
+      "q": "'ඔබට සීතලද? මගේ ජැකට් එක ගන්න' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "Do you have cold? Take my jacket.",
+        "Are you cold? Take my jacket.",
+        "Have you cold? Take my jacket.",
+        "Is you cold? Take my jacket."
+      ],
+      "answer": 1,
+      "explainSi": "සීතල දැනීමත් 'be' ක්‍රියාවෙන්.",
+      "speak": "Are you cold? Take my jacket."
+    },
+    {
+      "id": "a1-19-q22",
+      "q": "'මගේ ලොක්කා සෑහෙන්න දැඩියි, හැබැයි හරිම සාධාරණයි' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "My boss is quite strict, but he's very fair.",
+        "My boss is very strict, but he's a bit fair.",
+        "My boss has quite strict, but he is very fair.",
+        "My boss is quite strictly, but he's very fairly."
+      ],
+      "answer": 0,
+      "explainSi": "quite = සෑහෙන්න, very = ගොඩක්. දෙකටම විශේෂණය මිස -ly ස්වරූපය නෙවෙයි.",
+      "speak": "My boss is quite strict, but he's very fair."
+    }
+  ]
+}

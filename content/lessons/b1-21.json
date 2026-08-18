@@ -1,0 +1,768 @@
+{
+  "hero": {
+    "src": "images/b1-21-hero.webp",
+    "alt": "Nadeesha laughing with a friend over tea on a verandah, mid-conversation, a plate of biscuits and potted plants along the rail."
+  },
+  "goalsSi": [
+    "අහගෙන ඉන්නවා කියලා පෙන්නන පොඩි වචන",
+    "'I mean' — කියපු දේ නිවැරදි කරන්න, පැහැදිලි කරන්න",
+    "'You know' — දෙන්නාම දන්න දෙයක් කියනකොට",
+    "'sort of', 'kind of' — නිශ්චිත නැති බව මෘදුව",
+    "හිතන්න වෙලාව ගන්න වචන",
+    "වැඩිපුර යෙදුවොත් වෙන අවුල"
+  ],
+  "goals": [
+    "Show you are listening with short responses",
+    "Use I mean to correct or explain yourself",
+    "Use you know for shared knowledge",
+    "Soften with sort of and kind of",
+    "Buy thinking time",
+    "Know when these become a habit"
+  ],
+  "sections": [
+    {
+      "type": "note",
+      "title": "The words that are not really words",
+      "titleSi": "ඇත්තටම වචන නොවන වචන",
+      "bodySi": "ඉංග්‍රීසි කථා දෙකක් සසඳන්න.\n\nඑක:\n— 'The bus was late.'\n— 'Yes.'\n— 'I waited an hour.'\n— 'Yes.'\n\nදෙක:\n— 'The bus was late.'\n— 'Oh no. Again?'\n— 'I waited an hour.'\n— 'An hour? Really?'\n\nපළවෙනි එකේ ව්‍යාකරණ නිවැරදියි. ඒත් ඒක සම්මුඛ පරීක්ෂණයක් වගේ, කථාවක් නෙවෙයි.\n\nවෙනස තියෙන්නේ පොඩි වචනවල: Oh. Really? Right. Well. I mean. You know.\n\nමේවාට ශබ්දකෝෂයේ තියෙන තේරුමට ලොකු වැඩක් නෑ. මේවා කරන්නේ වෙන දෙයක් — කථාව ගලාගෙන යන්න දෙන එක.\n\nCEFR B1 මට්ටමේ මේවාට කියන්නේ 'Markers to structure informal spoken discourse'. පොත්වල මේවා උගන්නන්නේ නෑ, ඒත් මේවා නැති ඉංග්‍රීසිය හැමවිටම පොතක් වගේ ඇහෙනවා.\n\nවැදගත් අවවාදයක්: මේවා කථාවට විතරයි. ලියන එකට, විශේෂයෙන් විධිමත් ලියවිලිවලට, මේවා යෙදෙන්නේ නෑ.",
+      "body": "These small words do very little on their own. What they do is keep a conversation moving — and their absence is what makes correct English sound like a book."
+    },
+    {
+      "type": "grammar",
+      "title": "Showing you are listening",
+      "titleSi": "අහගෙන ඉන්නවා කියලා පෙන්නීම",
+      "explainSi": "ඉංග්‍රීසි කථාවක අහගෙන ඉන්න කෙනා නිශ්ශබ්ද වෙන්නේ නෑ. හැම වාක්‍ය එකක් දෙකකට පස්සේම පොඩි ශබ්දයක් දෙනවා.\n\nසාමාන්‍ය:\n'Right.' — හරි.\n'Mm.' / 'Mm-hm.' — ඔව්, අහගෙන ඉන්නවා.\n'I see.' — තේරෙනවා.\n'OK.'\n\nපුදුමය:\n'Really?' — ඇත්තටමද?\n'No!' — අනේ! (විශ්වාස කරන්න බෑ කියන අදහසින්)\n'You're joking!' — විහිළු කරනවා නේද!\n\nසහානුභූතිය:\n'Oh no.' — අනේ.\n'That's a shame.' — ඒක කනගාටුයි.\n'I know how you feel.' — ඔයාට දැනෙන දේ තේරෙනවා.\n\nසතුට:\n'That's great!' — ඒක නියමයි!\n'Well done.' — හොඳයි.\n\nතේරුම් ගන්න ඕන දේ: 'Right' කියන එකේ තේරුම 'මම එකඟයි' කියන එක නෙවෙයි. ඒකේ තේරුම 'මට ඇහෙනවා, දිගටම කියන්න' කියන එකයි. ඒ නිසා ඒක එකඟ නොවෙන දෙයකටත් කියන්න පුළුවන්.",
+      "explain": "A silent listener sounds uninterested in English. Right does not mean I agree — it means I am with you, keep going.",
+      "formula": "Right. · Mm-hm. · I see. · Really? · Oh no.",
+      "table": {
+        "headers": [
+          "අවස්ථාව",
+          "කියන්නේ",
+          "සිංහල"
+        ],
+        "rows": [
+          [
+            "අහගෙන ඉන්නවා",
+            "Right. / I see.",
+            "හරි. තේරෙනවා."
+          ],
+          [
+            "පුදුමය",
+            "Really? / No!",
+            "ඇත්තටමද?"
+          ],
+          [
+            "දුක",
+            "Oh no. That's a shame.",
+            "අනේ. කනගාටුයි."
+          ],
+          [
+            "සතුට",
+            "That's great!",
+            "ඒක නියමයි!"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "— They cancelled it. — Oh no. After all that?",
+          "si": "— ඒගොල්ලෝ ඒක අවලංගු කළා. — අනේ. ඔච්චර දේවලට පස්සේ?"
+        },
+        {
+          "en": "— And then he apologised. — Really? That's not like him.",
+          "si": "— ඊට පස්සේ එයා සමාව ඉල්ලුවා. — ඇත්තටමද? ඒක එයාගේ විදිහ නෙවෙයි."
+        }
+      ],
+      "watchOutSi": "'Really?' කියන එකේ ස්වරය වැදගත්. උඩට යනවා නම් — පුදුමය. පහළට යනවා නම් — 'ඒක ඇත්තද?' කියන සැකය. දෙකේ අර්ථය දෙකක්."
+    },
+    {
+      "type": "grammar",
+      "title": "I mean, you know",
+      "titleSi": "I mean, you know",
+      "explainSi": "මේ දෙක ඉංග්‍රීසි කථාවේ බහුලම කෑලි දෙක. දෙකට වැඩ දෙකක්.\n\nI mean — කියපු දේ නිවැරදි කරන්න නැත්නම් පැහැදිලි කරන්න.\n\n'I'll be there at six — I mean seven.' (නිවැරදි කිරීම)\n'It was expensive. I mean, really expensive.' (අවධාරණය)\n'He's difficult. I mean, he's not unkind, he just never listens.' (පැහැදිලි කිරීම)\n\nතුන්වෙනි එක තමයි වැදගත්ම. 'I mean' කිව්වම ඔයා කලින් කිව්ව දේ විස්තර කරන්න පටන් ගන්නවා. ඉංග්‍රීසි කථා කරන අය මේක හැම වෙලාවෙම යොදනවා.\n\nYou know — දෙන්නාම දන්න දෙයක් කියනකොට.\n\n'It's near the temple, you know, the big one on the hill.'\n'She's got that thing — you know — where you can't eat wheat.'\n\nමේකෙන් අනිත් කෙනාව සංවාදයට ඇදගන්නවා. 'ඔයාත් දන්නවනේ' කියන අදහස.\n\nදෙකේම පොදු දෙයක්: මේවා හිතන්න වෙලාව දෙනවා. නිශ්ශබ්දව ඉන්නවා වෙනුවට 'I mean…' කිව්වම කථාව ඔයා ළඟම තියෙනවා, ඔයාට හිතන්න වෙලාව ලැබෙනවා.",
+      "explain": "I mean corrects, emphasises or explains what you just said. You know draws the listener in. Both also buy you a second to think.",
+      "formula": "I mean, … (නිවැරදි / පැහැදිලි)  ·  …, you know, … (දෙන්නාම දන්නවා)",
+      "table": {
+        "headers": [
+          "කෑල්ල",
+          "වැඩේ",
+          "උදාහරණය"
+        ],
+        "rows": [
+          [
+            "I mean",
+            "නිවැරදි කරනවා",
+            "at six — I mean seven"
+          ],
+          [
+            "I mean",
+            "අවධාරණය",
+            "expensive. I mean, really expensive"
+          ],
+          [
+            "I mean",
+            "පැහැදිලි කරනවා",
+            "He's difficult. I mean, he never listens."
+          ],
+          [
+            "you know",
+            "දෙන්නාම දන්නවා",
+            "near the temple, you know, the big one"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "It's not far — I mean, twenty minutes on foot.",
+          "si": "ඒක දුර නෑ — කිව්වේ, ඇවිදගෙන විනාඩි විස්සක්."
+        },
+        {
+          "en": "He's got that old car, you know, the green one.",
+          "si": "එයාට තියෙන්නේ අර පරණ කාරය, ඔයාත් දන්නවනේ, කොළ පාට එක."
+        }
+      ],
+      "watchOutSi": "'You know' කියන එක හැම වාක්‍යයකටම දැම්මොත් ඒක පුරුද්දක් වෙනවා, අහන් ඉන්න අමාරු වෙනවා. වාක්‍ය කීපයකට එකක් ඇති."
+    },
+    {
+      "type": "grammar",
+      "title": "sort of, kind of, a bit",
+      "titleSi": "sort of, kind of, a bit",
+      "explainSi": "ඉංග්‍රීසි කථාවේ ලොකු පුරුද්දක් තියෙනවා — දේවල් මෘදු කරන එක. නිශ්චිතව කියනවා වෙනුවට ටිකක් ලිහිල් කරනවා.\n\nsort of / kind of — 'වගේ', 'ටිකක්'.\n'It's sort of blue.' — ඒක නිල් වගේ.\n'I kind of agree.' — මම ටිකක් එකඟයි.\n'It was sort of strange.' — ඒක ටිකක් අමුතුයි.\n\nකථාවේදී මේවා 'sorta', 'kinda' වගේ ඇහෙනවා.\n\na bit / a little — ටිකක්.\n'I'm a bit tired.' — මම ටිකක් මහන්සියි.\n'It's a bit expensive.' — ඒක ටිකක් ගාන වැඩියි.\n\nමෙතන තියෙන සංස්කෘතික දෙයක් තේරුම් ගන්න ඕන. ඉංග්‍රීසි කථා කරන අය 'a bit' කියන්නේ 'ගොඩක්' කියන එකට. 'It's a bit expensive' කියන එකේ ඇත්ත අර්ථය බොහෝවිට 'ඒක ගොඩක් ගාන වැඩියි' කියන එකයි.\n\nඑහෙමයි 'not very good' — ඒකේ අර්ථය 'නරකයි'. 'I'm not sure that's a good idea' — ඒකේ අර්ථය 'ඒක නරක අදහසක්'.\n\nquite කියන එකත් ප්‍රවේශමෙන් — බ්‍රිතාන්‍ය ඉංග්‍රීසියෙන් 'quite good' කියන්නේ 'හොඳයි, ඒත් ලොකුවට නෙවෙයි'. ඇමරිකානු ඉංග්‍රීසියෙන් ඒක 'ගොඩක් හොඳයි'.",
+      "explain": "English understates. A bit expensive often means very expensive, and not very good means bad.",
+      "formula": "sort of / kind of / a bit + විශේෂණය",
+      "table": {
+        "headers": [
+          "කියන්නේ",
+          "ඇත්ත අර්ථය"
+        ],
+        "rows": [
+          [
+            "It's a bit expensive.",
+            "ගාන ගොඩක් වැඩියි"
+          ],
+          [
+            "It's not very good.",
+            "ඒක නරකයි"
+          ],
+          [
+            "I'm not sure that's a good idea.",
+            "ඒක නරක අදහසක්"
+          ],
+          [
+            "It's sort of blue.",
+            "නිල් වගේ — නිශ්චිත නෑ"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "The food was a bit cold, to be honest.",
+          "si": "ඇත්ත කිව්වොත් කෑම ටිකක් හීතලයි."
+        },
+        {
+          "en": "I kind of expected that.",
+          "si": "මම ටිකක් ඒක බලාපොරොත්තු වුණා."
+        }
+      ],
+      "watchOutSi": "සිංහලෙන් සෘජුව කථා කරන එක සාමාන්‍යයි. ඉංග්‍රීසියෙන් ඒක සෘජුව පරිවර්තනය කළොත් රළු වෙන්න පුළුවන්. 'The food was bad' කියනවා වෙනුවට 'The food wasn't great' කියන එක ස්වාභාවිකයි."
+    },
+    {
+      "type": "vocab",
+      "title": "The small words",
+      "titleSi": "පොඩි වචන",
+      "introSi": "මේවා තනි වචන නෙවෙයි — කථාවේ ඇමිණුම්.",
+      "items": [
+        {
+          "en": "right",
+          "si": "හරි (අහගෙන ඉන්නවා)",
+          "say": "රයිට්",
+          "exampleEn": "Right. And then what?",
+          "exampleSi": "හරි. ඊට පස්සේ?"
+        },
+        {
+          "en": "I see",
+          "si": "තේරෙනවා",
+          "say": "අයි සී",
+          "exampleEn": "I see. That explains it.",
+          "exampleSi": "තේරෙනවා. ඒකෙන් තේරුම් ගන්න පුළුවන්."
+        },
+        {
+          "en": "really?",
+          "si": "ඇත්තටමද?",
+          "say": "රියලි",
+          "exampleEn": "Really? I had no idea.",
+          "exampleSi": "ඇත්තටමද? මම දැනගෙන හිටියේ නෑ."
+        },
+        {
+          "en": "oh no",
+          "si": "අනේ",
+          "say": "ඕ නෝ",
+          "exampleEn": "Oh no. What happened?",
+          "exampleSi": "අනේ. මොකද වුණේ?"
+        },
+        {
+          "en": "that's a shame",
+          "si": "ඒක කනගාටුයි",
+          "say": "දැට්ස් අ ෂේම්",
+          "exampleEn": "That's a shame.",
+          "exampleSi": "ඒක කනගාටුයි."
+        },
+        {
+          "en": "I mean",
+          "si": "කිව්වේ",
+          "say": "අයි මීන්",
+          "exampleEn": "At six — I mean seven.",
+          "exampleSi": "හයට — කිව්වේ හතට."
+        },
+        {
+          "en": "you know",
+          "si": "ඔයාත් දන්නවනේ",
+          "say": "යූ නෝ",
+          "exampleEn": "Near the temple, you know.",
+          "exampleSi": "පන්සල ළඟ, ඔයාත් දන්නවනේ."
+        },
+        {
+          "en": "sort of",
+          "si": "වගේ, ටිකක්",
+          "say": "සෝට් ඔෆ්",
+          "exampleEn": "It's sort of blue.",
+          "exampleSi": "ඒක නිල් වගේ."
+        },
+        {
+          "en": "kind of",
+          "si": "වගේ, ටිකක්",
+          "say": "කයින්ඩ් ඔෆ්",
+          "exampleEn": "I kind of agree.",
+          "exampleSi": "මම ටිකක් එකඟයි."
+        },
+        {
+          "en": "a bit",
+          "si": "ටිකක්",
+          "say": "අ බිට්",
+          "exampleEn": "I'm a bit tired.",
+          "exampleSi": "මම ටිකක් මහන්සියි."
+        },
+        {
+          "en": "to be honest",
+          "si": "ඇත්ත කිව්වොත්",
+          "say": "ටු බී ඔනස්ට්",
+          "exampleEn": "To be honest, I didn't like it.",
+          "exampleSi": "ඇත්ත කිව්වොත්, මම කැමති වුණේ නෑ."
+        },
+        {
+          "en": "fair enough",
+          "si": "හරි, පිළිගන්නවා",
+          "say": "ෆෙයා ඉනෆ්",
+          "exampleEn": "Fair enough. Let's do that.",
+          "exampleSi": "හරි. එහෙනම් එහෙම කරමු."
+        },
+        {
+          "en": "anyway",
+          "si": "එහෙනම්",
+          "say": "එනිවේ",
+          "exampleEn": "Well, anyway, it's done.",
+          "exampleSi": "එහෙනම්, ඒක ඉවරයි."
+        },
+        {
+          "en": "well",
+          "si": "එහෙනම්, හොඳයි",
+          "say": "වෙල්",
+          "exampleEn": "Well, it depends.",
+          "exampleSi": "එහෙනම්, ඒක තියෙන්නේ තත්ත්වය අනුව."
+        },
+        {
+          "en": "let me think",
+          "si": "හිතන්න දෙන්න",
+          "say": "ලෙට් මී තින්ක්",
+          "exampleEn": "Let me think for a second.",
+          "exampleSi": "තත්පරයක් හිතන්න දෙන්න."
+        },
+        {
+          "en": "how do I put it",
+          "si": "කොහොමද කියන්නේ",
+          "say": "හව් ඩූ අයි පුට් ඉට්",
+          "exampleEn": "It was — how do I put it — odd.",
+          "exampleSi": "ඒක — කොහොමද කියන්නේ — අමුතුයි."
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "So how was it?",
+      "titleSi": "එහෙනම් කොහොමද?",
+      "settingSi": "යාළුවෝ දෙන්නෙක්. පොඩි වචන කීයක් තියෙනවාද කියලා ගණන් කරන්න.",
+      "lines": [
+        {
+          "speaker": "Nadeesha",
+          "en": "So how was the new place?",
+          "si": "එහෙනම් අලුත් තැන කොහොමද?"
+        },
+        {
+          "speaker": "Ruwan",
+          "en": "It was — how do I put it — a bit strange.",
+          "si": "ඒක — කොහොමද කියන්නේ — ටිකක් අමුතුයි."
+        },
+        {
+          "speaker": "Nadeesha",
+          "en": "Really? In what way?",
+          "si": "ඇත්තටමද? මොන විදිහටද?"
+        },
+        {
+          "speaker": "Ruwan",
+          "en": "Well, the food was fine. I mean, actually it was very good. But nobody spoke.",
+          "si": "එහෙනම්, කෑම හොඳයි. ඇත්තටම හරිම හොඳයි. ඒත් කවුරුවත් කථා කළේ නෑ."
+        },
+        {
+          "speaker": "Nadeesha",
+          "en": "Right. Not even the staff?",
+          "si": "හරි. සේවකයොත් නෑ?"
+        },
+        {
+          "speaker": "Ruwan",
+          "en": "Not a word. You know that feeling when a place is too quiet?",
+          "si": "එක වචනයක්වත් නෑ. තැනක් හරිම නිශ්ශබ්ද වුණාම දැනෙන ඒ දැනීම දන්නවනේ?"
+        },
+        {
+          "speaker": "Nadeesha",
+          "en": "Oh, I know exactly what you mean. Would you go again?",
+          "si": "ඕ, මට හරියටම තේරෙනවා. ආපහු යනවාද?"
+        },
+        {
+          "speaker": "Ruwan",
+          "en": "Sort of. For the food, yes. Anyway — how was your week?",
+          "si": "ටිකක්. කෑම නිසා ඔව්. එහෙනම් — ඔයාගේ සතිය කොහොමද?"
+        }
+      ]
+    },
+    {
+      "type": "story",
+      "title": "The one who sounded like a textbook",
+      "titleSi": "පොතක් වගේ ඇහුණු කෙනා",
+      "introSi": "පොඩි වචන නැති ඉංග්‍රීසිය ගැන කෙටි කතාවක්.",
+      "paragraphs": [
+        {
+          "en": "Everyone in the office agreed that Malith's English was the best of any of them. His grammar was perfect. His vocabulary was enormous.",
+          "si": "මලිත්ගේ ඉංග්‍රීසි ඔෆිස් එකේ හැමෝගෙන්ම හොඳයි කියලා හැමෝම එකඟයි. එයාගේ ව්‍යාකරණ නිවැරදියි. වචන මාලාව අති විශාලයි."
+        },
+        {
+          "en": "And yet the clients on the phone kept asking to speak to somebody else — to Dilani, whose grammar was worse and who said \"right\" and \"oh no\" and \"you know\" about forty times a call.",
+          "si": "ඒත් දුරකථනයේ සේවාදායකයෝ නිතරම ඉල්ලුවේ වෙන කෙනෙක් එක්ක කථා කරන්න — දිලානි එක්ක. දිලානිගේ ව්‍යාකරණ ඊට වඩා දුර්වලයි, ඒත් ඇය එක ඇමතුමකදී \"right\", \"oh no\", \"you know\" හතළිහක් විතර කිව්වා."
+        },
+        {
+          "en": "Malith answered every question correctly and completely. Between his sentences there was nothing at all, and on a telephone, nothing sounds like nobody is there.",
+          "si": "මලිත් හැම ප්‍රශ්නයකටම නිවැරදිව, සම්පූර්ණයෙන් උත්තර දුන්නා. එයාගේ වාක්‍ය අතරේ මොකුත්ම තිබුණේ නෑ — දුරකථනයක, මොකුත් නැති එක කියන්නේ එහෙ කවුරුවත් නෑ කියන එකයි."
+        },
+        {
+          "en": "Nobody ever told him. He is still the best English speaker in that office, and clients still ask for Dilani.",
+          "si": "කවුරුවත් එයාට ඒක කිව්වේ නෑ. එයා තාමත් ඒ ඔෆිස් එකේ හොඳම ඉංග්‍රීසි කථා කරන කෙනා, සේවාදායකයෝ තාමත් ඉල්ලන්නේ දිලානිව."
+        }
+      ],
+      "glossary": [
+        {
+          "en": "client",
+          "si": "සේවාදායකයා"
+        },
+        {
+          "en": "vocabulary",
+          "si": "වචන මාලාව"
+        },
+        {
+          "en": "enormous",
+          "si": "අති විශාල"
+        },
+        {
+          "en": "between",
+          "si": "අතරේ"
+        }
+      ],
+      "questionsSi": [
+        "මලිත්ගේ ඉංග්‍රීසියේ අඩුව මොකක්ද?",
+        "සේවාදායකයෝ දිලානිට කැමති වුණේ ඇයි?",
+        "දුරකථනයේදී මේ පොඩි වචන තව වැදගත් වෙන්නේ ඇයි?"
+      ]
+    },
+    {
+      "type": "tip",
+      "title": "Speaking only — not writing",
+      "titleSi": "කථාවට විතරයි — ලියන එකට නෙවෙයි",
+      "bodySi": "මේ පාඩමේ හැම කෑල්ලක්ම කථා කරන ඉංග්‍රීසියට.\n\nවිධිමත් ලියුමකට, වාර්තාවකට, විභාග රචනයකට මේවා දාන්න එපා:\n\n✗ 'The results were, you know, sort of disappointing.'\n✓ 'The results were disappointing.'\n\nඑහෙමයි WhatsApp පණිවිඩයක් — ඒක ලියන එකක් වුණත් කථාවක් වගේ, ඒ නිසා මේවා හරි.\n\nරීතිය සරලයි: කවුරු හරි ඒක අහනවා නම් — හරි. කවුරු හරි ඒක කියවනවා නම් — එපා.",
+      "body": "These belong to speech. In a report or an exam essay they read as sloppy — but in a message that sounds like talking, they are fine."
+    },
+    {
+      "type": "practice",
+      "title": "Fill the gap in the talk",
+      "titleSi": "කථාවේ හිස් තැන පුරවන්න",
+      "instructionSi": "අවස්ථාවට ගැලපෙන පොඩි වචනය ලියන්න.",
+      "items": [
+        {
+          "prompt": "— They cancelled the trip. — ___ no. After all that planning?",
+          "answer": "Oh",
+          "hintSi": "දුකට ප්‍රතිචාරය.",
+          "full": "Oh no. After all that planning?"
+        },
+        {
+          "prompt": "I'll be there at six — ___ seven. Sorry.",
+          "answer": "I mean",
+          "hintSi": "නිවැරදි කරනවා.",
+          "full": "I'll be there at six — I mean seven."
+        },
+        {
+          "prompt": "It's near the temple, ___, the big one on the hill.",
+          "answer": "you know",
+          "hintSi": "දෙන්නාම දන්නවා කියන අදහස.",
+          "full": "It's near the temple, you know, the big one on the hill."
+        },
+        {
+          "prompt": "— And then he apologised. — ___? That's not like him.",
+          "answer": "Really",
+          "hintSi": "පුදුමය.",
+          "full": "Really? That's not like him."
+        },
+        {
+          "prompt": "The food was ___ bit cold, to be honest.",
+          "answer": "a",
+          "hintSi": "'ටිකක්' කියන යෙදුම.",
+          "full": "The food was a bit cold, to be honest."
+        },
+        {
+          "prompt": "— We could go on Sunday instead. — ___ enough.",
+          "answer": "Fair",
+          "hintSi": "'හරි, පිළිගන්නවා' කියන අදහස.",
+          "full": "Fair enough."
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "b1-21-q1",
+      "q": "අහගෙන ඉන්න කෙනා නිශ්ශබ්ද වුණොත් ඉංග්‍රීසි කථාවක?",
+      "options": [
+        "ඒක ආචාරශීලීයි",
+        "අනිත් කෙනාට හිතෙනවා උනන්දුවක් නෑ කියලා",
+        "ඒක සාමාන්‍යයි",
+        "ඒක වඩාත් හොඳයි"
+      ],
+      "answer": 1,
+      "explainSi": "හැම වාක්‍ය එකක් දෙකකට පස්සේම පොඩි ශබ්දයක් දෙනවා."
+    },
+    {
+      "id": "b1-21-q2",
+      "q": "'Right.' කියන එකේ ඇත්ත වැඩේ?",
+      "options": [
+        "මම එකඟයි",
+        "මට ඇහෙනවා, දිගටම කියන්න",
+        "මම එකඟ නෑ",
+        "ඒක ඉවරයි"
+      ],
+      "answer": 1,
+      "explainSi": "ඒ නිසා එකඟ නොවෙන දෙයකටත් 'Right' කියන්න පුළුවන්."
+    },
+    {
+      "id": "b1-21-q3",
+      "q": "'I mean' කරන වැඩ තුනෙන් එකක්?",
+      "options": [
+        "මාතෘකාව හරවනවා",
+        "කියපු දේ නිවැරදි කරනවා",
+        "සමුගන්නවා",
+        "ප්‍රශ්නයක් අහනවා"
+      ],
+      "answer": 1,
+      "explainSi": "නිවැරදි කිරීම, අවධාරණය, පැහැදිලි කිරීම — තුනම."
+    },
+    {
+      "id": "b1-21-q4",
+      "q": "හිස් තැනට: 'I'll be there at six — ___ seven.'",
+      "options": [
+        "you know",
+        "I mean",
+        "sort of",
+        "right"
+      ],
+      "answer": 1,
+      "explainSi": "නිවැරදි කරනවා."
+    },
+    {
+      "id": "b1-21-q5",
+      "q": "'you know' කරන්නේ?",
+      "options": [
+        "දෙන්නාම දන්න දෙයක් කියලා අනිත් කෙනාව ඇදගන්නවා",
+        "ප්‍රශ්නයක් අහනවා",
+        "එකඟ නොවෙනවා",
+        "සමුගන්නවා"
+      ],
+      "answer": 0,
+      "explainSi": "'ඔයාත් දන්නවනේ' කියන අදහස."
+    },
+    {
+      "id": "b1-21-q6",
+      "q": "'It's a bit expensive' කියන එකේ ඇත්ත අර්ථය බොහෝවිට?",
+      "options": [
+        "ටිකක් ගාන වැඩියි",
+        "ගාන ගොඩක් වැඩියි",
+        "ලාභයි",
+        "ගාන හරි"
+      ],
+      "answer": 1,
+      "explainSi": "ඉංග්‍රීසි කථාව දේවල් මෘදු කරනවා — 'a bit' කියන්නේ බොහෝවිට 'ගොඩක්'."
+    },
+    {
+      "id": "b1-21-q7",
+      "q": "'It's not very good' කියන එකේ අර්ථය?",
+      "options": [
+        "ඒක හොඳයි",
+        "ඒක නරකයි",
+        "ඒක නියමයි",
+        "ඒක සාමාන්‍යයි"
+      ],
+      "answer": 1,
+      "explainSi": "මෘදු කිරීම — ඇත්ත අර්ථය තදයි."
+    },
+    {
+      "id": "b1-21-q8",
+      "q": "'sort of' සහ 'kind of' අතර වෙනස?",
+      "options": [
+        "අර්ථ දෙකක්",
+        "වෙනසක් නෑ — දෙකම 'වගේ, ටිකක්'",
+        "එකක් අතීතය",
+        "එකක් ලියන එකට"
+      ],
+      "answer": 1,
+      "explainSi": "දෙකම එකයි. කථාවේදී 'sorta', 'kinda' වගේ ඇහෙනවා."
+    },
+    {
+      "id": "b1-21-q9",
+      "q": "මේ පොඩි වචන යෙදෙන්නේ කොහෙද?",
+      "options": [
+        "හැම තැනම",
+        "කථා කරන එකට — ලියන එකට, විශේෂයෙන් විධිමත් ලියවිලිවලට නෙවෙයි",
+        "ලියන එකට විතරයි",
+        "විභාග රචනවලට"
+      ],
+      "answer": 1,
+      "explainSi": "කවුරු හරි අහනවා නම් හරි; කියවනවා නම් එපා."
+    },
+    {
+      "id": "b1-21-q10",
+      "q": "'Really?' කියන එකේ ස්වරය පහළට ගියොත්?",
+      "options": [
+        "පුදුමය",
+        "සැකය — 'ඒක ඇත්තද?'",
+        "සතුට",
+        "තරහ"
+      ],
+      "answer": 1,
+      "explainSi": "උඩට යනවා නම් පුදුමය; පහළට යනවා නම් සැකය."
+    },
+    {
+      "id": "b1-21-q11",
+      "q": "'Fair enough' කියන්නේ?",
+      "options": [
+        "ඒක සාධාරණ නෑ",
+        "හරි, පිළිගන්නවා",
+        "ප්‍රමාණවත් නෑ",
+        "ඇති"
+      ],
+      "answer": 1,
+      "explainSi": "අනිත් කෙනාගේ කාරණය පිළිගන්නවා."
+    },
+    {
+      "id": "b1-21-q12",
+      "q": "හිතන්න වෙලාව ගන්න යෙදුමක්?",
+      "options": [
+        "Fair enough.",
+        "How do I put it…",
+        "Oh no.",
+        "Really?"
+      ],
+      "answer": 1,
+      "explainSi": "නිශ්ශබ්දව ඉන්නවා වෙනුවට කථාව ඔයා ළඟම තියාගන්නවා."
+    },
+    {
+      "id": "b1-21-q13",
+      "q": "දුරකථනයේදී මේ පොඩි වචන තව වැදගත් වෙන්නේ ඇයි?",
+      "options": [
+        "ශබ්දය නරක නිසා",
+        "මුහුණ පේන්නේ නැති නිසා — නිශ්ශබ්දතාව 'කවුරුවත් නෑ' වගේ",
+        "වචන අඩු නිසා",
+        "ඒක වේගවත් නිසා"
+      ],
+      "answer": 1,
+      "explainSi": "දුරකථනයක නිශ්ශබ්දතාව බියජනකයි."
+    },
+    {
+      "id": "b1-21-q14",
+      "q": "'The food was bad' කියනවා වෙනුවට ස්වාභාවික එක?",
+      "options": [
+        "The food was very bad.",
+        "The food wasn't great.",
+        "The food is bad.",
+        "Bad food."
+      ],
+      "answer": 1,
+      "explainSi": "මෘදු කිරීම ඉංග්‍රීසි කථාවේ පුරුද්දක්."
+    },
+    {
+      "id": "b1-21-q15",
+      "q": "'you know' හැම වාක්‍යයකටම දැම්මොත්?",
+      "options": [
+        "ඒක වඩාත් හොඳයි",
+        "ඒක පුරුද්දක් වෙලා අහන් ඉන්න අමාරු වෙනවා",
+        "වෙනසක් නෑ",
+        "ඒක වඩාත් විධිමත් වෙනවා"
+      ],
+      "answer": 1,
+      "explainSi": "වාක්‍ය කීපයකට එකක් ඇති."
+    },
+    {
+      "id": "b1-21-q16",
+      "q": "බ්‍රිතාන්‍ය ඉංග්‍රීසියෙන් 'quite good' කියන්නේ?",
+      "options": [
+        "ගොඩක් හොඳයි",
+        "හොඳයි, ඒත් ලොකුවට නෙවෙයි",
+        "නරකයි",
+        "නියමයි"
+      ],
+      "answer": 1,
+      "explainSi": "ඇමරිකානු ඉංග්‍රීසියෙන් ඒක 'ගොඩක් හොඳයි' — ඒ නිසා ප්‍රවේශමෙන්."
+    },
+    {
+      "id": "b1-21-q17",
+      "q": "දුකක් අහපු ගමන් කියන්නේ?",
+      "options": [
+        "That's great!",
+        "Oh no. That's a shame.",
+        "Fair enough.",
+        "Right."
+      ],
+      "answer": 1,
+      "explainSi": "සහානුභූතිය පෙන්නන ප්‍රතිචාරය."
+    },
+    {
+      "id": "b1-21-q18",
+      "q": "'To be honest' යෙදෙන්නේ?",
+      "options": [
+        "බොරු කියනකොට",
+        "ටිකක් අප්‍රසන්න ඇත්තක් මෘදුව කියනකොට",
+        "එකඟ වෙනකොට",
+        "සමුගන්නකොට"
+      ],
+      "answer": 1,
+      "explainSi": "'To be honest, I didn't like it.' — ඇත්ත, ඒත් මෘදුව."
+    }
+  ],
+  "vocab": [
+    {
+      "en": "right",
+      "si": "හරි (අහගෙන ඉන්නවා)",
+      "say": "රයිට්",
+      "exampleEn": "Right. And then what?",
+      "exampleSi": "හරි. ඊට පස්සේ?"
+    },
+    {
+      "en": "I see",
+      "si": "තේරෙනවා",
+      "say": "අයි සී",
+      "exampleEn": "I see. That explains it.",
+      "exampleSi": "තේරෙනවා. ඒකෙන් තේරුම් ගන්න පුළුවන්."
+    },
+    {
+      "en": "really?",
+      "si": "ඇත්තටමද?",
+      "say": "රියලි",
+      "exampleEn": "Really? I had no idea.",
+      "exampleSi": "ඇත්තටමද? මම දැනගෙන හිටියේ නෑ."
+    },
+    {
+      "en": "oh no",
+      "si": "අනේ",
+      "say": "ඕ නෝ",
+      "exampleEn": "Oh no. What happened?",
+      "exampleSi": "අනේ. මොකද වුණේ?"
+    },
+    {
+      "en": "that's a shame",
+      "si": "ඒක කනගාටුයි",
+      "say": "දැට්ස් අ ෂේම්",
+      "exampleEn": "That's a shame.",
+      "exampleSi": "ඒක කනගාටුයි."
+    },
+    {
+      "en": "I mean",
+      "si": "කිව්වේ",
+      "say": "අයි මීන්",
+      "exampleEn": "At six — I mean seven.",
+      "exampleSi": "හයට — කිව්වේ හතට."
+    },
+    {
+      "en": "you know",
+      "si": "ඔයාත් දන්නවනේ",
+      "say": "යූ නෝ",
+      "exampleEn": "Near the temple, you know.",
+      "exampleSi": "පන්සල ළඟ, ඔයාත් දන්නවනේ."
+    },
+    {
+      "en": "sort of",
+      "si": "වගේ, ටිකක්",
+      "say": "සෝට් ඔෆ්",
+      "exampleEn": "It's sort of blue.",
+      "exampleSi": "ඒක නිල් වගේ."
+    },
+    {
+      "en": "kind of",
+      "si": "වගේ, ටිකක්",
+      "say": "කයින්ඩ් ඔෆ්",
+      "exampleEn": "I kind of agree.",
+      "exampleSi": "මම ටිකක් එකඟයි."
+    },
+    {
+      "en": "a bit",
+      "si": "ටිකක්",
+      "say": "අ බිට්",
+      "exampleEn": "I'm a bit tired.",
+      "exampleSi": "මම ටිකක් මහන්සියි."
+    },
+    {
+      "en": "to be honest",
+      "si": "ඇත්ත කිව්වොත්",
+      "say": "ටු බී ඔනස්ට්",
+      "exampleEn": "To be honest, I didn't like it.",
+      "exampleSi": "ඇත්ත කිව්වොත්, මම කැමති වුණේ නෑ."
+    },
+    {
+      "en": "fair enough",
+      "si": "හරි, පිළිගන්නවා",
+      "say": "ෆෙයා ඉනෆ්",
+      "exampleEn": "Fair enough. Let's do that.",
+      "exampleSi": "හරි. එහෙනම් එහෙම කරමු."
+    },
+    {
+      "en": "anyway",
+      "si": "එහෙනම්",
+      "say": "එනිවේ",
+      "exampleEn": "Well, anyway, it's done.",
+      "exampleSi": "එහෙනම්, ඒක ඉවරයි."
+    },
+    {
+      "en": "well",
+      "si": "එහෙනම්, හොඳයි",
+      "say": "වෙල්",
+      "exampleEn": "Well, it depends.",
+      "exampleSi": "එහෙනම්, ඒක තියෙන්නේ තත්ත්වය අනුව."
+    },
+    {
+      "en": "let me think",
+      "si": "හිතන්න දෙන්න",
+      "say": "ලෙට් මී තින්ක්",
+      "exampleEn": "Let me think for a second.",
+      "exampleSi": "තත්පරයක් හිතන්න දෙන්න."
+    },
+    {
+      "en": "how do I put it",
+      "si": "කොහොමද කියන්නේ",
+      "say": "හව් ඩූ අයි පුට් ඉට්",
+      "exampleEn": "It was — how do I put it — odd.",
+      "exampleSi": "ඒක — කොහොමද කියන්නේ — අමුතුයි."
+    }
+  ]
+}

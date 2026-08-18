@@ -1,0 +1,112 @@
+{
+  "quiz": [
+    {
+      "id": "u4d-cp-q1",
+      "q": "නොහඳුනන කෙනෙකුට කථා කරන්න පටන් ගන්නේ කොහොමද?",
+      "options": ["Hey!", "Excuse me…", "Guess what!", "Listen."],
+      "answer": 1,
+      "explainSi": "'Excuse me' — නොහඳුනන කෙනෙකුට හැමවිටම.",
+      "speak": "Excuse me, could you help me?"
+    },
+    {
+      "id": "u4d-cp-q2",
+      "q": "ඉංග්‍රීසි කථාවක් අවසන් වෙන්නේ පියවර කීයකින්ද?",
+      "options": ["එකයි — 'Bye'", "දෙකයි — සංඥාව, ඊට පස්සේ සමුගැනීම", "තුනයි", "පියවර නෑ"],
+      "answer": 1,
+      "explainSi": "සංඥාව නැතුව 'Bye' කිව්වොත් තරහ වගේ ඇහෙනවා."
+    },
+    {
+      "id": "u4d-cp-q3",
+      "q": "'I should let you go' කියන එකේ ඇත්ත අර්ථය?",
+      "options": ["ඔයාට යන්න කියනවා", "මට යන්න ඕන — බර අනිත් කෙනාට දෙනවා", "ඔයා යන්න එපා", "ඔයා පරක්කුයි"],
+      "answer": 1,
+      "explainSi": "ඉංග්‍රීසි ආචාරශීලීකමේ රටාවක්."
+    },
+    {
+      "id": "u4d-cp-q4",
+      "q": "ආචාරශීලීම බාධා කිරීම?",
+      "options": ["Listen!", "Sorry to interrupt, but…", "Stop.", "No, no."],
+      "answer": 1,
+      "explainSi": "සමාව + ඉල්ලීම + අදහස, එක හුස්මකින්."
+    },
+    {
+      "id": "u4d-cp-q5",
+      "q": "ඔයාට බාධා වුණාට පස්සේ ආපහු පටන් ගන්නේ?",
+      "options": ["I was talking!", "As I was saying…", "You interrupted me.", "Never mind."],
+      "answer": 1,
+      "explainSi": "තරහක් නැතුව කථාව ආපහු ගන්නවා."
+    },
+    {
+      "id": "u4d-cp-q6",
+      "q": "'Anyway' කියන එකට වැඩ කීයක් තියෙනවාද?",
+      "options": ["එකයි", "දෙකයි", "තුනයි — මාතෘකාව හරවනවා, ආපහු ගන්නවා, ඉවර කරනවා", "හතරයි"],
+      "answer": 2,
+      "explainSi": "ඒ නිසා ඒක බහුලම වචනවලින් එකක්."
+    },
+    {
+      "id": "u4d-cp-q7",
+      "q": "ශබ්දය නිසා අහගන්න බැරි වුණාම කියන්නේ?",
+      "options": ["I don't follow.", "I didn't catch that.", "What do you mean?", "Does that make sense?"],
+      "answer": 1,
+      "explainSi": "'catch' කියන්නේ අහගන්න එක.",
+      "speak": "Sorry, I didn't catch that."
+    },
+    {
+      "id": "u4d-cp-q8",
+      "q": "ඉංග්‍රීසි කථාවේ බහුලම වැරදීම?",
+      "options": ["නම්", "ඉලක්කම් — fifteen/fifty, thirteen/thirty", "දින", "ස්ථාන"],
+      "answer": 1,
+      "explainSi": "වෙනස තියෙන්නේ අවධාරණයේ විතරයි."
+    },
+    {
+      "id": "u4d-cp-q9",
+      "q": "'Do you understand?' වෙනුවට වඩා හොඳ එක?",
+      "options": ["Understand me?", "Does that make sense?", "Clear?", "You know nothing?"],
+      "answer": 1,
+      "explainSi": "බර ඔයාගේ පැහැදිලි කිරීමට යනවා, අනිත් කෙනාට නෙවෙයි."
+    },
+    {
+      "id": "u4d-cp-q10",
+      "q": "'— I'm hungry. — ___' — මමත් එහෙමයි කියන්නේ?",
+      "options": ["So do I.", "So am I.", "So I am.", "Neither am I."],
+      "answer": 1,
+      "explainSi": "'I'm' නිසා am, සහ පිළිවෙළ පෙරළෙනවා.",
+      "speak": "So am I."
+    },
+    {
+      "id": "u4d-cp-q11",
+      "q": "'— I don't smoke. — ___'",
+      "options": ["So do I.", "Neither do I.", "Neither don't I.", "So don't I."],
+      "answer": 1,
+      "explainSi": "නැහැ වාක්‍යයකට Neither; ආපහු නැහැ එකක් දාන්නේ නෑ."
+    },
+    {
+      "id": "u4d-cp-q12",
+      "q": "ඉංග්‍රීසියෙන් එකඟ නොවෙන රටාව?",
+      "options": ["කෙළින්ම 'No'", "පිළිගැනීම + but + ඔයාගේ අදහස", "නිශ්ශබ්ද වීම", "මාතෘකාව හැරවීම"],
+      "answer": 1,
+      "explainSi": "'I see what you mean, but…'"
+    },
+    {
+      "id": "u4d-cp-q13",
+      "q": "'Right.' කියන එකේ ඇත්ත වැඩේ?",
+      "options": ["මම එකඟයි", "මට ඇහෙනවා, දිගටම කියන්න", "මම එකඟ නෑ", "ඒක ඉවරයි"],
+      "answer": 1,
+      "explainSi": "එකඟ නොවෙන දෙයකටත් 'Right' කියන්න පුළුවන්."
+    },
+    {
+      "id": "u4d-cp-q14",
+      "q": "'It's a bit expensive' කියන එකේ ඇත්ත අර්ථය බොහෝවිට?",
+      "options": ["ටිකක් ගාන වැඩියි", "ගාන ගොඩක් වැඩියි", "ලාභයි", "ගාන හරි"],
+      "answer": 1,
+      "explainSi": "ඉංග්‍රීසි කථාව දේවල් මෘදු කරනවා."
+    },
+    {
+      "id": "u4d-cp-q15",
+      "q": "මේ පොඩි වචන (I mean, you know, sort of) යෙදෙන්නේ?",
+      "options": ["හැම තැනම", "කථා කරන එකට — විධිමත් ලියවිලිවලට නෙවෙයි", "ලියන එකට විතරයි", "විභාග රචනවලට"],
+      "answer": 1,
+      "explainSi": "කවුරු හරි අහනවා නම් හරි; කියවනවා නම් එපා."
+    }
+  ]
+}

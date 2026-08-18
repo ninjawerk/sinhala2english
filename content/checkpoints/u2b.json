@@ -1,0 +1,105 @@
+{
+  "quiz": [
+    {
+      "id": "u2b-cp-q1",
+      "q": "'කවුරුහරි දොර ළඟ ඉන්නවා.' — ඉංග්‍රීසියෙන්?",
+      "options": ["Anyone is at the door.", "Someone is at the door.", "No one is at the door.", "Everyone is at the door."],
+      "answer": 1,
+      "explainSi": "ධනාත්මක වාක්‍යයක නිශ්චිත නොවන කෙනෙකු ගැන — 'someone'.",
+      "speak": "Someone is at the door."
+    },
+    {
+      "id": "u2b-cp-q2",
+      "q": "'කවුරුවත් ආවේ නෑ.' — ඉංග්‍රීසියෙන්?",
+      "options": ["Anyone didn't come.", "No one didn't come.", "No one came.", "Someone didn't come."],
+      "answer": 2,
+      "explainSi": "'No one came.' — 'no one' එකෙන්ම negative අර්ථය, 'didn't' නැවත යොදන්නේ නෑ (double negative වළක්වනවා).",
+      "speak": "No one came."
+    },
+    {
+      "id": "u2b-cp-q3",
+      "q": "'Someone' සහ 'anyone' සමඟ ක්‍රියාව ඒකවචනද බහුවචනද?",
+      "options": ["ඒකවචන (is/has)", "බහුවචන (are/have)", "දෙකම භාවිතා කළ හැක", "ක්‍රියාවක්ම නෑ"],
+      "answer": 0,
+      "explainSi": "'someone/anyone/everyone' සමඟ ක්‍රියාව සැමවිටම ඒකවචන."
+    },
+    {
+      "id": "u2b-cp-q4",
+      "q": "'මට කිසිවක් ඕන නෑ.' — ඉංග්‍රීසියෙන්?",
+      "options": ["I want anything.", "I don't want nothing.", "I don't want anything.", "I want nothing not."],
+      "answer": 2,
+      "explainSi": "negative වාක්‍යයක 'anything' භාවිතා කරනවා — 'I don't want anything.' (හෝ 'I want nothing.' විතරක්, දෙකම නෑ.)",
+      "speak": "I don't want anything."
+    },
+    {
+      "id": "u2b-cp-q5",
+      "q": "'මට යන්න කොහෙවත් නෑ.' — ඉංග්‍රීසියෙන්?",
+      "options": ["I have anywhere to go.", "I don't have anywhere to go.", "I don't have nowhere to go.", "I have nowhere not to go."],
+      "answer": 1,
+      "explainSi": "negative වාක්‍යයක 'anywhere' — 'I don't have anywhere to go.' (හෝ 'I have nowhere to go.')"
+    },
+    {
+      "id": "u2b-cp-q6",
+      "q": "'මට යමක් උදව් කරන්න පුළුවන්ද?' (offer එකක්) — 'something' ද 'anything' ද?",
+      "options": ["Can I help you with something?", "Can I help you with anything?", "Can I help you with everything?", "Can I help you with nothing?"],
+      "answer": 1,
+      "explainSi": "offers/requests වලදී 'anything' භාවිතා කරනවා — 'Can I help you with anything?'",
+      "speak": "Can I help you with anything?"
+    },
+    {
+      "id": "u2b-cp-q7",
+      "q": "'ඇය දර්පණයේ තමන්වම බැලුවා.' — reflexive pronoun?",
+      "options": ["She looked at her in the mirror.", "She looked at herself in the mirror.", "She looked at hers in the mirror.", "She looked at she in the mirror."],
+      "answer": 1,
+      "explainSi": "තමන්වම ගැන කථා කරද්දී 'herself' (reflexive pronoun) භාවිතා කරනවා.",
+      "speak": "She looked at herself in the mirror."
+    },
+    {
+      "id": "u2b-cp-q8",
+      "q": "'ඔවුන් එකිනෙකාට උදව් කළා.' (දෙදෙනාම එකිනෙකාට) — 'themselves' ද 'each other' ද?",
+      "options": ["They helped themselves.", "They helped each other.", "They helped theirself.", "They helped other."],
+      "answer": 1,
+      "explainSi": "දෙපාර්ශවයක ක්‍රියාවක් සඳහා 'each other', තමන්වම කරන දේට 'themselves'.",
+      "speak": "They helped each other."
+    },
+    {
+      "id": "u2b-cp-q9",
+      "q": "'මම තනියම ගියා.' — ඉංග්‍රීසියෙන්?",
+      "options": ["I went by myself.", "I went myself.", "I went for myself.", "I went with myself."],
+      "answer": 0,
+      "explainSi": "'by myself' — තනියම, උදව්වක් නැතුව.",
+      "speak": "I went by myself."
+    },
+    {
+      "id": "u2b-cp-q10",
+      "q": "'දෙකෙන්ම එකක් — කෝපි හෝ තේ.' — 'both' ද 'either' ද?",
+      "options": ["I'll have both coffee or tea.", "I'll have either coffee or tea.", "I'll have neither coffee or tea.", "I'll have each coffee or tea."],
+      "answer": 1,
+      "explainSi": "'either...or' — දෙකෙන් එකක් තෝරාගැනීම."
+    },
+    {
+      "id": "u2b-cp-q11",
+      "q": "'Both restaurants are good, but neither is open today.' — 'are' සහ 'is' දෙකම නිවැරදිද?",
+      "options": [
+        "ඔව් — 'both' බහුවචන ('are'), 'neither' ඒකවචන ('is')",
+        "නෑ, 'both' සමඟත් 'is' විය යුතුයි",
+        "නෑ, 'neither' සමඟත් 'are' විය යුතුයි",
+        "දෙකම වැරදියි"
+      ],
+      "answer": 0,
+      "explainSi": "'both' සමඟ බහුවචන ක්‍රියාව, 'neither/either' සමඟ ඒකවචන ක්‍රියාව."
+    },
+    {
+      "id": "u2b-cp-q12",
+      "q": "'Someone left something on the table, but no one knows whose it is.' — 'someone', 'something', 'no one' තුනම නිවැරදි ලෙස යෙදිලාද?",
+      "options": [
+        "ඔව් — නිශ්චිත නොවන කෙනෙක් (someone), දෙයක් (something), කවුරුවත් නෑ (no one) — තුනම විවිධ අර්ථ",
+        "නෑ, 'someone' සහ 'something' පටලවා ගත්තා",
+        "නෑ, 'no one' සමඟ 'doesn't know' විය යුතුයි",
+        "නෑ, තුනම එකම දෙයම කියනවා"
+      ],
+      "answer": 0,
+      "explainSi": "'someone' (කෙනෙක්), 'something' (දෙයක්), 'no one knows' (කවුරුවත් නෑ, ඒකවචන ක්‍රියාව) — තුනම නිවැරදි."
+    }
+  ]
+}

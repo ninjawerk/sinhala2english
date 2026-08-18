@@ -1,0 +1,492 @@
+{
+  "hero": {
+    "src": "images/b1-04-hero.webp",
+    "alt": "Nadeesha at an airport window with a suitcase and a ticket in hand, watching a plane on the runway, gathering clouds beyond the glass."
+  },
+  "goalsSi": [
+    "'will' සහ 'going to' අතර වෙනස තේරුම් ගැනීම",
+    "සැලසුම්, පොරොන්දු සහ අනාවැකි ප්‍රකාශ කිරීම",
+    "නියම කරන ලද අනාගතයට present continuous යෙදීම",
+    "අනාගත කාල ප්‍රකාශන (next week, in two days) යෙදීම"
+  ],
+  "goals": [
+    "Tell 'will' and 'going to' apart",
+    "Talk about plans, promises and predictions",
+    "Use the present continuous for arrangements"
+  ],
+  "sections": [
+    {
+      "type": "note",
+      "title": "Three ways to talk about the future",
+      "titleSi": "අනාගතය ගැන කතා කරන ක්‍රම තුනක්",
+      "bodySi": "English has more than one future. Which one you choose depends on how the decision was made.\n\nඉංග්‍රීසියේ අනාගතය සඳහා ක්‍රම එකකට වඩා තියෙනවා. තීරණය ගත්තේ කවදාද කියන එක අනුව තෝරාගන්නවා:\n\n1. will — දැන්, කතා කරන මොහොතේම ගත් තීරණයක්\n2. going to — කලින්ම ගත් තීරණයක්, හෝ පැහැදිලි සාක්ෂි ඇති අනාවැකියක්\n3. present continuous — දිනයක් සහ වේලාවක් සමඟ නියම කර ඇති දෙයක්",
+      "body": "The future you choose depends on when you made the decision."
+    },
+    {
+      "type": "grammar",
+      "title": "will vs going to",
+      "titleSi": "will සහ going to",
+      "explainSi": "This is the difference that matters most.\n\n'will' — the decision happens now, while you speak. Also for promises, offers and opinions about the future.\n'going to' — the decision was already made before you spoke. Also for predictions with visible evidence.\n\nඋදාහරණයෙන් තේරුම් ගමු:\n\nA: The phone is ringing.\nB: I'll answer it. ← දැන් තීරණය කළා (will)\n\nA: Why are you carrying that bag?\nB: I'm going to visit my aunt. ← කලින්ම සැලසුම් කළා (going to)",
+      "explain": "Decide now → will. Decided already → going to.",
+      "formula": "will + base verb   ·   am/is/are + going to + base verb",
+      "table": {
+        "headers": [
+          "Use",
+          "Form",
+          "Example"
+        ],
+        "rows": [
+          [
+            "Decision now",
+            "will",
+            "It's cold. I'll close the window."
+          ],
+          [
+            "Promise",
+            "will",
+            "I promise I will help you."
+          ],
+          [
+            "Offer",
+            "will",
+            "I'll carry that for you."
+          ],
+          [
+            "Opinion / guess",
+            "will",
+            "I think it will rain tomorrow."
+          ],
+          [
+            "Plan made earlier",
+            "going to",
+            "I'm going to study medicine."
+          ],
+          [
+            "Evidence you can see",
+            "going to",
+            "Look at those clouds! It's going to rain."
+          ],
+          [
+            "Fixed arrangement",
+            "present continuous",
+            "I'm meeting the doctor at four."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "I'll call you when I arrive.",
+          "si": "මම ආවම ඔබට කතා කරන්නම්."
+        },
+        {
+          "en": "We're going to build a new house next year.",
+          "si": "අපි ලබන අවුරුද්දේ අලුත් ගෙදරක් හදන්න යනවා."
+        },
+        {
+          "en": "Look at the sky! It's going to rain.",
+          "si": "අහස බලන්න! වහින්න යනවා."
+        },
+        {
+          "en": "She's flying to London on Friday.",
+          "si": "එයා සිකුරාදා ලන්ඩන් යනවා. (ටිකට් එක අරගෙන)"
+        }
+      ],
+      "watchOutSi": "'will' පසුව හැම විටම මූලික ක්‍රියාවයි — 'will to go' හෝ 'will going' කියන්නේ නෑ. 'will go' නිවැරදියි."
+    },
+    {
+      "type": "grammar",
+      "title": "Negatives, questions and time words",
+      "titleSi": "නැහැ, ප්‍රශ්න සහ කාල වචන",
+      "explainSi": "will → won't (will not). going to → am not / isn't / aren't going to.\n\nඅනාගත කාල ප්‍රකාශන: tomorrow, next week, next month, in two days, soon, later, this evening.",
+      "table": {
+        "headers": [
+          "Positive",
+          "Negative",
+          "Question"
+        ],
+        "rows": [
+          [
+            "I'll come.",
+            "I won't come.",
+            "Will you come?"
+          ],
+          [
+            "She's going to leave.",
+            "She isn't going to leave.",
+            "Is she going to leave?"
+          ],
+          [
+            "They'll help.",
+            "They won't help.",
+            "Will they help?"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "I won't be late, I promise.",
+          "si": "මම පරක්කු වෙන්නේ නෑ, පොරොන්දුයි."
+        },
+        {
+          "en": "Will you be at home this evening?",
+          "si": "අද හවස ඔබ ගෙදර ඉන්නවද?"
+        },
+        {
+          "en": "They aren't going to sell the land.",
+          "si": "ඔවුන් ඉඩම විකුණන්න යන්නේ නෑ."
+        },
+        {
+          "en": "The results will come out in two weeks.",
+          "si": "ප්‍රතිඵල සති දෙකකින් එළියට එනවා."
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "Plans for the long weekend",
+      "titleSi": "දිගු සති අන්තයේ සැලසුම්",
+      "settingSi": "Two colleagues talk about their plans. Notice which future form each one uses, and why.",
+      "lines": [
+        {
+          "speaker": "Dilani",
+          "en": "What are you doing this weekend?",
+          "si": "මේ සති අන්තයේ ඔබ මොනවා කරනවද?"
+        },
+        {
+          "speaker": "Ruwan",
+          "en": "I'm going to visit my parents in Badulla. I bought the train ticket last week.",
+          "si": "මම බදුල්ලේ අම්මා තාත්තා බලන්න යනවා. පහුගිය සතියේ ටිකට් එක ගත්තා."
+        },
+        {
+          "speaker": "Dilani",
+          "en": "That sounds nice. How long will the journey take?",
+          "si": "ඒක හොඳයි. ගමනට කොපමණ වෙලාවක් යනවද?"
+        },
+        {
+          "speaker": "Ruwan",
+          "en": "About seven hours. I'm leaving at six on Saturday morning.",
+          "si": "පැය හතක් විතර. මම සෙනසුරාදා උදේ හයට පිටත් වෙනවා."
+        },
+        {
+          "speaker": "Dilani",
+          "en": "Six! You won't get much sleep.",
+          "si": "හයට! ඔබට හොඳට නිදාගන්න ලැබෙන්නේ නෑ."
+        },
+        {
+          "speaker": "Ruwan",
+          "en": "I know. I'll sleep on the train. What about you?",
+          "si": "දන්නවා. මම දුම්රියේදී නිදාගන්නම්. ඔබ?"
+        },
+        {
+          "speaker": "Dilani",
+          "en": "Nothing special. I think I'll just stay at home and read.",
+          "si": "විශේෂ දෙයක් නෑ. මම ගෙදර ඉඳලා පොත් කියවනවා කියලා හිතනවා."
+        },
+        {
+          "speaker": "Ruwan",
+          "en": "Then come with me! There's space on the train.",
+          "si": "එහෙනම් මාත් එක්ක එන්න! දුම්රියේ ඉඩ තියෙනවා."
+        },
+        {
+          "speaker": "Dilani",
+          "en": "Really? All right — I'll come. Give me the details.",
+          "si": "ඇත්තටම? හරි — මම එන්නම්. විස්තර දෙන්න."
+        }
+      ]
+    },
+    {
+      "type": "tip",
+      "title": "Why Dilani said 'I'll come'",
+      "titleSi": "දිලානි 'I'll come' කීවේ ඇයි?",
+      "bodySi": "සංවාදය අවසානයේ දිලානි 'I'll come' කිව්වා, 'I'm going to come' නෙවෙයි. ඇයි?\n\nමොකද ඒ තීරණය එයා ගත්තේ කතා කරන ඒ මොහොතේම. රුවන් ආරාධනා කරන කම් එයාට එහෙම සැලසුමක් තිබුණේ නෑ.\n\nඒ වගේම එයා මුලින් 'I think I'll just stay at home' කිව්වා — 'I think' සමඟ හැම විටම වගේ 'will' යෙදෙනවා, මොකද ඒක නිශ්චිත සැලසුමක් නෙවෙයි, අදහසක් පමණයි.",
+      "body": "She decided at that moment, so she used 'will'."
+    },
+    {
+      "type": "story",
+      "title": "The Promise",
+      "titleSi": "පොරොන්දුව",
+      "introSi": "අනාගත ස්වරූප රැසක් ඇති කෙටිකතාවක්.",
+      "paragraphs": [
+        {
+          "en": "\"I'm going to leave for Italy next month,\" Prasad told his mother. He had already sold his motorbike to pay the agent.",
+          "si": "\"මම ලබන මාසේ ඉතාලියට යනවා,\" ප්‍රසාද් අම්මාට කිව්වා. ඒජන්ට්ට ගෙවන්න එයා දැනටමත් මෝටර් සයිකලය විකුණලා."
+        },
+        {
+          "en": "His mother said nothing for a long time. Then she asked quietly, \"When will you come back?\"",
+          "si": "අම්මා ගොඩක් වෙලා කිසිවක් කිව්වේ නෑ. ඊට පස්සේ හෙමිහිට ඇහුවා, \"ඔබ කවදද ආපහු එන්නේ?\""
+        },
+        {
+          "en": "\"In three years,\" he said. \"I'll send money every month. I'll build you a proper house. I promise.\"",
+          "si": "\"අවුරුදු තුනකින්,\" එයා කිව්වා. \"මම හැම මාසෙම සල්ලි එවන්නම්. ඔබට හරි ගෙදරක් හදන්නම්. පොරොන්දුයි.\""
+        },
+        {
+          "en": "\"I don't want a house,\" she said. \"Houses don't talk. Houses don't eat with me.\"",
+          "si": "\"මට ගෙදරක් ඕන නෑ,\" එයා කිව්වා. \"ගෙවල් කතා කරන්නේ නෑ. ගෙවල් මාත් එක්ක කන්නේ නෑ.\""
+        },
+        {
+          "en": "Prasad looked at the floor. He knew she was right, and he knew he was still going to go.",
+          "si": "ප්‍රසාද් බිම දිහා බැලුවා. එයා දන්නවා අම්මා හරි කියලා, සහ එයා තාමත් යන්නයි යන්නේ කියලා."
+        },
+        {
+          "en": "At the airport she held his hand and said only four words: \"Come back, not money.\"",
+          "si": "ගුවන්තොටුපොළේදී එයා පුතාගේ අත අල්ලාගෙන වචන හතරක් විතරක් කිව්වා: \"සල්ලි නෙවෙයි, ආපහු එන්න.\""
+        }
+      ],
+      "glossary": [
+        {
+          "en": "leave for",
+          "si": "…බලා පිටත් වෙනවා"
+        },
+        {
+          "en": "agent",
+          "si": "ඒජන්තවරයා"
+        },
+        {
+          "en": "quietly",
+          "si": "හෙමිහිට"
+        },
+        {
+          "en": "promise",
+          "si": "පොරොන්දුව"
+        },
+        {
+          "en": "proper",
+          "si": "හරි / නිසි"
+        },
+        {
+          "en": "airport",
+          "si": "ගුවන්තොටුපොළ"
+        },
+        {
+          "en": "hold",
+          "si": "අල්ලාගන්නවා"
+        }
+      ],
+      "questionsSi": [
+        "ප්‍රසාද් 'going to' යෙදුවේ ඇයි, 'will' නොවේ?",
+        "'I'll send money every month' — මෙහි 'will' යෙදුවේ ඇයි?",
+        "අම්මාගේ අවසාන වචන හතරෙන් කියවෙන්නේ කුමක්ද?"
+      ]
+    },
+    {
+      "type": "practice",
+      "title": "will or going to?",
+      "titleSi": "will නැත්නම් going to?",
+      "instructionSi": "නිවැරදි ස්වරූපය ලියන්න.",
+      "items": [
+        {
+          "prompt": "Look at those clouds! It ___ rain. (going to / will)",
+          "answer": "is going to",
+          "hintSi": "පැහැදිලි සාක්ෂි තියෙනවා.",
+          "full": "Look at those clouds! It is going to rain."
+        },
+        {
+          "prompt": "The phone is ringing. — I ___ answer it. (will / going to)",
+          "answer": "will",
+          "hintSi": "දැන් මේ මොහොතේ ගත් තීරණයක්.",
+          "full": "The phone is ringing. I will answer it."
+        },
+        {
+          "prompt": "I've decided. I ___ study engineering. (going to)",
+          "answer": "am going to",
+          "hintSi": "දැනටමත් තීරණය කරලා.",
+          "full": "I am going to study engineering."
+        },
+        {
+          "prompt": "I promise I ___ tell anyone. (negative, will)",
+          "answer": "won't",
+          "hintSi": "will not වල කෙටි ස්වරූපය.",
+          "full": "I promise I won't tell anyone."
+        },
+        {
+          "prompt": "___ you help me with this bag? (ප්‍රශ්නය)",
+          "answer": "will",
+          "hintSi": "ඉල්ලීමක්.",
+          "full": "Will you help me with this bag?"
+        },
+        {
+          "prompt": "I ___ the dentist at three tomorrow. (fixed arrangement — see)",
+          "answer": "am seeing",
+          "hintSi": "නියම කර ඇති හමුවීමක් — present continuous.",
+          "full": "I am seeing the dentist at three tomorrow."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "en": "promise",
+      "si": "පොරොන්දුව"
+    },
+    {
+      "en": "plan",
+      "si": "සැලසුම"
+    },
+    {
+      "en": "decide",
+      "si": "තීරණය කරනවා"
+    },
+    {
+      "en": "journey",
+      "si": "ගමන"
+    },
+    {
+      "en": "airport",
+      "si": "ගුවන්තොටුපොළ"
+    },
+    {
+      "en": "ticket",
+      "si": "ටිකට් පත"
+    },
+    {
+      "en": "clouds",
+      "si": "වලාකුළු"
+    },
+    {
+      "en": "soon",
+      "si": "ඉක්මනින්"
+    },
+    {
+      "en": "later",
+      "si": "පස්සේ"
+    },
+    {
+      "en": "next week",
+      "si": "ලබන සතියේ"
+    },
+    {
+      "en": "space",
+      "si": "ඉඩ"
+    },
+    {
+      "en": "details",
+      "si": "විස්තර"
+    },
+    {
+      "en": "build",
+      "si": "හදනවා"
+    },
+    {
+      "en": "send",
+      "si": "එවනවා"
+    },
+    {
+      "en": "proper",
+      "si": "හරි / නිසි"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "b1-04-q1",
+      "q": "The phone rings. You say: 'I ___ answer it.'",
+      "qSi": "දුරකථනය නාද වෙනවා. ඔබ කියන්නේ?",
+      "options": [
+        "am going to",
+        "will",
+        "am answering",
+        "answer"
+      ],
+      "answer": 1,
+      "explainSi": "තීරණය ගත්තේ දැන් මේ මොහොතේ. එනිසා 'will'.",
+      "speak": "I will answer it."
+    },
+    {
+      "id": "b1-04-q2",
+      "q": "'Look at those black clouds! It ___ rain.'",
+      "qSi": "පැහැදිලි සාක්ෂි ඇති අනාවැකියක්.",
+      "options": [
+        "will",
+        "is going to",
+        "rains",
+        "is raining"
+      ],
+      "answer": 1,
+      "explainSi": "දකින්න පුළුවන් සාක්ෂි ඇති විට 'going to' යෙදෙනවා.",
+      "speak": "It is going to rain."
+    },
+    {
+      "id": "b1-04-q3",
+      "q": "Which sentence is correct?",
+      "qSi": "නිවැරදි වාක්‍යය කුමක්ද?",
+      "options": [
+        "I will to go tomorrow.",
+        "I will going tomorrow.",
+        "I will go tomorrow.",
+        "I will goes tomorrow."
+      ],
+      "answer": 2,
+      "explainSi": "'will' පසුව හැම විටම මූලික ක්‍රියාවයි: will go.",
+      "speak": "I will go tomorrow."
+    },
+    {
+      "id": "b1-04-q4",
+      "q": "'I've already booked the tickets. We ___ travel on Sunday.'",
+      "qSi": "දැනටමත් සැලසුම් කර ඇති දෙයක්.",
+      "options": [
+        "will",
+        "are going to",
+        "go",
+        "went"
+      ],
+      "answer": 1,
+      "explainSi": "කලින්ම ගත් තීරණයක් නිසා 'going to'.",
+      "speak": "We are going to travel on Sunday."
+    },
+    {
+      "id": "b1-04-q5",
+      "q": "What is the short form of 'will not'?",
+      "qSi": "'will not' වල කෙටි ස්වරූපය?",
+      "options": [
+        "willn't",
+        "won't",
+        "wont",
+        "will'nt"
+      ],
+      "answer": 1,
+      "explainSi": "will not → won't. (apostrophe එක අවශ්‍යයි: won't)",
+      "speak": "won't"
+    },
+    {
+      "id": "b1-04-q6",
+      "q": "'I'm meeting the manager at ten tomorrow.' — Why the present continuous?",
+      "qSi": "මෙහි present continuous යෙදුවේ ඇයි?",
+      "options": [
+        "It is happening now",
+        "It is a fixed arrangement with a time",
+        "It is a guess",
+        "It is a promise"
+      ],
+      "answer": 1,
+      "explainSi": "දිනයක් සහ වේලාවක් සමඟ නියම කර ඇති හමුවීම් සඳහා present continuous යෙදෙනවා."
+    },
+    {
+      "id": "b1-04-q7",
+      "q": "After 'I think', which future form is normally used?",
+      "qSi": "'I think' පසුව සාමාන්‍යයෙන් යෙදෙන්නේ?",
+      "options": [
+        "going to",
+        "will",
+        "present continuous",
+        "past simple"
+      ],
+      "answer": 1,
+      "explainSi": "'I think', 'I hope', 'probably' වැනි වචන සමඟ අදහසක් ප්‍රකාශ කරන නිසා 'will' යෙදෙනවා.",
+      "speak": "I think it will rain."
+    },
+    {
+      "id": "b1-04-q8",
+      "context": "\"I'm going to leave for Italy next month,\" Prasad told his mother. He had already sold his motorbike to pay the agent.",
+      "contextSi": "\"මම ලබන මාසේ ඉතාලියට යනවා,\" ප්‍රසාද් අම්මාට කිව්වා. ඒජන්ට්ට ගෙවන්න එයා දැනටමත් මෝටර් සයිකලය විකුණලා.",
+      "q": "In the story, why did Prasad say 'I'm going to leave for Italy'?",
+      "qSi": "ප්‍රසාද් 'going to' යෙදුවේ ඇයි?",
+      "options": [
+        "He decided while speaking",
+        "He had already sold his motorbike and paid the agent",
+        "He was making a promise",
+        "It was a guess about the weather"
+      ],
+      "answer": 1,
+      "explainSi": "එයා දැනටමත් මෝටර් සයිකලය විකුණලා ඒජන්ට්ට ගෙවලා — තීරණය කලින්ම ගෙන තිබුණා."
+    }
+  ]
+}

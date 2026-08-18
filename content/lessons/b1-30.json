@@ -1,0 +1,794 @@
+{
+  "goalsSi": [
+    "collocation කියන්නේ මොකක්ද කියලා තේරුම් ගන්න",
+    "heavy rain, strong coffee — එකට යන වචන",
+    "make සහ do අතර වෙනස",
+    "have, take, get එක්ක යන බහුල යෙදුම්",
+    "ව්‍යාකරණ හරි වුණත් අමුතුයි කියන එක",
+    "අලුත් වචනයක් ඒක එක්ක යන වචනත් එක්ක ඉගෙන ගන්න"
+  ],
+  "goals": [
+    "Understand what a collocation is",
+    "Learn the pairs like heavy rain and strong coffee",
+    "Tell make and do apart",
+    "Use common phrases with have, take and get",
+    "Recognise grammatically correct but unnatural English",
+    "Learn new words together with the words they travel with"
+  ],
+  "sections": [
+    {
+      "type": "note",
+      "title": "Right words, wrong pair",
+      "titleSi": "හරි වචන, වැරදි යුගලය",
+      "bodySi": "මේ වාක්‍ය දෙක බලන්න:\n\n'There was heavy rain yesterday.'\n'There was strong rain yesterday.'\n\nදෙකේම ව්‍යාකරණ නිවැරදියි. දෙකේම වචන නිවැරදියි. ඒත් දෙවෙනි එක ඉංග්‍රීසි කථා කරන කෙනෙකුට වැරදියි වගේ දැනෙනවා.\n\nඇයි? මොකද ඉංග්‍රීසියෙන් වැස්ස heavy — 'strong' නෙවෙයි. ඒත් තේ strong — 'heavy' නෙවෙයි.\n\nheavy rain ✓ · strong rain ✗\nstrong tea ✓ · heavy tea ✗\n\nතර්කයක් නෑ. පුරුද්දක් විතරයි. මේවාට කියන්නේ collocations — එකට යන වචන.\n\nමේක B1 මට්ටමේ ලකුණක්, මොකද ඔයාගේ ව්‍යාකරණ නිවැරදි වුණාට පස්සේ ඉතුරු වෙන එකම දේ මේකයි. Collocation දන්න කෙනාගේ ඉංග්‍රීසිය ස්වාභාවිකයි; නොදන්න කෙනාගේ එක ව්‍යාකරණ නිවැරදි වුණත් පරිවර්තනයක් වගේ.\n\nහොඳ ආරංචිය: මේවා ඉගෙන ගන්නේ නීතියෙන් නෙවෙයි, යුගල ලෙසයි. අලුත් වචනයක් ඉගෙන ගන්නකොට ඒක එක්ක යන වචනත් එකට ඉගෙන ගන්න.",
+      "body": "heavy rain, strong tea. Swap them and the grammar is still perfect and the English is still wrong. Collocations are learned in pairs, not from rules."
+    },
+    {
+      "type": "grammar",
+      "title": "The pairs worth knowing",
+      "titleSi": "දැනගන්න වටින යුගල",
+      "explainSi": "බහුලම ඒවා, කාණ්ඩ වශයෙන්.\n\nකාලගුණය:\nheavy rain · strong wind · thick fog · bright sunshine\n\nකෑම බීම:\nstrong tea/coffee · fresh bread · rich food · a quick snack\n\nනින්ද සහ මහන්සිය:\ndeep sleep · fast asleep · wide awake · a short nap\n\nවැඩ:\nhard work · high quality · a busy day · a tight deadline\n\nප්‍රමාණය:\na heavy bag · a large amount · a great deal of · a slight chance\n\nමිල:\nhigh price · low cost · good value · a bargain\n\nදැන් සමහර ඒවා සිංහලෙන් හිතුවොත් වැරදෙනවා:\n\nසිංහලෙන් 'තද වැස්සක්' — ඒත් ඉංග්‍රීසියෙන් 'heavy rain', 'hard rain' නෙවෙයි.\nසිංහලෙන් 'තද තේ' — ඉංග්‍රීසියෙන් 'strong tea' ✓ (මේක ගැලපෙනවා).\nසිංහලෙන් 'ලොකු වැස්සක්' — 'big rain' ✗.\n\nතව බහුල යුගල:\n'take a photograph' (make a photograph ✗)\n'make a mistake' (do a mistake ✗)\n'do your homework' (make your homework ✗)\n'have a shower' (take a shower — ඇමරිකානු, දෙකම හරි)\n'catch a bus' (get a bus — දෙකම හරි)\n'tell a lie' (say a lie ✗)\n'give someone a hand' — උදව් කරනවා",
+      "explain": "Learn them in groups. Translating from Sinhala is where they break: තද වැස්සක් is heavy rain, never hard rain.",
+      "formula": "heavy rain · strong tea · deep sleep · hard work · high price",
+      "table": {
+        "headers": [
+          "හරි",
+          "වැරදි",
+          "සිංහල"
+        ],
+        "rows": [
+          [
+            "heavy rain",
+            "strong rain",
+            "තද වැස්ස"
+          ],
+          [
+            "strong tea",
+            "heavy tea",
+            "තද තේ"
+          ],
+          [
+            "deep sleep",
+            "heavy sleep",
+            "ගැඹුරු නින්ද"
+          ],
+          [
+            "make a mistake",
+            "do a mistake",
+            "වැරැද්දක් කරනවා"
+          ],
+          [
+            "take a photo",
+            "make a photo",
+            "ෆොටෝ එකක් ගන්නවා"
+          ],
+          [
+            "tell a lie",
+            "say a lie",
+            "බොරුවක් කියනවා"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "There was heavy rain all night and thick fog by morning.",
+          "si": "රෑ පුරාම තද වැස්සක්, උදේ වෙනකොට ගනඳුරු මීදුමක්."
+        },
+        {
+          "en": "I didn't want a rich meal, just a quick snack.",
+          "si": "මට බර කෑමක් ඕන වුණේ නෑ, ඉක්මන් දෙයක් විතරයි."
+        },
+        {
+          "en": "It's high quality, so the price is high too.",
+          "si": "ඒක උසස් තත්ත්වයේ, ඒ නිසා ගානත් වැඩියි."
+        }
+      ],
+      "watchOutSi": "සිංහලෙන් ඉංග්‍රීසියට වචනෙන් වචනට හරවනකොට collocation කැඩෙනවා. සැකයක් නම් ශබ්දකෝෂයේ බලන්න — හොඳ ශබ්දකෝෂවල වචනේ එක්ක යන වචනත් දෙනවා."
+    },
+    {
+      "type": "grammar",
+      "title": "make or do?",
+      "titleSi": "make ද, do ද?",
+      "explainSi": "මේ දෙක බහුලම collocation ප්‍රශ්නය, මොකද සිංහලෙන් දෙකම 'කරනවා'.\n\nmake — හදනවා, නිර්මාණය කරනවා. අලුත් දෙයක් එළියට එනවා.\nmake a cake · make a mistake · make a decision · make a noise · make friends · make money · make an effort · make a phone call · make the bed · make a plan\n\ndo — කරනවා, ක්‍රියාවක් ඉටු කරනවා. දැනටමත් තියෙන දෙයක්.\ndo your homework · do the washing · do the shopping · do a favour · do your best · do business · do exercise · do the dishes · do a job\n\nලේසි (සම්පූර්ණ නොවන) පරීක්ෂාවක්: අලුත් දෙයක් හැදෙනවා නම් make. වැඩක් ඉටු වෙනවා නම් do.\n\n'make a cake' — කේක් එකක් හැදෙනවා.\n'do the dishes' — පිඟන් හැදෙන්නේ නෑ, හෝදනවා විතරයි.\n\nඒත් ව්‍යතිරේක තියෙනවා: 'make the bed' කියන්නේ ඇඳ හදන එක නෙවෙයි, අතුරන එකයි. එහෙම ඒවා කටපාඩම් තමයි.\n\nබහුලම වැරදි:\n✗ do a mistake → ✓ make a mistake\n✗ make your homework → ✓ do your homework\n✗ do a decision → ✓ make a decision\n✗ make a favour → ✓ do a favour",
+      "explain": "make creates something new; do performs a task. The test is not perfect — make the bed is an exception — but it covers most of them.",
+      "formula": "make = අලුත් දෙයක් හැදෙනවා  ·  do = වැඩක් ඉටු වෙනවා",
+      "table": {
+        "headers": [
+          "make",
+          "do"
+        ],
+        "rows": [
+          [
+            "a mistake",
+            "your homework"
+          ],
+          [
+            "a decision",
+            "the washing"
+          ],
+          [
+            "a noise",
+            "the shopping"
+          ],
+          [
+            "friends",
+            "someone a favour"
+          ],
+          [
+            "an effort",
+            "your best"
+          ],
+          [
+            "a phone call",
+            "business"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "I made a mistake on the form — can you do me a favour and check it?",
+          "si": "ෆෝම් එකේ මම වැරැද්දක් කළා — උදව්වක් කරලා ඒක බලන්න පුළුවන්ද?"
+        },
+        {
+          "en": "She's made a decision: she's going to do the course part-time.",
+          "si": "ඇය තීරණයක් ගත්තා: පාඨමාලාව අර්ධකාලීනව කරන්න."
+        },
+        {
+          "en": "Do your best. Nobody expects more.",
+          "si": "ඔයාට පුළුවන් උපරිමය කරන්න. ඊට වඩා කවුරුවත් බලාපොරොත්තු වෙන්නේ නෑ."
+        }
+      ],
+      "watchOutSi": "'Do a mistake' කියන එක ලංකාවේ ඉතාම බහුලයි. හරි එක 'make a mistake'. මේක එකම දේ නිතරම නිවැරදි කරගත්තොත් ඔයාගේ ඉංග්‍රීසිය එකපාරටම හොඳ වෙනවා."
+    },
+    {
+      "type": "grammar",
+      "title": "have, take, get",
+      "titleSi": "have, take, get",
+      "explainSi": "මේ තුනත් ගොඩක් යෙදුම් හදනවා. ඒවා ක්‍රියාවක් නෙවෙයි — යෙදුමක්.\n\nhave — අත්දැකීමක්:\nhave a shower · have breakfast · have a rest · have a look · have a good time · have a problem · have an accident · have a baby\n\ntake — ගන්නවා, කාලයක් ගන්නවා:\ntake a photo · take a taxi · take a break · take an exam · take medicine · take care · take your time · take a seat\n\nget — ලැබෙනවා, වෙනවා:\nget a job · get married · get lost · get better · get ready · get dressed · get angry · get in touch\n\n'get' කියන එක අවිධිමත් — ලියන එකට 'become' නැත්නම් 'receive' ගැලපෙනවා:\n'He got angry.' (කථාව) / 'He became angry.' (ලියන එක)\n\nවැදගත් වෙනසක්: have a shower (බ්‍රිතාන්‍ය) සහ take a shower (ඇමරිකානු) — දෙකම හරි. ඒත් 'do a shower' ✗.\n\nතව බහුල ඒවා:\n'have a look at this' — මේක බලන්න\n'take your time' — හදිසි නෑ\n'get in touch' — සම්බන්ධ වෙන්න",
+      "explain": "have is an experience, take is something you take up or spend, get is becoming or receiving. get is informal — become or receive in writing.",
+      "formula": "have a shower · take a photo · get married",
+      "table": {
+        "headers": [
+          "have",
+          "take",
+          "get"
+        ],
+        "rows": [
+          [
+            "a shower",
+            "a photo",
+            "a job"
+          ],
+          [
+            "breakfast",
+            "a taxi",
+            "married"
+          ],
+          [
+            "a look",
+            "a break",
+            "lost"
+          ],
+          [
+            "a rest",
+            "an exam",
+            "better"
+          ],
+          [
+            "a good time",
+            "care",
+            "ready"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "Take your time — have a look and tell me what you think.",
+          "si": "හදිසි නෑ — බලලා මොකද හිතන්නේ කියන්න."
+        },
+        {
+          "en": "We got lost, so we took a taxi and still had a good time.",
+          "si": "අපිට පාර වැරදුණා, ඒ නිසා ටැක්සියක් ගත්තා — ඒත් හොඳට වෙලාව ගත කළා."
+        },
+        {
+          "en": "I'll get in touch when I have the results.",
+          "si": "ප්‍රතිඵල ලැබුණම මම සම්බන්ධ වෙන්නම්."
+        }
+      ],
+      "watchOutSi": "'Take a shower' සහ 'have a shower' දෙකම හරි. ඒත් 'do a shower' කියන එකක් නෑ. සැකයක් නම් 'have' නැත්නම් 'take' — 'do' නෙවෙයි."
+    },
+    {
+      "type": "vocab",
+      "title": "Pairs to keep together",
+      "titleSi": "එකට තියාගන්න යුගල",
+      "introSi": "වචනය තනියම නෙවෙයි, යුගලය ඉගෙන ගන්න.",
+      "items": [
+        {
+          "en": "heavy rain",
+          "si": "තද වැස්ස",
+          "say": "හෙවි රේන්",
+          "exampleEn": "Heavy rain all night.",
+          "exampleSi": "රෑ පුරාම තද වැස්සක්."
+        },
+        {
+          "en": "strong wind",
+          "si": "තද සුළඟ",
+          "say": "ස්ට්‍රොං වින්ඩ්",
+          "exampleEn": "A strong wind from the sea.",
+          "exampleSi": "මුහුදෙන් තද සුළඟක්."
+        },
+        {
+          "en": "strong tea",
+          "si": "තද තේ",
+          "say": "ස්ට්‍රොං ටී",
+          "exampleEn": "I like strong tea.",
+          "exampleSi": "මම තද තේ වලට කැමතියි."
+        },
+        {
+          "en": "deep sleep",
+          "si": "ගැඹුරු නින්ද",
+          "say": "ඩීප් ස්ලීප්",
+          "exampleEn": "He was in a deep sleep.",
+          "exampleSi": "එයා ගැඹුරු නින්දේ."
+        },
+        {
+          "en": "wide awake",
+          "si": "හොඳට ඇහැරිලා",
+          "say": "වයිඩ් අවේක්",
+          "exampleEn": "It's midnight and I'm wide awake.",
+          "exampleSi": "මධ්‍යම රාත්‍රියි, මම හොඳට ඇහැරිලා."
+        },
+        {
+          "en": "hard work",
+          "si": "වෙහෙසකර වැඩ",
+          "say": "හාඩ් වර්ක්",
+          "exampleEn": "It was hard work.",
+          "exampleSi": "ඒක වෙහෙසකර වැඩක්."
+        },
+        {
+          "en": "make a mistake",
+          "si": "වැරැද්දක් කරනවා",
+          "say": "මේක් අ මිස්ටේක්",
+          "exampleEn": "I made a mistake.",
+          "exampleSi": "මම වැරැද්දක් කළා."
+        },
+        {
+          "en": "make a decision",
+          "si": "තීරණයක් ගන්නවා",
+          "say": "මේක් අ ඩිසිෂන්",
+          "exampleEn": "She made a decision.",
+          "exampleSi": "ඇය තීරණයක් ගත්තා."
+        },
+        {
+          "en": "do your homework",
+          "si": "ගෙදර වැඩ කරනවා",
+          "say": "ඩූ යුවර් හෝම්වර්ක්",
+          "exampleEn": "Do your homework first.",
+          "exampleSi": "මුලින්ම ගෙදර වැඩ කරන්න."
+        },
+        {
+          "en": "do someone a favour",
+          "si": "උදව්වක් කරනවා",
+          "say": "ඩූ අ ෆේවර්",
+          "exampleEn": "Do me a favour?",
+          "exampleSi": "උදව්වක් කරනවාද?"
+        },
+        {
+          "en": "take a photo",
+          "si": "ෆොටෝ ගන්නවා",
+          "say": "ටේක් අ ෆොටෝ",
+          "exampleEn": "Take a photo of us.",
+          "exampleSi": "අපේ ෆොටෝ එකක් ගන්න."
+        },
+        {
+          "en": "take a break",
+          "si": "විවේකයක් ගන්නවා",
+          "say": "ටේක් අ බ්‍රේක්",
+          "exampleEn": "Let's take a break.",
+          "exampleSi": "විවේකයක් ගමු."
+        },
+        {
+          "en": "have a look",
+          "si": "බලනවා",
+          "say": "හෑව් අ ලුක්",
+          "exampleEn": "Have a look at this.",
+          "exampleSi": "මේක බලන්න."
+        },
+        {
+          "en": "get married",
+          "si": "විවාහ වෙනවා",
+          "say": "ගෙට් මැරීඩ්",
+          "exampleEn": "They got married in June.",
+          "exampleSi": "ඒගොල්ලෝ ජූනි විවාහ වුණා."
+        },
+        {
+          "en": "get lost",
+          "si": "පාර වැරදෙනවා",
+          "say": "ගෙට් ලොස්ට්",
+          "exampleEn": "We got lost twice.",
+          "exampleSi": "අපිට දෙපාරක් පාර වැරදුණා."
+        },
+        {
+          "en": "tell a lie",
+          "si": "බොරුවක් කියනවා",
+          "say": "ටෙල් අ ලයි",
+          "exampleEn": "Don't tell lies.",
+          "exampleSi": "බොරු කියන්න එපා."
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "Do me a favour",
+      "titleSi": "උදව්වක් කරන්න",
+      "settingSi": "ඔෆිස් එකේ. collocation කීයක් තියෙනවාද කියලා ගණන් කරන්න.",
+      "lines": [
+        {
+          "speaker": "Ruwan",
+          "en": "Could you do me a favour and have a look at this form?",
+          "si": "උදව්වක් කරලා මේ ෆෝම් එක බලන්න පුළුවන්ද?"
+        },
+        {
+          "speaker": "Nadeesha",
+          "en": "Take your time — I'm not busy. What's wrong with it?",
+          "si": "හදිසි නෑ — මම කාර්යබහුල නෑ. ඒකේ මොකද වැරදිලා?"
+        },
+        {
+          "speaker": "Ruwan",
+          "en": "I think I made a mistake in the dates.",
+          "si": "දිනවල මම වැරැද්දක් කරලා කියලා හිතෙනවා."
+        },
+        {
+          "speaker": "Nadeesha",
+          "en": "You have. And you'll need to make a decision about the second page.",
+          "si": "ඔව්. දෙවෙනි පිටුව ගැනත් ඔයාට තීරණයක් ගන්න වෙනවා."
+        },
+        {
+          "speaker": "Ruwan",
+          "en": "Can it wait? I want to take a break — I was up in heavy rain at five.",
+          "si": "ඒක ඉන්නවාද? මට විවේකයක් ගන්න ඕන — උදේ පහට තද වැස්සේ මම ඇහැරිලා."
+        },
+        {
+          "speaker": "Nadeesha",
+          "en": "Have a coffee. A strong one, by the look of you.",
+          "si": "කෝපි එකක් බොන්න. ඔයාව බලද්දී තද එකක්."
+        },
+        {
+          "speaker": "Ruwan",
+          "en": "You're doing me two favours now.",
+          "si": "දැන් ඔයා මට උදව් දෙකක් කරනවා."
+        }
+      ]
+    },
+    {
+      "type": "story",
+      "title": "The strong rain",
+      "titleSi": "තද වැස්ස",
+      "introSi": "Collocation එකක් වැරදුණු අවස්ථාවක් ගැන කෙටි කතාවක්.",
+      "paragraphs": [
+        {
+          "en": "In her first week at the London office, Iresha wrote in an email: \"Sorry I am late, there was strong rain this morning.\"",
+          "si": "ලන්ඩන් ඔෆිස් එකේ පළවෙනි සතියේ ඉරේෂා ඊමේල් එකක ලිව්වා: \"Sorry I am late, there was strong rain this morning.\""
+        },
+        {
+          "en": "Nobody corrected her. Everybody understood her perfectly. Two people, separately, thought it was a nice way to put it.",
+          "si": "කවුරුවත් ඇයව නිවැරදි කළේ නෑ. හැමෝටම ඇය කියපු දේ හොඳට තේරුණා. දෙදෙනෙක්, වෙන වෙනම, ඒක ලස්සන යෙදුමක් කියලා හිතුවා."
+        },
+        {
+          "en": "A month later a colleague said \"heavy rain\" in a meeting and Iresha heard it, and heard it again the next week, and started saying it herself without ever being taught it.",
+          "si": "මාසෙකට පස්සේ රැස්වීමකදී සගයෙක් \"heavy rain\" කිව්වා, ඉරේෂාට ඒක ඇහුණා, ඊළඟ සතියෙත් ඇහුණා, කවුරුවත් උගන්නන්නේ නැතුවම ඇය ඒක කියන්න පටන් ගත්තා."
+        },
+        {
+          "en": "That is how most collocations are learned. A list helps you notice them; only hearing them puts them in your mouth.",
+          "si": "බොහෝ collocation ඉගෙන ගන්නේ එහෙමයි. ලැයිස්තුවකින් ඒවා දකින්න පුළුවන්; ඒත් ඒවා කටට එන්නේ අහලා විතරයි."
+        }
+      ],
+      "glossary": [
+        {
+          "en": "colleague",
+          "si": "සගයා"
+        },
+        {
+          "en": "correct (v)",
+          "si": "නිවැරදි කරනවා"
+        },
+        {
+          "en": "notice",
+          "si": "දකිනවා, සැලකිලිමත් වෙනවා"
+        },
+        {
+          "en": "separately",
+          "si": "වෙන වෙනම"
+        }
+      ],
+      "questionsSi": [
+        "ඉරේෂාගේ වාක්‍යයේ වැරදුණේ මොකක්ද?",
+        "කවුරුවත් ඇයව නිවැරදි නොකළේ ඇයි කියලා හිතන්නේ?",
+        "ඇය අන්තිමට ඒක ඉගෙන ගත්තේ කොහොමද?"
+      ]
+    },
+    {
+      "type": "tip",
+      "title": "Learn the pair, not the word",
+      "titleSi": "වචනේ නෙවෙයි, යුගලය ඉගෙන ගන්න",
+      "bodySi": "අලුත් වචනයක් සටහන් කරගන්නකොට තනියම ලියන්න එපා. ඒක එක්ක යන වචනත් එක්ක ලියන්න.\n\nවැරදි විදිහ: rain — වැස්ස\nහොඳ විදිහ: heavy rain — තද වැස්ස\n\nවැරදි විදිහ: mistake — වැරැද්ද\nහොඳ විදිහ: make a mistake — වැරැද්දක් කරනවා\n\nවැරදි විදිහ: decision — තීරණය\nහොඳ විදිහ: make a decision — තීරණයක් ගන්නවා\n\nඑකම වෙහෙස, දෙගුණයක් ප්‍රයෝජනයක්: ඊළඟ පාර ඔයාට වචනේ විතරක් නෙවෙයි, ඒක යොදන විදිහත් මතකයි.",
+      "body": "Write heavy rain, not rain. Same effort, and you get the word and how to use it."
+    },
+    {
+      "type": "practice",
+      "title": "make or do?",
+      "titleSi": "make ද, do ද?",
+      "instructionSi": "හිස් තැනට make නැත්නම් do හරි ආකෘතියෙන් දාන්න.",
+      "items": [
+        {
+          "prompt": "I think I ___ a mistake on this form.",
+          "answer": "made",
+          "hintSi": "වැරැද්දක් — make.",
+          "full": "I think I made a mistake on this form."
+        },
+        {
+          "prompt": "Have you ___ your homework yet?",
+          "answer": "done",
+          "hintSi": "වැඩක් ඉටු කරනවා — do.",
+          "full": "Have you done your homework yet?"
+        },
+        {
+          "prompt": "She has ___ a decision about the job.",
+          "answer": "made",
+          "hintSi": "තීරණයක් — make.",
+          "full": "She has made a decision about the job."
+        },
+        {
+          "prompt": "Could you ___ me a favour?",
+          "answer": "do",
+          "hintSi": "උදව්වක් — do.",
+          "full": "Could you do me a favour?"
+        },
+        {
+          "prompt": "Don't ___ so much noise!",
+          "answer": "make",
+          "hintSi": "ශබ්දයක් හැදෙනවා — make.",
+          "full": "Don't make so much noise!"
+        },
+        {
+          "prompt": "He's going to ___ business in Colombo.",
+          "answer": "do",
+          "hintSi": "ව්‍යාපාර — do.",
+          "full": "He's going to do business in Colombo."
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "b1-30-q1",
+      "q": "collocation කියන්නේ?",
+      "options": [
+        "ව්‍යාකරණ නීතියක්",
+        "එකට යන වචන යුගලයක්",
+        "වචනයක තේරුම",
+        "උච්චාරණයක්"
+      ],
+      "answer": 1,
+      "explainSi": "heavy rain, strong tea — තර්කයක් නෑ, පුරුද්දයි."
+    },
+    {
+      "id": "b1-30-q2",
+      "q": "වැස්සට යෙදෙන්නේ?",
+      "options": [
+        "strong rain",
+        "heavy rain",
+        "big rain",
+        "hard rain"
+      ],
+      "answer": 1,
+      "explainSi": "heavy rain. 'strong' යෙදෙන්නේ සුළඟට සහ තේට."
+    },
+    {
+      "id": "b1-30-q3",
+      "q": "තේට යෙදෙන්නේ?",
+      "options": [
+        "heavy tea",
+        "strong tea",
+        "hard tea",
+        "big tea"
+      ],
+      "answer": 1,
+      "explainSi": "strong tea, strong coffee."
+    },
+    {
+      "id": "b1-30-q4",
+      "q": "කුමන එක හරිද?",
+      "options": [
+        "do a mistake",
+        "make a mistake",
+        "take a mistake",
+        "have a mistake"
+      ],
+      "answer": 1,
+      "explainSi": "ලංකාවේ බහුලම වැරැද්ද — 'make a mistake'."
+    },
+    {
+      "id": "b1-30-q5",
+      "q": "කුමන එක හරිද?",
+      "options": [
+        "make your homework",
+        "do your homework",
+        "take your homework",
+        "have your homework"
+      ],
+      "answer": 1,
+      "explainSi": "වැඩක් ඉටු කරනවා — do."
+    },
+    {
+      "id": "b1-30-q6",
+      "q": "make සහ do වෙන් කරන ලේසි පරීක්ෂාව?",
+      "options": [
+        "දිග වචනවලට make",
+        "අලුත් දෙයක් හැදෙනවා නම් make; වැඩක් ඉටු වෙනවා නම් do",
+        "ප්‍රශ්නවලට do",
+        "අතීතයට make"
+      ],
+      "answer": 1,
+      "explainSi": "සම්පූර්ණ නීතියක් නෙවෙයි, ඒත් බොහෝ ඒවා ආවරණය කරනවා."
+    },
+    {
+      "id": "b1-30-q7",
+      "q": "'make the bed' කියන්නේ?",
+      "options": [
+        "ඇඳක් හදනවා",
+        "ඇඳ අතුරනවා",
+        "ඇඳේ නිදාගන්නවා",
+        "ඇඳ විකුණනවා"
+      ],
+      "answer": 1,
+      "explainSi": "ව්‍යතිරේකයක් — කටපාඩම් කරන්න."
+    },
+    {
+      "id": "b1-30-q8",
+      "q": "'තීරණයක් ගන්නවා' කියන්නේ?",
+      "options": [
+        "do a decision",
+        "make a decision",
+        "take a decision",
+        "get a decision"
+      ],
+      "answer": 1,
+      "explainSi": "make a decision."
+    },
+    {
+      "id": "b1-30-q9",
+      "q": "'උදව්වක් කරනවා' කියන්නේ?",
+      "options": [
+        "make a favour",
+        "do a favour",
+        "take a favour",
+        "have a favour"
+      ],
+      "answer": 1,
+      "explainSi": "do someone a favour."
+    },
+    {
+      "id": "b1-30-q10",
+      "q": "'ෆොටෝ එකක් ගන්නවා' කියන්නේ?",
+      "options": [
+        "make a photo",
+        "take a photo",
+        "do a photo",
+        "get a photo"
+      ],
+      "answer": 1,
+      "explainSi": "take a photo."
+    },
+    {
+      "id": "b1-30-q11",
+      "q": "'බොරුවක් කියනවා' කියන්නේ?",
+      "options": [
+        "say a lie",
+        "tell a lie",
+        "make a lie",
+        "do a lie"
+      ],
+      "answer": 1,
+      "explainSi": "tell a lie, tell the truth."
+    },
+    {
+      "id": "b1-30-q12",
+      "q": "'have a shower' සහ 'take a shower' —",
+      "options": [
+        "එකක් වැරදියි",
+        "දෙකම හරි — බ්‍රිතාන්‍ය සහ ඇමරිකානු",
+        "දෙකම වැරදියි",
+        "අර්ථ දෙකක්"
+      ],
+      "answer": 1,
+      "explainSi": "ඒත් 'do a shower' කියන එකක් නෑ."
+    },
+    {
+      "id": "b1-30-q13",
+      "q": "'get' කියන එක ලියන එකට ගැලපෙනවාද?",
+      "options": [
+        "ඔව්, හැමවිටම",
+        "ඒක අවිධිමත් — ලියන එකට become හෝ receive",
+        "නෑ, කවදාවත්",
+        "ඔව්, ප්‍රශ්නවලට විතරක්"
+      ],
+      "answer": 1,
+      "explainSi": "'He got angry' (කථාව) / 'He became angry' (ලියන එක)."
+    },
+    {
+      "id": "b1-30-q14",
+      "q": "නින්දට යෙදෙන්නේ?",
+      "options": [
+        "heavy sleep",
+        "deep sleep",
+        "strong sleep",
+        "hard sleep"
+      ],
+      "answer": 1,
+      "explainSi": "deep sleep; සහ 'fast asleep'."
+    },
+    {
+      "id": "b1-30-q15",
+      "q": "'strong rain' කියන එකේ ප්‍රශ්නය?",
+      "options": [
+        "ව්‍යාකරණ වැරදියි",
+        "ව්‍යාකරණ හරි, ඒත් ඉංග්‍රීසි කථා කරන කෙනෙකුට අමුතුයි",
+        "වචන වැරදියි",
+        "ප්‍රශ්නයක් නෑ"
+      ],
+      "answer": 1,
+      "explainSi": "Collocation කැඩුණම ඒක තේරෙනවා, ඒත් ස්වාභාවික නෑ."
+    },
+    {
+      "id": "b1-30-q16",
+      "q": "අලුත් වචනයක් සටහන් කරගන්න හොඳම විදිහ?",
+      "options": [
+        "වචනේ තනියම",
+        "වචනේ එක්ක යන වචනත් එක්ක",
+        "අකාරාදී පිළිවෙළට",
+        "උච්චාරණය විතරක්"
+      ],
+      "answer": 1,
+      "explainSi": "'rain' නෙවෙයි, 'heavy rain'."
+    },
+    {
+      "id": "b1-30-q17",
+      "q": "'take your time' කියන්නේ?",
+      "options": [
+        "ඉක්මන් කරන්න",
+        "හදිසි නෑ, පරෙස්සමින් කරන්න",
+        "වෙලාව බලන්න",
+        "යන්න"
+      ],
+      "answer": 1,
+      "explainSi": "ආචාරශීලී යෙදුමක්."
+    },
+    {
+      "id": "b1-30-q18",
+      "q": "collocation ඇත්තටම ඉගෙන ගන්නේ කොහොමද?",
+      "options": [
+        "නීති කටපාඩම් කරලා",
+        "අහලා සහ කියවලා — යුගල ලෙස",
+        "ශබ්දකෝෂය කටපාඩම් කරලා",
+        "ව්‍යාකරණ පොතකින්"
+      ],
+      "answer": 1,
+      "explainSi": "ලැයිස්තුවකින් දකින්න පුළුවන්; කටට එන්නේ අහලා."
+    }
+  ],
+  "vocab": [
+    {
+      "en": "heavy rain",
+      "si": "තද වැස්ස",
+      "say": "හෙවි රේන්",
+      "exampleEn": "Heavy rain all night.",
+      "exampleSi": "රෑ පුරාම තද වැස්සක්."
+    },
+    {
+      "en": "strong wind",
+      "si": "තද සුළඟ",
+      "say": "ස්ට්‍රොං වින්ඩ්",
+      "exampleEn": "A strong wind from the sea.",
+      "exampleSi": "මුහුදෙන් තද සුළඟක්."
+    },
+    {
+      "en": "strong tea",
+      "si": "තද තේ",
+      "say": "ස්ට්‍රොං ටී",
+      "exampleEn": "I like strong tea.",
+      "exampleSi": "මම තද තේ වලට කැමතියි."
+    },
+    {
+      "en": "deep sleep",
+      "si": "ගැඹුරු නින්ද",
+      "say": "ඩීප් ස්ලීප්",
+      "exampleEn": "He was in a deep sleep.",
+      "exampleSi": "එයා ගැඹුරු නින්දේ."
+    },
+    {
+      "en": "wide awake",
+      "si": "හොඳට ඇහැරිලා",
+      "say": "වයිඩ් අවේක්",
+      "exampleEn": "It's midnight and I'm wide awake.",
+      "exampleSi": "මධ්‍යම රාත්‍රියි, මම හොඳට ඇහැරිලා."
+    },
+    {
+      "en": "hard work",
+      "si": "වෙහෙසකර වැඩ",
+      "say": "හාඩ් වර්ක්",
+      "exampleEn": "It was hard work.",
+      "exampleSi": "ඒක වෙහෙසකර වැඩක්."
+    },
+    {
+      "en": "make a mistake",
+      "si": "වැරැද්දක් කරනවා",
+      "say": "මේක් අ මිස්ටේක්",
+      "exampleEn": "I made a mistake.",
+      "exampleSi": "මම වැරැද්දක් කළා."
+    },
+    {
+      "en": "make a decision",
+      "si": "තීරණයක් ගන්නවා",
+      "say": "මේක් අ ඩිසිෂන්",
+      "exampleEn": "She made a decision.",
+      "exampleSi": "ඇය තීරණයක් ගත්තා."
+    },
+    {
+      "en": "do your homework",
+      "si": "ගෙදර වැඩ කරනවා",
+      "say": "ඩූ යුවර් හෝම්වර්ක්",
+      "exampleEn": "Do your homework first.",
+      "exampleSi": "මුලින්ම ගෙදර වැඩ කරන්න."
+    },
+    {
+      "en": "do someone a favour",
+      "si": "උදව්වක් කරනවා",
+      "say": "ඩූ අ ෆේවර්",
+      "exampleEn": "Do me a favour?",
+      "exampleSi": "උදව්වක් කරනවාද?"
+    },
+    {
+      "en": "take a photo",
+      "si": "ෆොටෝ ගන්නවා",
+      "say": "ටේක් අ ෆොටෝ",
+      "exampleEn": "Take a photo of us.",
+      "exampleSi": "අපේ ෆොටෝ එකක් ගන්න."
+    },
+    {
+      "en": "take a break",
+      "si": "විවේකයක් ගන්නවා",
+      "say": "ටේක් අ බ්‍රේක්",
+      "exampleEn": "Let's take a break.",
+      "exampleSi": "විවේකයක් ගමු."
+    },
+    {
+      "en": "have a look",
+      "si": "බලනවා",
+      "say": "හෑව් අ ලුක්",
+      "exampleEn": "Have a look at this.",
+      "exampleSi": "මේක බලන්න."
+    },
+    {
+      "en": "get married",
+      "si": "විවාහ වෙනවා",
+      "say": "ගෙට් මැරීඩ්",
+      "exampleEn": "They got married in June.",
+      "exampleSi": "ඒගොල්ලෝ ජූනි විවාහ වුණා."
+    },
+    {
+      "en": "get lost",
+      "si": "පාර වැරදෙනවා",
+      "say": "ගෙට් ලොස්ට්",
+      "exampleEn": "We got lost twice.",
+      "exampleSi": "අපිට දෙපාරක් පාර වැරදුණා."
+    },
+    {
+      "en": "tell a lie",
+      "si": "බොරුවක් කියනවා",
+      "say": "ටෙල් අ ලයි",
+      "exampleEn": "Don't tell lies.",
+      "exampleSi": "බොරු කියන්න එපා."
+    }
+  ]
+}

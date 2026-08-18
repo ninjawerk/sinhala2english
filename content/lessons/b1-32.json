@@ -1,0 +1,778 @@
+{
+  "goalsSi": [
+    "සිංහලේ නැති දෙයක් — 'the' කියන එක තේරුම් ගන්න",
+    "a/an සහ the අතර වෙනස: අලුත් දෙයක්ද, දන්න දෙයක්ද",
+    "ගණන් කරන්න පුළුවන් සහ බැරි නාම පද",
+    "වතුර, කිරි, උපදෙස් — ඒවාට 'a' යෙදෙන්නේ නෑ",
+    "article එකක්ම නැති අවස්ථා",
+    "ලංකාවේ බහුලම article වැරදි"
+  ],
+  "goals": [
+    "Understand the article, which Sinhala does not have",
+    "Tell a/an from the: new to the listener, or already known",
+    "Tell countable from uncountable nouns",
+    "Know why water, milk and advice take no a",
+    "Recognise where no article is used at all",
+    "Fix the most common article mistakes"
+  ],
+  "sections": [
+    {
+      "type": "note",
+      "title": "The word Sinhala does not have",
+      "titleSi": "සිංහලේ නැති වචනය",
+      "bodySi": "සිංහලෙන් 'මම කඩේට ගියා' කියනවා. ඉංග්‍රීසියෙන් 'I went to the shop'.\n\nඒ 'the' කියන එකට සිංහලෙන් වචනයක් නෑ. ඒක තමයි ප්‍රශ්නය.\n\nඑය නැති භාෂාවක් කථා කරන කෙනෙකුට ඒක අනවශ්‍ය වගේ දැනෙනවා — මොකද අර්ථය ඒක නැතුවත් තේරෙනවා. 'I went to shop' කිව්වත් අහන කෙනාට තේරෙනවා.\n\nඒත් ඒක නැත්නම් ඉංග්‍රීසිය වහාම විදේශීය බව පේනවා. පර්යේෂණවලින් පෙන්නලා තියෙන්නේ article නැති භාෂාවක් කථා කරන අයට මේක අන්තිමට හරි යන දෙයක් කියලා — B1, B2 පසු කරලාත් ඉතුරු වෙන වැරැද්ද මේකයි.\n\nඑහෙනම් හොඳ ආරංචිය මොකක්ද? නීති කීපයක් ඉගෙන ගත්තම වැරදිවලින් 80%ක් නවතිනවා. සම්පූර්ණ නිවැරදිකම කාලයක් ගන්නවා, ඒත් ලොකු වැරදි ටික ලේසියෙන් හදාගන්න පුළුවන්.\n\nමූලික ප්‍රශ්නය එකයි: අහන කෙනා දන්නවාද මම කථා කරන්නේ කුමන එක ගැනද කියලා?\n\nදන්නවා නම් — the.\nදන්නේ නෑ නම් — a / an.",
+      "body": "Sinhala has no article, so it feels unnecessary — and it is the last thing to come right. But a few rules remove most of the errors."
+    },
+    {
+      "type": "grammar",
+      "title": "a/an — new, the — known",
+      "titleSi": "a/an — අලුත්, the — දන්න",
+      "explainSi": "මූලික නීතිය: අහන කෙනාට ඒක අලුත්ද, දැනටමත් දන්නවාද?\n\na / an — මුල් වතාවට කියනවා. කුමන එකද කියලා නිශ්චිත නෑ.\n'I saw a dog.' — බල්ලෙක්. කුමන එකද කියලා ඔයා දන්නේ නෑ.\n\nthe — දෙන්නාම දන්නවා කුමන එකද කියලා.\n'The dog was barking.' — අර බල්ලා. දැන් ඔයා දන්නවා.\n\nඒ නිසා කතාවක් මෙහෙම යනවා:\n\n'I bought a book yesterday. The book is about Jaffna.'\n\nපළවෙනි වතාවට — a. ඊට පස්සේ — the. මේ රටාව හරිම බහුලයි.\n\nan යෙදෙන්නේ ස්වර ශබ්දයකට කලින්: an apple, an hour (h නිශ්ශබ්දයි), an umbrella.\nඒත් 'a university' ✓ — ලියන්නේ u වුණත් ශබ්දය 'යූ'.\n\nthe තව යෙදෙන අවස්ථා:\n- ලෝකයේ එකම දෙයක්: the sun, the moon, the sky\n- සන්දර්භයෙන් පැහැදිලි: 'Close the door.' (මේ කාමරයේ දොර)\n- උපරිමය: the best, the first, the only\n- නම් සමහරක්: the Mahaweli, the Indian Ocean, the Maldives",
+      "explain": "a/an introduces something new; the points at something you both already know. First mention a, after that the.",
+      "formula": "අලුත් → a/an  ·  දන්න → the",
+      "table": {
+        "headers": [
+          "වාක්‍යය",
+          "ඇයි"
+        ],
+        "rows": [
+          [
+            "I saw a dog.",
+            "මුල් වතාවට — අලුත්"
+          ],
+          [
+            "The dog was black.",
+            "දැන් දෙන්නාම දන්නවා"
+          ],
+          [
+            "Close the door.",
+            "සන්දර්භයෙන් පැහැදිලි"
+          ],
+          [
+            "The sun is hot.",
+            "ලෝකයේ එකයි"
+          ],
+          [
+            "She's the best in the class.",
+            "උපරිමය"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "I bought a book yesterday. The book is about Jaffna.",
+          "si": "ඊයේ මම පොතක් ගත්තා. ඒ පොත යාපනය ගැන."
+        },
+        {
+          "en": "There's a man at the door.",
+          "si": "දොර ළඟ මනුස්සයෙක් ඉන්නවා."
+        },
+        {
+          "en": "We took the early train, the one at six.",
+          "si": "අපි උදේ කෝච්චියෙන් ගියා, හයේ එකෙන්."
+        }
+      ],
+      "watchOutSi": "'I went to shop' කියන එක ලංකාවේ බහුලයි. හරි එක 'I went to the shop'. ගණන් කරන්න පුළුවන් එකවචන නාම පදයකට හැමවිටම article එකක් ඕන — a, the, my, this — කිසිවක් නැතුව තියෙන්න බෑ."
+    },
+    {
+      "type": "grammar",
+      "title": "Countable and uncountable",
+      "titleSi": "ගණන් කරන්න පුළුවන් සහ බැරි",
+      "explainSi": "මේක article වලට තීරණාත්මකයි.\n\nගණන් කරන්න පුළුවන් (countable) — එකක්, දෙකක්, තුනක් කියන්න පුළුවන්.\na book / two books · a chair / three chairs · an idea / many ideas\n\nගණන් කරන්න බැරි (uncountable) — කෑලි වශයෙන් ගණන් කරන්නේ නෑ.\nwater · milk · rice · money · time · advice · information · furniture · news · work · homework · luggage\n\nUncountable නාම පදවලට:\n✗ 'a' යෙදෙන්නේ නෑ — 'a water' ✗, 'an advice' ✗\n✗ බහුවචනයක් නෑ — 'advices' ✗, 'informations' ✗, 'furnitures' ✗\n✓ 'the' යෙදෙන්න පුළුවන් — 'the water in this bottle' ✓\n✓ article එකක් නැතුවත් තියෙන්න පුළුවන් — 'I like rice' ✓\n\nගණන් කරන්න ඕන නම් මිනුමක් යොදනවා:\na glass of water · a piece of advice · a bit of information · two kilos of rice · a piece of furniture\n\nලංකාවේ බහුලම වැරදි මේවා:\n✗ an advice → ✓ a piece of advice / some advice\n✗ informations → ✓ information\n✗ furnitures → ✓ furniture\n✗ a news → ✓ some news / a piece of news\n✗ equipments → ✓ equipment\n\nතව එකක්: සමහර වචන දෙකම වෙනවා, අර්ථය වෙනස් වෙනවා:\n'I'd like a coffee.' — කෝපි එකක් (කෝප්පයක්) ✓\n'Coffee is expensive.' — කෝපි කියන දේ ✓",
+      "explain": "Uncountable nouns take no a and no plural. Use a measure — a piece of advice, a glass of water — when you need to count them.",
+      "formula": "countable: a book / books  ·  uncountable: water, advice — no a, no -s",
+      "table": {
+        "headers": [
+          "වැරදි",
+          "හරි"
+        ],
+        "rows": [
+          [
+            "an advice",
+            "a piece of advice / some advice"
+          ],
+          [
+            "informations",
+            "information"
+          ],
+          [
+            "furnitures",
+            "furniture"
+          ],
+          [
+            "a news",
+            "some news"
+          ],
+          [
+            "a water",
+            "a glass of water"
+          ],
+          [
+            "many luggages",
+            "a lot of luggage"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "Can I give you a piece of advice?",
+          "si": "ඔයාට උපදෙසක් දෙන්නද?"
+        },
+        {
+          "en": "We need more information before we decide.",
+          "si": "තීරණය කරන්න කලින් අපිට තව තොරතුරු ඕන."
+        },
+        {
+          "en": "I'd like a coffee, and some water too.",
+          "si": "මට කෝපි එකක්, වතුරත් ටිකක්."
+        }
+      ],
+      "watchOutSi": "'Advice', 'information', 'furniture', 'news', 'equipment', 'luggage' — මේවා ඉංග්‍රීසියෙන් කවදාවත් බහුවචන වෙන්නේ නෑ. සිංහලෙන් 'උපදෙස්' කියලා බහුවචනයක් තියෙන නිසා මේක අමාරුයි."
+    },
+    {
+      "type": "grammar",
+      "title": "When there is no article at all",
+      "titleSi": "article එකක්ම නැති අවස්ථා",
+      "explainSi": "සමහර තැන්වල article එකක්ම යෙදෙන්නේ නෑ. ඒවා දැනගත්තම තව වැරදි ගොඩක් නවතිනවා.\n\n1. පොදුවේ කථා කරනකොට — බහුවචන සහ uncountable:\n'Dogs are loyal.' — බල්ලෝ (පොදුවේ) ✓\n'The dogs are loyal.' — අර බල්ලෝ (නිශ්චිත) ✓ — වෙනස් අර්ථයක්\n'Water is free.' ✓ ('The water is free' = මේ වතුර)\n'I like music.' ✓ ('I like the music' = මේ සංගීතය)\n\n2. රටවල්, නගර, පුද්ගල නම්:\nSri Lanka · Colombo · Nadeesha\n(ව්‍යතිරේක: the Maldives, the Netherlands, the USA — බහුවචන හෝ 'republic/kingdom' කියන අර්ථය තියෙන ඒවා)\n\n3. කෑම වේල්, භාෂා, විෂය:\n'We had breakfast at six.' · 'She speaks Tamil.' · 'I studied history.'\n\n4. ස්ථාන ඒවායේ අරමුණට යනකොට:\ngo to school (ඉගෙන ගන්න) · go to hospital (රෝගියෙක් ලෙස) · go to bed (නිදාගන්න) · at home · at work\n\nඒත් ගොඩනැගිල්ල ගැන කථා කරනවා නම් 'the' එනවා:\n'I went to the school to meet the principal.' — ඉගෙන ගන්න නෙවෙයි, ගොඩනැගිල්ලට.\n\n5. ප්‍රවාහනය 'by' එක්ක:\nby bus · by train · by car · on foot",
+      "explain": "No article for general plurals and uncountables, for names, for meals and subjects, and for places used for their purpose — go to school, at work.",
+      "formula": "Dogs are loyal · go to school · by bus · at home",
+      "table": {
+        "headers": [
+          "article නෑ",
+          "the එක්ක",
+          "වෙනස"
+        ],
+        "rows": [
+          [
+            "Dogs are loyal.",
+            "The dogs are loyal.",
+            "පොදුවේ / අර ඒවා"
+          ],
+          [
+            "go to school",
+            "go to the school",
+            "ඉගෙන ගන්න / ගොඩනැගිල්ලට"
+          ],
+          [
+            "I like music.",
+            "I like the music.",
+            "පොදුවේ / මේ එක"
+          ],
+          [
+            "in bed",
+            "in the bed",
+            "නිදාගෙන / ඇඳ ඇතුළේ"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "Children learn languages faster than adults.",
+          "si": "ළමයි වැඩිහිටියන්ට වඩා ඉක්මනට භාෂා ඉගෙන ගන්නවා."
+        },
+        {
+          "en": "She goes to school by bus and comes home on foot.",
+          "si": "ඇය බස් එකෙන් ඉස්කෝලේ යනවා, ඇවිදගෙන ගෙදර එනවා."
+        },
+        {
+          "en": "We had lunch at work and then went to hospital to see him.",
+          "si": "අපි වැඩේදී දවල් කෑම කාලා, ඊට පස්සේ එයාව බලන්න රෝහලට ගියා."
+        }
+      ],
+      "watchOutSi": "'I like the music' කියන එක වැරදි නෑ — ඒත් අර්ථය 'මේ සංගීතයට කැමතියි' කියන එකයි, 'සංගීතයට කැමතියි' කියන එක නෙවෙයි. පොදුවේ කථා කරනකොට article එකක් නෑ."
+    },
+    {
+      "type": "vocab",
+      "title": "Uncountable words to watch",
+      "titleSi": "පරෙස්සම් වෙන්න ඕන වචන",
+      "introSi": "මේවාට 'a' නෑ, බහුවචනයක් නෑ. සිංහලෙන් හිතුවොත් වැරදෙනවා.",
+      "items": [
+        {
+          "en": "advice",
+          "si": "උපදෙස්",
+          "say": "අඩ්වයිස්",
+          "exampleEn": "a piece of advice",
+          "exampleSi": "උපදෙසක්"
+        },
+        {
+          "en": "information",
+          "si": "තොරතුරු",
+          "say": "ඉන්ෆමේෂන්",
+          "exampleEn": "We need more information.",
+          "exampleSi": "අපිට තව තොරතුරු ඕන."
+        },
+        {
+          "en": "furniture",
+          "si": "ගෘහ භාණ්ඩ",
+          "say": "ෆර්නිචර්",
+          "exampleEn": "The furniture is new.",
+          "exampleSi": "ගෘහ භාණ්ඩ අලුත්."
+        },
+        {
+          "en": "news",
+          "si": "පුවත්",
+          "say": "නිව්ස්",
+          "exampleEn": "That's good news.",
+          "exampleSi": "ඒක හොඳ පුවතක්."
+        },
+        {
+          "en": "luggage",
+          "si": "බඩු, මලු",
+          "say": "ලගේජ්",
+          "exampleEn": "Is this your luggage?",
+          "exampleSi": "මේ ඔයාගේ බඩුද?"
+        },
+        {
+          "en": "equipment",
+          "si": "උපකරණ",
+          "say": "ඉක්විප්මන්ට්",
+          "exampleEn": "The equipment is expensive.",
+          "exampleSi": "උපකරණ මිල අධිකයි."
+        },
+        {
+          "en": "work",
+          "si": "වැඩ",
+          "say": "වර්ක්",
+          "exampleEn": "I have a lot of work.",
+          "exampleSi": "මට වැඩ ගොඩක් තියෙනවා."
+        },
+        {
+          "en": "money",
+          "si": "සල්ලි",
+          "say": "මනි",
+          "exampleEn": "Money isn't everything.",
+          "exampleSi": "සල්ලි හැම දෙයක්ම නෙවෙයි."
+        },
+        {
+          "en": "time",
+          "si": "වෙලාව",
+          "say": "ටයිම්",
+          "exampleEn": "We don't have much time.",
+          "exampleSi": "අපිට වැඩි වෙලාවක් නෑ."
+        },
+        {
+          "en": "rice",
+          "si": "බත්, සහල්",
+          "say": "රයිස්",
+          "exampleEn": "Rice is our staple.",
+          "exampleSi": "බත් අපේ ප්‍රධාන ආහාරය."
+        },
+        {
+          "en": "a piece of",
+          "si": "එකක්, කැබැල්ලක්",
+          "say": "අ පීස් ඔෆ්",
+          "exampleEn": "a piece of advice",
+          "exampleSi": "උපදෙසක්"
+        },
+        {
+          "en": "a glass of",
+          "si": "වීදුරුවක්",
+          "say": "අ ග්ලාස් ඔෆ්",
+          "exampleEn": "a glass of water",
+          "exampleSi": "වතුර වීදුරුවක්"
+        },
+        {
+          "en": "some",
+          "si": "ටිකක්",
+          "say": "සම්",
+          "exampleEn": "Can I give you some advice?",
+          "exampleSi": "උපදෙසක් දෙන්නද?"
+        },
+        {
+          "en": "on foot",
+          "si": "ඇවිදගෙන",
+          "say": "ඔන් ෆුට්",
+          "exampleEn": "We came on foot.",
+          "exampleSi": "අපි ඇවිදගෙන ආවා."
+        },
+        {
+          "en": "at home",
+          "si": "ගෙදර",
+          "say": "ඇට් හෝම්",
+          "exampleEn": "She's at home today.",
+          "exampleSi": "අද ඇය ගෙදර."
+        },
+        {
+          "en": "go to bed",
+          "si": "නිදාගන්න යනවා",
+          "say": "ගෝ ටු බෙඩ්",
+          "exampleEn": "I went to bed early.",
+          "exampleSi": "මම කලින් නිදාගන්න ගියා."
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "A piece of advice",
+      "titleSi": "උපදෙසක්",
+      "settingSi": "විදේශගත වීම ගැන කථාවක්. article කීයක් තියෙනවාද, සහ නැත්තේ කොහෙද කියලා බලන්න.",
+      "lines": [
+        {
+          "speaker": "Nadeesha",
+          "en": "Can I give you a piece of advice before you go?",
+          "si": "යන්න කලින් ඔයාට උපදෙසක් දෙන්නද?"
+        },
+        {
+          "speaker": "Ruwan",
+          "en": "Go on.",
+          "si": "කියන්න."
+        },
+        {
+          "speaker": "Nadeesha",
+          "en": "Take less luggage than you think you need. I took too much furniture the first time.",
+          "si": "ඔයා හිතනවාට වඩා අඩුවෙන් බඩු ගෙනියන්න. පළවෙනි පාර මම ගෘහ භාණ්ඩ ගොඩක් ගෙනිච්චා."
+        },
+        {
+          "speaker": "Ruwan",
+          "en": "Furniture? On a plane?",
+          "si": "ගෘහ භාණ්ඩ? යානයෙන්?"
+        },
+        {
+          "speaker": "Nadeesha",
+          "en": "A folding table. Don't laugh. The information they give you is never enough.",
+          "si": "නවන මේසයක්. හිනා වෙන්න එපා. ඒගොල්ලෝ දෙන තොරතුරු කවදාවත් ප්‍රමාණවත් නෑ."
+        },
+        {
+          "speaker": "Ruwan",
+          "en": "So what do I actually need?",
+          "si": "එහෙනම් මට ඇත්තටම ඕන මොනවාද?"
+        },
+        {
+          "speaker": "Nadeesha",
+          "en": "Money, time, and patience. None of them fit in a bag.",
+          "si": "සල්ලි, වෙලාව, ඉවසීම. ඒවා එකක්වත් බෑග් එකකට දාන්න බෑ."
+        }
+      ]
+    },
+    {
+      "type": "story",
+      "title": "The letter that lost its the",
+      "titleSi": "'the' නැති වුණු ලියුම",
+      "introSi": "Article එකක වටිනාකම ගැන කෙටි කතාවක්.",
+      "paragraphs": [
+        {
+          "en": "Sudesh applied for twelve jobs in one month. His English was good, his experience was real, and nobody called him back.",
+          "si": "සුදේශ් මාසෙකට රැකියා දොළහකට අයදුම් කළා. එයාගේ ඉංග්‍රීසි හොඳයි, අත්දැකීම ඇත්ත, ඒත් කවුරුවත් ආපහු කතා කළේ නෑ."
+        },
+        {
+          "en": "A friend read one of the letters. It said: \"I am writing to apply for position of accountant advertised in newspaper.\"",
+          "si": "යාළුවෙක් ලියුමක් කියෙව්වා. ඒකේ තිබුණා: \"I am writing to apply for position of accountant advertised in newspaper.\""
+        },
+        {
+          "en": "Every word was right. Two small words were missing: the position, the newspaper. His friend added them and the sentence stopped sounding translated.",
+          "si": "හැම වචනයක්ම හරි. පොඩි වචන දෙකක් අඩුයි: the position, the newspaper. යාළුවා ඒවා දැම්මා — වාක්‍යය පරිවර්තනයක් වගේ ඇහෙන එක නැවතුණා."
+        },
+        {
+          "en": "He does not believe the articles got him the job. But he does believe they got the letter read to the end, which is all a letter can do.",
+          "si": "Article නිසා රස්සාව ලැබුණා කියලා එයා විශ්වාස කරන්නේ නෑ. ඒත් ලියුම අගටම කියෙව්වේ ඒවා නිසා කියලා විශ්වාස කරනවා — ලියුමකට කරන්න පුළුවන් උපරිමය ඒකයි."
+        }
+      ],
+      "glossary": [
+        {
+          "en": "apply for",
+          "si": "අයදුම් කරනවා"
+        },
+        {
+          "en": "position",
+          "si": "තනතුර"
+        },
+        {
+          "en": "accountant",
+          "si": "ගණකාධිකාරී"
+        },
+        {
+          "en": "advertise",
+          "si": "දැන්වීම් කරනවා"
+        }
+      ],
+      "questionsSi": [
+        "සුදේශ්ගේ වාක්‍යයේ අඩුව මොකක්ද?",
+        "ඒක අර්ථය වෙනස් කළාද?",
+        "එහෙනම් ඒක වැදගත් වුණේ ඇයි?"
+      ]
+    },
+    {
+      "type": "tip",
+      "title": "The one question to ask",
+      "titleSi": "අහන්න ඕන එකම ප්‍රශ්නය",
+      "bodySi": "නාම පදයක් ලියනකොට මේ ප්‍රශ්න දෙක පිළිවෙළට අහන්න:\n\n1. මේක ගණන් කරන්න පුළුවන්ද?\nබෑ නම් (water, advice, information) — 'a' නෑ, බහුවචනයක් නෑ.\n\n2. අහන කෙනා දන්නවාද මම කථා කරන්නේ කුමන එක ගැනද?\nදන්නවා නම් — the.\nදන්නේ නෑ නම් — a / an.\nපොදුවේ කථා කරනවා නම් (බහුවචන/uncountable) — කිසිවක් නෑ.\n\nගණන් කරන්න පුළුවන් එකවචන නාම පදයක් කවදාවත් තනියම තියෙන්නේ නෑ. a, the, my, this, one — මොකක් හරි ඕන.\n\n✗ 'I went to shop.'\n✓ 'I went to the shop.' / 'I went to a shop.'",
+      "body": "Countable or not? Then: does the listener know which one? A singular countable noun is never bare."
+    },
+    {
+      "type": "practice",
+      "title": "a, an, the — or nothing",
+      "titleSi": "a, an, the — නැත්නම් කිසිවක් නෑ",
+      "instructionSi": "හිස් තැනට a, an, the දාන්න. කිසිවක් ඕන නැත්නම් '—' ලියන්න.",
+      "items": [
+        {
+          "prompt": "I saw ___ dog in the garden. ___ dog was black.",
+          "answer": "a, The",
+          "hintSi": "මුල් වතාවට a, ඊට පස්සේ the.",
+          "full": "I saw a dog in the garden. The dog was black."
+        },
+        {
+          "prompt": "Can I give you ___ advice?",
+          "answer": "some",
+          "hintSi": "'advice' uncountable — 'an advice' වැරදියි.",
+          "full": "Can I give you some advice? / a piece of advice"
+        },
+        {
+          "prompt": "___ dogs are loyal animals.",
+          "answer": "—",
+          "hintSi": "පොදුවේ කථා කරනවා, බහුවචනයක්.",
+          "full": "Dogs are loyal animals."
+        },
+        {
+          "prompt": "She goes to ___ school by ___ bus.",
+          "answer": "—, —",
+          "hintSi": "ඉගෙන ගන්න යනවා; ප්‍රවාහනය 'by' එක්ක.",
+          "full": "She goes to school by bus."
+        },
+        {
+          "prompt": "Could you close ___ door, please?",
+          "answer": "the",
+          "hintSi": "සන්දර්භයෙන් පැහැදිලියි කුමන දොරද කියලා.",
+          "full": "Could you close the door, please?"
+        },
+        {
+          "prompt": "We need ___ information before we decide.",
+          "answer": "—",
+          "hintSi": "uncountable — 'informations' කියන එකක් නෑ.",
+          "full": "We need information before we decide. / more information"
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "b1-32-q1",
+      "q": "සිංහල කථා කරන අයට article අමාරු වෙන්නේ ඇයි?",
+      "options": [
+        "ඒවා දිගයි",
+        "සිංහලේ 'the' කියන එකට වචනයක් නෑ",
+        "ඒවා අලුත් නිසා",
+        "ඒවා උච්චාරණය අමාරු නිසා"
+      ],
+      "answer": 1,
+      "explainSi": "නැති දෙයක් නිසා අනවශ්‍ය වගේ දැනෙනවා — ඒත් ඒක ඉංග්‍රීසියේ අවශ්‍යයි."
+    },
+    {
+      "id": "b1-32-q2",
+      "q": "මූලික නීතිය?",
+      "options": [
+        "දිග වචනවලට the",
+        "අහන කෙනා දන්නවා නම් the; දන්නේ නෑ නම් a/an",
+        "බහුවචනවලට a",
+        "හැමවිටම the"
+      ],
+      "answer": 1,
+      "explainSi": "අලුත් → a/an, දන්න → the."
+    },
+    {
+      "id": "b1-32-q3",
+      "q": "'I saw ___ dog. ___ dog was black.'",
+      "options": [
+        "the, A",
+        "a, The",
+        "a, A",
+        "the, The"
+      ],
+      "answer": 1,
+      "explainSi": "මුල් වතාවට a, ඊට පස්සේ the."
+    },
+    {
+      "id": "b1-32-q4",
+      "q": "කුමන එක වැරදිද?",
+      "options": [
+        "some advice",
+        "a piece of advice",
+        "an advice",
+        "the advice"
+      ],
+      "answer": 2,
+      "explainSi": "'advice' uncountable — 'a' යෙදෙන්නේ නෑ."
+    },
+    {
+      "id": "b1-32-q5",
+      "q": "'information' බහුවචනය?",
+      "options": [
+        "informations",
+        "informationes",
+        "බහුවචනයක් නෑ",
+        "information's"
+      ],
+      "answer": 2,
+      "explainSi": "Uncountable නාම පදවලට බහුවචනයක් නෑ."
+    },
+    {
+      "id": "b1-32-q6",
+      "q": "'Dogs are loyal' සහ 'The dogs are loyal' —",
+      "options": [
+        "එකම දේ",
+        "පළවෙනි එක පොදුවේ; දෙවෙනි එක නිශ්චිත බල්ලෝ ගැන",
+        "දෙවෙනි එක වැරදියි",
+        "පළවෙනි එක වැරදියි"
+      ],
+      "answer": 1,
+      "explainSi": "පොදුවේ කථා කරනකොට බහුවචනයට article නෑ."
+    },
+    {
+      "id": "b1-32-q7",
+      "q": "'go to school' සහ 'go to the school' —",
+      "options": [
+        "එකම දේ",
+        "පළවෙනි එක ඉගෙන ගන්න; දෙවෙනි එක ගොඩනැගිල්ලට",
+        "දෙවෙනි එක වැරදියි",
+        "පළවෙනි එක වැරදියි"
+      ],
+      "answer": 1,
+      "explainSi": "ස්ථානය ඒකේ අරමුණට යනකොට article නෑ."
+    },
+    {
+      "id": "b1-32-q8",
+      "q": "'an' යෙදෙන්නේ?",
+      "options": [
+        "ස්වර අකුරකට කලින්",
+        "ස්වර ශබ්දයකට කලින්",
+        "දිග වචනවලට",
+        "බහුවචනවලට"
+      ],
+      "answer": 1,
+      "explainSi": "an hour ✓ (h නිශ්ශබ්ද), a university ✓ (ශබ්දය 'යූ')."
+    },
+    {
+      "id": "b1-32-q9",
+      "q": "'I went to shop' — වැරැද්ද?",
+      "options": [
+        "'went' වැරදියි",
+        "ගණන් කරන්න පුළුවන් එකවචනයකට article එකක් ඕන",
+        "'to' වැරදියි",
+        "වැරැද්දක් නෑ"
+      ],
+      "answer": 1,
+      "explainSi": "'the shop' නැත්නම් 'a shop'."
+    },
+    {
+      "id": "b1-32-q10",
+      "q": "කුමන එක uncountable ද?",
+      "options": [
+        "chair",
+        "idea",
+        "furniture",
+        "book"
+      ],
+      "answer": 2,
+      "explainSi": "'furnitures' කියන එකක් නෑ — 'a piece of furniture'."
+    },
+    {
+      "id": "b1-32-q11",
+      "q": "'the' යෙදෙන්නේ?",
+      "options": [
+        "the sun",
+        "a sun",
+        "sun",
+        "suns"
+      ],
+      "answer": 0,
+      "explainSi": "ලෝකයේ එකම දෙයක් — the sun, the moon, the sky."
+    },
+    {
+      "id": "b1-32-q12",
+      "q": "'She speaks ___ Tamil.'",
+      "options": [
+        "a",
+        "the",
+        "an",
+        "— (කිසිවක් නෑ)"
+      ],
+      "answer": 3,
+      "explainSi": "භාෂාවලට article නෑ."
+    },
+    {
+      "id": "b1-32-q13",
+      "q": "'We came ___ foot.'",
+      "options": [
+        "by",
+        "on",
+        "in",
+        "with"
+      ],
+      "answer": 1,
+      "explainSi": "'on foot' — ඒත් 'by bus', 'by train'."
+    },
+    {
+      "id": "b1-32-q14",
+      "q": "'I'd like a coffee' — මේක හරිද?",
+      "options": [
+        "නෑ, coffee uncountable",
+        "ඔව් — කෝප්පයක් කියන අර්ථයෙන්",
+        "නෑ, 'the coffee' කියන්න",
+        "ඔව්, ඒත් 'coffees' කියන්න"
+      ],
+      "answer": 1,
+      "explainSi": "සමහර වචන දෙකම වෙනවා, අර්ථය වෙනස් වෙනවා."
+    },
+    {
+      "id": "b1-32-q15",
+      "q": "'Money ___ everything.'",
+      "options": [
+        "isn't",
+        "aren't",
+        "are not",
+        "not is"
+      ],
+      "answer": 0,
+      "explainSi": "Uncountable නාම පද එකවචනයක් වගේ ක්‍රියා ගන්නවා."
+    },
+    {
+      "id": "b1-32-q16",
+      "q": "වතුර ගණන් කරන්න ඕන නම්?",
+      "options": [
+        "two waters",
+        "a glass of water",
+        "two water",
+        "waters"
+      ],
+      "answer": 1,
+      "explainSi": "මිනුමක් යොදනවා — a glass of, a bottle of."
+    },
+    {
+      "id": "b1-32-q17",
+      "q": "ගණන් කරන්න පුළුවන් එකවචන නාම පදයක් තනියම තියෙන්න පුළුවන්ද?",
+      "options": [
+        "ඔව්",
+        "නෑ — a, the, my, this මොකක් හරි ඕන",
+        "ඔව්, ලියන එකේදී",
+        "ඔව්, ප්‍රශ්නවලදී"
+      ],
+      "answer": 1,
+      "explainSi": "මේ එක නීතියෙන් වැරදි ගොඩක් නවතිනවා."
+    },
+    {
+      "id": "b1-32-q18",
+      "q": "'I like music' සහ 'I like the music' —",
+      "options": [
+        "එකම දේ",
+        "පළවෙනි එක සංගීතයට පොදුවේ; දෙවෙනි එක මේ සංගීතයට",
+        "දෙවෙනි එක වැරදියි",
+        "පළවෙනි එක වැරදියි"
+      ],
+      "answer": 1,
+      "explainSi": "'the' එකෙන් නිශ්චිත එකක් කියවෙනවා."
+    }
+  ],
+  "vocab": [
+    {
+      "en": "advice",
+      "si": "උපදෙස්",
+      "say": "අඩ්වයිස්",
+      "exampleEn": "a piece of advice",
+      "exampleSi": "උපදෙසක්"
+    },
+    {
+      "en": "information",
+      "si": "තොරතුරු",
+      "say": "ඉන්ෆමේෂන්",
+      "exampleEn": "We need more information.",
+      "exampleSi": "අපිට තව තොරතුරු ඕන."
+    },
+    {
+      "en": "furniture",
+      "si": "ගෘහ භාණ්ඩ",
+      "say": "ෆර්නිචර්",
+      "exampleEn": "The furniture is new.",
+      "exampleSi": "ගෘහ භාණ්ඩ අලුත්."
+    },
+    {
+      "en": "news",
+      "si": "පුවත්",
+      "say": "නිව්ස්",
+      "exampleEn": "That's good news.",
+      "exampleSi": "ඒක හොඳ පුවතක්."
+    },
+    {
+      "en": "luggage",
+      "si": "බඩු, මලු",
+      "say": "ලගේජ්",
+      "exampleEn": "Is this your luggage?",
+      "exampleSi": "මේ ඔයාගේ බඩුද?"
+    },
+    {
+      "en": "equipment",
+      "si": "උපකරණ",
+      "say": "ඉක්විප්මන්ට්",
+      "exampleEn": "The equipment is expensive.",
+      "exampleSi": "උපකරණ මිල අධිකයි."
+    },
+    {
+      "en": "work",
+      "si": "වැඩ",
+      "say": "වර්ක්",
+      "exampleEn": "I have a lot of work.",
+      "exampleSi": "මට වැඩ ගොඩක් තියෙනවා."
+    },
+    {
+      "en": "money",
+      "si": "සල්ලි",
+      "say": "මනි",
+      "exampleEn": "Money isn't everything.",
+      "exampleSi": "සල්ලි හැම දෙයක්ම නෙවෙයි."
+    },
+    {
+      "en": "time",
+      "si": "වෙලාව",
+      "say": "ටයිම්",
+      "exampleEn": "We don't have much time.",
+      "exampleSi": "අපිට වැඩි වෙලාවක් නෑ."
+    },
+    {
+      "en": "rice",
+      "si": "බත්, සහල්",
+      "say": "රයිස්",
+      "exampleEn": "Rice is our staple.",
+      "exampleSi": "බත් අපේ ප්‍රධාන ආහාරය."
+    },
+    {
+      "en": "a piece of",
+      "si": "එකක්, කැබැල්ලක්",
+      "say": "අ පීස් ඔෆ්",
+      "exampleEn": "a piece of advice",
+      "exampleSi": "උපදෙසක්"
+    },
+    {
+      "en": "a glass of",
+      "si": "වීදුරුවක්",
+      "say": "අ ග්ලාස් ඔෆ්",
+      "exampleEn": "a glass of water",
+      "exampleSi": "වතුර වීදුරුවක්"
+    },
+    {
+      "en": "some",
+      "si": "ටිකක්",
+      "say": "සම්",
+      "exampleEn": "Can I give you some advice?",
+      "exampleSi": "උපදෙසක් දෙන්නද?"
+    },
+    {
+      "en": "on foot",
+      "si": "ඇවිදගෙන",
+      "say": "ඔන් ෆුට්",
+      "exampleEn": "We came on foot.",
+      "exampleSi": "අපි ඇවිදගෙන ආවා."
+    },
+    {
+      "en": "at home",
+      "si": "ගෙදර",
+      "say": "ඇට් හෝම්",
+      "exampleEn": "She's at home today.",
+      "exampleSi": "අද ඇය ගෙදර."
+    },
+    {
+      "en": "go to bed",
+      "si": "නිදාගන්න යනවා",
+      "say": "ගෝ ටු බෙඩ්",
+      "exampleEn": "I went to bed early.",
+      "exampleSi": "මම කලින් නිදාගන්න ගියා."
+    }
+  ]
+}

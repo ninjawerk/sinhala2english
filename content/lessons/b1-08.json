@@ -1,0 +1,788 @@
+{
+  "hero": {
+    "src": "images/b1-08-hero.webp",
+    "alt": "Ruwan sitting alone on a station bench with a suitcase beside him and a ticket in his hand, a station clock and empty rails beyond, late afternoon light."
+  },
+  "goalsSi": [
+    "past perfect එක හදන්න — had + past participle",
+    "අතීතයේ දේවල් දෙකකින් කලින් වුණේ මොකක්ද කියලා පෙන්නන්න",
+    "past simple එකයි past perfect එකයි එකට යොදන්න",
+    "when, by the time, before, after සමඟ යොදන්න",
+    "නැහැ කියන්නත්, අහන්නත් — hadn't, Had you…?",
+    "කවදා past perfect එක ඕන නැද්ද කියලා දැනගන්න"
+  ],
+  "goals": [
+    "Form the past perfect with had + past participle",
+    "Show which of two past events happened first",
+    "Combine the past perfect with the past simple",
+    "Use it with when, by the time, before and after",
+    "Make negatives and questions",
+    "Know when the past perfect is not needed"
+  ],
+  "sections": [
+    {
+      "type": "note",
+      "title": "A past behind the past",
+      "titleSi": "අතීතයටත් කලින් අතීතයක්",
+      "bodySi": "a2-05 හි ඉගෙන ගත්තා past simple — 'I went to the station.' b1-01 හි past continuous — 'It was raining.' දෙකම අතීතය ගැන.\n\nදැන් ප්‍රශ්නයක්. අතීතයේ දේවල් දෙකක් සිද්ධ වුණා නම්, ඒ දෙකෙන් කලින් වුණේ මොකක්ද කියලා කොහොමද කියන්නේ?\n\n'I got to the station. The train left.'\n\nමේ වාක්‍ය දෙක බලන්න. කවුරු හරි කියයි කෝච්චිය මම ගියාට පස්සේ ගියා කියලා. නමුත් ඇත්තටම වුණේ අනිත් එක — මම යනකොට කෝච්චිය ගිහින්.\n\nඑතකොට කියන්නේ මෙහෙමයි:\n\n'The train had left when I got to the station.'\n\nHad + left. මේකට කියන්නේ past perfect කියලා. ඉංග්‍රීසියෙන් අතීතයේ දේවල් දෙකක් අතරේ පිළිවෙළ පෙන්නන ක්‍රමය මේකයි. සිංහලෙන් අපි 'ගිහින් තිබුණා', 'කරලා තිබුණා' කියලා කියනවා වගේ.\n\nදෙකෙන් කලින් වුණු එකට past perfect. පස්සේ වුණු එකට සාමාන්‍ය past simple.",
+      "body": "The past perfect shows which of two past events happened first. The earlier one takes had + past participle; the later one stays in the past simple."
+    },
+    {
+      "type": "grammar",
+      "title": "had + past participle",
+      "titleSi": "had + past participle",
+      "explainSi": "හැදෙන විදිහ හරිම සරලයි — හැම කෙනෙකුටම had. I, you, he, she, we, they — වෙනසක් නෑ. has/have වගේ මාරු වෙන්නේ නෑ.\n\nhad + past participle.\n\nPast participle කියන්නේ a2-10 හි present perfect එකට යෙදූ ඒ ආකෘතියමයි — gone, eaten, seen, left, finished. ඒ නිසා අලුතෙන් ඉගෙන ගන්න දෙයක් නෑ, ඒ ලැයිස්තුවම තමයි.\n\nකථා කරනකොට 'had' කෙටි වෙනවා: I had → I'd, she had → she'd, they had → they'd. 'I'd already eaten' කියලා අහන්න ලැබෙන එක සාමාන්‍යයි.",
+      "explain": "Had is the same for every subject. The past participle is the same form you learned for the present perfect.",
+      "formula": "subject + had + past participle",
+      "table": {
+        "headers": [
+          "Past simple",
+          "Past perfect",
+          "සිංහල"
+        ],
+        "rows": [
+          [
+            "I went",
+            "I had gone",
+            "මම ගිහින් තිබුණා"
+          ],
+          [
+            "she ate",
+            "she had eaten",
+            "ඇය කාලා තිබුණා"
+          ],
+          [
+            "we saw",
+            "we had seen",
+            "අපි දැකලා තිබුණා"
+          ],
+          [
+            "they finished",
+            "they had finished",
+            "ඒගොල්ලෝ ඉවර කරලා තිබුණා"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "The train had left when I got to the station.",
+          "si": "මම ස්ටේෂන් එකට යනකොට කෝච්චිය ගිහින්."
+        },
+        {
+          "en": "She had cooked dinner before we arrived.",
+          "si": "අපි එනකොට ඇය රෑ කෑම හදලා තිබුණා."
+        },
+        {
+          "en": "I had never seen the sea before that day.",
+          "si": "ඒ දවසට කලින් මම මුහුද දැකලා තිබුණේ නෑ."
+        }
+      ],
+      "watchOutSi": "'had' කියන එක තනියම past simple එකකුත් වෙනවා — 'I had a car' (මට කාරයක් තිබුණා). ඒක past perfect නෙවෙයි, ඒකට past participle එකක් නෑ. Past perfect එකට හැමවිටම had එකට පස්සේ තව ක්‍රියා පදයක් තියෙනවා."
+    },
+    {
+      "type": "grammar",
+      "title": "Which one happened first?",
+      "titleSi": "කලින් වුණේ කුමක්ද?",
+      "explainSi": "වාක්‍යයේ පිළිවෙළට වඩා වැදගත් කාලයේ පිළිවෙළ. Past perfect එකට තියෙන වැඩේ ඒකයි.\n\nවාක්‍යය දෙපැත්තෙන්ම ලියන්න පුළුවන් — තේරුම වෙනස් වෙන්නේ නෑ:\n\n'When I arrived, the party had finished.'\n'The party had finished when I arrived.'\n\nදෙකේම කලින් වුණේ party එක ඉවර වීම. මොකද ඒකට තමයි had තියෙන්නේ.\n\nදැන් මේ දෙක සසඳන්න:\n\n'When I arrived, the party finished.' — මම ආවා, ඊට පස්සේ party එක ඉවර වුණා.\n'When I arrived, the party had finished.' — මම එනකොටම party එක ඉවරයි.\n\nවචන දෙකක වෙනස. සිද්ධියේ පිළිවෙළ පෙරළෙනවා.",
+      "explain": "The verb with had is the earlier event, whichever half of the sentence it sits in.",
+      "formula": "කලින් = had + past participle  ·  පස්සේ = past simple",
+      "table": {
+        "headers": [
+          "වාක්‍යය",
+          "කලින්",
+          "පස්සේ"
+        ],
+        "rows": [
+          [
+            "The bus had gone when I came.",
+            "බස් එක යාම",
+            "මම ඒම"
+          ],
+          [
+            "When I came, the bus went.",
+            "මම ඒම",
+            "බස් එක යාම"
+          ],
+          [
+            "He had eaten before she called.",
+            "එයා කෑම",
+            "ඇය කතා කිරීම"
+          ],
+          [
+            "He ate after she called.",
+            "ඇය කතා කිරීම",
+            "එයා කෑම"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "By the time we got there, the shop had closed.",
+          "si": "අපි එහෙ යනකොට සාප්පුව වහලා."
+        },
+        {
+          "en": "She had already paid when I offered.",
+          "si": "මම කියනකොට ඇය දැනටමත් ගෙවලා."
+        },
+        {
+          "en": "They had left before the rain started.",
+          "si": "වහින්න කලින් ඒගොල්ලෝ ගිහින්."
+        }
+      ],
+      "watchOutSi": "'By the time' කියන එක past perfect එකට හොඳම යාළුවා. 'By the time I woke up, everyone had gone.' — මම නැගිටිනකොටටත් කලින්."
+    },
+    {
+      "type": "grammar",
+      "title": "Not, and asking",
+      "titleSi": "නැහැ කියන එකයි, අහන එකයි",
+      "explainSi": "නැහැ කියන්න had not — කථාවේදී hadn't. had එකට පස්සේ not.\n\n'I hadn't finished when he called.' — එයා කතා කරනකොට මම ඉවර කරලා තිබුණේ නෑ.\n\nඅහන්න had එක ඉස්සරහට ගේනවා, a2-10 හි have/has එක්ක කළා වගේම.\n\n'Had you eaten before you left?' — යන්න කලින් කාලා තිබුණද?\n\nකෙටි උත්තර: 'Yes, I had.' / 'No, I hadn't.'\n\nමතක තියාගන්න — never, already, just මේ වගේ වචන යන්නේ had සහ past participle අතරට. 'I had never been there.' 'She had already left.'",
+      "explain": "Negative: hadn't + past participle. Question: Had + subject + past participle? Words like never and already sit between had and the participle.",
+      "formula": "hadn't + past participle  ·  Had + subject + past participle?",
+      "table": {
+        "headers": [
+          "වර්ගය",
+          "English",
+          "සිංහල"
+        ],
+        "rows": [
+          [
+            "හරි",
+            "I had locked the door.",
+            "මම දොර වහලා තිබුණා."
+          ],
+          [
+            "නැහැ",
+            "I hadn't locked the door.",
+            "මම දොර වහලා තිබුණේ නෑ."
+          ],
+          [
+            "ප්‍රශ්නය",
+            "Had you locked the door?",
+            "දොර වහලා තිබුණද?"
+          ],
+          [
+            "උත්තරය",
+            "No, I hadn't.",
+            "නෑ."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "He hadn't studied, so the test was hard.",
+          "si": "එයා ඉගෙන ගෙන තිබුණේ නෑ, ඒ නිසා විභාගේ අමාරු වුණා."
+        },
+        {
+          "en": "Had they finished before the power went?",
+          "si": "කරන්ට් යන්න කලින් ඒගොල්ලෝ ඉවර කරලා තිබුණද?"
+        },
+        {
+          "en": "I had never eaten crab until last year.",
+          "si": "පහුගිය අවුරුද්ද වෙනකම් මම කකුළුවෙක් කාලා තිබුණේ නෑ."
+        }
+      ],
+      "watchOutSi": "'I didn't had finished' කියලා ලියන්න එපා. Past perfect එකට did/didn't ඕන නෑ — had එකේම not දාන්න."
+    },
+    {
+      "type": "vocab",
+      "title": "Words that order the past",
+      "titleSi": "අතීතය පිළිවෙළට තියන වචන",
+      "introSi": "මේ වචන past perfect එක්ක බහුලව එනවා. ඒවා තමයි කලින්-පස්සේ කියන එක පැහැදිලි කරන්නේ.",
+      "items": [
+        {
+          "en": "by the time",
+          "si": "එනකොටටත්",
+          "say": "බයි ද ටයිම්",
+          "exampleEn": "By the time we arrived, it had started.",
+          "exampleSi": "අපි එනකොටටත් ඒක පටන් අරන්."
+        },
+        {
+          "en": "before",
+          "si": "කලින්",
+          "say": "බිෆෝ",
+          "exampleEn": "She had gone before I called.",
+          "exampleSi": "මම කතා කරන්න කලින් ඇය ගිහින්."
+        },
+        {
+          "en": "after",
+          "si": "පස්සේ",
+          "say": "ආෆ්ටර්",
+          "exampleEn": "We ate after they had left.",
+          "exampleSi": "ඒගොල්ලෝ ගියාට පස්සේ අපි කෑවා."
+        },
+        {
+          "en": "already",
+          "si": "දැනටමත්",
+          "say": "ඕල්රෙඩි",
+          "exampleEn": "He had already paid.",
+          "exampleSi": "එයා දැනටමත් ගෙවලා තිබුණා."
+        },
+        {
+          "en": "never",
+          "si": "කවදාවත් නෑ",
+          "say": "නෙවර්",
+          "exampleEn": "I had never seen snow.",
+          "exampleSi": "මම කවදාවත් හිම දැකලා තිබුණේ නෑ."
+        },
+        {
+          "en": "until",
+          "si": "වෙනකම්",
+          "say": "අන්ටිල්",
+          "exampleEn": "I hadn't tried it until then.",
+          "exampleSi": "එතුරු මම ඒක උත්සාහ කරලා තිබුණේ නෑ."
+        },
+        {
+          "en": "arrive",
+          "si": "එනවා, ළඟා වෙනවා",
+          "say": "අරයිව්",
+          "exampleEn": "The guests had arrived early.",
+          "exampleSi": "අමුත්තෝ කලින් ඇවිත් හිටියා."
+        },
+        {
+          "en": "leave",
+          "si": "යනවා, පිටත් වෙනවා",
+          "say": "ලීව්",
+          "exampleEn": "The bus had left.",
+          "exampleSi": "බස් එක ගිහින්."
+        },
+        {
+          "en": "close",
+          "si": "වහනවා",
+          "say": "ක්ලෝස්",
+          "exampleEn": "The shop had closed.",
+          "exampleSi": "සාප්පුව වහලා තිබුණා."
+        },
+        {
+          "en": "forget",
+          "si": "අමතක වෙනවා",
+          "say": "ෆොගෙට්",
+          "exampleEn": "I had forgotten his name.",
+          "exampleSi": "එයාගේ නම මට අමතක වෙලා තිබුණා."
+        },
+        {
+          "en": "lock",
+          "si": "අගුළු දානවා",
+          "say": "ලොක්",
+          "exampleEn": "Had you locked the gate?",
+          "exampleSi": "ගේට්ටුව වහලා තිබුණද?"
+        },
+        {
+          "en": "prepare",
+          "si": "සූදානම් කරනවා",
+          "say": "ප්‍රිපෙයා",
+          "exampleEn": "She had prepared everything.",
+          "exampleSi": "ඇය හැම දෙයක්ම සූදානම් කරලා තිබුණා."
+        },
+        {
+          "en": "realise",
+          "si": "තේරෙනවා, වැටහෙනවා",
+          "say": "රියලයිස්",
+          "exampleEn": "I realised I had left my bag.",
+          "exampleSi": "මගේ බෑග් එක තියලා ඇවිත් කියලා මට තේරුණා."
+        },
+        {
+          "en": "book",
+          "si": "වෙන් කරනවා",
+          "say": "බුක්",
+          "exampleEn": "They had booked a room.",
+          "exampleSi": "ඒගොල්ලෝ කාමරයක් වෙන් කරලා තිබුණා."
+        },
+        {
+          "en": "power cut",
+          "si": "විදුලිය කැපීම",
+          "say": "පවර් කට්",
+          "exampleEn": "There had been a power cut.",
+          "exampleSi": "කරන්ට් එක කැපිලා තිබුණා."
+        },
+        {
+          "en": "queue",
+          "si": "පෝලිම",
+          "say": "කිව්",
+          "exampleEn": "A long queue had formed.",
+          "exampleSi": "දිග පෝලිමක් හැදිලා තිබුණා."
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "We missed it",
+      "titleSi": "අපිට එක මඟ ඇරුණා",
+      "settingSi": "ෆෝට් දුම්රිය ස්ථානය. නදීෂා ප්ලැට්ෆෝම් එකට දුවගෙන එනවා. රුවන් දැනටමත් එහෙ.",
+      "lines": [
+        {
+          "speaker": "Nadeesha",
+          "en": "Am I late? Has the train gone?",
+          "si": "මම පරක්කුද? කෝච්චිය ගියාද?"
+        },
+        {
+          "speaker": "Ruwan",
+          "en": "It had already left when I got here.",
+          "si": "මම මෙහෙ එනකොටම ඒක ගිහින්."
+        },
+        {
+          "speaker": "Nadeesha",
+          "en": "But it was only five past six!",
+          "si": "ඒත් තාම හයයි පහයි නේද!"
+        },
+        {
+          "speaker": "Ruwan",
+          "en": "They had changed the timetable. Nobody told us.",
+          "si": "ඒගොල්ලෝ වෙලාව මාරු කරලා තිබුණා. කවුරුවත් අපිට කිව්වේ නෑ."
+        },
+        {
+          "speaker": "Nadeesha",
+          "en": "Had you checked before we left home?",
+          "si": "ගෙදරින් යන්න කලින් ඔයා බැලුවද?"
+        },
+        {
+          "speaker": "Ruwan",
+          "en": "I hadn't. I thought I knew it by heart.",
+          "si": "බැලුවේ නෑ. මට කටපාඩම් කියලා හිතුවා."
+        },
+        {
+          "speaker": "Nadeesha",
+          "en": "By the time the next one comes, the office will have opened.",
+          "si": "ඊළඟ එක එනකොටටත් ඔෆිස් එක ඇරෙයි."
+        }
+      ]
+    },
+    {
+      "type": "story",
+      "title": "The empty house",
+      "titleSi": "හිස් ගෙදර",
+      "introSi": "සිද්ධි කීපයක් තියෙන කෙටි කතාවක්. හැම 'had' එකකදීම — ඒක කලින් වුණු දේ කියලා මතක තියාගන්න.",
+      "paragraphs": [
+        {
+          "en": "Chamari came back to the village after eleven years. She had left when she was nineteen, and she had not written once.",
+          "si": "චමරි අවුරුදු එකොළහකට පස්සේ ගමට ආවා. ඇය ගියේ දහනවයේදී, ඒ අවුරුදු ගාණේ එක ලියුමක්වත් ලියලා තිබුණේ නෑ."
+        },
+        {
+          "en": "The bus stopped at the junction. She walked up the lane. Someone had painted the boundary wall green.",
+          "si": "බස් එක හන්දියේ නැවතුණා. ඇය පාරෙන් උඩට ඇවිද්දා. කවුරු හරි තාප්පේ කොළ පාටින් තීන්ත ගාලා තිබුණා."
+        },
+        {
+          "en": "The gate was open. She had expected a dog, but there was no dog. The mango tree she had climbed as a child had gone too.",
+          "si": "ගේට්ටුව ඇරලා. බල්ලෙක් ඉඳීවි කියලා ඇය හිතාගෙන හිටියා, ඒත් බල්ලෙක් හිටියේ නෑ. පොඩි කාලේ ඇය නැග්ග අඹ ගහත් නෑ."
+        },
+        {
+          "en": "Her mother was sitting on the step. She looked up slowly. \"You came,\" she said. She had been waiting eleven years to say it.",
+          "si": "අම්මා පඩිය උඩ වාඩි වෙලා හිටියා. ඇය හෙමින් උඩ බැලුවා. \"ආවා නේද,\" ඇය කිව්වා. ඒක කියන්න ඇය අවුරුදු එකොළහක් බලාගෙන හිටියා."
+        }
+      ],
+      "glossary": [
+        {
+          "en": "boundary wall",
+          "si": "තාප්පය"
+        },
+        {
+          "en": "lane",
+          "si": "පටු පාර"
+        },
+        {
+          "en": "step",
+          "si": "පඩිය"
+        },
+        {
+          "en": "expect",
+          "si": "බලාපොරොත්තු වෙනවා"
+        }
+      ],
+      "questionsSi": [
+        "චමරි ගමෙන් ගියේ කීයේදීද?",
+        "ඇය ආපහු එනකොට වෙනස් වෙලා තිබුණු දේවල් මොනවාද?",
+        "කතාවේ 'had' තියෙන වාක්‍ය කීයක් හොයාගන්න පුළුවන්ද?"
+      ]
+    },
+    {
+      "type": "tip",
+      "title": "You do not always need it",
+      "titleSi": "හැම වෙලාවෙම ඕන නෑ",
+      "bodySi": "සිද්ධි පිළිවෙළට කියනවා නම් past perfect එක ඕන නෑ. සාමාන්‍ය past simple එකෙන් හරි.\n\n'I woke up, ate breakfast and went to work.' — පිළිවෙළ පැහැදිලියි. had ඕන නෑ.\n\nPast perfect එක ඕන වෙන්නේ පිළිවෙළ පෙරළනකොට විතරයි — පස්සේ වුණු දේ මුලින් කියනකොට.\n\n'I was hungry at ten. I hadn't eaten breakfast.'\n\nඑහෙම නැතුව හැම past වාක්‍යයකටම had දාන්න යන එක වැරදියි.",
+      "body": "If you tell events in the order they happened, the past simple is enough. The past perfect earns its place when you break that order."
+    },
+    {
+      "type": "practice",
+      "title": "Which one had happened first?",
+      "titleSi": "කලින් වුණේ කුමක්ද?",
+      "instructionSi": "වරහන් තුළ ඇති ක්‍රියාව past perfect එකට හරවලා හිස් තැනට දාන්න.",
+      "items": [
+        {
+          "prompt": "When we got to the hall, the film ___ already ___ (start).",
+          "answer": "had started",
+          "hintSi": "අපි යනකොටටත් කලින්.",
+          "full": "When we got to the hall, the film had already started."
+        },
+        {
+          "prompt": "She ___ never ___ (see) the sea before that trip.",
+          "answer": "had seen",
+          "hintSi": "never යන්නේ had සහ participle අතරට.",
+          "full": "She had never seen the sea before that trip."
+        },
+        {
+          "prompt": "By the time the bus came, we ___ (wait) for an hour.",
+          "answer": "had waited",
+          "hintSi": "බස් එක එනකොටටත් කලින්.",
+          "full": "By the time the bus came, we had waited for an hour."
+        },
+        {
+          "prompt": "I couldn't get in because I ___ (forget) my key.",
+          "answer": "had forgotten",
+          "hintSi": "යතුර අමතක වුණේ කලින්.",
+          "full": "I couldn't get in because I had forgotten my key."
+        },
+        {
+          "prompt": "___ you ___ (lock) the door before you left?",
+          "answer": "Had locked",
+          "hintSi": "ප්‍රශ්නයක් — Had + subject + participle.",
+          "full": "Had you locked the door before you left?"
+        },
+        {
+          "prompt": "He was tired because he ___ (not sleep).",
+          "answer": "hadn't slept",
+          "hintSi": "නැහැ කියන එකට hadn't.",
+          "full": "He was tired because he hadn't slept."
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "b1-08-q1",
+      "q": "Past perfect එක හැදෙන්නේ කොහොමද?",
+      "options": [
+        "have/has + past participle",
+        "had + past participle",
+        "did + past participle",
+        "was/were + -ing"
+      ],
+      "answer": 1,
+      "explainSi": "හැම subject එකකටම had, ඊට පස්සේ past participle."
+    },
+    {
+      "id": "b1-08-q2",
+      "q": "'මම ස්ටේෂන් එකට යනකොට කෝච්චිය ගිහින්' — කොහොමද?",
+      "options": [
+        "The train left when I had got to the station.",
+        "The train had left when I got to the station.",
+        "The train has left when I got to the station.",
+        "The train was leaving when I had got to the station."
+      ],
+      "answer": 1,
+      "explainSi": "කලින් වුණේ කෝච්චිය යාම — ඒකට had.",
+      "speak": "The train had left when I got to the station."
+    },
+    {
+      "id": "b1-08-q3",
+      "q": "'When I arrived, the party had finished.' — කලින් වුණේ මොකක්ද?",
+      "options": [
+        "මම ඒම",
+        "party එක ඉවර වීම",
+        "දෙකම එකවර",
+        "කියන්න බෑ"
+      ],
+      "answer": 1,
+      "explainSi": "had තියෙන්නේ finished එකට, ඒ නිසා party එක ඉවර වීම කලින්."
+    },
+    {
+      "id": "b1-08-q4",
+      "q": "'When I arrived, the party finished.' — මෙතන පිළිවෙළ මොකක්ද?",
+      "options": [
+        "මම ආවා, ඊට පස්සේ party එක ඉවර වුණා",
+        "party එක ඉවර වුණා, ඊට පස්සේ මම ආවා",
+        "දෙකට සම්බන්ධයක් නෑ",
+        "වාක්‍යය වැරදියි"
+      ],
+      "answer": 0,
+      "explainSi": "දෙකම past simple නම් කියපු පිළිවෙළටමයි."
+    },
+    {
+      "id": "b1-08-q5",
+      "q": "she එක්ක past perfect එකට යෙදෙන්නේ?",
+      "options": [
+        "has",
+        "have",
+        "had",
+        "did"
+      ],
+      "answer": 2,
+      "explainSi": "හැම කෙනෙකුටම had — වෙනසක් නෑ."
+    },
+    {
+      "id": "b1-08-q6",
+      "q": "'මම දොර වහලා තිබුණේ නෑ' — කොහොමද?",
+      "options": [
+        "I didn't had locked the door.",
+        "I hadn't locked the door.",
+        "I hadn't lock the door.",
+        "I not had locked the door."
+      ],
+      "answer": 1,
+      "explainSi": "hadn't + past participle. did/didn't ඕන නෑ.",
+      "speak": "I hadn't locked the door."
+    },
+    {
+      "id": "b1-08-q7",
+      "q": "'යන්න කලින් කාලා තිබුණද?' — කොහොමද?",
+      "options": [
+        "Did you had eaten before you left?",
+        "Had you eaten before you left?",
+        "Have you eaten before you left?",
+        "You had eaten before you left?"
+      ],
+      "answer": 1,
+      "explainSi": "Had එක ඉස්සරහට — Had + subject + past participle.",
+      "speak": "Had you eaten before you left?"
+    },
+    {
+      "id": "b1-08-q8",
+      "q": "'never' යන්නේ කොහෙද?",
+      "options": [
+        "වාක්‍යය අගට",
+        "had සහ past participle අතරට",
+        "had එකට කලින්",
+        "subject එකට කලින්"
+      ],
+      "answer": 1,
+      "explainSi": "I had never seen it. — මැදට."
+    },
+    {
+      "id": "b1-08-q9",
+      "q": "හිස් තැනට: 'By the time we got there, the shop ___.'",
+      "options": [
+        "has closed",
+        "had closed",
+        "closes",
+        "was closing"
+      ],
+      "answer": 1,
+      "explainSi": "'By the time' කිව්වම ඊට කලින් වුණු දේට had.",
+      "speak": "By the time we got there, the shop had closed."
+    },
+    {
+      "id": "b1-08-q10",
+      "q": "'I had a car' — මේක past perfect ද?",
+      "options": [
+        "ඔව්",
+        "නෑ — මෙතන had කියන්නේ 'තිබුණා' කියන ක්‍රියාවම",
+        "ඔව්, ඒත් වැරදියි",
+        "කියන්න බෑ"
+      ],
+      "answer": 1,
+      "explainSi": "Past perfect එකට had එකට පස්සේ තව past participle එකක් ඕන."
+    },
+    {
+      "id": "b1-08-q11",
+      "q": "කුමන වාක්‍යය වැරදිද?",
+      "options": [
+        "She had already left.",
+        "They hadn't arrived.",
+        "I didn't had finished.",
+        "Had he called?"
+      ],
+      "answer": 2,
+      "explainSi": "Past perfect එකට did/didn't යෙදෙන්නේ නෑ — hadn't finished කියන්න."
+    },
+    {
+      "id": "b1-08-q12",
+      "q": "'මම නැගිටිනකොටටත් හැමෝම ගිහින්' — කොහොමද?",
+      "options": [
+        "By the time I woke up, everyone had gone.",
+        "By the time I had woken up, everyone went.",
+        "When I woke up, everyone goes.",
+        "Everyone had gone when I had woken up."
+      ],
+      "answer": 0,
+      "explainSi": "කලින් වුණේ හැමෝම යාම — ඒකට had gone.",
+      "speak": "By the time I woke up, everyone had gone."
+    },
+    {
+      "id": "b1-08-q13",
+      "q": "සිද්ධි වුණු පිළිවෙළටම කියනවා නම් past perfect එක ඕනද?",
+      "options": [
+        "ඔව්, හැම වෙලාවෙම",
+        "නෑ — past simple එකෙන් හරි",
+        "ඔව්, පළවෙනි වාක්‍යයට විතරක්",
+        "නෑ, කවදාවත් ඕන නෑ"
+      ],
+      "answer": 1,
+      "explainSi": "පිළිවෙළ පැහැදිලි නම් had ඕන නෑ. ඕන වෙන්නේ පිළිවෙළ පෙරළනකොට."
+    },
+    {
+      "id": "b1-08-q14",
+      "q": "'I'd already eaten' — 'I'd' කියන්නේ?",
+      "options": [
+        "I would",
+        "I had",
+        "I did",
+        "I should"
+      ],
+      "answer": 1,
+      "explainSi": "මෙතන past participle එකක් (eaten) තියෙන නිසා I had."
+    },
+    {
+      "id": "b1-08-q15",
+      "q": "හිස් තැනට: 'He was tired because he ___ all night.'",
+      "options": [
+        "hasn't slept",
+        "hadn't slept",
+        "didn't slept",
+        "wasn't slept"
+      ],
+      "answer": 1,
+      "explainSi": "එයා මහන්සි වුණේ ඊට කලින් නිදාගෙන නැති නිසා.",
+      "speak": "He was tired because he hadn't slept all night."
+    },
+    {
+      "id": "b1-08-q16",
+      "q": "'She had cooked dinner before we arrived.' — දෙවනුව වුණේ මොකක්ද?",
+      "options": [
+        "රෑ කෑම හැදීම",
+        "අපි ඒම",
+        "දෙකම එකවර",
+        "කිසිවක් නෑ"
+      ],
+      "answer": 1,
+      "explainSi": "had තියෙන්නේ cooked එකට, ඒ නිසා ඒක කලින්; අපි ඒම පස්සේ."
+    },
+    {
+      "id": "b1-08-q17",
+      "q": "හිස් තැනට: 'I realised I ___ my bag on the bus.'",
+      "options": [
+        "have left",
+        "had left",
+        "leave",
+        "was leaving"
+      ],
+      "answer": 1,
+      "explainSi": "බෑග් එක තියලා ආවේ තේරෙන්න කලින් — had left.",
+      "speak": "I realised I had left my bag on the bus."
+    },
+    {
+      "id": "b1-08-q18",
+      "q": "'Had they finished?' — කෙටි උත්තරය කොහොමද?",
+      "options": [
+        "Yes, they did.",
+        "Yes, they have.",
+        "Yes, they had.",
+        "Yes, they were."
+      ],
+      "answer": 2,
+      "explainSi": "අහපු ක්‍රියාවම ආපහු — had.",
+      "speak": "Yes, they had."
+    }
+  ],
+  "vocab": [
+    {
+      "en": "by the time",
+      "si": "එනකොටටත්",
+      "say": "බයි ද ටයිම්",
+      "exampleEn": "By the time we arrived, it had started.",
+      "exampleSi": "අපි එනකොටටත් ඒක පටන් අරන්."
+    },
+    {
+      "en": "before",
+      "si": "කලින්",
+      "say": "බිෆෝ",
+      "exampleEn": "She had gone before I called.",
+      "exampleSi": "මම කතා කරන්න කලින් ඇය ගිහින්."
+    },
+    {
+      "en": "after",
+      "si": "පස්සේ",
+      "say": "ආෆ්ටර්",
+      "exampleEn": "We ate after they had left.",
+      "exampleSi": "ඒගොල්ලෝ ගියාට පස්සේ අපි කෑවා."
+    },
+    {
+      "en": "already",
+      "si": "දැනටමත්",
+      "say": "ඕල්රෙඩි",
+      "exampleEn": "He had already paid.",
+      "exampleSi": "එයා දැනටමත් ගෙවලා තිබුණා."
+    },
+    {
+      "en": "never",
+      "si": "කවදාවත් නෑ",
+      "say": "නෙවර්",
+      "exampleEn": "I had never seen snow.",
+      "exampleSi": "මම කවදාවත් හිම දැකලා තිබුණේ නෑ."
+    },
+    {
+      "en": "until",
+      "si": "වෙනකම්",
+      "say": "අන්ටිල්",
+      "exampleEn": "I hadn't tried it until then.",
+      "exampleSi": "එතුරු මම ඒක උත්සාහ කරලා තිබුණේ නෑ."
+    },
+    {
+      "en": "arrive",
+      "si": "එනවා, ළඟා වෙනවා",
+      "say": "අරයිව්",
+      "exampleEn": "The guests had arrived early.",
+      "exampleSi": "අමුත්තෝ කලින් ඇවිත් හිටියා."
+    },
+    {
+      "en": "leave",
+      "si": "යනවා, පිටත් වෙනවා",
+      "say": "ලීව්",
+      "exampleEn": "The bus had left.",
+      "exampleSi": "බස් එක ගිහින්."
+    },
+    {
+      "en": "close",
+      "si": "වහනවා",
+      "say": "ක්ලෝස්",
+      "exampleEn": "The shop had closed.",
+      "exampleSi": "සාප්පුව වහලා තිබුණා."
+    },
+    {
+      "en": "forget",
+      "si": "අමතක වෙනවා",
+      "say": "ෆොගෙට්",
+      "exampleEn": "I had forgotten his name.",
+      "exampleSi": "එයාගේ නම මට අමතක වෙලා තිබුණා."
+    },
+    {
+      "en": "lock",
+      "si": "අගුළු දානවා",
+      "say": "ලොක්",
+      "exampleEn": "Had you locked the gate?",
+      "exampleSi": "ගේට්ටුව වහලා තිබුණද?"
+    },
+    {
+      "en": "prepare",
+      "si": "සූදානම් කරනවා",
+      "say": "ප්‍රිපෙයා",
+      "exampleEn": "She had prepared everything.",
+      "exampleSi": "ඇය හැම දෙයක්ම සූදානම් කරලා තිබුණා."
+    },
+    {
+      "en": "realise",
+      "si": "තේරෙනවා, වැටහෙනවා",
+      "say": "රියලයිස්",
+      "exampleEn": "I realised I had left my bag.",
+      "exampleSi": "මගේ බෑග් එක තියලා ඇවිත් කියලා මට තේරුණා."
+    },
+    {
+      "en": "book",
+      "si": "වෙන් කරනවා",
+      "say": "බුක්",
+      "exampleEn": "They had booked a room.",
+      "exampleSi": "ඒගොල්ලෝ කාමරයක් වෙන් කරලා තිබුණා."
+    },
+    {
+      "en": "power cut",
+      "si": "විදුලිය කැපීම",
+      "say": "පවර් කට්",
+      "exampleEn": "There had been a power cut.",
+      "exampleSi": "කරන්ට් එක කැපිලා තිබුණා."
+    },
+    {
+      "en": "queue",
+      "si": "පෝලිම",
+      "say": "කිව්",
+      "exampleEn": "A long queue had formed.",
+      "exampleSi": "දිග පෝලිමක් හැදිලා තිබුණා."
+    }
+  ]
+}

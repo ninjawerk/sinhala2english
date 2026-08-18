@@ -1,0 +1,766 @@
+{
+  "hero": {
+    "src": "images/b1-13-hero.webp",
+    "alt": "Nadeesha fastening her seatbelt in a window seat on a plane with the wing and cloud outside the glass, a boarding pass tucked in the seat pocket, mid-morning."
+  },
+  "goalsSi": [
+    "future continuous හදන්න — will be + -ing",
+    "අනාගතයේ මොහොතක සිද්ධ වෙමින් තියෙන දෙයක් කියන්න",
+    "'This time tomorrow…' වගේ කාල සලකුණු යොදන්න",
+    "will සහ will be + -ing අතර වෙනස",
+    "ආචාරශීලීව සැලසුම් ගැන අහන්න",
+    "නැහැ කියන්නත්, අහන්නත්"
+  ],
+  "goals": [
+    "Form the future continuous with will be + -ing",
+    "Say what will be in progress at a moment in the future",
+    "Use time markers like this time tomorrow",
+    "Tell will and will be + -ing apart",
+    "Ask about someone's plans politely",
+    "Make negatives and questions"
+  ],
+  "sections": [
+    {
+      "type": "note",
+      "title": "A moment in the future",
+      "titleSi": "අනාගතයේ මොහොතක්",
+      "bodySi": "b1-04 හි ඉගෙන ගත්තා will සහ going to. දෙකම අනාගතයේ වෙන දේවල් ගැන.\n\n'I will call you.' — මම කතා කරන්නම්.\n\nදැන් වෙනස් ප්‍රශ්නයක්. හෙට හවස තුනට ඔයා කරමින් ඉන්නේ මොකක්ද?\n\n'This time tomorrow I will be flying to Dubai.'\n\nWill + be + flying. මේකට කියන්නේ future continuous කියලා.\n\nවෙනස මේකයි:\n\n'I will fly to Dubai tomorrow.' — හෙට යනවා. (සිද්ධියක්)\n'This time tomorrow I will be flying.' — හෙට මේ වෙලාවේ මම යමින් ඉන්නවා. (ඒ මොහොතේ මැදින්)\n\nb1-01 හි past continuous එකෙන් අතීතයේ මොහොතක් මැදින් අල්ලගත්තා වගේම — මේකෙන් අනාගතයේ මොහොතක් අල්ලගන්නවා.\n\nඑයින් එන රසය: 'ඒ වෙලාවේ මම කාර්යබහුලයි' නැත්නම් 'ඒක සැලසුම් කරලා ඉවරයි, ඒක ඒ විදිහටම වෙනවා'.",
+      "body": "The future continuous catches a moment in the future from the middle — what will be going on at that time, not what will happen."
+    },
+    {
+      "type": "grammar",
+      "title": "will be + -ing",
+      "titleSi": "will be + -ing",
+      "explainSi": "කොටස් තුනයි, තුනම එකමයි හැම subject එකකටම:\n\nwill + be + -ing ආකෘතිය.\n\n'I will be working.'\n'She will be working.'\n'They will be working.'\n\nහැම කෙනෙකුටම එකයි — will මාරු වෙන්නේ නෑ, be මාරු වෙන්නේ නෑ.\n\nකථාවේදී: I'll be, she'll be, we'll be.\n\nනැහැ: won't be + -ing. 'I won't be coming tomorrow.'\nප්‍රශ්නය: Will + subject + be + -ing? 'Will you be using the car?'\n\nකාල සලකුණක් එක්ක යෙදෙන එක ස්වාභාවිකයි — 'at eight', 'this time tomorrow', 'when you arrive', 'all morning'.",
+      "explain": "Will be plus the -ing form, identical for every subject.",
+      "formula": "subject + will be + -ing",
+      "table": {
+        "headers": [
+          "වර්ගය",
+          "English",
+          "සිංහල"
+        ],
+        "rows": [
+          [
+            "හරි",
+            "I will be working at eight.",
+            "අටට මම වැඩ කරමින් ඉන්නවා."
+          ],
+          [
+            "කෙටි",
+            "I'll be working at eight.",
+            "අටට මම වැඩ කරමින් ඉන්නවා."
+          ],
+          [
+            "නැහැ",
+            "I won't be working at eight.",
+            "අටට මම වැඩ කරන්නේ නෑ."
+          ],
+          [
+            "ප්‍රශ්නය",
+            "Will you be working at eight?",
+            "අටට ඔයා වැඩ කරමින්ද?"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "This time tomorrow we will be sitting on the train.",
+          "si": "හෙට මේ වෙලාවේ අපි කෝච්චියේ ඉඳගෙන ඉන්නවා."
+        },
+        {
+          "en": "Don't call at seven — I'll be teaching.",
+          "si": "හතට කතා කරන්න එපා — මම උගන්නමින් ඉන්නවා."
+        },
+        {
+          "en": "When you arrive, we will be having dinner.",
+          "si": "ඔයා එනකොට අපි රෑ කෑම කමින් ඉන්නවා."
+        }
+      ],
+      "watchOutSi": "'be' අමතක කරන්න එපා. 'I will working' කියන එක වැරදියි — 'I will be working'."
+    },
+    {
+      "type": "grammar",
+      "title": "will, or will be + -ing?",
+      "titleSi": "will ද, will be + -ing ද?",
+      "explainSi": "දෙකම අනාගතය. වෙනස තියෙන්නේ කොහෙන් බලනවාද කියන එකේ.\n\nwill — සිද්ධිය. පටන් ගන්නවා, ඉවර වෙනවා.\n'I will cook dinner.' — මම රෑ කෑම හදනවා.\n\nwill be + -ing — ඒ මොහොතේ මැදින්. පටන් අරන් ඉවරයි, තාම ඉවර නෑ.\n'At seven I will be cooking dinner.' — හතට මම රෑ කෑම හදමින් ඉන්නවා.\n\nතව වෙනසක් තියෙනවා, ඒක ආචාරශීලීකමට වැදගත්.\n\n'Will you help me?' — උදව් කරනවාද? (ඉල්ලීමක්. නෑ කියන්නත් පුළුවන්)\n'Will you be helping tomorrow?' — හෙට උදව් කරනවාද? (කිසිම බරක් නෑ. හුදෙක් තොරතුරු අහනවා)\n\nකෙනෙකුගේ සැලසුම් ගැන අහනකොට 'will you be…?' කියන එකේ බරක් නෑ. 'Will you…?' කියනකොට ඉල්ලීමක් වගේ ඇහෙනවා.\n\n'Will you be using the car tonight?' — රෑට කාර් එක ඕනද? (කාර් එක ඉල්ලනවා නෙවෙයි, විමසනවා)",
+      "explain": "Will is the event. Will be + -ing is the middle of it. Asking Will you be …? is a neutral question about plans; Will you …? sounds like a request.",
+      "formula": "සිද්ධිය → will  ·  ඒ මොහොතේ මැදින් → will be + -ing",
+      "table": {
+        "headers": [
+          "will",
+          "will be + -ing",
+          "වෙනස"
+        ],
+        "rows": [
+          [
+            "I'll cook at seven.",
+            "At seven I'll be cooking.",
+            "පටන් ගන්නවා / මැදින්"
+          ],
+          [
+            "Will you help me?",
+            "Will you be helping?",
+            "ඉල්ලීමක් / විමසීමක්"
+          ],
+          [
+            "She'll arrive at six.",
+            "At six she'll be travelling.",
+            "ළඟා වීම / ගමනේ මැදින්"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "Will you be going to the market? Can you get me some limes?",
+          "si": "පොළට යනවාද? මට දෙහි ටිකක් ගේන්න පුළුවන්ද?"
+        },
+        {
+          "en": "I'll be seeing him tomorrow, so I'll ask.",
+          "si": "හෙට එයාව හම්බ වෙනවා, ඒ නිසා අහන්නම්."
+        }
+      ],
+      "watchOutSi": "'I'll be seeing him' කියන එකේ තව රසයක් තියෙනවා — 'කොහොමත් හම්බ වෙනවා, ඒ නිසා විශේෂයෙන් කරන දෙයක් නෙවෙයි'. ඒක ආචාරශීලීයි."
+    },
+    {
+      "type": "grammar",
+      "title": "The time markers",
+      "titleSi": "කාල සලකුණු",
+      "explainSi": "Future continuous එකට කාල සලකුණක් තිබුණම තමයි ඒක වැඩ කරන්නේ. සලකුණ නැත්නම් අහන කෙනාට කවදාද කියලා තේරෙන්නේ නෑ.\n\nමොහොතක්:\n'at eight', 'at this time tomorrow', 'this time next week'\n\nවෙන සිද්ධියක්:\n'when you arrive', 'while you are at work', 'by the time she calls'\n\nකාල පරාසයක්:\n'all morning', 'all day tomorrow', 'from two to four'\n\n'This time next year I will be living in Colombo.'\n'While you are sleeping, we will be driving.'\n'All day tomorrow they will be painting the house.'\n\nමතක තියාගන්න: 'when', 'while', 'by the time' කියන වචනවලට පස්සේ will යෙදෙන්නේ නෑ. 'When you will arrive' ✗ — 'When you arrive' ✓.",
+      "explain": "The tense needs a time marker to do its job. After when, while and by the time, use the present — not will.",
+      "formula": "at eight · this time tomorrow · when you arrive · all morning",
+      "table": {
+        "headers": [
+          "සලකුණ",
+          "වාක්‍යය"
+        ],
+        "rows": [
+          [
+            "මොහොතක්",
+            "At nine I'll be waiting outside."
+          ],
+          [
+            "වෙන සිද්ධියක්",
+            "When you call, I'll be driving."
+          ],
+          [
+            "කාල පරාසයක්",
+            "All morning we'll be cleaning."
+          ],
+          [
+            "ඉදිරි කාලයක්",
+            "This time next year she'll be studying."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "This time next week I'll be sitting the exam.",
+          "si": "ලබන සතියේ මේ වෙලාවේ මම විභාගය කරමින් ඉන්නවා."
+        },
+        {
+          "en": "While you are at the office, we'll be moving the furniture.",
+          "si": "ඔයා ඔෆිස් එකේ ඉන්නකොට අපි ගෘහ භාණ්ඩ මාරු කරමින් ඉන්නවා."
+        }
+      ],
+      "watchOutSi": "'When you will come' කියලා ලියන එක බහුලම වැරැද්දක්. 'when', 'while', 'as soon as', 'until', 'before', 'after' — මේවාට පස්සේ වර්තමානය යොදන්න, will යොදන්නේ නෑ."
+    },
+    {
+      "type": "vocab",
+      "title": "Time ahead",
+      "titleSi": "ඉදිරි කාලය",
+      "introSi": "අනාගතයේ මොහොතක් සලකුණු කරන වචන සහ ඒවත් එක්ක එන ක්‍රියා.",
+      "items": [
+        {
+          "en": "this time tomorrow",
+          "si": "හෙට මේ වෙලාවේ",
+          "say": "දිස් ටයිම් ටුමොරෝ",
+          "exampleEn": "This time tomorrow I'll be flying.",
+          "exampleSi": "හෙට මේ වෙලාවේ මම යනවා."
+        },
+        {
+          "en": "by then",
+          "si": "එතකොටටත්",
+          "say": "බයි දෙන්",
+          "exampleEn": "By then we'll be waiting.",
+          "exampleSi": "එතකොටටත් අපි බලාගෙන ඉන්නවා."
+        },
+        {
+          "en": "all day",
+          "si": "දවස පුරාම",
+          "say": "ඕල් ඩේ",
+          "exampleEn": "They'll be working all day.",
+          "exampleSi": "ඒගොල්ලෝ දවස පුරාම වැඩ කරනවා."
+        },
+        {
+          "en": "while",
+          "si": "අතරතුර",
+          "say": "වයිල්",
+          "exampleEn": "While you sleep, I'll be driving.",
+          "exampleSi": "ඔයා නිදාගන්නකොට මම එළවනවා."
+        },
+        {
+          "en": "flight",
+          "si": "ගුවන් ගමන",
+          "say": "ෆ්ලයිට්",
+          "exampleEn": "My flight leaves at six.",
+          "exampleSi": "මගේ ගුවන් යානය හයට යනවා."
+        },
+        {
+          "en": "meeting",
+          "si": "රැස්වීම",
+          "say": "මීටිං",
+          "exampleEn": "I'll be in a meeting.",
+          "exampleSi": "මම රැස්වීමක ඉන්නවා."
+        },
+        {
+          "en": "shift (work)",
+          "si": "වැඩ මුරය",
+          "say": "ෂිෆ්ට්",
+          "exampleEn": "She'll be on the night shift.",
+          "exampleSi": "ඇය රෑ මුරයේ ඉන්නවා."
+        },
+        {
+          "en": "exam",
+          "si": "විභාගය",
+          "say": "එග්සෑම්",
+          "exampleEn": "This time next week, the exam.",
+          "exampleSi": "ලබන සතියේ මේ වෙලාවේ, විභාගය."
+        },
+        {
+          "en": "travel",
+          "si": "ගමන් කරනවා",
+          "say": "ට්‍රැවල්",
+          "exampleEn": "We'll be travelling all night.",
+          "exampleSi": "අපි රෑ පුරාම ගමන් කරනවා."
+        },
+        {
+          "en": "wait for",
+          "si": "එනකම් ඉන්නවා",
+          "say": "වේට් ෆෝ",
+          "exampleEn": "I'll be waiting for you.",
+          "exampleSi": "මම ඔයා එනකම් ඉන්නවා."
+        },
+        {
+          "en": "use",
+          "si": "පාවිච්චි කරනවා",
+          "say": "යූස්",
+          "exampleEn": "Will you be using the car?",
+          "exampleSi": "කාර් එක පාවිච්චි කරනවාද?"
+        },
+        {
+          "en": "stay",
+          "si": "නවතිනවා",
+          "say": "ස්ටේ",
+          "exampleEn": "We'll be staying with my aunt.",
+          "exampleSi": "අපි නැන්දාගේ ගෙදර නවතිනවා."
+        },
+        {
+          "en": "pick up",
+          "si": "එක්ක යනවා, අරගෙන යනවා",
+          "say": "පික් අප්",
+          "exampleEn": "I'll pick you up at four.",
+          "exampleSi": "මම හතරට ඔයාව අරගෙන යන්නම්."
+        },
+        {
+          "en": "run late",
+          "si": "පරක්කු වෙනවා",
+          "say": "රන් ලේට්",
+          "exampleEn": "We're running late.",
+          "exampleSi": "අපි පරක්කු වෙනවා."
+        },
+        {
+          "en": "schedule",
+          "si": "කාලසටහන",
+          "say": "ෂෙඩ්යූල්",
+          "exampleEn": "The schedule has changed.",
+          "exampleSi": "කාලසටහන වෙනස් වෙලා."
+        },
+        {
+          "en": "on my way",
+          "si": "පාරේ, එමින්",
+          "say": "ඔන් මයි වේ",
+          "exampleEn": "I'll be on my way by then.",
+          "exampleSi": "එතකොටටත් මම පාරේ ඇති."
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "Don't call at seven",
+      "titleSi": "හතට කතා කරන්න එපා",
+      "settingSi": "දුරකථනයෙන්. හෙට දවසේ සැලසුම් ගැන. 'Will you be…?' කියන ආචාරශීලී ප්‍රශ්නය බලන්න.",
+      "lines": [
+        {
+          "speaker": "Ruwan",
+          "en": "Will you be using the car tomorrow?",
+          "si": "හෙට කාර් එක පාවිච්චි කරනවාද?"
+        },
+        {
+          "speaker": "Nadeesha",
+          "en": "In the morning, yes. I'll be taking my mother to the clinic.",
+          "si": "උදේට ඔව්. මම අම්මාව සායනයට එක්කගෙන යනවා."
+        },
+        {
+          "speaker": "Ruwan",
+          "en": "And after that?",
+          "si": "ඊට පස්සේ?"
+        },
+        {
+          "speaker": "Nadeesha",
+          "en": "After twelve it's free. But don't call me at seven — I'll be driving.",
+          "si": "දොළහෙන් පස්සේ ඒක නිදහස්. ඒත් හතට මට කතා කරන්න එපා — මම එළවමින් ඉන්නවා."
+        },
+        {
+          "speaker": "Ruwan",
+          "en": "This time tomorrow I'll be at the airport anyway.",
+          "si": "හෙට මේ වෙලාවේ කොහොමත් මම එයාපෝට් එකේ."
+        },
+        {
+          "speaker": "Nadeesha",
+          "en": "Then who is picking you up on Sunday?",
+          "si": "එහෙනම් ඉරිදා ඔයාව එක්කගෙන එන්නේ කවුද?"
+        },
+        {
+          "speaker": "Ruwan",
+          "en": "Nobody. I'll be taking the bus.",
+          "si": "කවුරුවත් නෑ. මම බස් එකෙන් එනවා."
+        }
+      ]
+    },
+    {
+      "type": "story",
+      "title": "This time next year",
+      "titleSi": "ලබන අවුරුද්දේ මේ වෙලාවේ",
+      "introSi": "අනාගතය ගැන කථා කරන කෙටි කතාවක්.",
+      "paragraphs": [
+        {
+          "en": "On the last night of the term, the four of them sat on the roof and made a list. This time next year, where will we be?",
+          "si": "වාරයේ අන්තිම රෑ, ඒගොල්ලෝ හතරදෙනා වහලේ ඉඳගෙන ලැයිස්තුවක් හැදුවා. ලබන අවුරුද්දේ මේ වෙලාවේ, අපි කොහෙද ඉන්නේ?"
+        },
+        {
+          "en": "Ishara said she would be studying in Colombo. Tharindu said he would be working at his uncle's garage. Kavi said nothing at all.",
+          "si": "ඉෂාරා කිව්වා ඇය කොළඹ ඉගෙන ගනිමින් ඉන්නවා කියලා. තරිඳු කිව්වා එයා මාමගේ ගරාජයේ වැඩ කරමින් ඉන්නවා කියලා. කවී මුකුත්ම කිව්වේ නෑ."
+        },
+        {
+          "en": "\"And you?\" they asked Nimali. \"This time next year,\" she said, \"I'll be sitting on this roof, and one of you will not be here.\"",
+          "si": "\"ඔයාට?\" ඒගොල්ලෝ නිමාලිගෙන් ඇහුවා. \"ලබන අවුරුද්දේ මේ වෙලාවේ,\" ඇය කිව්වා, \"මම මේ වහලේම ඉඳගෙන ඉන්නවා, ඔයාලගෙන් එක්කෙනෙක් මෙතන නෑ.\""
+        },
+        {
+          "en": "She was right, although not in the way anyone expected. A year later three of them were on the roof, and Nimali was in Italy.",
+          "si": "ඇය හරි, ඒත් කවුරුවත් හිතපු විදිහට නෙවෙයි. අවුරුද්දකට පස්සේ තුන්දෙනෙක් වහලේ හිටියා, නිමාලි ඉතාලියේ."
+        }
+      ],
+      "glossary": [
+        {
+          "en": "term (school)",
+          "si": "වාරය"
+        },
+        {
+          "en": "roof",
+          "si": "වහලය"
+        },
+        {
+          "en": "garage",
+          "si": "ගරාජය"
+        },
+        {
+          "en": "expect",
+          "si": "බලාපොරොත්තු වෙනවා"
+        }
+      ],
+      "questionsSi": [
+        "තරිඳු ලබන අවුරුද්දේ කරමින් ඉන්නවා කිව්වේ මොකක්ද?",
+        "නිමාලි කිව්ව දේ හරි වුණේ කොහොමද?",
+        "ඔයා ලබන අවුරුද්දේ මේ වෙලාවේ මොකද කරමින් ඉන්නේ?"
+      ]
+    },
+    {
+      "type": "tip",
+      "title": "No will after when",
+      "titleSi": "when එකට පස්සේ will නෑ",
+      "bodySi": "මේක ලංකාවේ ඉංග්‍රීසි ලියන අය අතරේ බහුලම වැරැද්දක්:\n\n✗ 'When you will come, call me.'\n✓ 'When you come, call me.'\n\n✗ 'I will wait until she will arrive.'\n✓ 'I will wait until she arrives.'\n\nWhen, while, until, before, after, as soon as, by the time — මේවාට පස්සේ වර්තමානය. අනාගතය කියන එක වාක්‍යයේ අනිත් කොටසේ තියෙනවා, ඒක ඇති.",
+      "body": "After when, while, until, before, after, as soon as and by the time, use the present. The other half of the sentence carries the future."
+    },
+    {
+      "type": "practice",
+      "title": "At that moment",
+      "titleSi": "ඒ මොහොතේ",
+      "instructionSi": "වරහන් තුළ ඇති ක්‍රියාව future continuous එකට හරවලා ලියන්න.",
+      "items": [
+        {
+          "prompt": "This time tomorrow I ___ (fly) to Dubai.",
+          "answer": "will be flying",
+          "hintSi": "will be + -ing.",
+          "full": "This time tomorrow I will be flying to Dubai."
+        },
+        {
+          "prompt": "Don't call at eight — she ___ (teach).",
+          "answer": "will be teaching",
+          "hintSi": "ඒ මොහොතේ මැදින්.",
+          "full": "Don't call at eight — she will be teaching."
+        },
+        {
+          "prompt": "___ you ___ (use) the car tonight?",
+          "answer": "Will be using",
+          "hintSi": "Will + subject + be + -ing?",
+          "full": "Will you be using the car tonight?"
+        },
+        {
+          "prompt": "We ___ (not work) on Sunday.",
+          "answer": "won't be working",
+          "hintSi": "නැහැ කියන එකට won't be.",
+          "full": "We won't be working on Sunday."
+        },
+        {
+          "prompt": "When you arrive, we ___ (have) dinner.",
+          "answer": "will be having",
+          "hintSi": "'when' එකට පස්සේ will නෑ, ඒත් අනිත් පැත්තට තියෙනවා.",
+          "full": "When you arrive, we will be having dinner."
+        },
+        {
+          "prompt": "All morning they ___ (paint) the house.",
+          "answer": "will be painting",
+          "hintSi": "කාල පරාසයක්.",
+          "full": "All morning they will be painting the house."
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "b1-13-q1",
+      "q": "Future continuous හැදෙන්නේ කොහොමද?",
+      "options": [
+        "will + -ing",
+        "will be + -ing",
+        "will have + -ing",
+        "am/is/are going to + -ing"
+      ],
+      "answer": 1,
+      "explainSi": "will + be + -ing. 'be' අවශ්‍යයි."
+    },
+    {
+      "id": "b1-13-q2",
+      "q": "'හෙට මේ වෙලාවේ මම යනවා (ගුවනින්)' — කොහොමද?",
+      "options": [
+        "This time tomorrow I will fly.",
+        "This time tomorrow I will be flying.",
+        "This time tomorrow I am flying now.",
+        "This time tomorrow I will flying."
+      ],
+      "answer": 1,
+      "explainSi": "ඒ මොහොතේ මැදින් — will be flying.",
+      "speak": "This time tomorrow I will be flying."
+    },
+    {
+      "id": "b1-13-q3",
+      "q": "she එක්ක යෙදෙන්නේ?",
+      "options": [
+        "she wills be working",
+        "she will be working",
+        "she will being working",
+        "she will been working"
+      ],
+      "answer": 1,
+      "explainSi": "will සහ be හැම subject එකකටම එකයි."
+    },
+    {
+      "id": "b1-13-q4",
+      "q": "'I'll cook at seven' සහ 'At seven I'll be cooking' — වෙනස?",
+      "options": [
+        "වෙනසක් නෑ",
+        "පළවෙනි එක සිද්ධිය, දෙවෙනි එක ඒ මොහොතේ මැදින්",
+        "දෙවෙනි එක අතීතය",
+        "පළවෙනි එක වැරදියි"
+      ],
+      "answer": 1,
+      "explainSi": "will = සිද්ධිය. will be + -ing = ඒ මොහොතේ මැදින්."
+    },
+    {
+      "id": "b1-13-q5",
+      "q": "'Will you be going to the market?' — මේකේ රසය මොකක්ද?",
+      "options": [
+        "ඉල්ලීමක්",
+        "සැලසුම් ගැන සාමාන්‍ය විමසීමක්",
+        "නියෝගයක්",
+        "පැමිණිල්ලක්"
+      ],
+      "answer": 1,
+      "explainSi": "'Will you be…?' කියන එකේ බරක් නෑ — හුදෙක් තොරතුරු අහනවා."
+    },
+    {
+      "id": "b1-13-q6",
+      "q": "නැහැ කියන ආකෘතිය?",
+      "options": [
+        "will not being",
+        "won't be + -ing",
+        "don't will be",
+        "will be not"
+      ],
+      "answer": 1,
+      "explainSi": "I won't be coming tomorrow."
+    },
+    {
+      "id": "b1-13-q7",
+      "q": "කුමන එක වැරදිද?",
+      "options": [
+        "When you come, call me.",
+        "When you will come, call me.",
+        "I'll wait until she arrives.",
+        "As soon as he leaves, tell me."
+      ],
+      "answer": 1,
+      "explainSi": "'when' එකට පස්සේ will යෙදෙන්නේ නෑ."
+    },
+    {
+      "id": "b1-13-q8",
+      "q": "හිස් තැනට: 'Don't call at seven — I ___.'",
+      "options": [
+        "will drive",
+        "will be driving",
+        "drive",
+        "am driving now"
+      ],
+      "answer": 1,
+      "explainSi": "ඒ මොහොතේ මම එළවමින් ඉන්නවා.",
+      "speak": "Don't call at seven — I'll be driving."
+    },
+    {
+      "id": "b1-13-q9",
+      "q": "Future continuous එකට කාල සලකුණක් ඕනද?",
+      "options": [
+        "නෑ, කවදාවත් ඕන නෑ",
+        "ඔව් — නැත්නම් කවදාද කියලා තේරෙන්නේ නෑ",
+        "ඔව්, ප්‍රශ්නවලට විතරක්",
+        "නෑ, ඒත් ලියනකොට විතරක්"
+      ],
+      "answer": 1,
+      "explainSi": "at eight, this time tomorrow, when you arrive — සලකුණක් ඕන."
+    },
+    {
+      "id": "b1-13-q10",
+      "q": "'ලබන සතියේ මේ වෙලාවේ මම විභාගය කරමින්' — කොහොමද?",
+      "options": [
+        "This time next week I will sit the exam.",
+        "This time next week I will be sitting the exam.",
+        "This time next week I am sitting the exam now.",
+        "This time next week I sat the exam."
+      ],
+      "answer": 1,
+      "explainSi": "ඒ මොහොතේ මැදින්.",
+      "speak": "This time next week I will be sitting the exam."
+    },
+    {
+      "id": "b1-13-q11",
+      "q": "ප්‍රශ්නයේ පිළිවෙළ?",
+      "options": [
+        "Will + subject + be + -ing?",
+        "Be + will + subject + -ing?",
+        "Subject + will + be + -ing?",
+        "Will + be + subject + -ing?"
+      ],
+      "answer": 0,
+      "explainSi": "Will you be using the car?"
+    },
+    {
+      "id": "b1-13-q12",
+      "q": "'Will you help me?' සහ 'Will you be helping?' — වෙනස?",
+      "options": [
+        "වෙනසක් නෑ",
+        "පළවෙනි එක ඉල්ලීමක්, දෙවෙනි එක විමසීමක්",
+        "දෙවෙනි එක අශිෂ්ටයි",
+        "පළවෙනි එක අනාගතය නෙවෙයි"
+      ],
+      "answer": 1,
+      "explainSi": "'Will you…?' ඉල්ලීමක් වගේ. 'Will you be…?' බරක් නෑ."
+    },
+    {
+      "id": "b1-13-q13",
+      "q": "හිස් තැනට: 'All morning they ___ the house.'",
+      "options": [
+        "will paint",
+        "will be painting",
+        "painted",
+        "are painted"
+      ],
+      "answer": 1,
+      "explainSi": "කාල පරාසයක් — දිගටම කරමින්."
+    },
+    {
+      "id": "b1-13-q14",
+      "q": "b1-01 හි past continuous එකට මේක සමානයි කියන්නේ ඇයි?",
+      "options": [
+        "දෙකටම will තියෙන නිසා",
+        "දෙකෙන්ම මොහොතක් මැදින් අල්ලගන්න නිසා",
+        "දෙකම අතීතය නිසා",
+        "සමානකමක් නෑ"
+      ],
+      "answer": 1,
+      "explainSi": "එකක් අතීතයේ මොහොතක්, අනිත් එක අනාගතයේ මොහොතක්."
+    },
+    {
+      "id": "b1-13-q15",
+      "q": "කුමන එක හරිද?",
+      "options": [
+        "I will working at eight.",
+        "I will be working at eight.",
+        "I will been working at eight.",
+        "I will be work at eight."
+      ],
+      "answer": 1,
+      "explainSi": "will + be + working."
+    },
+    {
+      "id": "b1-13-q16",
+      "q": "හිස් තැනට: 'While you ___ at the office, we'll be moving the furniture.'",
+      "options": [
+        "will be",
+        "are",
+        "will",
+        "would be"
+      ],
+      "answer": 1,
+      "explainSi": "'while' එකට පස්සේ වර්තමානය."
+    },
+    {
+      "id": "b1-13-q17",
+      "q": "'I'll be seeing him tomorrow' කියන එකේ තියෙන රසය?",
+      "options": [
+        "විශේෂයෙන් හම්බ වෙන්න යනවා",
+        "කොහොමත් හම්බ වෙනවා — විශේෂ දෙයක් නෙවෙයි",
+        "හම්බ වෙන්නේ නෑ",
+        "හම්බ වුණා"
+      ],
+      "answer": 1,
+      "explainSi": "සැලසුමේ කොටසක් වගේ — ආචාරශීලීයි."
+    },
+    {
+      "id": "b1-13-q18",
+      "q": "'එතකොටටත් මම පාරේ ඇති' — කොහොමද?",
+      "options": [
+        "By then I'll be on my way.",
+        "By then I am on my way.",
+        "By then I was on my way.",
+        "By then I will on my way."
+      ],
+      "answer": 0,
+      "explainSi": "by then + will be.",
+      "speak": "By then I'll be on my way."
+    }
+  ],
+  "vocab": [
+    {
+      "en": "this time tomorrow",
+      "si": "හෙට මේ වෙලාවේ",
+      "say": "දිස් ටයිම් ටුමොරෝ",
+      "exampleEn": "This time tomorrow I'll be flying.",
+      "exampleSi": "හෙට මේ වෙලාවේ මම යනවා."
+    },
+    {
+      "en": "by then",
+      "si": "එතකොටටත්",
+      "say": "බයි දෙන්",
+      "exampleEn": "By then we'll be waiting.",
+      "exampleSi": "එතකොටටත් අපි බලාගෙන ඉන්නවා."
+    },
+    {
+      "en": "all day",
+      "si": "දවස පුරාම",
+      "say": "ඕල් ඩේ",
+      "exampleEn": "They'll be working all day.",
+      "exampleSi": "ඒගොල්ලෝ දවස පුරාම වැඩ කරනවා."
+    },
+    {
+      "en": "while",
+      "si": "අතරතුර",
+      "say": "වයිල්",
+      "exampleEn": "While you sleep, I'll be driving.",
+      "exampleSi": "ඔයා නිදාගන්නකොට මම එළවනවා."
+    },
+    {
+      "en": "flight",
+      "si": "ගුවන් ගමන",
+      "say": "ෆ්ලයිට්",
+      "exampleEn": "My flight leaves at six.",
+      "exampleSi": "මගේ ගුවන් යානය හයට යනවා."
+    },
+    {
+      "en": "meeting",
+      "si": "රැස්වීම",
+      "say": "මීටිං",
+      "exampleEn": "I'll be in a meeting.",
+      "exampleSi": "මම රැස්වීමක ඉන්නවා."
+    },
+    {
+      "en": "shift (work)",
+      "si": "වැඩ මුරය",
+      "say": "ෂිෆ්ට්",
+      "exampleEn": "She'll be on the night shift.",
+      "exampleSi": "ඇය රෑ මුරයේ ඉන්නවා."
+    },
+    {
+      "en": "exam",
+      "si": "විභාගය",
+      "say": "එග්සෑම්",
+      "exampleEn": "This time next week, the exam.",
+      "exampleSi": "ලබන සතියේ මේ වෙලාවේ, විභාගය."
+    },
+    {
+      "en": "travel",
+      "si": "ගමන් කරනවා",
+      "say": "ට්‍රැවල්",
+      "exampleEn": "We'll be travelling all night.",
+      "exampleSi": "අපි රෑ පුරාම ගමන් කරනවා."
+    },
+    {
+      "en": "wait for",
+      "si": "එනකම් ඉන්නවා",
+      "say": "වේට් ෆෝ",
+      "exampleEn": "I'll be waiting for you.",
+      "exampleSi": "මම ඔයා එනකම් ඉන්නවා."
+    },
+    {
+      "en": "use",
+      "si": "පාවිච්චි කරනවා",
+      "say": "යූස්",
+      "exampleEn": "Will you be using the car?",
+      "exampleSi": "කාර් එක පාවිච්චි කරනවාද?"
+    },
+    {
+      "en": "stay",
+      "si": "නවතිනවා",
+      "say": "ස්ටේ",
+      "exampleEn": "We'll be staying with my aunt.",
+      "exampleSi": "අපි නැන්දාගේ ගෙදර නවතිනවා."
+    },
+    {
+      "en": "pick up",
+      "si": "එක්ක යනවා, අරගෙන යනවා",
+      "say": "පික් අප්",
+      "exampleEn": "I'll pick you up at four.",
+      "exampleSi": "මම හතරට ඔයාව අරගෙන යන්නම්."
+    },
+    {
+      "en": "run late",
+      "si": "පරක්කු වෙනවා",
+      "say": "රන් ලේට්",
+      "exampleEn": "We're running late.",
+      "exampleSi": "අපි පරක්කු වෙනවා."
+    },
+    {
+      "en": "schedule",
+      "si": "කාලසටහන",
+      "say": "ෂෙඩ්යූල්",
+      "exampleEn": "The schedule has changed.",
+      "exampleSi": "කාලසටහන වෙනස් වෙලා."
+    },
+    {
+      "en": "on my way",
+      "si": "පාරේ, එමින්",
+      "say": "ඔන් මයි වේ",
+      "exampleEn": "I'll be on my way by then.",
+      "exampleSi": "එතකොටටත් මම පාරේ ඇති."
+    }
+  ]
+}

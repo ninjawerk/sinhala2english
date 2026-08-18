@@ -1,0 +1,926 @@
+{
+  "hero": {
+    "src": "images/a1-23-hero.webp",
+    "alt": "Ruwan standing under a wide umbrella in heavy monsoon rain, looking up at dark clouds, wet street reflecting the light, palm trees bending in the wind."
+  },
+  "goalsSi": [
+    "කාලගුණය විස්තර කිරීම — sunny, cloudy, windy, hot, humid",
+    "අර්ථයක් නැති 'It' — It is raining, It is hot",
+    "rain: නාම පදයක් සහ ක්‍රියාවක්",
+    "What is the weather like?",
+    "ලංකාවේ කාලගුණ ඍතු — වැසි කාලය සහ නියං කාලය",
+    "කාලගුණය ගැන කථා පටන් ගැනීම"
+  ],
+  "goals": [
+    "Describe today's weather",
+    "Use the empty It correctly",
+    "Ask what the weather is like",
+    "Make small talk about the weather"
+  ],
+  "sections": [
+    {
+      "type": "note",
+      "title": "The It that means nothing",
+      "titleSi": "අර්ථයක් නැති It",
+      "bodySi": "සිංහලෙන් 'වහිනවා' කියලා එක වචනයෙන් කියනවා. වහින්නේ කවුද කියලා අහන්නේ නෑ — කවුරුවත් වහින්නේ නෑ, ඒක වහිනවා විතරයි.\n\nඉංග්‍රීසියේ වාක්‍යයකට කර්තෘවක් නැතුව බෑ. එනිසා අර්ථයක් නැති කර්තෘවක් දාගන්නවා: It.\n\nIt is raining. ✓\nIs raining. ✗\nRaining now. ✗\n\nමේ 'It' කිසිවක් නෙවෙයි. එය කිසිම දෙයක් නියෝජනය කරන්නේ නෑ — එය තියෙන්නේ තැන පුරවන්න විතරයි.\n\nකාලගුණයට, වෙලාවට, දුරට — හැම එකකටම එකම It:\nIt is raining. It is hot. It is six o'clock. It is far.\n\nගිය පාඩම්වල මතක තියෙනවා නම්, a1-15 හි අණ කරන වාක්‍යය තමයි කර්තෘවක් නැති එකම වාක්‍යය. මේක ඊට හරියටම විරුද්ධයි — කර්තෘවක් නැති තැනකට ඉංග්‍රීසිය එකක් හදලා දාගන්නවා.",
+      "body": "English invents a subject where there is none: It is raining."
+    },
+    {
+      "type": "grammar",
+      "title": "It is + weather",
+      "titleSi": "It is + කාලගුණය",
+      "explainSi": "විශේෂණයක් නම් 'It is …'. ක්‍රියාවක් නම් 'It is …ing'. දෙකම එකම It එකෙන් පටන් ගන්නවා.",
+      "formula": "It is + adjective  ·  It is + verb-ing",
+      "table": {
+        "headers": [
+          "ඉංග්‍රීසි",
+          "සිංහල",
+          "වර්ගය"
+        ],
+        "rows": [
+          [
+            "It is hot.",
+            "රස්නෙයි.",
+            "විශේෂණය"
+          ],
+          [
+            "It is cool.",
+            "සිසිලයි.",
+            "විශේෂණය"
+          ],
+          [
+            "It is sunny.",
+            "අව්වයි.",
+            "විශේෂණය"
+          ],
+          [
+            "It is cloudy.",
+            "වලාකුළුයි.",
+            "විශේෂණය"
+          ],
+          [
+            "It is windy.",
+            "සුළං තියෙනවා.",
+            "විශේෂණය"
+          ],
+          [
+            "It is humid.",
+            "තෙතමනයයි.",
+            "විශේෂණය"
+          ],
+          [
+            "It is raining.",
+            "වහිනවා.",
+            "ක්‍රියාව"
+          ],
+          [
+            "It isn't raining now.",
+            "දැන් වහින්නේ නෑ.",
+            "ක්‍රියාව"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "It's very humid today, but it isn't raining.",
+          "si": "අද හරිම තෙතමනයයි, හැබැයි වහින්නේ නෑ."
+        },
+        {
+          "en": "It was sunny this morning and now it's cloudy.",
+          "si": "උදේ අව්ව තිබුණා, දැන් වලාකුළු."
+        },
+        {
+          "en": "Is it still raining? — No, it stopped.",
+          "si": "තාමත් වහිනවාද? — නෑ, නැවතුණා."
+        }
+      ],
+      "watchOutSi": "'It is rain' කියලා කියන්නේ නෑ. වහිනවා නම් 'It is raining' — ක්‍රියාව. 'rain' නාම පදයක් වුණාම 'The rain is heavy' කියලා."
+    },
+    {
+      "type": "grammar",
+      "title": "rain: a thing and an action",
+      "titleSi": "rain: දෙයක් සහ ක්‍රියාවක්",
+      "explainSi": "'rain' යන වචනය නාම පදයක් විදිහටත් ක්‍රියාවක් විදිහටත් යෙදෙනවා — snow, wind සහ storm වගේම.",
+      "formula": "It is raining (verb)  ·  The rain is heavy (noun)",
+      "table": {
+        "headers": [
+          "ක්‍රියාව",
+          "නාම පදය"
+        ],
+        "rows": [
+          [
+            "It is raining.",
+            "The rain is heavy."
+          ],
+          [
+            "It rained all night.",
+            "We came in the rain."
+          ],
+          [
+            "It doesn't rain in July here.",
+            "The rains come in October."
+          ],
+          [
+            "It is snowing. (ලංකාවේ නෑ)",
+            "The snow is deep."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "We walked home in the rain and we were wet for an hour.",
+          "si": "අපි වැස්සේ ගෙදර ඇවිදගෙන ආවා, පැයක් තෙමිලා හිටියා."
+        },
+        {
+          "en": "It rains every afternoon in May.",
+          "si": "මැයි මාසේ හැම හවසම වහිනවා."
+        }
+      ],
+      "watchOutSi": "'in the rain' යනු වැස්සේ තෙමෙමින්. 'in the rainy season' යනු කාලය ගැන. පෙරනිමිත එකයි, අර්ථය දෙකයි."
+    },
+    {
+      "type": "grammar",
+      "title": "What is the weather like?",
+      "titleSi": "What is the weather like?",
+      "explainSi": "a1-19 හි 'What is he like?' ඉගෙන ගත්තා. එකම රටාව කාලගුණයටත් යෙදෙනවා — 'like' යනු මෙතන 'කැමතියි' කියන අර්ථය නෙවෙයි.",
+      "formula": "What is the weather like?  ·  What was it like?",
+      "table": {
+        "headers": [
+          "ප්‍රශ්නය",
+          "පිළිතුර"
+        ],
+        "rows": [
+          [
+            "What's the weather like?",
+            "It's hot and humid."
+          ],
+          [
+            "What's it like outside?",
+            "Wet. Take an umbrella."
+          ],
+          [
+            "What was the weather like in Nuwara Eliya?",
+            "Cold! I needed a jacket."
+          ],
+          [
+            "Is it going to rain?",
+            "I think so. Look at the sky."
+          ],
+          [
+            "Lovely day, isn't it?",
+            "Beautiful. Too good to work."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "What's the weather like in Kandy at this time of year?",
+          "si": "අවුරුද්දේ මේ කාලේ නුවර කාලගුණය කොහොමද?"
+        },
+        {
+          "en": "It's cooler than Colombo, and it rains in the evening.",
+          "si": "කොළඹට වඩා සිසිලයි, හවසට වහිනවා."
+        }
+      ],
+      "watchOutSi": "'How is the weather?' කිව්වත් තේරෙනවා, නමුත් 'What is the weather like?' තමයි සම්මත ක්‍රමය."
+    },
+    {
+      "type": "grammar",
+      "title": "Our seasons are not four",
+      "titleSi": "අපේ ඍතු හතරක් නෙවෙයි",
+      "explainSi": "ඉංග්‍රීසි පොත්වල ඍතු හතරක් තියෙනවා — spring, summer, autumn, winter. ඒවා යුරෝපයේ. ලංකාවේ තියෙන්නේ මෝසම් දෙකයි. පොත්වල ඒ වචන හතර හම්බ වෙන නිසා ඒවා දැනගන්න ඕන, නමුත් අපේ කාලගුණය විස්තර කරන්නේ ඒවායින් නෙවෙයි.",
+      "formula": "the rainy season · the dry season · the monsoon",
+      "table": {
+        "headers": [
+          "වචනය",
+          "අර්ථය",
+          "අපිට අදාළද?"
+        ],
+        "rows": [
+          [
+            "the rainy season",
+            "වැසි කාලය",
+            "✓"
+          ],
+          [
+            "the dry season",
+            "නියං කාලය",
+            "✓"
+          ],
+          [
+            "the monsoon",
+            "මෝසම",
+            "✓"
+          ],
+          [
+            "summer",
+            "ගිම්හානය",
+            "පොත්වල — යුරෝපයේ"
+          ],
+          [
+            "winter",
+            "ශිශිරය",
+            "පොත්වල — යුරෝපයේ"
+          ],
+          [
+            "spring",
+            "වසන්තය",
+            "පොත්වල — යුරෝපයේ"
+          ],
+          [
+            "autumn",
+            "සරත්",
+            "පොත්වල — යුරෝපයේ"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "The rainy season starts in October here.",
+          "si": "මෙතන වැසි කාලය ඔක්තෝබරයේ පටන් ගන්නවා."
+        },
+        {
+          "en": "In England they have four seasons; we have two monsoons.",
+          "si": "එංගලන්තයේ ඍතු හතරක්; අපිට මෝසම් දෙකක්."
+        }
+      ],
+      "watchOutSi": "'summer' කියන්නේ රස්නෙ කාලය නෙවෙයි — ඒක යුරෝපයේ ඍතුවක්. ලංකාවේ රස්නෙ කාලයට 'the dry season' හෝ 'March and April' කියන්න."
+    },
+    {
+      "type": "vocab",
+      "title": "Sky and weather",
+      "titleSi": "අහස සහ කාලගුණය",
+      "items": [
+        {
+          "en": "sunny",
+          "si": "අව්ව",
+          "say": "සනි"
+        },
+        {
+          "en": "cloudy",
+          "si": "වලාකුළු",
+          "say": "ක්ලවුඩි"
+        },
+        {
+          "en": "windy",
+          "si": "සුළං",
+          "say": "වින්ඩි"
+        },
+        {
+          "en": "humid",
+          "si": "තෙතමනය",
+          "say": "හියුමිඩ්"
+        },
+        {
+          "en": "wet",
+          "si": "තෙත්",
+          "say": "වෙට්"
+        },
+        {
+          "en": "dry",
+          "si": "වියළි",
+          "say": "ඩ්‍රයි"
+        },
+        {
+          "en": "cool",
+          "si": "සිසිල්",
+          "say": "කූල්"
+        },
+        {
+          "en": "storm",
+          "si": "කුණාටුව",
+          "say": "ස්ටෝම්"
+        },
+        {
+          "en": "thunder",
+          "si": "අකුණු ගිගිරුම",
+          "say": "තන්ඩර්"
+        },
+        {
+          "en": "lightning",
+          "si": "විදුලි කෙටීම",
+          "say": "ලයිට්නින්"
+        },
+        {
+          "en": "flood",
+          "si": "ගංවතුර",
+          "say": "ෆ්ලඩ්"
+        },
+        {
+          "en": "sky",
+          "si": "අහස",
+          "say": "ස්කයි"
+        },
+        {
+          "en": "shade",
+          "si": "සෙවණ",
+          "say": "ෂේඩ්"
+        },
+        {
+          "en": "monsoon",
+          "si": "මෝසම",
+          "say": "මොන්සූන්"
+        },
+        {
+          "en": "rainy season",
+          "si": "වැසි කාලය",
+          "say": "රේනි සීසන්"
+        },
+        {
+          "en": "dry season",
+          "si": "නියං කාලය",
+          "say": "ඩ්‍රයි සීසන්"
+        },
+        {
+          "en": "forecast",
+          "si": "අනාවැකිය",
+          "say": "ෆෝකාස්ට්"
+        },
+        {
+          "en": "heavy (rain)",
+          "si": "තද (වැස්ස)",
+          "say": "හෙවි"
+        }
+      ]
+    },
+    {
+      "type": "story",
+      "title": "The Day It Didn't Stop",
+      "titleSi": "නොනැවතුණු දවස",
+      "introSi": "වැස්සක් දවසක් තීරණය කරන කතාවක්. කාලගුණය නිසා මොනවා වෙනස් වුණාද කියලා බලන්න.",
+      "paragraphs": [
+        {
+          "en": "It was the second week of November and it had rained for nine days. The road was a river and the well behind our house was full to the top.",
+          "si": "නොවැම්බර් දෙවෙනි සතිය, දවස් නවයක් වැහැලා. පාර ගඟක් වගේ, ගෙදර පිටිපස්සේ ළිඳ මුදුනටම පිරිලා."
+        },
+        {
+          "en": "My sister's wedding was on the twelfth. Everything was ready — the hall, the food, the cakes, her dress in a bag on the top shelf, away from the wet.",
+          "si": "අක්කාගේ මංගල උත්සවය දොළොස්වෙනිදා. හැම දෙයක්ම සූදානම් — ශාලාව, කෑම, කේක්, එයාගේ ඇඳුම උඩ රාක්කයේ බෑග් එකක, තෙතමනයෙන් ඈත්."
+        },
+        {
+          "en": "On the eleventh the bridge at Weliweriya went under water, so half of the guests could not come. My mother cried in the kitchen and said it was a bad sign.",
+          "si": "එකොළොස්වෙනිදා වැලිවේරියේ පාලම වතුරෙන් යටවුණා, එනිසා ආරාධිතයන්ගෙන් බාගයකට එන්න බැරි වුණා. අම්මා කුස්සියේ ඇඬුවා, ඒක අසුබ ලකුණක් කියලා කිව්වා."
+        },
+        {
+          "en": "My sister didn't cry. She counted the people who could still come — thirty-one — and she said, \"Then it is a small wedding. Small is not bad. Small is cheaper.\"",
+          "si": "අක්කා ඇඬුවේ නෑ. එන්න පුළුවන් අය ගණන් කළා — තිස් එකක් — ඊට පස්සේ කිව්වා, \"එහෙනම් ඒක පොඩි මංගල උත්සවයක්. පොඩි කියන්නේ නරක නෑ. පොඩි කියන්නේ ලාභ.\""
+        },
+        {
+          "en": "It rained on the twelfth too. They got married in a hall with thirty-one guests and a roof that dripped in one corner. Somebody put a bucket under it and the sound was in every photograph nobody could hear.",
+          "si": "දොළොස්වෙනිදාත් වහිනවා. තිස් එක්දෙනෙක් සමඟ, එක් කොනකින් වතුර බේරෙන වහලයක් යටදී ඔවුන් විවාහ වුණා. කවුරුහරි ඒක යටට බාල්දියක් තිබ්බා, ඒ ශබ්දය හැම ඡායාරූපයකම තියෙනවා — කවුරුවත් ඒක අහන්නේ නෑ."
+        },
+        {
+          "en": "That was eleven years ago. My sister still says it was the best day, and my mother still says it rained. They are both right, and they are talking about two different days.",
+          "si": "ඒක අවුරුදු එකොළහකට කලින්. අක්කා තාමත් කියනවා ඒක හොඳම දවස කියලා, අම්මා තාමත් කියනවා ඒ දවසේ වැහුවා කියලා. දෙන්නම හරි, දෙන්නා කථා කරන්නේ වෙනස් දවස් දෙකක් ගැන."
+        }
+      ],
+      "glossary": [
+        {
+          "en": "well",
+          "si": "ළිඳ"
+        },
+        {
+          "en": "full to the top",
+          "si": "මුදුනටම පිරිලා"
+        },
+        {
+          "en": "shelf",
+          "si": "රාක්කය"
+        },
+        {
+          "en": "go under water",
+          "si": "වතුරෙන් යටවෙනවා"
+        },
+        {
+          "en": "guest",
+          "si": "ආරාධිතයා"
+        },
+        {
+          "en": "sign",
+          "si": "ලකුණ"
+        },
+        {
+          "en": "drip",
+          "si": "බේරෙනවා"
+        },
+        {
+          "en": "bucket",
+          "si": "බාල්දිය"
+        }
+      ],
+      "questionsSi": [
+        "මංගල උත්සවයට ආරාධිතයන් බාගයක් නොආවේ ඇයි?",
+        "අම්මාගේ සහ අක්කාගේ ප්‍රතිචාර වෙනස් වුණේ කොහොමද?",
+        "බාල්දිය ගැන වාක්‍යයෙන් අදහස් වන්නේ මොකක්ද?",
+        "අන්තිම වාක්‍යයෙන් කියවෙන්නේ මොකක්ද?"
+      ]
+    },
+    {
+      "type": "poem",
+      "title": "October",
+      "titleSi": "ඔක්තෝබර්",
+      "introSi": "වැසි කාලය ගැන කවියක්. හැම පේළියකම වගේ 'It' එනවා.",
+      "lines": [
+        {
+          "en": "It starts at four. It always does.",
+          "si": "ඒක හතරට පටන් ගන්නවා. හැම විටම එහෙමයි."
+        },
+        {
+          "en": "It comes in from the sea.",
+          "si": "ඒක එන්නේ මුහුදෙන්."
+        },
+        {
+          "en": "It knocks the mangoes off the tree",
+          "si": "ඒක අඹ ගහෙන් ගහලා දමනවා"
+        },
+        {
+          "en": "And nobody is free.",
+          "si": "කවුරුවත් නිදහස් නෑ."
+        },
+        {
+          "en": "",
+          "si": ""
+        },
+        {
+          "en": "The washing's in. The gate is shut.",
+          "si": "රෙදි ඇතුළට. ගේට්ටුව වහලා."
+        },
+        {
+          "en": "The road is not a road.",
+          "si": "පාර පාරක් නෙවෙයි."
+        },
+        {
+          "en": "And children who have work to do",
+          "si": "වැඩ තියෙන ළමයි"
+        },
+        {
+          "en": "Have no work. It rained.",
+          "si": "වැඩ නෑ. වැහුවා."
+        }
+      ],
+      "noteSi": "'It starts', 'It comes', 'It knocks', 'It rained' — කවියේ 'It' කිසිම දෙයක් නියෝජනය කරන්නේ නෑ. එය වැස්සයි, නමුත් වචනය කිසිවිටෙක කියන්නේ නෑ."
+    },
+    {
+      "type": "dialogue",
+      "title": "Small talk at the bus stop",
+      "titleSi": "බස් නැවතුමේ කථාව",
+      "settingSi": "කාලගුණය ගැන කථා පටන් ගැනීම. පිළිතුරු කථාව ඉදිරියට ගෙනියන ආකාරය බලන්න.",
+      "lines": [
+        {
+          "speaker": "Woman",
+          "en": "It's very humid today, isn't it?",
+          "si": "අද හරිම තෙතමනයයි නේද?"
+        },
+        {
+          "speaker": "Man",
+          "en": "Terrible. And there's no wind at all.",
+          "si": "බයානකයි. සුළඟක්වත් නෑ."
+        },
+        {
+          "speaker": "Woman",
+          "en": "It was cooler last week. What happened?",
+          "si": "ගිය සතියේ සිසිලයි වුණා. මොකද වුණේ?"
+        },
+        {
+          "speaker": "Man",
+          "en": "The rains are late this year. My father says they come in the third week now, not the first.",
+          "si": "මේ අවුරුද්දේ වැසි පරක්කුයි. තාත්තා කියනවා දැන් ඒවා තුන්වෙනි සතියේ එනවා කියලා, පළමු එකේ නෙවෙයි."
+        },
+        {
+          "speaker": "Woman",
+          "en": "Is it going to rain today, do you think?",
+          "si": "ඔබ හිතන්නේ අද වහිනවාද?"
+        },
+        {
+          "speaker": "Man",
+          "en": "Look at that sky. It'll rain before five.",
+          "si": "අර අහස බලන්න. පහට කලින් වහිනවා."
+        },
+        {
+          "speaker": "Woman",
+          "en": "And I don't have an umbrella.",
+          "si": "මට කුඩයක් නෑ."
+        },
+        {
+          "speaker": "Man",
+          "en": "Neither do I. But my bus comes first.",
+          "si": "මටත් නෑ. හැබැයි මගේ බස් එක කලින් එනවා."
+        }
+      ]
+    },
+    {
+      "type": "practice",
+      "title": "Fill in the weather",
+      "titleSi": "කාලගුණය පුරවන්න",
+      "instructionSi": "විශේෂණයක්ද ක්‍රියාවක්ද කියලා බලන්න. 'It' අමතක කරන්න එපා.",
+      "items": [
+        {
+          "prompt": "___ raining. (වහිනවා)",
+          "answer": "It is",
+          "hintSi": "කර්තෘවක් නැතුව බෑ.",
+          "full": "It is raining."
+        },
+        {
+          "prompt": "___ very hot today.",
+          "answer": "It is",
+          "hintSi": "විශේෂණයක් — It is.",
+          "full": "It is very hot today."
+        },
+        {
+          "prompt": "The ___ is heavy. (වැස්ස)",
+          "answer": "rain",
+          "hintSi": "නාම පදයක් මෙතන.",
+          "full": "The rain is heavy."
+        },
+        {
+          "prompt": "We walked home ___ the rain.",
+          "answer": "in",
+          "hintSi": "වැස්සේ තෙමෙමින්.",
+          "full": "We walked home in the rain."
+        },
+        {
+          "prompt": "What's the weather ___?",
+          "answer": "like",
+          "hintSi": "a1-19 හි එකම රටාව.",
+          "full": "What's the weather like?"
+        },
+        {
+          "prompt": "The ___ season starts in October.",
+          "answer": "rainy",
+          "hintSi": "ලංකාවේ කාල දෙකෙන් එකක්.",
+          "full": "The rainy season starts in October."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "en": "sunny",
+      "si": "අව්ව"
+    },
+    {
+      "en": "cloudy",
+      "si": "වලාකුළු"
+    },
+    {
+      "en": "windy",
+      "si": "සුළං"
+    },
+    {
+      "en": "humid",
+      "si": "තෙතමනය"
+    },
+    {
+      "en": "wet",
+      "si": "තෙත්"
+    },
+    {
+      "en": "dry",
+      "si": "වියළි"
+    },
+    {
+      "en": "cool",
+      "si": "සිසිල්"
+    },
+    {
+      "en": "storm",
+      "si": "කුණාටුව"
+    },
+    {
+      "en": "thunder",
+      "si": "අකුණු ගිගිරුම"
+    },
+    {
+      "en": "lightning",
+      "si": "විදුලි කෙටීම"
+    },
+    {
+      "en": "flood",
+      "si": "ගංවතුර"
+    },
+    {
+      "en": "sky",
+      "si": "අහස"
+    },
+    {
+      "en": "shade",
+      "si": "සෙවණ"
+    },
+    {
+      "en": "monsoon",
+      "si": "මෝසම"
+    },
+    {
+      "en": "rainy season",
+      "si": "වැසි කාලය"
+    },
+    {
+      "en": "dry season",
+      "si": "නියං කාලය"
+    },
+    {
+      "en": "forecast",
+      "si": "අනාවැකිය"
+    },
+    {
+      "en": "guest",
+      "si": "ආරාධිතයා"
+    },
+    {
+      "en": "bucket",
+      "si": "බාල්දිය"
+    },
+    {
+      "en": "sign",
+      "si": "ලකුණ"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "a1-23-q1",
+      "q": "'වහිනවා' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "Is raining.",
+        "It is raining.",
+        "Raining now.",
+        "It is rain."
+      ],
+      "answer": 1,
+      "explainSi": "ඉංග්‍රීසි වාක්‍යයකට කර්තෘවක් ඕන. කර්තෘවක් නැති තැනට 'It' දාගන්නවා.",
+      "speak": "It is raining."
+    },
+    {
+      "id": "a1-23-q2",
+      "q": "'It is raining' හි 'It' නියෝජනය කරන්නේ කුමක්ද?",
+      "options": [
+        "වැස්ස",
+        "අහස",
+        "කිසිවක් නෑ — එය තැන පුරවන්න විතරයි",
+        "කාලගුණය"
+      ],
+      "answer": 2,
+      "explainSi": "එය හිස් කර්තෘවක්. වාක්‍යයට එකක් ඕන නිසා ඉංග්‍රීසිය එකක් හදලා දාගන්නවා."
+    },
+    {
+      "id": "a1-23-q3",
+      "q": "'It is rain' වැරදි වන්නේ ඇයි?",
+      "options": [
+        "'rain' නාම පදයක් — වහිනවා කියන්නේ ක්‍රියාවෙන්: 'It is raining'",
+        "'It' යෙදිය නොහැකි නිසා",
+        "'is' වෙනුවට 'are' ඕන නිසා",
+        "වැරදි නෑ"
+      ],
+      "answer": 0,
+      "explainSi": "'The rain is heavy' නම් නාම පදය හරි. නමුත් සිදුවෙන දෙය කියද්දී ක්‍රියාව ඕන."
+    },
+    {
+      "id": "a1-23-q4",
+      "q": "'අද හරිම තෙතමනයයි' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "Today very humid.",
+        "It is very humid today.",
+        "It has very humid today.",
+        "Is very humid today."
+      ],
+      "answer": 1,
+      "explainSi": "විශේෂණයක් සමඟ 'It is …'.",
+      "speak": "It is very humid today."
+    },
+    {
+      "id": "a1-23-q5",
+      "q": "'It is raining' සහ a1-15 හි 'Sit down' — මේ දෙක සම්බන්ධ වන්නේ කොහොමද?",
+      "options": [
+        "සම්බන්ධයක් නෑ",
+        "එකක අර්ථයක් නැති කර්තෘවක් හදලා දාගන්නවා, අනෙකේ තියෙන කර්තෘවත් අයින් කරනවා",
+        "දෙකම ප්‍රශ්න",
+        "දෙකම අතීතය"
+      ],
+      "answer": 1,
+      "explainSi": "අණ කරන වාක්‍යය කර්තෘවක් නැති එකම එකයි. කාලගුණ වාක්‍යය කර්තෘවක් නැති තැනකට එකක් හදලා දාගන්නවා. ප්‍රතිවිරුද්ධ දෙකක්, එකම නීතියෙන්."
+    },
+    {
+      "id": "a1-23-q6",
+      "q": "'අපි වැස්සේ ගෙදර ඇවිදගෙන ආවා' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "We walked home in the rain.",
+        "We walked home in the raining.",
+        "We walked home with rain.",
+        "We walked home on the rain."
+      ],
+      "answer": 0,
+      "explainSi": "'in the rain' — වැස්ස ඇතුළේ, තෙමෙමින්.",
+      "speak": "We walked home in the rain."
+    },
+    {
+      "id": "a1-23-q7",
+      "q": "'What's the weather like?' — ගැළපෙන පිළිතුර?",
+      "options": [
+        "I like sunny days.",
+        "It's hot and humid.",
+        "Yes, I do.",
+        "In October."
+      ],
+      "answer": 1,
+      "explainSi": "'like' යනු මෙතන 'කැමතියි' නෙවෙයි — කොහොමද කියලා අහනවා. a1-19 හි එකම රටාව."
+    },
+    {
+      "id": "a1-23-q8",
+      "q": "ලංකාවේ කාලගුණය විස්තර කරන්න වඩාත් නිවැරදි වචන?",
+      "options": [
+        "summer සහ winter",
+        "the rainy season සහ the dry season",
+        "spring සහ autumn",
+        "hot season සහ cold season"
+      ],
+      "answer": 1,
+      "explainSi": "ඍතු හතර යුරෝපයේ. අපිට මෝසම් දෙකයි — වැසි කාලය සහ නියං කාලය."
+    },
+    {
+      "id": "a1-23-q9",
+      "q": "'summer' කියන්නේ මොකක්ද?",
+      "options": [
+        "රස්නෙ මාස",
+        "යුරෝපයේ ඍතුවක් — ලංකාවේ කාලගුණයට එය අදාළ නෑ",
+        "වැසි කාලය",
+        "මාර්තු සහ අප්‍රේල්"
+      ],
+      "answer": 1,
+      "explainSi": "පොත්වල හම්බ වෙන නිසා දැනගන්න ඕන, නමුත් අපේ කාලය විස්තර කරන්නේ ඒවායින් නෙවෙයි."
+    },
+    {
+      "id": "a1-23-q10",
+      "q": "'It rains every afternoon in May' — මෙතන සරල ස්වරූපය යෙදෙන්නේ ඇයි, 'It is raining' නොවේ?",
+      "options": [
+        "වැරදීමකින්",
+        "එය පුරුද්දක් — හැම හවසම. 'It is raining' කියන්නේ දැන් මේ මොහොත ගැන",
+        "'May' සමඟ -ing යෙදිය නොහැකි නිසා",
+        "අතීතය නිසා"
+      ],
+      "answer": 1,
+      "explainSi": "a1-13 හි නීතියමයි — පුරුද්ද සරලයි, මේ මොහොත -ing."
+    },
+    {
+      "id": "a1-23-q11",
+      "context": "It was the second week of November and it had rained for nine days. The road was a river and the well behind our house was full to the top.",
+      "contextSi": "නොවැම්බර් දෙවෙනි සතිය, දවස් නවයක් වැහැලා. පාර ගඟක් වගේ, ගෙදර පිටිපස්සේ ළිඳ මුදුනටම පිරිලා.",
+      "q": "කතාව අනුව: 'The road was a river' කියන එකෙන් අදහස් වන්නේ?",
+      "options": [
+        "පාර ළඟ ගඟක් තිබුණා",
+        "පාර වතුරෙන් යටවෙලා තිබුණා",
+        "පාර හදලා තිබුණේ නෑ",
+        "පාර පළල් වුණා"
+      ],
+      "answer": 1,
+      "explainSi": "රූපකයක් — 'වගේ' කියන වචනය නැතුව සෘජුවම කියනවා."
+    },
+    {
+      "id": "a1-23-q12",
+      "context": "On the eleventh the bridge at Weliweriya went under water, so half of the guests could not come. My mother cried in the kitchen and said it was a bad sign.",
+      "contextSi": "එකොළොස්වෙනිදා වැලිවේරියේ පාලම වතුරෙන් යටවුණා, එනිසා ආරාධිතයන්ගෙන් බාගයකට එන්න බැරි වුණා. අම්මා කුස්සියේ ඇඬුවා, ඒක අසුබ ලකුණක් කියලා කිව්වා.",
+      "q": "කතාව අනුව: ආරාධිතයන් බාගයකට එන්න බැරි වුණේ ඇයි?",
+      "options": [
+        "මංගල උත්සවය කුඩා නිසා",
+        "පාලම වතුරෙන් යටවුණ නිසා",
+        "අම්මා ඇඬපු නිසා",
+        "ශාලාව පොඩි නිසා"
+      ],
+      "answer": 1,
+      "explainSi": "'went under water, so half of the guests could not come' — 'so' ප්‍රතිඵලය ගෙනෙනවා."
+    },
+    {
+      "id": "a1-23-q13",
+      "context": "My sister didn't cry. She counted the people who could still come — thirty-one — and she said, \"Then it is a small wedding. Small is not bad. Small is cheaper.\"",
+      "contextSi": "අක්කා ඇඬුවේ නෑ. එන්න පුළුවන් අය ගණන් කළා — තිස් එකක් — ඊට පස්සේ කිව්වා, \"එහෙනම් ඒක පොඩි මංගල උත්සවයක්. පොඩි කියන්නේ නරක නෑ. පොඩි කියන්නේ ලාභ.\"",
+      "q": "කතාව අනුව: අක්කාගේ ප්‍රතිචාරය අම්මාගෙන් වෙනස් වන්නේ කොහොමද?",
+      "options": [
+        "එයාට කනගාටුවක් නෑ",
+        "නැති වුණ දේ ගැන නොව, ඉතුරු වුණ දේ ගැන එයා බලනවා",
+        "එයාට වැස්ස කැමතියි",
+        "එයාට සල්ලි ඕන"
+      ],
+      "answer": 1,
+      "explainSi": "අම්මා අසුබ ලකුණක් දකිනවා. අක්කා ගණන් කරලා අලුත් සැලසුමක් හදනවා."
+    },
+    {
+      "id": "a1-23-q14",
+      "context": "They got married in a hall with thirty-one guests and a roof that dripped in one corner. Somebody put a bucket under it and the sound was in every photograph nobody could hear.",
+      "contextSi": "තිස් එක්දෙනෙක් සමඟ, එක් කොනකින් වතුර බේරෙන වහලයක් යටදී ඔවුන් විවාහ වුණා. කවුරුහරි ඒක යටට බාල්දියක් තිබ්බා, ඒ ශබ්දය හැම ඡායාරූපයකම තියෙනවා — කවුරුවත් ඒක අහන්නේ නෑ.",
+      "q": "කතාව අනුව: බාල්දියේ ශබ්දය ගැන වාක්‍යයෙන් අදහස් වන්නේ කුමක්ද?",
+      "options": [
+        "ඡායාරූප නරක වුණා",
+        "ඡායාරූපවල ශබ්දය පේන්නේ නෑ — නමුත් එතන හිටිය අයට එය තාමත් මතක",
+        "බාල්දිය ඡායාරූපවල තියෙනවා",
+        "කවුරුවත් ඡායාරූප ගත්තේ නෑ"
+      ],
+      "answer": 1,
+      "explainSi": "ඡායාරූපයකට ශබ්දයක් අල්ලාගන්න බෑ. එනිසා ඒක තියෙන්නේ මතකයේ විතරයි."
+    },
+    {
+      "id": "a1-23-q15",
+      "context": "My sister still says it was the best day, and my mother still says it rained. They are both right, and they are talking about two different days.",
+      "contextSi": "අක්කා තාමත් කියනවා ඒක හොඳම දවස කියලා, අම්මා තාමත් කියනවා ඒ දවසේ වැහුවා කියලා. දෙන්නම හරි, දෙන්නා කථා කරන්නේ වෙනස් දවස් දෙකක් ගැන.",
+      "q": "කතාව අනුව: අන්තිම වාක්‍යයෙන් අදහස් වන්නේ කුමක්ද?",
+      "options": [
+        "දවස් දෙකක් තිබුණා",
+        "එකම දවස — නමුත් එකෙක් දකින්නේ මංගල උත්සවය, අනෙකා දකින්නේ වැස්ස",
+        "අම්මාට වැරදිලා",
+        "අක්කාට වැරදිලා"
+      ],
+      "answer": 1,
+      "explainSi": "'both right' කියන එකෙන් පේනවා දෙන්නම ඇත්ත කියන බව — වෙනස තියෙන්නේ මතකයේ."
+    },
+    {
+      "id": "a1-23-q16",
+      "context": "It starts at four. It always does. / It comes in from the sea. / It knocks the mangoes off the tree / And nobody is free.",
+      "contextSi": "ඒක හතරට පටන් ගන්නවා. හැම විටම එහෙමයි. / ඒක එන්නේ මුහුදෙන්. / ඒක අඹ ගහෙන් ගහලා දමනවා / කවුරුවත් නිදහස් නෑ.",
+      "q": "කවියේ 'It' යනු කුමක්ද, සහ ඒ වචනය කවියේ තියෙනවාද?",
+      "options": [
+        "මුහුද — ඔව්, තියෙනවා",
+        "වැස්ස — නෑ, ඒ වචනය කිසිවිටෙක කියන්නේ නෑ",
+        "අඹ — ඔව්, තියෙනවා",
+        "සුළඟ — නෑ"
+      ],
+      "answer": 1,
+      "explainSi": "අන්තිම පේළියේ 'It rained' කියලා ක්‍රියාවෙන් විතරයි කියන්නේ. නාම පදය කිසිවිටෙක එන්නේ නෑ."
+    },
+    {
+      "id": "a1-23-q17",
+      "context": "The washing's in. The gate is shut. / The road is not a road. / And children who have work to do / Have no work. It rained.",
+      "contextSi": "රෙදි ඇතුළට. ගේට්ටුව වහලා. / පාර පාරක් නෙවෙයි. / වැඩ තියෙන ළමයි / වැඩ නෑ. වැහුවා.",
+      "q": "කවියේ අන්තිම පේළි දෙකෙන් අදහස් වන්නේ කුමක්ද?",
+      "options": [
+        "ළමයින්ට වැඩ කරන්න බැරි",
+        "වැස්ස නිසා පාසල් හෝ වැඩ නැති වුණා — ළමයින්ට එය නිදහසක්",
+        "ළමයි කම්මැලි",
+        "වැඩ ඉවර වුණා"
+      ],
+      "answer": 1,
+      "explainSi": "'Have no work. It rained.' — කෙටි වාක්‍ය දෙකක්, දෙවැන්න පළමු එකේ හේතුව."
+    },
+    {
+      "id": "a1-23-q18",
+      "context": "Man: The rains are late this year. My father says they come in the third week now, not the first.",
+      "contextSi": "පිරිමියා: මේ අවුරුද්දේ වැසි පරක්කුයි. තාත්තා කියනවා දැන් ඒවා තුන්වෙනි සතියේ එනවා කියලා, පළමු එකේ නෙවෙයි.",
+      "q": "සංවාදයේ: 'The rains' බහුවචනයෙන් යෙදෙන්නේ ඇයි?",
+      "options": [
+        "වැරදීමකින්",
+        "මෝසම් වැසි කාලයක් ගැන කථා කරන නිසා — එක වැස්සක් නෙවෙයි",
+        "වැසි තදබල නිසා",
+        "බහුවචනය හැම විටම ඕන නිසා"
+      ],
+      "answer": 1,
+      "explainSi": "'the rains' යනු වැසි කාලය. 'the rain' යනු දැන් වහින වැස්ස."
+    },
+    {
+      "id": "a1-23-q19",
+      "context": "Woman: And I don't have an umbrella.\nMan: Neither do I. But my bus comes first.",
+      "contextSi": "කාන්තාව: මට කුඩයක් නෑ.\nපිරිමියා: මටත් නෑ. හැබැයි මගේ බස් එක කලින් එනවා.",
+      "q": "සංවාදයේ: 'Neither do I' කියන්නෙන් අදහස් වන්නේ?",
+      "options": [
+        "මටත් තියෙනවා",
+        "මටත් නෑ",
+        "මට ඕන නෑ",
+        "මම දන්නේ නෑ"
+      ],
+      "answer": 1,
+      "explainSi": "නැහැ කියන දෙයකට එකඟ වෙන ක්‍රමය. 'Me neither' කිව්වත් හරි."
+    },
+    {
+      "id": "a1-23-q20",
+      "q": "කුමන වාක්‍යය වැරදිද?",
+      "options": [
+        "It was sunny this morning.",
+        "The rain is heavy.",
+        "Is very windy today.",
+        "It doesn't rain in July here."
+      ],
+      "answer": 2,
+      "explainSi": "'It is very windy today' විය යුතුයි — කර්තෘවක් නැතුව බෑ."
+    },
+    {
+      "id": "a1-23-q21",
+      "q": "'තාමත් වහිනවාද?' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "Is still raining?",
+        "Is it still raining?",
+        "It is still raining?",
+        "Does it still raining?"
+      ],
+      "answer": 1,
+      "explainSi": "ප්‍රශ්නයට 'is' මුලට, නමුත් 'it' අයින් වෙන්නේ නෑ.",
+      "speak": "Is it still raining?"
+    },
+    {
+      "id": "a1-23-q22",
+      "q": "'in the rain' සහ 'in the rainy season' — 'in' එකේ අර්ථ දෙක?",
+      "options": [
+        "දෙකම එකයි",
+        "පළමුවැන්න වැස්සේ තෙමෙමින්, දෙවැන්න කාලයක් ඇතුළත",
+        "පළමුවැන්න වැරදියි",
+        "දෙවැන්න තැනක් ගැන"
+      ],
+      "answer": 1,
+      "explainSi": "එකම පෙරනිමිත, අර්ථ දෙකක් — එකක් තැනක් වගේ, අනෙක කාලයක්."
+    }
+  ]
+}

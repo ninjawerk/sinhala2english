@@ -1,0 +1,121 @@
+{
+  "quiz": [
+    {
+      "id": "u1f-cp-q1",
+      "q": "'මම බස් එකෙන් යනවා.' — 'by' ද 'on' ද?",
+      "options": ["I go on bus.", "I go by bus.", "I go in bus.", "I go with bus."],
+      "answer": 1,
+      "explainSi": "ප්‍රවාහන ක්‍රමයක් සමඟ 'by' භාවිතා කරනවා — 'by bus'.",
+      "speak": "I go by bus."
+    },
+    {
+      "id": "u1f-cp-q2",
+      "q": "'මම මගේ කාරයේ පැමිණියා.' — 'by' ද 'in' ද?",
+      "options": ["I came by my car.", "I came in my car.", "I came on my car.", "I came with my car."],
+      "answer": 1,
+      "explainSi": "'my car' වගේ අයිතිකාරිත්වයක් සඳහන් වුනාම 'in my car' භාවිතා කරනවා, 'by car' නෙවෙයි."
+    },
+    {
+      "id": "u1f-cp-q3",
+      "q": "'බස් එක මගහැරුනා.' — ඉංග්‍රීසියෙන්?",
+      "options": ["I missed the bus.", "I lost the bus.", "I catch the bus.", "I fall the bus."],
+      "answer": 0,
+      "explainSi": "'miss the bus' — බස් එක මගහැරීම.",
+      "speak": "I missed the bus."
+    },
+    {
+      "id": "u1f-cp-q4",
+      "q": "'මගේ හිස රිදෙනවා.' — 'hurt' භාවිතා කරන්නේ කොහොමද?",
+      "options": ["My head hurt.", "My head hurts.", "My head is hurt.", "I hurt head."],
+      "answer": 1,
+      "explainSi": "'My head hurts.' — third person singular subject ('head') නිසා 's' එකතු කරනවා.",
+      "speak": "My head hurts."
+    },
+    {
+      "id": "u1f-cp-q5",
+      "q": "'මට උණ තියෙනවා.' — 'have' ද 'am' ද?",
+      "options": ["I am a fever.", "I have a fever.", "I fever.", "I am fever."],
+      "answer": 1,
+      "explainSi": "'have a fever/cold/headache' — රෝග ලක්ෂණ 'have' සමඟ කියනවා.",
+      "speak": "I have a fever."
+    },
+    {
+      "id": "u1f-cp-q6",
+      "q": "'temperature' (උණ තියෙනවා) සහ 'illness' (රෝගය) එකම දෙයද?",
+      "options": [
+        "නෑ — temperature එකක් තියෙනවා කියන්නේ රෝග ලක්ෂණයක් විතරයි, illness එකක් ලොකු දෙයක්",
+        "ඔව්, එකම දෙයම",
+        "'illness' කුඩා දෙයක්, 'temperature' ලොකු දෙයක්",
+        "දෙකම එකම වචනයේ පරිවර්තන"
+      ],
+      "answer": 0,
+      "explainSi": "'a temperature' රෝග ලක්ෂණයක්, 'an illness' රෝගයක්ම."
+    },
+    {
+      "id": "u1f-cp-q7",
+      "q": "'අද වැස්සයි.' — ඉංග්‍රීසියෙන්?",
+      "options": ["Today rains.", "It is raining today.", "Today is rain.", "It rain today."],
+      "answer": 1,
+      "explainSi": "කාලගුණය කියද්දී 'It' (හිස් subject එකක්) භාවිතා කරනවා — 'It is raining.'",
+      "speak": "It is raining today."
+    },
+    {
+      "id": "u1f-cp-q8",
+      "q": "'It' කාලගුණයේදී යොදන්නේ ඇයි — 'it' කියන්නේ මොකක්ටද යොමු වෙන්නේ?",
+      "options": [
+        "කිසිම දෙයකට යොමු වෙන්නේ නෑ — grammar රීතියක් විතරයි",
+        "අහසට",
+        "වැස්සට",
+        "දවසට"
+      ],
+      "answer": 0,
+      "explainSi": "'It' මෙතන 'empty it' — කිසිම නිශ්චිත දෙයකට යොමු නොවී, වාක්‍ය ව්‍යුහයට subject එකක් අවශ්‍ය නිසා විතරයි."
+    },
+    {
+      "id": "u1f-cp-q9",
+      "q": "'කාලගුණය කොහොමද?' — small talk එකකදී අහන්නේ කොහොමද?",
+      "options": ["What weather?", "What's the weather like?", "How weather is?", "Weather how?"],
+      "answer": 1,
+      "explainSi": "'What's the weather like?' — කාලගුණය ගැන අහන සම්මත ප්‍රශ්නය.",
+      "speak": "What's the weather like today?"
+    },
+    {
+      "id": "u1f-cp-q10",
+      "q": "කෙටි සටහනක් ලියද්දී, පූර්ණ වාක්‍ය අවශ්‍යද?",
+      "options": [
+        "නෑ — කෙටියි, තොරතුරු පැහැදිලි නම් ප්‍රමාණවත්",
+        "ඔව්, හැම විටම පූර්ණ වාක්‍ය",
+        "සටහන් ලියන්නම එපා",
+        "ප්‍රශ්නාර්ථ විතරයි යොදන්න ඕන"
+      ],
+      "answer": 0,
+      "explainSi": "සටහනක් කෙටියි, පැහැදිලියි — 'Gone to the shop, back at 5' වගේ, පූර්ණ වාක්‍යයක් නොවුනත් හරි."
+    },
+    {
+      "id": "u1f-cp-q11",
+      "context": "I have a headache and a temperature. It's been raining all day and I got wet on the way home.",
+      "contextSi": "මට හිස රිදෙනවා, උණත් තියෙනවා. මුළු දවසම වහිනවා, ගෙදර එනකොට තෙමුනා.",
+      "q": "මේ වාක්‍යවල රෝග ලක්ෂණ ('headache', 'temperature') සහ කාලගුණය ('raining') දෙකම එනවා. 'It's been raining' හි 'It' කුමන ආකාරයේද?",
+      "options": [
+        "empty it — කාලගුණය ගැන කථා කරද්දී යොදන subject එක",
+        "headache එකට යොමු වෙනවා",
+        "temperature එකට යොමු වෙනවා",
+        "person කෙනෙක්ට යොමු වෙනවා"
+      ],
+      "answer": 0,
+      "explainSi": "'It's been raining' — කාලගුණයේදී යොදන 'empty it', a1-23 හි ඉගෙන ගත් රීතියම."
+    },
+    {
+      "id": "u1f-cp-q12",
+      "q": "'Doctor, my head hurts and I have a temperature. I got wet in the rain by bus.' — මේ වාක්‍යවල 'hurts', 'have', 'by bus' තුනම නිවැරදිද?",
+      "options": [
+        "ඔව් — 'hurts' (රෝග ලක්ෂණය), 'have a temperature' (රෝග ලක්ෂණය), 'by bus' (ප්‍රවාහනය)",
+        "නෑ, 'hurts' වෙනුවට 'hurt' විය යුතුයි",
+        "නෑ, 'by bus' වෙනුවට 'on bus' විය යුතුයි",
+        "නෑ, 'have' වෙනුවට 'am' විය යුතුයි"
+      ],
+      "answer": 0,
+      "explainSi": "තුනම නිවැරදියි — 'my head hurts' (third person 's'), 'have a temperature', 'by bus' (ප්‍රවාහන ක්‍රමය)."
+    }
+  ]
+}

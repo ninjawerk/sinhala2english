@@ -1,0 +1,801 @@
+{
+  "hero": {
+    "src": "images/a1-04-hero.webp",
+    "alt": "Ruwan sitting on the floor of a bright living room surrounded by framed family photographs and a bowl of coloured fruit, holding one photo frame and smiling fondly."
+  },
+  "goalsSi": [
+    "1 සිට 100 දක්වා සංඛ්‍යා කීම",
+    "පවුලේ සාමාජිකයන් හඳුන්වා දීම",
+    "වර්ණ නම් කීම",
+    "'have / has' යොදා ගැනීම"
+  ],
+  "goals": [
+    "Count to 100",
+    "Talk about your family",
+    "Name colours",
+    "Use have and has"
+  ],
+  "sections": [
+    {
+      "type": "grammar",
+      "title": "Numbers 1 to 100",
+      "titleSi": "සංඛ්‍යා 1 සිට 100 දක්වා",
+      "explainSi": "1 සිට 12 දක්වා වචන වෙන වෙනම මතක තියාගන්න ඕන. 13 සිට 19 දක්වා අගට '-teen' එකතු වෙනවා. 20, 30, 40 වගේ දහයේ ගුණාකාරවලට '-ty' එකතු වෙනවා.\n\n21, 32 වගේ අංක හදන්නේ දෙක එකතු කරලා: twenty-one, thirty-two. මැදට කුඩා ඉරක් (hyphen) දානවා.",
+      "formula": "13–19 → -teen   ·   20, 30, 40 → -ty   ·   21 → twenty-one",
+      "table": {
+        "headers": [
+          "#",
+          "English",
+          "#",
+          "English"
+        ],
+        "rows": [
+          [
+            "1",
+            "one",
+            "11",
+            "eleven"
+          ],
+          [
+            "2",
+            "two",
+            "12",
+            "twelve"
+          ],
+          [
+            "3",
+            "three",
+            "13",
+            "thirteen"
+          ],
+          [
+            "4",
+            "four",
+            "14",
+            "fourteen"
+          ],
+          [
+            "5",
+            "five",
+            "15",
+            "fifteen"
+          ],
+          [
+            "6",
+            "six",
+            "20",
+            "twenty"
+          ],
+          [
+            "7",
+            "seven",
+            "30",
+            "thirty"
+          ],
+          [
+            "8",
+            "eight",
+            "40",
+            "forty"
+          ],
+          [
+            "9",
+            "nine",
+            "50",
+            "fifty"
+          ],
+          [
+            "10",
+            "ten",
+            "100",
+            "one hundred"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "I have three brothers.",
+          "si": "මට සහෝදරයෝ තුන්දෙනෙක් ඉන්නවා."
+        },
+        {
+          "en": "My grandmother is seventy-five years old.",
+          "si": "මගේ ආච්චිට අවුරුදු හැත්තෑපහයි."
+        },
+        {
+          "en": "There are twenty-eight students in my class.",
+          "si": "මගේ පන්තියේ ශිෂ්‍යයෝ විසිඅටදෙනෙක් ඉන්නවා."
+        }
+      ],
+      "watchOutSi": "'forty' — 'four' වල 'u' අකුර මෙතන නෑ! 'fourty' කියලා ලියන්නේ නෑ. මේක ඉතා පොදු අක්ෂර වින්‍යාස වැරැද්දක්."
+    },
+    {
+      "type": "vocab",
+      "title": "The family",
+      "titleSi": "පවුල",
+      "introSi": "සිංහලෙන් අපිට වචන ගොඩක් තියෙනවා (අක්කා, නංගී, අයියා, මල්ලී). ඉංග්‍රීසියෙන් 'sister' සහ 'brother' කියලා දෙකයි තියෙන්නේ. වයස කියන්න ඕන නම් 'older' හෝ 'younger' එකතු කරන්න.",
+      "items": [
+        {
+          "en": "family",
+          "si": "පවුල",
+          "say": "ෆැමිලි",
+          "exampleEn": "My family is big.",
+          "exampleSi": "මගේ පවුල විශාලයි."
+        },
+        {
+          "en": "brother",
+          "si": "අයියා / මල්ලී",
+          "say": "බ්‍රදර්",
+          "exampleEn": "My older brother works in Colombo.",
+          "exampleSi": "මගේ අයියා කොළඹ වැඩ කරනවා."
+        },
+        {
+          "en": "sister",
+          "si": "අක්කා / නංගී",
+          "say": "සිස්ටර්",
+          "exampleEn": "I have one younger sister.",
+          "exampleSi": "මට නංගී කෙනෙක් ඉන්නවා."
+        },
+        {
+          "en": "son",
+          "si": "පුතා",
+          "say": "සන්",
+          "exampleEn": "Their son is a doctor.",
+          "exampleSi": "ඔවුන්ගේ පුතා දොස්තර කෙනෙක්."
+        },
+        {
+          "en": "daughter",
+          "si": "දුව",
+          "say": "දෝටර්",
+          "exampleEn": "My daughter loves books.",
+          "exampleSi": "මගේ දුව පොත්වලට ආදරෙයි."
+        },
+        {
+          "en": "grandmother",
+          "si": "ආච්චි",
+          "say": "ග්‍රෑන්ඩ්මදර්",
+          "exampleEn": "My grandmother tells good stories.",
+          "exampleSi": "මගේ ආච්චි හොඳ කතා කියනවා."
+        },
+        {
+          "en": "grandfather",
+          "si": "සීයා",
+          "say": "ග්‍රෑන්ඩ්ෆාදර්",
+          "exampleEn": "My grandfather is eighty.",
+          "exampleSi": "මගේ සීයාට අවුරුදු අසූවයි."
+        },
+        {
+          "en": "uncle",
+          "si": "මාමා",
+          "say": "අන්කල්",
+          "exampleEn": "My uncle lives in Jaffna.",
+          "exampleSi": "මගේ මාමා යාපනයේ ජීවත් වෙනවා."
+        },
+        {
+          "en": "aunt",
+          "si": "නැන්දා",
+          "say": "ආන්ට්",
+          "exampleEn": "My aunt is a teacher.",
+          "exampleSi": "මගේ නැන්දා ගුරුවරියක්."
+        },
+        {
+          "en": "wife",
+          "si": "බිරිඳ",
+          "say": "වයිෆ්",
+          "exampleEn": "His wife is a nurse.",
+          "exampleSi": "එයාගේ බිරිඳ හෙදියක්."
+        },
+        {
+          "en": "husband",
+          "si": "සැමියා",
+          "say": "හස්බන්ඩ්",
+          "exampleEn": "Her husband is a farmer.",
+          "exampleSi": "එයාගේ සැමියා ගොවියෙක්."
+        },
+        {
+          "en": "child",
+          "si": "දරුවා",
+          "say": "චයිල්ඩ්",
+          "exampleEn": "The child is sleeping.",
+          "exampleSi": "දරුවා නිදාගෙන ඉන්නවා."
+        }
+      ]
+    },
+    {
+      "type": "vocab",
+      "title": "Colours",
+      "titleSi": "වර්ණ",
+      "items": [
+        {
+          "en": "red",
+          "si": "රතු",
+          "say": "රෙඩ්",
+          "exampleEn": "A red flower.",
+          "exampleSi": "රතු මලක්."
+        },
+        {
+          "en": "blue",
+          "si": "නිල්",
+          "say": "බ්ලූ",
+          "exampleEn": "The sky is blue.",
+          "exampleSi": "අහස නිල්."
+        },
+        {
+          "en": "green",
+          "si": "කොළ",
+          "say": "ග්‍රීන්",
+          "exampleEn": "Green leaves.",
+          "exampleSi": "කොළ පාට කොළ."
+        },
+        {
+          "en": "yellow",
+          "si": "කහ",
+          "say": "යෙලෝ",
+          "exampleEn": "A yellow banana.",
+          "exampleSi": "කහ කෙසෙල් ගෙඩියක්."
+        },
+        {
+          "en": "black",
+          "si": "කළු",
+          "say": "බ්ලැක්",
+          "exampleEn": "Black hair.",
+          "exampleSi": "කළු කෙස්."
+        },
+        {
+          "en": "white",
+          "si": "සුදු",
+          "say": "වයිට්",
+          "exampleEn": "A white shirt.",
+          "exampleSi": "සුදු කමිසයක්."
+        },
+        {
+          "en": "brown",
+          "si": "දුඹුරු",
+          "say": "බ්‍රවුන්",
+          "exampleEn": "Brown eyes.",
+          "exampleSi": "දුඹුරු ඇස්."
+        },
+        {
+          "en": "orange",
+          "si": "තැඹිලි",
+          "say": "ඔරන්ජ්",
+          "exampleEn": "An orange sunset.",
+          "exampleSi": "තැඹිලි පාට හිරු බැසීමක්."
+        }
+      ]
+    },
+    {
+      "type": "grammar",
+      "title": "have and has",
+      "titleSi": "have සහ has",
+      "explainSi": "යමක් අයිති බව කියන්න 'have' භාවිත කරනවා. He, She, It සමඟ පමණක් 'has' කියලා වෙනස් වෙනවා. සිංහලෙන් 'මට … ඉන්නවා / තියෙනවා' කියන එකට සමානයි.",
+      "formula": "I / You / We / They + have   ·   He / She / It + has",
+      "table": {
+        "headers": [
+          "Subject",
+          "Verb",
+          "Example",
+          "සිංහල"
+        ],
+        "rows": [
+          [
+            "I",
+            "have",
+            "I have a bicycle.",
+            "මට බයිසිකලයක් තියෙනවා."
+          ],
+          [
+            "You",
+            "have",
+            "You have a nice smile.",
+            "ඔබට ලස්සන සිනහවක් තියෙනවා."
+          ],
+          [
+            "He / She",
+            "has",
+            "She has two children.",
+            "එයාට දරුවෝ දෙන්නෙක් ඉන්නවා."
+          ],
+          [
+            "We / They",
+            "have",
+            "They have a big garden.",
+            "ඔවුන්ට විශාල වත්තක් තියෙනවා."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "I have one brother and two sisters.",
+          "si": "මට එක අයියෙක් සහ නංගිලා දෙන්නෙක් ඉන්නවා."
+        },
+        {
+          "en": "My father has a red motorbike.",
+          "si": "මගේ තාත්තාට රතු මෝටර් සයිකලයක් තියෙනවා."
+        },
+        {
+          "en": "We have a small house near the river.",
+          "si": "අපිට ගඟ ළඟ පොඩි ගෙදරක් තියෙනවා."
+        }
+      ],
+      "watchOutSi": "'She have' කියලා කියන්න බෑ — 'She HAS' කියන්නම ඕන. He, She, It තුනට පමණයි 'has'."
+    },
+    {
+      "type": "story",
+      "title": "Grandmother's Garden",
+      "titleSi": "ආච්චිගේ වත්ත",
+      "introSi": "සංඛ්‍යා, වර්ණ සහ පවුලේ වචන කතාවක් තුළ බලමු.",
+      "paragraphs": [
+        {
+          "en": "My grandmother is seventy years old. She has a small garden behind her house.",
+          "si": "මගේ ආච්චිට අවුරුදු හැත්තෑවයි. එයාට ගෙදර පිටිපස්සේ පොඩි වත්තක් තියෙනවා."
+        },
+        {
+          "en": "In the garden there are four mango trees, two coconut trees and many red flowers.",
+          "si": "වත්තේ අඹ ගස් හතරක්, පොල් ගස් දෙකක් සහ රතු මල් ගොඩක් තියෙනවා."
+        },
+        {
+          "en": "Every morning she walks in the garden. She has a green watering can.",
+          "si": "හැම උදෑසනකම එයා වත්තේ ඇවිදිනවා. එයාට කොළ පාට වතුර දාන බඳුනක් තියෙනවා."
+        },
+        {
+          "en": "\"How many mangoes are on that tree?\" I ask. \"Twenty-six,\" she says. \"I count them every day.\"",
+          "si": "\"අර ගහේ අඹ කීයක් තියෙනවද?\" මම අහනවා. \"විසිහයයි,\" එයා කියනවා. \"මම හැමදාම ඒවා ගණන් කරනවා.\""
+        },
+        {
+          "en": "My grandmother is old, but she is not tired. Her garden keeps her young.",
+          "si": "මගේ ආච්චි වයසයි, නමුත් එයා මහන්සි නෑ. වත්ත එයාව තරුණව තියාගන්නවා."
+        }
+      ],
+      "glossary": [
+        {
+          "en": "behind",
+          "si": "පිටිපස්සේ"
+        },
+        {
+          "en": "mango",
+          "si": "අඹ"
+        },
+        {
+          "en": "coconut",
+          "si": "පොල්"
+        },
+        {
+          "en": "flower",
+          "si": "මල"
+        },
+        {
+          "en": "count",
+          "si": "ගණන් කරනවා"
+        },
+        {
+          "en": "walk",
+          "si": "ඇවිදිනවා"
+        },
+        {
+          "en": "many",
+          "si": "බොහෝ"
+        }
+      ],
+      "questionsSi": [
+        "ආච්චිගේ වයස කීයද?",
+        "වත්තේ අඹ ගස් කීයක් තියෙනවද?",
+        "ආච්චිගේ වතුර දාන බඳුනේ පාට කුමක්ද?"
+      ]
+    },
+    {
+      "type": "practice",
+      "title": "Numbers and family",
+      "titleSi": "සංඛ්‍යා සහ පවුල",
+      "instructionSi": "ඉංග්‍රීසියෙන් පිළිතුරු ලියන්න.",
+      "items": [
+        {
+          "prompt": "15 → ___",
+          "answer": "fifteen",
+          "hintSi": "'five' + 'teen' නමුත් අක්ෂර වින්‍යාසය ටිකක් වෙනස්.",
+          "full": "Fifteen students are here."
+        },
+        {
+          "prompt": "40 → ___",
+          "answer": "forty",
+          "hintSi": "'four' වල 'u' අකුර නෑ.",
+          "full": "My uncle is forty years old."
+        },
+        {
+          "prompt": "'ආච්චි' → ___",
+          "answer": "grandmother",
+          "hintSi": "grand + mother.",
+          "full": "My grandmother is kind."
+        },
+        {
+          "prompt": "She ___ two children.",
+          "answer": "has",
+          "hintSi": "She සමඟ එන එක.",
+          "full": "She has two children."
+        },
+        {
+          "prompt": "We ___ a new house.",
+          "answer": "have",
+          "hintSi": "We සමඟ එන එක.",
+          "full": "We have a new house."
+        },
+        {
+          "prompt": "'කහ' → ___",
+          "answer": "yellow",
+          "hintSi": "අකුරු 6යි, 'l' දෙකක්.",
+          "full": "A yellow flower."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "en": "family",
+      "si": "පවුල"
+    },
+    {
+      "en": "brother",
+      "si": "අයියා / මල්ලී"
+    },
+    {
+      "en": "sister",
+      "si": "අක්කා / නංගී"
+    },
+    {
+      "en": "son",
+      "si": "පුතා"
+    },
+    {
+      "en": "grandmother",
+      "si": "ආච්චි"
+    },
+    {
+      "en": "grandfather",
+      "si": "සීයා"
+    },
+    {
+      "en": "uncle",
+      "si": "මාමා"
+    },
+    {
+      "en": "aunt",
+      "si": "නැන්දා"
+    },
+    {
+      "en": "wife",
+      "si": "බිරිඳ"
+    },
+    {
+      "en": "husband",
+      "si": "සැමියා"
+    },
+    {
+      "en": "child",
+      "si": "දරුවා"
+    },
+    {
+      "en": "red",
+      "si": "රතු"
+    },
+    {
+      "en": "blue",
+      "si": "නිල්"
+    },
+    {
+      "en": "green",
+      "si": "කොළ"
+    },
+    {
+      "en": "yellow",
+      "si": "කහ"
+    },
+    {
+      "en": "black",
+      "si": "කළු"
+    },
+    {
+      "en": "white",
+      "si": "සුදු"
+    },
+    {
+      "en": "brown",
+      "si": "දුඹුරු"
+    },
+    {
+      "en": "mango",
+      "si": "අඹ"
+    },
+    {
+      "en": "flower",
+      "si": "මල"
+    },
+    {
+      "en": "count",
+      "si": "ගණන් කරනවා"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "a1-04-q1",
+      "q": "40 ඉංග්‍රීසියෙන් ලියන්නේ කෙසේද?",
+      "options": [
+        "fourty",
+        "forty",
+        "fourteen",
+        "fortty"
+      ],
+      "answer": 1,
+      "explainSi": "'forty' — 'u' අකුර නෑ. 'fourteen' යනු 14යි.",
+      "speak": "forty"
+    },
+    {
+      "id": "a1-04-q2",
+      "q": "'She ___ three cats.' — නිවැරදි වචනය?",
+      "options": [
+        "have",
+        "has",
+        "haves",
+        "having"
+      ],
+      "answer": 1,
+      "explainSi": "He, She, It සමඟ 'has'.",
+      "speak": "She has three cats."
+    },
+    {
+      "id": "a1-04-q3",
+      "q": "'ආච්චි' යන්නට ඉංග්‍රීසි වචනය?",
+      "options": [
+        "grandfather",
+        "grandmother",
+        "aunt",
+        "mother"
+      ],
+      "answer": 1,
+      "explainSi": "grandmother = ආච්චි, grandfather = සීයා.",
+      "speak": "grandmother"
+    },
+    {
+      "id": "a1-04-q4",
+      "q": "'The sky is ___.' — අහසේ පාට කුමක්ද?",
+      "options": [
+        "green",
+        "blue",
+        "brown",
+        "black"
+      ],
+      "answer": 1,
+      "explainSi": "blue = නිල්. අහස නිල් පාටයි.",
+      "speak": "The sky is blue."
+    },
+    {
+      "id": "a1-04-q5",
+      "q": "21 ලියන නිවැරදි ක්‍රමය කුමක්ද?",
+      "options": [
+        "twentyone",
+        "twenty one",
+        "twenty-one",
+        "two-one"
+      ],
+      "answer": 2,
+      "explainSi": "21 සිට 99 දක්වා සංයුක්ත සංඛ්‍යාවලට මැදින් hyphen එකක් දානවා: twenty-one, thirty-five.",
+      "speak": "twenty-one"
+    },
+    {
+      "id": "a1-04-q6",
+      "q": "'මට අයියෙක් ඉන්නවා' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "I has a brother.",
+        "I have a brother.",
+        "Me have a brother.",
+        "I am a brother."
+      ],
+      "answer": 1,
+      "explainSi": "I සමඟ 'have'. සිංහල 'මට ඉන්නවා' කියන එකට ඉංග්‍රීසියෙන් 'I have' යෙදෙනවා.",
+      "speak": "I have a brother."
+    },
+    {
+      "id": "a1-04-q7",
+      "q": "ඉංග්‍රීසියෙන් 'අක්කා' සහ 'නංගී' දෙකටම යෙදෙන වචනය?",
+      "options": [
+        "brother",
+        "sister",
+        "aunt",
+        "daughter"
+      ],
+      "answer": 1,
+      "explainSi": "දෙකටම 'sister'. වයස වෙන් කරන්න 'older sister' හෝ 'younger sister' කියන්න."
+    },
+    {
+      "id": "a1-04-q8",
+      "context": "My grandmother is seventy years old. She has a small garden behind her house.",
+      "contextSi": "මගේ ආච්චිට අවුරුදු හැත්තෑවයි. එයාට ගෙදර පිටිපස්සේ පොඩි වත්තක් තියෙනවා.",
+      "q": "කතාවේ ආච්චිට අවුරුදු කීයද?",
+      "options": [
+        "sixty",
+        "seventy",
+        "seventeen",
+        "eighty"
+      ],
+      "answer": 1,
+      "explainSi": "'My grandmother is seventy years old.' — හැත්තෑවයි. 'seventeen' යනු 17යි, එය ඉතා වෙනස්.",
+      "speak": "My grandmother is seventy years old."
+    },
+    {
+      "id": "a1-04-q9",
+      "q": "'He ___ two brothers.' — හිස්තැනට?",
+      "options": [
+        "have",
+        "has",
+        "haves",
+        "is have"
+      ],
+      "answer": 1,
+      "explainSi": "he/she/it සමඟ 'has'. අනිත් හැම එකකටම 'have'.",
+      "speak": "He has two brothers."
+    },
+    {
+      "id": "a1-04-q10",
+      "q": "'We ___ a small house.' — හිස්තැනට?",
+      "options": [
+        "has",
+        "have",
+        "is",
+        "are"
+      ],
+      "answer": 1,
+      "explainSi": "'we' සමඟ 'have'."
+    },
+    {
+      "id": "a1-04-q11",
+      "q": "15 ඉංග්‍රීසියෙන් ලියන්නේ කෙසේද?",
+      "options": [
+        "fiveteen",
+        "fifteen",
+        "fivety",
+        "fifty"
+      ],
+      "answer": 1,
+      "explainSi": "fifteen = 15, fifty = 50. ශබ්දය ළඟයි — වෙනස තියෙන්නේ අවධාරණයේ."
+    },
+    {
+      "id": "a1-04-q12",
+      "q": "'fifteen' සහ 'fifty' පටලවා ගන්නේ ඇයි, වෙනස හඳුනාගන්නේ කොහොමද?",
+      "options": [
+        "වෙනසක් නෑ",
+        "දෙකේම මුල එකයි — අන්තිම කොටස (-teen / -ty) බලන්න ඕන",
+        "'fifty' පොඩියි",
+        "දෙකම එකම අංකය"
+      ],
+      "answer": 1,
+      "explainSi": "-teen අවසන් වන ඒවා 13–19. -ty අවසන් වන ඒවා 20, 30, 40 …"
+    },
+    {
+      "id": "a1-04-q13",
+      "q": "'සීයා' යන්නට ඉංග්‍රීසි වචනය?",
+      "options": [
+        "grandmother",
+        "grandfather",
+        "uncle",
+        "father"
+      ],
+      "answer": 1,
+      "explainSi": "grandfather = සීයා, grandmother = ආච්චි."
+    },
+    {
+      "id": "a1-04-q14",
+      "q": "'මාමා' සහ 'බාප්පා' දෙකටම යෙදෙන ඉංග්‍රීසි වචනය?",
+      "options": [
+        "cousin",
+        "uncle",
+        "brother",
+        "nephew"
+      ],
+      "answer": 1,
+      "explainSi": "ඉංග්‍රීසියේ 'uncle' එකයි. සිංහලේ වගේ පැත්ත අනුව වචන වෙනස් වෙන්නේ නෑ."
+    },
+    {
+      "id": "a1-04-q15",
+      "q": "'ගසේ කොළ පාට කුමක්ද?' — 'The leaves are ___.'",
+      "options": [
+        "blue",
+        "green",
+        "brown",
+        "white"
+      ],
+      "answer": 1,
+      "explainSi": "green = කොළ පාට."
+    },
+    {
+      "id": "a1-04-q16",
+      "q": "'මට සහෝදරයෝ නෑ' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "I have no brothers.",
+        "I haven't brothers.",
+        "I not have brothers.",
+        "I has no brothers."
+      ],
+      "answer": 0,
+      "explainSi": "'I have no brothers' හෝ 'I don't have any brothers' — දෙකම හරි.",
+      "speak": "I have no brothers."
+    },
+    {
+      "id": "a1-04-q17",
+      "q": "100 ඉංග්‍රීසියෙන්?",
+      "options": [
+        "one hundred",
+        "hundred one",
+        "ten ten",
+        "one thousand"
+      ],
+      "answer": 0,
+      "explainSi": "'a hundred' කිව්වත් හරි."
+    },
+    {
+      "id": "a1-04-q18",
+      "context": "My grandmother is seventy years old. She has a small garden behind her house. In the garden there are four mango trees, two coconut trees and many red flowers.",
+      "contextSi": "මගේ ආච්චිට අවුරුදු හැත්තෑවයි. එයාගේ ගෙදර පිටිපස්සේ පොඩි වත්තක් තියෙනවා. වත්තේ අඹ ගස් හතරක්, පොල් ගස් දෙකක් සහ රතු මල් ගොඩක් තියෙනවා.",
+      "q": "කතාව අනුව: වත්තේ ගස් කීයක් තියෙනවාද?",
+      "options": [
+        "හතරක්",
+        "දෙකක්",
+        "හයක්",
+        "ගොඩක්"
+      ],
+      "answer": 2,
+      "explainSi": "අඹ හතරක් + පොල් දෙකක් = හයක්. ප්‍රශ්නය කියවලා එකතු කරන්න ඕන."
+    },
+    {
+      "id": "a1-04-q19",
+      "context": "Every morning she walks in the garden. She has a green watering can.",
+      "contextSi": "හැම උදෑසනකම එයා වත්තේ ඇවිදිනවා. එයාට කොළ පාට වතුර දාන බඳුනක් තියෙනවා.",
+      "q": "කතාව අනුව: 'She has' යෙදෙන්නේ ඇයි, 'She have' නොවේ?",
+      "options": [
+        "'watering can' එකක් නිසා",
+        "'she' සමඟ හැම විටම 'has'",
+        "එය අතීතය නිසා",
+        "වැරදීමකින්"
+      ],
+      "answer": 1,
+      "explainSi": "he/she/it → has. අයිතියේ ප්‍රමාණයට වැඩක් නෑ."
+    },
+    {
+      "id": "a1-04-q20",
+      "context": "\"How many mangoes are on that tree?\" I ask. \"Twenty-six,\" she says. \"I count them every day.\"",
+      "contextSi": "\"අර ගහේ අඹ කීයක් තියෙනවාද?\" මම අහනවා. \"විසි හයක්,\" එයා කියනවා. \"මම හැම දාම ඒවා ගණන් කරනවා.\"",
+      "q": "කතාව අනුව: ආච්චිට හරි ගණන දැනගෙන ඉන්නේ ඇයි?",
+      "options": [
+        "එයා අඹ විකුණන නිසා",
+        "එයා හැම දාම ඒවා ගණන් කරන නිසා",
+        "එයා ගණන් හදන්න දක්ෂ නිසා",
+        "කවුරුහරි කිව්ව නිසා"
+      ],
+      "answer": 1,
+      "explainSi": "'I count them every day' — පුරුද්දක්, එනිසා සරල ස්වරූපය."
+    },
+    {
+      "id": "a1-04-q21",
+      "context": "My grandmother is old, but she is not tired. Her garden keeps her young.",
+      "contextSi": "මගේ ආච්චි වයසකයි, හැබැයි එයා මහන්සි නෑ. වත්ත එයාව තරුණව තියාගන්නවා.",
+      "q": "කතාව අනුව: අන්තිම වාක්‍යයෙන් අදහස් වන්නේ කුමක්ද?",
+      "options": [
+        "වත්තේ තරුණ ගස් තියෙනවා",
+        "වත්තේ වැඩ එයාව ක්‍රියාශීලීව තියාගන්නවා",
+        "එයාට වයස අඩුයි",
+        "වත්ත පොඩියි"
+      ],
+      "answer": 1,
+      "explainSi": "'old, but not tired' — වයස සහ මහන්සිය එකම දෙයක් නෙවෙයි කියලා කතාව කියනවා."
+    },
+    {
+      "id": "a1-04-q22",
+      "q": "'have' සහ 'has' අතර තෝරන්නේ කොහොමද?",
+      "options": [
+        "දෙයේ ප්‍රමාණය අනුව",
+        "කර්තෘව අනුව — he, she, it නම් has, අනිත් හැම එකකටම have",
+        "වාක්‍යයේ දිග අනුව",
+        "වෙනසක් නෑ"
+      ],
+      "answer": 1,
+      "explainSi": "'She has three cats' සහ 'They have one cat' — ගණන නෙවෙයි, කර්තෘවයි තීරණය කරන්නේ."
+    }
+  ]
+}

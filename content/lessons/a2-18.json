@@ -1,0 +1,827 @@
+{
+  "hero": {
+    "src": "images/a2-18-hero.webp",
+    "alt": "Nadeesha at a bank counter putting a card into her purse, a teller window and a queue rail behind her, cool bright interior."
+  },
+  "goalsSi": [
+    "I'd like to open an account, please. — ගිණුමක් විවෘත කිරීම",
+    "Could I withdraw / deposit some money? — මුදල් ගැනීම සහ තැන්පත් කිරීම",
+    "ATM එක භාවිතා කිරීම — Insert your card. Enter your PIN. Select an amount.",
+    "What's the exchange rate for…? — විනිමය අනුපාතය"
+  ],
+  "goals": [
+    "Open a bank account",
+    "Withdraw or deposit money at the counter",
+    "Follow ATM instructions",
+    "Ask about the exchange rate"
+  ],
+  "sections": [
+    {
+      "type": "note",
+      "title": "Formal words, simple ideas",
+      "titleSi": "විධිමත් වචන, සරල අදහස්",
+      "bodySi": "බැංකුවක වචන ටිකක් විධිමත් — 'account', 'withdraw', 'deposit', 'exchange rate' — නමුත් අදහස් සරලයි: ගිණුමක් ඇරීම, මුදල් ගැනීම, මුදල් තැබීම, එක් මුදලක් තව මුදලකට මාරු කිරීම.\n\nATM එකේදී තියෙන්නේ එකින් එක උපදෙස් — a1-19 හි ඉගෙන ගත් 'Telling People What to Do' පාඩමේ command form එකම: 'Insert your card. Enter your PIN.' — ක්‍රියාවෙන්ම පටන් ගන්නවා, subject එකක් නැතුව.",
+      "body": "Banking words sound formal but the ideas are simple: opening an account, taking out money, putting money in, changing one currency to another."
+    },
+    {
+      "type": "grammar",
+      "title": "Opening an account",
+      "titleSi": "ගිණුමක් විවෘත කිරීම",
+      "explainSi": "ගිණුමක් අරින්න ඕන කියලා කියන්නේ 'I'd like to open an account, please.' කියලා. බැංකුවේ සේවකයා ID එකක් සහ ලිපිනය සනාථ කරන දෙයක් (proof of address) අහයි, savings හෝ current ගිණුමක් ද කියලා අහයි.",
+      "formula": "I'd like to open a/an + noun, please.",
+      "table": {
+        "headers": [
+          "වාක්‍යය",
+          "සිංහල"
+        ],
+        "rows": [
+          [
+            "I'd like to open an account, please.",
+            "ගිණුමක් විවෘත කරන්න ඕන."
+          ],
+          [
+            "Could I see your ID and proof of address?",
+            "ඔබේ හැඳුනුම්පත සහ ලිපිනය සනාථ කරන දෙයක් බලන්න පුළුවන්ද?"
+          ],
+          [
+            "Would you like a savings or a current account?",
+            "savings ගිණුමක්ද, current ගිණුමක්ද?"
+          ],
+          [
+            "A savings account, please.",
+            "savings ගිණුමක්, කරුණාකර."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "Hello, I'd like to open a savings account, please.",
+          "si": "හලෝ, savings ගිණුමක් විවෘත කරන්න ඕන."
+        },
+        {
+          "en": "Could I see your ID and proof of address? — Yes, here's my passport and a utility bill.",
+          "si": "ID එක සහ ලිපිනය සනාථ කරන දෙයක් බලන්න පුළුවන්ද? — ඔව්, මෙන්න මගේ පාස්පෝට් එක සහ ලයිට් බිල්පත."
+        }
+      ],
+      "watchOutSi": "'account' කියන්නේ බැංකු ගිණුම — 'accountant' (ගණකාධිකාරී) කියන එක වෙනස් වචනයක්, පටලවා ගන්න එපා."
+    },
+    {
+      "type": "grammar",
+      "title": "Withdrawing and depositing",
+      "titleSi": "මුදල් ගැනීම සහ තැන්පත් කිරීම",
+      "explainSi": "බැංකු කවුන්ටරයේදී මුදල් ගන්නේ 'Could I withdraw...?' කියලා, තැන්පත් කරන්නේ 'I'd like to deposit...' කියලා. 'withdraw' — ගිණුමෙන් මුදල් එළියට ගැනීම, 'deposit' — ගිණුමට මුදල් තැබීම.",
+      "formula": "Could I withdraw…? / I'd like to deposit…",
+      "table": {
+        "headers": [
+          "වාක්‍යය",
+          "සිංහල"
+        ],
+        "rows": [
+          [
+            "Could I withdraw some money, please?",
+            "මුදල් ටිකක් ගන්න පුළුවන්ද?"
+          ],
+          [
+            "I'd like to deposit this cheque.",
+            "මේ චෙක්පත තැන්පත් කරන්න ඕන."
+          ],
+          [
+            "How much would you like to withdraw?",
+            "කීයක් ගන්න ඕනද?"
+          ],
+          [
+            "Could I check my balance, please?",
+            "මගේ ශේෂය බලන්න පුළුවන්ද?"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "Could I withdraw twenty thousand rupees, please?",
+          "si": "රුපියල් විස්සක් ගන්න පුළුවන්ද?"
+        },
+        {
+          "en": "I'd like to deposit this into my savings account.",
+          "si": "මේක මගේ savings ගිණුමට තැන්පත් කරන්න ඕන."
+        }
+      ],
+      "watchOutSi": "'withdraw' සහ 'deposit' දෙකම විරුද්ධ ක්‍රියා — 'withdraw' එළියට, 'deposit' ඇතුළට. පටලවා ගත්තොත් වැරදි මුදල් ගණුදෙනුවක් ඉල්ලා ඇති."
+    },
+    {
+      "type": "grammar",
+      "title": "Using the ATM",
+      "titleSi": "ATM එක භාවිතා කිරීම",
+      "explainSi": "ATM තිරයේ උපදෙස් එන්නේ command form එකෙන් — a1-19 හි ඉගෙන ගත් 'Telling People What to Do' රටාවම, ක්‍රියාවෙන්ම පටන් ගන්නවා.",
+      "formula": "Insert your card. Enter your PIN. Select an amount. Take your card and cash.",
+      "table": {
+        "headers": [
+          "උපදෙස",
+          "සිංහල"
+        ],
+        "rows": [
+          [
+            "Insert your card.",
+            "ඔබේ කාඩ්පත ඇතුළත් කරන්න."
+          ],
+          [
+            "Enter your PIN.",
+            "ඔබේ PIN අංකය ඇතුළත් කරන්න."
+          ],
+          [
+            "Select an amount.",
+            "මුදලක් තෝරන්න."
+          ],
+          [
+            "Take your card and cash.",
+            "ඔබේ කාඩ්පත සහ මුදල් ගන්න."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "First, insert your card, then enter your PIN.",
+          "si": "මුලින්ම, කාඩ්පත ඇතුළත් කරන්න, පසුව PIN අංකය ඇතුළත් කරන්න."
+        },
+        {
+          "en": "Select 'withdraw cash' and then choose an amount.",
+          "si": "'withdraw cash' තෝරලා, පසුව මුදලක් තෝරන්න."
+        }
+      ],
+      "watchOutSi": "'PIN' කියන්නේ Personal Identification Number එකේ කෙටි නම — කිසි විටෙකත් වෙන කෙනෙක්ට කියන්න එපා."
+    },
+    {
+      "type": "grammar",
+      "title": "The exchange rate",
+      "titleSi": "විනිමය අනුපාතය",
+      "explainSi": "එක් රටක මුදලක් තව රටක මුදලකට මාරු කරද්දී, විනිමය අනුපාතය (exchange rate) අහනවා. 'What's the exchange rate for...?' කියලා අහලා, 'Could you exchange this into...?' කියලා ඉල්ලනවා.",
+      "formula": "What's the exchange rate for + currency?",
+      "table": {
+        "headers": [
+          "වාක්‍යය",
+          "සිංහල"
+        ],
+        "rows": [
+          [
+            "What's the exchange rate for dollars today?",
+            "අද ඩොලර් වල විනිමය අනුපාතය මොකක්ද?"
+          ],
+          [
+            "Could you exchange this into rupees?",
+            "මේක රුපියල් වලට මාරු කරන්න පුළුවන්ද?"
+          ],
+          [
+            "How much is a hundred dollars in rupees?",
+            "ඩොලර් සීයක් රුපියල් වලින් කීයද?"
+          ],
+          [
+            "There's a small fee for exchanging currency.",
+            "මුදල් මාරු කිරීමට කුඩා ගාස්තුවක් තියෙනවා."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "What's the exchange rate for euros today?",
+          "si": "අද යූරෝ වල විනිමය අනුපාතය මොකක්ද?"
+        },
+        {
+          "en": "Could you exchange two hundred dollars into rupees, please?",
+          "si": "ඩොලර් දෙසීයක් රුපියල් වලට මාරු කරන්න පුළුවන්ද?"
+        }
+      ],
+      "watchOutSi": "'exchange rate' දවසින් දවස වෙනස් වෙනවා — 'What's the exchange rate today?' කියලා අහන එක සාමාන්‍යයි, ස්ථිර අගයක් නෙවෙයි."
+    },
+    {
+      "type": "vocab",
+      "title": "At the bank",
+      "titleSi": "බැංකුවේ",
+      "items": [
+        {
+          "en": "account",
+          "si": "ගිණුම",
+          "say": "අකවුන්ට්"
+        },
+        {
+          "en": "balance",
+          "si": "ශේෂය",
+          "say": "බැලන්ස්"
+        },
+        {
+          "en": "deposit",
+          "si": "තැන්පත් කරනවා",
+          "say": "ඩිපොසිට්"
+        },
+        {
+          "en": "withdraw",
+          "si": "ආපසු ගන්නවා",
+          "say": "විත්ඩ්‍රෝ"
+        },
+        {
+          "en": "ATM",
+          "si": "ATM එක",
+          "say": "ඒ ටී එම්"
+        },
+        {
+          "en": "PIN",
+          "si": "PIN අංකය",
+          "say": "පින්"
+        },
+        {
+          "en": "exchange rate",
+          "si": "විනිමය අනුපාතය",
+          "say": "එක්ස්චේන්ජ් රේට්"
+        },
+        {
+          "en": "currency",
+          "si": "මුදල් වර්ගය",
+          "say": "කරන්සි"
+        },
+        {
+          "en": "cheque",
+          "si": "චෙක්පත",
+          "say": "චෙක්"
+        },
+        {
+          "en": "statement",
+          "si": "ගිණුම් ප්‍රකාශනය",
+          "say": "ස්ටේට්මන්ට්"
+        },
+        {
+          "en": "transfer",
+          "si": "මාරු කරනවා",
+          "say": "ට්‍රාන්ස්ෆර්"
+        },
+        {
+          "en": "teller",
+          "si": "බැංකු කවුන්ටර් සේවකයා",
+          "say": "ටෙලර්"
+        }
+      ]
+    },
+    {
+      "type": "story",
+      "title": "Dinithi's First Account",
+      "titleSi": "දිනිති‍ගේ පළමු ගිණුම",
+      "introSi": "අලුතින් රැකියාවක් ලැබූ දිනිතී තමන්ගේම මුල් බැංකු ගිණුම ඇරගන්නා කතාවක්. බැංකු වාක්‍ය ගණන් කරන්න.",
+      "paragraphs": [
+        {
+          "en": "Dinithi had just started her first job, and she needed a bank account for her salary. She walked into the nearest branch, a little nervous — she had never done this alone before.",
+          "si": "දිනිතී අලුතින්ම එයාගේ මුල් රැකියාව පටන් ගත්තා, එයාට ශම්පිලයට බැංකු ගිණුමක් ඕන වුණා. ළඟම ශාඛාවට ගියා, ටිකක් නර්වස්ව — මීට කලින් තනියම මේක කරලා නෑ."
+        },
+        {
+          "en": "\"Hello, I'd like to open an account, please,\" she said at the counter. \"Would you like a savings or a current account?\" the teller asked. \"A savings account, please — this is for my salary.\"",
+          "si": "\"හලෝ, ගිණුමක් විවෘත කරන්න ඕන,\" කවුන්ටරයේදී එයා කිව්වා. \"savings ගිණුමක්ද, current ගිණුමක්ද?\" ටෙලර් ඇහුවා. \"savings ගිණුමක්, කරුණාකර — මේක මගේ ශම්පිලයට.\""
+        },
+        {
+          "en": "\"Could I see your ID and proof of address?\" Dinithi handed over her ID card and a phone bill. Twenty minutes later, she had a new account number and an ATM card in her hand.",
+          "si": "\"ID එක සහ ලිපිනය සනාථ කරන දෙයක් බලන්න පුළුවන්ද?\" දිනිතී එයාගේ ID කාඩ්පත සහ දුරකථන බිල්පත දුන්නා. විනාඩි විස්සකට පස්සේ, එයාට අලුත් ගිණුම් අංකයක් සහ ATM කාඩ්පතක් ලැබුනා."
+        },
+        {
+          "en": "A week later, her first salary arrived, and she went to try the ATM for the first time. She read the instructions carefully: insert your card, enter your PIN, select an amount.",
+          "si": "සතියකට පස්සේ, එයාගේ මුල් ශම්පිලය ලැබුනා, ATM එක මුල් වතාවට උත්සාහ කරන්න ගියා. උපදෙස් හොඳින් කියෙව්වා: කාඩ්පත ඇතුළත් කරන්න, PIN එක ඇතුළත් කරන්න, මුදලක් තෝරන්න."
+        },
+        {
+          "en": "Her hands shook a little as she typed her PIN, but the machine counted the notes and handed them over smoothly. She felt strangely proud, holding her own money for the first time.",
+          "si": "PIN එක ටයිප් කරද්දී එයාගේ අත් ටිකක් ගැහෙනවා තිබුනා, නමුත් යන්ත්‍රය සල්ලි ගණන් කරලා හොඳින් දුන්නා. තමන්ගේම මුදල් අතට ගත්තාම, අමුතු ආඩම්බරයක් දැනුනා."
+        },
+        {
+          "en": "A month later, her brother, studying abroad, asked her to send some money. She went back to the bank. \"What's the exchange rate for dollars today?\" she asked, and transferred the money without any trouble at all.",
+          "si": "මාසයකට පස්සේ, විදේශයක ඉගෙනගන්නා එයාගේ සහෝදරයා, ටිකක් සල්ලි යවන්න කිව්වා. ආයෙත් බැංකුවට ගියා. \"අද ඩොලර් වල විනිමය අනුපාතය මොකක්ද?\" ඇහුවා, කිසිම ප්‍රශ්නයක් නැතුව මුදල් මාරු කළා."
+        }
+      ],
+      "glossary": [
+        {
+          "en": "branch",
+          "si": "ශාඛාව"
+        },
+        {
+          "en": "nervous",
+          "si": "නර්වස්"
+        },
+        {
+          "en": "handed over",
+          "si": "දුන්නා (අතට)"
+        },
+        {
+          "en": "shook",
+          "si": "ගැහුනා"
+        },
+        {
+          "en": "smoothly",
+          "si": "හොඳින්, බාධාවක් නැතුව"
+        }
+      ],
+      "questionsSi": [
+        "දිනිතී බැංකුවට ගියේ ඇයි?",
+        "දිනිතී තෝරගත්තේ කුමන වර්ගයේ ගිණුමක්ද?",
+        "ATM එකෙන් මුදල් ගැනීමේදී දිනිතී පිළිපදින්නේ මොකද්ද?",
+        "අන්තිමට දිනිතී බැංකුවට ගියේ ඇයි?"
+      ]
+    },
+    {
+      "type": "poem",
+      "title": "The Small Card",
+      "titleSi": "කුඩා කාඩ්පත",
+      "introSi": "පළමු බැංකු කාඩ්පත, පළමු වතාවට තමන්ගේම මුදල් හසුරුවීම ගැන කවියක්.",
+      "lines": [
+        {
+          "en": "A small card, a number, my own name —",
+          "si": "කුඩා කාඩ්පතක්, අංකයක්, මගේම නම —"
+        },
+        {
+          "en": "No one taught me this could feel so grand.",
+          "si": "මෙය මෙච්චර ලොකුවට දැනෙයි කියලා කවුරුවත් උගැන්නුවේ නෑ."
+        },
+        {
+          "en": "Insert, enter, select — three small steps,",
+          "si": "ඇතුළත් කරන්න, දාන්න, තෝරන්න — කුඩා පියවර තුනක්,"
+        },
+        {
+          "en": "And the machine puts money in my hand.",
+          "si": "යන්ත්‍රය මගේ අතට මුදල් තියනවා."
+        },
+        {
+          "en": "",
+          "si": ""
+        },
+        {
+          "en": "It's only paper, only ink and wire,",
+          "si": "ඒක කඩදාසි විතරයි, තීන්ත සහ රැහැන් විතරයි,"
+        },
+        {
+          "en": "Yet something in me stands a little taller —",
+          "si": "නමුත් මගේ තුළ යමක් ටිකක් උස ඉන්නවා —"
+        },
+        {
+          "en": "The first time earning, saving, spending free,",
+          "si": "පළමු වතාවට උපයමින්, ඉතුරු කරමින්, නිදහසේ වියදම් කරමින්,"
+        },
+        {
+          "en": "No longer someone's child, but my own caller.",
+          "si": "තව කෙනෙක්ගේ දරුවෙක් නෙවෙයි, තමන්ගේම තීරණ ගන්නා කෙනෙක්."
+        }
+      ],
+      "noteSi": "'Insert, enter, select' — ATM එකේම උපදෙස් තුන, කවියටත් ගැලපෙනවා."
+    },
+    {
+      "type": "dialogue",
+      "title": "Exchanging currency",
+      "titleSi": "මුදල් මාරු කිරීම",
+      "settingSi": "සංචාරකයෙක් බැංකුවේදී ඩොලර් රුපියල් වලට මාරු කරගන්නවා.",
+      "lines": [
+        {
+          "speaker": "Traveller",
+          "en": "Hello, could you exchange this into rupees, please?",
+          "si": "හලෝ, මේක රුපියල් වලට මාරු කරන්න පුළුවන්ද?"
+        },
+        {
+          "speaker": "Teller",
+          "en": "Of course. How much would you like to exchange?",
+          "si": "ඇත්තෙන්ම. කීයක් මාරු කරන්න ඕනද?"
+        },
+        {
+          "speaker": "Traveller",
+          "en": "Two hundred dollars. What's the exchange rate today?",
+          "si": "ඩොලර් දෙසීයක්. අද විනිමය අනුපාතය මොකක්ද?"
+        },
+        {
+          "speaker": "Teller",
+          "en": "It's three hundred and five rupees to the dollar today. There's also a small fee.",
+          "si": "අද ඩොලරයකට රුපියල් තුන්සිය පහයි. කුඩා ගාස්තුවකුත් තියෙනවා."
+        },
+        {
+          "speaker": "Traveller",
+          "en": "That's fine. Could I also check the balance on my card?",
+          "si": "කම් නෑ. මගේ කාඩ්පතේ ශේෂය බලන්නත් පුළුවන්ද?"
+        },
+        {
+          "speaker": "Teller",
+          "en": "Certainly. Could I see your card and ID, please?",
+          "si": "ඇත්තෙන්ම. ඔබේ කාඩ්පත සහ ID එක බලන්න පුළුවන්ද?"
+        },
+        {
+          "speaker": "Traveller",
+          "en": "Here you go. Thank you for your help.",
+          "si": "මෙන්න. උදව්වට ස්තූතියි."
+        }
+      ]
+    },
+    {
+      "type": "practice",
+      "title": "Complete the bank phrase",
+      "titleSi": "බැංකු වාක්‍යය සම්පූර්ණ කරන්න",
+      "instructionSi": "දුන් තත්ත්වයට ගැලපෙන බැංකු වාක්‍යය ලියන්න.",
+      "items": [
+        {
+          "prompt": "opening a new account",
+          "answer": "I'd like to open an account, please.",
+          "hintSi": "I'd like to open an account, please.",
+          "full": "I'd like to open an account, please."
+        },
+        {
+          "prompt": "taking money out",
+          "answer": "Could I withdraw some money, please?",
+          "hintSi": "Could I withdraw...?",
+          "full": "Could I withdraw some money, please?"
+        },
+        {
+          "prompt": "putting money in",
+          "answer": "I'd like to deposit this cheque.",
+          "hintSi": "I'd like to deposit...",
+          "full": "I'd like to deposit this cheque."
+        },
+        {
+          "prompt": "first step at the ATM",
+          "answer": "Insert your card.",
+          "hintSi": "Insert your card.",
+          "full": "Insert your card."
+        },
+        {
+          "prompt": "second step at the ATM",
+          "answer": "Enter your PIN.",
+          "hintSi": "Enter your PIN.",
+          "full": "Enter your PIN."
+        },
+        {
+          "prompt": "asking about dollars to rupees",
+          "answer": "What's the exchange rate for dollars today?",
+          "hintSi": "What's the exchange rate for...?",
+          "full": "What's the exchange rate for dollars today?"
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "en": "account",
+      "si": "ගිණුම"
+    },
+    {
+      "en": "balance",
+      "si": "ශේෂය"
+    },
+    {
+      "en": "deposit",
+      "si": "තැන්පත් කරනවා"
+    },
+    {
+      "en": "withdraw",
+      "si": "ආපසු ගන්නවා"
+    },
+    {
+      "en": "ATM",
+      "si": "ATM එක"
+    },
+    {
+      "en": "PIN",
+      "si": "PIN අංකය"
+    },
+    {
+      "en": "exchange rate",
+      "si": "විනිමය අනුපාතය"
+    },
+    {
+      "en": "currency",
+      "si": "මුදල් වර්ගය"
+    },
+    {
+      "en": "cheque",
+      "si": "චෙක්පත"
+    },
+    {
+      "en": "statement",
+      "si": "ගිණුම් ප්‍රකාශනය"
+    },
+    {
+      "en": "transfer",
+      "si": "මාරු කරනවා"
+    },
+    {
+      "en": "teller",
+      "si": "බැංකු කවුන්ටර් සේවකයා"
+    },
+    {
+      "en": "branch",
+      "si": "ශාඛාව"
+    },
+    {
+      "en": "nervous",
+      "si": "නර්වස්"
+    },
+    {
+      "en": "proof of address",
+      "si": "ලිපිනය සනාථ කරන දෙයක්"
+    },
+    {
+      "en": "salary",
+      "si": "ශම්පිලය"
+    },
+    {
+      "en": "fee",
+      "si": "ගාස්තුව"
+    },
+    {
+      "en": "savings account",
+      "si": "savings ගිණුම"
+    },
+    {
+      "en": "current account",
+      "si": "current ගිණුම"
+    },
+    {
+      "en": "notes (money)",
+      "si": "නෝට්ටු"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "a2-18-q1",
+      "q": "'ගිණුමක් විවෘත කරන්න ඕන.' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "I want open account.",
+        "I'd like to open an account, please.",
+        "Open account for me.",
+        "I opening an account."
+      ],
+      "answer": 1,
+      "explainSi": "'I'd like to open an account, please.' — ආචාරශීලී, සම්මත වාක්‍යය.",
+      "speak": "I'd like to open an account, please."
+    },
+    {
+      "id": "a2-18-q2",
+      "q": "'account' සහ 'accountant' අතර වෙනස කුමක්ද?",
+      "options": [
+        "වෙනසක් නෑ",
+        "'account' — ගිණුම, 'accountant' — ගණකාධිකාරී (කෙනෙක්)",
+        "'accountant' — ගිණුම",
+        "දෙකම එකම වචනය"
+      ],
+      "answer": 1,
+      "explainSi": "'account' භාවිතයට, 'accountant' කෙනෙක්ට."
+    },
+    {
+      "id": "a2-18-q3",
+      "q": "'මුදල් ටිකක් ගන්න පුළුවන්ද?' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "Could I withdraw some money, please?",
+        "Could I deposit some money?",
+        "Give me money now.",
+        "Could I withdrawing money?"
+      ],
+      "answer": 0,
+      "explainSi": "'withdraw' — මුදල් ගැනීම. 'deposit' නම් වෙනස් අර්ථයක්.",
+      "speak": "Could I withdraw some money, please?"
+    },
+    {
+      "id": "a2-18-q4",
+      "q": "'withdraw' සහ 'deposit' අතර වෙනස කුමක්ද?",
+      "options": [
+        "වෙනසක් නෑ",
+        "'withdraw' — ගිණුමෙන් එළියට, 'deposit' — ගිණුමට ඇතුළට",
+        "'deposit' — ගිණුමෙන් එළියට",
+        "දෙකම එකම ක්‍රියාව"
+      ],
+      "answer": 1,
+      "explainSi": "විරුද්ධ ක්‍රියා දෙකක් — එකක් ගැනීම, එකක් තැබීම."
+    },
+    {
+      "id": "a2-18-q5",
+      "q": "'ඔබේ කාඩ්පත ඇතුළත් කරන්න.' — ATM උපදෙසක් විදිහට?",
+      "options": [
+        "You insert your card.",
+        "Insert your card.",
+        "Inserting your card.",
+        "Please to insert card."
+      ],
+      "answer": 1,
+      "explainSi": "ATM උපදෙස් command form එකෙන් — ක්‍රියාවෙන්ම පටන් ගන්නවා, a1-19 හි රටාවම.",
+      "speak": "Insert your card."
+    },
+    {
+      "id": "a2-18-q6",
+      "q": "ATM එකේ පියවර නිවැරදි පිළිවෙළ කුමක්ද?",
+      "options": [
+        "Enter your PIN → Insert your card → Select an amount",
+        "Insert your card → Enter your PIN → Select an amount",
+        "Select an amount → Insert your card → Enter your PIN",
+        "පිළිවෙළක් අවශ්‍ය නෑ"
+      ],
+      "answer": 1,
+      "explainSi": "මුලින්ම කාඩ්පත, පසුව PIN එක, පසුව මුදල තෝරන එක."
+    },
+    {
+      "id": "a2-18-q7",
+      "q": "'PIN' කියන්නේ මොකද්ද?",
+      "options": [
+        "Personal Identification Number",
+        "Public Information Number",
+        "Private Individual Number",
+        "Payment Instruction Number"
+      ],
+      "answer": 0,
+      "explainSi": "PIN — Personal Identification Number, තමන් විතරක් දන්නා අංකයක්."
+    },
+    {
+      "id": "a2-18-q8",
+      "q": "'අද ඩොලර් වල විනිමය අනුපාතය මොකක්ද?' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "How dollars today?",
+        "What's the exchange rate for dollars today?",
+        "What dollar rate now?",
+        "Exchange dollar today please."
+      ],
+      "answer": 1,
+      "explainSi": "'What's the exchange rate for + currency?'",
+      "speak": "What's the exchange rate for dollars today?"
+    },
+    {
+      "id": "a2-18-q9",
+      "q": "'exchange rate' දිනපතා වෙනස් වෙනවද?",
+      "options": [
+        "නෑ, ස්ථිරයි",
+        "ඔව්, ඒක නිසා 'today' කියලා අහන එක සාමාන්‍යයි",
+        "අවුරුද්දකට පාරක් විතරයි වෙනස් වෙන්නේ",
+        "කවදාවත් වෙනස් වෙන්නේ නෑ"
+      ],
+      "answer": 1,
+      "explainSi": "විනිමය අනුපාතය දවසින් දවස වෙනස් වෙනවා."
+    },
+    {
+      "id": "a2-18-q10",
+      "q": "'savings account' සහ 'current account' අහන්නේ කුමන අවස්ථාවේද?",
+      "options": [
+        "ATM එකක් භාවිතා කරද්දී",
+        "ගිණුමක් විවෘත කරද්දී, ටෙලර් අහයි",
+        "මුදල් මාරු කරද්දී",
+        "රිසිට් පතක් ඉල්ලද්දී"
+      ],
+      "answer": 1,
+      "explainSi": "'Would you like a savings or a current account?' — ගිණුම විවෘත කරද්දී."
+    },
+    {
+      "id": "a2-18-q11",
+      "context": "Dinithi had just started her first job, and she needed a bank account for her salary. She walked into the nearest branch, a little nervous — she had never done this alone before.",
+      "contextSi": "දිනිතී අලුතින්ම එයාගේ මුල් රැකියාව පටන් ගත්තා, එයාට ශම්පිලයට බැංකු ගිණුමක් ඕන වුණා. ළඟම ශාඛාවට ගියා, ටිකක් නර්වස්ව — මීට කලින් තනියම මේක කරලා නෑ.",
+      "q": "කතාව අනුව: දිනිතී බැංකුවට ගියේ ඇයි?",
+      "options": [
+        "එයා විදේශයකට යනවා",
+        "එයාට ශම්පිලයට ගිණුමක් ඕන",
+        "එයාට මුදල් ගන්න ඕන",
+        "එයාගේ සහෝදරයා කිව්වා නිසා"
+      ],
+      "answer": 1,
+      "explainSi": "'she needed a bank account for her salary.'"
+    },
+    {
+      "id": "a2-18-q12",
+      "context": "\"Would you like a savings or a current account?\" the teller asked. \"A savings account, please — this is for my salary.\"",
+      "contextSi": "\"savings ගිණුමක්ද, current ගිණුමක්ද?\" ටෙලර් ඇහුවා. \"savings ගිණුමක්, කරුණාකර — මේක මගේ ශම්පිලයට.\"",
+      "q": "කතාව අනුව: දිනිතී තෝරගත්තේ කුමන ගිණුමද?",
+      "options": [
+        "current account",
+        "savings account",
+        "දෙකම",
+        "කිසිවක් නෑ"
+      ],
+      "answer": 1,
+      "explainSi": "'A savings account, please.'"
+    },
+    {
+      "id": "a2-18-q13",
+      "context": "\"Could I see your ID and proof of address?\" Dinithi handed over her ID card and a phone bill. Twenty minutes later, she had a new account number and an ATM card in her hand.",
+      "contextSi": "\"ID එක සහ ලිපිනය සනාථ කරන දෙයක් බලන්න පුළුවන්ද?\" දිනිතී එයාගේ ID කාඩ්පත සහ දුරකථන බිල්පත දුන්නා. විනාඩි විස්සකට පස්සේ, එයාට අලුත් ගිණුම් අංකයක් සහ ATM කාඩ්පතක් ලැබුනා.",
+      "q": "කතාව අනුව: දිනිතී ලිපිනය සනාථ කිරීමට කුමක්ද දුන්නේ?",
+      "options": [
+        "රැකියා ලිපියක්",
+        "දුරකථන බිල්පත",
+        "පවුලේ පොත",
+        "පාසැල් සහතිකයක්"
+      ],
+      "answer": 1,
+      "explainSi": "'her ID card and a phone bill.'"
+    },
+    {
+      "id": "a2-18-q14",
+      "context": "A week later, her first salary arrived, and she went to try the ATM for the first time. She read the instructions carefully: insert your card, enter your PIN, select an amount.",
+      "contextSi": "සතියකට පස්සේ, එයාගේ මුල් ශම්පිලය ලැබුනා, ATM එක මුල් වතාවට උත්සාහ කරන්න ගියා. උපදෙස් හොඳින් කියෙව්වා: කාඩ්පත ඇතුළත් කරන්න, PIN එක ඇතුළත් කරන්න, මුදලක් තෝරන්න.",
+      "q": "කතාව අනුව: දිනිතී ATM එක මුල් වතාවට උත්සාහ කළේ කවදාද?",
+      "options": [
+        "ගිණුම අරින දවසේම",
+        "සතියකට පස්සේ, ශම්පිලය ලැබුනාට පස්සේ",
+        "මාසයකට පස්සේ",
+        "විදේශයේ ඉන්න කාලයේ"
+      ],
+      "answer": 1,
+      "explainSi": "'A week later, her first salary arrived, and she went to try the ATM for the first time.'"
+    },
+    {
+      "id": "a2-18-q15",
+      "context": "Her hands shook a little as she typed her PIN, but the machine counted the notes and handed them over smoothly. She felt strangely proud, holding her own money for the first time.",
+      "contextSi": "PIN එක ටයිප් කරද්දී එයාගේ අත් ටිකක් ගැහෙනවා තිබුනා, නමුත් යන්ත්‍රය සල්ලි ගණන් කරලා හොඳින් දුන්නා. තමන්ගේම මුදල් අතට ගත්තාම, අමුතු ආඩම්බරයක් දැනුනා.",
+      "q": "කතාව අනුව: ATM එකෙන් සල්ලි ගත්තට පස්සේ දිනිතීට කෙසේ දැනුනාද?",
+      "options": [
+        "බියෙන්",
+        "ආඩම්බරයෙන්",
+        "තරහෙන්",
+        "කම්මැලියෙන්"
+      ],
+      "answer": 1,
+      "explainSi": "'She felt strangely proud.'"
+    },
+    {
+      "id": "a2-18-q16",
+      "context": "A month later, her brother, studying abroad, asked her to send some money. She went back to the bank. \"What's the exchange rate for dollars today?\" she asked, and transferred the money without any trouble at all.",
+      "contextSi": "මාසයකට පස්සේ, විදේශයක ඉගෙනගන්නා එයාගේ සහෝදරයා, ටිකක් සල්ලි යවන්න කිව්වා. ආයෙත් බැංකුවට ගියා. \"අද ඩොලර් වල විනිමය අනුපාතය මොකක්ද?\" ඇහුවා, කිසිම ප්‍රශ්නයක් නැතුව මුදල් මාරු කළා.",
+      "q": "කතාව අනුව: දිනිතී අන්තිමට බැංකුවට ගියේ ඇයි?",
+      "options": [
+        "ගිණුමක් අරින්න",
+        "සහෝදරයාට මුදල් යවන්න, විනිමය අනුපාතය අහන්න",
+        "ATM කාඩ්පතක් ලබාගන්න",
+        "බැංකු ප්‍රකාශනයක් ලබාගන්න"
+      ],
+      "answer": 1,
+      "explainSi": "'her brother... asked her to send some money... What's the exchange rate for dollars today?'"
+    },
+    {
+      "id": "a2-18-q17",
+      "context": "A small card, a number, my own name — / No one taught me this could feel so grand. / Insert, enter, select — three small steps, / And the machine puts money in my hand.",
+      "contextSi": "කුඩා කාඩ්පතක්, අංකයක්, මගේම නම — / මෙය මෙච්චර ලොකුවට දැනෙයි කියලා කවුරුවත් උගැන්නුවේ නෑ. / ඇතුළත් කරන්න, දාන්න, තෝරන්න — කුඩා පියවර තුනක්, / යන්ත්‍රය මගේ අතට මුදල් තියනවා.",
+      "q": "කවියේ පළමු කොටසේ, කථකයාට හැඟෙන්නේ මොකද්ද?",
+      "options": [
+        "ATM එක ගැන කිසිම හැඟීමක් නෑ",
+        "සරල පියවර තුනකින් මුදල් ලැබෙන එකේ අර්ථවත් බවක් හැඟෙනවා",
+        "ATM එක අමාරුයි කියලා",
+        "යන්ත්‍රයට තරහක්"
+      ],
+      "answer": 1,
+      "explainSi": "'No one taught me this could feel so grand.' — සරල දෙයකින් අමුතු හැඟීමක්."
+    },
+    {
+      "id": "a2-18-q18",
+      "context": "It's only paper, only ink and wire, / Yet something in me stands a little taller — / The first time earning, saving, spending free, / No longer someone's child, but my own caller.",
+      "contextSi": "ඒක කඩදාසි විතරයි, තීන්ත සහ රැහැන් විතරයි, / නමුත් මගේ තුළ යමක් ටිකක් උස ඉන්නවා — / පළමු වතාවට උපයමින්, ඉතුරු කරමින්, නිදහසේ වියදම් කරමින්, / තව කෙනෙක්ගේ දරුවෙක් නෙවෙයි, තමන්ගේම තීරණ ගන්නා කෙනෙක්.",
+      "q": "කවියේ අන්තිම කොටසේ, 'No longer someone's child, but my own caller' කියන්නෙන් අදහස් වන්නේ කුමක්ද?",
+      "options": [
+        "දෙමව්පියන් අමතක වුණා",
+        "තමන්ගේම මුදල් තීරණ ගන්නා වැඩිහිටියෙක් වීම",
+        "ATM එක අවශ්‍ය නෑ",
+        "බැංකුවට තව යන්නේ නෑ"
+      ],
+      "answer": 1,
+      "explainSi": "පළමු වතාවට තමන්ගේම මුදල් තමන්ම කළමනාකරණය කිරීම — වැඩිහිටිකමේ සලකුණක්."
+    },
+    {
+      "id": "a2-18-q19",
+      "context": "Traveller: Two hundred dollars. What's the exchange rate today? / Teller: It's three hundred and five rupees to the dollar today. There's also a small fee.",
+      "contextSi": "සංචාරකයා: ඩොලර් දෙසීයක්. අද විනිමය අනුපාතය මොකක්ද? / ටෙලර්: අද ඩොලරයකට රුපියල් තුන්සිය පහයි. කුඩා ගාස්තුවකුත් තියෙනවා.",
+      "q": "සංවාදයේ: අද ඩොලරයකට රුපියල් කීයද?",
+      "options": [
+        "300",
+        "305",
+        "350",
+        "205"
+      ],
+      "answer": 1,
+      "explainSi": "'three hundred and five rupees to the dollar.'"
+    },
+    {
+      "id": "a2-18-q20",
+      "context": "Traveller: That's fine. Could I also check the balance on my card? / Teller: Certainly. Could I see your card and ID, please?",
+      "contextSi": "සංචාරකයා: කම් නෑ. මගේ කාඩ්පතේ ශේෂය බලන්නත් පුළුවන්ද? / ටෙලර්: ඇත්තෙන්ම. ඔබේ කාඩ්පත සහ ID එක බලන්න පුළුවන්ද?",
+      "q": "සංවාදයේ: මුදල් මාරු කිරීමට අමතරව සංචාරකයා තවත් මොකක්ද ඉල්ලුවේ?",
+      "options": [
+        "ගිණුමක් අරින්න",
+        "ශේෂය බලන්න",
+        "මුදල් තැන්පත් කරන්න",
+        "ATM කාඩ්පතක් ලබාගන්න"
+      ],
+      "answer": 1,
+      "explainSi": "'Could I also check the balance on my card?'"
+    },
+    {
+      "id": "a2-18-q21",
+      "q": "කුමන වාක්‍යය වැරදිද?",
+      "options": [
+        "I'd like to open an account, please.",
+        "Could I withdraw some money?",
+        "Insert your card.",
+        "What's exchange rate dollars?"
+      ],
+      "answer": 3,
+      "explainSi": "'What's the exchange rate for dollars?' විය යුතුයි — 'the' සහ 'for' අත්‍යවශ්‍යයි."
+    },
+    {
+      "id": "a2-18-q22",
+      "q": "'මගේ ශේෂය බලන්න පුළුවන්ද?' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "Could I check my balance, please?",
+        "Show me balance.",
+        "My balance now please.",
+        "Could I checking balance?"
+      ],
+      "answer": 0,
+      "explainSi": "'Could I check my balance, please?' — ආචාරශීලී ඉල්ලීමක්.",
+      "speak": "Could I check my balance, please?"
+    }
+  ]
+}

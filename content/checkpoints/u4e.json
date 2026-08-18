@@ -1,0 +1,109 @@
+{
+  "quiz": [
+    {
+      "id": "u4e-cp-q1",
+      "q": "කුමන එක හරිද?",
+      "options": ["It is cheaper, however it is slower.", "It is cheaper. However, it is slower.", "It is cheaper however, it is slower.", "It is cheaper however it is slower."],
+      "answer": 1,
+      "explainSi": "however එකට කලින් තිතක් හෝ අර්ධ විරාමයක්."
+    },
+    {
+      "id": "u4e-cp-q2",
+      "q": "'because of' එකට පස්සේ එන්නේ?",
+      "options": ["වාක්‍යයක්", "නාම පදයක්", "ක්‍රියාවක්", "විශේෂණයක්"],
+      "answer": 1,
+      "explainSi": "'because of the rain' — ක්‍රියාවක් නෑ."
+    },
+    {
+      "id": "u4e-cp-q3",
+      "q": "'despite of the rain' — වැරැද්ද?",
+      "options": ["'rain' වැරදියි", "'despite' එකට 'of' යෙදෙන්නේ නෑ", "'despite' වාක්‍යයක් ගන්නවා", "වැරැද්දක් නෑ"],
+      "answer": 1,
+      "explainSi": "'despite the rain' හෝ 'in spite of the rain'."
+    },
+    {
+      "id": "u4e-cp-q4",
+      "q": "'Although it was raining, but we went out.' — වැරැද්ද?",
+      "options": ["'although' වැරදියි", "'although' සහ 'but' එකපාර යෙදෙන්නේ නෑ", "කොමාව වැරදියි", "වැරැද්දක් නෑ"],
+      "answer": 1,
+      "explainSi": "එකක් ඇති."
+    },
+    {
+      "id": "u4e-cp-q5",
+      "q": "කුමන එක හරිද?",
+      "options": ["In one hand…", "On the one hand…", "On one hand of…", "At the one hand…"],
+      "answer": 1,
+      "explainSi": "යෙදුම නියතයි."
+    },
+    {
+      "id": "u4e-cp-q6",
+      "q": "'On balance' කියන එකෙන් පෙන්නන්නේ?",
+      "options": ["ඔයාට අදහසක් නෑ", "ඔයා පැති දෙකම කිරලා තියෙනවා", "ඔයා තරහයි", "ඔයා නිශ්චිත නෑ"],
+      "answer": 1,
+      "explainSi": "නිගමනයට එන යෙදුම."
+    },
+    {
+      "id": "u4e-cp-q7",
+      "q": "සමතුලිත ඡේදයක තුන්වෙනි කොටස නැත්නම්?",
+      "options": ["ඒක තව හොඳයි", "ඒක තර්කයක් නෙවෙයි — ලැයිස්තුවක් විතරයි", "ඒක කෙටියි", "වෙනසක් නෑ"],
+      "answer": 1,
+      "explainSi": "නිගමනයක් තියෙන්න ඕන."
+    },
+    {
+      "id": "u4e-cp-q8",
+      "q": "'Mind you' කරන්නේ?",
+      "options": ["අවවාද කරනවා", "ඔයාගේම ප්‍රකාශයට පොඩි විරෝධයක් එකතු කරනවා", "ප්‍රශ්නයක් අහනවා", "නිගමනය දෙනවා"],
+      "answer": 1,
+      "explainSi": "'The hotel was awful. Mind you, it was cheap.'"
+    },
+    {
+      "id": "u4e-cp-q9",
+      "q": "කතාව කියනකොට යෙදෙන කාලය?",
+      "options": ["අතීතය", "වර්තමානය", "අනාගතය", "present perfect"],
+      "answer": 1,
+      "explainSi": "'It's about a man who loses his job…'"
+    },
+    {
+      "id": "u4e-cp-q10",
+      "q": "'It's ___ in the 1980s.' — හිස් තැනට?",
+      "options": ["about", "set", "based", "made"],
+      "answer": 1,
+      "explainSi": "'set in' — කතාවේ තැනයි කාලයයි."
+    },
+    {
+      "id": "u4e-cp-q11",
+      "q": "'It had its moments' කියන්නේ?",
+      "options": ["සම්පූර්ණයෙන් හොඳයි", "සම්පූර්ණයෙන් හොඳ නෑ, ඒත් හොඳ තැන් තිබුණා", "හරිම නරකයි", "දිගයි"],
+      "answer": 1,
+      "explainSi": "ආචාරශීලී අර්ධ ප්‍රශංසාවක්."
+    },
+    {
+      "id": "u4e-cp-q12",
+      "q": "කුමන එක වැරදිද?",
+      "options": ["absolutely furious", "very furious", "very angry", "completely exhausted"],
+      "answer": 1,
+      "explainSi": "බලවත් වචනවලට 'very' යෙදෙන්නේ නෑ."
+    },
+    {
+      "id": "u4e-cp-q13",
+      "q": "හිස් තැනට: 'I'm fed up ___ waiting.'",
+      "options": ["of", "with", "about", "at"],
+      "answer": 1,
+      "explainSi": "fed up with."
+    },
+    {
+      "id": "u4e-cp-q14",
+      "q": "'It made me ___' — හරි ආකෘතිය?",
+      "options": ["to cry", "cry", "crying", "cried"],
+      "answer": 1,
+      "explainSi": "'make' එකට පස්සේ to යෙදෙන්නේ නෑ."
+    },
+    {
+      "id": "u4e-cp-q15",
+      "q": "'Do you mind if I sit here?' — අවසර දෙන්නේ?",
+      "options": ["Yes, I do.", "No, not at all.", "Yes, please.", "Of course I mind."],
+      "answer": 1,
+      "explainSi": "'No' කියන එකෙන් අවසර දෙනවා."
+    }
+  ]
+}

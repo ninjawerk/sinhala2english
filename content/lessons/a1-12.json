@@ -1,0 +1,864 @@
+{
+  "hero": {
+    "src": "images/a1-12-hero.webp",
+    "alt": "Nadeesha thumbs up in the garden."
+  },
+  "goalsSi": [
+    "can සහ can't භාවිතයෙන් හැකියාව කීම",
+    "can සමඟ -s හෝ do/does නොයෙදෙන බව",
+    "Can you …? / Could you …? යනුවෙන් ඉල්ලීම",
+    "Can I …? යනුවෙන් අවසර ඉල්ලීම",
+    "ශාරීරික නොවන හැකියාවන් — read, remember, understand"
+  ],
+  "goals": [
+    "Say what you can and can't do",
+    "Ask for things with Can you and Could you",
+    "Ask permission with Can I",
+    "Talk about ability of every kind"
+  ],
+  "sections": [
+    {
+      "type": "note",
+      "title": "can is already doing the work",
+      "titleSi": "can දැනටමත් වැඩේ කරනවා",
+      "bodySi": "පාඩම් තුනක් තිස්සේ ඉගෙන ගත්තා: he/she/it සමඟ -s, ප්‍රශ්නවලට do/does.\n\ncan සමඟ ඒ දෙකම නෑ. එය අමතක කරන්න එපා — එය නීතියක් කැඩීමක් නෙවෙයි, එය වෙනස් වර්ගයේ වචනයක්.\n\nShe can swim. — 'cans' නෙවෙයි, -s නෑ.\nCan she swim? — 'Does she can swim?' නෙවෙයි. can එකම මුලට එනවා.\nShe can't swim. — 'doesn't can' නෙවෙයි.\n\nහේතුව සරලයි: ප්‍රශ්නයක් හදන්න ඕන උදව්කරු ක්‍රියාව can දැනටමත් වාක්‍යයේ තියෙනවා. do/does ගේන්නේ එහෙම කෙනෙක් නැති වෙලාවට විතරයි.\n\nඑනිසා can යෙදුවම වැඩේ ලේසියි — එකම ස්වරූපය හැම දෙනාටම.",
+      "body": "can takes no -s and needs no do/does."
+    },
+    {
+      "type": "grammar",
+      "title": "can and can't",
+      "titleSi": "can සහ can't",
+      "explainSi": "හැම සර්වනාමයකටම එකම ස්වරූපය. ඊට පස්සේ එන ක්‍රියාව හැම විටම මූලික ස්වරූපයෙන් — to නෑ, -ing නෑ, -s නෑ.",
+      "formula": "subject + can / can't + verb",
+      "table": {
+        "headers": [
+          "ධනාත්මක",
+          "නැහැ",
+          "ප්‍රශ්නය"
+        ],
+        "rows": [
+          [
+            "I can swim.",
+            "I can't swim.",
+            "Can I swim?"
+          ],
+          [
+            "You can drive.",
+            "You can't drive.",
+            "Can you drive?"
+          ],
+          [
+            "He can cook.",
+            "He can't cook.",
+            "Can he cook?"
+          ],
+          [
+            "She can read Sinhala.",
+            "She can't read Sinhala.",
+            "Can she read Sinhala?"
+          ],
+          [
+            "We can help.",
+            "We can't help.",
+            "Can we help?"
+          ],
+          [
+            "They can come.",
+            "They can't come.",
+            "Can they come?"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "My grandmother can read three languages.",
+          "si": "මගේ ආච්චිට භාෂා තුනක් කියවන්න පුළුවන්."
+        },
+        {
+          "en": "I can't remember his name.",
+          "si": "එයාගේ නම මට මතක නෑ."
+        },
+        {
+          "en": "Can your brother play the guitar?",
+          "si": "ඔබේ අයියාට ගිටාරය වාදනය කරන්න පුළුවන්ද?"
+        }
+      ],
+      "watchOutSi": "'She can swims' සහ 'Does she can drive?' දෙකම වැරදියි. can සමඟ -s නෑ, do/does නෑ, to නෑ."
+    },
+    {
+      "type": "grammar",
+      "title": "Asking: Can you? Could you? Can I?",
+      "titleSi": "ඉල්ලීම: Can you? Could you? Can I?",
+      "explainSi": "'Can you …?' යනු ඉල්ලීමක් — යමක් කරන්න කියලා. 'Can I …?' යනු අවසර ඉල්ලීමක් — යමක් කරන්න මට පුළුවන්ද කියලා. 'Could' යෙදුවම වඩා මෘදුයි, ආචාරශීලීයි. එය අතීත කාලය නෙවෙයි.",
+      "formula": "Can / Could + you + verb?  ·  Can / Could + I + verb?",
+      "table": {
+        "headers": [
+          "වාක්‍යය",
+          "අර්ථය",
+          "මට්ටම"
+        ],
+        "rows": [
+          [
+            "Can you help me?",
+            "මට උදව් කරන්න පුළුවන්ද?",
+            "සාමාන්‍ය"
+          ],
+          [
+            "Could you help me?",
+            "මට උදව් කරන්න පුළුවන්ද?",
+            "වඩා ආචාරශීලී"
+          ],
+          [
+            "Can I sit here?",
+            "මට මෙතන ඉඳගන්න පුළුවන්ද?",
+            "අවසර"
+          ],
+          [
+            "Could I ask something?",
+            "මට යමක් අහන්න පුළුවන්ද?",
+            "වඩා ආචාරශීලී අවසර"
+          ],
+          [
+            "Yes, of course.",
+            "ඔව්, අනිවාර්යයෙන්.",
+            "පිළිතුර"
+          ],
+          [
+            "Sorry, I can't.",
+            "සමාවෙන්න, බෑ.",
+            "පිළිතුර"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "Could you speak more slowly, please?",
+          "si": "කරුණාකර ටිකක් හෙමින් කථා කරන්න පුළුවන්ද?"
+        },
+        {
+          "en": "Can I use your phone for a minute?",
+          "si": "විනාඩියකට ඔබේ දුරකථනය පාවිච්චි කරන්න පුළුවන්ද?"
+        },
+        {
+          "en": "Could you tell me the way to the station?",
+          "si": "දුම්රියපොළට යන පාර කියන්න පුළුවන්ද?"
+        }
+      ],
+      "watchOutSi": "'Could' යනු අතීතය ගැන නෙවෙයි මෙතන — එය ආචාරශීලීකමයි. 'Could you help me?' කියන්නේ දැන් උදව් ගැන."
+    },
+    {
+      "type": "grammar",
+      "title": "Ability you can't see",
+      "titleSi": "නොපෙනෙන හැකියාවන්",
+      "explainSi": "can යෙදෙන්නේ ශාරීරික දේවලට විතරක් නෙවෙයි. මතක තියාගැනීම, තේරුම් ගැනීම, ඇහීම — ඒ සියල්ලටමයි.",
+      "formula": "can + remember / understand / hear / see / read / speak",
+      "examples": [
+        {
+          "en": "I can understand English, but I can't speak it well.",
+          "si": "මට ඉංග්‍රීසි තේරෙනවා, හැබැයි හොඳට කථා කරන්න බෑ."
+        },
+        {
+          "en": "Can you hear me at the back?",
+          "si": "පිටිපස්සේ ඉන්න අයට මගේ කථාව ඇහෙනවාද?"
+        },
+        {
+          "en": "I can't remember where I put the keys.",
+          "si": "යතුරු තිබ්බේ කොහෙද කියලා මට මතක නෑ."
+        },
+        {
+          "en": "She can't see without her glasses.",
+          "si": "කණ්නාඩිය නැතුව එයාට පේන්නේ නෑ."
+        }
+      ],
+      "watchOutSi": "'I can't remember' යනු ඉංග්‍රීසියේ සම්මත ක්‍රමයයි. 'I don't remember' කිව්වත් හරි, නමුත් can't වඩා පොදුයි."
+    },
+    {
+      "type": "vocab",
+      "title": "Things people can do",
+      "titleSi": "මිනිස්සුන්ට කරන්න පුළුවන් දේ",
+      "items": [
+        {
+          "en": "can",
+          "si": "පුළුවන්",
+          "say": "කෑන්"
+        },
+        {
+          "en": "can't",
+          "si": "බෑ",
+          "say": "කාන්ට්"
+        },
+        {
+          "en": "could",
+          "si": "පුළුවන්ද (ආචාරශීලී)",
+          "say": "කුඩ්"
+        },
+        {
+          "en": "swim",
+          "si": "පිහිනනවා",
+          "say": "ස්විම්"
+        },
+        {
+          "en": "ride",
+          "si": "පදිනවා",
+          "say": "රයිඩ්",
+          "exampleEn": "Can you ride a bicycle?",
+          "exampleSi": "ඔබට බයිසිකලයක් පදින්න පුළුවන්ද?"
+        },
+        {
+          "en": "climb",
+          "si": "නගිනවා",
+          "say": "ක්ලයිම්"
+        },
+        {
+          "en": "fix",
+          "si": "හදනවා",
+          "say": "ෆික්ස්"
+        },
+        {
+          "en": "sew",
+          "si": "මහනවා",
+          "say": "සෝ"
+        },
+        {
+          "en": "guitar",
+          "si": "ගිටාරය",
+          "say": "ගිටාර්"
+        },
+        {
+          "en": "remember",
+          "si": "මතක තියාගන්නවා",
+          "say": "රිමෙම්බර්"
+        },
+        {
+          "en": "understand",
+          "si": "තේරුම් ගන්නවා",
+          "say": "අන්ඩර්ස්ටෑන්ඩ්"
+        },
+        {
+          "en": "hear",
+          "si": "අහනවා / ඇහෙනවා",
+          "say": "හියර්"
+        },
+        {
+          "en": "slowly",
+          "si": "හෙමින්",
+          "say": "ස්ලෝලි"
+        },
+        {
+          "en": "again",
+          "si": "නැවත",
+          "say": "අගේන්"
+        },
+        {
+          "en": "of course",
+          "si": "අනිවාර්යයෙන්",
+          "say": "ඔෆ් කෝස්"
+        },
+        {
+          "en": "afraid",
+          "si": "බය",
+          "say": "අෆ්‍රේඩ්"
+        },
+        {
+          "en": "roof",
+          "si": "වහලය",
+          "say": "රූෆ්"
+        },
+        {
+          "en": "engine",
+          "si": "එන්ජිම",
+          "say": "එන්ජින්"
+        }
+      ]
+    },
+    {
+      "type": "story",
+      "title": "The Woman Who Could Fix Anything",
+      "titleSi": "ඕනෑම දෙයක් හදන්න පුළුවන් කාන්තාව",
+      "introSi": "යමෙකුට කරන්න පුළුවන් දේ ගැන කතාවක්. 'can' සහ 'can't' කොපමණ වාරයක් එනවාද කියලා බලන්න.",
+      "paragraphs": [
+        {
+          "en": "In our lane there is a small shop, and behind it lives Mrs Perera. She is seventy-two. She can fix almost anything.",
+          "si": "අපේ පාරේ පොඩි කඩයක් තියෙනවා, ඒකට පිටිපස්සේ පෙරේරා මහත්මිය ජීවත් වෙනවා. එයාට අවුරුදු හැත්තෑ දෙකයි. එයාට ඕනෑම දෙයක් වගේ හදන්න පුළුවන්."
+        },
+        {
+          "en": "She can mend a fan, a radio, a kettle and a bicycle. She can't drive, and she says she can't cook, but nobody believes that part.",
+          "si": "එයාට ෆෑන් එකක්, රේඩියෝවක්, කේතලයක් සහ බයිසිකලයක් හදන්න පුළුවන්. එයාට රිය පදවන්න බෑ, උයන්නත් බෑ කියලා එයා කියනවා, හැබැයි ඒ කොටස කවුරුවත් විශ්වාස කරන්නේ නෑ."
+        },
+        {
+          "en": "Last month the water pump stopped. Three men came from the town. They looked at the engine for two hours and said, \"We can't fix this. You need a new one.\"",
+          "si": "පහුගිය මාසේ වතුර පොම්පය නැවතුණා. නගරයෙන් මිනිස්සු තුන්දෙනෙක් ආවා. පැය දෙකක් එන්ජිම බලලා කිව්වා, \"අපිට මේක හදන්න බෑ. අලුත් එකක් ඕන.\""
+        },
+        {
+          "en": "Mrs Perera was standing at her gate. \"Could I look at it?\" she asked. One man laughed. The other two did not, because they knew her.",
+          "si": "පෙරේරා මහත්මිය ගේට්ටුව ළඟ හිටියා. \"මට ඒක බලන්න පුළුවන්ද?\" එයා ඇහුවා. එක් අයෙක් හිනා වුණා. අනිත් දෙන්නා හිනා වුණේ නෑ, මොකද ඔවුන් එයාව දැනගෙන හිටියා."
+        },
+        {
+          "en": "She opened the pump with two spoons and a knife. In twenty minutes the water came back. \"I can't explain how I know these things,\" she said. \"My father could not read, but he could hear an engine.\"",
+          "si": "එයා හැඳි දෙකකින් සහ පිහියකින් පොම්පය ඇරියා. විනාඩි විස්සකින් වතුර ආපහු ආවා. \"මට මේවා දැනගන්නේ කොහොමද කියලා පැහැදිලි කරන්න බෑ,\" එයා කිව්වා. \"මගේ තාත්තාට කියවන්න බැරි වුණා, හැබැයි එන්ජිමකට ඇහුම්කන් දෙන්න පුළුවන් වුණා.\""
+        },
+        {
+          "en": "Now the men from the town come to her first. They still can't fix the pump. But they can ask, and that is something.",
+          "si": "දැන් නගරයේ මිනිස්සු මුලින්ම එයා ළඟට එනවා. ඔවුන්ට තාමත් පොම්පය හදන්න බෑ. හැබැයි අහන්න පුළුවන්, ඒකත් යමක්."
+        }
+      ],
+      "glossary": [
+        {
+          "en": "lane",
+          "si": "පටුමග / පාර"
+        },
+        {
+          "en": "mend",
+          "si": "අලුත්වැඩියා කරනවා"
+        },
+        {
+          "en": "kettle",
+          "si": "කේතලය"
+        },
+        {
+          "en": "believe",
+          "si": "විශ්වාස කරනවා"
+        },
+        {
+          "en": "pump",
+          "si": "පොම්පය"
+        },
+        {
+          "en": "gate",
+          "si": "ගේට්ටුව"
+        },
+        {
+          "en": "laugh",
+          "si": "හිනා වෙනවා"
+        },
+        {
+          "en": "spoon",
+          "si": "හැන්ද"
+        },
+        {
+          "en": "explain",
+          "si": "පැහැදිලි කරනවා"
+        }
+      ],
+      "questionsSi": [
+        "පෙරේරා මහත්මියට කරන්න පුළුවන් දේවල් තුනක් කුමක්ද?",
+        "එයාට කරන්න බැරි දේ කුමක්ද, සහ මිනිස්සු විශ්වාස නොකරන්නේ කුමක්ද?",
+        "නගරයෙන් ආ අයගෙන් දෙන්නෙක් හිනා නොවුණේ ඇයි?",
+        "අන්තිම වාක්‍යයෙන් අදහස් වන්නේ කුමක්ද?"
+      ]
+    },
+    {
+      "type": "poem",
+      "title": "Things I Cannot Do",
+      "titleSi": "මට කරන්න බැරි දේ",
+      "introSi": "සරල කවියක්. can සහ can't දෙකම එනවා — අන්තිම පේළියේ තේරුම හොයාගන්න.",
+      "lines": [
+        {
+          "en": "I can't sing and I can't dance,",
+          "si": "මට ගයන්න බෑ, නටන්නත් බෑ,"
+        },
+        {
+          "en": "I can't fix a chair.",
+          "si": "පුටුවක් හදන්නත් බෑ."
+        },
+        {
+          "en": "I can't drive, I can't swim,",
+          "si": "රිය පදවන්න බෑ, පිහිනන්නත් බෑ,"
+        },
+        {
+          "en": "I can't cut my hair.",
+          "si": "මගේ කොණ්ඩේ කපාගන්නත් බෑ."
+        },
+        {
+          "en": "",
+          "si": ""
+        },
+        {
+          "en": "But I can sit with you at night",
+          "si": "හැබැයි රෑට ඔබ ළඟ ඉඳගන්න පුළුවන්"
+        },
+        {
+          "en": "And listen while you speak.",
+          "si": "ඔබ කථා කරද්දී අහගෙන ඉන්න පුළුවන්."
+        },
+        {
+          "en": "Not everybody can do that —",
+          "si": "ඒක හැමෝටම කරන්න බෑ —"
+        },
+        {
+          "en": "I've practised every week.",
+          "si": "මම හැම සතියෙම පුරුදු වුණා."
+        }
+      ],
+      "noteSi": "පේළි අටේම 'can' හෝ 'can't' පසුව ක්‍රියාව මූලික ස්වරූපයෙන්: sing, dance, fix, drive, swim, cut, sit, listen. එකකටවත් -s නෑ."
+    },
+    {
+      "type": "dialogue",
+      "title": "At the counter",
+      "titleSi": "කවුන්ටරයේදී",
+      "settingSi": "ආචාරශීලීව ඉල්ලීම. 'Can I' සහ 'Could you' අතර වෙනස බලන්න.",
+      "lines": [
+        {
+          "speaker": "Customer",
+          "en": "Excuse me, can I ask you something?",
+          "si": "සමාවෙන්න, මට යමක් අහන්න පුළුවන්ද?"
+        },
+        {
+          "speaker": "Clerk",
+          "en": "Of course.",
+          "si": "අනිවාර්යයෙන්."
+        },
+        {
+          "speaker": "Customer",
+          "en": "Could you speak a little more slowly? I can understand you, but not when you are quick.",
+          "si": "ටිකක් හෙමින් කථා කරන්න පුළුවන්ද? මට තේරෙනවා, හැබැයි ඔබ ඉක්මන් වුණාම නෑ."
+        },
+        {
+          "speaker": "Clerk",
+          "en": "Sorry. Is this better?",
+          "si": "සමාවෙන්න. දැන් හොඳද?"
+        },
+        {
+          "speaker": "Customer",
+          "en": "Much better. Can I pay by card?",
+          "si": "ගොඩක් හොඳයි. කාඩ් එකෙන් ගෙවන්න පුළුවන්ද?"
+        },
+        {
+          "speaker": "Clerk",
+          "en": "I'm afraid you can't. The machine isn't working today.",
+          "si": "බෑ කියලා කියන්න වෙනවා. යන්ත්‍රය අද වැඩ කරන්නේ නෑ."
+        },
+        {
+          "speaker": "Customer",
+          "en": "Could you tell me where the bank is, then?",
+          "si": "එහෙනම් බැංකුව කොහෙද කියලා කියන්න පුළුවන්ද?"
+        },
+        {
+          "speaker": "Clerk",
+          "en": "Yes — turn left, and you can see it from the corner.",
+          "si": "ඔව් — වමට හැරෙන්න, කොනෙන් ඒක පේනවා."
+        }
+      ]
+    },
+    {
+      "type": "tip",
+      "title": "Could is politeness, not the past",
+      "titleSi": "Could යනු ආචාරශීලීකමයි, අතීතය නෙවෙයි",
+      "bodySi": "'Could you help me?' කියද්දී අතීතය ගැන කිසිවක් නෑ — දැන් උදව් ඕන. 'Could' යනු 'Can' එකේ මෘදු ස්වරූපයයි.\n\nනොදන්නා කෙනෙක් සමඟ, කඩේක, කාර්යාලයේ — 'Could you …?' භාවිත කරන්න.\nයාළුවෙක් සමඟ 'Can you …?' ඇති.\n\nඅතීත හැකියාව ගැන කථා කරද්දීත් 'could' යෙදෙනවා ('My father could not read'), නමුත් ඒක වෙනම දෙයක් — ඒක පසුව එනවා."
+    },
+    {
+      "type": "practice",
+      "title": "can, can't or could?",
+      "titleSi": "can, can't නැත්නම් could?",
+      "instructionSi": "වඩාත් ගැළපෙන වචනය තෝරන්න.",
+      "items": [
+        {
+          "prompt": "She ___ drive, so she takes the bus.",
+          "answer": "can't",
+          "hintSi": "බස් එකට යන්නේ පදවන්න බැරි නිසා.",
+          "full": "She can't drive, so she takes the bus."
+        },
+        {
+          "prompt": "___ you pass me the salt, please?",
+          "answer": "Could",
+          "hintSi": "ආචාරශීලී ඉල්ලීමක්.",
+          "full": "Could you pass me the salt, please?"
+        },
+        {
+          "prompt": "My grandmother ___ read three languages.",
+          "answer": "can",
+          "hintSi": "හැකියාවක්.",
+          "full": "My grandmother can read three languages."
+        },
+        {
+          "prompt": "___ I sit here?",
+          "answer": "Can",
+          "hintSi": "අවසර ඉල්ලීමක්.",
+          "full": "Can I sit here?"
+        },
+        {
+          "prompt": "I ___ remember her name.",
+          "answer": "can't",
+          "hintSi": "මතක නෑ.",
+          "full": "I can't remember her name."
+        },
+        {
+          "prompt": "___ he swim?",
+          "answer": "Can",
+          "hintSi": "ප්‍රශ්නය — 'Does he can' නෙවෙයි.",
+          "full": "Can he swim?"
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "en": "can",
+      "si": "පුළුවන්"
+    },
+    {
+      "en": "can't",
+      "si": "බෑ"
+    },
+    {
+      "en": "could",
+      "si": "පුළුවන්ද (ආචාරශීලී)"
+    },
+    {
+      "en": "ride",
+      "si": "පදිනවා"
+    },
+    {
+      "en": "climb",
+      "si": "නගිනවා"
+    },
+    {
+      "en": "fix",
+      "si": "හදනවා"
+    },
+    {
+      "en": "mend",
+      "si": "අලුත්වැඩියා කරනවා"
+    },
+    {
+      "en": "sew",
+      "si": "මහනවා"
+    },
+    {
+      "en": "guitar",
+      "si": "ගිටාරය"
+    },
+    {
+      "en": "remember",
+      "si": "මතක තියාගන්නවා"
+    },
+    {
+      "en": "understand",
+      "si": "තේරුම් ගන්නවා"
+    },
+    {
+      "en": "hear",
+      "si": "ඇහෙනවා"
+    },
+    {
+      "en": "slowly",
+      "si": "හෙමින්"
+    },
+    {
+      "en": "again",
+      "si": "නැවත"
+    },
+    {
+      "en": "of course",
+      "si": "අනිවාර්යයෙන්"
+    },
+    {
+      "en": "afraid",
+      "si": "බය"
+    },
+    {
+      "en": "engine",
+      "si": "එන්ජිම"
+    },
+    {
+      "en": "pump",
+      "si": "පොම්පය"
+    },
+    {
+      "en": "explain",
+      "si": "පැහැදිලි කරනවා"
+    },
+    {
+      "en": "believe",
+      "si": "විශ්වාස කරනවා"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "a1-12-q1",
+      "q": "'එයාට පිහිනන්න පුළුවන්' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "She cans swim.",
+        "She can swim.",
+        "She can swims.",
+        "She can to swim."
+      ],
+      "answer": 1,
+      "explainSi": "can සමඟ -s නෑ, to නෑ. ක්‍රියාව මූලික ස්වරූපයෙන්.",
+      "speak": "She can swim."
+    },
+    {
+      "id": "a1-12-q2",
+      "q": "'She can swims' වැරදි වන්නේ ඇයි?",
+      "options": [
+        "'can' සමඟ 'swim' යෙදිය නොහැකි නිසා",
+        "can පසුව ක්‍රියාව හැම විටම මූලික ස්වරූපයෙන් — -s නෑ",
+        "'She' සමඟ 'can' යෙදිය නොහැකි නිසා",
+        "'swims' අවිධිමත් නිසා"
+      ],
+      "answer": 1,
+      "explainSi": "can එකම හැම සර්වනාමයටම එකයි, සහ ඊට පස්සේ එන ක්‍රියාවත් වෙනස් වෙන්නේ නෑ."
+    },
+    {
+      "id": "a1-12-q3",
+      "q": "'එයාට රිය පදවන්න පුළුවන්ද?' — ප්‍රශ්නය හදන්නේ කොහොමද?",
+      "options": [
+        "Does she can drive?",
+        "Can she drive?",
+        "Can she drives?",
+        "She can drive?"
+      ],
+      "answer": 1,
+      "explainSi": "can එකම මුලට ගේනවා. do/does ඕන නෑ — can දැනටමත් ඒ වැඩේ කරනවා.",
+      "speak": "Can she drive?"
+    },
+    {
+      "id": "a1-12-q4",
+      "q": "can සමඟ do/does අවශ්‍ය නොවන්නේ ඇයි?",
+      "options": [
+        "can කෙටි නිසා",
+        "ප්‍රශ්නය හදන උදව්කරු වචනය can දැනටමත් වාක්‍යයේ ඇති නිසා",
+        "can අවිධිමත් නිසා",
+        "නීතියක් නෑ, එය මතක තියාගන්න ඕන"
+      ],
+      "answer": 1,
+      "explainSi": "do/does ගේන්නේ එවැනි වචනයක් නැති වෙලාවට. 'She works' → 'Does she work?' නමුත් 'She can work' → 'Can she work?'"
+    },
+    {
+      "id": "a1-12-q5",
+      "q": "'මට එයාගේ නම මතක නෑ' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "I can't remember his name.",
+        "I don't can remember his name.",
+        "I can't remembering his name.",
+        "I can't to remember his name."
+      ],
+      "answer": 0,
+      "explainSi": "can යෙදෙන්නේ ශාරීරික දේවලට විතරක් නෙවෙයි — මතකයටත් යෙදෙනවා.",
+      "speak": "I can't remember his name."
+    },
+    {
+      "id": "a1-12-q6",
+      "q": "'Can you help me?' සහ 'Could you help me?' අතර වෙනස?",
+      "options": [
+        "දෙවැන්න අතීතය ගැන",
+        "දෙවැන්න වඩා ආචාරශීලීයි — දෙකම දැන් ගැන",
+        "දෙවැන්න වඩා ඉක්මන් උදව්වක් ඉල්ලනවා",
+        "වෙනසක් නෑ"
+      ],
+      "answer": 1,
+      "explainSi": "'Could' යනු මෘදු ස්වරූපයයි. නොදන්නා අය සමඟ 'Could you …?' වඩා හොඳයි."
+    },
+    {
+      "id": "a1-12-q7",
+      "q": "'Can I sit here?' යනුවෙන් අහන්නේ මොකක්ද?",
+      "options": [
+        "ඉඳගන්න මට ශක්තියක් තියෙනවාද කියලා",
+        "ඉඳගන්න අවසර තියෙනවාද කියලා",
+        "අනිත් කෙනාට ඉඳගන්න පුළුවන්ද කියලා",
+        "පුටුව හොඳද කියලා"
+      ],
+      "answer": 1,
+      "explainSi": "'Can I …?' යනු අවසර ඉල්ලීමක්. 'Can you …?' යනු අනිත් කෙනාගෙන් යමක් ඉල්ලීමක්."
+    },
+    {
+      "id": "a1-12-q8",
+      "q": "කුමන වාක්‍යය නිවැරදිද?",
+      "options": [
+        "He doesn't can come.",
+        "He can't come.",
+        "He can't comes.",
+        "He not can come."
+      ],
+      "answer": 1,
+      "explainSi": "නැහැ කියන්නත් can එකම යොදනවා: can + not = can't.",
+      "speak": "He can't come."
+    },
+    {
+      "id": "a1-12-q9",
+      "q": "'Could you speak more slowly?' — කවුරු එක්ක වඩාත් ගැළපෙනවාද?",
+      "options": [
+        "යාළුවෙක් සමඟ පමණයි",
+        "නොදන්නා කෙනෙක් සමඟ — කඩේක, කාර්යාලයේ",
+        "දරුවෙක් සමඟ පමණයි",
+        "කවුරුවත් සමඟ යෙදිය නොහැක"
+      ],
+      "answer": 1,
+      "explainSi": "'Could' ආචාරශීලීයි. යාළුවෙක් සමඟ 'Can you …?' ඇති."
+    },
+    {
+      "id": "a1-12-q10",
+      "q": "'මට ඉංග්‍රීසි තේරෙනවා, හැබැයි හොඳට කථා කරන්න බෑ' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "I can understand English, but I can't speak it well.",
+        "I understand English, but I can't to speak it well.",
+        "I can understanding English, but I can't speaking it well.",
+        "I can understand English, but I don't can speak it well."
+      ],
+      "answer": 0,
+      "explainSi": "දෙපැත්තෙම can/can't පසුව මූලික ස්වරූපය.",
+      "speak": "I can understand English, but I can't speak it well."
+    },
+    {
+      "id": "a1-12-q11",
+      "context": "She can mend a fan, a radio, a kettle and a bicycle. She can't drive, and she says she can't cook, but nobody believes that part.",
+      "contextSi": "එයාට ෆෑන් එකක්, රේඩියෝවක්, කේතලයක් සහ බයිසිකලයක් හදන්න පුළුවන්. එයාට රිය පදවන්න බෑ, උයන්නත් බෑ කියලා එයා කියනවා, හැබැයි ඒ කොටස කවුරුවත් විශ්වාස කරන්නේ නෑ.",
+      "q": "කතාව අනුව: කවුරුවත් විශ්වාස නොකරන්නේ කුමක්ද?",
+      "options": [
+        "එයාට ෆෑන් හදන්න පුළුවන් බව",
+        "එයාට රිය පදවන්න බැරි බව",
+        "එයාට උයන්න බැරි බව",
+        "එයාට අවුරුදු හැත්තෑ දෙකක් බව"
+      ],
+      "answer": 2,
+      "explainSi": "'she says she can't cook, but nobody believes that part' — 'that part' යනු උයන එක ගැන."
+    },
+    {
+      "id": "a1-12-q12",
+      "context": "Three men came from the town. They looked at the engine for two hours and said, \"We can't fix this. You need a new one.\"",
+      "contextSi": "නගරයෙන් මිනිස්සු තුන්දෙනෙක් ආවා. පැය දෙකක් එන්ජිම බලලා කිව්වා, \"අපිට මේක හදන්න බෑ. අලුත් එකක් ඕන.\"",
+      "q": "කතාව අනුව: නගරයේ මිනිස්සු කීවේ කුමක්ද?",
+      "options": [
+        "ඔවුන්ට එය හදන්න පුළුවන් බව",
+        "ඔවුන්ට එය හදන්න බැරි බව, අලුත් එකක් ඕන බව",
+        "පොම්පය හොඳ බව",
+        "පෙරේරා මහත්මියට ඕන බව"
+      ],
+      "answer": 1,
+      "explainSi": "'We can't fix this. You need a new one.'"
+    },
+    {
+      "id": "a1-12-q13",
+      "context": "Mrs Perera was standing at her gate. \"Could I look at it?\" she asked. One man laughed. The other two did not, because they knew her.",
+      "contextSi": "පෙරේරා මහත්මිය ගේට්ටුව ළඟ හිටියා. \"මට ඒක බලන්න පුළුවන්ද?\" එයා ඇහුවා. එක් අයෙක් හිනා වුණා. අනිත් දෙන්නා හිනා වුණේ නෑ, මොකද ඔවුන් එයාව දැනගෙන හිටියා.",
+      "q": "කතාව අනුව: දෙන්නෙක් හිනා නොවුණේ ඇයි?",
+      "options": [
+        "ඔවුන් මහන්සියෙන් හිටි නිසා",
+        "ඔවුන් එයාව දැනගෙන හිටි නිසා — එයාට පුළුවන් බව ඔවුන් දැනගෙන හිටියා",
+        "ඔවුන්ට ඇහුණේ නැති නිසා",
+        "ඔවුන් එයාට බය වූ නිසා"
+      ],
+      "answer": 1,
+      "explainSi": "'because they knew her' — කලින් එයාගේ වැඩ දැකලා තියෙනවා."
+    },
+    {
+      "id": "a1-12-q14",
+      "context": "\"I can't explain how I know these things,\" she said. \"My father could not read, but he could hear an engine.\"",
+      "contextSi": "\"මට මේවා දැනගන්නේ කොහොමද කියලා පැහැදිලි කරන්න බෑ,\" එයා කිව්වා. \"මගේ තාත්තාට කියවන්න බැරි වුණා, හැබැයි එන්ජිමකට ඇහුම්කන් දෙන්න පුළුවන් වුණා.\"",
+      "q": "කතාව අනුව: තමන්ගේ තාත්තා ගැන එයා කියන දෙයින් අදහස් වන්නේ කුමක්ද?",
+      "options": [
+        "තාත්තා පාසල් ගියා",
+        "සමහර හැකියාවන් පොත්වලින් එන්නේ නෑ — ඒවා ඇහුම්කන් දීමෙන් එනවා",
+        "තාත්තා පොම්ප හැදුවා",
+        "තාත්තාට ඇහුණේ නෑ"
+      ],
+      "answer": 1,
+      "explainSi": "කියවන්න බැරි වුණත් එන්ජිමක් තේරුම් ගන්න පුළුවන් — දැනුම එක ආකාරයකින් විතරක් එන්නේ නෑ."
+    },
+    {
+      "id": "a1-12-q15",
+      "context": "Now the men from the town come to her first. They still can't fix the pump. But they can ask, and that is something.",
+      "contextSi": "දැන් නගරයේ මිනිස්සු මුලින්ම එයා ළඟට එනවා. ඔවුන්ට තාමත් පොම්පය හදන්න බෑ. හැබැයි අහන්න පුළුවන්, ඒකත් යමක්.",
+      "q": "කතාව අනුව: අන්තිම වාක්‍යයෙන් අදහස් වන්නේ කුමක්ද?",
+      "options": [
+        "ඔවුන් දැන් පොම්ප හදන්න ඉගෙන ගත්තා",
+        "ඔවුන්ගේ හැකියාව වෙනස් වුණේ නෑ, නමුත් උදව් ඉල්ලන්න ඉගෙන ගත්තා",
+        "ඔවුන් තවදුරටත් එන්නේ නෑ",
+        "පොම්පය නැවත කැඩුණා"
+      ],
+      "answer": 1,
+      "explainSi": "'They still can't fix the pump. But they can ask' — දක්ෂතාවය නෙවෙයි වෙනස් වුණේ, ආකල්පයයි."
+    },
+    {
+      "id": "a1-12-q16",
+      "context": "But I can sit with you at night / And listen while you speak. / Not everybody can do that — / I've practised every week.",
+      "contextSi": "හැබැයි රෑට ඔබ ළඟ ඉඳගන්න පුළුවන් / ඔබ කථා කරද්දී අහගෙන ඉන්න පුළුවන්. / ඒක හැමෝටම කරන්න බෑ — / මම හැම සතියෙම පුරුදු වුණා.",
+      "q": "කවියේ අන්තිම කොටසින් අදහස් වන්නේ කුමක්ද?",
+      "options": [
+        "ඇහුම්කන් දීමත් පුරුදු වී ලබාගන්නා හැකියාවක් බව",
+        "එයාට වෙන කිසිවක් කරන්න බැරි බව",
+        "එයාට නිදාගන්න බැරි බව",
+        "එයා සතියකට එකපාරක් කථා කරන බව"
+      ],
+      "answer": 0,
+      "explainSi": "'I've practised every week' — ගයන එකයි නටන එකයි වගේ, ඇහුම්කන් දීමත් හැකියාවක් විදිහට එයා දකිනවා."
+    },
+    {
+      "id": "a1-12-q17",
+      "context": "Customer: Could you speak a little more slowly? I can understand you, but not when you are quick.",
+      "contextSi": "පාරිභෝගිකයා: ටිකක් හෙමින් කථා කරන්න පුළුවන්ද? මට තේරෙනවා, හැබැයි ඔබ ඉක්මන් වුණාම නෑ.",
+      "q": "සංවාදයේ: පාරිභෝගිකයාගේ ප්‍රශ්නය කුමක්ද?",
+      "options": [
+        "එයාට ඉංග්‍රීසි කිසිසේත් තේරෙන්නේ නෑ",
+        "ඉක්මනට කථා කරද්දී තේරෙන්නේ නෑ",
+        "එයාට ඇහෙන්නේ නෑ",
+        "එයාට කථා කරන්න බෑ"
+      ],
+      "answer": 1,
+      "explainSi": "'I can understand you, but not when you are quick.'"
+    },
+    {
+      "id": "a1-12-q18",
+      "context": "Customer: Can I pay by card?\nClerk: I'm afraid you can't. The machine isn't working today.",
+      "contextSi": "පාරිභෝගිකයා: කාඩ් එකෙන් ගෙවන්න පුළුවන්ද?\nලිපිකරු: බෑ කියලා කියන්න වෙනවා. යන්ත්‍රය අද වැඩ කරන්නේ නෑ.",
+      "q": "සංවාදයේ: 'I'm afraid you can't' කියන්නෙන් අදහස් වන්නේ?",
+      "options": [
+        "ලිපිකරු බයයි",
+        "මෘදු ලෙස 'නෑ' කියනවා",
+        "පසුව පුළුවන් වෙයි",
+        "පාරිභෝගිකයා බය විය යුතුයි"
+      ],
+      "answer": 1,
+      "explainSi": "'I'm afraid …' යනු නරක ආරංචියක් මෘදු කරන ක්‍රමයක්. බය ගැන කිසිවක් නෑ."
+    },
+    {
+      "id": "a1-12-q19",
+      "q": "කුමන වාක්‍යය වැරදිද?",
+      "options": [
+        "Can you hear me?",
+        "Could I ask something?",
+        "Can he to come tomorrow?",
+        "They can't help today."
+      ],
+      "answer": 2,
+      "explainSi": "can පසුව 'to' යෙදෙන්නේ නෑ: 'Can he come tomorrow?'"
+    },
+    {
+      "id": "a1-12-q20",
+      "q": "'ඔබට ගිටාරය වාදනය කරන්න පුළුවන්ද?' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "Do you can play the guitar?",
+        "Can you play the guitar?",
+        "Can you plays the guitar?",
+        "You can play the guitar?"
+      ],
+      "answer": 1,
+      "explainSi": "can මුලට, ක්‍රියාව මූලික ස්වරූපයෙන්.",
+      "speak": "Can you play the guitar?"
+    },
+    {
+      "id": "a1-12-q21",
+      "q": "'Can you open the window?' සහ 'Can I open the window?' — වෙනස කුමක්ද?",
+      "options": [
+        "වෙනසක් නෑ",
+        "පළමුවැන්නෙන් අනිත් කෙනාට කරන්න කියනවා, දෙවැන්නෙන් මට කරන්න අවසර අහනවා",
+        "දෙවැන්න වඩා ආචාරශීලීයි",
+        "පළමුවැන්න අවසර ඉල්ලීමක්"
+      ],
+      "answer": 1,
+      "explainSi": "you → ඉල්ලීම. I → අවසර. සර්වනාමය තමයි වෙනස කරන්නේ."
+    },
+    {
+      "id": "a1-12-q22",
+      "q": "'My father could not read' — මෙතන 'could' යෙදෙන්නේ ඇයි?",
+      "options": [
+        "ආචාරශීලීකම නිසා",
+        "අතීතයේ තිබූ හැකියාවක් ගැන කථා කරන නිසා",
+        "ප්‍රශ්නයක් නිසා",
+        "'can' සමඟ 'not' යෙදිය නොහැකි නිසා"
+      ],
+      "answer": 1,
+      "explainSi": "'could' යෙදෙන ක්‍රම දෙකක් තියෙනවා: ආචාරශීලී ඉල්ලීම (Could you …?) සහ අතීත හැකියාව (he could hear). මෙතන දෙවැන්න."
+    }
+  ]
+}

@@ -1,0 +1,776 @@
+{
+  "goalsSi": [
+    "all, most, some, none — ප්‍රමාණ කියන වචන",
+    "'most people' සහ 'most of the people' අතර වෙනස",
+    "several, a couple of, plenty of",
+    "a few සහ few — පොඩි වචනයක, ලොකු වෙනසක්",
+    "every සහ each",
+    "ක්‍රියාව එකවචනද බහුවචනද කියන එක"
+  ],
+  "goals": [
+    "Use all, most, some and none",
+    "Tell most people from most of the people",
+    "Use several, a couple of and plenty of",
+    "Tell a few from few, and a little from little",
+    "Tell every from each",
+    "Match the verb to the quantity"
+  ],
+  "sections": [
+    {
+      "type": "note",
+      "title": "How many, roughly",
+      "titleSi": "දළ වශයෙන් කීයක්ද",
+      "bodySi": "a2-12 හි ඉගෙන ගත්තා 'a few' සහ 'a little'. a2-09 හි 'both, either, neither'.\n\nදැන් මුළු කට්ටලය — ප්‍රමාණය දළ වශයෙන් කියන වචන.\n\nවැඩිම ඉඳන් අඩුම දක්වා:\n\nall — ඔක්කොම (100%)\nmost — බොහෝමයක් (වැඩි කොටස)\nmany / a lot of — ගොඩක්\nsome — ටිකක්, සමහර\na few — කීපයක්\nnone — එකක්වත් නෑ (0%)\n\n'All the chairs are taken.' — පුටු ඔක්කොම.\n'Most people agree.' — බොහෝ දෙනා.\n'Several people are waiting.' — කීප දෙනෙක්.\n'We haven't got enough paper.' — ප්‍රමාණවත් නෑ.\n\nමේ පාඩමේ අමාරු තැන් දෙකයි:\n1. 'most people' සහ 'most of the people' — දෙකේම අර්ථ දෙකක්.\n2. 'a few' සහ 'few' — 'a' එකක් අඩු වුණාම අර්ථය පෙරළෙනවා.",
+      "body": "all, most, many, some, a few, none. Two things catch people: most people vs most of the people, and the a in a few."
+    },
+    {
+      "type": "grammar",
+      "title": "most people, or most of the people?",
+      "titleSi": "most people ද, most of the people ද?",
+      "explainSi": "දෙකම හරි — ඒත් අර්ථ දෙකක්.\n\nmost people — පොදුවේ, ලෝකයේ බොහෝ දෙනා.\n'Most people like music.' — මිනිස්සු බොහෝ දෙනෙක්.\n\nmost of the people — නිශ්චිත කණ්ඩායමක් ඇතුළේ බොහෝමයක්.\n'Most of the people in this room are teachers.' — මේ කාමරයේ ඉන්න අයගෙන් බොහෝමයක්.\n\nරීතිය: නිශ්චිත කණ්ඩායමක් ගැන නම් 'of the' එනවා.\n\nall / most / some / many / none + of the + නිශ්චිත කණ්ඩායම\n\n'Some of the chairs are broken.' — මේ පුටුවලින් සමහරක්.\n'None of the shops were open.' — අර සාප්පුවලින් එකක්වත්.\n'Many of my friends live abroad.' — මගේ යාළුවන්ගෙන් ගොඩක්.\n\nසර්වනාමයක් නම් හැමවිටම 'of':\n'all of us' ✓ ('all us' ✗) · 'most of them' ✓ · 'none of you' ✓\n\n'all' එකට විශේෂයක්: 'all the chairs' සහ 'all of the chairs' දෙකම හරි — 'of' අවශ්‍ය නෑ. ඒත් 'most', 'some', 'none' එකට නිශ්චිත කණ්ඩායමක් නම් 'of' ඕන:\n'most the people' ✗ → 'most of the people' ✓",
+      "explain": "Without of the it is people in general; with of the it is a particular group. Pronouns always take of: all of us, none of them.",
+      "formula": "most people (පොදුවේ)  ·  most of the people (මේ කණ්ඩායමේ)",
+      "table": {
+        "headers": [
+          "පොදුවේ",
+          "නිශ්චිත කණ්ඩායමක්"
+        ],
+        "rows": [
+          [
+            "Most people like tea.",
+            "Most of the people here like tea."
+          ],
+          [
+            "Some students are late.",
+            "Some of the students are late."
+          ],
+          [
+            "Many shops close early.",
+            "Many of the shops on this road close early."
+          ],
+          [
+            "All children need sleep.",
+            "All (of) the children in my class need sleep."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "Most of the seats were taken by the time we arrived.",
+          "si": "අපි එනකොටටත් සීට් වලින් බොහෝමයක් අරන් තිබුණා."
+        },
+        {
+          "en": "None of us knew the answer.",
+          "si": "අපෙන් කිසිවෙක් උත්තරය දැනගෙන හිටියේ නෑ."
+        },
+        {
+          "en": "All the seats are taken, but most people are standing anyway.",
+          "si": "සීට් ඔක්කොම අරන්, ඒත් බොහෝ දෙනා කොහොමත් හිටගෙන."
+        }
+      ],
+      "watchOutSi": "'Most of people' ✗ — 'of' එකට පස්සේ 'the' එකක් නැත්නම් නිශ්චිත දෙයක් ඕන. 'Most people' ✓ නැත්නම් 'most of the people' ✓."
+    },
+    {
+      "type": "grammar",
+      "title": "a few, or few?",
+      "titleSi": "a few ද, few ද?",
+      "explainSi": "පොඩිම වෙනස, ලොකුම අර්ථ වෙනස.\n\na few — කීපයක්. ධනාත්මකයි. 'තියෙනවා' කියන අදහස.\n'I have a few friends here.' — මට මෙතන යාළුවෝ කීප දෙනෙක් ඉන්නවා. (හොඳයි)\n\nfew — ඉතාම අඩුයි. ඍණාත්මකයි. 'නෑ තරම්' කියන අදහස.\n'I have few friends here.' — මට මෙතන යාළුවෝ නෑ තරම්. (තනිකමක්)\n\nඑකම දේ 'a little' සහ 'little' එකට:\n'There's a little time.' — ටිකක් වෙලාව තියෙනවා. (හරි යයි)\n'There's little time.' — වෙලාව නෑ තරම්. (හදිසියි)\n\nගණන් කරන්න පුළුවන් ඒවාට few; බැරි ඒවාට little (b1-32):\na few chairs / a little water\nfew chairs / little water\n\nකථාවේදී 'few' සහ 'little' තනියම යෙදෙන එක අඩුයි — ඒවා ටිකක් විධිමත්. සාමාන්‍ය කථාවේදී 'not many' සහ 'not much' යොදනවා:\n'I don't have many friends here.' = 'I have few friends here.'\n\nඒත් ලියන එකේදී 'few' සහ 'little' බලවත් — ඒවා අඩුකම අවධාරණය කරනවා.",
+      "explain": "a few is some and positive; few is hardly any and negative. Same for a little and little. Few for countable, little for uncountable.",
+      "formula": "a few / a little = තියෙනවා  ·  few / little = නෑ තරම්",
+      "table": {
+        "headers": [
+          "යෙදුම",
+          "අර්ථය",
+          "හැඟීම"
+        ],
+        "rows": [
+          [
+            "a few friends",
+            "යාළුවෝ කීප දෙනෙක්",
+            "ධනාත්මක"
+          ],
+          [
+            "few friends",
+            "යාළුවෝ නෑ තරම්",
+            "ඍණාත්මක"
+          ],
+          [
+            "a little time",
+            "ටිකක් වෙලාව",
+            "ධනාත්මක"
+          ],
+          [
+            "little time",
+            "වෙලාව නෑ තරම්",
+            "ඍණාත්මක"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "We have a few minutes — sit down.",
+          "si": "අපිට විනාඩි කීපයක් තියෙනවා — වාඩි වෙන්න."
+        },
+        {
+          "en": "We have little time, so let's start.",
+          "si": "අපිට වෙලාව නෑ තරම්, ඒ නිසා පටන් ගමු."
+        },
+        {
+          "en": "A few people stayed, but most had gone home.",
+          "si": "කීප දෙනෙක් හිටියා, ඒත් බොහෝ දෙනා ගෙදර ගිහින්."
+        }
+      ],
+      "watchOutSi": "'A few' කියන එකේ 'a' අකුරු එකයි — ඒත් අර්ථය පෙරළනවා. 'I have few friends' කිව්වොත් අහන කෙනාට දුකක් දැනෙනවා; 'a few friends' කිව්වොත් සාමාන්‍යයි."
+    },
+    {
+      "type": "grammar",
+      "title": "every, each, and the verb",
+      "titleSi": "every, each, සහ ක්‍රියාව",
+      "explainSi": "every — කණ්ඩායමක් ලෙස ඔක්කොම. පොදු නීතියක් වගේ.\n'Every student needs a book.' — හැම ශිෂ්‍යයෙක්ම.\n\neach — එකින් එක, වෙන වෙනම.\n'Each student has a different question.' — එක් එක් ශිෂ්‍යයාට වෙන වෙනම.\n\nවෙනස පොඩියි, බොහෝ විට දෙකම යෙදෙනවා. ඒත් each කියනකොට තනි තනිව සලකන එක අවධාරණය වෙනවා.\n\nදැන් වැදගත්ම කරුණ — ක්‍රියාව:\n\nevery සහ each එකට එකවචන ක්‍රියාවක්:\n'Every student is here.' ✓ ('are' ✗)\n'Each of the rooms has a window.' ✓\n\nall, most, some, many, several එකට බහුවචන:\n'All the students are here.' ✓\n'Most people agree.' ✓\n\nnone — දෙකම අහන්න ලැබෙනවා. විධිමත් ලියවිල්ලක එකවචනය, කථාවේ බහුවචනය:\n'None of them was ready.' (විධිමත්)\n'None of them were ready.' (කථාව — සාමාන්‍යයි)\n\nUncountable නම් හැමවිටම එකවචනය:\n'All the water is gone.' ✓\n'Most of the money was spent.' ✓",
+      "explain": "every and each take a singular verb; all, most and some take a plural one. With uncountable nouns everything stays singular.",
+      "formula": "every/each + එකවචන ක්‍රියාව  ·  all/most/some + බහුවචන ක්‍රියාව",
+      "table": {
+        "headers": [
+          "වචනය",
+          "ක්‍රියාව",
+          "උදාහරණය"
+        ],
+        "rows": [
+          [
+            "every",
+            "එකවචන",
+            "Every seat is taken."
+          ],
+          [
+            "each",
+            "එකවචන",
+            "Each room has a fan."
+          ],
+          [
+            "all",
+            "බහුවචන",
+            "All the seats are taken."
+          ],
+          [
+            "most",
+            "බහුවචන",
+            "Most people agree."
+          ],
+          [
+            "all + uncountable",
+            "එකවචන",
+            "All the water is gone."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "Every child in the class has a partner.",
+          "si": "පන්තියේ හැම ළමයෙකුටම සහකරුවෙක් ඉන්නවා."
+        },
+        {
+          "en": "Each of the four rooms has its own key.",
+          "si": "කාමර හතරෙන් එක් එක්කටම වෙන වෙනම යතුරක් තියෙනවා."
+        },
+        {
+          "en": "Several people were waiting, but none of them complained.",
+          "si": "කීප දෙනෙක් බලාගෙන හිටියා, ඒත් කිසිවෙක් පැමිණිලි කළේ නෑ."
+        }
+      ],
+      "watchOutSi": "'Every students are' ✗ — 'every' එකට හැමවිටම එකවචනය: 'Every student is'. සිංහලෙන් 'හැම ශිෂ්‍යයෝම' කියලා බහුවචනයක් හිතෙන නිසා මේක වැරදෙනවා."
+    },
+    {
+      "type": "vocab",
+      "title": "Words for how much",
+      "titleSi": "ප්‍රමාණය කියන වචන",
+      "introSi": "වැඩිම ඉඳන් අඩුම දක්වා.",
+      "items": [
+        {
+          "en": "all",
+          "si": "ඔක්කොම",
+          "say": "ඕල්",
+          "exampleEn": "All the seats are taken.",
+          "exampleSi": "සීට් ඔක්කොම අරන්."
+        },
+        {
+          "en": "most",
+          "si": "බොහෝමයක්",
+          "say": "මෝස්ට්",
+          "exampleEn": "Most people agree.",
+          "exampleSi": "බොහෝ දෙනා එකඟයි."
+        },
+        {
+          "en": "many",
+          "si": "ගොඩක්",
+          "say": "මෙනි",
+          "exampleEn": "Many shops are closed.",
+          "exampleSi": "සාප්පු ගොඩක් වහලා."
+        },
+        {
+          "en": "a lot of",
+          "si": "ගොඩක්",
+          "say": "අ ලොට් ඔෆ්",
+          "exampleEn": "A lot of people came.",
+          "exampleSi": "මිනිස්සු ගොඩක් ආවා."
+        },
+        {
+          "en": "several",
+          "si": "කීපයක්",
+          "say": "සෙවරල්",
+          "exampleEn": "Several people are waiting.",
+          "exampleSi": "කීප දෙනෙක් බලාගෙන."
+        },
+        {
+          "en": "a couple of",
+          "si": "දෙක තුනක්",
+          "say": "අ කපල් ඔෆ්",
+          "exampleEn": "A couple of days.",
+          "exampleSi": "දවස් දෙක තුනක්."
+        },
+        {
+          "en": "some",
+          "si": "සමහර, ටිකක්",
+          "say": "සම්",
+          "exampleEn": "Some of the chairs are broken.",
+          "exampleSi": "සමහර පුටු කැඩිලා."
+        },
+        {
+          "en": "a few",
+          "si": "කීපයක් (තියෙනවා)",
+          "say": "අ ෆිව්",
+          "exampleEn": "I have a few friends here.",
+          "exampleSi": "මට මෙතන යාළුවෝ කීප දෙනෙක්."
+        },
+        {
+          "en": "few",
+          "si": "නෑ තරම්",
+          "say": "ෆිව්",
+          "exampleEn": "Few people came.",
+          "exampleSi": "මිනිස්සු ආවේ නෑ තරම්."
+        },
+        {
+          "en": "a little",
+          "si": "ටිකක් (තියෙනවා)",
+          "say": "අ ලිටල්",
+          "exampleEn": "There's a little time.",
+          "exampleSi": "ටිකක් වෙලාව තියෙනවා."
+        },
+        {
+          "en": "little",
+          "si": "නෑ තරම්",
+          "say": "ලිටල්",
+          "exampleEn": "There's little hope.",
+          "exampleSi": "බලාපොරොත්තුවක් නෑ තරම්."
+        },
+        {
+          "en": "none",
+          "si": "එකක්වත් නෑ",
+          "say": "නන්",
+          "exampleEn": "None of them came.",
+          "exampleSi": "ඒගොල්ලන්ගෙන් කිසිවෙක් ආවේ නෑ."
+        },
+        {
+          "en": "every",
+          "si": "හැම",
+          "say": "එව්රි",
+          "exampleEn": "Every seat is taken.",
+          "exampleSi": "හැම සීට් එකක්ම අරන්."
+        },
+        {
+          "en": "each",
+          "si": "එක් එක්",
+          "say": "ඊච්",
+          "exampleEn": "Each room has a fan.",
+          "exampleSi": "එක් එක් කාමරයට ෆෑන් එකක්."
+        },
+        {
+          "en": "enough",
+          "si": "ප්‍රමාණවත්",
+          "say": "ඉනෆ්",
+          "exampleEn": "We haven't got enough paper.",
+          "exampleSi": "අපිට ඇති තරම් කඩදාසි නෑ."
+        },
+        {
+          "en": "plenty of",
+          "si": "ඕන තරම්",
+          "say": "ප්ලෙන්ටි ඔෆ්",
+          "exampleEn": "Plenty of time.",
+          "exampleSi": "ඕන තරම් වෙලාව."
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "How many chairs?",
+      "titleSi": "පුටු කීයද?",
+      "settingSi": "උත්සවයකට සූදානම් වෙනවා. ප්‍රමාණ කියන වචන කීයක් තියෙනවාද?",
+      "lines": [
+        {
+          "speaker": "Nadeesha",
+          "en": "How many chairs do we have?",
+          "si": "අපිට පුටු කීයක් තියෙනවාද?"
+        },
+        {
+          "speaker": "Ruwan",
+          "en": "Not enough. Most of the good ones are still at the hall.",
+          "si": "ඇති තරම් නෑ. හොඳ ඒවායින් බොහෝමයක් තාම ශාලාවේ."
+        },
+        {
+          "speaker": "Nadeesha",
+          "en": "How many people are coming?",
+          "si": "කී දෙනෙක් එනවාද?"
+        },
+        {
+          "speaker": "Ruwan",
+          "en": "Forty said yes. But few of them replied on time, so I'm guessing.",
+          "si": "හතළිහක් ඔව් කිව්වා. ඒත් ඒගොල්ලන්ගෙන් වෙලාවට උත්තර දුන්නේ නෑ තරම්, ඒ නිසා මම අනුමාන කරනවා."
+        },
+        {
+          "speaker": "Nadeesha",
+          "en": "Every guest needs a seat. Can we borrow a few from next door?",
+          "si": "හැම අමුත්තෙකුටම සීට් එකක් ඕන. පැත්තෙන් කීපයක් ඉල්ලගන්න පුළුවන්ද?"
+        },
+        {
+          "speaker": "Ruwan",
+          "en": "I asked. All of theirs are out too — there's a wedding.",
+          "si": "මම ඇහුවා. ඒගොල්ලන්ගේ ඔක්කොම එළියේ — මංගල්‍යයක් තියෙනවා."
+        },
+        {
+          "speaker": "Nadeesha",
+          "en": "Then we have little choice. Mats on the floor.",
+          "si": "එහෙනම් අපිට තේරීමක් නෑ තරම්. බිම පැදුරු."
+        }
+      ]
+    },
+    {
+      "type": "story",
+      "title": "Few came, and a few stayed",
+      "titleSi": "ආවේ නෑ තරම්, කීප දෙනෙක් හිටියා",
+      "introSi": "'few' සහ 'a few' අතර වෙනස ගැන කෙටි කතාවක්.",
+      "paragraphs": [
+        {
+          "en": "The library ran a poetry evening on the first Friday of every month. In January few people came — six, in a room set for forty.",
+          "si": "පුස්තකාලය හැම මාසෙකම පළමු සිකුරාදා කවි සන්ධ්‍යාවක් තිබ්බා. ජනවාරියේ ආවේ නෑ තරම් — හතළිහකට සකස් කරපු කාමරයක හය දෙනෙක්."
+        },
+        {
+          "en": "The librarian nearly cancelled it. Instead she moved it to the small room, where six people is a crowd rather than an embarrassment.",
+          "si": "පුස්තකාලයාධිපතිනිය ඒක අවලංගු කරන්න ළං වුණා. ඒ වෙනුවට ඇය ඒක පොඩි කාමරයට මාරු කළා — එතන හය දෙනෙක් කියන්නේ සෙනඟක්, ලැජ්ජාවක් නෙවෙයි."
+        },
+        {
+          "en": "A few of those six came back every month for two years and brought others. By the second December the small room was too small.",
+          "si": "ඒ හය දෙනාගෙන් කීප දෙනෙක් අවුරුදු දෙකක් හැම මාසෙම ආවා, තව අයවත් ගෙනාවා. දෙවෙනි දෙසැම්බර් වෙනකොට පොඩි කාමරය පොඩි වැඩියි."
+        },
+        {
+          "en": "Few came, and a few stayed. One word between them, and the whole difference is in that word.",
+          "si": "ආවේ නෑ තරම්, කීප දෙනෙක් රැඳුණා. වචන දෙක අතරේ වෙනස තියෙන්නේ එක අකුරක — ඒත් මුළු කතාවම ඒකේ."
+        }
+      ],
+      "glossary": [
+        {
+          "en": "librarian",
+          "si": "පුස්තකාලයාධිපති"
+        },
+        {
+          "en": "cancel",
+          "si": "අවලංගු කරනවා"
+        },
+        {
+          "en": "embarrassment",
+          "si": "ලැජ්ජාව"
+        },
+        {
+          "en": "crowd",
+          "si": "සෙනඟ"
+        }
+      ],
+      "questionsSi": [
+        "'Few people came' කියන එකේ අර්ථය මොකක්ද?",
+        "'A few of those six came back' කියන එකේ අර්ථය මොකක්ද?",
+        "පුස්තකාලයාධිපතිනිය කළේ මොකක්ද?"
+      ]
+    },
+    {
+      "type": "tip",
+      "title": "of the, or nothing",
+      "titleSi": "of the, නැත්නම් කිසිවක් නෑ",
+      "bodySi": "නිශ්චිත කණ්ඩායමක් ගැන කථා කරනවා නම් — of the.\nපොදුවේ කථා කරනවා නම් — කිසිවක් නෑ.\n\n✓ Most people like tea. (පොදුවේ)\n✓ Most of the people here like tea. (මේ කණ්ඩායම)\n✗ Most of people like tea.\n\nසර්වනාමයක් නම් හැමවිටම 'of':\n✓ all of us · most of them · none of you\n✗ all us · most them\n\n'All' එකට විතරක් තේරීමක් තියෙනවා: 'all the chairs' සහ 'all of the chairs' දෙකම හරි.",
+      "body": "of the for a particular group, nothing for people in general, and always of before a pronoun."
+    },
+    {
+      "type": "practice",
+      "title": "Choose the quantity",
+      "titleSi": "ප්‍රමාණය තෝරන්න",
+      "instructionSi": "වරහන් තුළ ඇති දෙකෙන් ගැලපෙන එක තෝරන්න.",
+      "items": [
+        {
+          "prompt": "___ people like tea. (Most / Most of)",
+          "answer": "Most",
+          "hintSi": "පොදුවේ කථා කරනවා.",
+          "full": "Most people like tea."
+        },
+        {
+          "prompt": "___ the people in this room are teachers. (Most / Most of)",
+          "answer": "Most of",
+          "hintSi": "නිශ්චිත කණ්ඩායමක්.",
+          "full": "Most of the people in this room are teachers."
+        },
+        {
+          "prompt": "I have ___ friends here, so I'm never lonely. (few / a few)",
+          "answer": "a few",
+          "hintSi": "ධනාත්මක — තියෙනවා.",
+          "full": "I have a few friends here."
+        },
+        {
+          "prompt": "We have ___ time, so hurry. (little / a little)",
+          "answer": "little",
+          "hintSi": "ඍණාත්මක — නෑ තරම්.",
+          "full": "We have little time, so hurry."
+        },
+        {
+          "prompt": "Every seat ___ taken. (is / are)",
+          "answer": "is",
+          "hintSi": "'every' එකට එකවචනය.",
+          "full": "Every seat is taken."
+        },
+        {
+          "prompt": "___ of us knew the answer. (None / No)",
+          "answer": "None",
+          "hintSi": "සර්වනාමයක් එක්ක 'of'.",
+          "full": "None of us knew the answer."
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "b1-31-q1",
+      "q": "'most people' සහ 'most of the people' —",
+      "options": [
+        "එකම දේ",
+        "පළවෙනි එක පොදුවේ; දෙවෙනි එක නිශ්චිත කණ්ඩායමක්",
+        "දෙවෙනි එක වැරදියි",
+        "පළවෙනි එක වැරදියි"
+      ],
+      "answer": 1,
+      "explainSi": "'of the' කිව්වම නිශ්චිත කණ්ඩායමක්."
+    },
+    {
+      "id": "b1-31-q2",
+      "q": "කුමන එක වැරදිද?",
+      "options": [
+        "most people",
+        "most of the people",
+        "most of people",
+        "most of them"
+      ],
+      "answer": 2,
+      "explainSi": "'of' එකට පස්සේ 'the' හෝ නිශ්චිත දෙයක් ඕන."
+    },
+    {
+      "id": "b1-31-q3",
+      "q": "'I have few friends here' කියන එකේ හැඟීම?",
+      "options": [
+        "ධනාත්මක — යාළුවෝ ඉන්නවා",
+        "ඍණාත්මක — යාළුවෝ නෑ තරම්",
+        "මධ්‍යස්ථ",
+        "ප්‍රශ්නයක්"
+      ],
+      "answer": 1,
+      "explainSi": "'a' නැති 'few' ඍණාත්මකයි."
+    },
+    {
+      "id": "b1-31-q4",
+      "q": "'I have a few friends here' කියන එකේ හැඟීම?",
+      "options": [
+        "ඍණාත්මක",
+        "ධනාත්මක — කීප දෙනෙක් ඉන්නවා",
+        "යාළුවෝ නෑ",
+        "ගොඩක් ඉන්නවා"
+      ],
+      "answer": 1,
+      "explainSi": "'a few' = කීපයක්, තියෙනවා."
+    },
+    {
+      "id": "b1-31-q5",
+      "q": "ගණන් කරන්න බැරි නාම පදයකට යෙදෙන්නේ?",
+      "options": [
+        "a few",
+        "a little",
+        "several",
+        "many"
+      ],
+      "answer": 1,
+      "explainSi": "few countable; little uncountable."
+    },
+    {
+      "id": "b1-31-q6",
+      "q": "'Every student ___ a book.'",
+      "options": [
+        "need",
+        "needs",
+        "are needing",
+        "have"
+      ],
+      "answer": 1,
+      "explainSi": "'every' එකට එකවචන ක්‍රියාවක්."
+    },
+    {
+      "id": "b1-31-q7",
+      "q": "'All the students ___ here.'",
+      "options": [
+        "is",
+        "are",
+        "was",
+        "has"
+      ],
+      "answer": 1,
+      "explainSi": "'all' + බහුවචන නාම පදයකට බහුවචන ක්‍රියාවක්."
+    },
+    {
+      "id": "b1-31-q8",
+      "q": "'every' සහ 'each' අතර වෙනස?",
+      "options": [
+        "වෙනසක් නෑ",
+        "'each' එකින් එක සලකන එක අවධාරණය කරනවා",
+        "'every' එකවචන, 'each' බහුවචන",
+        "'each' වැරදියි"
+      ],
+      "answer": 1,
+      "explainSi": "දෙකම එකවචන ක්‍රියාවක් ගන්නවා."
+    },
+    {
+      "id": "b1-31-q9",
+      "q": "සර්වනාමයක් එක්ක?",
+      "options": [
+        "all us",
+        "all of us",
+        "all we",
+        "all our"
+      ],
+      "answer": 1,
+      "explainSi": "සර්වනාමයකට හැමවිටම 'of'."
+    },
+    {
+      "id": "b1-31-q10",
+      "q": "'All the water ___ gone.'",
+      "options": [
+        "is",
+        "are",
+        "were",
+        "have"
+      ],
+      "answer": 0,
+      "explainSi": "Uncountable නම් එකවචනය."
+    },
+    {
+      "id": "b1-31-q11",
+      "q": "'several' කියන්නේ?",
+      "options": [
+        "ඔක්කොම",
+        "කීපයක්",
+        "එකක්වත් නෑ",
+        "බොහෝමයක්"
+      ],
+      "answer": 1,
+      "explainSi": "'a few' එකට වඩා ටිකක් වැඩියි."
+    },
+    {
+      "id": "b1-31-q12",
+      "q": "'None of them ___ ready.' — කථාවේදී බහුලම එක?",
+      "options": [
+        "was",
+        "were",
+        "is",
+        "has"
+      ],
+      "answer": 1,
+      "explainSi": "විධිමත් ලියවිල්ලක 'was'; කථාවේ 'were' සාමාන්‍යයි."
+    },
+    {
+      "id": "b1-31-q13",
+      "q": "'We have little time' කියන්නේ?",
+      "options": [
+        "වෙලාව ඕන තරම්",
+        "වෙලාව නෑ තරම් — හදිසියි",
+        "ටිකක් වෙලාව තියෙනවා",
+        "වෙලාව ගැන ප්‍රශ්නයක් නෑ"
+      ],
+      "answer": 1,
+      "explainSi": "'a little' නම් ටිකක් තියෙනවා."
+    },
+    {
+      "id": "b1-31-q14",
+      "q": "'all the chairs' සහ 'all of the chairs' —",
+      "options": [
+        "එකක් වැරදියි",
+        "දෙකම හරි — 'all' එකට 'of' අවශ්‍ය නෑ",
+        "අර්ථ දෙකක්",
+        "දෙකම වැරදියි"
+      ],
+      "answer": 1,
+      "explainSi": "'most', 'some', 'none' එකට නම් 'of' ඕන."
+    },
+    {
+      "id": "b1-31-q15",
+      "q": "'Every students are here' — වැරැද්ද?",
+      "options": [
+        "'here' වැරදියි",
+        "'every' එකට එකවචනය: 'Every student is here'",
+        "'are' හරි",
+        "වැරැද්දක් නෑ"
+      ],
+      "answer": 1,
+      "explainSi": "සිංහලෙන් බහුවචනයක් හිතෙන නිසා මේක බහුලයි."
+    },
+    {
+      "id": "b1-31-q16",
+      "q": "වැඩිම ඉඳන් අඩුම දක්වා පිළිවෙළ?",
+      "options": [
+        "some → most → all → none",
+        "all → most → some → none",
+        "none → all → most → some",
+        "most → all → none → some"
+      ],
+      "answer": 1,
+      "explainSi": "all (100%) → most → some → a few → none (0%)."
+    },
+    {
+      "id": "b1-31-q17",
+      "q": "කථාවේදී 'few' වෙනුවට බහුලව යෙදෙන්නේ?",
+      "options": [
+        "not many",
+        "a lot of",
+        "most",
+        "all"
+      ],
+      "answer": 0,
+      "explainSi": "'I don't have many friends' = 'I have few friends'."
+    },
+    {
+      "id": "b1-31-q18",
+      "q": "'Each of the rooms ___ a window.'",
+      "options": [
+        "have",
+        "has",
+        "are having",
+        "were"
+      ],
+      "answer": 1,
+      "explainSi": "'each' එකට එකවචනය."
+    }
+  ],
+  "vocab": [
+    {
+      "en": "all",
+      "si": "ඔක්කොම",
+      "say": "ඕල්",
+      "exampleEn": "All the seats are taken.",
+      "exampleSi": "සීට් ඔක්කොම අරන්."
+    },
+    {
+      "en": "most",
+      "si": "බොහෝමයක්",
+      "say": "මෝස්ට්",
+      "exampleEn": "Most people agree.",
+      "exampleSi": "බොහෝ දෙනා එකඟයි."
+    },
+    {
+      "en": "many",
+      "si": "ගොඩක්",
+      "say": "මෙනි",
+      "exampleEn": "Many shops are closed.",
+      "exampleSi": "සාප්පු ගොඩක් වහලා."
+    },
+    {
+      "en": "a lot of",
+      "si": "ගොඩක්",
+      "say": "අ ලොට් ඔෆ්",
+      "exampleEn": "A lot of people came.",
+      "exampleSi": "මිනිස්සු ගොඩක් ආවා."
+    },
+    {
+      "en": "several",
+      "si": "කීපයක්",
+      "say": "සෙවරල්",
+      "exampleEn": "Several people are waiting.",
+      "exampleSi": "කීප දෙනෙක් බලාගෙන."
+    },
+    {
+      "en": "a couple of",
+      "si": "දෙක තුනක්",
+      "say": "අ කපල් ඔෆ්",
+      "exampleEn": "A couple of days.",
+      "exampleSi": "දවස් දෙක තුනක්."
+    },
+    {
+      "en": "some",
+      "si": "සමහර, ටිකක්",
+      "say": "සම්",
+      "exampleEn": "Some of the chairs are broken.",
+      "exampleSi": "සමහර පුටු කැඩිලා."
+    },
+    {
+      "en": "a few",
+      "si": "කීපයක් (තියෙනවා)",
+      "say": "අ ෆිව්",
+      "exampleEn": "I have a few friends here.",
+      "exampleSi": "මට මෙතන යාළුවෝ කීප දෙනෙක්."
+    },
+    {
+      "en": "few",
+      "si": "නෑ තරම්",
+      "say": "ෆිව්",
+      "exampleEn": "Few people came.",
+      "exampleSi": "මිනිස්සු ආවේ නෑ තරම්."
+    },
+    {
+      "en": "a little",
+      "si": "ටිකක් (තියෙනවා)",
+      "say": "අ ලිටල්",
+      "exampleEn": "There's a little time.",
+      "exampleSi": "ටිකක් වෙලාව තියෙනවා."
+    },
+    {
+      "en": "little",
+      "si": "නෑ තරම්",
+      "say": "ලිටල්",
+      "exampleEn": "There's little hope.",
+      "exampleSi": "බලාපොරොත්තුවක් නෑ තරම්."
+    },
+    {
+      "en": "none",
+      "si": "එකක්වත් නෑ",
+      "say": "නන්",
+      "exampleEn": "None of them came.",
+      "exampleSi": "ඒගොල්ලන්ගෙන් කිසිවෙක් ආවේ නෑ."
+    },
+    {
+      "en": "every",
+      "si": "හැම",
+      "say": "එව්රි",
+      "exampleEn": "Every seat is taken.",
+      "exampleSi": "හැම සීට් එකක්ම අරන්."
+    },
+    {
+      "en": "each",
+      "si": "එක් එක්",
+      "say": "ඊච්",
+      "exampleEn": "Each room has a fan.",
+      "exampleSi": "එක් එක් කාමරයට ෆෑන් එකක්."
+    },
+    {
+      "en": "enough",
+      "si": "ප්‍රමාණවත්",
+      "say": "ඉනෆ්",
+      "exampleEn": "We haven't got enough paper.",
+      "exampleSi": "අපිට ඇති තරම් කඩදාසි නෑ."
+    },
+    {
+      "en": "plenty of",
+      "si": "ඕන තරම්",
+      "say": "ප්ලෙන්ටි ඔෆ්",
+      "exampleEn": "Plenty of time.",
+      "exampleSi": "ඕන තරම් වෙලාව."
+    }
+  ]
+}

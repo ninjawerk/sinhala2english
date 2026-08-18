@@ -1,0 +1,861 @@
+{
+  "hero": {
+    "src": "images/a2-13-hero.webp",
+    "alt": "Ruwan stretching up on tiptoe to reach a box on a high shelf that is just out of reach, storeroom with wooden shelving."
+  },
+  "goalsSi": [
+    "too + විශේෂණය + to + ක්‍රියාව — ප්‍රමාණයට වඩා වැඩි, නරක ප්‍රතිඵලයක්",
+    "විශේෂණය + enough + to + ක්‍රියාව — ප්‍රමාණවත්, හොඳ ප්‍රතිඵලයක්",
+    "too යනු very නොවන බව",
+    "enough විශේෂණයට පස්සේ, නාම පදයට කලින් යන ආකාරය",
+    "not + විශේෂණය + enough — too හි අනිත් පැත්ත"
+  ],
+  "goals": [
+    "Use too + adjective + to for an unwanted result",
+    "Use adjective + enough + to for a sufficient result",
+    "Tell too apart from very",
+    "Put enough in the right position",
+    "Use not … enough as the other side of too"
+  ],
+  "sections": [
+    {
+      "type": "note",
+      "title": "too always means a problem",
+      "titleSi": "too හැම විටම ප්‍රශ්නයක් කියනවා",
+      "bodySi": "සිංහල කථා කරන අය ගොඩක් වෙලාවට 'too' යොදනවා 'ගොඩක්' කියන අර්ථයට — 'She is too beautiful' කියලා ප්‍රශංසාවක් කරන්න හිතලා.\n\nහැබැයි ඉංග්‍රීසියේ 'too' කිසිම විටෙක සරලව 'ගොඩක්' කියන අර්ථයට යෙදෙන්නේ නෑ. 'too' හැම විටම කියන්නේ 'ප්‍රමාණයට වඩා වැඩි, ප්‍රශ්නයක් ඇති කරන තරමට' කියලා:\n\nThe tea is too hot. — රස්නෙයි, බොන්න බැරි තරමට. (ප්‍රශ්නයක්)\nThe tea is very hot. — රස්නෙයි, නමුත් බොන්න පුළුවන්. (ප්‍රශ්නයක් නෑ)\n\n'She is too beautiful' කිව්වොත් ඉංග්‍රීසි කථා කරන කෙනෙක්ට ඇහෙන්නේ අමුතුයි — 'ලස්සන එක ප්‍රශ්නයක්' කියලා අර්ථයක් වගේ. ප්‍රශංසාවක් කරන්න 'very beautiful' හෝ 'so beautiful' යෙදෙනවා.\n\nඑනිසා: ප්‍රශ්නයක් තියෙනවා නම් 'too'. ප්‍රශ්නයක් නෑ, ගොඩක් කියන එක විතරයි නම් 'very'.",
+      "body": "too = more than needed, causing a problem. very = simply a lot, no problem implied."
+    },
+    {
+      "type": "grammar",
+      "title": "too + adjective + to + verb",
+      "titleSi": "too + විශේෂණය + to + ක්‍රියාව",
+      "explainSi": "'too' පසුව විශේෂණය, ඊට පස්සේ 'to' + ක්‍රියාවේ මූලික ස්වරූපය — ඒ ප්‍රමාණය නිසා කරන්න බැරි වුණු දෙය.",
+      "formula": "too + adjective + to + verb",
+      "table": {
+        "headers": [
+          "වාක්‍යය",
+          "ප්‍රතිඵලය",
+          "සිංහල"
+        ],
+        "rows": [
+          [
+            "The tea is too hot to drink.",
+            "බොන්න බැරි",
+            "තේ රස්නෙයි, බොන්න බැරි."
+          ],
+          [
+            "I'm too tired to walk any further.",
+            "ඇවිදින්න බැරි",
+            "මම මහන්සියි, තව ඇවිදින්න බැරි."
+          ],
+          [
+            "This box is too heavy to carry.",
+            "එසවගන්න බැරි",
+            "මේ පෙට්ටිය බර, එසවගන්න බැරි."
+          ],
+          [
+            "It's too late to call her now.",
+            "කථා කරන්න බැරි",
+            "දැන් පරක්කුයි, එයාට කථා කරන්න බැරි."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "The music was too loud to hear each other talk.",
+          "si": "සංගීතය හයියෙන් තිබුණා, එකිනෙකා කථා කරන එකවත් ඇහුණේ නෑ."
+        },
+        {
+          "en": "She was too nervous to speak in front of everyone.",
+          "si": "එයා හයියෙන් කරදර වුණා, හැමෝම ඉස්සරහ කථා කරන්න බැරි වුණා."
+        }
+      ],
+      "watchOutSi": "'too' පසුව 'for' + ක්‍රියාව යෙදෙන්නේ නෑ — 'too hot for drink' නෙවෙයි, 'too hot to drink'."
+    },
+    {
+      "type": "grammar",
+      "title": "adjective + enough + to + verb",
+      "titleSi": "විශේෂණය + enough + to + ක්‍රියාව",
+      "explainSi": "'enough' විශේෂණයට පස්සේ යනවා — 'too' ට ප්‍රතිවිරුද්ධව. ප්‍රමාණවත් නිසා දෙයක් කරන්න පුළුවන් වුණාම යෙදෙනවා.",
+      "formula": "adjective + enough + to + verb",
+      "table": {
+        "headers": [
+          "වාක්‍යය",
+          "ප්‍රතිඵලය",
+          "සිංහල"
+        ],
+        "rows": [
+          [
+            "He is old enough to drive.",
+            "රිය පදවන්න පුළුවන්",
+            "එයාට රිය පදවන තරම් වයස තියෙනවා."
+          ],
+          [
+            "The water is warm enough to swim in.",
+            "පිහිනන්න පුළුවන්",
+            "වතුර පිහිනන තරම් උණුසුම්."
+          ],
+          [
+            "Is the soup cool enough to eat?",
+            "කන්න පුළුවන්ද",
+            "සුප් එක කන තරම් සීතලද?"
+          ],
+          [
+            "I'm strong enough to lift this.",
+            "එසවගන්න පුළුවන්",
+            "මට මේක එසවගන්න තරම් ශක්තිය තියෙනවා."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "Is she old enough to understand this?",
+          "si": "එයාට මේක තේරුම් ගන්නා තරම් වයස තියෙනවාද?"
+        },
+        {
+          "en": "The bag isn't big enough to hold everything.",
+          "si": "බෑග් එක හැම දෙයක්ම දරාගන්නා තරම් ලොකු නෑ."
+        }
+      ],
+      "watchOutSi": "'enough' නාම පදයට කලින් යනවා, විශේෂණයට පස්සේ යනවා — 'enough big' නෙවෙයි 'big enough'; 'time enough' නෙවෙයි 'enough time'."
+    },
+    {
+      "type": "grammar",
+      "title": "enough: after the adjective, before the noun",
+      "titleSi": "enough: විශේෂණයට පස්සේ, නාම පදයට කලින්",
+      "explainSi": "මේකයි ලේසියෙන්ම වරදින තැන. එකම වචනය 'enough', හැබැයි ස්ථානය දෙකක් — විශේෂණයක් සමඟද නාම පදයක් සමඟද කියලා බලන්න.",
+      "formula": "adjective + enough  ·  enough + noun",
+      "table": {
+        "headers": [
+          "විශේෂණය සමඟ",
+          "නාම පදය සමඟ"
+        ],
+        "rows": [
+          [
+            "big enough",
+            "enough time"
+          ],
+          [
+            "old enough",
+            "enough money"
+          ],
+          [
+            "strong enough",
+            "enough food"
+          ],
+          [
+            "warm enough",
+            "enough space"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "Do we have enough time to finish this?",
+          "si": "මේක ඉවර කරන්න අපිට ප්‍රමාණවත් වෙලාව තියෙනවාද?"
+        },
+        {
+          "en": "Is this room big enough for the whole family?",
+          "si": "මුළු පවුලටම මේ කාමරය ප්‍රමාණවත් ලොකුද?"
+        },
+        {
+          "en": "We don't have enough chairs for everyone.",
+          "si": "හැමෝටම ප්‍රමාණවත් පුටු අපිට නෑ."
+        }
+      ],
+      "watchOutSi": "'enough big' සහ 'time enough' දෙකම වැරදියි. විශේෂණයට 'enough' පස්සේ, නාම පදයට 'enough' කලින්."
+    },
+    {
+      "type": "grammar",
+      "title": "not … enough — the other side of too",
+      "titleSi": "not ... enough — too හි අනිත් පැත්ත",
+      "explainSi": "'too' සහ 'not … enough' බොහෝ වෙලාවට එකම දෙයම කියනවා, ප්‍රතිවිරුද්ධ දිශාවකින්.",
+      "formula": "too + adjective = not + adjective + enough  (opposite direction, same meaning)",
+      "table": {
+        "headers": [
+          "too",
+          "not ... enough",
+          "අර්ථය"
+        ],
+        "rows": [
+          [
+            "too young to drive",
+            "not old enough to drive",
+            "රිය පදවන්න බෑ"
+          ],
+          [
+            "too small for me",
+            "not big enough for me",
+            "මට හරි යන්නේ නෑ (කුඩායි)"
+          ],
+          [
+            "too weak to lift it",
+            "not strong enough to lift it",
+            "එසවගන්න බෑ"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "He is too young to drive. / He isn't old enough to drive.",
+          "si": "එයාට රිය පදවන්න වයස මදි — දෙකෙන්ම එකම කරුණ."
+        },
+        {
+          "en": "This shirt is too small for me. / This shirt isn't big enough for me.",
+          "si": "මේ කමිසය මට කුඩායි — දෙකෙන්ම එකම කරුණ."
+        }
+      ],
+      "watchOutSi": "දෙකම හරි, එකම අර්ථය — 'too young' කියද්දී අවුරුදු ගැන කථා කරනවා; 'not old enough' කියද්දීත් අවුරුදු ගැනම, විරුද්ධ පැත්තෙන්."
+    },
+    {
+      "type": "vocab",
+      "title": "Too much, not enough",
+      "titleSi": "ගොඩක් වැඩි, ප්‍රමාණවත් නෑ",
+      "items": [
+        {
+          "en": "too",
+          "si": "ප්‍රමාණයට වඩා (ප්‍රශ්නයක්)",
+          "say": "ටූ"
+        },
+        {
+          "en": "enough",
+          "si": "ප්‍රමාණවත්",
+          "say": "එනොෆ්"
+        },
+        {
+          "en": "heavy",
+          "si": "බර",
+          "say": "හෙවි"
+        },
+        {
+          "en": "loud",
+          "si": "හයියෙන්",
+          "say": "ලවුඩ්"
+        },
+        {
+          "en": "nervous",
+          "si": "කරදර වූ",
+          "say": "නර්වස්"
+        },
+        {
+          "en": "strong",
+          "si": "ශක්තිමත්",
+          "say": "ස්ට්‍රෝං"
+        },
+        {
+          "en": "weak",
+          "si": "දුර්වල",
+          "say": "වීක්"
+        },
+        {
+          "en": "space",
+          "si": "ඉඩ",
+          "say": "ස්පේස්"
+        },
+        {
+          "en": "afford",
+          "si": "දරාගන්නවා (මුදලින්)",
+          "say": "අෆෝඩ්"
+        },
+        {
+          "en": "risky",
+          "si": "අවදානම් සහිත",
+          "say": "රිස්කි"
+        },
+        {
+          "en": "delay",
+          "si": "ප්‍රමාද වීම",
+          "say": "ඩිලේ"
+        },
+        {
+          "en": "postpone",
+          "si": "කල් දානවා",
+          "say": "පෝස්ට්පෝන්"
+        },
+        {
+          "en": "budget (verb)",
+          "si": "සැලසුම් කරනවා (මුදල්)",
+          "say": "බජට්"
+        },
+        {
+          "en": "spare (adj)",
+          "si": "ඉතුරු",
+          "say": "ස්පෙයාර්"
+        }
+      ]
+    },
+    {
+      "type": "story",
+      "title": "The Trip That Almost Didn't Happen",
+      "titleSi": "ගිහින් නොයන්න තිබූ ගමන",
+      "introSi": "සම්පාදනය කරගත් ගමනක් — too/enough දෙකම ගොඩක් තැන් වලින් තීරණය කරන කතාවක්.",
+      "paragraphs": [
+        {
+          "en": "Three of us planned a trip to Ella, and two weeks before, everything nearly fell apart. \"We don't have enough money,\" Ruwan said, looking at what we had saved.",
+          "si": "අපි තුන්දෙනෙක් එල්ලට ගමනක් සැලසුම් කළා, දෙසතියකට කලින්, හැම දෙයක්ම කඩාවැටෙන්න ආසන්නයි වුණා. \"අපිට ප්‍රමාණවත් සල්ලි නෑ,\" රුවන් කිව්වා, අපි ඉතුරු කරගත්ත ටික බලලා."
+        },
+        {
+          "en": "The hotel we wanted was too expensive, and the cheaper one was too far from the train station to walk to. \"Is it too late to change our dates?\" I asked.",
+          "si": "අපිට ඕන වුණ හෝටලය මිල අධිකයි, ලාභ එක දුම්රියපොළින් ඇවිද යන්න ගොඩක් දුරයි. \"අපේ දිනයන් වෙනස් කරන්න ප්‍රමාද වැඩියි ද?\" මම ඇහුවා."
+        },
+        {
+          "en": "It wasn't too late. We moved the trip back a month, which gave us just enough time to save a little more. We also found a smaller hotel, close enough to walk, cheap enough to afford.",
+          "si": "ප්‍රමාද වැඩි වුණේ නෑ. අපි ගමන මාසයකින් ආපහු ගැනුවා, ඒකෙන් තව ටිකක් ඉතුරු කරන්න හරියටම ප්‍රමාණවත් වෙලාවක් ලැබුණා. අපිට කුඩා හෝටලයකුත් හම්බ වුණා, ඇවිද යන්න තරම් ළඟ, ගෙවන්න තරම් ලාභ."
+        },
+        {
+          "en": "On the day of the trip, the bus was too full for all three of us to sit together. Ruwan was too polite to push, so he stood the whole way.",
+          "si": "ගමන් දවසේ, බස් එක අපි තුන්දෙනාටම එකට ඉඳගන්න බැරි තරම් පිරිලා තිබුණා. රුවන් තල්ලු කරන්න බැරි තරම් ආචාරශීලීයි, එනිසා එයා මුළු ගමනම නැගිටගෙන හිටියා."
+        },
+        {
+          "en": "The mountains, when we finally arrived, were beautiful enough to make everyone forget about the money, the hotel, and the standing bus ride.",
+          "si": "අන්තිමට ඇවිත් බැලුවම, කඳුවැටිය හැමෝටම සල්ලි ගැනත්, හෝටලය ගැනත්, නැගිටගෙන ආ බස් ගමන ගැනත් අමතක කරන්න තරම් ලස්සන වුණා."
+        },
+        {
+          "en": "\"Was it worth it?\" my mother asked when I got home. \"It was almost too much trouble,\" I said. \"But yes. Definitely yes.\"",
+          "si": "\"අගය වුණාද?\" මම ගෙදර ආපු වෙලාවේ අම්මා ඇහුවා. \"එය කරදර වැඩිය එළියෙන් ගියා වගේ,\" මම කිව්වා. \"හැබැයි ඔව්. නිසැකවම ඔව්.\""
+        }
+      ],
+      "glossary": [
+        {
+          "en": "fall apart",
+          "si": "කඩාවැටෙනවා"
+        },
+        {
+          "en": "save",
+          "si": "ඉතුරු කරනවා"
+        },
+        {
+          "en": "afford",
+          "si": "දරාගන්නවා"
+        },
+        {
+          "en": "push",
+          "si": "තල්ලු කරනවා"
+        },
+        {
+          "en": "arrive",
+          "si": "ළඟාවෙනවා"
+        },
+        {
+          "en": "trouble",
+          "si": "කරදර"
+        },
+        {
+          "en": "worth it",
+          "si": "අගය"
+        }
+      ],
+      "questionsSi": [
+        "පළමු ප්‍රශ්නය දෙකක් මොනවාද — හෝටලය ගැනත් ලාභ එක ගැනත්?",
+        "දිනයන් වෙනස් කිරීමෙන් ලැබුණ ප්‍රතිලාභ දෙක මොනවාද?",
+        "බස් එකේදී රුවන් නැගිටගෙන හිටියේ ඇයි?",
+        "අන්තිමට ගමන අගය වුණාද, කොහොමද පේනවා?"
+      ]
+    },
+    {
+      "type": "poem",
+      "title": "Too Small, Big Enough",
+      "titleSi": "ගොඩක් කුඩායි, ලොකු ප්‍රමාණවත්",
+      "introSi": "too සහ enough දෙකම එන කවියක්.",
+      "lines": [
+        {
+          "en": "This house is too small for all of us,",
+          "si": "මේ ගෙදර අපි හැමෝටම ගොඩක් කුඩායි,"
+        },
+        {
+          "en": "Too loud, too full, too close.",
+          "si": "ගොඩක් ඝෝෂාකාරී, ගොඩක් පිරිලා, ගොඩක් ළඟින්."
+        },
+        {
+          "en": "But it was warm enough last winter,",
+          "si": "හැබැයි ගිය ශීත ඍතුවේදී ප්‍රමාණවත් උණුසුම් වුණා,"
+        },
+        {
+          "en": "When we needed it the most.",
+          "si": "අපිට ඕන වුණ ලොකුවටම."
+        },
+        {
+          "en": "",
+          "si": ""
+        },
+        {
+          "en": "I'm old enough now to leave it,",
+          "si": "දැන් මට ඒක අතහැරලා යන තරම් වයස තියෙනවා,"
+        },
+        {
+          "en": "Too old to stay, they say.",
+          "si": "නවතින්න වයස වැඩියි කියලා, ඔවුන් කියනවා."
+        },
+        {
+          "en": "But this house was big enough for love —",
+          "si": "හැබැයි ආදරයට තරම් මේ ගෙදර ලොකුයි වුණා —"
+        },
+        {
+          "en": "I'll carry that away.",
+          "si": "ඒක මම එක්කගෙන යනවා."
+        }
+      ],
+      "noteSi": "'too small', 'too loud' — ප්‍රශ්නයක්. 'warm enough', 'big enough' — ප්‍රමාණවත්. එකම ගෙදර, විවිධ මොහොතවල."
+    },
+    {
+      "type": "dialogue",
+      "title": "Are you ready?",
+      "titleSi": "ඔබ සූදානම්ද?",
+      "settingSi": "රථ පදවීමේ පාඩමකට සූදානම් වීම. too/enough දෙකම එනවා.",
+      "lines": [
+        {
+          "speaker": "Instructor",
+          "en": "Are you nervous?",
+          "si": "ඔබට කරදරද?"
+        },
+        {
+          "speaker": "Tharindu",
+          "en": "A bit. Am I ready enough to try the main road today?",
+          "si": "ටිකක්. අද ප්‍රධාන පාරේ උත්සාහ කරන තරම් මම සූදානම්ද?"
+        },
+        {
+          "speaker": "Instructor",
+          "en": "I think so. But if it feels too fast, tell me and we'll slow down.",
+          "si": "ඔව් වගේ මට හිතෙනවා. හැබැයි ගොඩක් වේගවත් වගේ දැනුණොත්, මට කියන්න, අපි වේගය අඩු කරමු."
+        },
+        {
+          "speaker": "Tharindu",
+          "en": "This road looks too narrow for two cars.",
+          "si": "මේ පාර කාර් දෙකකට ගොඩක් පටුයි වගේ පේනවා."
+        },
+        {
+          "speaker": "Instructor",
+          "en": "It's narrow, but wide enough — you have more space than you think.",
+          "si": "පටුයි, හැබැයි ප්‍රමාණවත් පළල් — ඔබ හිතනවාට වඩා ඉඩ තියෙනවා."
+        },
+        {
+          "speaker": "Tharindu",
+          "en": "Am I going too slowly?",
+          "si": "මම ගොඩක් හෙමින් යනවාද?"
+        },
+        {
+          "speaker": "Instructor",
+          "en": "Not at all — you're going exactly fast enough for this road. Keep going.",
+          "si": "කිසිසේත්ම නෑ — ඔබ මේ පාරට හරියටම ප්‍රමාණවත් වේගයෙන් යනවා. දිගටම යන්න."
+        }
+      ]
+    },
+    {
+      "type": "practice",
+      "title": "too or enough?",
+      "titleSi": "too ද enough ද?",
+      "instructionSi": "ප්‍රශ්නයක් තියෙනවා නම් too, ප්‍රමාණවත් නම් enough.",
+      "items": [
+        {
+          "prompt": "The soup is ___ hot to eat right now.",
+          "answer": "too",
+          "hintSi": "ප්‍රශ්නයක් — කන්න බෑ.",
+          "full": "The soup is too hot to eat right now."
+        },
+        {
+          "prompt": "Is the soup cool ___ to eat now?",
+          "answer": "enough",
+          "hintSi": "ප්‍රමාණවත්ද කියලා අහනවා.",
+          "full": "Is the soup cool enough to eat now?"
+        },
+        {
+          "prompt": "He is ___ young to drive.",
+          "answer": "too",
+          "hintSi": "රිය පදවන්න බෑ.",
+          "full": "He is too young to drive."
+        },
+        {
+          "prompt": "He isn't old ___ to drive. (එකම අර්ථය)",
+          "answer": "enough",
+          "hintSi": "'too young' එකේම අර්ථය, ප්‍රතිවිරුද්ධ දිශාවෙන්.",
+          "full": "He isn't old enough to drive."
+        },
+        {
+          "prompt": "Do we have ___ time to finish this?",
+          "answer": "enough",
+          "hintSi": "නාම පදයට කලින්.",
+          "full": "Do we have enough time to finish this?"
+        },
+        {
+          "prompt": "The box is ___ heavy to carry alone.",
+          "answer": "too",
+          "hintSi": "එසවගන්න බෑ.",
+          "full": "The box is too heavy to carry alone."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "en": "too",
+      "si": "ප්‍රමාණයට වඩා"
+    },
+    {
+      "en": "enough",
+      "si": "ප්‍රමාණවත්"
+    },
+    {
+      "en": "heavy",
+      "si": "බර"
+    },
+    {
+      "en": "loud",
+      "si": "හයියෙන්"
+    },
+    {
+      "en": "nervous",
+      "si": "කරදර වූ"
+    },
+    {
+      "en": "strong",
+      "si": "ශක්තිමත්"
+    },
+    {
+      "en": "weak",
+      "si": "දුර්වල"
+    },
+    {
+      "en": "space",
+      "si": "ඉඩ"
+    },
+    {
+      "en": "afford",
+      "si": "දරාගන්නවා"
+    },
+    {
+      "en": "risky",
+      "si": "අවදානම් සහිත"
+    },
+    {
+      "en": "delay",
+      "si": "ප්‍රමාද වීම"
+    },
+    {
+      "en": "postpone",
+      "si": "කල් දානවා"
+    },
+    {
+      "en": "spare",
+      "si": "ඉතුරු"
+    },
+    {
+      "en": "fall apart",
+      "si": "කඩාවැටෙනවා"
+    },
+    {
+      "en": "save",
+      "si": "ඉතුරු කරනවා"
+    },
+    {
+      "en": "push",
+      "si": "තල්ලු කරනවා"
+    },
+    {
+      "en": "arrive",
+      "si": "ළඟාවෙනවා"
+    },
+    {
+      "en": "trouble",
+      "si": "කරදර"
+    },
+    {
+      "en": "narrow",
+      "si": "පටු"
+    },
+    {
+      "en": "wide",
+      "si": "පළල්"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "a2-13-q1",
+      "q": "'තේ රස්නෙයි, බොන්න බැරි තරමට' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "The tea is very hot to drink.",
+        "The tea is too hot to drink.",
+        "The tea is enough hot to drink.",
+        "The tea is hot too drink."
+      ],
+      "answer": 1,
+      "explainSi": "ප්‍රශ්නයක් (බොන්න බෑ) — 'too hot to drink'.",
+      "speak": "The tea is too hot to drink."
+    },
+    {
+      "id": "a2-13-q2",
+      "q": "'She is too beautiful' කියලා ප්‍රශංසාවක් කරන්න පුළුවන්ද?",
+      "options": [
+        "ඔව්, පුළුවන්",
+        "බෑ — 'too' හැම විටම ප්‍රශ්නයක් කියනවා, ප්‍රශංසාවට 'very' හෝ 'so' යෙදිය යුතුයි",
+        "සමහර වෙලාවට",
+        "'too' සහ 'very' එකයි"
+      ],
+      "answer": 1,
+      "explainSi": "'too beautiful' කියද්දී ලස්සන එකම ප්‍රශ්නයක් වගේ ඇහෙනවා. ප්‍රශංසාවට 'very beautiful' ඇති."
+    },
+    {
+      "id": "a2-13-q3",
+      "q": "'එයාට රිය පදවන තරම් වයස තියෙනවා' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "He is too old to drive.",
+        "He is old enough to drive.",
+        "He is enough old to drive.",
+        "He is old too drive."
+      ],
+      "answer": 1,
+      "explainSi": "ප්‍රමාණවත් — 'old enough to drive'.",
+      "speak": "He is old enough to drive."
+    },
+    {
+      "id": "a2-13-q4",
+      "q": "'enough' සහ විශේෂණයක් එකට යෙදෙද්දී, 'enough' කොහෙද යනවා?",
+      "options": [
+        "විශේෂණයට කලින්",
+        "විශේෂණයට පස්සේ",
+        "වාක්‍යයේ මුලට",
+        "වාක්‍යයේ අන්තිමට"
+      ],
+      "answer": 1,
+      "explainSi": "'big enough', 'old enough' — විශේෂණයට පස්සේ."
+    },
+    {
+      "id": "a2-13-q5",
+      "q": "'enough' සහ නාම පදයක් එකට යෙදෙද්දී, 'enough' කොහෙද යනවා?",
+      "options": [
+        "නාම පදයට කලින්",
+        "නාම පදයට පස්සේ",
+        "වෙනසක් නෑ",
+        "යෙදෙන්නේ නෑ"
+      ],
+      "answer": 0,
+      "explainSi": "'enough time', 'enough money' — නාම පදයට කලින්."
+    },
+    {
+      "id": "a2-13-q6",
+      "q": "'මේක ඉවර කරන්න අපිට ප්‍රමාණවත් වෙලාව තියෙනවාද?' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "Do we have time enough to finish this?",
+        "Do we have enough time to finish this?",
+        "Do we have too time to finish this?",
+        "Do we enough have time to finish this?"
+      ],
+      "answer": 1,
+      "explainSi": "'time' නාම පදයක් — 'enough time'.",
+      "speak": "Do we have enough time to finish this?"
+    },
+    {
+      "id": "a2-13-q7",
+      "q": "'too young to drive' සහ 'not old enough to drive' — වෙනස කුමක්ද?",
+      "options": [
+        "එකකින් රිය පදවන්න පුළුවන්, අනිත් එකෙන් බෑ",
+        "එකම කරුණම කියනවා, ප්‍රතිවිරුද්ධ දිශාවකින්",
+        "දෙකම වැරදියි",
+        "'too young' වඩා ආචාරශීලීයි"
+      ],
+      "answer": 1,
+      "explainSi": "දෙකෙන්ම රිය පදවන්න බෑ කියලාම කියවෙනවා — වචන විතරයි වෙනස්."
+    },
+    {
+      "id": "a2-13-q8",
+      "q": "'This shirt is too small for me' යන්නෙන්ම කියන්න පුළුවන් වෙනත් වාක්‍යයක්?",
+      "options": [
+        "This shirt is big enough for me.",
+        "This shirt isn't big enough for me.",
+        "This shirt is very small for me.",
+        "This shirt is enough small for me."
+      ],
+      "answer": 1,
+      "explainSi": "'too small' = 'not big enough' — එකම කරුණ."
+    },
+    {
+      "id": "a2-13-q9",
+      "q": "'මට මේක එසවගන්න තරම් ශක්තිය තියෙනවා' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "I'm too strong to lift this.",
+        "I'm strong enough to lift this.",
+        "I'm enough strong to lift this.",
+        "I'm strong too lift this."
+      ],
+      "answer": 1,
+      "explainSi": "ප්‍රමාණවත් — 'strong enough to lift'.",
+      "speak": "I'm strong enough to lift this."
+    },
+    {
+      "id": "a2-13-q10",
+      "q": "'too' පසුව ක්‍රියාවට කලින් යෙදෙන වචනය?",
+      "options": [
+        "for",
+        "to",
+        "of",
+        "at"
+      ],
+      "answer": 1,
+      "explainSi": "'too hot to drink' — 'to' + ක්‍රියාවේ මූලික ස්වරූපය."
+    },
+    {
+      "id": "a2-13-q11",
+      "context": "Three of us planned a trip to Ella, and two weeks before, everything nearly fell apart. \"We don't have enough money,\" Ruwan said, looking at what we had saved.",
+      "contextSi": "අපි තුන්දෙනෙක් එල්ලට ගමනක් සැලසුම් කළා, දෙසතියකට කලින්, හැම දෙයක්ම කඩාවැටෙන්න ආසන්නයි වුණා. \"අපිට ප්‍රමාණවත් සල්ලි නෑ,\" රුවන් කිව්වා, අපි ඉතුරු කරගත්ත ටික බලලා.",
+      "q": "කතාව අනුව: ගමන කඩාවැටෙන්න ආසන්නයි වුණේ මොකද්ද, කවදාද?",
+      "options": [
+        "ගමන් දවසේ, කාලගුණය නිසා",
+        "දෙසතියකට කලින්, සල්ලි ප්‍රමාණවත් නොවීම නිසා",
+        "මාසයකට කලින්, කාටවත් කැමති නොවී",
+        "ගමන අවසානයේ"
+      ],
+      "answer": 1,
+      "explainSi": "'two weeks before … We don't have enough money.'"
+    },
+    {
+      "id": "a2-13-q12",
+      "context": "The hotel we wanted was too expensive, and the cheaper one was too far from the train station to walk to.",
+      "contextSi": "අපිට ඕන වුණ හෝටලය මිල අධිකයි, ලාභ එක දුම්රියපොළින් ඇවිද යන්න ගොඩක් දුරයි.",
+      "q": "කතාව අනුව: හෝටල් දෙකේ ප්‍රශ්න දෙක මොනවාද?",
+      "options": [
+        "දෙකම මිල අධිකයි",
+        "එකක් මිල අධිකයි, අනෙක ඇවිද යන්න ගොඩක් දුරයි",
+        "දෙකම දුරයි",
+        "දෙකම හොඳ නෑ"
+      ],
+      "answer": 1,
+      "explainSi": "'too expensive' … 'too far … to walk to' — ප්‍රශ්න දෙකක්, හේතු දෙකක්."
+    },
+    {
+      "id": "a2-13-q13",
+      "context": "It wasn't too late. We moved the trip back a month, which gave us just enough time to save a little more.",
+      "contextSi": "ප්‍රමාද වැඩි වුණේ නෑ. අපි ගමන මාසයකින් ආපහු ගැනුවා, ඒකෙන් තව ටිකක් ඉතුරු කරන්න හරියටම ප්‍රමාණවත් වෙලාවක් ලැබුණා.",
+      "q": "කතාව අනුව: ගමන මාසයකින් ආපහු ගැනීමෙන් ලැබුණේ මොකක්ද?",
+      "options": [
+        "වඩා හොඳ කාලගුණයක්",
+        "තව ඉතුරු කරන්න ප්‍රමාණවත් වෙලාව",
+        "වඩා ලාභ බස් ටිකට්",
+        "වෙනත් යාළුවෝ"
+      ],
+      "answer": 1,
+      "explainSi": "'gave us just enough time to save a little more.'"
+    },
+    {
+      "id": "a2-13-q14",
+      "context": "We also found a smaller hotel, close enough to walk, cheap enough to afford.",
+      "contextSi": "අපිට කුඩා හෝටලයකුත් හම්බ වුණා, ඇවිද යන්න තරම් ළඟ, ගෙවන්න තරම් ලාභ.",
+      "q": "කතාව අනුව: අලුත් හෝටලයේ ගුණාංග දෙක මොනවාද?",
+      "options": [
+        "ලොකුයි, දුරයි",
+        "ළඟයි (ඇවිද යන්න), ලාභයි (ගෙවන්න)",
+        "මිල අධිකයි, පොඩියි",
+        "දුරයි, ලාභයි"
+      ],
+      "answer": 1,
+      "explainSi": "'close enough to walk, cheap enough to afford.'"
+    },
+    {
+      "id": "a2-13-q15",
+      "context": "On the day of the trip, the bus was too full for all three of us to sit together. Ruwan was too polite to push, so he stood the whole way.",
+      "contextSi": "ගමන් දවසේ, බස් එක අපි තුන්දෙනාටම එකට ඉඳගන්න බැරි තරම් පිරිලා තිබුණා. රුවන් තල්ලු කරන්න බැරි තරම් ආචාරශීලීයි, එනිසා එයා මුළු ගමනම නැගිටගෙන හිටියා.",
+      "q": "කතාව අනුව: රුවන් නැගිටගෙන හිටියේ ඇයි?",
+      "options": [
+        "ආසන නොතිබූ නිසා විතරයි",
+        "ඉඩක් හදාගන්න තල්ලු කරන තරම් ආචාරශීලී නොවූ නිසා",
+        "එයාට ඉඳගන්න අකමැති නිසා",
+        "එයාට රෝගී නිසා"
+      ],
+      "answer": 1,
+      "explainSi": "'too polite to push' — රුවන්ගේ ආචාරශීලීකම ම ප්‍රශ්නය බවට පත් වුණා."
+    },
+    {
+      "id": "a2-13-q16",
+      "context": "The mountains, when we finally arrived, were beautiful enough to make everyone forget about the money, the hotel, and the standing bus ride.",
+      "contextSi": "අන්තිමට ඇවිත් බැලුවම, කඳුවැටිය හැමෝටම සල්ලි ගැනත්, හෝටලය ගැනත්, නැගිටගෙන ආ බස් ගමන ගැනත් අමතක කරන්න තරම් ලස්සන වුණා.",
+      "q": "කතාව අනුව: 'beautiful enough to make everyone forget' කියන එකෙන් අදහස් වන්නේ කුමක්ද?",
+      "options": [
+        "කඳුවැටිය එච්චර ලස්සන නෑ",
+        "කඳුවැටියේ ලස්සන, කලින් තිබූ හැම ප්‍රශ්නයකටම වඩා ලොකුයි",
+        "හැමෝම ගමන අමතක කළා",
+        "කඳුවැටියට යන්න බැරි වුණා"
+      ],
+      "answer": 1,
+      "explainSi": "'enough' + ක්‍රියාවක් — ප්‍රතිඵලය: ප්‍රශ්න සියල්ල අමතක කිරීම."
+    },
+    {
+      "id": "a2-13-q17",
+      "context": "This house is too small for all of us, / Too loud, too full, too close. / But it was warm enough last winter, / When we needed it the most.",
+      "contextSi": "මේ ගෙදර අපි හැමෝටම ගොඩක් කුඩායි, / ගොඩක් ඝෝෂාකාරී, ගොඩක් පිරිලා, ගොඩක් ළඟින්. / හැබැයි ගිය ශීත ඍතුවේදී ප්‍රමාණවත් උණුසුම් වුණා, / අපිට ඕන වුණ ලොකුවටම.",
+      "q": "කවියේ පළමු කොටසේ 'too' කීපවතාවක් යෙදෙන්නේ ඇයි?",
+      "options": [
+        "පදවැල ගැළපෙන්න",
+        "ගෙදර ගැන ප්‍රශ්න ගණන් කරනවා — කුඩායි, ඝෝෂාකාරී, පිරිලා",
+        "ගෙදර ලස්සන යැයි කීමට",
+        "වැරදීමකින්"
+      ],
+      "answer": 1,
+      "explainSi": "'too small, too loud, too full, too close' — හැම එකක්ම ප්‍රශ්නයක් ලෙස ගණන් කරනවා."
+    },
+    {
+      "id": "a2-13-q18",
+      "context": "I'm old enough now to leave it, / Too old to stay, they say. / But this house was big enough for love —",
+      "contextSi": "දැන් මට ඒක අතහැරලා යන තරම් වයස තියෙනවා, / නවතින්න වයස වැඩියි කියලා, ඔවුන් කියනවා. / හැබැයි ආදරයට තරම් මේ ගෙදර ලොකුයි වුණා —",
+      "q": "කවියේ අන්තිම කොටසේ 'too small' (පළමු කොටස) සහ 'big enough for love' (අන්තිම කොටස) අතර ප්‍රතිවිරෝධය කුමක්ද?",
+      "options": [
+        "ගෙදර ප්‍රමාණය වෙනස් වුණා",
+        "ප්‍රායෝගිකව කුඩායි වුණත්, එහි තිබූ ආදරය සඳහා ප්‍රමාණවත් ලොකුයි",
+        "එයා ගෙදරින් පිටව ගියේ නෑ",
+        "ප්‍රතිවිරෝධයක් නෑ"
+      ],
+      "answer": 1,
+      "explainSi": "ප්‍රමාණය එකයි — කථා කරන කෙනාගේ දෘෂ්ටිකෝණය තමයි වෙනස් වන්නේ."
+    },
+    {
+      "id": "a2-13-q19",
+      "context": "Tharindu: This road looks too narrow for two cars.\nInstructor: It's narrow, but wide enough — you have more space than you think.",
+      "contextSi": "තරින්දු: මේ පාර කාර් දෙකකට ගොඩක් පටුයි වගේ පේනවා.\nපුහුණුකරු: පටුයි, හැබැයි ප්‍රමාණවත් පළල් — ඔබ හිතනවාට වඩා ඉඩ තියෙනවා.",
+      "q": "සංවාදයේ: පුහුණුකරු තරින්දුගේ 'too narrow' කියන අදහසට එකඟද?",
+      "options": [
+        "ඔව්, සම්පූර්ණයෙන්ම එකඟයි",
+        "අර්ධව — පටුයි කියලා පිළිගන්නවා, නමුත් ප්‍රමාණවත් යැයි නිවැරදි කරනවා",
+        "නෑ, පාර පටු නෑ කියනවා",
+        "එයාට අදහසක් නෑ"
+      ],
+      "answer": 1,
+      "explainSi": "'It's narrow, but wide enough' — 'too narrow' ප්‍රතික්ෂේප කරන්නේ නෑ, නමුත් ප්‍රශ්නයක් නෑ කියලා කියනවා."
+    },
+    {
+      "id": "a2-13-q20",
+      "context": "Instructor: Not at all — you're going exactly fast enough for this road. Keep going.",
+      "contextSi": "පුහුණුකරු: කිසිසේත්ම නෑ — ඔබ මේ පාරට හරියටම ප්‍රමාණවත් වේගයෙන් යනවා. දිගටම යන්න.",
+      "q": "සංවාදයේ: තරින්දුගේ වේගය ගැන පුහුණුකරුගේ තක්සේරුව කුමක්ද?",
+      "options": [
+        "ගොඩක් වේගවත්",
+        "ගොඩක් හෙමින්",
+        "හරියටම ප්‍රමාණවත්",
+        "දන්නේ නෑ"
+      ],
+      "answer": 2,
+      "explainSi": "'exactly fast enough' — 'too slow' නෙවෙයි, ප්‍රශ්නයක් නෑ."
+    },
+    {
+      "id": "a2-13-q21",
+      "q": "කුමන වාක්‍යය වැරදිද?",
+      "options": [
+        "The box is too heavy to carry.",
+        "He is old enough to drive.",
+        "Do we have enough time?",
+        "This room is enough big for us."
+      ],
+      "answer": 3,
+      "explainSi": "'This room is big enough for us' විය යුතුයි — විශේෂණයට පස්සේ 'enough'."
+    },
+    {
+      "id": "a2-13-q22",
+      "q": "'මුළු පවුලටම මේ කාමරය ප්‍රමාණවත් ලොකුද?' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "Is this room enough big for the whole family?",
+        "Is this room big enough for the whole family?",
+        "Is this room too big for the whole family?",
+        "Is this room big too for the whole family?"
+      ],
+      "answer": 1,
+      "explainSi": "විශේෂණයට පස්සේ 'enough' — 'big enough'.",
+      "speak": "Is this room big enough for the whole family?"
+    }
+  ]
+}

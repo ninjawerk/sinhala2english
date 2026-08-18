@@ -1,0 +1,796 @@
+{
+  "hero": {
+    "src": "images/b1-20-hero.webp",
+    "alt": "Ruwan listening at a tea table with one palm turned up as he concedes a point, teapot and two cups in front of him, a window and a plant behind."
+  },
+  "goalsSi": [
+    "එකඟ වෙන ක්‍රම කීපයක්",
+    "So do I / Neither do I — ප්‍රතිරාව එකඟතාව",
+    "එකඟ නොවෙනකොට මුලින්ම පිළිගන්න",
+    "'I see what you mean, but…' කියන රටාව",
+    "එකඟ නොවීමේ මට්ටම් — මෘදු ඉඳන් තදට",
+    "අර්ධ වශයෙන් එකඟ වෙන්න"
+  ],
+  "goals": [
+    "Agree in more than one way",
+    "Echo agreement with So do I and Neither do I",
+    "Acknowledge before you disagree",
+    "Use the I see what you mean, but… pattern",
+    "Grade a disagreement from soft to firm",
+    "Agree only in part"
+  ],
+  "sections": [
+    {
+      "type": "note",
+      "title": "Never just 'no'",
+      "titleSi": "කවදාවත් හුදෙක් 'නෑ' නෙවෙයි",
+      "bodySi": "b1-07 හි ඉගෙන ගත්තා අදහසක් කියන එක — 'I think…', 'In my opinion…'.\n\nදැන් අමාරු කොටස. අනිත් කෙනා අදහසක් කිව්වා. ඔයා එකඟ නෑ. එතකොට මොකද කියන්නේ?\n\nසිංහලෙන් 'නෑ, ඒක එහෙම නෙවෙයි' කියන එක සාමාන්‍යයි. ඉංග්‍රීසියෙන් ඒක කෙළින්ම පරිවර්තනය කළොත් — 'No, that's not right' — ඒක තදයි. සමහරවිට රළුයි.\n\nඉංග්‍රීසි කථාවේ රටාව මේකයි:\n\nමුලින්ම පිළිගන්න. ඊට පස්සේ එකඟ නොවෙන්න.\n\n'I see what you mean, but…'\n'That's true, but…'\n'You have a point, but…'\n'I know what you're saying, but…'\n\nපළවෙනි භාගය අනිත් කෙනාට කියනවා 'මම ඔයාට ඇහුම්කන් දුන්නා'. දෙවෙනි භාගය ඔයාගේ අදහස. දෙකම නැත්නම් සංවාදය රණ්ඩුවක් වෙනවා.\n\nමේක CEFR B1 හි 'Expressing agreement / disagreement'. ව්‍යාකරණ ලේසියි — රටාව තමයි වැදගත්.",
+      "body": "In English, disagreement is normally prefaced by acknowledgement. Straight contradiction lands much harder than the Sinhala equivalent."
+    },
+    {
+      "type": "grammar",
+      "title": "Agreeing",
+      "titleSi": "එකඟ වීම",
+      "explainSi": "එකඟ වෙන්න ක්‍රම ගොඩක් තියෙනවා, තරම අනුව:\n\nසාමාන්‍ය:\n'Yes, I agree.'\n'I think so too.'\n'That's true.'\n\nබලවත්:\n'Exactly!'\n'Absolutely.'\n'You're absolutely right.'\n'That's exactly what I think.'\n\nමෘදු:\n'I suppose so.' — එකඟයි, ඒත් ලොකු උනන්දුවක් නෑ.\n'Yes, I suppose you're right.'\n\nඅවධානය: 'I suppose so' කියන එකේ තියෙන්නේ අඩක් එකඟතාවක්. 'හරි, ඒක එහෙම වෙන්න ඇති' කියන අදහස. ඒක බලවත් එකඟතාවක් නෙවෙයි.\n\nතව එකක් — කවුරු හරි දුකක් හෝ අත්දැකීමක් කිව්වම:\n'I know how you feel.' — ඔයාට දැනෙන දේ මට තේරෙනවා.\n'I know exactly what you mean.' — ඔයා කියන දේ මට හරියටම තේරෙනවා.\n\nමේ දෙක එකඟතාවකට වඩා සහානුභූතියක්, ඒත් සංවාදයේ එකම වැඩේ කරනවා — අනිත් කෙනාට දැනෙනවා ඔයා එයාත් එක්ක කියලා.",
+      "explain": "Agreement is graded: I suppose so is half-hearted, Exactly and Absolutely are strong.",
+      "formula": "I agree · I think so too · Exactly · Absolutely · I suppose so",
+      "table": {
+        "headers": [
+          "තරම",
+          "කෑල්ල",
+          "සිංහල"
+        ],
+        "rows": [
+          [
+            "බලවත්",
+            "Exactly! / Absolutely.",
+            "හරියටම!"
+          ],
+          [
+            "සාමාන්‍ය",
+            "Yes, I agree.",
+            "ඔව්, මමත් එකඟයි."
+          ],
+          [
+            "සාමාන්‍ය",
+            "I think so too.",
+            "මමත් එහෙම හිතනවා."
+          ],
+          [
+            "මෘදු",
+            "I suppose so.",
+            "එහෙම වෙන්න ඇති."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "You're absolutely right — we should have booked earlier.",
+          "si": "ඔයා හරියටම හරි — අපි කලින් වෙන් කරගන්න තිබුණා."
+        },
+        {
+          "en": "I suppose so, but it's still expensive.",
+          "si": "එහෙම වෙන්න ඇති, ඒත් ඒක තාමත් මිල වැඩියි."
+        },
+        {
+          "en": "I know exactly what you mean.",
+          "si": "ඔයා කියන දේ මට හරියටම තේරෙනවා."
+        }
+      ],
+      "watchOutSi": "'Exactly!' කියන එක බලවත්. පොඩි දෙයකට ඒක යෙදුවොත් ඒක අතිශයෝක්තියක් වගේ. දිනපතා එකඟතාවට 'Yes, I agree' නැත්නම් 'That's true' ඇති."
+    },
+    {
+      "type": "grammar",
+      "title": "So do I, Neither do I",
+      "titleSi": "So do I, Neither do I",
+      "explainSi": "මේක ඉංග්‍රීසි කථාවේ පොඩි කලාවක් — 'මමත් එහෙමයි' කියන එක.\n\nහරි වාක්‍යයකට: So + ක්‍රියාව + I\n— 'I love mangoes.' — 'So do I.'\n— 'I'm tired.' — 'So am I.'\n— 'I went last year.' — 'So did I.'\n\nනැහැ වාක්‍යයකට: Neither + ක්‍රියාව + I\n— 'I don't like coffee.' — 'Neither do I.'\n— 'I'm not ready.' — 'Neither am I.'\n— 'I didn't go.' — 'Neither did I.'\n\nරහස මේකයි: අනිත් කෙනා යෙදූ ක්‍රියාවම ආපහු යොදනවා, ඒත් පිළිවෙළ පෙරළනවා.\n\nam → So am I\ndo → So do I\ndid → So did I\nhave → So have I\ncan → So can I\nwill → So will I\n\nවැදගත්: 'So I do' ✗ — පිළිවෙළ පෙරළිලා තියෙන්න ඕන. 'So do I' ✓.\n\nලේසි විකල්පයක්: 'Me too' (හරි වාක්‍යයකට) සහ 'Me neither' (නැහැ වාක්‍යයකට). ඒවා අවිධිමත්, ඒත් හරි.",
+      "explain": "So + auxiliary + I for positives, Neither + auxiliary + I for negatives. The word order inverts.",
+      "formula": "So + am/do/did/have/can + I  ·  Neither + am/do/did/have/can + I",
+      "table": {
+        "headers": [
+          "අනිත් කෙනා",
+          "ඔයා",
+          "සිංහල"
+        ],
+        "rows": [
+          [
+            "I'm hungry.",
+            "So am I.",
+            "මමත් එහෙමයි"
+          ],
+          [
+            "I like it.",
+            "So do I.",
+            "මමත් කැමතියි"
+          ],
+          [
+            "I saw it.",
+            "So did I.",
+            "මමත් දැක්කා"
+          ],
+          [
+            "I don't smoke.",
+            "Neither do I.",
+            "මමත් නෑ"
+          ],
+          [
+            "I'm not going.",
+            "Neither am I.",
+            "මමත් යන්නේ නෑ"
+          ],
+          [
+            "I haven't eaten.",
+            "Neither have I.",
+            "මමත් කාලා නෑ"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "— I'm exhausted. — So am I.",
+          "si": "— මම හරිම මහන්සියි. — මමත් එහෙමයි."
+        },
+        {
+          "en": "— I didn't understand a word. — Neither did I.",
+          "si": "— මට එක වචනයක්වත් තේරුණේ නෑ. — මටත් එහෙමයි."
+        },
+        {
+          "en": "— I've never been there. — Neither have I.",
+          "si": "— මම කවදාවත් එහෙ ගිහින් නෑ. — මමත් නෑ."
+        }
+      ],
+      "watchOutSi": "'Neither' කියන එකට පස්සේ නැහැ කියන එකක් ආපහු දාන්න එපා. 'Neither don't I' ✗ — 'Neither do I' ✓. 'Neither' එකේම නැහැ කියන අර්ථය තියෙනවා."
+    },
+    {
+      "type": "grammar",
+      "title": "Disagreeing without a fight",
+      "titleSi": "රණ්ඩුවක් නැතුව එකඟ නොවීම",
+      "explainSi": "රටාව: පිළිගැනීම + but + ඔයාගේ අදහස.\n\nමෘදු ඉඳන් තදට:\n\nඉතාම මෘදු:\n'I see what you mean, but…'\n'That's true, but…'\n'You have a point, but…'\n'Yes, but on the other hand…'\n\nසාමාන්‍ය:\n'Well, actually…'\n'Well, not really.'\n'I'm not sure about that.'\n'I don't think so.'\n\nතද (ප්‍රවේශමෙන්):\n'I'm sorry, but I think you're wrong.'\n'I completely disagree.'\n\nඅන්තිම දෙක යාළුවෙක් එක්ක හරි, ඒත් වැඩ බිමක නැත්නම් නොහඳුනන කෙනෙක් එක්ක ඒවා තදයි.\n\n'Well' කියන වචනය මෙතන ලොකු වැඩක් කරනවා. 'Well…' කියලා පටන් ගත්තම අනිත් කෙනා දැනගන්නවා විරුද්ධ දෙයක් එනවා කියලා — ඒක එයාව සූදානම් කරනවා. 'Well' නැතුව කෙළින්ම 'No' කිව්වොත් ඒක පහරක් වගේ.\n\nඅර්ධ එකඟතාව — ඉතාම ප්‍රයෝජනවත්:\n'I agree up to a point, but…' — යම් තැනකට එකඟයි, ඒත්…\n'That's partly true.' — ඒක අඩක් ඇත්ත.\n'In a way, yes — but…' — එක විදිහකට ඔව්, ඒත්…",
+      "explain": "Acknowledge, then but, then your view. Well is a warning light that tells the listener disagreement is coming.",
+      "formula": "පිළිගැනීම + but + ඔයාගේ අදහස",
+      "table": {
+        "headers": [
+          "තරම",
+          "කෑල්ල"
+        ],
+        "rows": [
+          [
+            "ඉතාම මෘදු",
+            "I see what you mean, but…"
+          ],
+          [
+            "මෘදු",
+            "That's true, but…"
+          ],
+          [
+            "අර්ධ",
+            "I agree up to a point, but…"
+          ],
+          [
+            "සාමාන්‍ය",
+            "Well, actually…"
+          ],
+          [
+            "තද",
+            "I'm sorry, but I think you're wrong."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "I see what you mean, but the bus takes twice as long.",
+          "si": "ඔයා කියන දේ තේරෙනවා, ඒත් බස් එකට දෙගුණයක් වෙලා යනවා."
+        },
+        {
+          "en": "That's partly true, but the price has gone up since then.",
+          "si": "ඒක අඩක් ඇත්ත, ඒත් එදා ඉඳන් ගාන වැඩි වෙලා."
+        },
+        {
+          "en": "Well, actually, I heard the opposite.",
+          "si": "ඇත්තටම මම ඇහුවේ අනිත් පැත්ත."
+        }
+      ],
+      "watchOutSi": "'You are wrong' කියලා කෙළින්ම කියන එක ඉංග්‍රීසියෙන් ඉතාම තදයි — සිංහලෙන් 'ඒක වැරදියි' කියනවාට වඩා තදයි. 'I'm not sure about that' කියන එකෙන් එකම දේ මෘදුව කියනවා."
+    },
+    {
+      "type": "vocab",
+      "title": "Agreeing and disagreeing",
+      "titleSi": "එකඟ වීමයි, නොවීමයි",
+      "introSi": "තරම අනුව තෝරගන්න — වැරදි තරමක් තෝරගත්තොත් සංවාදය අවුල් වෙනවා.",
+      "items": [
+        {
+          "en": "I agree",
+          "si": "මමත් එකඟයි",
+          "say": "අයි අග්‍රී",
+          "exampleEn": "Yes, I agree with you.",
+          "exampleSi": "ඔව්, මමත් ඔයාත් එක්ක එකඟයි."
+        },
+        {
+          "en": "I think so too",
+          "si": "මමත් එහෙම හිතනවා",
+          "say": "අයි තින්ක් සෝ ටූ",
+          "exampleEn": "I think so too.",
+          "exampleSi": "මමත් එහෙම හිතනවා."
+        },
+        {
+          "en": "exactly",
+          "si": "හරියටම",
+          "say": "එග්සැක්ට්ලි",
+          "exampleEn": "Exactly! That's what I said.",
+          "exampleSi": "හරියටම! මමත් කිව්වේ ඒක."
+        },
+        {
+          "en": "absolutely",
+          "si": "සම්පූර්ණයෙන්ම",
+          "say": "ඇබ්සලූට්ලි",
+          "exampleEn": "Absolutely. No question.",
+          "exampleSi": "සම්පූර්ණයෙන්ම. ප්‍රශ්නයක් නෑ."
+        },
+        {
+          "en": "I suppose so",
+          "si": "එහෙම වෙන්න ඇති",
+          "say": "අයි සපෝස් සෝ",
+          "exampleEn": "I suppose so, but it's dear.",
+          "exampleSi": "එහෙම වෙන්න ඇති, ඒත් ගාන වැඩියි."
+        },
+        {
+          "en": "so do I",
+          "si": "මමත් එහෙමයි",
+          "say": "සෝ ඩූ අයි",
+          "exampleEn": "— I like it. — So do I.",
+          "exampleSi": "— මම කැමතියි. — මමත් එහෙමයි."
+        },
+        {
+          "en": "neither do I",
+          "si": "මමත් නෑ",
+          "say": "නයිදර් ඩූ අයි",
+          "exampleEn": "— I don't smoke. — Neither do I.",
+          "exampleSi": "— මම බොන්නේ නෑ. — මමත් නෑ."
+        },
+        {
+          "en": "me too",
+          "si": "මමත්",
+          "say": "මී ටූ",
+          "exampleEn": "— I'm hungry. — Me too.",
+          "exampleSi": "— මට බඩගිනියි. — මටත්."
+        },
+        {
+          "en": "I see what you mean",
+          "si": "ඔයා කියන දේ තේරෙනවා",
+          "say": "අයි සී වොට් යූ මීන්",
+          "exampleEn": "I see what you mean, but…",
+          "exampleSi": "ඔයා කියන දේ තේරෙනවා, ඒත්…"
+        },
+        {
+          "en": "you have a point",
+          "si": "ඔයාට කාරණයක් තියෙනවා",
+          "say": "යූ හෑව් අ පොයින්ට්",
+          "exampleEn": "You have a point, but…",
+          "exampleSi": "ඔයාට කාරණයක් තියෙනවා, ඒත්…"
+        },
+        {
+          "en": "that's partly true",
+          "si": "ඒක අඩක් ඇත්ත",
+          "say": "දැට්ස් පාට්ලි ට්‍රූ",
+          "exampleEn": "That's partly true.",
+          "exampleSi": "ඒක අඩක් ඇත්ත."
+        },
+        {
+          "en": "up to a point",
+          "si": "යම් තැනකට",
+          "say": "අප් ටු අ පොයින්ට්",
+          "exampleEn": "I agree up to a point.",
+          "exampleSi": "යම් තැනකට මම එකඟයි."
+        },
+        {
+          "en": "well, actually",
+          "si": "ඇත්තටම",
+          "say": "වෙල් ඇක්චුඅලි",
+          "exampleEn": "Well, actually, I heard the opposite.",
+          "exampleSi": "ඇත්තටම, මම ඇහුවේ අනිත් පැත්ත."
+        },
+        {
+          "en": "not really",
+          "si": "එහෙම නෙවෙයි",
+          "say": "නොට් රියලි",
+          "exampleEn": "Well, not really.",
+          "exampleSi": "එහෙම නෙවෙයි."
+        },
+        {
+          "en": "I'm not sure about that",
+          "si": "ඒක ගැන නිශ්චිත නෑ",
+          "say": "අයිම් නොට් ෂුවර් අබවුට් දැට්",
+          "exampleEn": "I'm not sure about that.",
+          "exampleSi": "ඒක ගැන මට නිශ්චිත නෑ."
+        },
+        {
+          "en": "on the other hand",
+          "si": "අනිත් පැත්තෙන්",
+          "say": "ඔන් ද අදර් හෑන්ඩ්",
+          "exampleEn": "On the other hand, it's cheaper.",
+          "exampleSi": "අනිත් පැත්තෙන්, ඒක ලාභයි."
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "The bus or the train",
+      "titleSi": "බස් එකද කෝච්චියද",
+      "settingSi": "ගමනක් ගැන තීරණයක්. එකඟ වීම, අර්ධ එකඟතාව, මෘදු එකඟ නොවීම — තුනම බලන්න.",
+      "lines": [
+        {
+          "speaker": "Ruwan",
+          "en": "We should take the train. It's much more comfortable.",
+          "si": "අපි කෝච්චියෙන් යන්න ඕන. ඒක ගොඩක් සැපයි."
+        },
+        {
+          "speaker": "Nadeesha",
+          "en": "I see what you mean, but the train only leaves twice a day.",
+          "si": "ඔයා කියන දේ තේරෙනවා, ඒත් කෝච්චිය දවසට දෙපාරයි යන්නේ."
+        },
+        {
+          "speaker": "Ruwan",
+          "en": "That's true. Still, the bus takes six hours.",
+          "si": "ඒක ඇත්ත. ඒත් බස් එකට පැය හයක් යනවා."
+        },
+        {
+          "speaker": "Nadeesha",
+          "en": "I agree up to a point — but only in the season. In April it's four.",
+          "si": "යම් තැනකට මම එකඟයි — ඒත් ඒක සීසන් එකේදී විතරයි. අප්‍රේල් වුණාම හතරයි."
+        },
+        {
+          "speaker": "Ruwan",
+          "en": "I'm not sure about that. Last April it took us seven.",
+          "si": "ඒක ගැන මට නිශ්චිත නෑ. ගිය අප්‍රේල් අපිට හතක් ගියා."
+        },
+        {
+          "speaker": "Nadeesha",
+          "en": "So it did. I'd forgotten.",
+          "si": "එහෙමයි නේද. මට අමතක වෙලා."
+        },
+        {
+          "speaker": "Ruwan",
+          "en": "Train, then?",
+          "si": "එහෙනම් කෝච්චිය?"
+        },
+        {
+          "speaker": "Nadeesha",
+          "en": "Train. And I'm booking early this time.",
+          "si": "කෝච්චිය. මේ පාර මම කලින්ම වෙන් කරනවා."
+        }
+      ]
+    },
+    {
+      "type": "story",
+      "title": "The word he did not say",
+      "titleSi": "එයා නොකියපු වචනය",
+      "introSi": "එකඟ නොවීමේ ක්‍රමය ගැන කෙටි කතාවක්.",
+      "paragraphs": [
+        {
+          "en": "In his first month at the company, Asanka disagreed with his manager in front of nine people. He said, \"No. That is wrong.\"",
+          "si": "සමාගමේ පළවෙනි මාසේදී අසංක මිනිස්සු නවදෙනෙක් ඉස්සරහ කළමනාකරුට විරුද්ධ වුණා. එයා කිව්වා, \"No. That is wrong.\""
+        },
+        {
+          "en": "He was right. The figure on the screen was wrong, and everybody could see it once he said so. But the room went quiet in a way he did not expect.",
+          "si": "එයා හරි. තිරයේ තිබුණු ඉලක්කම වැරදියි, එයා කිව්වට පස්සේ හැමෝටම ඒක පේනවා. ඒත් කාමරය නිශ්ශබ්ද වුණේ එයා බලාපොරොත්තු නොවුණු විදිහකට."
+        },
+        {
+          "en": "Afterwards a colleague said: \"You were right. Next time try 'Sorry — should that be forty, not fourteen?' Same fact. Nobody loses.\"",
+          "si": "පස්සේ සගයෙක් කිව්වා: \"ඔයා හරි. ඊළඟ පාර 'Sorry — should that be forty, not fourteen?' කියලා බලන්න. එකම කාරණය. කවුරුවත් පරදින්නේ නෑ.\""
+        },
+        {
+          "en": "It was not about being polite, in the end. It was that a question lets the other person correct their own mistake, and a statement does not.",
+          "si": "අන්තිමට ඒක ආචාරශීලීකම ගැන නෙවෙයි. ප්‍රශ්නයකින් අනිත් කෙනාට තමන්ගේ වැරැද්ද තමන්ම නිවැරදි කරගන්න පුළුවන්; ප්‍රකාශයකින් ඒක බෑ."
+        }
+      ],
+      "glossary": [
+        {
+          "en": "manager",
+          "si": "කළමනාකරු"
+        },
+        {
+          "en": "figure (number)",
+          "si": "ඉලක්කම"
+        },
+        {
+          "en": "colleague",
+          "si": "සගයා"
+        },
+        {
+          "en": "statement",
+          "si": "ප්‍රකාශය"
+        }
+      ],
+      "questionsSi": [
+        "අසංක කිව්ව දේ වැරදිද?",
+        "සගයා යෝජනා කළ ක්‍රමය මොකක්ද?",
+        "ප්‍රශ්නයකින් අහන එකේ වාසිය මොකක්ද?"
+      ]
+    },
+    {
+      "type": "tip",
+      "title": "Turn it into a question",
+      "titleSi": "ප්‍රශ්නයක් කරන්න",
+      "bodySi": "එකඟ නොවෙන්න තියෙන ලේසිම, ආරක්ෂිතම ක්‍රමය — ප්‍රකාශය ප්‍රශ්නයක් කරන එක.\n\n'That's wrong.' → 'Sorry, should that be forty, not fourteen?'\n'You forgot the tax.' → 'Does that include the tax?'\n'That won't work.' → 'Do you think that will work in the rain?'\n\nප්‍රශ්නයකින් අනිත් කෙනාට තමන්ගේ වැරැද්ද තමන්ම හදාගන්න පුළුවන්. කවුරුවත් පරදින්නේ නෑ, ඒත් වැරැද්ද හැදෙනවා.\n\nවැඩ බිමකදී මේක රත්තරන්.",
+      "body": "A question lets the other person fix their own mistake. A statement makes them lose. Same fact either way."
+    },
+    {
+      "type": "practice",
+      "title": "So do I, or neither do I?",
+      "titleSi": "So do I ද, Neither do I ද?",
+      "instructionSi": "අනිත් කෙනා කියපු දේට ගැලපෙන ප්‍රතිරාවය ලියන්න.",
+      "items": [
+        {
+          "prompt": "— I'm really tired. — ___ (මමත් එහෙමයි)",
+          "answer": "So am I",
+          "hintSi": "'I'm' නිසා am.",
+          "full": "So am I."
+        },
+        {
+          "prompt": "— I don't like coffee. — ___ (මමත් නෑ)",
+          "answer": "Neither do I",
+          "hintSi": "නැහැ වාක්‍යයක්, 'don't' නිසා do.",
+          "full": "Neither do I."
+        },
+        {
+          "prompt": "— I went last year. — ___ (මමත් ගියා)",
+          "answer": "So did I",
+          "hintSi": "අතීතය නිසා did.",
+          "full": "So did I."
+        },
+        {
+          "prompt": "— I haven't finished. — ___ (මමත් නෑ)",
+          "answer": "Neither have I",
+          "hintSi": "'haven't' නිසා have.",
+          "full": "Neither have I."
+        },
+        {
+          "prompt": "— I can't swim. — ___ (මටත් බෑ)",
+          "answer": "Neither can I",
+          "hintSi": "'can't' නිසා can.",
+          "full": "Neither can I."
+        },
+        {
+          "prompt": "— I'll be there at six. — ___ (මමත් ඉන්නවා)",
+          "answer": "So will I",
+          "hintSi": "'will' නිසා will.",
+          "full": "So will I."
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "b1-20-q1",
+      "q": "ඉංග්‍රීසියෙන් එකඟ නොවෙන රටාව මොකක්ද?",
+      "options": [
+        "කෙළින්ම 'No' කියනවා",
+        "පිළිගැනීම + but + ඔයාගේ අදහස",
+        "නිශ්ශබ්ද වෙනවා",
+        "මාතෘකාව හරවනවා"
+      ],
+      "answer": 1,
+      "explainSi": "'I see what you mean, but…' — මුලින්ම ඇහුම්කන් දුන්නා කියලා පෙන්නනවා."
+    },
+    {
+      "id": "b1-20-q2",
+      "q": "'— I'm hungry. — ___' — මමත් එහෙමයි කියන්නේ?",
+      "options": [
+        "So do I.",
+        "So am I.",
+        "So I am.",
+        "Neither am I."
+      ],
+      "answer": 1,
+      "explainSi": "'I'm' නිසා am, සහ පිළිවෙළ පෙරළෙනවා.",
+      "speak": "So am I."
+    },
+    {
+      "id": "b1-20-q3",
+      "q": "'— I don't smoke. — ___'",
+      "options": [
+        "So do I.",
+        "Neither do I.",
+        "Neither don't I.",
+        "So don't I."
+      ],
+      "answer": 1,
+      "explainSi": "නැහැ වාක්‍යයකට Neither, සහ ආපහු නැහැ එකක් දාන්නේ නෑ.",
+      "speak": "Neither do I."
+    },
+    {
+      "id": "b1-20-q4",
+      "q": "'So I do' සහ 'So do I' — කුමක් හරිද?",
+      "options": [
+        "'So I do'",
+        "'So do I'",
+        "දෙකම හරි",
+        "දෙකම වැරදියි"
+      ],
+      "answer": 1,
+      "explainSi": "පිළිවෙළ පෙරළිලා තියෙන්න ඕන."
+    },
+    {
+      "id": "b1-20-q5",
+      "q": "'I suppose so' කියන එකේ තරම?",
+      "options": [
+        "ඉතාම බලවත් එකඟතාව",
+        "අඩක් එකඟතාව",
+        "එකඟ නොවීම",
+        "ප්‍රශ්නයක්"
+      ],
+      "answer": 1,
+      "explainSi": "'එහෙම වෙන්න ඇති' — ලොකු උනන්දුවක් නෑ."
+    },
+    {
+      "id": "b1-20-q6",
+      "q": "'Well' කියන වචනය එකඟ නොවීමකට කලින් කරන්නේ?",
+      "options": [
+        "වැඩක් නෑ",
+        "අනිත් කෙනාව සූදානම් කරනවා — විරුද්ධ දෙයක් එනවා කියලා",
+        "එකඟතාව පෙන්නනවා",
+        "ප්‍රශ්නයක් හදනවා"
+      ],
+      "answer": 1,
+      "explainSi": "'Well' නැතුව කෙළින්ම 'No' කිව්වොත් ඒක පහරක් වගේ."
+    },
+    {
+      "id": "b1-20-q7",
+      "q": "වඩාත් මෘදු එකඟ නොවීම?",
+      "options": [
+        "You're wrong.",
+        "I completely disagree.",
+        "I see what you mean, but…",
+        "No, that's not right."
+      ],
+      "answer": 2,
+      "explainSi": "පිළිගැනීම මුලින්."
+    },
+    {
+      "id": "b1-20-q8",
+      "q": "'I agree up to a point' කියන්නේ?",
+      "options": [
+        "සම්පූර්ණයෙන් එකඟයි",
+        "යම් තැනකට එකඟයි — සම්පූර්ණයෙන් නෙවෙයි",
+        "එකඟ නෑ",
+        "තේරෙන්නේ නෑ"
+      ],
+      "answer": 1,
+      "explainSi": "අර්ධ එකඟතාව — ඉතාම ප්‍රයෝජනවත්."
+    },
+    {
+      "id": "b1-20-q9",
+      "q": "'— I haven't eaten. — ___'",
+      "options": [
+        "Neither have I.",
+        "Neither do I.",
+        "So have I.",
+        "Neither I have."
+      ],
+      "answer": 0,
+      "explainSi": "'haven't' නිසා have."
+    },
+    {
+      "id": "b1-20-q10",
+      "q": "වැඩ බිමකදී එකඟ නොවෙන්න ආරක්ෂිතම ක්‍රමය?",
+      "options": [
+        "ප්‍රකාශයක් කරනවා",
+        "ප්‍රශ්නයක් අහනවා — 'Should that be forty, not fourteen?'",
+        "නිශ්ශබ්ද වෙනවා",
+        "පස්සේ කියනවා"
+      ],
+      "answer": 1,
+      "explainSi": "ප්‍රශ්නයකින් අනිත් කෙනාට තමන්ගේ වැරැද්ද තමන්ම හදාගන්න පුළුවන්."
+    },
+    {
+      "id": "b1-20-q11",
+      "q": "'You are wrong' කියන එක ඉංග්‍රීසියෙන්?",
+      "options": [
+        "සාමාන්‍යයි",
+        "ඉතාම තදයි — සිංහලෙන් 'ඒක වැරදියි' කියනවාට වඩා",
+        "ආචාරශීලීයි",
+        "ව්‍යාකරණ වැරදියි"
+      ],
+      "answer": 1,
+      "explainSi": "'I'm not sure about that' කියන එකෙන් එකම දේ මෘදුව."
+    },
+    {
+      "id": "b1-20-q12",
+      "q": "'— I went last year. — ___'",
+      "options": [
+        "So do I.",
+        "So did I.",
+        "So have I.",
+        "Neither did I."
+      ],
+      "answer": 1,
+      "explainSi": "අතීතය නිසා did."
+    },
+    {
+      "id": "b1-20-q13",
+      "q": "'Me neither' යෙදෙන්නේ?",
+      "options": [
+        "හරි වාක්‍යයකට",
+        "නැහැ වාක්‍යයකට, අවිධිමත්ව",
+        "ප්‍රශ්නයකට",
+        "කවදාවත් නෑ"
+      ],
+      "answer": 1,
+      "explainSi": "'Neither do I' එකේ අවිධිමත් ආකෘතිය."
+    },
+    {
+      "id": "b1-20-q14",
+      "q": "'Exactly!' කියන එක පොඩි දෙයකට යෙදුවොත්?",
+      "options": [
+        "හොඳයි",
+        "අතිශයෝක්තියක් වගේ ඇහෙනවා",
+        "වැරදියි",
+        "ආචාරශීලීයි"
+      ],
+      "answer": 1,
+      "explainSi": "දිනපතා එකඟතාවට 'Yes, I agree' ඇති."
+    },
+    {
+      "id": "b1-20-q15",
+      "q": "'I know how you feel' කරන්නේ?",
+      "options": [
+        "එකඟ නොවෙනවා",
+        "සහානුභූතිය පෙන්නනවා — ඔයාත් එක්ක කියලා",
+        "ප්‍රශ්නයක් අහනවා",
+        "මාතෘකාව හරවනවා"
+      ],
+      "answer": 1,
+      "explainSi": "අත්දැකීමකට හෝ දුකකට ප්‍රතිචාරය."
+    },
+    {
+      "id": "b1-20-q16",
+      "q": "'— I can't swim. — ___'",
+      "options": [
+        "Neither can I.",
+        "So can I.",
+        "Neither can't I.",
+        "So I can't."
+      ],
+      "answer": 0,
+      "explainSi": "'can't' නිසා can, Neither එකත් එක්ක."
+    },
+    {
+      "id": "b1-20-q17",
+      "q": "'That's partly true' යෙදෙන්නේ?",
+      "options": [
+        "සම්පූර්ණයෙන් එකඟ වෙනකොට",
+        "අඩක් එකඟ වෙනකොට",
+        "සම්පූර්ණයෙන් විරුද්ධ වෙනකොට",
+        "ප්‍රශ්නයක් අහනකොට"
+      ],
+      "answer": 1,
+      "explainSi": "අර්ධ එකඟතාව — ඊට පස්සේ 'but' එකක් එනවා."
+    },
+    {
+      "id": "b1-20-q18",
+      "q": "'So' සහ 'Neither' ප්‍රතිරාවවල රහස?",
+      "options": [
+        "හැමවිටම 'do' යොදනවා",
+        "අනිත් කෙනා යෙදූ ක්‍රියාවම ආපහු යොදනවා",
+        "හැමවිටම 'am' යොදනවා",
+        "ක්‍රියාවක් ඕන නෑ"
+      ],
+      "answer": 1,
+      "explainSi": "am → So am I, did → So did I, have → So have I."
+    }
+  ],
+  "vocab": [
+    {
+      "en": "I agree",
+      "si": "මමත් එකඟයි",
+      "say": "අයි අග්‍රී",
+      "exampleEn": "Yes, I agree with you.",
+      "exampleSi": "ඔව්, මමත් ඔයාත් එක්ක එකඟයි."
+    },
+    {
+      "en": "I think so too",
+      "si": "මමත් එහෙම හිතනවා",
+      "say": "අයි තින්ක් සෝ ටූ",
+      "exampleEn": "I think so too.",
+      "exampleSi": "මමත් එහෙම හිතනවා."
+    },
+    {
+      "en": "exactly",
+      "si": "හරියටම",
+      "say": "එග්සැක්ට්ලි",
+      "exampleEn": "Exactly! That's what I said.",
+      "exampleSi": "හරියටම! මමත් කිව්වේ ඒක."
+    },
+    {
+      "en": "absolutely",
+      "si": "සම්පූර්ණයෙන්ම",
+      "say": "ඇබ්සලූට්ලි",
+      "exampleEn": "Absolutely. No question.",
+      "exampleSi": "සම්පූර්ණයෙන්ම. ප්‍රශ්නයක් නෑ."
+    },
+    {
+      "en": "I suppose so",
+      "si": "එහෙම වෙන්න ඇති",
+      "say": "අයි සපෝස් සෝ",
+      "exampleEn": "I suppose so, but it's dear.",
+      "exampleSi": "එහෙම වෙන්න ඇති, ඒත් ගාන වැඩියි."
+    },
+    {
+      "en": "so do I",
+      "si": "මමත් එහෙමයි",
+      "say": "සෝ ඩූ අයි",
+      "exampleEn": "— I like it. — So do I.",
+      "exampleSi": "— මම කැමතියි. — මමත් එහෙමයි."
+    },
+    {
+      "en": "neither do I",
+      "si": "මමත් නෑ",
+      "say": "නයිදර් ඩූ අයි",
+      "exampleEn": "— I don't smoke. — Neither do I.",
+      "exampleSi": "— මම බොන්නේ නෑ. — මමත් නෑ."
+    },
+    {
+      "en": "me too",
+      "si": "මමත්",
+      "say": "මී ටූ",
+      "exampleEn": "— I'm hungry. — Me too.",
+      "exampleSi": "— මට බඩගිනියි. — මටත්."
+    },
+    {
+      "en": "I see what you mean",
+      "si": "ඔයා කියන දේ තේරෙනවා",
+      "say": "අයි සී වොට් යූ මීන්",
+      "exampleEn": "I see what you mean, but…",
+      "exampleSi": "ඔයා කියන දේ තේරෙනවා, ඒත්…"
+    },
+    {
+      "en": "you have a point",
+      "si": "ඔයාට කාරණයක් තියෙනවා",
+      "say": "යූ හෑව් අ පොයින්ට්",
+      "exampleEn": "You have a point, but…",
+      "exampleSi": "ඔයාට කාරණයක් තියෙනවා, ඒත්…"
+    },
+    {
+      "en": "that's partly true",
+      "si": "ඒක අඩක් ඇත්ත",
+      "say": "දැට්ස් පාට්ලි ට්‍රූ",
+      "exampleEn": "That's partly true.",
+      "exampleSi": "ඒක අඩක් ඇත්ත."
+    },
+    {
+      "en": "up to a point",
+      "si": "යම් තැනකට",
+      "say": "අප් ටු අ පොයින්ට්",
+      "exampleEn": "I agree up to a point.",
+      "exampleSi": "යම් තැනකට මම එකඟයි."
+    },
+    {
+      "en": "well, actually",
+      "si": "ඇත්තටම",
+      "say": "වෙල් ඇක්චුඅලි",
+      "exampleEn": "Well, actually, I heard the opposite.",
+      "exampleSi": "ඇත්තටම, මම ඇහුවේ අනිත් පැත්ත."
+    },
+    {
+      "en": "not really",
+      "si": "එහෙම නෙවෙයි",
+      "say": "නොට් රියලි",
+      "exampleEn": "Well, not really.",
+      "exampleSi": "එහෙම නෙවෙයි."
+    },
+    {
+      "en": "I'm not sure about that",
+      "si": "ඒක ගැන නිශ්චිත නෑ",
+      "say": "අයිම් නොට් ෂුවර් අබවුට් දැට්",
+      "exampleEn": "I'm not sure about that.",
+      "exampleSi": "ඒක ගැන මට නිශ්චිත නෑ."
+    },
+    {
+      "en": "on the other hand",
+      "si": "අනිත් පැත්තෙන්",
+      "say": "ඔන් ද අදර් හෑන්ඩ්",
+      "exampleEn": "On the other hand, it's cheaper.",
+      "exampleSi": "අනිත් පැත්තෙන්, ඒක ලාභයි."
+    }
+  ]
+}

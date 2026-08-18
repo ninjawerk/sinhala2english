@@ -1,0 +1,832 @@
+{
+  "hero": {
+    "src": "images/a2-20-hero.webp",
+    "alt": "Nadeesha sitting at a school desk with a pen and a timetable, looking up thoughtfully, rows of empty wooden desks and a window behind."
+  },
+  "goalsSi": [
+    "What's your favourite subject? — විෂයයන් ගැන කථා කිරීම",
+    "I'm good at... / I'm bad at... — දක්ෂතාවය ප්‍රකාශ කිරීම",
+    "What do you have on Mondays? — කාල සටහන ගැන කථා කිරීම",
+    "විභාග ගැන කථා කිරීම — revise, pass, fail, grade"
+  ],
+  "goals": [
+    "Talk about school subjects",
+    "Say what you're good or bad at",
+    "Talk about your timetable",
+    "Talk about exams and results"
+  ],
+  "sections": [
+    {
+      "type": "note",
+      "title": "From work to school",
+      "titleSi": "රැකියාවේ සිට පාසලට",
+      "bodySi": "a2-19 හි ඉගෙන ගත්තා ලොකු අය රැකියා ගැන කථා කරන ආකාරය. පාසලේ සිසුන් ලොකු අය රැකියා ගැන කථා කරනවා වගේම, විෂයයන්, කාල සටහන, විභාග ගැන කථා කරනවා. වචන වෙනස්, නමුත් රටාව ගොඩක් සමානයි — 'What do you do?' වගේ 'What's your favourite subject?' කියලා අහනවා.",
+      "body": "Adults talk about jobs. Students talk about subjects, timetables and exams — with a similar rhythm of questions and answers."
+    },
+    {
+      "type": "grammar",
+      "title": "Subjects and favourites",
+      "titleSi": "විෂයයන් සහ කැමති විෂය",
+      "explainSi": "විෂය ගැන අහන්නේ 'What's your favourite subject?' කියලා. හොඳින් කරන දෙයක් කියද්දී 'I'm good at...' කියලා, දුර්වල දෙයක් කියද්දී 'I'm bad at...' කියලා කියනවා — a1-11 හි ඉගෙන ගත්ත '-ing' රටාවම, විෂය නාමයක් හෝ -ing ක්‍රියාවක් එනවා.",
+      "formula": "My favourite subject is + subject. I'm good/bad at + subject/-ing.",
+      "table": {
+        "headers": [
+          "වාක්‍යය",
+          "සිංහල"
+        ],
+        "rows": [
+          [
+            "My favourite subject is art.",
+            "මගේ කැමතිම විෂය කලාව."
+          ],
+          [
+            "I'm good at maths.",
+            "මම ගණිතයට දක්ෂයි."
+          ],
+          [
+            "I'm bad at drawing.",
+            "මම චිත්‍ර අඳින එකට දුර්වලයි."
+          ],
+          [
+            "I quite like history, actually.",
+            "ඇත්තෙන්ම, ඉතිහාසයට ටිකක් කැමතියි."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "What's your favourite subject? — Science, definitely.",
+          "si": "ඔබේ කැමතිම විෂය මොකක්ද? — විද්‍යාව, තහවුරුවම."
+        },
+        {
+          "en": "I'm good at English, but I'm bad at chemistry.",
+          "si": "මම ඉංග්‍රීසියට දක්ෂයි, නමුත් රසායන විද්‍යාවට දුර්වලයි."
+        }
+      ],
+      "watchOutSi": "'good at' සහ 'good in' — 'good at' තමයි විෂයයන් සමඟ භාවිතා කරන්නේ. 'good in maths' කියන්නේ නෑ."
+    },
+    {
+      "type": "grammar",
+      "title": "The timetable",
+      "titleSi": "කාල සටහන",
+      "explainSi": "දවසේ මොනවද තියෙන්නේ කියලා අහන්නේ 'What do you have on Mondays?' කියලා. දෙපාරක් එකම විෂය එකින් එක තියෙනවා නම් 'double' කියනවා (double maths). කිසිම විෂයක් නැති කාලයක් නම් 'free period'.",
+      "formula": "What do you have on + day? / We have + subject.",
+      "table": {
+        "headers": [
+          "වාක්‍යය",
+          "සිංහල"
+        ],
+        "rows": [
+          [
+            "What do you have on Mondays?",
+            "සඳුදාවලට ඔබට මොනවද තියෙන්නේ?"
+          ],
+          [
+            "We have double maths first thing.",
+            "මුලින්ම double maths තියෙනවා."
+          ],
+          [
+            "I have a free period after lunch.",
+            "දිවා කෑමෙන් පස්සේ free period එකක් තියෙනවා."
+          ],
+          [
+            "Our timetable changed this term.",
+            "අපේ කාල සටහන මේ term එකේ වෙනස් වුණා."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "What do you have on Wednesdays? — Science, then geography.",
+          "si": "බදාදාවලට ඔබට මොනවද තියෙන්නේ? — විද්‍යාව, පසුව භූගෝල විද්‍යාව."
+        },
+        {
+          "en": "We have a free period on Fridays — it's nice to relax a bit.",
+          "si": "සිකුරාදාවලට free period එකක් තියෙනවා — ටිකක් විවේක ගන්න හොඳයි."
+        }
+      ],
+      "watchOutSi": "'double maths' කියන්නේ එකම විෂය දෙපාරක් අඛණ්ඩව තියෙන එකට — a1-13 හි ඉගෙන ගත්ත 'first thing' වගේම, පාසැල් වචනාවලියක්."
+    },
+    {
+      "type": "grammar",
+      "title": "Talking about exams",
+      "titleSi": "විභාග ගැන කථා කිරීම",
+      "explainSi": "විභාගය කවදාද කියලා අහන්නේ 'When's the exam?' කියලා. ඒකට සූදානම් වෙන්නේ 'revise' කරලා — a2-11 හි ඉගෙන ගත්ත 'used to' එකෙන් වෙනස්, 'revise' කියන්නේ නැවත ඉගෙනගැනීම. විභාගයෙන් පස්සේ 'How did it go?' කියලා අහනවා.",
+      "formula": "When's the exam? / I have to revise for + subject.",
+      "table": {
+        "headers": [
+          "වාක්‍යය",
+          "සිංහල"
+        ],
+        "rows": [
+          [
+            "When's the maths exam?",
+            "ගණිත විභාගය කවදාද?"
+          ],
+          [
+            "I have to revise for history tonight.",
+            "අද රෑ ඉතිහාසය ආයෙත් කියවන්න ඕන."
+          ],
+          [
+            "How did the exam go?",
+            "විභාගය කොහොමද ගියේ?"
+          ],
+          [
+            "I think I did okay.",
+            "මම හිතන්නේ මනාපදායකව කළා."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "When's the science exam? — Next Tuesday.",
+          "si": "විද්‍යා විභාගය කවදාද? — ඊළඟ අඟහරුවාදා."
+        },
+        {
+          "en": "I have to revise for three exams this week — I'm exhausted.",
+          "si": "මේ සතියේ විභාග තුනකට කියවන්න ඕන — මම ගොඩක් මහන්සියි."
+        }
+      ],
+      "watchOutSi": "'revise' ඉංග්‍රීසියේ 'නැවත ලියනවා' කියන අර්ථය දරන්නේ නෑ — 'නැවත කියවලා මතක තියාගන්නවා' කියන අර්ථයයි."
+    },
+    {
+      "type": "grammar",
+      "title": "Results",
+      "titleSi": "ප්‍රතිඵල",
+      "explainSi": "විභාගයක් සමත් වුනොත් 'I passed', අසමත් වුනොත් 'I failed'. ලකුණු ගැන කථා කරන්නේ 'grade' කියලා — 'I got a good grade' හෝ 'I did well/badly'.",
+      "formula": "I passed/failed. I got a good/bad grade. I did well/badly.",
+      "table": {
+        "headers": [
+          "වාක්‍යය",
+          "සිංහල"
+        ],
+        "rows": [
+          [
+            "I passed the exam!",
+            "මම විභාගය සමත් වුණා!"
+          ],
+          [
+            "I failed maths, unfortunately.",
+            "අවාසනාවන්තයි, මම ගණිතය අසමත් වුණා."
+          ],
+          [
+            "I got a really good grade in art.",
+            "කලාවේ ගොඩක් හොඳ ලකුණක් ලැබුනා."
+          ],
+          [
+            "I did badly this term, but I'll try harder next term.",
+            "මේ term එකේ දුර්වලයි, ඊළඟ term එකේ තව හොඳට උත්සාහ කරන්නම්."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "I passed everything except chemistry.",
+          "si": "රසායන විද්‍යාව හැරෙන්නට හැම දෙයක්ම සමත් වුණා."
+        },
+        {
+          "en": "She got the best grade in the whole class.",
+          "si": "එයාට මුළු පංතියේම හොඳම ලකුණ ලැබුනා."
+        }
+      ],
+      "watchOutSi": "'fail' කියන්නේ අසමත් වීම — රැකියාවට අදාළ 'resign' (a2-19) වගේ ස්වේච්ඡාවෙන් ඉවත් වීමක් නෙවෙයි, ලැබෙන ප්‍රතිඵලයක්."
+    },
+    {
+      "type": "vocab",
+      "title": "At school",
+      "titleSi": "පාසලේ",
+      "items": [
+        {
+          "en": "subject",
+          "si": "විෂය",
+          "say": "සබ්ජෙක්ට්"
+        },
+        {
+          "en": "timetable",
+          "si": "කාල සටහන",
+          "say": "ටයිම්ටේබල්"
+        },
+        {
+          "en": "exam",
+          "si": "විභාගය",
+          "say": "එක්සෑම්"
+        },
+        {
+          "en": "revise",
+          "si": "ආයෙත් කියවලා මතක තියාගන්නවා",
+          "say": "රිවයිස්"
+        },
+        {
+          "en": "pass",
+          "si": "සමත් වෙනවා",
+          "say": "පාස්"
+        },
+        {
+          "en": "fail",
+          "si": "අසමත් වෙනවා",
+          "say": "ෆේල්"
+        },
+        {
+          "en": "grade",
+          "si": "ලකුණ",
+          "say": "ග්‍රේඩ්"
+        },
+        {
+          "en": "term",
+          "si": "term එක (පාසැල් කාලය)",
+          "say": "ටර්ම්"
+        },
+        {
+          "en": "period (class)",
+          "si": "පන්ති කාලය",
+          "say": "පීරියඩ්"
+        },
+        {
+          "en": "classmate",
+          "si": "පන්ති මිතුරා",
+          "say": "ක්ලාස්මේට්"
+        },
+        {
+          "en": "headteacher",
+          "si": "විදුහල්පති",
+          "say": "හෙඩ්ටීචර්"
+        },
+        {
+          "en": "homework",
+          "si": "ගෙදර වැඩ",
+          "say": "හෝම්වර්ක්"
+        }
+      ]
+    },
+    {
+      "type": "story",
+      "title": "Exam Season",
+      "titleSi": "විභාග කාලය",
+      "introSi": "ගණිතයට දුර්වල, කලාවට දක්ෂ සත්‍යා විභාග වලට මුහුණ දෙන කතාවක්. පාසැල් වාක්‍ය ගණන් කරන්න.",
+      "paragraphs": [
+        {
+          "en": "\"Term exams start next week,\" Sathya said, looking at the timetable pinned to the wall. \"I'm good at art, but I'm really bad at maths. I don't even know where to start.\"",
+          "si": "\"term විභාග ඊළඟ සතියේ පටන් ගන්නවා,\" බිත්තියේ ඇමිණූ කාල සටහන දිහා බලමින් සත්‍යා කිව්වා. \"මම කලාවට දක්ෂයි, නමුත් ගණිතයට ගොඩක් දුර්වලයි. පටන් ගන්නේ කොහෙන්ද කියලා දන්නේවත් නෑ.\""
+        },
+        {
+          "en": "Her classmate Imesha, who was good at maths, offered to help. \"Let's make a timetable — an hour of maths every evening this week. What do you have on Mondays, after school?\"",
+          "si": "ගණිතයට දක්ෂ ඇගේ පන්ති මිතුරිය ඉමේෂා, උදව් කරන්න ඉදිරිපත් වුණා. \"කාල සටහනක් හදමු — මේ සතියේ හැම හවසකම ගණිතයට පැයක්. සඳුදාට, පාසැලින් පස්සේ ඔබට මොනවද තියෙන්නේ?\""
+        },
+        {
+          "en": "\"Nothing much — I have a free period at the end of the day.\" \"Perfect. We'll revise fractions and start there.\" For a week, they sat together every evening, working through old exam papers.",
+          "si": "\"විශේෂ දෙයක් නෑ — දවසේ අන්තිමට free period එකක් තියෙනවා.\" \"හරි. fractions ආයෙත් කියවලා ඒකෙන් පටන් ගමු.\" සතියක් තිස්සේ, හැම හවසකම එකට ඉඳගෙන, පරණ විභාග ප්‍රශ්න පත්‍ර හරහා වැඩ කළා."
+        },
+        {
+          "en": "On the day of the maths exam, Sathya's hands were cold, but she remembered what Imesha had taught her about fractions, and worked through each question carefully.",
+          "si": "ගණිත විභාග දවසේ, සත්‍යාගේ අත් සීතලයි තිබුනා, නමුත් ඉමේෂා fractions ගැන ඉගැන්නූ දේ මතක් වුණා, එකින් එක ප්‍රශ්නය හොඳින් වැඩ කළා."
+        },
+        {
+          "en": "A week later, the results came. \"I passed!\" Sathya told Imesha, showing her grade. \"Not a great grade, but a pass. And I got the best grade in the class for art.\"",
+          "si": "සතියකට පස්සේ, ප්‍රතිඵල ලැබුනා. \"මම සමත් වුණා!\" ලකුණ පෙන්නමින් සත්‍යා ඉමේෂාට කිව්වා. \"හොඳම ලකුණක් නෙවෙයි, නමුත් සමත්. කලාවේ පංතියේම හොඳම ලකුණත් ලැබුනා.\""
+        },
+        {
+          "en": "\"See? You just needed a bit of help,\" Imesha said, smiling. \"Next term, I'll help you with maths again — and maybe you can teach me to draw.\"",
+          "si": "\"බලන්නකෝ? ඔබට ඕන වුණේ ටිකක් උදව් විතරයි,\" ඉමේෂා සිනාසෙමින් කිව්වා. \"ඊළඟ term එකේත් ගණිතයට උදව් කරන්නම් — සමහරවිට ඔබට මටත් චිත්‍ර අඳින්න ඉගැන්නුවා නම් හොඳයි.\""
+        }
+      ],
+      "glossary": [
+        {
+          "en": "pinned to the wall",
+          "si": "බිත්තියේ ඇමිණූ"
+        },
+        {
+          "en": "fractions",
+          "si": "භාග (ගණිතය)"
+        },
+        {
+          "en": "exam papers",
+          "si": "විභාග ප්‍රශ්න පත්‍ර"
+        },
+        {
+          "en": "cold (hands, from nerves)",
+          "si": "සීතල (බයෙන්)"
+        },
+        {
+          "en": "needed a bit of help",
+          "si": "ටිකක් උදව් ඕන වුණා"
+        }
+      ],
+      "questionsSi": [
+        "සත්‍යාගේ දුර්වලකම මොකක්ද?",
+        "ඉමේෂා උදව් කරන්නේ කොහොමද?",
+        "විභාග දවසේ සත්‍යාට හැඟුනේ කොහොමද?",
+        "ප්‍රතිඵලවලින් සත්‍යාට ලැබුනේ මොකද්ද?"
+      ]
+    },
+    {
+      "type": "poem",
+      "title": "Exam Week",
+      "titleSi": "විභාග සතිය",
+      "introSi": "විභාග සතියේ බය සහ බලාපොරොත්තුව ගැන කවියක්.",
+      "lines": [
+        {
+          "en": "The timetable's pinned above my desk —",
+          "si": "කාල සටහන මගේ මේසය උඩින් ඇමිණිලා —"
+        },
+        {
+          "en": "Three exams, one week, so little time.",
+          "si": "විභාග තුනක්, සතියක්, ටික වේලාවක්."
+        },
+        {
+          "en": "I revise till the numbers start to blur,",
+          "si": "ඉලක්කම් වෙනදාට වඩා අවුල් වෙනකම් කියවනවා,"
+        },
+        {
+          "en": "And even easy questions don't feel right.",
+          "si": "ලේසි ප්‍රශ්නත් හරි වගේ දැනෙන්නේ නෑ."
+        },
+        {
+          "en": "",
+          "si": ""
+        },
+        {
+          "en": "But someone shows me what I couldn't see,",
+          "si": "නමුත් කවුරුහරි මට පේන්නේ නැති දේ පෙන්නනවා,"
+        },
+        {
+          "en": "A friend who's patient when I'm slow to learn.",
+          "si": "මන්දගාමී වුණාට ඉවසිලිවන්ත මිතුරෙක්."
+        },
+        {
+          "en": "I pass — not brilliantly, but I pass —",
+          "si": "මම සමත් වෙනවා — විශිෂ්ට නෑ, නමුත් සමත් —"
+        },
+        {
+          "en": "And find one subject where I truly burn.",
+          "si": "සහ මට ඇත්තටම දැල්වෙන එක් විෂයක් හම්බ වෙනවා."
+        }
+      ],
+      "noteSi": "'revise', 'I pass' — කවියේම, විභාග කාලයේ බය සහ අන්තිමට ලැබෙන සහනය."
+    },
+    {
+      "type": "dialogue",
+      "title": "Comparing timetables",
+      "titleSi": "කාල සටහන් සංසන්දනය",
+      "settingSi": "සිසුවෝ දෙන්නෙක් තමන්ගේ කාල සටහන් සහ විභාග ගැන කථා කරනවා.",
+      "lines": [
+        {
+          "speaker": "Ravindu",
+          "en": "What do you have on Thursdays?",
+          "si": "බ්‍රහස්පතින්දාට ඔබට මොනවද තියෙන්නේ?"
+        },
+        {
+          "speaker": "Sithara",
+          "en": "Double science, then geography, then a free period. What about you?",
+          "si": "Double science, පසුව භූගෝල විද්‍යාව, පසුව free period එකක්. ඔබට?"
+        },
+        {
+          "speaker": "Ravindu",
+          "en": "History all morning, unfortunately. What's your favourite subject, by the way?",
+          "si": "අවාසනාවන්තයි, උදේම ඉතිහාසය. විදින් අතරේ, ඔබේ කැමතිම විෂය මොකක්ද?"
+        },
+        {
+          "speaker": "Sithara",
+          "en": "Science, definitely — I'm good at it. I'm terrible at history, actually.",
+          "si": "විද්‍යාව, තහවුරුවම — මම ඒකට දක්ෂයි. ඇත්තටම, ඉතිහාසයට මම භයානකයි."
+        },
+        {
+          "speaker": "Ravindu",
+          "en": "Same here. When's the history exam?",
+          "si": "මටත් එහෙමයි. ඉතිහාස විභාගය කවදාද?"
+        },
+        {
+          "speaker": "Sithara",
+          "en": "Next Wednesday. I have to revise all weekend.",
+          "si": "ඊළඟ බදාදා. මට මුළු සති අන්තයම කියවන්න ඕන."
+        },
+        {
+          "speaker": "Ravindu",
+          "en": "Me too. Do you want to revise together?",
+          "si": "මමත් එහෙමයි. එකට කියවමුද?"
+        },
+        {
+          "speaker": "Sithara",
+          "en": "Good idea — two of us struggling might be less painful than one!",
+          "si": "හොඳ අදහසක් — දෙන්නම දුක් විඳින එක, එක්කෙනෙක්ට වඩා අඩු වේදනාවක් වේවි!"
+        }
+      ]
+    },
+    {
+      "type": "practice",
+      "title": "Complete the school phrase",
+      "titleSi": "පාසැල් වාක්‍යය සම්පූර්ණ කරන්න",
+      "instructionSi": "දුන් තොරතුරට ගැලපෙන වාක්‍යය ලියන්න.",
+      "items": [
+        {
+          "prompt": "ask someone's favourite subject",
+          "answer": "What's your favourite subject?",
+          "hintSi": "What's your favourite subject?",
+          "full": "What's your favourite subject?"
+        },
+        {
+          "prompt": "you're skilled at maths",
+          "answer": "I'm good at maths.",
+          "hintSi": "I'm good at...",
+          "full": "I'm good at maths."
+        },
+        {
+          "prompt": "ask about Monday's classes",
+          "answer": "What do you have on Mondays?",
+          "hintSi": "What do you have on...?",
+          "full": "What do you have on Mondays?"
+        },
+        {
+          "prompt": "ask when the exam is",
+          "answer": "When's the exam?",
+          "hintSi": "When's the exam?",
+          "full": "When's the exam?"
+        },
+        {
+          "prompt": "you succeeded in the exam",
+          "answer": "I passed the exam.",
+          "hintSi": "I passed...",
+          "full": "I passed the exam."
+        },
+        {
+          "prompt": "you did not succeed",
+          "answer": "I failed the exam.",
+          "hintSi": "I failed...",
+          "full": "I failed the exam."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "en": "subject",
+      "si": "විෂය"
+    },
+    {
+      "en": "timetable",
+      "si": "කාල සටහන"
+    },
+    {
+      "en": "exam",
+      "si": "විභාගය"
+    },
+    {
+      "en": "revise",
+      "si": "ආයෙත් කියවලා මතක තියාගන්නවා"
+    },
+    {
+      "en": "pass",
+      "si": "සමත් වෙනවා"
+    },
+    {
+      "en": "fail",
+      "si": "අසමත් වෙනවා"
+    },
+    {
+      "en": "grade",
+      "si": "ලකුණ"
+    },
+    {
+      "en": "term",
+      "si": "term එක"
+    },
+    {
+      "en": "period (class)",
+      "si": "පන්ති කාලය"
+    },
+    {
+      "en": "classmate",
+      "si": "පන්ති මිතුරා"
+    },
+    {
+      "en": "headteacher",
+      "si": "විදුහල්පති"
+    },
+    {
+      "en": "homework",
+      "si": "ගෙදර වැඩ"
+    },
+    {
+      "en": "pinned to the wall",
+      "si": "බිත්තියේ ඇමිණූ"
+    },
+    {
+      "en": "fractions",
+      "si": "භාග"
+    },
+    {
+      "en": "exam papers",
+      "si": "විභාග ප්‍රශ්න පත්‍ර"
+    },
+    {
+      "en": "struggling",
+      "si": "දුක් විඳිමින්"
+    },
+    {
+      "en": "free period",
+      "si": "free period එක"
+    },
+    {
+      "en": "double (class)",
+      "si": "double (පන්තිය)"
+    },
+    {
+      "en": "patient",
+      "si": "ඉවසිලිවන්ත"
+    },
+    {
+      "en": "terrible at",
+      "si": "භයානක ලෙස දුර්වල"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "a2-20-q1",
+      "q": "'ඔබේ කැමතිම විෂය මොකක්ද?' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "What subject you like?",
+        "What's your favourite subject?",
+        "What is favourite your subject?",
+        "Which subject like you most?"
+      ],
+      "answer": 1,
+      "explainSi": "'What's your favourite subject?' — සම්මත ප්‍රශ්නය.",
+      "speak": "What's your favourite subject?"
+    },
+    {
+      "id": "a2-20-q2",
+      "q": "'මම ගණිතයට දක්ෂයි.' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "I'm good in maths.",
+        "I'm good at maths.",
+        "I'm good maths.",
+        "I good at maths."
+      ],
+      "answer": 1,
+      "explainSi": "'good at' — විෂයයන් සමඟ භාවිතා කරන්නේ 'at', 'in' නෙවෙයි.",
+      "speak": "I'm good at maths."
+    },
+    {
+      "id": "a2-20-q3",
+      "q": "'I'm bad at drawing' — 'drawing' කුමන ආකෘතියේද?",
+      "options": [
+        "ක්‍රියා පදයේ මූලික ස්වරූපය",
+        "-ing ආකෘතිය",
+        "අතීත කාලය",
+        "future tense"
+      ],
+      "answer": 1,
+      "explainSi": "'good/bad at' + විෂය නාමයක් හෝ -ing — a1-11 හි ඉගෙන ගත් රටාවම."
+    },
+    {
+      "id": "a2-20-q4",
+      "q": "'සඳුදාවලට ඔබට මොනවද තියෙන්නේ?' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "What do you have on Mondays?",
+        "What you have Monday?",
+        "What have you on Mondays?",
+        "What do you on Mondays?"
+      ],
+      "answer": 0,
+      "explainSi": "'What do you have on + day?' — කාල සටහන ගැන අහන ප්‍රශ්නය.",
+      "speak": "What do you have on Mondays?"
+    },
+    {
+      "id": "a2-20-q5",
+      "q": "'double maths' කියන්නේ මොකද්ද?",
+      "options": [
+        "ගණිතයේ අමාරුම කොටස",
+        "එකම විෂය දෙපාරක් අඛණ්ඩව",
+        "ගණිත විභාගයේ දෙවන කොටස",
+        "ගණිත ගුරුවරුන් දෙදෙනෙක්"
+      ],
+      "answer": 1,
+      "explainSi": "'double' — එකම විෂය එකින් එක දෙපාරක් අඛණ්ඩව තියෙන එක."
+    },
+    {
+      "id": "a2-20-q6",
+      "q": "'free period' කියන්නේ මොකද්ද?",
+      "options": [
+        "විභාග කාලය",
+        "විෂයක් නැති, විවේකයක් වගේ පන්ති කාලයක්",
+        "ගෙදර වැඩ කරන කාලය",
+        "පාසැල් ඇරෙන කාලය"
+      ],
+      "answer": 1,
+      "explainSi": "'free period' — කිසිම විෂයක් නොමැති, විවේකයක් වගේ කාලයක්."
+    },
+    {
+      "id": "a2-20-q7",
+      "q": "'විභාගය කවදාද?' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "When exam?",
+        "When's the exam?",
+        "What time exam is?",
+        "Exam when is?"
+      ],
+      "answer": 1,
+      "explainSi": "'When's the exam?' — 'When is' කෙටි කිරීම.",
+      "speak": "When's the exam?"
+    },
+    {
+      "id": "a2-20-q8",
+      "q": "'revise' කියන්නේ මොකද්ද?",
+      "options": [
+        "ලියන එක",
+        "ආයෙත් කියවලා මතක තියාගැනීම",
+        "විභාගයට එන්නේ නැති එක",
+        "ලකුණු ගණන් කිරීම"
+      ],
+      "answer": 1,
+      "explainSi": "'revise' — විභාගයට කලින් ආයෙත් කියවලා මතක තියාගැනීම."
+    },
+    {
+      "id": "a2-20-q9",
+      "q": "'pass' සහ 'fail' අතර වෙනස කුමක්ද?",
+      "options": [
+        "වෙනසක් නෑ",
+        "'pass' — සමත් වීම, 'fail' — අසමත් වීම",
+        "'fail' — සමත් වීම",
+        "දෙකම එකම අර්ථය"
+      ],
+      "answer": 1,
+      "explainSi": "විරුද්ධ ප්‍රතිඵල දෙකක් — 'pass' සමත්, 'fail' අසමත්."
+    },
+    {
+      "id": "a2-20-q10",
+      "q": "'She got the best grade in the class' කියන්නෙන් අදහස් වන්නේ කුමක්ද?",
+      "options": [
+        "එයා විභාගය අසමත් වුණා",
+        "එයාට පංතියේම හොඳම ලකුණ ලැබුනා",
+        "එයාට ලකුණක්වත් ලැබුනේ නෑ",
+        "එයා විභාගයට ආවේ නෑ"
+      ],
+      "answer": 1,
+      "explainSi": "'the best grade in the class' — පංතියේම හොඳම ලකුණ."
+    },
+    {
+      "id": "a2-20-q11",
+      "context": "\"Term exams start next week,\" Sathya said, looking at the timetable pinned to the wall. \"I'm good at art, but I'm really bad at maths. I don't even know where to start.\"",
+      "contextSi": "\"term විභාග ඊළඟ සතියේ පටන් ගන්නවා,\" බිත්තියේ ඇමිණූ කාල සටහන දිහා බලමින් සත්‍යා කිව්වා. \"මම කලාවට දක්ෂයි, නමුත් ගණිතයට ගොඩක් දුර්වලයි. පටන් ගන්නේ කොහෙන්ද කියලා දන්නේවත් නෑ.\"",
+      "q": "කතාව අනුව: සත්‍යාගේ ශක්තිය සහ දුර්වලකම මොනවාද?",
+      "options": [
+        "ශක්තිය ගණිතය, දුර්වලකම කලාව",
+        "ශක්තිය කලාව, දුර්වලකම ගණිතය",
+        "දෙකටම දක්ෂයි",
+        "දෙකටම දුර්වලයි"
+      ],
+      "answer": 1,
+      "explainSi": "'I'm good at art, but I'm really bad at maths.'"
+    },
+    {
+      "id": "a2-20-q12",
+      "context": "Her classmate Imesha, who was good at maths, offered to help. \"Let's make a timetable — an hour of maths every evening this week.\"",
+      "contextSi": "ගණිතයට දක්ෂ ඇගේ පන්ති මිතුරිය ඉමේෂා, උදව් කරන්න ඉදිරිපත් වුණා. \"කාල සටහනක් හදමු — මේ සතියේ හැම හවසකම ගණිතයට පැයක්.\"",
+      "q": "කතාව අනුව: ඉමේෂා සත්‍යාට උදව් කරන්නේ කොහොමද?",
+      "options": [
+        "සත්‍යාගේ homework එක කරලා දෙනවා",
+        "හැම හවසකම ගණිතය එකට කියවීමට කාල සටහනක් හදනවා",
+        "ගුරුවරයෙකුට කථා කරනවා",
+        "සත්‍යාගේ විභාගයට යනවා"
+      ],
+      "answer": 1,
+      "explainSi": "'Let's make a timetable — an hour of maths every evening this week.'"
+    },
+    {
+      "id": "a2-20-q13",
+      "context": "\"Nothing much — I have a free period at the end of the day.\" \"Perfect. We'll revise fractions and start there.\"",
+      "contextSi": "\"විශේෂ දෙයක් නෑ — දවසේ අන්තිමට free period එකක් තියෙනවා.\" \"හරි. fractions ආයෙත් කියවලා ඒකෙන් පටන් ගමු.\"",
+      "q": "කතාව අනුව: සත්‍යාට සඳුදා පාසැලින් පස්සේ මොනවද තියෙන්නේ?",
+      "options": [
+        "double maths",
+        "free period එකක්",
+        "ගණිත විභාගයක්",
+        "art පන්තියක්"
+      ],
+      "answer": 1,
+      "explainSi": "'I have a free period at the end of the day.'"
+    },
+    {
+      "id": "a2-20-q14",
+      "context": "On the day of the maths exam, Sathya's hands were cold, but she remembered what Imesha had taught her about fractions, and worked through each question carefully.",
+      "contextSi": "ගණිත විභාග දවසේ, සත්‍යාගේ අත් සීතලයි තිබුනා, නමුත් ඉමේෂා fractions ගැන ඉගැන්නූ දේ මතක් වුණා, එකින් එක ප්‍රශ්නය හොඳින් වැඩ කළා.",
+      "q": "කතාව අනුව: විභාග දවසේ සත්‍යාට කෙසේ දැනුනාද?",
+      "options": [
+        "සම්පූර්ණයෙන්ම විශ්වාසයෙන්",
+        "නර්වස්, නමුත් සූදානම්",
+        "බලාපොරොත්තු සුන්ව",
+        "විභාගයට ආවෙත් නෑ"
+      ],
+      "answer": 1,
+      "explainSi": "'Sathya's hands were cold' (නර්වස්), නමුත් 'worked through each question carefully' (සූදානම්)."
+    },
+    {
+      "id": "a2-20-q15",
+      "context": "\"I passed!\" Sathya told Imesha, showing her grade. \"Not a great grade, but a pass. And I got the best grade in the class for art.\"",
+      "contextSi": "\"මම සමත් වුණා!\" ලකුණ පෙන්නමින් සත්‍යා ඉමේෂාට කිව්වා. \"හොඳම ලකුණක් නෙවෙයි, නමුත් සමත්. කලාවේ පංතියේම හොඳම ලකුණත් ලැබුනා.\"",
+      "q": "කතාව අනුව: ප්‍රතිඵලවලින් සත්‍යාට ලැබුනේ මොකද්ද?",
+      "options": [
+        "ගණිතයේ අසමත් වුණා",
+        "ගණිතයේ සමත් වුණා (හොඳම ලකුණක් නෙවෙයි), කලාවේ හොඳම ලකුණ",
+        "දෙකෙන්ම අසමත් වුණා",
+        "ගණිතයේ හොඳම ලකුණ ලැබුනා"
+      ],
+      "answer": 1,
+      "explainSi": "'I passed! Not a great grade, but a pass. And I got the best grade in the class for art.'"
+    },
+    {
+      "id": "a2-20-q16",
+      "context": "\"See? You just needed a bit of help,\" Imesha said, smiling. \"Next term, I'll help you with maths again — and maybe you can teach me to draw.\"",
+      "contextSi": "\"බලන්නකෝ? ඔබට ඕන වුණේ ටිකක් උදව් විතරයි,\" ඉමේෂා සිනාසෙමින් කිව්වා. \"ඊළඟ term එකේත් ගණිතයට උදව් කරන්නම් — සමහරවිට ඔබට මටත් චිත්‍ර අඳින්න ඉගැන්නුවා නම් හොඳයි.\"",
+      "q": "කතාව අනුව: ඉමේෂා අන්තිමට යෝජනා කරන්නේ මොකක්ද?",
+      "options": [
+        "සත්‍යා ගණිතය අත්හරින්න",
+        "සත්‍යාට ඊළඟ term එකේත් උදව් කරන්නත්, තමන්ට චිත්‍ර ඉගෙනගන්නත්",
+        "වෙනත් පංතියකට මාරු වෙන්න",
+        "විභාග අත්හරින්න"
+      ],
+      "answer": 1,
+      "explainSi": "'I'll help you with maths again — and maybe you can teach me to draw.'"
+    },
+    {
+      "id": "a2-20-q17",
+      "context": "The timetable's pinned above my desk — / Three exams, one week, so little time. / I revise till the numbers start to blur, / And even easy questions don't feel right.",
+      "contextSi": "කාල සටහන මගේ මේසය උඩින් ඇමිණිලා — / විභාග තුනක්, සතියක්, ටික වේලාවක්. / ඉලක්කම් වෙනදාට වඩා අවුල් වෙනකම් කියවනවා, / ලේසි ප්‍රශ්නත් හරි වගේ දැනෙන්නේ නෑ.",
+      "q": "කවියේ පළමු කොටසේ, කථකයාගේ තත්ත්වය කුමක්ද?",
+      "options": [
+        "සම්පූර්ණයෙන්ම සූදානම්",
+        "විභාග කිහිපයකට ටික වේලාවක්, විඩාවෙන්, ආතතියෙන්",
+        "විභාග ගැන කිසිම කරදරයක් නෑ",
+        "විභාග අහෝසි වුණා"
+      ],
+      "answer": 1,
+      "explainSi": "'Three exams, one week, so little time... even easy questions don't feel right.'"
+    },
+    {
+      "id": "a2-20-q18",
+      "context": "But someone shows me what I couldn't see, / A friend who's patient when I'm slow to learn. / I pass — not brilliantly, but I pass — / And find one subject where I truly burn.",
+      "contextSi": "නමුත් කවුරුහරි මට පේන්නේ නැති දේ පෙන්නනවා, / මන්දගාමී වුණාට ඉවසිලිවන්ත මිතුරෙක්. / මම සමත් වෙනවා — විශිෂ්ට නෑ, නමුත් සමත් — / සහ මට ඇත්තටම දැල්වෙන එක් විෂයක් හම්බ වෙනවා.",
+      "q": "කවියේ අන්තිම කොටසේ, කථකයාගේ අත්දැකීම කුමක්ද?",
+      "options": [
+        "සම්පූර්ණයෙන්ම අසමත් වුණා",
+        "මිතුරෙක්ගේ උදව්වෙන් සමත් වුණා, තමන්ට ආදරය කරන විෂයකුත් හම්බ වුණා",
+        "විභාග වලට කිසිම සම්බන්ධයක් නෑ",
+        "එකම විෂයකට විතරක් සමත් වුණා"
+      ],
+      "answer": 1,
+      "explainSi": "'A friend who's patient... I pass... And find one subject where I truly burn.'"
+    },
+    {
+      "id": "a2-20-q19",
+      "context": "Ravindu: What's your favourite subject, by the way? / Sithara: Science, definitely — I'm good at it. I'm terrible at history, actually.",
+      "contextSi": "රවින්දු: විදින් අතරේ, ඔබේ කැමතිම විෂය මොකක්ද? / සිතාරා: විද්‍යාව, තහවුරුවම — මම ඒකට දක්ෂයි. ඇත්තටම, ඉතිහාසයට මම භයානකයි.",
+      "q": "සංවාදයේ: සිතාරාගේ කැමතිම විෂය සහ දුර්වල විෂය මොනවාද?",
+      "options": [
+        "කැමතිම ඉතිහාසය, දුර්වල විද්‍යාව",
+        "කැමතිම විද්‍යාව, දුර්වල ඉතිහාසය",
+        "දෙකටම කැමතියි",
+        "දෙකටම දුර්වලයි"
+      ],
+      "answer": 1,
+      "explainSi": "'Science, definitely — I'm good at it. I'm terrible at history.'"
+    },
+    {
+      "id": "a2-20-q20",
+      "context": "Ravindu: Same here. When's the history exam? / Sithara: Next Wednesday. I have to revise all weekend.",
+      "contextSi": "රවින්දු: මටත් එහෙමයි. ඉතිහාස විභාගය කවදාද? / සිතාරා: ඊළඟ බදාදා. මට මුළු සති අන්තයම කියවන්න ඕන.",
+      "q": "සංවාදයේ: ඉතිහාස විභාගය කවදාද?",
+      "options": [
+        "ඊළඟ සඳුදා",
+        "ඊළඟ බදාදා",
+        "අද",
+        "ඊළඟ මාසේ"
+      ],
+      "answer": 1,
+      "explainSi": "'Next Wednesday.'"
+    },
+    {
+      "id": "a2-20-q21",
+      "q": "කුමන වාක්‍යය වැරදිද?",
+      "options": [
+        "What's your favourite subject?",
+        "I'm good in maths.",
+        "When's the exam?",
+        "I passed the exam."
+      ],
+      "answer": 1,
+      "explainSi": "'I'm good at maths' විය යුතුයි — 'at' අවශ්‍යයි, 'in' නෙවෙයි."
+    },
+    {
+      "id": "a2-20-q22",
+      "q": "'ගණිත විභාගය කොහොමද ගියේ?' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "How did the maths exam go?",
+        "How the maths exam went?",
+        "How was go the exam?",
+        "Maths exam how go?"
+      ],
+      "answer": 0,
+      "explainSi": "'How did the exam go?' — විභාගය ගැන අහන සම්මත ප්‍රශ්නය.",
+      "speak": "How did the maths exam go?"
+    }
+  ]
+}

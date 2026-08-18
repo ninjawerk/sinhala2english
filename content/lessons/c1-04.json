@@ -1,0 +1,530 @@
+{
+  "hero": {
+    "src": "images/c1-04-hero.webp",
+    "alt": "Ruwan in the middle of a thoughtful discussion, one hand weighing the air as he concedes a point, a window and a shelf of pots behind him."
+  },
+  "goalsSi": [
+    "Hedging — නිශ්චිත නොවී ප්‍රවේශමෙන් ලිවීම",
+    "Cohesion — ඡේද එකිනෙකට සම්බන්ධ කිරීම",
+    "Inversion සහ cleft sentences මගින් අවධාරණය",
+    "සම්පූර්ණ තර්කානුකූල රචනාවක් ගොඩනැගීම"
+  ],
+  "goals": [
+    "Hedge your claims like an academic writer",
+    "Build cohesion across paragraphs",
+    "Use inversion and cleft sentences for emphasis",
+    "Structure a complete argument essay"
+  ],
+  "sections": [
+    {
+      "type": "note",
+      "title": "The last step: sounding educated, not loud",
+      "titleSi": "අවසාන පියවර: උගත් ලෙස ඇහෙන එක",
+      "bodySi": "At this level, the difference between good English and excellent English is rarely grammar. It is judgement.\n\nAn advanced writer knows how strongly to claim something, how to carry an idea from one paragraph into the next, and how to place emphasis without shouting. This lesson covers those three skills.\n\nමේ මට්ටමේදී හොඳ ඉංග්‍රීසිය සහ විශිෂ්ට ඉංග්‍රීසිය අතර වෙනස ව්‍යාකරණ නෙවෙයි — විනිශ්චයයි. යමක් කොපමණ ශක්තිමත්ව කියනවාද, අදහසක් ඡේදයෙන් ඡේදයට ගෙනියන්නේ කොහොමද, සහ කෑ නොගසා අවධාරණය කරන්නේ කොහොමද යන්නයි.",
+      "body": "At this level, the difference is judgement, not grammar."
+    },
+    {
+      "type": "grammar",
+      "title": "Hedging: the language of careful claims",
+      "titleSi": "Hedging: ප්‍රවේශම් ප්‍රකාශනයේ භාෂාව",
+      "explainSi": "Beginners write 'Social media destroys concentration.' Advanced writers write 'Social media may contribute to reduced concentration.'\n\nThe second is not weaker — it is more defensible. Overstating a claim is the fastest way to lose a reader's trust, and examiners mark it down.\n\nදෙවෙනි වාක්‍යය දුර්වල නෑ — එය ආරක්ෂා කළ හැකියි. අධි ප්‍රකාශනය පාඨකයාගේ විශ්වාසය නැති කරන ඉක්මන්ම ක්‍රමයයි.",
+      "table": {
+        "headers": [
+          "Device",
+          "Examples",
+          "Strength"
+        ],
+        "rows": [
+          [
+            "Modal verbs",
+            "may, might, could, would",
+            "Weakens a claim safely"
+          ],
+          [
+            "Verbs",
+            "suggest, indicate, appear to, tend to",
+            "Reports without asserting"
+          ],
+          [
+            "Adverbs",
+            "possibly, arguably, generally, largely",
+            "Adds qualification"
+          ],
+          [
+            "Quantifiers",
+            "many, some, a number of, the majority of",
+            "Avoids 'all' and 'every'"
+          ],
+          [
+            "Distancing",
+            "It could be argued that …, The evidence suggests …",
+            "Separates you from the claim"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "Overstated: Homework is useless.",
+          "si": "අධි ප්‍රකාශනය: ගෙදර වැඩ නිෂ්ඵලයි."
+        },
+        {
+          "en": "Hedged: There is some evidence that homework has limited benefit at primary level.",
+          "si": "ප්‍රවේශම්: ප්‍රාථමික මට්ටමේදී ගෙදර වැඩවල ප්‍රතිලාභය සීමිත බවට යම් සාක්ෂි තිබේ."
+        },
+        {
+          "en": "Overstated: Everyone uses their phone too much.",
+          "si": "අධි ප්‍රකාශනය: හැමෝම දුරකථනය වැඩිපුර පාවිච්චි කරනවා."
+        },
+        {
+          "en": "Hedged: Many people appear to spend more time on their phones than they intend to.",
+          "si": "ප්‍රවේශම්: බොහෝ අය අදහස් කරනවාට වඩා දුරකථනයේ වැඩි වේලාවක් ගත කරන බව පෙනේ."
+        }
+      ],
+      "watchOutSi": "නමුත් සමතුලිතතාව අවශ්‍යයි. සෑම වාක්‍යයකටම hedge එකක් දැම්මොත් ලේඛනය අවිනිශ්චිත සහ දුර්වල වෙනවා. විවාදාත්මක ප්‍රකාශවලට hedge කරන්න; සත්‍ය කරුණුවලට එපා."
+    },
+    {
+      "type": "grammar",
+      "title": "Cohesion: carrying the thread",
+      "titleSi": "Cohesion: නූල දිගටම ගෙනයාම",
+      "explainSi": "Cohesion is what makes a text feel like one piece of thinking rather than a list of sentences. Three main tools do the work.\n\n1. Reference — this, these, such, the latter, the former\n2. Substitution — one, ones, do so, the same\n3. Given-then-new — start each sentence with information the reader already has, then add the new idea at the end.\n\nතුන්වෙනි එක වඩාත්ම ප්‍රබලයි: හැම වාක්‍යයක්ම පාඨකයා දැනටමත් දන්නා දෙයකින් පටන් ගෙන, අලුත් තොරතුර අගට තියන්න.",
+      "formula": "Start with the KNOWN → end with the NEW",
+      "table": {
+        "headers": [
+          "Weak (no thread)",
+          "Cohesive"
+        ],
+        "rows": [
+          [
+            "Sri Lanka has a high literacy rate. Free education was introduced in 1945.",
+            "Sri Lanka has an unusually high literacy rate. This achievement dates back to the free education policy of 1945."
+          ],
+          [
+            "Buses are cheap. Trains are comfortable. People choose buses.",
+            "Buses are cheaper than trains, though far less comfortable. Even so, most commuters choose them."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "The scheme was expensive. Such costs, however, were expected from the outset.",
+          "si": "එම වැඩසටහන මිල අධික විය. එහෙත් එවැනි වියදම් මුල සිටම අපේක්ෂා කර තිබුණි."
+        },
+        {
+          "en": "Two options were considered. The former was rejected on cost; the latter is now under review.",
+          "si": "විකල්ප දෙකක් සලකා බලන ලදී. පළමුවැන්න පිරිවැය හේතුවෙන් ප්‍රතික්ෂේප විය; දෙවැන්න දැන් සමාලෝචනය වෙමින් පවතී."
+        }
+      ],
+      "watchOutSi": "'the former' සහ 'the latter' යෙදිය හැක්කේ දේවල් හරියටම දෙකක් ගැන කතා කරද්දී පමණයි. තුනක් නම් යොදන්න බෑ."
+    },
+    {
+      "type": "grammar",
+      "title": "Emphasis: inversion and cleft sentences",
+      "titleSi": "අවධාරණය: inversion සහ cleft sentences",
+      "explainSi": "These two structures let you put the spotlight exactly where you want it. They are common in formal writing and in strong speeches.\n\nInversion: when a negative adverbial starts the sentence, the subject and auxiliary swap places — exactly as in a question.\n\nCleft: split one sentence into two parts to foreground the important element.",
+      "table": {
+        "headers": [
+          "Structure",
+          "Neutral",
+          "Emphatic"
+        ],
+        "rows": [
+          [
+            "Inversion (never)",
+            "I have never seen such waste.",
+            "Never have I seen such waste."
+          ],
+          [
+            "Inversion (not only)",
+            "She writes well and speaks well.",
+            "Not only does she write well, but she also speaks well."
+          ],
+          [
+            "Inversion (only after)",
+            "We understood only after the meeting.",
+            "Only after the meeting did we understand."
+          ],
+          [
+            "Inversion (rarely)",
+            "Such an offer rarely comes twice.",
+            "Rarely does such an offer come twice."
+          ],
+          [
+            "It-cleft",
+            "Her patience impressed me.",
+            "It was her patience that impressed me."
+          ],
+          [
+            "What-cleft",
+            "I need more time.",
+            "What I need is more time."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "Never before had the river risen so high.",
+          "si": "මීට පෙර කිසි විටෙක ගඟ මෙතරම් උස්ව නැඟී තිබුණේ නැත."
+        },
+        {
+          "en": "Not only was the road closed, but the bridge had also collapsed.",
+          "si": "පාර වසා තිබුණා පමණක් නොව, පාලමද කඩා වැටී තිබුණි."
+        },
+        {
+          "en": "It was the silence, not the noise, that frightened us.",
+          "si": "අපව බියගැන්වූයේ ශබ්දය නොව නිශ්ශබ්දතාවයි."
+        },
+        {
+          "en": "What surprised everyone was how calmly she replied.",
+          "si": "සැමට පුදුම වූයේ එයා කෙතරම් සන්සුන්ව පිළිතුරු දුන්නාද යන්නයි."
+        }
+      ],
+      "watchOutSi": "Inversion යෙදූ විට වචන පිළිවෙළ ප්‍රශ්නයක් වගේ වුණත් එය ප්‍රශ්නයක් නොවේ — ප්‍රශ්න ලකුණක් යොදන්නේ නෑ. තවද මේවා අවම වශයෙන් යොදන්න; සෑම වාක්‍යයකම යෙදුවොත් නාට්‍යමය සහ කෘත්‍රිම වෙනවා."
+    },
+    {
+      "type": "grammar",
+      "title": "The argument essay",
+      "titleSi": "තර්කානුකූල රචනාව",
+      "explainSi": "This is the standard structure for exam essays (IELTS, O/L, A/L) and for any piece of persuasive writing. Four paragraphs, roughly 250–300 words.",
+      "formula": "Intro → Argument for → Counter-argument + rebuttal → Conclusion",
+      "table": {
+        "headers": [
+          "Paragraph",
+          "Job",
+          "Useful phrases"
+        ],
+        "rows": [
+          [
+            "1. Introduction",
+            "Rephrase the question, state your position",
+            "It is often claimed that … This essay argues that …"
+          ],
+          [
+            "2. Main argument",
+            "Your strongest point + evidence",
+            "The primary reason is that … This is illustrated by …"
+          ],
+          [
+            "3. Counter-argument",
+            "Admit the other side, then answer it",
+            "Admittedly, … However, this overlooks …"
+          ],
+          [
+            "4. Conclusion",
+            "Restate position, do not add new ideas",
+            "On balance, … The evidence therefore suggests …"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "It is often claimed that learning grammar is unnecessary for fluency. This essay argues that the two are complementary rather than opposed.",
+          "si": "චතුරතාව සඳහා ව්‍යාකරණ ඉගෙනීම අනවශ්‍ය බව බොහෝ විට කියනු ලැබේ. මෙම රචනාව තර්ක කරන්නේ ඒ දෙක විරුද්ධ නොව අන්‍යෝන්‍ය බවයි."
+        },
+        {
+          "en": "Admittedly, some learners achieve fluency with little formal study. However, this overlooks the plateau most reach by intermediate level.",
+          "si": "විධිමත් අධ්‍යයනයකින් තොරව චතුරතාව ලබන ඇතැම් අය සිටින බව පිළිගත යුතුය. එහෙත් මෙයින් නොසලකා හරින්නේ බොහෝ දෙනෙක් මධ්‍යම මට්ටමේදී ළඟා වන නිශ්චලතාවයි."
+        },
+        {
+          "en": "On balance, the evidence suggests that structured study accelerates rather than restricts fluency.",
+          "si": "සමස්තයක් ලෙස සාක්ෂි යෝජනා කරන්නේ ක්‍රමවත් අධ්‍යයනය චතුරතාව සීමා කරනවාට වඩා ත්වරණය කරන බවයි."
+        }
+      ],
+      "watchOutSi": "තුන්වන ඡේදය බොහෝ ශිෂ්‍යයන් අත්හරිනවා. එය අත්හැරීම විශාල වැරැද්දක් — විරුද්ධ පැත්ත පිළිගෙන පිළිතුරු දීමෙන් තමයි ලේඛකයෙක් පරිණත බව පෙන්නන්නේ. විභාග පරීක්ෂකයෝ මේකට ලකුණු දෙනවා."
+    },
+    {
+      "type": "story",
+      "title": "A model answer",
+      "titleSi": "ආදර්ශ පිළිතුරක්",
+      "introSi": "Below is a complete four-paragraph answer to the question: 'Some people believe children should start learning a foreign language in primary school. Others disagree. Discuss both views and give your opinion.' Read it as a template, not as something to memorise.",
+      "paragraphs": [
+        {
+          "en": "It is frequently argued that foreign-language instruction should begin in primary school rather than in the teenage years. While the practical objections deserve attention, this essay argues that an early start offers advantages that later study cannot easily replace.",
+          "si": "විදේශ භාෂා ඉගැන්වීම යෞවන වියේදී නොව ප්‍රාථමික පාසලේදී ආරම්භ විය යුතු බව බොහෝ විට තර්ක කරනු ලැබේ. ප්‍රායෝගික විරෝධතා අවධානයට ලක්විය යුතු වුවද, පසුකාලීන අධ්‍යයනයට පහසුවෙන් ප්‍රතිස්ථාපනය කළ නොහැකි වාසි මුල් ආරම්භයකින් ලැබෙන බව මෙම රචනාව තර්ක කරයි."
+        },
+        {
+          "en": "The principal argument concerns pronunciation. Young children appear to acquire unfamiliar sounds with far less difficulty than adolescents, largely because they have not yet fixed the sound system of their first language. A Sinhala-speaking child of six, for instance, will generally master English consonant clusters that a sixteen-year-old struggles with for years.",
+          "si": "ප්‍රධාන තර්කය උච්චාරණය සම්බන්ධයි. තමන්ගේ පළමු භාෂාවේ හඬ පද්ධතිය තවම ස්ථාවර වී නොමැති නිසා, නාඳුනන හඬ ලබා ගැනීම යෞවනයන්ට වඩා කුඩා දරුවන්ට පහසු බව පෙනේ. උදාහරණයක් ලෙස, වයස හයේ සිංහල කථා කරන දරුවෙක් සාමාන්‍යයෙන් ප්‍රගුණ කරන ඉංග්‍රීසි ව්‍යාංජන පොකුරු, දහසය හැවිරිදි අයෙකු අවුරුදු ගණනක් අරගල කරයි."
+        },
+        {
+          "en": "Admittedly, the counter-argument is not without force. Critics point out that primary schools in rural areas often lack trained language teachers, and that a poorly taught early start may do more harm than none at all. However, this is an argument about resourcing rather than about age. The solution is better teacher training, not a later start.",
+          "si": "විරුද්ධ තර්කයේ බලයක් නැතුවා නොවේ. ග්‍රාමීය ප්‍රාථමික පාසල්වල පුහුණු භාෂා ගුරුවරුන් නොමැති බවත්, දුර්වල ලෙස උගන්වන මුල් ආරම්භයක් කිසිවක් නොකිරීමට වඩා හානිකර විය හැකි බවත් විවේචකයෝ පෙන්වා දෙති. එහෙත් මෙය වයස ගැන නොව සම්පත් ගැන තර්කයකි. විසඳුම වඩා හොඳ ගුරු පුහුණුවක් මිස ප්‍රමාද ආරම්භයක් නොවේ."
+        },
+        {
+          "en": "On balance, the evidence suggests that an early start is preferable, provided it is properly supported. What matters is not simply when instruction begins, but whether the teaching is good enough to justify beginning at all.",
+          "si": "සමස්තයක් ලෙස, නිසි සහාය ලැබේ නම් මුල් ආරම්භයක් වඩා යෝග්‍ය බව සාක්ෂි යෝජනා කරයි. වැදගත් වන්නේ ඉගැන්වීම ආරම්භ වන්නේ කවදාද යන්න පමණක් නොව, ආරම්භ කිරීම සාධාරණීකරණය කරන තරම් ඉගැන්වීම හොඳද යන්නයි."
+        }
+      ],
+      "glossary": [
+        {
+          "en": "instruction",
+          "si": "ඉගැන්වීම"
+        },
+        {
+          "en": "objection",
+          "si": "විරෝධතාව"
+        },
+        {
+          "en": "acquire",
+          "si": "ලබා ගන්නවා"
+        },
+        {
+          "en": "adolescent",
+          "si": "යෞවනයා"
+        },
+        {
+          "en": "consonant cluster",
+          "si": "ව්‍යාංජන පොකුර"
+        },
+        {
+          "en": "admittedly",
+          "si": "පිළිගත යුතුය"
+        },
+        {
+          "en": "resourcing",
+          "si": "සම්පත් සැපයීම"
+        },
+        {
+          "en": "on balance",
+          "si": "සමස්තයක් ලෙස"
+        },
+        {
+          "en": "justify",
+          "si": "සාධාරණීකරණය කරනවා"
+        }
+      ],
+      "questionsSi": [
+        "අවසාන ඡේදයේ 'What matters is not simply …' යනු කුමන ව්‍යුහයක්ද?",
+        "තුන්වන ඡේදයේ ලේඛකයා විරුද්ධ තර්කය පිළිගෙන එය පෙරළන්නේ කෙසේද?",
+        "'appear to', 'generally', 'may' වැනි වචන යෙදුවේ ඇයි?"
+      ]
+    },
+    {
+      "type": "practice",
+      "title": "Refine the sentence",
+      "titleSi": "වාක්‍යය පිරිපහදු කරන්න",
+      "instructionSi": "ඉල්ලා ඇති පරිදි වාක්‍යය නැවත ලියන්න.",
+      "items": [
+        {
+          "prompt": "Hedge it: 'Homework is useless.' → Homework ___ have limited value at primary level.",
+          "answer": "may",
+          "hintSi": "Modal එකක්.",
+          "full": "Homework may have limited value at primary level."
+        },
+        {
+          "prompt": "Invert it: 'I have never seen such waste.' → Never ___ I seen such waste.",
+          "answer": "have",
+          "hintSi": "Subject සහ auxiliary මාරු වෙනවා.",
+          "full": "Never have I seen such waste."
+        },
+        {
+          "prompt": "Invert it: 'She not only writes well, she also speaks well.' → Not only ___ she write well …",
+          "answer": "does",
+          "hintSi": "ප්‍රශ්නයක වචන පිළිවෙළ.",
+          "full": "Not only does she write well, but she also speaks well."
+        },
+        {
+          "prompt": "It-cleft: 'Her patience impressed me.' → It was her patience ___ impressed me.",
+          "answer": "that",
+          "hintSi": "එක් වචනයක්.",
+          "full": "It was her patience that impressed me."
+        },
+        {
+          "prompt": "What-cleft: 'I need more time.' → ___ I need is more time.",
+          "answer": "what",
+          "hintSi": "වාක්‍යය පටන් ගන්නා වචනය.",
+          "full": "What I need is more time."
+        },
+        {
+          "prompt": "Concede then rebut: '___, the cost is high. However, the benefit outweighs it.'",
+          "answer": "admittedly",
+          "hintSi": "විරුද්ධ පැත්ත පිළිගන්නා වචනය.",
+          "full": "Admittedly, the cost is high. However, the benefit outweighs it."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "en": "hedge",
+      "si": "ප්‍රවේශමෙන් ප්‍රකාශ කරනවා"
+    },
+    {
+      "en": "claim",
+      "si": "ප්‍රකාශය"
+    },
+    {
+      "en": "evidence",
+      "si": "සාක්ෂි"
+    },
+    {
+      "en": "argue",
+      "si": "තර්ක කරනවා"
+    },
+    {
+      "en": "admittedly",
+      "si": "පිළිගත යුතුය"
+    },
+    {
+      "en": "however",
+      "si": "එහෙත්"
+    },
+    {
+      "en": "overlook",
+      "si": "නොසලකා හරිනවා"
+    },
+    {
+      "en": "on balance",
+      "si": "සමස්තයක් ලෙස"
+    },
+    {
+      "en": "acquire",
+      "si": "ලබා ගන්නවා"
+    },
+    {
+      "en": "adolescent",
+      "si": "යෞවනයා"
+    },
+    {
+      "en": "justify",
+      "si": "සාධාරණීකරණය කරනවා"
+    },
+    {
+      "en": "outweigh",
+      "si": "වැඩි වටිනාකමක් දරනවා"
+    },
+    {
+      "en": "objection",
+      "si": "විරෝධතාව"
+    },
+    {
+      "en": "instruction",
+      "si": "ඉගැන්වීම"
+    },
+    {
+      "en": "cohesion",
+      "si": "සම්බන්ධතාවය"
+    },
+    {
+      "en": "emphasis",
+      "si": "අවධාරණය"
+    },
+    {
+      "en": "persuasive",
+      "si": "ඒත්තු ගැන්වෙන"
+    },
+    {
+      "en": "complementary",
+      "si": "අන්‍යෝන්‍ය"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "c1-04-q1",
+      "q": "Which sentence is best HEDGED?",
+      "qSi": "වඩාත් හොඳින් hedge කර ඇත්තේ?",
+      "options": [
+        "Social media destroys concentration.",
+        "Social media always ruins the brain.",
+        "Social media may contribute to reduced concentration.",
+        "Everyone knows social media is bad."
+      ],
+      "answer": 2,
+      "explainSi": "'may contribute to' යනු ආරක්ෂා කළ හැකි ප්‍රකාශයකි. අනෙක් ඒවා අධි ප්‍රකාශන.",
+      "speak": "Social media may contribute to reduced concentration."
+    },
+    {
+      "id": "c1-04-q2",
+      "q": "'Never ___ I seen such a crowd.'",
+      "qSi": "Inversion සම්පූර්ණ කරන්න.",
+      "options": [
+        "have",
+        "had",
+        "did",
+        "was"
+      ],
+      "answer": 0,
+      "explainSi": "'Never have I seen …' — නිශේධාත්මක adverbial එකක් මුලට ආවම subject සහ auxiliary මාරු වෙනවා.",
+      "speak": "Never have I seen such a crowd."
+    },
+    {
+      "id": "c1-04-q3",
+      "q": "'Not only ___ she write well, but she also speaks well.'",
+      "qSi": "නිවැරදි වචනය?",
+      "options": [
+        "she",
+        "is",
+        "does",
+        "has"
+      ],
+      "answer": 2,
+      "explainSi": "'Not only' මුලට ආවම ප්‍රශ්නයක වචන පිළිවෙළ එනවා: 'does she write'.",
+      "speak": "Not only does she write well, but she also speaks well."
+    },
+    {
+      "id": "c1-04-q4",
+      "q": "'It was her patience that impressed me' is an example of:",
+      "qSi": "මෙය කුමන ව්‍යුහයද?",
+      "options": [
+        "inversion",
+        "an it-cleft",
+        "the passive",
+        "hedging"
+      ],
+      "answer": 1,
+      "explainSi": "It-cleft — වැදගත් අංගය ('her patience') ඉදිරියට ගෙනවිත් අවධාරණය කරයි.",
+      "speak": "It was her patience that impressed me."
+    },
+    {
+      "id": "c1-04-q5",
+      "q": "In the four-paragraph essay structure, what belongs in paragraph 3?",
+      "qSi": "තුන්වන ඡේදයේ තිබිය යුත්තේ කුමක්ද?",
+      "options": [
+        "The conclusion",
+        "Your strongest argument",
+        "The counter-argument and your answer to it",
+        "New evidence introduced for the first time"
+      ],
+      "answer": 2,
+      "explainSi": "විරුද්ධ පැත්ත පිළිගෙන එයට පිළිතුරු දීම — මෙය පරිණතභාවය පෙන්නන කොටසයි."
+    },
+    {
+      "id": "c1-04-q6",
+      "q": "'The former' and 'the latter' can be used when referring to:",
+      "qSi": "'the former' සහ 'the latter' යෙදිය හැක්කේ?",
+      "options": [
+        "exactly two things",
+        "three or more things",
+        "any number of things",
+        "only people"
+      ],
+      "answer": 0,
+      "explainSi": "දේවල් හරියටම දෙකක් ගැන කතා කරද්දී පමණයි: the former = පළමුවැන්න, the latter = දෙවැන්න."
+    },
+    {
+      "id": "c1-04-q7",
+      "q": "The 'given-then-new' principle means each sentence should:",
+      "qSi": "'Given-then-new' මූලධර්මය යනු?",
+      "options": [
+        "begin with new information",
+        "begin with information the reader already has, then add what is new",
+        "always be short",
+        "avoid pronouns"
+      ],
+      "answer": 1,
+      "explainSi": "දන්නා දෙයකින් පටන් ගෙන අලුත් තොරතුර අගට තැබීමෙන් ඡේදය ගලා යනවා."
+    },
+    {
+      "id": "c1-04-q8",
+      "q": "Why should you NOT hedge every sentence?",
+      "qSi": "සෑම වාක්‍යයක්ම hedge නොකළ යුත්තේ ඇයි?",
+      "options": [
+        "It is grammatically wrong",
+        "The writing becomes vague and sounds unconfident",
+        "Examiners forbid it",
+        "It makes the essay too short"
+      ],
+      "answer": 1,
+      "explainSi": "විවාදාත්මක ප්‍රකාශවලට hedge කරන්න; සත්‍ය කරුණුවලට එපා. අධික hedging ලේඛනය අවිනිශ්චිත කරනවා."
+    }
+  ]
+}

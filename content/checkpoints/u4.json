@@ -1,0 +1,114 @@
+{
+  "quiz": [
+    {
+      "id": "u4-cp-q1",
+      "q": "'මම එය පිළිතුරු දෙන්නම්.' (දැන් තීරණයක්) — 'will' ද 'going to' ද?",
+      "options": ["I'm going to answer it.", "I will answer it.", "I answer it.", "I'm answering it."],
+      "answer": 1,
+      "explainSi": "දැන් මේ මොහොතේ ගත් තීරණයක් — 'will'.",
+      "speak": "I will answer it."
+    },
+    {
+      "id": "u4-cp-q2",
+      "q": "'ඒ කළු වලාකුළු බලන්න! වහින්න යනවා.' (පැහැදිලි සාක්ෂි) — 'will' ද 'going to' ද?",
+      "options": ["It will rain.", "It is going to rain.", "It rains.", "It is raining tomorrow."],
+      "answer": 1,
+      "explainSi": "දකින්න පුළුවන් සාක්ෂි (කළු වලාකුළු) ඇති විට 'going to' යෙදෙනවා.",
+      "speak": "It is going to rain."
+    },
+    {
+      "id": "u4-cp-q3",
+      "q": "'මට කිලෝමීටර් දහයක් දුවන්න පුළුවන්.' (හැකියාව) — modal?",
+      "options": ["I must run ten kilometres.", "I can run ten kilometres.", "I should run ten kilometres.", "I will can run ten kilometres."],
+      "answer": 1,
+      "explainSi": "'can' — හැකියාව ප්‍රකාශ කිරීම.",
+      "speak": "I can run ten kilometres."
+    },
+    {
+      "id": "u4-cp-q4",
+      "q": "'ඔබ දිනපතා ජලය ගොඩක් බොන්න ඕන.' (උපදෙසක්) — modal?",
+      "options": ["You must drink more water every day.", "You should drink more water every day.", "You can drink more water every day.", "You will drink more water every day."],
+      "answer": 1,
+      "explainSi": "'should' — උපදෙසක් දීම, 'must' ට වඩා මෘදුයි.",
+      "speak": "You should drink more water every day."
+    },
+    {
+      "id": "u4-cp-q5",
+      "q": "'mustn't' සහ 'don't have to' අතර වෙනස කුමක්ද?",
+      "options": [
+        "'mustn't' — කිසිසේත් එපා (තහනම්), 'don't have to' — අනිවාර්ය නෑ (කැමති නම් කරන්න පුළුවන්)",
+        "වෙනසක් නෑ, දෙකම එකම අර්ථය",
+        "'mustn't' අනිවාර්ය නෑ, 'don't have to' තහනම්",
+        "දෙකම එකම දෙයක් අනිවාර්ය කරනවා"
+      ],
+      "answer": 0,
+      "explainSi": "'mustn't' — තහනමක්. 'don't have to' — බැඳීමක් නෑ, ඕන නම් කරන්න පුළුවන්."
+    },
+    {
+      "id": "u4-cp-q6",
+      "q": "'මේ කාරය ඒකට වඩා ලොකුයි.' (comparative, short adjective) — 'big'?",
+      "options": ["This car is more big than that one.", "This car is bigger than that one.", "This car is biger than that one.", "This car is the bigger than that one."],
+      "answer": 1,
+      "explainSi": "කෙටි විශේෂණයකට '-er' එකතු කරනවා — 'big' → 'bigger'.",
+      "speak": "This car is bigger than that one."
+    },
+    {
+      "id": "u4-cp-q7",
+      "q": "'මේක නගරයේ තියෙන වඩාත්ම රසවත් අවන්හලයි.' (superlative, longer adjective) — 'delicious'?",
+      "options": ["This is the most delicious restaurant in town.", "This is the deliciousest restaurant in town.", "This is the more delicious restaurant in town.", "This is deliciousest restaurant in town."],
+      "answer": 0,
+      "explainSi": "දිගු විශේෂණයකට 'most' යොදනවා — 'most delicious'.",
+      "speak": "This is the most delicious restaurant in town."
+    },
+    {
+      "id": "u4-cp-q8",
+      "q": "'මගේ අයියා මට තරම්ම උසයි.' (equal comparison) — ඉංග්‍රීසියෙන්?",
+      "options": ["My brother is as tall as me.", "My brother is tall as me.", "My brother is more tall as me.", "My brother is as taller as me."],
+      "answer": 0,
+      "explainSi": "'as + adjective + as' — සමාන සැසඳීමක්.",
+      "speak": "My brother is as tall as me."
+    },
+    {
+      "id": "u4-cp-q9",
+      "q": "'මගේ අදහසින්, මේක හොඳම විසඳුමයි.' — ඔබේ අදහස ප්‍රකාශ කරන ආචාරශීලී ආකාරය?",
+      "options": ["In my opinion, this is the best solution.", "My opinion this is best solution.", "I opinion this is the best solution.", "This is the best solution my opinion."],
+      "answer": 0,
+      "explainSi": "'In my opinion, ...' — ඔබේ අදහස ආචාරශීලීව ආරම්භ කරන ආකාරය.",
+      "speak": "In my opinion, this is the best solution."
+    },
+    {
+      "id": "u4-cp-q10",
+      "q": "'මම ඔබ එක්ක එකඟ නෑ, නමුත් ඔබේ point එක තේරෙනවා.' — ආචාරශීලීව විරුද්ධ වීම?",
+      "options": ["You are wrong, I disagree.", "I disagree with you completely.", "I see your point, but I disagree.", "No, that's wrong."],
+      "answer": 2,
+      "explainSi": "'I see your point, but...' — ආචාරශීලීව විරුද්ධ වීම, අනිත් අයගේ අදහස පිළිගෙන පසුව විරුද්ධ වීම.",
+      "speak": "I see your point, but I disagree."
+    },
+    {
+      "id": "u4-cp-q11",
+      "context": "Look at those clouds — it's going to rain soon, so we should take an umbrella. In my opinion, walking is more enjoyable than driving, even in the rain.",
+      "contextSi": "ඒ වලාකුළු බලන්න — ඉක්මනින් වහින්න යනවා, ඒ නිසා අපි කුඩයක් අරගෙන යන්න ඕන. මගේ අදහසින්, වැස්සේදී වුනත් ඇවිදීම ධාවනයට වඩා විනෝදජනකයි.",
+      "q": "මේ වාක්‍යවල 'it's going to rain' (සාක්ෂි ඇති අනාවැකිය), 'should take' (උපදෙසක්), 'more enjoyable than' (comparative), 'In my opinion' (අදහසක්) — හතරම එකට එකතු වෙලා තියෙනවද?",
+      "options": [
+        "ඔව් — b1-04, b1-05, b1-06, b1-07 හි රටා හතරම එකම ඡේදයේ එකට යොදාගෙන තියෙනවා",
+        "නෑ, 'going to rain' වෙනුවට 'will rain' විය යුතුයි",
+        "නෑ, 'more enjoyable' වෙනුවට 'enjoyabler' විය යුතුයි",
+        "නෑ, 'should' වෙනුවට 'must' විය යුතුයි"
+      ],
+      "answer": 0,
+      "explainSi": "'going to rain' (සාක්ෂි ඇති අනාවැකිය), 'should take' (උපදෙසක්), 'more enjoyable than' (දිගු adjective comparative), 'In my opinion' (අදහස) — u4 හි සියලුම පාඩම් රටා එකට එකතු වී තියෙනවා."
+    },
+    {
+      "id": "u4-cp-q12",
+      "q": "'You shouldn't worry — the new plan is better than the old one, and I'm going to explain why.' — 'shouldn't' (advice), 'better than' (comparative), 'going to explain' (plan) — තුනම නිවැරදිද?",
+      "options": [
+        "ඔව් — 'shouldn't' උපදෙසක්, 'better than' irregular comparative, 'going to' සැලසුමක් — තුනම නිවැරදියි",
+        "නෑ, 'better than' වෙනුවට 'gooder than' විය යුතුයි",
+        "නෑ, 'going to explain' වෙනුවට 'will explaining' විය යුතුයි",
+        "නෑ, 'shouldn't' වෙනුවට 'mustn't' විය යුතුයි"
+      ],
+      "answer": 0,
+      "explainSi": "'shouldn't worry' (උපදෙසක්), 'better than' (irregular comparative — good→better), 'going to explain' (කලින් තීරණය කරගත් සැලසුමක්) — තුනම නිවැරදි රටා."
+    }
+  ]
+}

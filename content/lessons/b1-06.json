@@ -1,0 +1,500 @@
+{
+  "hero": {
+    "src": "images/b1-06-hero.webp",
+    "alt": "Nadeesha comparing two mangoes at a fruit stall, holding one up in each hand to judge which is better, price cards and baskets around her."
+  },
+  "goalsSi": [
+    "-er / -est සහ more / most නීති",
+    "අක්‍රමවත් සැසඳීම් (good → better → best)",
+    "as … as සහ not as … as",
+    "සැසඳීම් නිවැරදිව ලිවීම"
+  ],
+  "goals": [
+    "Form comparatives and superlatives",
+    "Use irregular forms",
+    "Compare two things with as … as"
+  ],
+  "sections": [
+    {
+      "type": "note",
+      "title": "Short words and long words",
+      "titleSi": "කෙටි වචන සහ දිගු වචන",
+      "bodySi": "The rule depends on how many syllables the adjective has.\n\nවිශේෂණයේ අක්ෂර ගණන අනුව නීතිය තෝරනවා:\n\n• කෙටි (එක් අක්ෂරයක්): tall → taller → tallest\n• දිගු (අක්ෂර තුනක් හෝ වැඩි): beautiful → more beautiful → most beautiful\n• අක්ෂර දෙකක් සහිත, -y වලින් අවසන්: happy → happier → happiest\n\nSuperlative (උපරිම) සමඟ හැම විටම 'the' යෙදෙනවා: the tallest, the most beautiful.",
+      "body": "Short adjectives take -er and -est. Long adjectives take more and most."
+    },
+    {
+      "type": "grammar",
+      "title": "The rules",
+      "titleSi": "නීති",
+      "explainSi": "Learn the pattern by syllable count, then memorise the small irregular group.",
+      "formula": "short + er/est   ·   more/most + long   ·   the + superlative",
+      "table": {
+        "headers": [
+          "Type",
+          "Adjective",
+          "Comparative",
+          "Superlative"
+        ],
+        "rows": [
+          [
+            "1 syllable",
+            "tall",
+            "taller",
+            "the tallest"
+          ],
+          [
+            "1 syllable + short vowel",
+            "big",
+            "bigger",
+            "the biggest"
+          ],
+          [
+            "ends in -e",
+            "large",
+            "larger",
+            "the largest"
+          ],
+          [
+            "2 syllables ending -y",
+            "happy",
+            "happier",
+            "the happiest"
+          ],
+          [
+            "2+ syllables",
+            "modern",
+            "more modern",
+            "the most modern"
+          ],
+          [
+            "3+ syllables",
+            "expensive",
+            "more expensive",
+            "the most expensive"
+          ],
+          [
+            "irregular ⚠",
+            "good",
+            "better",
+            "the best"
+          ],
+          [
+            "irregular ⚠",
+            "bad",
+            "worse",
+            "the worst"
+          ],
+          [
+            "irregular ⚠",
+            "far",
+            "further / farther",
+            "the furthest"
+          ],
+          [
+            "irregular ⚠",
+            "little",
+            "less",
+            "the least"
+          ],
+          [
+            "irregular ⚠",
+            "many / much",
+            "more",
+            "the most"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "Kandy is cooler than Colombo.",
+          "si": "කොළඹට වඩා මහනුවර සීතලයි."
+        },
+        {
+          "en": "This is the best mango I have ever eaten.",
+          "si": "මම කාපු හොඳම අඹ ගෙඩිය මේකයි."
+        },
+        {
+          "en": "The bus is cheaper, but the train is more comfortable.",
+          "si": "බස් එක ලාභයි, නමුත් දුම්රිය වඩා සුවපහසුයි."
+        },
+        {
+          "en": "Sigiriya is one of the most famous places in Sri Lanka.",
+          "si": "සීගිරිය ලංකාවේ ප්‍රසිද්ධම ස්ථානවලින් එකක්."
+        }
+      ],
+      "watchOutSi": "'more better' හෝ 'most best' කියලා දෙකම එකට යොදන්න බෑ. එකක් තෝරන්න: 'better' හෝ 'more beautiful'."
+    },
+    {
+      "type": "grammar",
+      "title": "than, as … as",
+      "titleSi": "than සහ as … as",
+      "explainSi": "• than — comparative සමඟ (වඩා)\n• as … as — දෙකම සමාන විට (…තරම්)\n• not as … as — එකක් අඩු විට\n\n'than' සහ 'then' පටලවා ගන්න එපා: 'than' සැසඳීමට, 'then' කාලයට.",
+      "formula": "A is + comparative + than + B   ·   A is as + adjective + as + B",
+      "examples": [
+        {
+          "en": "My brother is taller than me.",
+          "si": "මගේ අයියා මට වඩා උසයි."
+        },
+        {
+          "en": "This shirt is as expensive as that one.",
+          "si": "මේ කමිසය අර එක තරම්ම මිල අධිකයි."
+        },
+        {
+          "en": "Today isn't as hot as yesterday.",
+          "si": "ඊයේ තරම් අද රස්නෙ නෑ."
+        },
+        {
+          "en": "The film was not as good as the book.",
+          "si": "පොත තරම් චිත්‍රපටය හොඳ නෑ."
+        }
+      ],
+      "watchOutSi": "සැසඳීම දෙපැත්තෙන්ම කිව හැකියි: 'Colombo is hotter than Kandy' = 'Kandy is not as hot as Colombo'. දෙකම එකම අර්ථයයි."
+    },
+    {
+      "type": "grammar",
+      "title": "Making comparisons stronger or weaker",
+      "titleSi": "සැසඳීම ශක්තිමත් හෝ දුර්වල කිරීම",
+      "explainSi": "You can add words before the comparative to change its strength. This makes your English sound much more natural.",
+      "table": {
+        "headers": [
+          "Word",
+          "Strength",
+          "Example"
+        ],
+        "rows": [
+          [
+            "much / far",
+            "ඉතා ශක්තිමත්",
+            "This is much better."
+          ],
+          [
+            "a lot",
+            "ශක්තිමත්",
+            "She is a lot taller now."
+          ],
+          [
+            "a bit / slightly",
+            "දුර්වල",
+            "It's a bit colder today."
+          ],
+          [
+            "almost as … as",
+            "ආසන්නව සමාන",
+            "He is almost as fast as his brother."
+          ],
+          [
+            "twice as … as",
+            "දෙගුණයක්",
+            "This one is twice as expensive."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "The new road is much faster than the old one.",
+          "si": "පරණ පාරට වඩා අලුත් පාර ගොඩක් වේගවත්."
+        },
+        {
+          "en": "It's a bit warmer today.",
+          "si": "අද ටිකක් උණුසුම්."
+        },
+        {
+          "en": "Rice is twice as expensive as last year.",
+          "si": "පහුගිය අවුරුද්දට වඩා බත් දෙගුණයක් මිල අධිකයි."
+        }
+      ]
+    },
+    {
+      "type": "story",
+      "title": "The Two Shops",
+      "titleSi": "කඩ දෙක",
+      "introSi": "A story built almost entirely on comparisons.",
+      "paragraphs": [
+        {
+          "en": "There were two shops in our small town. Perera's shop was bigger, brighter and much more modern. Sena's shop was older and darker.",
+          "si": "අපේ පොඩි නගරේ කඩ දෙකක් තිබුණා. පෙරේරාගේ කඩේ ලොකුයි, එළියයි, ගොඩක් නවීනයි. සේනගේ කඩේ පරණයි, අඳුරුයි."
+        },
+        {
+          "en": "Perera's prices were lower, and his shelves were fuller. Most people said his shop was the best in the town.",
+          "si": "පෙරේරාගේ මිල අඩුයි, රාක්ක පිරිලා. බොහෝ අය කිව්වා එයාගේ කඩේ නගරේ හොඳම එක කියලා."
+        },
+        {
+          "en": "But Sena knew every customer's name. He knew which child was sitting for exams and which mother was worried about money.",
+          "si": "නමුත් සේන හැම ගනුදෙනුකරුවෙකුගේම නම දැනගෙන හිටියා. කවර දරුවෙක් විභාගයට ඉන්නවද, කවර අම්මා කෙනෙක් සල්ලි ගැන කරදරයෙන් ඉන්නවද එයා දැනගෙන හිටියා."
+        },
+        {
+          "en": "When the floods came in November, Perera's shop closed for three weeks. Sena's shop was smaller, but it stayed open.",
+          "si": "නොවැම්බර්වල ගංවතුර ආවම පෙරේරාගේ කඩේ සති තුනක් වහලා. සේනගේ කඩේ පොඩියි, නමුත් ඒක ඇරලාම තිබුණා."
+        },
+        {
+          "en": "He gave rice on credit to families who had nothing. \"Pay me when you can,\" he said. \"Or don't. It doesn't matter.\"",
+          "si": "කිසිවක් නැති පවුල්වලට එයා ණයට බත් දුන්නා. \"පුළුවන් වෙලාවක ගෙවන්න,\" එයා කිව්වා. \"නැත්නම් ගෙවන්න එපා. කමක් නෑ.\""
+        },
+        {
+          "en": "Today Sena's shop is still the smaller of the two. But if you ask anyone in that town which shop is better, nobody says Perera's.",
+          "si": "අදටත් සේනගේ කඩේ දෙකෙන් පොඩි එකයි. නමුත් ඒ නගරේ කාගෙන් හරි අහන්න කවර කඩේද හොඳ කියලා — කවුරුවත් පෙරේරාගේ කියන්නේ නෑ."
+        }
+      ],
+      "glossary": [
+        {
+          "en": "bright",
+          "si": "එළිය / දීප්තිමත්"
+        },
+        {
+          "en": "shelf / shelves",
+          "si": "රාක්කය / රාක්ක"
+        },
+        {
+          "en": "customer",
+          "si": "ගනුදෙනුකරු"
+        },
+        {
+          "en": "worried",
+          "si": "කරදරයෙන්"
+        },
+        {
+          "en": "flood",
+          "si": "ගංවතුර"
+        },
+        {
+          "en": "on credit",
+          "si": "ණයට"
+        },
+        {
+          "en": "matter",
+          "si": "වැදගත් වෙනවා"
+        },
+        {
+          "en": "price",
+          "si": "මිල"
+        }
+      ],
+      "questionsSi": [
+        "පෙරේරාගේ කඩේ සේනගේ කඩේට වඩා හොඳින් තිබූ කරුණු මොනවාද?",
+        "ගංවතුරෙන් පස්සේ මිනිසුන්ගේ අදහස වෙනස් වුණේ ඇයි?",
+        "'better' කියන වචනයේ අර්ථය මේ කතාවේදී වෙනස් වන්නේ කෙසේද?"
+      ]
+    },
+    {
+      "type": "practice",
+      "title": "Compare them",
+      "titleSi": "සසඳන්න",
+      "instructionSi": "නිවැරදි ස්වරූපය ලියන්න.",
+      "items": [
+        {
+          "prompt": "Kandy is ___ (cool) than Colombo.",
+          "answer": "cooler",
+          "hintSi": "කෙටි විශේෂණයක්.",
+          "full": "Kandy is cooler than Colombo."
+        },
+        {
+          "prompt": "This is the ___ (expensive) phone in the shop.",
+          "answer": "most expensive",
+          "hintSi": "දිගු විශේෂණයක් + superlative.",
+          "full": "This is the most expensive phone in the shop."
+        },
+        {
+          "prompt": "Your handwriting is ___ (good) than mine.",
+          "answer": "better",
+          "hintSi": "අක්‍රමවත්.",
+          "full": "Your handwriting is better than mine."
+        },
+        {
+          "prompt": "Today isn't ___ hot ___ yesterday.",
+          "answer": "as hot as",
+          "hintSi": "සමානකම ප්‍රතික්ෂේප කරනවා.",
+          "full": "Today isn't as hot as yesterday."
+        },
+        {
+          "prompt": "That was the ___ (bad) film I have ever seen.",
+          "answer": "worst",
+          "hintSi": "bad වල superlative.",
+          "full": "That was the worst film I have ever seen."
+        },
+        {
+          "prompt": "The new road is ___ faster than the old one. (ශක්තිමත් කරන්න)",
+          "answer": "much",
+          "hintSi": "comparative ශක්තිමත් කරන වචනයක්.",
+          "full": "The new road is much faster than the old one."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "en": "better",
+      "si": "වඩා හොඳ"
+    },
+    {
+      "en": "worse",
+      "si": "වඩා නරක"
+    },
+    {
+      "en": "best",
+      "si": "හොඳම"
+    },
+    {
+      "en": "worst",
+      "si": "නරකම"
+    },
+    {
+      "en": "bright",
+      "si": "එළිය / දීප්තිමත්"
+    },
+    {
+      "en": "customer",
+      "si": "ගනුදෙනුකරු"
+    },
+    {
+      "en": "price",
+      "si": "මිල"
+    },
+    {
+      "en": "flood",
+      "si": "ගංවතුර"
+    },
+    {
+      "en": "worried",
+      "si": "කරදරයෙන්"
+    },
+    {
+      "en": "modern",
+      "si": "නවීන"
+    },
+    {
+      "en": "comfortable",
+      "si": "සුවපහසු"
+    },
+    {
+      "en": "famous",
+      "si": "ප්‍රසිද්ධ"
+    },
+    {
+      "en": "shelf",
+      "si": "රාක්කය"
+    },
+    {
+      "en": "credit",
+      "si": "ණය"
+    },
+    {
+      "en": "slightly",
+      "si": "ටිකක්"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "b1-06-q1",
+      "q": "'Kandy is ___ than Colombo.' (cool)",
+      "qSi": "නිවැරදි ස්වරූපය?",
+      "options": [
+        "more cool",
+        "cooler",
+        "coolest",
+        "the cooler"
+      ],
+      "answer": 1,
+      "explainSi": "'cool' කෙටි විශේෂණයක් — '-er' එකතු කරනවා.",
+      "speak": "Kandy is cooler than Colombo."
+    },
+    {
+      "id": "b1-06-q2",
+      "q": "'good' → comparative → superlative?",
+      "qSi": "'good' වල ස්වරූප?",
+      "options": [
+        "gooder → goodest",
+        "more good → most good",
+        "better → best",
+        "well → best"
+      ],
+      "answer": 2,
+      "explainSi": "good → better → the best. මෙය අක්‍රමවත් ස්වරූපයක්.",
+      "speak": "good, better, the best"
+    },
+    {
+      "id": "b1-06-q3",
+      "q": "Which sentence is WRONG?",
+      "qSi": "වැරදි වාක්‍යය කුමක්ද?",
+      "options": [
+        "This is more expensive.",
+        "This is much better.",
+        "This is more better.",
+        "This is the best."
+      ],
+      "answer": 2,
+      "explainSi": "'more' සහ 'better' එකට යොදන්න බෑ. 'better' දැනටමත් comparative එකක්.",
+      "speak": "This is much better."
+    },
+    {
+      "id": "b1-06-q4",
+      "q": "'Today isn't ___ hot ___ yesterday.'",
+      "qSi": "හිස්තැන් පුරවන්නේ කෙසේද?",
+      "options": [
+        "so / than",
+        "as / as",
+        "more / than",
+        "as / than"
+      ],
+      "answer": 1,
+      "explainSi": "as … as — සමානකම ප්‍රකාශ කරයි; 'not as … as' යනු අඩු බව.",
+      "speak": "Today isn't as hot as yesterday."
+    },
+    {
+      "id": "b1-06-q5",
+      "q": "Superlative forms usually need which word before them?",
+      "qSi": "Superlative ඉදිරියෙන් සාමාන්‍යයෙන් යෙදෙන වචනය?",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "some"
+      ],
+      "answer": 2,
+      "explainSi": "the tallest, the best, the most expensive — හැම විටම 'the'.",
+      "speak": "the tallest building"
+    },
+    {
+      "id": "b1-06-q6",
+      "q": "'big' → comparative?",
+      "qSi": "'big' වල comparative එක?",
+      "options": [
+        "biger",
+        "bigger",
+        "more big",
+        "bigest"
+      ],
+      "answer": 1,
+      "explainSi": "කෙටි ස්වර + ව්‍යාංජනයකින් අවසන් වන විට ව්‍යාංජනය ද්විත්ව වෙනවා: big → bigger.",
+      "speak": "big, bigger, the biggest"
+    },
+    {
+      "id": "b1-06-q7",
+      "q": "'The train is ___ comfortable than the bus.'",
+      "qSi": "'comfortable' සමඟ යෙදෙන්නේ?",
+      "options": [
+        "-er",
+        "more",
+        "most",
+        "much"
+      ],
+      "answer": 1,
+      "explainSi": "'comfortable' අක්ෂර තුනකට වඩා ඇති නිසා 'more' යෙදෙනවා.",
+      "speak": "The train is more comfortable than the bus."
+    },
+    {
+      "id": "b1-06-q8",
+      "context": "Perera's prices were lower, and his shelves were fuller. But when the floods came, Sena gave rice on credit to families who had nothing. \"Pay me when you can,\" he said. \"Or don't. It doesn't matter.\"",
+      "contextSi": "පෙරේරාගේ මිල අඩුයි, රාක්ක පිරිලා. නමුත් ගංවතුර ආවම, කිසිවක් නැති පවුල්වලට සේන ණයට බත් දුන්නා. \"පුළුවන් වෙලාවක ගෙවන්න,\" එයා කිව්වා. \"නැත්නම් ගෙවන්න එපා. කමක් නෑ.\"",
+      "q": "In the story, why do people say Sena's shop is 'better'?",
+      "qSi": "සේනගේ කඩේ 'හොඳ' කියන්නේ ඇයි?",
+      "options": [
+        "Its prices were the lowest",
+        "It was the biggest and most modern",
+        "He helped people when they had nothing",
+        "It had the fullest shelves"
+      ],
+      "answer": 2,
+      "explainSi": "ගංවතුරෙන් පස්සේ එයා ණයට බත් දුන්නා. 'better' යන්නෙහි අර්ථය මිල හෝ ප්‍රමාණය නොව කරුණාව බවට පත් වුණා."
+    }
+  ]
+}

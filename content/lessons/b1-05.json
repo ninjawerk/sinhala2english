@@ -1,0 +1,469 @@
+{
+  "hero": {
+    "src": "images/b1-05-hero.webp",
+    "alt": "Ruwan sitting across a desk from a doctor, one hand at his temple describing a headache, calm clinic with a window."
+  },
+  "goalsSi": [
+    "can, could, should, must, might නිවැරදිව යෙදීම",
+    "හැකියාව, උපදෙස්, අවශ්‍යතාව සහ අවසර ප්‍රකාශ කිරීම",
+    "'must not' සහ 'don't have to' අතර ඇති විශාල වෙනස",
+    "ආචාරශීලීව ඉල්ලීම් කිරීම"
+  ],
+  "goals": [
+    "Express ability, advice, obligation and possibility",
+    "Know the difference between mustn't and don't have to",
+    "Make polite requests"
+  ],
+  "sections": [
+    {
+      "type": "note",
+      "title": "Modal verbs are easy — and strange",
+      "titleSi": "Modal ක්‍රියා: ලේසියි, නමුත් අමුතුයි",
+      "bodySi": "Modal verbs are helper verbs: can, could, should, must, may, might, would.\n\nThey follow three simple rules:\n1. No -s for he/she/it → 'She can swim' (not 'She cans')\n2. Always followed by the base verb → 'must go' (not 'must to go')\n3. Questions and negatives need no 'do' → 'Can you help?' (not 'Do you can help?')\n\nමේ නීති තුන දැනගත්තම modal verbs ලේසියි. සිංහල කථා කරන අය නිතර 'She can to go' කියලා වැරදි කරනවා — 'to' අවශ්‍ය නෑ.",
+      "body": "Modals take no -s, need no 'do', and are always followed by the base verb."
+    },
+    {
+      "type": "grammar",
+      "title": "The main modals",
+      "titleSi": "ප්‍රධාන modal ක්‍රියා",
+      "explainSi": "Each modal carries a different strength of meaning. Learn them as a scale, from weak to strong.",
+      "table": {
+        "headers": [
+          "Modal",
+          "Meaning",
+          "සිංහල",
+          "Example"
+        ],
+        "rows": [
+          [
+            "can",
+            "ability / permission",
+            "පුළුවන්",
+            "I can drive a car."
+          ],
+          [
+            "can't",
+            "impossibility",
+            "බෑ",
+            "That can't be true."
+          ],
+          [
+            "could",
+            "past ability / polite request",
+            "පුළුවන් වුණා / ආචාරශීලී",
+            "Could you help me, please?"
+          ],
+          [
+            "may",
+            "permission (formal) / possibility",
+            "අවසර / විය හැකි",
+            "May I come in?"
+          ],
+          [
+            "might",
+            "weak possibility",
+            "සමහරවිට",
+            "It might rain later."
+          ],
+          [
+            "should",
+            "advice",
+            "කරන්න ඕන (උපදෙසක්)",
+            "You should see a doctor."
+          ],
+          [
+            "shouldn't",
+            "advice against",
+            "කරන්න එපා",
+            "You shouldn't eat so late."
+          ],
+          [
+            "must",
+            "strong obligation",
+            "අනිවාර්යයෙන්",
+            "You must wear a helmet."
+          ],
+          [
+            "mustn't",
+            "prohibition",
+            "කරන්නම බෑ",
+            "You mustn't smoke here."
+          ],
+          [
+            "have to",
+            "obligation from outside",
+            "කරන්නම වෙනවා",
+            "I have to work on Saturday."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "She can speak three languages.",
+          "si": "එයාට භාෂා තුනක් කතා කරන්න පුළුවන්."
+        },
+        {
+          "en": "You should rest for a few days.",
+          "si": "ඔබ දවස් කීපයක් විවේක ගන්න ඕන."
+        },
+        {
+          "en": "Students must bring their ID cards.",
+          "si": "ශිෂ්‍යයෝ අනිවාර්යයෙන් හැඳුනුම්පත් ගේන්න ඕන."
+        },
+        {
+          "en": "It might be closed on Sunday.",
+          "si": "ඉරිදා වහලා තියෙන්න පුළුවන්."
+        }
+      ],
+      "watchOutSi": "'must' සහ 'have to' බොහෝ විට එකම අර්ථයයි. නමුත් 'must' සාමාන්‍යයෙන් කථිකයාගේම හැඟීම, 'have to' පිටතින් එන නීතියක් හෝ තත්ත්වයක්."
+    },
+    {
+      "type": "grammar",
+      "title": "mustn't vs don't have to",
+      "titleSi": "mustn't සහ don't have to — ඉතා වැදගත්!",
+      "explainSi": "This is one of the most dangerous mistakes in English, because the two look similar but mean the opposite.\n\n• mustn't = it is forbidden. කරන්නම බෑ. තහනම්.\n• don't have to = it is not necessary. කරන්න ඕන නෑ, නමුත් කැමති නම් කරන්න පුළුවන්.\n\nYou mustn't park here. → රථය නවත්තන්න බෑ. දඩ ගහයි.\nYou don't have to park here. → මෙතන නවත්තන්න ඕන නෑ. වෙන තැනකත් නවත්තන්න පුළුවන්.\n\nඅර්ථ දෙක සම්පූර්ණයෙන්ම වෙනස්!",
+      "formula": "mustn't = තහනම්   ·   don't have to = අවශ්‍ය නෑ",
+      "examples": [
+        {
+          "en": "You mustn't tell anyone. It's a secret.",
+          "si": "කාටවත් කියන්න බෑ. ඒක රහසක්."
+        },
+        {
+          "en": "You don't have to tell anyone. It's up to you.",
+          "si": "කාටවත් කියන්න ඕන නෑ. ඒක ඔබේ කැමැත්තයි."
+        },
+        {
+          "en": "Passengers mustn't open the doors.",
+          "si": "මගීන් දොරවල් අරින්න බෑ."
+        },
+        {
+          "en": "You don't have to come early. Ten o'clock is fine.",
+          "si": "කලින් එන්න ඕන නෑ. දහයට ඇති."
+        }
+      ]
+    },
+    {
+      "type": "grammar",
+      "title": "Polite requests",
+      "titleSi": "ආචාරශීලී ඉල්ලීම්",
+      "explainSi": "In English, politeness is built with modals. The longer and less direct the sentence, the more polite it sounds.\n\nඉංග්‍රීසියේ ආචාරශීලීත්වය හැදෙන්නේ modal ක්‍රියාවලින්. වාක්‍යය දිගු වන තරමට ආචාරශීලී වෙනවා.",
+      "table": {
+        "headers": [
+          "Level",
+          "Sentence",
+          "When to use"
+        ],
+        "rows": [
+          [
+            "Direct",
+            "Open the window.",
+            "යාළුවෙක්ට, හදිසි අවස්ථාවක"
+          ],
+          [
+            "Polite",
+            "Can you open the window?",
+            "සාමාන්‍ය දිනපතා"
+          ],
+          [
+            "More polite",
+            "Could you open the window, please?",
+            "නාඳුනන අයට"
+          ],
+          [
+            "Very polite",
+            "Would you mind opening the window?",
+            "විධිමත් / ලොකු ඉල්ලීමක්"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "Could you say that again, please?",
+          "si": "කරුණාකර ඒක ආපහු කියන්න පුළුවන්ද?"
+        },
+        {
+          "en": "May I use your phone?",
+          "si": "මට ඔබේ දුරකථනය පාවිච්චි කරන්න පුළුවන්ද?"
+        },
+        {
+          "en": "Would you mind waiting a few minutes?",
+          "si": "විනාඩි කීපයක් රැඳී සිටින්න කමක් නැද්ද?"
+        }
+      ],
+      "watchOutSi": "'Would you mind …?' පසුව -ing ස්වරූපය එනවා: 'Would you mind WAITING?' නොවේ 'Would you mind to wait?'. තවද මෙයට පිළිතුර ටිකක් අමුතුයි: 'No, not at all' යනු 'හරි, කරන්නම්' කියන අර්ථයයි."
+    },
+    {
+      "type": "dialogue",
+      "title": "At the doctor's",
+      "titleSi": "වෛද්‍යවරයා ළඟදී",
+      "settingSi": "A patient describes his symptoms. Count how many modal verbs you can find.",
+      "lines": [
+        {
+          "speaker": "Doctor",
+          "en": "Good morning. What seems to be the problem?",
+          "si": "සුබ උදෑසනක්. ප්‍රශ්නය මොකක්ද?"
+        },
+        {
+          "speaker": "Patient",
+          "en": "I can't sleep at night, doctor. And I have a bad headache.",
+          "si": "දොස්තර මට රෑට නිදාගන්න බෑ. ඒ වගේම දරුණු හිසරදයක් තියෙනවා."
+        },
+        {
+          "speaker": "Doctor",
+          "en": "How long has this been going on? Could you describe the pain?",
+          "si": "මේක කොච්චර කාලයක් තියෙනවද? වේදනාව විස්තර කරන්න පුළුවන්ද?"
+        },
+        {
+          "speaker": "Patient",
+          "en": "About two weeks. It might be the new job — I have to work until ten every night.",
+          "si": "සති දෙකක් විතර. සමහරවිට අලුත් රස්සාව වෙන්න පුළුවන් — මට හැම රාත්‍රියකම දහය වෙනකම් වැඩ කරන්නම වෙනවා."
+        },
+        {
+          "speaker": "Doctor",
+          "en": "That's too much. You should try to finish by eight.",
+          "si": "ඒක වැඩියි. ඔබ අටට ඉවර කරන්න උත්සාහ කරන්න ඕන."
+        },
+        {
+          "speaker": "Patient",
+          "en": "I can't, doctor. My manager won't allow it.",
+          "si": "බෑ දොස්තර. මගේ කළමනාකරු ඒකට ඉඩ දෙන්නේ නෑ."
+        },
+        {
+          "speaker": "Doctor",
+          "en": "Then you must at least stop drinking tea after six. And you mustn't look at your phone in bed.",
+          "si": "එහෙනම් අඩුම තරමින් හයෙන් පස්සේ තේ බීම නවත්තන්නම ඕන. ඇඳේදී දුරකථනය බලන්නත් බෑ."
+        },
+        {
+          "speaker": "Patient",
+          "en": "Do I have to take medicine?",
+          "si": "මට බෙහෙත් ගන්නම වෙනවද?"
+        },
+        {
+          "speaker": "Doctor",
+          "en": "Not yet. You don't have to take anything if you change these habits. Come back in two weeks.",
+          "si": "තාම නෑ. මේ පුරුදු වෙනස් කළොත් ඔබට කිසිවක් ගන්න ඕන නෑ. සති දෙකකින් ආපහු එන්න."
+        }
+      ]
+    },
+    {
+      "type": "practice",
+      "title": "Choose the modal",
+      "titleSi": "Modal ක්‍රියාව තෝරන්න",
+      "instructionSi": "නිවැරදි වචනය ලියන්න.",
+      "items": [
+        {
+          "prompt": "You look ill. You ___ see a doctor. (උපදෙසක්)",
+          "answer": "should",
+          "hintSi": "උපදෙස් දෙන modal එක.",
+          "full": "You look ill. You should see a doctor."
+        },
+        {
+          "prompt": "She ___ speak four languages. (හැකියාව)",
+          "answer": "can",
+          "hintSi": "හැකියාව.",
+          "full": "She can speak four languages."
+        },
+        {
+          "prompt": "___ you help me, please? (ආචාරශීලී ඉල්ලීම)",
+          "answer": "could",
+          "hintSi": "'can' ට වඩා ආචාරශීලීයි.",
+          "full": "Could you help me, please?"
+        },
+        {
+          "prompt": "You ___ smoke in the hospital. (තහනම්)",
+          "answer": "mustn't",
+          "hintSi": "තහනම් කිරීම.",
+          "full": "You mustn't smoke in the hospital."
+        },
+        {
+          "prompt": "It's Sunday. You ___ get up early. (අවශ්‍ය නෑ)",
+          "answer": "don't have to",
+          "hintSi": "අවශ්‍ය නොවීම.",
+          "full": "It's Sunday. You don't have to get up early."
+        },
+        {
+          "prompt": "Take an umbrella. It ___ rain. (සමහරවිට)",
+          "answer": "might",
+          "hintSi": "දුර්වල හැකියාව.",
+          "full": "Take an umbrella. It might rain."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "en": "ability",
+      "si": "හැකියාව"
+    },
+    {
+      "en": "advice",
+      "si": "උපදෙස්"
+    },
+    {
+      "en": "permission",
+      "si": "අවසර"
+    },
+    {
+      "en": "allow",
+      "si": "ඉඩ දෙනවා"
+    },
+    {
+      "en": "forbidden",
+      "si": "තහනම්"
+    },
+    {
+      "en": "necessary",
+      "si": "අවශ්‍ය"
+    },
+    {
+      "en": "headache",
+      "si": "හිසරදය"
+    },
+    {
+      "en": "pain",
+      "si": "වේදනාව"
+    },
+    {
+      "en": "medicine",
+      "si": "බෙහෙත්"
+    },
+    {
+      "en": "habit",
+      "si": "පුරුද්ද"
+    },
+    {
+      "en": "describe",
+      "si": "විස්තර කරනවා"
+    },
+    {
+      "en": "secret",
+      "si": "රහස"
+    },
+    {
+      "en": "passenger",
+      "si": "මගියා"
+    },
+    {
+      "en": "manager",
+      "si": "කළමනාකරු"
+    },
+    {
+      "en": "at least",
+      "si": "අඩුම තරමින්"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "b1-05-q1",
+      "q": "Which sentence is correct?",
+      "qSi": "නිවැරදි වාක්‍යය කුමක්ද?",
+      "options": [
+        "She cans swim.",
+        "She can to swim.",
+        "She can swim.",
+        "She can swims."
+      ],
+      "answer": 2,
+      "explainSi": "Modal ක්‍රියාවලට -s නෑ, සහ පසුව 'to' නෑ. 'She can swim.'",
+      "speak": "She can swim."
+    },
+    {
+      "id": "b1-05-q2",
+      "q": "'You mustn't park here' means:",
+      "qSi": "මෙහි අර්ථය කුමක්ද?",
+      "options": [
+        "It is not necessary to park here",
+        "Parking here is forbidden",
+        "You can park here if you like",
+        "You should park here"
+      ],
+      "answer": 1,
+      "explainSi": "mustn't = තහනම්. 'අවශ්‍ය නෑ' කියන්න 'don't have to' යොදන්න.",
+      "speak": "You mustn't park here."
+    },
+    {
+      "id": "b1-05-q3",
+      "q": "'It's Sunday. You ___ get up early.'",
+      "qSi": "අවශ්‍ය නොවීම ප්‍රකාශ කරන්නේ කෙසේද?",
+      "options": [
+        "mustn't",
+        "don't have to",
+        "shouldn't",
+        "can't"
+      ],
+      "answer": 1,
+      "explainSi": "අවශ්‍ය නොවීම = don't have to. 'mustn't' කිව්වොත් අර්ථය වෙන්නේ 'කලින් නැගිටින්න තහනම්' කියලා!",
+      "speak": "You don't have to get up early."
+    },
+    {
+      "id": "b1-05-q4",
+      "q": "Which is the most polite?",
+      "qSi": "වඩාත්ම ආචාරශීලී වන්නේ?",
+      "options": [
+        "Open the window.",
+        "Can you open the window?",
+        "Would you mind opening the window?",
+        "You must open the window."
+      ],
+      "answer": 2,
+      "explainSi": "'Would you mind + -ing' යනු වඩාත්ම ආචාරශීලී ස්වරූපයයි.",
+      "speak": "Would you mind opening the window?"
+    },
+    {
+      "id": "b1-05-q5",
+      "q": "'You look tired. You ___ rest.' — giving advice.",
+      "qSi": "උපදෙසක් දෙන්නේ කුමන modal එකෙන්ද?",
+      "options": [
+        "must",
+        "should",
+        "can",
+        "might"
+      ],
+      "answer": 1,
+      "explainSi": "උපදෙස් සඳහා 'should'. 'must' යනු ඉතා ශක්තිමත් — නීතියක් හෝ අනිවාර්යතාවක්.",
+      "speak": "You look tired. You should rest."
+    },
+    {
+      "id": "b1-05-q6",
+      "q": "'I'm not sure, but it ___ rain later.'",
+      "qSi": "දුර්වල හැකියාවක් ප්‍රකාශ කරන්නේ?",
+      "options": [
+        "must",
+        "should",
+        "might",
+        "can't"
+      ],
+      "answer": 2,
+      "explainSi": "'might' = සමහරවිට. නිශ්චිත නැති අවස්ථාවකට.",
+      "speak": "It might rain later."
+    },
+    {
+      "id": "b1-05-q7",
+      "q": "After 'Would you mind', which form follows?",
+      "qSi": "'Would you mind' පසුව එන ස්වරූපය?",
+      "options": [
+        "to + verb",
+        "verb + -ing",
+        "base verb",
+        "past verb"
+      ],
+      "answer": 1,
+      "explainSi": "'Would you mind waiting?' — -ing ස්වරූපය. 'to wait' වැරදියි.",
+      "speak": "Would you mind waiting?"
+    },
+    {
+      "id": "b1-05-q8",
+      "q": "In the dialogue, why did the patient say 'I have to work until ten'?",
+      "qSi": "රෝගියා 'have to' යෙදුවේ ඇයි?",
+      "options": [
+        "It was his own choice",
+        "The obligation comes from outside — his job",
+        "He was giving advice",
+        "It was a possibility"
+      ],
+      "answer": 1,
+      "explainSi": "'have to' යෙදෙන්නේ පිටතින් එන අනිවාර්යතාවකට — මෙහිදී රැකියාව.",
+      "speak": "I have to work until ten every night."
+    }
+  ]
+}

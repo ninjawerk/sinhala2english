@@ -1,0 +1,109 @@
+{
+  "quiz": [
+    {
+      "id": "u2e-cp-q1",
+      "q": "'මට ගිණුමක් විවෘත කරන්න ඕන.' (බැංකුවේ) — ඉංග්‍රීසියෙන්?",
+      "options": ["I want open account.", "I'd like to open an account.", "I open account please.", "Give me an account."],
+      "answer": 1,
+      "explainSi": "'I'd like to open an account.' — බැංකුවේ ආචාරශීලීව ඉල්ලීම.",
+      "speak": "I'd like to open an account, please."
+    },
+    {
+      "id": "u2e-cp-q2",
+      "q": "'විනිමය අනුපාතය කීයද?' — ඉංග්‍රීසියෙන්?",
+      "options": ["How much is the exchange rate?", "What's the exchange rate?", "What is exchange rate is?", "How the exchange rate?"],
+      "answer": 1,
+      "explainSi": "'What's the exchange rate?' — විනිමය අනුපාතය අහන සම්මත ප්‍රශ්නය.",
+      "speak": "What's the exchange rate today?"
+    },
+    {
+      "id": "u2e-cp-q3",
+      "q": "'ඔබ මොකද කරන්නේ?' (රැකියාව ගැන) — ඉංග්‍රීසියෙන්?",
+      "options": ["What you do?", "What do you do?", "What are you doing job?", "What's your doing?"],
+      "answer": 1,
+      "explainSi": "'What do you do?' — රැකියාව ගැන අහන සම්මත ප්‍රශ්නය.",
+      "speak": "What do you do?"
+    },
+    {
+      "id": "u2e-cp-q4",
+      "q": "'මම ගුරුවරයෙක් විදියට වැඩ කරනවා.' — ඉංග්‍රීසියෙන්?",
+      "options": ["I work as a teacher.", "I am work teacher.", "I working teacher.", "I do teacher."],
+      "answer": 0,
+      "explainSi": "'I work as a + රැකියාව' — රැකියාව කියද්දී.",
+      "speak": "I work as a teacher."
+    },
+    {
+      "id": "u2e-cp-q5",
+      "q": "'මම පැය සම්පූර්ණයෙන් වැඩ කරනවා.' (part-time නෙවෙයි) — ඉංග්‍රීසියෙන්?",
+      "options": ["I work full-time.", "I work all-time.", "I work whole-time.", "I work complete-time."],
+      "answer": 0,
+      "explainSi": "'full-time' — සම්පූර්ණ වේලාවම වැඩ කරන එක, 'part-time' — ටික වේලාවක් වැඩ කරන එක."
+    },
+    {
+      "id": "u2e-cp-q6",
+      "q": "'ඔබ කැමති විෂයය මොකක්ද?' (පාසලේ) — ඉංග්‍රීසියෙන්?",
+      "options": ["What's your favourite subject?", "What subject you like?", "Which subject favourite?", "What do you like subject?"],
+      "answer": 0,
+      "explainSi": "'What's your favourite subject?' — කැමති විෂයය අහන සම්මත ප්‍රශ්නය.",
+      "speak": "What's your favourite subject?"
+    },
+    {
+      "id": "u2e-cp-q7",
+      "q": "'මම ගණිතයට දක්ෂයි.' — ඉංග්‍රීසියෙන්?",
+      "options": ["I'm good at maths.", "I'm good in maths.", "I'm good on maths.", "I'm good for maths."],
+      "answer": 0,
+      "explainSi": "'good at + විෂය' — යම් දෙයකට දක්ෂ බව කියද්දී 'at' භාවිතා කරනවා.",
+      "speak": "I'm good at maths."
+    },
+    {
+      "id": "u2e-cp-q8",
+      "q": "'මම විභාගය සමත් වුනා.' — ඉංග්‍රීසියෙන්?",
+      "options": ["I passed the exam.", "I win the exam.", "I success the exam.", "I get the exam."],
+      "answer": 0,
+      "explainSi": "'pass an exam' — විභාගය සමත් වීම.",
+      "speak": "I passed the exam."
+    },
+    {
+      "id": "u2e-cp-q9",
+      "q": "'wifi password එක මොකක්ද?' — ඉංග්‍රීසියෙන්?",
+      "options": ["What's the wifi password?", "What wifi password?", "Wifi password what?", "Tell me wifi password."],
+      "answer": 0,
+      "explainSi": "'What's the wifi password?' — wifi password එක අහන සම්මත ප්‍රශ්නය.",
+      "speak": "What's the wifi password?"
+    },
+    {
+      "id": "u2e-cp-q10",
+      "q": "'මගේ ෆෝන් එක charge වෙලා නෑ.' — ඉංග්‍රීසියෙන්?",
+      "options": ["My phone is dying.", "My phone is dead battery.", "My phone no charge.", "My phone finish charge."],
+      "answer": 0,
+      "explainSi": "'My phone is dying.' — ෆෝන් එකේ බැටරිය අඩුවෙනවා කියද්දී භාවිතා කරන යෙදුම.",
+      "speak": "My phone is dying, do you have a charger?"
+    },
+    {
+      "id": "u2e-cp-q11",
+      "context": "What do you do? — I work as an accountant at a bank, full-time. What's your favourite thing about it? — I'm good with numbers, so I enjoy it.",
+      "contextSi": "ඔබ මොකද කරන්නේ? — මම බැංකුවක ගණකාධිකාරීවරයෙක් විදියට, පැය සම්පූර්ණයෙන් වැඩ කරනවා. එහි ඔබ වඩාත්ම කැමති දේ මොකක්ද? — මම අංක වලට දක්ෂ නිසා, මම එයට කැමතියි.",
+      "q": "මේ සංවාදයේ 'work as an accountant', 'full-time', 'good with numbers' — රැකියාව (a2-19) සහ පාසල් විෂය දක්ෂතාව (a2-20) දෙකේම භාෂා රටා එකට එකතු වෙලා තියෙනවද?",
+      "options": [
+        "ඔව් — 'work as' (a2-19 රැකියා රටාව) සහ 'good with numbers' (a2-20 දක්ෂතා රටාවට සමාන) දෙකම එකට",
+        "නෑ, 'work as' වැරදියි",
+        "නෑ, 'good with numbers' වෙනුවට 'good at numbers' විය යුතුයි",
+        "දෙකම එකම දෙයක් කියනවා"
+      ],
+      "answer": 0,
+      "explainSi": "'work as an accountant' රැකියාව විස්තර කරන a2-19 රටාව. 'good with numbers' — 'good at' (a2-20) වගේම දක්ෂතාවක් විස්තර කරන ආකාරයක්, 'with' ද 'at' ද යන දෙකම භාවිතා කළ හැක."
+    },
+    {
+      "id": "u2e-cp-q12",
+      "q": "'I'd like to open an account, and could you also tell me the wifi password here?' — 'I'd like to open an account' (බැංකුව) සහ 'wifi password' (තාක්ෂණය) දෙකම එකම වාක්‍යයේ එකට යෙදිලා තියෙනවද?",
+      "options": [
+        "ඔව් — දෙකම එකම වාක්‍යයේ විවිධ මාතෘකා දෙකකට යොදාගෙන තියෙනවා",
+        "නෑ, 'I'd like to open an account' වෙනුවට 'I want open account' විය යුතුයි",
+        "නෑ, 'wifi password' වෙනුවට 'internet password' විය යුතුයි",
+        "දෙකම වැරදියි"
+      ],
+      "answer": 0,
+      "explainSi": "'I'd like to open an account' (බැංකු රටාව, a2-18) සහ 'wifi password' (a2-21) — දෙකම නිවැරදිව එකම වාක්‍යයේ එකට යොදාගෙන තියෙනවා."
+    }
+  ]
+}

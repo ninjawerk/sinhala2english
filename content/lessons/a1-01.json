@@ -1,0 +1,613 @@
+{
+  "hero": {
+    "src": "images/a1-01-hero.webp",
+    "alt": "Nadeesha sitting at a table on the veranda of a village house, turned towards the viewer and speaking warmly mid-conversation, a clay water jug and a bowl of rice on the table, a big green tree and houses behind, bright sun in a clear sky."
+  },
+  "goalsSi": [
+    "ඉංග්‍රීසි අකුරු 26 හඳුනා ගැනීම",
+    "ස්වර (vowels) සහ ව්‍යාංජන (consonants) අතර වෙනස",
+    "එකම අකුර වචන කිහිපයක වෙනස් ලෙස ශබ්ද වන ආකාරය",
+    "මුල් වචන 12ක් නිවැරදිව උච්චාරණය කිරීම"
+  ],
+  "goals": [
+    "Recognise the 26 letters of the English alphabet",
+    "Tell vowels and consonants apart",
+    "Notice that one letter can have more than one sound"
+  ],
+  "sections": [
+    {
+      "type": "note",
+      "title": "Welcome",
+      "titleSi": "ආයුබෝවන්!",
+      "bodySi": "ඉංග්‍රීසි භාෂාවේ අකුරු 26ක් තිබෙනවා. සිංහලෙන් අකුරු 60ට වඩා තියෙනවා නිසා, 26 කියන්නේ ඉතා අඩු ගණනක්! නමුත් ඉංග්‍රීසියේ ඇති අභියෝගය තමයි — එකම අකුර වචනයෙන් වචනයට වෙනස් හඬක් දෙන එක. උදාහරණයක් විදිහට 'a' අකුර 'cat' කියන වචනයේ 'ඇ' වගේ ශබ්ද වෙනවා, නමුත් 'name' කියන වචනයේ 'ඒ' වගේ ශබ්ද වෙනවා.\n\nකලබල වෙන්න එපා. මේ පාඩමේදී අපි අකුරු හඳුනාගෙන, ඒවා යෙදෙන සරල වචන ටිකක් ඉගෙන ගමු. සෑම ඉංග්‍රීසි වචනයක් ළඟම 🔊 බොත්තමක් තියෙනවා — ඒක ඔබා හඬ අහන්න. අහන එක ඉගෙනීමේ වේගවත්ම ක්‍රමයයි.",
+      "body": "English has 26 letters. Press the speaker button to hear every word."
+    },
+    {
+      "type": "grammar",
+      "title": "Vowels and consonants",
+      "titleSi": "ස්වර සහ ව්‍යාංජන",
+      "explainSi": "අකුරු 26න් 5ක් ස්වර (vowels) කියලා හඳුන්වනවා: a, e, i, o, u. ඉතිරි 21 ව්‍යාංජන (consonants). හැම ඉංග්‍රීසි වචනයකම පාහේ අවම වශයෙන් එක ස්වරයක්වත් තියෙනවා — ස්වරය තමයි වචනයට 'හුස්මක්' දෙන්නේ.\n\n('y' අකුර සමහර වෙලාවට ස්වරයක් වගේ වැඩ කරනවා — 'happy' කියන වචනයේ වගේ.)",
+      "formula": "vowels = a · e · i · o · u",
+      "table": {
+        "headers": [
+          "Letter",
+          "Name (කියවන ආකාරය)",
+          "Sound in a word"
+        ],
+        "rows": [
+          [
+            "A a",
+            "ඒ",
+            "cat = ක්‍යැට්"
+          ],
+          [
+            "E e",
+            "ඊ",
+            "bed = බෙඩ්"
+          ],
+          [
+            "I i",
+            "අයි",
+            "sit = සිට්"
+          ],
+          [
+            "O o",
+            "ඕ",
+            "dog = ඩොග්"
+          ],
+          [
+            "U u",
+            "යූ",
+            "sun = සන්"
+          ],
+          [
+            "B b",
+            "බී",
+            "book = බුක්"
+          ],
+          [
+            "C c",
+            "සී",
+            "cup = කප්"
+          ],
+          [
+            "G g",
+            "ජී",
+            "girl = ගර්ල්"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "A cat sat on a mat.",
+          "si": "පූසෙක් පැදුරක් උඩ ඉඳගත්තා."
+        },
+        {
+          "en": "The sun is big.",
+          "si": "හිරු විශාලයි."
+        },
+        {
+          "en": "I see a red bus.",
+          "si": "මට රතු බස් එකක් පේනවා."
+        }
+      ],
+      "watchOutSi": "ඉංග්‍රීසියේ අකුරේ නම සහ අකුරේ හඬ දෙකක්! 'C' අකුරේ නම 'සී' වුණාට, 'cat' කියන වචනයේ ඒක 'ක්' කියලා ශබ්ද වෙනවා."
+    },
+    {
+      "type": "vocab",
+      "title": "First 12 words",
+      "titleSi": "පළමු වචන 12",
+      "introSi": "සෑම වචනයක්ම හඬ නඟා කියවන්න. 🔊 බොත්තම ඔබා අහලා, පස්සේ ඔබත් කියන්න. දිනකට තුන් වතාවක් නැවත කරන්න.",
+      "items": [
+        {
+          "en": "book",
+          "si": "පොත",
+          "say": "බුක්",
+          "exampleEn": "This is my book.",
+          "exampleSi": "මේක මගේ පොත."
+        },
+        {
+          "en": "water",
+          "si": "වතුර",
+          "say": "වෝටර්",
+          "exampleEn": "I want water.",
+          "exampleSi": "මට වතුර ඕන."
+        },
+        {
+          "en": "house",
+          "si": "ගෙදර",
+          "say": "හවුස්",
+          "exampleEn": "Our house is small.",
+          "exampleSi": "අපේ ගෙදර පොඩියි."
+        },
+        {
+          "en": "school",
+          "si": "පාසල",
+          "say": "ස්කූල්",
+          "exampleEn": "The school is near.",
+          "exampleSi": "පාසල ළඟයි."
+        },
+        {
+          "en": "rice",
+          "si": "බත්",
+          "say": "රයිස්",
+          "exampleEn": "We eat rice every day.",
+          "exampleSi": "අපි හැමදාම බත් කනවා."
+        },
+        {
+          "en": "tree",
+          "si": "ගස",
+          "say": "ට්‍රී",
+          "exampleEn": "A tall tree.",
+          "exampleSi": "උස ගසක්."
+        },
+        {
+          "en": "sun",
+          "si": "හිරු",
+          "say": "සන්",
+          "exampleEn": "The sun is hot today.",
+          "exampleSi": "අද හිරු රස්නෙයි."
+        },
+        {
+          "en": "rain",
+          "si": "වැස්ස",
+          "say": "රේන්",
+          "exampleEn": "I like the rain.",
+          "exampleSi": "මම වැස්සට කැමතියි."
+        },
+        {
+          "en": "mother",
+          "si": "අම්මා",
+          "say": "මදර්",
+          "exampleEn": "My mother is a teacher.",
+          "exampleSi": "මගේ අම්මා ගුරුවරියක්."
+        },
+        {
+          "en": "father",
+          "si": "තාත්තා",
+          "say": "ෆාදර්",
+          "exampleEn": "My father drives a bus.",
+          "exampleSi": "මගේ තාත්තා බස් එකක් පදිනවා."
+        },
+        {
+          "en": "friend",
+          "si": "යාළුවා",
+          "say": "ෆ්‍රෙන්ඩ්",
+          "exampleEn": "She is my friend.",
+          "exampleSi": "එයා මගේ යාළුවා."
+        },
+        {
+          "en": "village",
+          "si": "ගම",
+          "say": "විලේජ්",
+          "exampleEn": "I live in a village.",
+          "exampleSi": "මම ගමක ජීවත් වෙනවා."
+        }
+      ]
+    },
+    {
+      "type": "tip",
+      "title": "How to practise sounds",
+      "titleSi": "හඬ පුහුණු කරන ක්‍රමය",
+      "bodySi": "ඉංග්‍රීසි 'th' හඬ සිංහලේ නැහැ. 'think' කියද්දී දිව දත් දෙක අතරට ගෙනැත් හුස්ම පිට කරන්න. 'this' කියද්දීත් එහෙමයි, නමුත් ටිකක් හඬ එක්ක. මුලින් අමාරුයි වගේ දැනුනත්, දින කිහිපයකින් ලේසි වෙනවා.",
+      "body": "The 'th' sound does not exist in Sinhala. Put your tongue between your teeth."
+    },
+    {
+      "type": "poem",
+      "title": "The Alphabet Song",
+      "titleSi": "අකුරු ගීතය",
+      "introSi": "මේ කුඩා කවිය ලෝකයේ ළමයි අකුරු ඉගෙන ගන්න භාවිත කරනවා. ▶ බොත්තම ඔබා මුළු කවියම අහන්න, පස්සේ ඔබත් කියන්න.",
+      "lines": [
+        {
+          "en": "A B C D E F G,",
+          "si": "ඒ බී සී ඩී ඊ එෆ් ජී,"
+        },
+        {
+          "en": "H I J K L M N O P,",
+          "si": "එච් අයි ජේ කේ එල් එම් එන් ඕ පී,"
+        },
+        {
+          "en": "Q R S, T U V,",
+          "si": "කිව් ආර් එස්, ටී යූ වී,"
+        },
+        {
+          "en": "W X, Y and Z.",
+          "si": "ඩබ්ලිව් එක්ස්, වයි සහ ඉසෙඩ්."
+        },
+        {
+          "en": "",
+          "si": ""
+        },
+        {
+          "en": "Now I know my A B C,",
+          "si": "දැන් මම මගේ අකුරු දන්නවා,"
+        },
+        {
+          "en": "Next time won't you sing with me?",
+          "si": "ඊළඟ වතාවේ ඔබත් මා සමඟ ගයනවද?"
+        }
+      ],
+      "noteSi": "අවසාන පේළි දෙක rhyme වෙනවා: 'C' සහ 'me' — දෙකම 'ඊ' හඬකින් අවසන් වෙනවා. කවි වල මේ වගේ හඬ ගැළපීම rhyme කියලා කියනවා."
+    },
+    {
+      "type": "practice",
+      "title": "Fill the missing letter",
+      "titleSi": "අකුර සම්පූර්ණ කරන්න",
+      "instructionSi": "වචනයේ නැති අකුර හෝ වචනය ලියන්න. පිළිතුර ඉංග්‍රීසියෙන් ලියන්න.",
+      "items": [
+        {
+          "prompt": "b _ _ k  —  පොත",
+          "answer": "book",
+          "hintSi": "අකුරු හතරයි. 'oo' මැදට එනවා.",
+          "full": "This is a book."
+        },
+        {
+          "prompt": "w _ t _ r  —  වතුර",
+          "answer": "water",
+          "hintSi": "'a' සහ 'e' නැති වෙලා.",
+          "full": "I drink water."
+        },
+        {
+          "prompt": "s _ n  —  හිරු",
+          "answer": "sun",
+          "hintSi": "ස්වරය 'u'.",
+          "full": "The sun is bright."
+        },
+        {
+          "prompt": "tr _ _  —  ගස",
+          "answer": "tree",
+          "hintSi": "'ee' කියන ස්වර දෙක.",
+          "full": "A tree gives us shade."
+        },
+        {
+          "prompt": "fr _ _ nd  —  යාළුවා",
+          "answer": "friend",
+          "hintSi": "'i' සහ 'e' පිළිවෙළින්.",
+          "full": "He is a good friend."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "en": "book",
+      "si": "පොත"
+    },
+    {
+      "en": "water",
+      "si": "වතුර"
+    },
+    {
+      "en": "house",
+      "si": "ගෙදර"
+    },
+    {
+      "en": "school",
+      "si": "පාසල"
+    },
+    {
+      "en": "rice",
+      "si": "බත්"
+    },
+    {
+      "en": "tree",
+      "si": "ගස"
+    },
+    {
+      "en": "sun",
+      "si": "හිරු"
+    },
+    {
+      "en": "rain",
+      "si": "වැස්ස"
+    },
+    {
+      "en": "mother",
+      "si": "අම්මා"
+    },
+    {
+      "en": "father",
+      "si": "තාත්තා"
+    },
+    {
+      "en": "friend",
+      "si": "යාළුවා"
+    },
+    {
+      "en": "village",
+      "si": "ගම"
+    },
+    {
+      "en": "cat",
+      "si": "පූසා"
+    },
+    {
+      "en": "dog",
+      "si": "බල්ලා"
+    },
+    {
+      "en": "bus",
+      "si": "බස් රථය"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "a1-01-q1",
+      "q": "ඉංග්‍රීසි භාෂාවේ අකුරු කීයක් තිබෙනවාද?",
+      "options": [
+        "24",
+        "26",
+        "28",
+        "30"
+      ],
+      "answer": 1,
+      "explainSi": "ඉංග්‍රීසි අකුරු 26ක් තිබෙනවා — A සිට Z දක්වා."
+    },
+    {
+      "id": "a1-01-q2",
+      "q": "පහත ඇත්තේ ස්වර (vowels) පමණක් වන කුමන කණ්ඩායමද?",
+      "options": [
+        "a, e, i, o, u",
+        "b, c, d, f, g",
+        "a, b, c, d, e",
+        "m, n, o, p, q"
+      ],
+      "answer": 0,
+      "explainSi": "ස්වර පහයි: a, e, i, o, u. ඉතිරි සියල්ල ව්‍යාංජන."
+    },
+    {
+      "id": "a1-01-q3",
+      "q": "'පොත' යන්නට ඉංග්‍රීසි වචනය කුමක්ද?",
+      "options": [
+        "look",
+        "book",
+        "cook",
+        "hook"
+      ],
+      "answer": 1,
+      "explainSi": "book = පොත. අනෙක් වචන: look (බලනවා), cook (උයනවා), hook (කොක්කක්).",
+      "speak": "book"
+    },
+    {
+      "id": "a1-01-q4",
+      "q": "'water' යන්නෙහි සිංහල අර්ථය කුමක්ද?",
+      "options": [
+        "වාතය",
+        "වතුර",
+        "වර්ෂාව",
+        "වැලි"
+      ],
+      "answer": 1,
+      "explainSi": "water = වතුර. හඬ නඟා 'වෝටර්' කියලා කියන්න.",
+      "speak": "water"
+    },
+    {
+      "id": "a1-01-q5",
+      "q": "කුමන වචනයේ 'a' අකුර 'cat' හි මෙන් ශබ්ද වේද?",
+      "options": [
+        "name",
+        "hat",
+        "cake",
+        "late"
+      ],
+      "answer": 1,
+      "explainSi": "hat සහ cat දෙකෙහිම 'a' කෙටියෙන් 'ඇ' වගේ ශබ්ද වෙනවා. name, cake, late වල 'a' දිගින් 'ඒ' වගේ ශබ්ද වෙනවා.",
+      "speak": "cat, hat"
+    },
+    {
+      "id": "a1-01-q6",
+      "q": "'අම්මා' යන්නට ඉංග්‍රීසි වචනය කුමක්ද?",
+      "options": [
+        "father",
+        "sister",
+        "mother",
+        "brother"
+      ],
+      "answer": 2,
+      "explainSi": "mother = අම්මා, father = තාත්තා, sister = සහෝදරිය, brother = සහෝදරයා.",
+      "speak": "mother"
+    },
+    {
+      "id": "a1-01-q7",
+      "q": "'The sun is hot.' යන්නෙහි අර්ථය කුමක්ද?",
+      "options": [
+        "හිරු රස්නෙයි.",
+        "වතුර සීතලයි.",
+        "ගස උසයි.",
+        "ගෙදර පොඩියි."
+      ],
+      "answer": 0,
+      "explainSi": "sun = හිරු, hot = රස්නෙ/උණුසුම්. එනිසා 'හිරු රස්නෙයි'.",
+      "speak": "The sun is hot."
+    },
+    {
+      "id": "a1-01-q8",
+      "q": "'y' අකුර සමහර වචනවල කුමක් ලෙස ක්‍රියා කරයිද?",
+      "options": [
+        "ව්‍යාංජනයක් ලෙස පමණයි",
+        "ස්වරයක් ලෙසද ක්‍රියා කරයි",
+        "කිසිසේත් ශබ්ද නොවේ",
+        "සංඛ්‍යාවක් ලෙස"
+      ],
+      "answer": 1,
+      "explainSi": "'happy', 'my', 'city' වැනි වචනවල 'y' ස්වරයක් ලෙස ක්‍රියා කරනවා.",
+      "speak": "happy, my, city"
+    },
+    {
+      "id": "a1-01-q9",
+      "q": "ඉංග්‍රීසි ස්වර (vowels) කීයද?",
+      "options": [
+        "තුනක්",
+        "පහක්",
+        "හතක්",
+        "විසි හයක්"
+      ],
+      "answer": 1,
+      "explainSi": "a, e, i, o, u — පහයි. ඉතුරු අකුරු 21 ව්‍යඤ්ජන."
+    },
+    {
+      "id": "a1-01-q10",
+      "q": "'name' යන වචනයේ 'a' අකුර ශබ්ද වන්නේ කොහොමද?",
+      "options": [
+        "'cat' හි මෙන් 'ඇ'",
+        "'ඒ' ලෙස",
+        "'ආ' ලෙස",
+        "ශබ්ද වන්නේ නෑ"
+      ],
+      "answer": 1,
+      "explainSi": "එකම අකුර වචන දෙකක දෙයාකාරයකට. 'cat' = ක්‍යැට්, 'name' = නේම්.",
+      "speak": "cat, name"
+    },
+    {
+      "id": "a1-01-q11",
+      "q": "එකම අකුර වචනයෙන් වචනයට වෙනස් හඬක් දෙන එක ඉංග්‍රීසියේ ප්‍රශ්නයක් වන්නේ ඇයි?",
+      "options": [
+        "අකුරු ගොඩක් තියෙන නිසා",
+        "අකුර දැක්කම ශබ්දය හරියටම කියන්න බැරි නිසා — වචනය දැනගෙන ඉන්න ඕන",
+        "සිංහලේ අකුරු අඩු නිසා",
+        "ප්‍රශ්නයක් නෑ"
+      ],
+      "answer": 1,
+      "explainSi": "සිංහලේ අකුරයි ශබ්දයයි එකයි. ඉංග්‍රීසියේ එහෙම නෑ — එනිසා අලුත් වචනයක් ඇහෙන එකත් වැදගත්."
+    },
+    {
+      "id": "a1-01-q12",
+      "q": "'ගස' යන්නට ඉංග්‍රීසි වචනය කුමක්ද?",
+      "options": [
+        "three",
+        "tree",
+        "free",
+        "true"
+      ],
+      "answer": 1,
+      "explainSi": "tree = ගස. 'three' කියන්නේ තුන — ශබ්දය ළඟයි, අර්ථය වෙනස්.",
+      "speak": "tree"
+    },
+    {
+      "id": "a1-01-q13",
+      "q": "'ගම' යන්නට ඉංග්‍රීසි වචනය කුමක්ද?",
+      "options": [
+        "village",
+        "garden",
+        "country",
+        "city"
+      ],
+      "answer": 0,
+      "explainSi": "village = ගම. city = නගරය.",
+      "speak": "village"
+    },
+    {
+      "id": "a1-01-q14",
+      "q": "'rain' යන්නෙහි සිංහල අර්ථය කුමක්ද?",
+      "options": [
+        "හිරු",
+        "වැස්ස",
+        "වතුර",
+        "සුළඟ"
+      ],
+      "answer": 1,
+      "explainSi": "rain = වැස්ස. water = වතුර — දෙකම වතුර ගැන, නමුත් වෙනස්.",
+      "speak": "rain"
+    },
+    {
+      "id": "a1-01-q15",
+      "q": "'b _ _ k — පොත' — හිස්තැන් පිරවූ විට වචනය කුමක්ද?",
+      "options": [
+        "bank",
+        "back",
+        "book",
+        "bark"
+      ],
+      "answer": 2,
+      "explainSi": "book = පොත. ස්වර දෙකක් — o සහ o."
+    },
+    {
+      "id": "a1-01-q16",
+      "q": "'sun' යන වචනයේ ස්වරය කුමක්ද?",
+      "options": [
+        "s",
+        "u",
+        "n",
+        "ස්වරයක් නෑ"
+      ],
+      "answer": 1,
+      "explainSi": "a, e, i, o, u පමණයි ස්වර. s සහ n ව්‍යඤ්ජන."
+    },
+    {
+      "id": "a1-01-q17",
+      "q": "කුමන වචනයේ ස්වර දෙකක් තිබේද?",
+      "options": [
+        "dog",
+        "cat",
+        "house",
+        "sun"
+      ],
+      "answer": 2,
+      "explainSi": "house — o, u, e තුනක්ම ස්වර. අනිත් තුනේ එකයි."
+    },
+    {
+      "id": "a1-01-q18",
+      "q": "'th' හඬ ගැන නිවැරදි වන්නේ කුමක්ද?",
+      "options": [
+        "එය සිංහලේ 'ත' හඬමයි",
+        "එය සිංහලේ නෑ — දිව දත් අතරට ගෙනැත් හුස්ම පිට කරනවා",
+        "එය ලියන්නේ නෑ",
+        "එය ස්වරයක්"
+      ],
+      "answer": 1,
+      "explainSi": "'think' සහ 'this' දෙකේම මේ හඬ. සිංහලේ නැති නිසා පුරුදු වෙන්න ඕන."
+    },
+    {
+      "id": "a1-01-q19",
+      "context": "A B C D E F G, / H I J K L M N O P, / Q R S, T U V, / W X, Y and Z.",
+      "contextSi": "A B C D E F G, / H I J K L M N O P, / Q R S, T U V, / W X, Y and Z.",
+      "q": "කවියේ: 'G' අකුරට පස්සේ එන අකුර කුමක්ද?",
+      "options": [
+        "F",
+        "H",
+        "I",
+        "E"
+      ],
+      "answer": 1,
+      "explainSi": "පළමු පේළිය G එකෙන් ඉවර වෙනවා, දෙවැන්න H එකෙන් පටන් ගන්නවා."
+    },
+    {
+      "id": "a1-01-q20",
+      "context": "Now I know my A B C, / Next time won't you sing with me?",
+      "contextSi": "දැන් මම මගේ A B C දන්නවා, / ඊළඟ පාර ඔබත් මාත් එක්ක ගයනවාද?",
+      "q": "කවියේ අන්තිම පේළියෙන් කරන්නේ කුමක්ද?",
+      "options": [
+        "අකුරු ලියනවා",
+        "ආරාධනයක් කරනවා — එකට ගයමු කියලා",
+        "ප්‍රශ්නයකට උත්තර දෙනවා",
+        "අකුරු ගණන් කරනවා"
+      ],
+      "answer": 1,
+      "explainSi": "'won't you sing with me?' යනු ආරාධනයක්."
+    },
+    {
+      "id": "a1-01-q21",
+      "q": "'y' අකුර 'my' සහ 'yes' යන වචන දෙකේ එකම දෙයක්ද?",
+      "options": [
+        "ඔව්, එකයි",
+        "නෑ — 'my' හි එය ස්වරයක් වගේ, 'yes' හි ව්‍යඤ්ජනයක් වගේ",
+        "'my' හි එය ලියන්නේ නෑ",
+        "'yes' හි එය ස්වරයක්"
+      ],
+      "answer": 1,
+      "explainSi": "'y' අකුරට රැකියා දෙකක් තියෙනවා — ඒකයි එය ස්වර ලැයිස්තුවේ නැත්තේ."
+    },
+    {
+      "id": "a1-01-q22",
+      "q": "'The sun is hot' යන වාක්‍යයේ ලොකු අකුරින් ලියා ඇත්තේ ඇයි 'The'?",
+      "options": [
+        "'The' හැම විටම ලොකු අකුරින්",
+        "එය වාක්‍යයේ පළමු වචනය නිසා",
+        "'sun' වැදගත් නිසා",
+        "වැරදීමකින්"
+      ],
+      "answer": 1,
+      "explainSi": "හැම වාක්‍යයක්ම ලොකු අකුරකින් පටන් ගන්නවා, තිතකින් ඉවර වෙනවා."
+    }
+  ]
+}

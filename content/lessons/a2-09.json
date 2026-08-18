@@ -1,0 +1,832 @@
+{
+  "hero": {
+    "src": "images/a2-09-hero.webp",
+    "alt": "Ruwan holding up two shirts on hangers, one in each hand, weighing which to choose, a wardrobe open behind him."
+  },
+  "goalsSi": [
+    "both — දෙකම එකට",
+    "either — දෙකෙන් එකක් (ඕනෑම එකක්)",
+    "neither — දෙකෙන් එකකවත් නෑ",
+    "neither/either තනි ක්‍රියාවක් ගන්නා බව, both බහුවචන ක්‍රියාවක් ගන්නා බව",
+    "either ... or, neither ... nor — යුගල සම්බන්ධක",
+    "both of / either of / neither of — නාම පදයක් සමඟ යෙදෙන ආකාරය"
+  ],
+  "goals": [
+    "Use both for two things together",
+    "Use either for one or the other",
+    "Use neither for not one, not the other",
+    "Get the verb agreement right — neither/either singular, both plural",
+    "Use either…or and neither…nor",
+    "Use of correctly before a noun"
+  ],
+  "sections": [
+    {
+      "type": "note",
+      "title": "Talking about exactly two",
+      "titleSi": "හරියටම දෙකක් ගැන කථා කිරීම",
+      "bodySi": "a2-06 සහ a2-07 ඉගෙන ගත්තා 'කවුරුහරි', 'කිසිවක්' — ගණන නොදන්නා විට. මේ පාඩම ටිකක් වෙනස්: හරියටම දෙකක් තියෙන විට, ඒ දෙක ගැන එකවර කථා කරන්න වචන තුනක් තියෙනවා:\n\nboth — දෙකම (දෙකේම ඇත්ත)\nDo you want tea or coffee? — Both, please. (දෙකම ඕන)\n\neither — දෙකෙන් එකක් (ඕනෑම එකක්, වෙනසක් නෑ)\nTea or coffee? — Either is fine. (දෙකෙන් එකක් — ප්‍රශ්නයක් නෑ)\n\nneither — දෙකෙන් එකකවත් නෑ\nDo you want tea or coffee? — Neither, thanks. (දෙකෙන් එකකවත් නෑ)\n\nතුනම එකට යෙදෙන්නේ දේවල් හෝ මිනිස්සු දෙන්නෙක් තියෙන විට විතරයි — තුන් දෙනෙක් හෝ ඊට වැඩි ගණනකට මේවා යෙදෙන්නේ නෑ.",
+      "body": "both, either and neither talk about exactly two — not three or more."
+    },
+    {
+      "type": "grammar",
+      "title": "both, either, neither",
+      "titleSi": "both, either, neither",
+      "explainSi": "අර්ථය අනුව තුනෙන් එකක් තෝරාගන්න. 'of' යෙදෙන්නේ පස්සේ නාම පදයක් හෝ 'them' වගේ සර්වනාමයක් ආවොත් විතරයි.",
+      "formula": "both (of) + plural noun/pronoun  ·  either/neither (of) + plural noun/pronoun",
+      "table": {
+        "headers": [
+          "වචනය",
+          "අර්ථය",
+          "උදාහරණය"
+        ],
+        "rows": [
+          [
+            "both",
+            "දෙකම",
+            "Both restaurants are good."
+          ],
+          [
+            "both of them",
+            "ඒ දෙන්නම",
+            "Both of them speak English."
+          ],
+          [
+            "either",
+            "දෙකෙන් එකක්",
+            "You can take either bus."
+          ],
+          [
+            "either of them",
+            "ඒ දෙකෙන් එකක්",
+            "Either of them will help you."
+          ],
+          [
+            "neither",
+            "දෙකෙන් එකකවත් නෑ",
+            "Neither answer is correct."
+          ],
+          [
+            "neither of them",
+            "ඒ දෙන්නෙන් කිසිවෙක් නෑ",
+            "Neither of them called."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "Both of my brothers live in Kandy.",
+          "si": "මගේ අයියලා දෙන්නම කන්දේ ජීවත් වෙනවා."
+        },
+        {
+          "en": "You can park on either side of the road.",
+          "si": "පාරේ දෙපැත්තෙන් එකකට ඔබට වාහනය නවත්තන්න පුළුවන්."
+        },
+        {
+          "en": "Neither restaurant was open when we arrived.",
+          "si": "අපි ආපු වෙලාවේ ආපනශාලා දෙකෙන් එකකවත් ඇරලා තිබුණේ නෑ."
+        }
+      ],
+      "watchOutSi": "'of' යෙදෙන්නේ පස්සේ 'them', 'the boys', 'my sisters' වගේ දෙයක් ආවොත් විතරයි: 'both of them' — 'both them' නෙවෙයි."
+    },
+    {
+      "type": "grammar",
+      "title": "both is plural, either and neither are singular",
+      "titleSi": "both බහුවචනයි, either සහ neither තනි වචනයි",
+      "explainSi": "මේක තියුණුම උගුල. 'both' කියන්නේ දෙන්නම එකවර නිසා ක්‍රියාවට බහුවචන ස්වරූපයක්. 'either' සහ 'neither' කියන්නේ 'දෙකෙන් එකක්' කියලා නිසා, ඒ 'එකක්' කියන එකට ක්‍රියාවත් තනි වචනයක් වගේ.",
+      "formula": "both + are/have/verb (plural)  ·  either/neither + is/has/verb-s (singular)",
+      "table": {
+        "headers": [
+          "වචනය",
+          "ක්‍රියාව",
+          "උදාහරණය"
+        ],
+        "rows": [
+          [
+            "both",
+            "බහුවචනය",
+            "Both of them are here."
+          ],
+          [
+            "both",
+            "බහුවචනය",
+            "Both restaurants have good food."
+          ],
+          [
+            "either",
+            "තනි වචනය",
+            "Either of them is fine with me."
+          ],
+          [
+            "neither",
+            "තනි වචනය",
+            "Neither of them knows the answer."
+          ],
+          [
+            "neither",
+            "තනි වචනය",
+            "Neither restaurant was open."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "Both of us were late for the meeting.",
+          "si": "අපි දෙන්නම රැස්වීමට පරක්කු වුණා."
+        },
+        {
+          "en": "Neither of my parents speaks French.",
+          "si": "මගේ දෙමාපියන්ගෙන් කිසිවෙක් ප්‍රංශ භාෂාව කථා කරන්නේ නෑ."
+        },
+        {
+          "en": "Either of these two dresses looks good on you.",
+          "si": "මේ කලිසම් දෙකෙන් ඕනෑම එකක් ඔබට හොඳට ගැළපෙනවා."
+        }
+      ],
+      "watchOutSi": "'Neither of them know' කියලා කථා බසේ ගොඩක් අය කියනවා, නමුත් ලියද්දී 'knows' සම්මතයි. 'Neither' තනි වචනයක් — ඒ නීතිය මතක තියාගන්න."
+    },
+    {
+      "type": "grammar",
+      "title": "either … or, neither … nor",
+      "titleSi": "either ... or, neither ... nor",
+      "explainSi": "විකල්ප දෙකක් එකට කියද්දී මේ යුගල යෙදෙනවා. 'either ... or' ධනාත්මකව (එකක් හෝ අනිත් එක). 'neither ... nor' සම්පූර්ණයෙන් negative (එකකවත් නෑ).",
+      "formula": "either + A + or + B  ·  neither + A + nor + B",
+      "table": {
+        "headers": [
+          "වාක්‍යය",
+          "අර්ථය"
+        ],
+        "rows": [
+          [
+            "You can have either tea or coffee.",
+            "තේ එකක් හෝ කෝපි එකක්"
+          ],
+          [
+            "I don't speak either Tamil or Hindi.",
+            "දෙකෙන් එකකවත් නෑ"
+          ],
+          [
+            "She speaks neither Tamil nor Hindi.",
+            "දෙකෙන් එකකවත් නෑ (වඩා විධිමත්)"
+          ],
+          [
+            "Either you apologise, or I'm leaving.",
+            "එකක් හෝ අනිත් එක සිදු වෙනවා"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "You can pay either by cash or by card.",
+          "si": "මුදලින් හෝ කාඩ් එකෙන් ගෙවන්න පුළුවන්."
+        },
+        {
+          "en": "Neither the bus nor the train was running that day.",
+          "si": "ඒ දවසේ බස් එකවත් කෝච්චියවත් ධාවනය වුණේ නෑ."
+        }
+      ],
+      "watchOutSi": "'neither ... nor' සමඟ 'not' අමතරව යොදන්න එපා — 'neither' එකේම negative තියෙනවා. 'She doesn't speak neither...' වැරදියි."
+    },
+    {
+      "type": "vocab",
+      "title": "Two of everything",
+      "titleSi": "හැම දේකම දෙකක්",
+      "items": [
+        {
+          "en": "both",
+          "si": "දෙකම",
+          "say": "බෝත්"
+        },
+        {
+          "en": "either",
+          "si": "දෙකෙන් එකක්",
+          "say": "අයිදර්"
+        },
+        {
+          "en": "neither",
+          "si": "දෙකෙන් එකකවත් නෑ",
+          "say": "නයිදර්"
+        },
+        {
+          "en": "identical",
+          "si": "සමාන",
+          "say": "අයිඩෙන්ටිකල්"
+        },
+        {
+          "en": "option",
+          "si": "විකල්පය",
+          "say": "ඔප්ෂන්"
+        },
+        {
+          "en": "prefer",
+          "si": "වඩා කැමතියි",
+          "say": "ප්‍රිෆර්"
+        },
+        {
+          "en": "matter",
+          "si": "වැදගත් වෙනවා",
+          "say": "මැටර්"
+        },
+        {
+          "en": "agree",
+          "si": "එකඟ වෙනවා",
+          "say": "අග්‍රී"
+        },
+        {
+          "en": "twin",
+          "si": "නිවුන්නා",
+          "say": "ට්වින්"
+        },
+        {
+          "en": "sides (of a road)",
+          "si": "පැති",
+          "say": "සයිඩ්ස්"
+        },
+        {
+          "en": "sample",
+          "si": "නියැදිය",
+          "say": "සැම්පල්"
+        },
+        {
+          "en": "recipe",
+          "si": "වට්ටෝරුව",
+          "say": "රෙසිපි"
+        },
+        {
+          "en": "compare",
+          "si": "සංසන්දනය කරනවා",
+          "say": "කම්පෙයා"
+        },
+        {
+          "en": "swap",
+          "si": "මාරු කරගන්නවා",
+          "say": "ස්වොප්"
+        }
+      ]
+    },
+    {
+      "type": "story",
+      "title": "Two Cups of Tea",
+      "titleSi": "තේ කෝප්ප දෙකක්",
+      "introSi": "අක්කාවරුන් දෙදෙනෙක් තේ ගැන එකඟ නොවන කතාවක්. both, either, neither එනවා — ගණන් කරන්න.",
+      "paragraphs": [
+        {
+          "en": "My aunts, Somalatha and Podihamy, have argued about tea for thirty years. Both of them make it every single day, and neither of them has ever changed her method.",
+          "si": "මගේ නැන්දලා, සෝමලතා සහ පොඩිහාමි, තේ ගැන අවුරුදු තිහක් තර්ක කරනවා. දෙන්නම හැම දාම තේ හදනවා, දෙන්නෙන් කිසිවෙක්ම කවදාවත් තමන්ගේ ක්‍රමය වෙනස් කළේ නෑ."
+        },
+        {
+          "en": "Somalatha boils the milk first. Podihamy boils the water first. Each is certain that either method works, but only her own method works well.",
+          "si": "සෝමලතා මුලින්ම කිරි උතුවනවා. පොඩිහාමි මුලින්ම වතුර උතුවනවා. දෙන්නම විශ්වාසයි දෙකෙන් ඕනෑම ක්‍රමයක් හරි කියලා, හැබැයි තමන්ගේම ක්‍රමය තමයි හොඳට වැඩ කරන්නේ කියලා."
+        },
+        {
+          "en": "Last month I brought them both a cup, from the same pot, and asked which was better. \"Neither is right,\" Somalatha said. \"This isn't my tea or Podihamy's tea. It's shop tea.\"",
+          "si": "පහුගිය මාසේ මම එකම බඳුනෙන් දෙන්නටම කෝප්පයක් ගෙනාවා, කුමන එකද වඩා හොඳ කියලා ඇහුවා. \"දෙකම හරි නෑ,\" සෝමලතා කිව්වා. \"මේක මගේ තේත් නෙවෙයි, පොඩිහාමිගේ තේත් නෙවෙයි. මේක කඩේ තේ.\""
+        },
+        {
+          "en": "Podihamy agreed for once. \"Neither cup tastes like home,\" she said, which is, I think, the first thing they have agreed on since 1994.",
+          "si": "පොඩිහාමි එකපාරක් එකඟ වුණා. \"කෝප්ප දෙකෙන් එකකවත් ගෙදර රසය දැනෙන්නේ නෑ,\" එයා කිව්වා, ඒක, මම හිතන්නේ, 1994 ඉඳන් ඔවුන් එකඟ වුණ පළමු දේ."
+        },
+        {
+          "en": "Now, when I visit, I bring one cup from each of them, and I have learnt never, ever, to say which I prefer. Either answer starts the argument again.",
+          "si": "දැන්, මම බලන්න ගියාම, දෙන්නාගෙන්ම එකින් එකක් ගේනවා, කවුරුන්ගේ එකට වඩා කැමතිද කියලා කවදාවත් නොකියන්නම ඉගෙන ගත්තා. ඕනෑම පිළිතුරකින් නැවත තර්කය පටන් ගන්නවා."
+        }
+      ],
+      "glossary": [
+        {
+          "en": "argue",
+          "si": "තර්ක කරනවා"
+        },
+        {
+          "en": "method",
+          "si": "ක්‍රමය"
+        },
+        {
+          "en": "certain",
+          "si": "විශ්වාසයි"
+        },
+        {
+          "en": "for once",
+          "si": "එකපාරක් (හුරු නැති දෙයක්)"
+        },
+        {
+          "en": "taste like",
+          "si": "රසය දැනෙනවා"
+        },
+        {
+          "en": "prefer",
+          "si": "වඩා කැමතියි"
+        }
+      ],
+      "questionsSi": [
+        "සෝමලතා සහ පොඩිහාමි තේ හදන්නේ කොහොමද, දෙන්නම කුමන ක්‍රමයද යොදන්නේ?",
+        "දෙන්නම කේක් එකේ ක්‍රමය හරි කියලා විශ්වාස කරන්නේ ඇයි එකඟ නොවන්නේ?",
+        "'කඩේ තේ' කියලා සෝමලතා කියද්දී එයාගේ අදහස කුමක්ද?",
+        "අන්තිම ඡේදයේ කථකයා ඉගෙන ගත්තේ මොකක්ද?"
+      ]
+    },
+    {
+      "type": "poem",
+      "title": "Either Way",
+      "titleSi": "දෙකෙන් එකකින්",
+      "introSi": "both, either, neither එකට එන කවියක්.",
+      "lines": [
+        {
+          "en": "Take the left road or the right,",
+          "si": "වම් පාරෙන් හෝ දකුණු පාරෙන් යන්න,"
+        },
+        {
+          "en": "Either will get you home.",
+          "si": "දෙකෙන් ඕනෑම එකකින් ගෙදර යනවා."
+        },
+        {
+          "en": "Both are longer than they look,",
+          "si": "දෙකම පේනවාට වඩා දිගයි,"
+        },
+        {
+          "en": "And neither road walks alone.",
+          "si": "දෙකෙන් එකකවත් තනියම ඇවිදින්නේ නෑ."
+        },
+        {
+          "en": "",
+          "si": ""
+        },
+        {
+          "en": "I've walked them both, in different years,",
+          "si": "දෙකම මම ඇවිද්ද, වෙනස් අවුරුදුවල,"
+        },
+        {
+          "en": "With different friends each time.",
+          "si": "හැම පාරකම වෙනස් යාළුවෝ එක්ක."
+        },
+        {
+          "en": "Neither one was the wrong way home —",
+          "si": "දෙකෙන් එකකවත් ගෙදරට වැරදි පාරක් වුණේ නෑ —"
+        },
+        {
+          "en": "Both roads got me home in time.",
+          "si": "දෙකම මාව වෙලාවට ගෙදර ගෙනාවා."
+        }
+      ],
+      "noteSi": "'Either will get you home' (තනි වචනය — will) සහ 'Both are longer' (බහුවචනය — are) — වචන දෙකේම ක්‍රියා ස්වරූපය පේළිවලින්ම බලාගන්න."
+    },
+    {
+      "type": "dialogue",
+      "title": "Choosing a restaurant",
+      "titleSi": "ආපනශාලාවක් තෝරාගැනීම",
+      "settingSi": "දෙදෙනෙක් අතර තෝරාගැනීමක්. both/either/neither යෙදෙන තැන් බලාගෙන කියවන්න.",
+      "lines": [
+        {
+          "speaker": "Ishara",
+          "en": "There are two good places near here — a Thai place and an Italian one. Do you have a preference?",
+          "si": "මෙතන ළඟ හොඳ තැන් දෙකක් තියෙනවා — තායි එකක් සහ ඉතාලි එකක්. ඔබට කැමැත්තක් තියෙනවාද?"
+        },
+        {
+          "speaker": "Buddhika",
+          "en": "Not really. Either is fine with me.",
+          "si": "එහෙම නෑ. දෙකෙන් ඕනෑම එකක් මට හරි."
+        },
+        {
+          "speaker": "Ishara",
+          "en": "I've heard both are quite good, but both are also quite expensive.",
+          "si": "දෙකම හොඳයි කියලා මට ඇහෙනවා, හැබැයි දෙකම මිල අධිකයි."
+        },
+        {
+          "speaker": "Buddhika",
+          "en": "Neither of us has much money this week, actually.",
+          "si": "ඇත්තටම, මේ සතියේ අපි දෙන්නාගෙන්ම කාටවත් සල්ලි ගොඩක් නෑ."
+        },
+        {
+          "speaker": "Ishara",
+          "en": "True. In that case, neither restaurant is a good idea tonight.",
+          "si": "ඇත්ත. එහෙනම්, අද රෑට දෙකෙන් එකකවත් හොඳ අදහසක් නෑ."
+        },
+        {
+          "speaker": "Buddhika",
+          "en": "Let's just cook at home. We both know how to make fried rice.",
+          "si": "ගෙදර උයමු. ෆ්‍රයිඩ් රයිස් හදන්න අපි දෙන්නම දන්නවා."
+        },
+        {
+          "speaker": "Ishara",
+          "en": "Agreed. Either of us can cook — you did it last time, so it's my turn.",
+          "si": "එකඟයි. අපි දෙන්නාගෙන් ඕනෑම කෙනෙකුට උයන්න පුළුවන් — ගිය පාර ඔබ කළා, එනිසා දැන් මගේ වාරය."
+        }
+      ]
+    },
+    {
+      "type": "practice",
+      "title": "both, either or neither?",
+      "titleSi": "both, either නැත්නම් neither?",
+      "instructionSi": "ක්‍රියාවේ ස්වරූපයත් බලාගෙන තෝරන්න.",
+      "items": [
+        {
+          "prompt": "___ of them are coming to the party.",
+          "answer": "Both",
+          "hintSi": "බහුවචන ක්‍රියාව 'are' — Both.",
+          "full": "Both of them are coming to the party."
+        },
+        {
+          "prompt": "___ of them is coming — I'm not sure which.",
+          "answer": "Either",
+          "hintSi": "තනි වචන ක්‍රියාව 'is' — දෙකෙන් එකක්.",
+          "full": "Either of them is coming — I'm not sure which."
+        },
+        {
+          "prompt": "___ of them knows the answer.",
+          "answer": "Neither",
+          "hintSi": "තනි වචන ක්‍රියාව 'knows' — දෙකෙන් එකකවත් නෑ.",
+          "full": "Neither of them knows the answer."
+        },
+        {
+          "prompt": "You can sit on ___ side of the table.",
+          "answer": "either",
+          "hintSi": "දෙකෙන් එකක් — ප්‍රශ්නයක් නෑ.",
+          "full": "You can sit on either side of the table."
+        },
+        {
+          "prompt": "___ restaurants were open — we had to go home.",
+          "answer": "Neither",
+          "hintSi": "දෙකෙන් එකකවත් නෑ.",
+          "full": "Neither restaurants were open — we had to go home."
+        },
+        {
+          "prompt": "We ___ enjoyed the film. (දෙන්නම)",
+          "answer": "both",
+          "hintSi": "දෙන්නම — 'we both'.",
+          "full": "We both enjoyed the film."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "en": "both",
+      "si": "දෙකම"
+    },
+    {
+      "en": "either",
+      "si": "දෙකෙන් එකක්"
+    },
+    {
+      "en": "neither",
+      "si": "දෙකෙන් එකකවත් නෑ"
+    },
+    {
+      "en": "identical",
+      "si": "සමාන"
+    },
+    {
+      "en": "option",
+      "si": "විකල්පය"
+    },
+    {
+      "en": "prefer",
+      "si": "වඩා කැමතියි"
+    },
+    {
+      "en": "matter",
+      "si": "වැදගත් වෙනවා"
+    },
+    {
+      "en": "agree",
+      "si": "එකඟ වෙනවා"
+    },
+    {
+      "en": "twin",
+      "si": "නිවුන්නා"
+    },
+    {
+      "en": "sample",
+      "si": "නියැදිය"
+    },
+    {
+      "en": "recipe",
+      "si": "වට්ටෝරුව"
+    },
+    {
+      "en": "compare",
+      "si": "සංසන්දනය කරනවා"
+    },
+    {
+      "en": "swap",
+      "si": "මාරු කරගන්නවා"
+    },
+    {
+      "en": "argue",
+      "si": "තර්ක කරනවා"
+    },
+    {
+      "en": "method",
+      "si": "ක්‍රමය"
+    },
+    {
+      "en": "certain",
+      "si": "විශ්වාසයි"
+    },
+    {
+      "en": "taste like",
+      "si": "රසය දැනෙනවා"
+    },
+    {
+      "en": "for once",
+      "si": "එකපාරක්"
+    },
+    {
+      "en": "boil",
+      "si": "උතුවනවා"
+    },
+    {
+      "en": "pot",
+      "si": "බඳුන"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "a2-09-q1",
+      "q": "'මගේ අයියලා දෙන්නම කන්දේ ජීවත් වෙනවා' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "Either of my brothers live in Kandy.",
+        "Both of my brothers live in Kandy.",
+        "Neither of my brothers live in Kandy.",
+        "Both my brother lives in Kandy."
+      ],
+      "answer": 1,
+      "explainSi": "'both' — දෙන්නම. බහුවචන ක්‍රියාව 'live'.",
+      "speak": "Both of my brothers live in Kandy."
+    },
+    {
+      "id": "a2-09-q2",
+      "q": "'Neither of them ___ the answer.' — නිවැරදි ක්‍රියාව?",
+      "options": [
+        "know",
+        "knows",
+        "knowing",
+        "are knowing"
+      ],
+      "answer": 1,
+      "explainSi": "'neither' තනි වචනයක් ලෙස සලකනවා — 'knows'.",
+      "speak": "Neither of them knows the answer."
+    },
+    {
+      "id": "a2-09-q3",
+      "q": "'Both of them are here' සහ 'Neither of them is here' — ක්‍රියාවේ ස්වරූපය වෙනස් වන්නේ ඇයි?",
+      "options": [
+        "වැරදීමකින්",
+        "'both' බහුවචනයක් ලෙසත්, 'neither' තනි වචනයක් ලෙසත් සලකන නිසා",
+        "'here' නිසා",
+        "වෙනසක් නෑ, දෙකම 'are'"
+      ],
+      "answer": 1,
+      "explainSi": "'both' = දෙන්නම එකවර (බහුවචනය). 'neither' = 'එකකවත් නෑ' (තනි වචනය)."
+    },
+    {
+      "id": "a2-09-q4",
+      "q": "'Either of them ___ fine with me.' — නිවැරදි ක්‍රියාව?",
+      "options": [
+        "are",
+        "is",
+        "were",
+        "be"
+      ],
+      "answer": 1,
+      "explainSi": "'either' තනි වචනයක් — 'is'.",
+      "speak": "Either of them is fine with me."
+    },
+    {
+      "id": "a2-09-q5",
+      "q": "'තේ එකක් හෝ කෝපි එකක් ගන්න පුළුවන්' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "You can have neither tea or coffee.",
+        "You can have either tea or coffee.",
+        "You can have both tea or coffee.",
+        "You can have either tea nor coffee."
+      ],
+      "answer": 1,
+      "explainSi": "'either ... or' — විකල්ප දෙකකින් එකක්.",
+      "speak": "You can have either tea or coffee."
+    },
+    {
+      "id": "a2-09-q6",
+      "q": "'ඒ දවසේ බස් එකවත් කෝච්චියවත් ධාවනය වුණේ නෑ' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "Neither the bus or the train was running.",
+        "Neither the bus nor the train was running.",
+        "Either the bus nor the train was running.",
+        "Both the bus nor the train was running."
+      ],
+      "answer": 1,
+      "explainSi": "'neither ... nor' — 'either' සමඟ 'or' යෙදෙනවා වගේ, 'neither' සමඟ 'nor'.",
+      "speak": "Neither the bus nor the train was running."
+    },
+    {
+      "id": "a2-09-q7",
+      "q": "'She doesn't speak neither Tamil nor Hindi' වැරදි වන්නේ ඇයි?",
+      "options": [
+        "'Tamil' සහ 'Hindi' පිළිවෙළ වැරදි නිසා",
+        "'neither' එකේම negative අර්ථය තියෙනවා — 'doesn't' එක්කත් යෙදුවම දෙපාරක් නැහැ කියනවා",
+        "'speak' වැරදි ස්වරූපය",
+        "වැරදි නෑ"
+      ],
+      "answer": 1,
+      "explainSi": "'She speaks neither Tamil nor Hindi' ඇති — a2-06/a2-07 හි double negative නීතියම මෙතනටත්."
+    },
+    {
+      "id": "a2-09-q8",
+      "q": "'both', 'either', 'neither' යෙදෙන්නේ කවදාද?",
+      "options": [
+        "තුනකට හෝ වැඩි ගණනකට",
+        "හරියටම දෙකකට",
+        "එකකට",
+        "ඕනෑම ගණනකට"
+      ],
+      "answer": 1,
+      "explainSi": "මේ වචන තුනම හරියටම දෙකක් ගැන — වැඩි ගණනකට යෙදෙන්නේ නෑ."
+    },
+    {
+      "id": "a2-09-q9",
+      "q": "'both them' සහ 'both of them' — කුමක් නිවැරදිද?",
+      "options": [
+        "both them",
+        "both of them",
+        "දෙකම",
+        "දෙකම වැරදියි"
+      ],
+      "answer": 1,
+      "explainSi": "'them' වගේ සර්වනාමයක් ආවොත් 'of' අවශ්‍යයි: 'both of them'."
+    },
+    {
+      "id": "a2-09-q10",
+      "q": "'You can park on either side of the road' කියන්නෙන් අදහස් වන්නේ කුමක්ද?",
+      "options": [
+        "පාරේ දෙපැත්තෙන්ම නවත්වන්න බෑ",
+        "පාරේ දෙපැත්තෙන් එකකට නවත්තන්න පුළුවන් — වෙනසක් නෑ",
+        "පාරේ දකුණු පැත්තට විතරයි",
+        "පාරේ දෙපැත්තෙන්ම නවත්වන්න ඕන"
+      ],
+      "answer": 1,
+      "explainSi": "'either' — දෙකෙන් එකක්, ප්‍රශ්නයක් නෑ."
+    },
+    {
+      "id": "a2-09-q11",
+      "context": "My aunts, Somalatha and Podihamy, have argued about tea for thirty years. Both of them make it every single day, and neither of them has ever changed her method.",
+      "contextSi": "මගේ නැන්දලා, සෝමලතා සහ පොඩිහාමි, තේ ගැන අවුරුදු තිහක් තර්ක කරනවා. දෙන්නම හැම දාම තේ හදනවා, දෙන්නෙන් කිසිවෙක්ම කවදාවත් තමන්ගේ ක්‍රමය වෙනස් කළේ නෑ.",
+      "q": "කතාව අනුව: නැන්දලා දෙන්නා තේ හදන්නේ කීයටද, කී දෙනෙක් තමන්ගේ ක්‍රමය වෙනස් කරලා තියෙනවාද?",
+      "options": [
+        "හැම දාම, දෙන්නම වෙනස් කරලා",
+        "හැම දාම, දෙන්නෙන් කිසිවෙක්ම නෑ",
+        "සතියකට වරක්, එක්කෙනෙක් වෙනස් කරලා",
+        "දන්නේ නෑ"
+      ],
+      "answer": 1,
+      "explainSi": "'Both of them make it every single day, and neither of them has ever changed her method.'"
+    },
+    {
+      "id": "a2-09-q12",
+      "context": "Somalatha boils the milk first. Podihamy boils the water first. Each is certain that either method works, but only her own method works well.",
+      "contextSi": "සෝමලතා මුලින්ම කිරි උතුවනවා. පොඩිහාමි මුලින්ම වතුර උතුවනවා. දෙන්නම විශ්වාසයි දෙකෙන් ඕනෑම ක්‍රමයක් හරි කියලා, හැබැයි තමන්ගේම ක්‍රමය තමයි හොඳට වැඩ කරන්නේ කියලා.",
+      "q": "කතාව අනුව: 'either method works, but only her own method works well' කියන එකෙන් අදහස් වන්නේ කුමක්ද?",
+      "options": [
+        "දෙන්නම එකඟයි",
+        "දෙකම හරි කියලා පිළිගනිතත්, තමන්ගේ ක්‍රමය තමයි වඩා හොඳ කියලා දෙන්නම හිතනවා",
+        "එකකවත් වැඩ කරන්නේ නෑ",
+        "දෙන්නම එකම ක්‍රමය පාවිච්චි කරනවා"
+      ],
+      "answer": 1,
+      "explainSi": "'either method works' (පිළිගැනීම) 'but only her own … works well' (තමන්ගේ පැත්ත) — ප්‍රතිවිරෝධය."
+    },
+    {
+      "id": "a2-09-q13",
+      "context": "Last month I brought them both a cup, from the same pot, and asked which was better. \"Neither is right,\" Somalatha said. \"This isn't my tea or Podihamy's tea. It's shop tea.\"",
+      "contextSi": "පහුගිය මාසේ මම එකම බඳුනෙන් දෙන්නටම කෝප්පයක් ගෙනාවා, කුමන එකද වඩා හොඳ කියලා ඇහුවා. \"දෙකම හරි නෑ,\" සෝමලතා කිව්වා. \"මේක මගේ තේත් නෙවෙයි, පොඩිහාමිගේ තේත් නෙවෙයි. මේක කඩේ තේ.\"",
+      "q": "කතාව අනුව: සෝමලතා 'Neither is right' කියන්නේ ඇයි?",
+      "options": [
+        "එයාට තේ රසවත් නොවූ නිසා",
+        "දෙකම එකම කඩේ තේ නිසා — ඇත්තටම දෙන්නාගේම නොවේ",
+        "එයාට කථා කරන්න බැරි නිසා",
+        "පොඩිහාමිට තරහ නිසා"
+      ],
+      "answer": 1,
+      "explainSi": "කථකයා දෙන්නටම එකම බඳුනෙන් ගෙනාවා — 'This isn't my tea or Podihamy's tea. It's shop tea.'"
+    },
+    {
+      "id": "a2-09-q14",
+      "context": "Podihamy agreed for once. \"Neither cup tastes like home,\" she said, which is, I think, the first thing they have agreed on since 1994.",
+      "contextSi": "පොඩිහාමි එකපාරක් එකඟ වුණා. \"කෝප්ප දෙකෙන් එකකවත් ගෙදර රසය දැනෙන්නේ නෑ,\" එයා කිව්වා, ඒක, මම හිතන්නේ, 1994 ඉඳන් ඔවුන් එකඟ වුණ පළමු දේ.",
+      "q": "කතාව අනුව: 'for once' කියන එකෙන් අදහස් වන්නේ කුමක්ද?",
+      "options": [
+        "පොඩිහාමි හැම විටම එකඟ වෙනවා",
+        "සාමාන්‍යයෙන් එකඟ නොවන දෙන්නෙක් අතරින්, මේක අමුතු අවස්ථාවක්",
+        "එයාට එකඟ වෙන්න ලැජ්ජා",
+        "එයා තර්ක කරනවා"
+      ],
+      "answer": 1,
+      "explainSi": "'since 1994' — දිගු කාලයක් තිස්සේ එකඟ නොවුණ අය, එනිසා මේ එකඟතාව විශේෂයි."
+    },
+    {
+      "id": "a2-09-q15",
+      "context": "Now, when I visit, I bring one cup from each of them, and I have learnt never, ever, to say which I prefer. Either answer starts the argument again.",
+      "contextSi": "දැන්, මම බලන්න ගියාම, දෙන්නාගෙන්ම එකින් එකක් ගේනවා, කවුරුන්ගේ එකට වඩා කැමතිද කියලා කවදාවත් නොකියන්නම ඉගෙන ගත්තා. ඕනෑම පිළිතුරකින් නැවත තර්කය පටන් ගන්නවා.",
+      "q": "කතාව අනුව: කථකයා අන්තිමට ඉගෙන ගත්තේ මොකක්ද?",
+      "options": [
+        "තේ හදන්නේ කොහොමද කියලා",
+        "කවර එකට වඩා කැමතිද කියලා කවදාවත් නොකියන්නම",
+        "නැන්දලා දෙන්නා පොදු තැනකදී හමු කරවන්නම",
+        "තේ බොන එක නවත්වන්නම"
+      ],
+      "answer": 1,
+      "explainSi": "'I have learnt never, ever, to say which I prefer.'"
+    },
+    {
+      "id": "a2-09-q16",
+      "context": "Take the left road or the right, / Either will get you home. / Both are longer than they look, / And neither road walks alone.",
+      "contextSi": "වම් පාරෙන් හෝ දකුණු පාරෙන් යන්න, / දෙකෙන් ඕනෑම එකකින් ගෙදර යනවා. / දෙකම පේනවාට වඩා දිගයි, / දෙකෙන් එකකවත් තනියම ඇවිදින්නේ නෑ.",
+      "q": "කවියේ 'Either will get you home' සහ 'Both are longer' — ක්‍රියා ස්වරූප දෙක වෙනස් වන්නේ ඇයි?",
+      "options": [
+        "වැරදීමකින්",
+        "'either' තනි වචනයක් ('will'), 'both' බහුවචනයක් ('are')",
+        "'either' අතීතය",
+        "වෙනසක් නෑ"
+      ],
+      "answer": 1,
+      "explainSi": "පේළි දෙකේම මේ පාඩමේ නීතිය ප්‍රායෝගිකව පෙන්නනවා."
+    },
+    {
+      "id": "a2-09-q17",
+      "context": "I've walked them both, in different years, / With different friends each time. / Neither one was the wrong way home — / Both roads got me home in time.",
+      "contextSi": "දෙකම මම ඇවිද්ද, වෙනස් අවුරුදුවල, / හැම පාරකම වෙනස් යාළුවෝ එක්ක. / දෙකෙන් එකකවත් ගෙදරට වැරදි පාරක් වුණේ නෑ — / දෙකම මාව වෙලාවට ගෙදර ගෙනාවා.",
+      "q": "කවියේ අන්තිම කොටසේ අදහස කුමක්ද?",
+      "options": [
+        "එක් පාරක් තමයි හරි",
+        "පාර දෙකම වෙනස් වුණත්, දෙකම හරි තැනට ගෙනාවා",
+        "එයාට පාර මතක නෑ",
+        "යාළුවෝ වැරදි පාර පෙන්නුවා"
+      ],
+      "answer": 1,
+      "explainSi": "'Neither one was the wrong way … Both roads got me home' — දෙකම වලංගුයි."
+    },
+    {
+      "id": "a2-09-q18",
+      "context": "Ishara: I've heard both are quite good, but both are also quite expensive.\nBuddhika: Neither of us has much money this week, actually.",
+      "contextSi": "ඉෂාරා: දෙකම හොඳයි කියලා මට ඇහෙනවා, හැබැයි දෙකම මිල අධිකයි.\nබුද්ධික: ඇත්තටම, මේ සතියේ අපි දෙන්නාගෙන්ම කාටවත් සල්ලි ගොඩක් නෑ.",
+      "q": "සංවාදයේ: ඔවුන් ආපනශාලා දෙකම මගහරින්නේ ඇයි?",
+      "options": [
+        "කෑම හොඳ නැති නිසා",
+        "දෙකම මිල අධික නිසා, සහ දෙන්නාටම සල්ලි අඩු නිසා",
+        "ආපනශාලා ඇරලා නැති නිසා",
+        "දුරයි නිසා"
+      ],
+      "answer": 1,
+      "explainSi": "'both are also quite expensive' + 'Neither of us has much money' — හේතු දෙක එකට."
+    },
+    {
+      "id": "a2-09-q19",
+      "context": "Buddhika: Let's just cook at home. We both know how to make fried rice.\nIshara: Agreed. Either of us can cook — you did it last time, so it's my turn.",
+      "contextSi": "බුද්ධික: ගෙදර උයමු. ෆ්‍රයිඩ් රයිස් හදන්න අපි දෙන්නම දන්නවා.\nඉෂාරා: එකඟයි. අපි දෙන්නාගෙන් ඕනෑම කෙනෙකුට උයන්න පුළුවන් — ගිය පාර ඔබ කළා, එනිසා දැන් මගේ වාරය.",
+      "q": "සංවාදයේ: අද රෑට උයන්නේ කවුද, සහ ඇයි?",
+      "options": [
+        "බුද්ධික, මොකද එයා දන්නවා",
+        "ඉෂාරා, මොකද ගිය පාර බුද්ධික කළා — දැන් වාරය",
+        "දෙන්නම එකට",
+        "කවුරුවත් නෑ"
+      ],
+      "answer": 1,
+      "explainSi": "'you did it last time, so it's my turn' — ඉෂාරා කථා කරන්නේ."
+    },
+    {
+      "id": "a2-09-q20",
+      "q": "කුමන වාක්‍යය වැරදිද?",
+      "options": [
+        "Both of them are here.",
+        "Neither of them knows the answer.",
+        "Either of them are fine with me.",
+        "Neither restaurant was open."
+      ],
+      "answer": 2,
+      "explainSi": "'Either of them is fine with me' විය යුතුයි — 'either' තනි වචනයක්."
+    },
+    {
+      "id": "a2-09-q21",
+      "q": "'මුදලින් හෝ කාඩ් එකෙන් ගෙවන්න පුළුවන්' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "You can pay neither by cash or by card.",
+        "You can pay either by cash or by card.",
+        "You can pay both by cash or by card.",
+        "You can pay either by cash nor by card."
+      ],
+      "answer": 1,
+      "explainSi": "'either ... or' — විකල්ප දෙකකින් එකක්.",
+      "speak": "You can pay either by cash or by card."
+    },
+    {
+      "id": "a2-09-q22",
+      "q": "'ඔවුන්ගෙන් කිසිවෙක් රැස්වීමට ආවේ නෑ' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "Both of them didn't come to the meeting.",
+        "Neither of them came to the meeting.",
+        "Either of them came to the meeting.",
+        "Neither of them didn't come to the meeting."
+      ],
+      "answer": 1,
+      "explainSi": "'neither' එකේම negative — ධනාත්මක ක්‍රියාවක් සමඟ: 'Neither of them came'.",
+      "speak": "Neither of them came to the meeting."
+    }
+  ]
+}

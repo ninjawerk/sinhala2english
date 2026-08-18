@@ -1,0 +1,856 @@
+{
+  "hero": {
+    "src": "images/a2-12-hero.webp",
+    "alt": "Nadeesha measuring a small handful of rice into a pot, counting out a few coins on the counter beside her, careful expression, small kitchen."
+  },
+  "goalsSi": [
+    "a few + ගණන් කළ හැකි — කුඩා නමුත් සැබෑ ගණනක්",
+    "a little + ගණන් කළ නොහැකි — කුඩා නමුත් සැබෑ ප්‍රමාණයක්",
+    "a1-07 හි ගණන් කළ හැකි/නොහැකි නීතියම නැවත යෙදීම",
+    "few/little (a නැතුව) — 'ගාණට නෑ' කියන ප්‍රතිවිරුද්ධ අර්ථය",
+    "a bit of — a little හි කථා බස් ස්වරූපය"
+  ],
+  "goals": [
+    "Use a few with countable nouns",
+    "Use a little with uncountable nouns",
+    "Reuse the countable/uncountable test from a1-07",
+    "Know that few/little without a means almost none",
+    "Use a bit of in speech"
+  ],
+  "sections": [
+    {
+      "type": "note",
+      "title": "One small word changes the feeling completely",
+      "titleSi": "පොඩි වචනයක් මුළු හැඟීමම වෙනස් කරනවා",
+      "bodySi": "a1-07 හි ඉගෙන ගත්තා: ගණන් කළ හැකි දේවලට (apple, egg) සහ ගණන් කළ නොහැකි දේවලට (rice, water) වෙනස් වචන යෙදෙනවා.\n\nදැන් ඒකටම තව මට්ටමක් එකතු වෙනවා — ප්‍රමාණය කුඩායි කියලා කියන්න:\n\na few + ගණන් කළ හැකි (a few friends, a few days)\na little + ගණන් කළ නොහැකි (a little sugar, a little time)\n\nහැබැයි මෙතන තියුණුම උගුල තියෙන්නේ 'a' එක අයින් කළොත්. 'a' එක තියෙනවා නම් 'ටිකක් තියෙනවා' කියන ධනාත්මක හැඟීමක්. 'a' එක නැත්නම් 'ගාණට නෑ, ප්‍රශ්නයක්' කියන අර්ථයට හැරෙනවා:\n\nI have a few friends. — මට යාළුවෝ ටිකක් ඉන්නවා (ධනාත්මක, සතුටුයි).\nI have few friends. — මට ගාණට යාළුවෝ නෑ (කනස්සල්ලක්, තනිකමක්).\n\nවචන එකයි, 'a' එක විතරයි වෙනස — නමුත් අර්ථයේ මුළු දිශාවම හැරෙනවා.",
+      "body": "a few / a little = a small but real amount. few / little (no a) = almost none — a complaint."
+    },
+    {
+      "type": "grammar",
+      "title": "a few + countable",
+      "titleSi": "a few + ගණන් කළ හැකි",
+      "explainSi": "ගණන් කළ හැකි නාම පදවලට (a1-07 හි ඉගෙන ගත්ත ටික) 'a few' යෙදෙනවා — 'ටිකක්' කියන ධනාත්මක අර්ථයෙන්.",
+      "formula": "a few + countable plural noun",
+      "table": {
+        "headers": [
+          "ගණන් කළ හැකි",
+          "a few සමඟ",
+          "සිංහල"
+        ],
+        "rows": [
+          [
+            "friends",
+            "a few friends",
+            "යාළුවෝ ටිකක්"
+          ],
+          [
+            "days",
+            "a few days",
+            "දවස් කිහිපයක්"
+          ],
+          [
+            "eggs",
+            "a few eggs",
+            "බිත්තර ටිකක්"
+          ],
+          [
+            "questions",
+            "a few questions",
+            "ප්‍රශ්න කිහිපයක්"
+          ],
+          [
+            "books",
+            "a few books",
+            "පොත් ටිකක්"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "I have a few friends coming for dinner tonight.",
+          "si": "අද රෑ මගේ යාළුවෝ ටිකක් රෑ කෑමට එනවා."
+        },
+        {
+          "en": "Can I ask you a few questions?",
+          "si": "ඔබෙන් ප්‍රශ්න කිහිපයක් අහන්න පුළුවන්ද?"
+        },
+        {
+          "en": "We'll be there in a few minutes.",
+          "si": "අපි විනාඩි කිහිපයකින් එතන ඉන්නවා."
+        }
+      ],
+      "watchOutSi": "'a few' පසුව හැම විටම බහුවචන ගණන් කළ හැකි නාම පදයක්: 'a few friend' නෙවෙයි, 'a few friends'."
+    },
+    {
+      "type": "grammar",
+      "title": "a little + uncountable",
+      "titleSi": "a little + ගණන් කළ නොහැකි",
+      "explainSi": "ගණන් කළ නොහැකි නාම පදවලට 'a little' යෙදෙනවා — 'ටිකක්' කියන ධනාත්මක අර්ථයෙන්ම.",
+      "formula": "a little + uncountable noun",
+      "table": {
+        "headers": [
+          "ගණන් කළ නොහැකි",
+          "a little සමඟ",
+          "සිංහල"
+        ],
+        "rows": [
+          [
+            "sugar",
+            "a little sugar",
+            "සීනි ටිකක්"
+          ],
+          [
+            "time",
+            "a little time",
+            "වෙලාව ටිකක්"
+          ],
+          [
+            "money",
+            "a little money",
+            "සල්ලි ටිකක්"
+          ],
+          [
+            "rice",
+            "a little rice",
+            "බත් ටිකක්"
+          ],
+          [
+            "patience",
+            "a little patience",
+            "ඉවසීම ටිකක්"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "Add a little salt to the curry.",
+          "si": "කරියට ලුණු ටිකක් දාන්න."
+        },
+        {
+          "en": "We have a little time before the bus comes.",
+          "si": "බස් එක එන්න කලින් අපිට වෙලාව ටිකක් තියෙනවා."
+        },
+        {
+          "en": "She speaks a little Tamil.",
+          "si": "එයාට දෙමළ ටිකක් කථා කරන්න පුළුවන්."
+        }
+      ],
+      "watchOutSi": "'a little' පසුව බහුවචනයක් යෙදෙන්නේ නෑ — ගණන් කළ නොහැකි නාම පදයක් තනියම: 'a little rice' — 'a little rices' නෙවෙයි."
+    },
+    {
+      "type": "grammar",
+      "title": "few / little without a — almost none",
+      "titleSi": "few / little (a නැතුව) — ගාණට නෑ",
+      "explainSi": "'a' එක අයින් කළොත්, අර්ථය සම්පූර්ණයෙන් හැරෙනවා. 'few'/'little' තනියම කියන්නේ 'ප්‍රමාණවත් තරම් නෑ' කියලා — කනස්සල්ලක්, ප්‍රශ්නයක්.",
+      "formula": "a few = some (positive)  ·  few = not enough (negative feeling)",
+      "table": {
+        "headers": [
+          "a few / a little (ධනාත්මක)",
+          "few / little (කනස්සල්ල)",
+          "සිංහල"
+        ],
+        "rows": [
+          [
+            "I have a few friends.",
+            "I have few friends.",
+            "යාළුවෝ ටිකක් ඉන්නවා / ගාණට නෑ"
+          ],
+          [
+            "We have a little time.",
+            "We have little time.",
+            "වෙලාව ටිකක් තියෙනවා / ප්‍රමාණවත් නෑ"
+          ],
+          [
+            "I have a little money.",
+            "I have little money.",
+            "සල්ලි ටිකක් තියෙනවා / ප්‍රමාණවත් නෑ"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "I have a little money, so I can help you.",
+          "si": "මට සල්ලි ටිකක් තියෙනවා, එනිසා ඔබට උදව් කරන්න පුළුවන්."
+        },
+        {
+          "en": "I have little money, so I can't help you this time.",
+          "si": "මට ප්‍රමාණවත් සල්ලි නෑ, එනිසා මේ පාර ඔබට උදව් කරන්න බෑ."
+        }
+      ],
+      "watchOutSi": "'a' එකක් අඩු වීම කුඩා දෙයක් වගේ පේනවා, නමුත් අර්ථය ධනාත්මකයේ සිට කනස්සල්ලට හැරෙනවා. ලියද්දී මේ වෙනස පරිස්සමින් බලන්න."
+    },
+    {
+      "type": "grammar",
+      "title": "a bit of — the spoken version",
+      "titleSi": "a bit of — කථා බස් ස්වරූපය",
+      "explainSi": "'a bit of' කියන්නේ 'a little' එකේම අර්ථයෙන්, නමුත් කථා කරද්දී වඩාත් සාමාන්‍ය. ලියද්දී 'a little' වඩා නිල.",
+      "formula": "a bit of + uncountable noun  (informal, spoken)",
+      "table": {
+        "headers": [
+          "විධිමත් (ලියද්දී)",
+          "අවිධිමත් (කථා කරද්දී)"
+        ],
+        "rows": [
+          [
+            "a little time",
+            "a bit of time"
+          ],
+          [
+            "a little money",
+            "a bit of money"
+          ],
+          [
+            "a little help",
+            "a bit of help"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "Could you give me a bit of help with this bag?",
+          "si": "මේ බෑග් එකට ටිකක් උදව් කරන්න පුළුවන්ද?"
+        },
+        {
+          "en": "I need a bit of time to think about it.",
+          "si": "ඒක ගැන හිතන්න මට ටිකක් වෙලාව ඕන."
+        }
+      ],
+      "watchOutSi": "'a bit' තනියම විශේෂණයක් වගේත් යෙදෙනවා: 'I'm a bit tired' (ටිකක් මහන්සියි) — නාම පදයක් නැතුව."
+    },
+    {
+      "type": "vocab",
+      "title": "Small amounts",
+      "titleSi": "කුඩා ප්‍රමාණ",
+      "items": [
+        {
+          "en": "a few",
+          "si": "ටිකක් (ගණන් කළ හැකි)",
+          "say": "අ ෆිව්"
+        },
+        {
+          "en": "a little",
+          "si": "ටිකක් (ගණන් කළ නොහැකි)",
+          "say": "අ ලිට්ල්"
+        },
+        {
+          "en": "a bit of",
+          "si": "ටිකක් (කථා බස)",
+          "say": "අ බිට් ඔෆ්"
+        },
+        {
+          "en": "patience",
+          "si": "ඉවසීම",
+          "say": "පේෂන්ස්"
+        },
+        {
+          "en": "enough",
+          "si": "ප්‍රමාණවත්",
+          "say": "එනොෆ්"
+        },
+        {
+          "en": "spare",
+          "si": "ඉතුරු",
+          "say": "ස්පෙයාර්"
+        },
+        {
+          "en": "budget",
+          "si": "අයවැය",
+          "say": "බජට්"
+        },
+        {
+          "en": "share",
+          "si": "බෙදාගන්නවා",
+          "say": "ෂෙයාර්"
+        },
+        {
+          "en": "leftover",
+          "si": "ඉතුරු වූ",
+          "say": "ලෙෆ්ට්ඕවර්"
+        },
+        {
+          "en": "run out (of)",
+          "si": "අවසන් වෙනවා",
+          "say": "රන් අවුට්"
+        },
+        {
+          "en": "manage",
+          "si": "කළමනාකරණය කරනවා",
+          "say": "මැනේජ්"
+        },
+        {
+          "en": "just enough",
+          "si": "හරියටම ප්‍රමාණවත්",
+          "say": "ජස්ට් එනොෆ්"
+        }
+      ]
+    },
+    {
+      "type": "story",
+      "title": "Enough for Everyone",
+      "titleSi": "හැමෝටම ප්‍රමාණවත්",
+      "introSi": "රස කැවිලි බෙදාගන්නා පවුලක කතාවක්. a few/a little සහ few/little (a නැතුව) දෙකම එනවා — වෙනස ප්‍රවේශමින් බලාගෙන කියවන්න.",
+      "paragraphs": [
+        {
+          "en": "My mother made kokis for the New Year, and by the second day, there were only a few pieces left in the tin.",
+          "si": "අම්මා අලුත් අවුරුද්දට කොකිස් හැදුවා, දෙවෙනි දවසේදී, ටින් එකේ ඉතුරු වෙලා තිබුණේ ටික ගණනක් විතරයි."
+        },
+        {
+          "en": "\"There are a few left,\" she said. \"Enough for tea this afternoon, if we're careful.\" That sounded fine to me.",
+          "si": "\"ටිකක් ඉතුරුයි,\" එයා කිව්වා. \"අද දහවල් තේ එකට ප්‍රමාණවත්, පරිස්සමින් ඉන්නවා නම්.\" ඒක මට හොඳයි වගේ පේනුණා."
+        },
+        {
+          "en": "Then my younger brother came home from school with three friends, all hungry. My mother looked in the tin again. \"We have very little left now,\" she said, and this time her voice was different.",
+          "si": "එතකොට මගේ මල්ලි යාළුවෝ තුන්දෙනෙක් එක්ක පාසලෙන් ගෙදර ආවා, හැමෝම බඩගිනි. අම්මා ආපහු ටින් එකට බැලුවා. \"දැන් හරිම ටිකයි ඉතුරු,\" එයා කිව්වා, මේ පාර එයාගේ හඬ වෙනස්."
+        },
+        {
+          "en": "\"A few pieces\" had become \"few pieces\" — the same tin, but suddenly not enough. She counted them: six pieces, five people, and my brother's friends were watching.",
+          "si": "\"ටික ගණනක් කැබලි\" \"ටිකයි කැබලි\" බවට හැරිලා — එකම ටින් එක, හදිසියේම ප්‍රමාණවත් නෑ. එයා ගණන් කළා: කැබලි හයයි, මිනිස්සු පස්දෙනයි, මල්ලිගේ යාළුවෝ බලාගෙන හිටියා."
+        },
+        {
+          "en": "In the end, she cut each piece in half. \"Now there's a little for everyone,\" she said, and everyone got something, even if nobody got much.",
+          "si": "අන්තිමට, එයා හැම කැබැල්ලක්ම බාගයට කැපුවා. \"දැන් හැමෝටම ටිකක් තියෙනවා,\" එයා කිව්වා, හැමෝටම යමක් ලැබුණා, කාටවත් ගොඩක් නොලැබුණත්."
+        },
+        {
+          "en": "My brother's friends left happy. My mother looked at the empty tin and said, \"Next year, I'm making twice as much.\" She has said that every year for as long as I can remember.",
+          "si": "මල්ලිගේ යාළුවෝ සතුටින් ගියා. අම්මා හිස් ටින් එක බලලා කිව්වා, \"ලබන අවුරුද්දේ, මම දෙගුණයක් හදනවා.\" මට මතක ඇති කාලයේ ඉඳන් හැම අවුරුද්දකම එයා ඒක කියනවා."
+        }
+      ],
+      "glossary": [
+        {
+          "en": "kokis",
+          "si": "කොකිස්"
+        },
+        {
+          "en": "tin",
+          "si": "ටින් එක"
+        },
+        {
+          "en": "careful",
+          "si": "පරිස්සමින්"
+        },
+        {
+          "en": "count",
+          "si": "ගණන් කරනවා"
+        },
+        {
+          "en": "cut in half",
+          "si": "බාගයට කපනවා"
+        },
+        {
+          "en": "empty",
+          "si": "හිස්"
+        }
+      ],
+      "questionsSi": [
+        "පළමු දවසේ අම්මා 'a few left' කිව්වේ මොකද්ද අදහස් කරමින්?",
+        "අම්මාගේ හඬ වෙනස් වුණේ ඇයි?",
+        "'A few pieces' සිට 'few pieces' බවට වචනය මාරු වුණේ ඇයි?",
+        "අන්තිමට හැමෝටම කැබලි ලැබුණේ කොහොමද?"
+      ]
+    },
+    {
+      "type": "poem",
+      "title": "A Few Words",
+      "titleSi": "වචන ටිකක්",
+      "introSi": "a little සහ a few දෙකම එන කවියක්.",
+      "lines": [
+        {
+          "en": "I have a little time tonight,",
+          "si": "අද රෑ මට ටිකක් වෙලාව තියෙනවා,"
+        },
+        {
+          "en": "A few words I can spare.",
+          "si": "ටිකක් වචන දෙන්න පුළුවන්."
+        },
+        {
+          "en": "Not much — a little patience, please,",
+          "si": "ගොඩක් නෑ — ටිකක් ඉවසීම, කරුණාකර,"
+        },
+        {
+          "en": "For what I have to share.",
+          "si": "මට බෙදාගන්න ඕන දේ ගැන."
+        },
+        {
+          "en": "",
+          "si": ""
+        },
+        {
+          "en": "I know I have but little left —",
+          "si": "මට ඉතුරු වෙලා තියෙන්නේ ටිකයි කියලා දන්නවා —"
+        },
+        {
+          "en": "The hour is nearly done.",
+          "si": "පැය ගෙවෙන්න ළඟයි."
+        },
+        {
+          "en": "But a few words, said honestly,",
+          "si": "හැබැයි ටිකක් වචන, අවංකවම කිව්වොත්,"
+        },
+        {
+          "en": "Can matter more than none.",
+          "si": "කිසිවක් නොකීමට වඩා වටිනවා."
+        }
+      ],
+      "noteSi": "'a little time' (ධනාත්මක), 'but little left' (කනස්සල්ල — 'a' නෑ) — කවියේම දෙකම, විරුද්ධ හැඟීම් දෙකකට."
+    },
+    {
+      "type": "dialogue",
+      "title": "Do we have enough?",
+      "titleSi": "අපිට ප්‍රමාණවත්ද?",
+      "settingSi": "ගමනකට සූදානම් වීම. a little/little සහ a few/few දෙකම එනවා.",
+      "lines": [
+        {
+          "speaker": "Ravindi",
+          "en": "How much fuel do we have left?",
+          "si": "ඉතුරු වී තියෙන ඉන්ධන කොපමණද?"
+        },
+        {
+          "speaker": "Sampath",
+          "en": "Not much. We have a little, but I'm not sure it's enough for the whole trip.",
+          "si": "ගොඩක් නෑ. ටිකක් තියෙනවා, හැබැයි මුළු ගමනටම ප්‍රමාණවත්ද කියලා විශ්වාස නෑ."
+        },
+        {
+          "speaker": "Ravindi",
+          "en": "How far to the next town?",
+          "si": "ඊළඟ නගරයට කොපමණ දුරද?"
+        },
+        {
+          "speaker": "Sampath",
+          "en": "A few kilometres, maybe ten. We should be fine.",
+          "si": "කිලෝමීටර් කිහිපයක්, විතරයි දහයක් විතර. හොඳින් යනවා ඇති."
+        },
+        {
+          "speaker": "Ravindi",
+          "en": "And how much money do we have for fuel?",
+          "si": "ඉන්ධනවලට අපිට කොපමණ සල්ලි තියෙනවාද?"
+        },
+        {
+          "speaker": "Sampath",
+          "en": "Very little, actually. We spent most of it on the hotel.",
+          "si": "ඇත්තටම, හරිම ටිකයි. හෝටලයට වැඩිපුරම වියදම් කළා."
+        },
+        {
+          "speaker": "Ravindi",
+          "en": "Let's stop at the next station, just to be safe. A few extra litres won't hurt.",
+          "si": "ආරක්ෂිත වෙන්න, ඊළඟ පිරවුම්හලේ නවත්තමු. ලීටර් කිහිපයක් අමතරව ගත්තට කමක් නෑ."
+        }
+      ]
+    },
+    {
+      "type": "practice",
+      "title": "a few, a little, few or little?",
+      "titleSi": "a few, a little, few නැත්නම් little?",
+      "instructionSi": "ගණන් කළ හැකිද නොහැකිද කියලා බලන්න, සහ ධනාත්මකද කනස්සල්ලක්ද කියලාත් බලන්න.",
+      "items": [
+        {
+          "prompt": "I have ___ friends coming tonight. (ධනාත්මක)",
+          "answer": "a few",
+          "hintSi": "ගණන් කළ හැකි, ධනාත්මක.",
+          "full": "I have a few friends coming tonight."
+        },
+        {
+          "prompt": "Add ___ sugar to the tea.",
+          "answer": "a little",
+          "hintSi": "ගණන් කළ නොහැකි, ධනාත්මක.",
+          "full": "Add a little sugar to the tea."
+        },
+        {
+          "prompt": "I'm worried — we have ___ time left. (කනස්සල්ල)",
+          "answer": "little",
+          "hintSi": "'a' නෑ — ප්‍රමාණවත් නෑ.",
+          "full": "I'm worried — we have little time left."
+        },
+        {
+          "prompt": "She has ___ friends here — she just moved. (කනස්සල්ල)",
+          "answer": "few",
+          "hintSi": "'a' නෑ — ගාණට නෑ.",
+          "full": "She has few friends here — she just moved."
+        },
+        {
+          "prompt": "Could you give me ___ help with this?",
+          "answer": "a bit of",
+          "hintSi": "කථා බස් ස්වරූපය.",
+          "full": "Could you give me a bit of help with this?"
+        },
+        {
+          "prompt": "We'll be there in ___ minutes.",
+          "answer": "a few",
+          "hintSi": "ගණන් කළ හැකි, ධනාත්මක.",
+          "full": "We'll be there in a few minutes."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "en": "a few",
+      "si": "ටිකක් (ගණන් කළ හැකි)"
+    },
+    {
+      "en": "a little",
+      "si": "ටිකක් (ගණන් කළ නොහැකි)"
+    },
+    {
+      "en": "a bit of",
+      "si": "ටිකක් (කථා බස)"
+    },
+    {
+      "en": "patience",
+      "si": "ඉවසීම"
+    },
+    {
+      "en": "enough",
+      "si": "ප්‍රමාණවත්"
+    },
+    {
+      "en": "spare",
+      "si": "ඉතුරු"
+    },
+    {
+      "en": "budget",
+      "si": "අයවැය"
+    },
+    {
+      "en": "share",
+      "si": "බෙදාගන්නවා"
+    },
+    {
+      "en": "leftover",
+      "si": "ඉතුරු වූ"
+    },
+    {
+      "en": "run out of",
+      "si": "අවසන් වෙනවා"
+    },
+    {
+      "en": "manage",
+      "si": "කළමනාකරණය කරනවා"
+    },
+    {
+      "en": "just enough",
+      "si": "හරියටම ප්‍රමාණවත්"
+    },
+    {
+      "en": "kokis",
+      "si": "කොකිස්"
+    },
+    {
+      "en": "tin",
+      "si": "ටින් එක"
+    },
+    {
+      "en": "count",
+      "si": "ගණන් කරනවා"
+    },
+    {
+      "en": "fuel",
+      "si": "ඉන්ධන"
+    },
+    {
+      "en": "kilometre",
+      "si": "කිලෝමීටරය"
+    },
+    {
+      "en": "extra",
+      "si": "අමතර"
+    },
+    {
+      "en": "worried",
+      "si": "කනස්සල්ලෙන්"
+    },
+    {
+      "en": "careful",
+      "si": "පරිස්සමින්"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "a2-12-q1",
+      "q": "'මට යාළුවෝ ටිකක් ඉන්නවා' (ධනාත්මක) — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "I have little friends.",
+        "I have a few friends.",
+        "I have a little friends.",
+        "I have few friend."
+      ],
+      "answer": 1,
+      "explainSi": "'friends' ගණන් කළ හැකි — 'a few'.",
+      "speak": "I have a few friends."
+    },
+    {
+      "id": "a2-12-q2",
+      "q": "'Add ___ sugar to the tea.' — නිවැරදි වචනය?",
+      "options": [
+        "a few",
+        "a little",
+        "few",
+        "many"
+      ],
+      "answer": 1,
+      "explainSi": "'sugar' ගණන් කළ නොහැකි — 'a little'.",
+      "speak": "Add a little sugar to the tea."
+    },
+    {
+      "id": "a2-12-q3",
+      "q": "'I have a few friends' සහ 'I have few friends' — වෙනස කුමක්ද?",
+      "options": [
+        "වෙනසක් නෑ",
+        "පළමුවැන්න ධනාත්මක (ටිකක් ඉන්නවා), දෙවැන්න කනස්සල්ල (ගාණට නෑ)",
+        "දෙවැන්න වඩා ආචාරශීලීයි",
+        "පළමුවැන්න වැරදියි"
+      ],
+      "answer": 1,
+      "explainSi": "'a' එක තියෙනවා නම් ධනාත්මක, නැත්නම් 'ප්‍රමාණවත් නෑ' කියන කනස්සල්ල."
+    },
+    {
+      "id": "a2-12-q4",
+      "q": "'I have little money, so I can't help you' — මෙතන 'little' කියන්නෙන් අදහස් වන්නේ?",
+      "options": [
+        "සල්ලි ටිකක් තියෙනවා, ප්‍රශ්නයක් නෑ",
+        "සල්ලි ප්‍රමාණවත් නෑ",
+        "සල්ලි ගොඩක් තියෙනවා",
+        "සල්ලි නෑම නෑ"
+      ],
+      "answer": 1,
+      "explainSi": "'a' නැති 'little' — ප්‍රමාණවත් නැති බව, ඒකයි උදව් කරන්න බැරි වුණේ."
+    },
+    {
+      "id": "a2-12-q5",
+      "q": "'a few' පසුව යෙදෙන්නේ කුමන වර්ගයේ නාම පදයක්ද?",
+      "options": [
+        "ගණන් කළ නොහැකි, තනි",
+        "ගණන් කළ හැකි, බහුවචන",
+        "ගණන් කළ හැකි, තනි",
+        "ඕනෑම එකක්"
+      ],
+      "answer": 1,
+      "explainSi": "'a few friends', 'a few days' — හැම විටම බහුවචනයෙන්."
+    },
+    {
+      "id": "a2-12-q6",
+      "q": "'ඔබෙන් ප්‍රශ්න කිහිපයක් අහන්න පුළුවන්ද?' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "Can I ask you a little questions?",
+        "Can I ask you a few questions?",
+        "Can I ask you few questions?",
+        "Can I ask you little questions?"
+      ],
+      "answer": 1,
+      "explainSi": "'questions' ගණන් කළ හැකි, ධනාත්මක — 'a few'.",
+      "speak": "Can I ask you a few questions?"
+    },
+    {
+      "id": "a2-12-q7",
+      "q": "'a bit of' යෙදෙන්නේ කවදාද?",
+      "options": [
+        "ලියද්දී, විධිමත් ලේඛනවල",
+        "කථා කරද්දී, 'a little' එකේ අවිධිමත් ස්වරූපය",
+        "ගණන් කළ හැකි නාම පදවලට විතරයි",
+        "negative වාක්‍යවලට විතරයි"
+      ],
+      "answer": 1,
+      "explainSi": "'a bit of' සහ 'a little' එකම අර්ථය, 'a bit of' කථා බසේ වඩාත් සාමාන්‍යයි."
+    },
+    {
+      "id": "a2-12-q8",
+      "q": "'I'm a bit tired' — මෙතන 'a bit' නාම පදයක් සමඟද?",
+      "options": [
+        "ඔව්, 'tired' නාම පදයක්",
+        "නෑ, 'a bit' මෙතන විශේෂණයක් ('tired') වෙනස් කරනවා",
+        "එය ප්‍රශ්නයක්",
+        "එය වැරදියි"
+      ],
+      "answer": 1,
+      "explainSi": "'a bit' තනියම විශේෂණයක් වෙනස් කරන්නත් යෙදෙනවා — නාම පදයක් නැතුව."
+    },
+    {
+      "id": "a2-12-q9",
+      "q": "'She has few friends here — she just moved' — කියවෙන්නේ මොකක්ද?",
+      "options": [
+        "එයාට යාළුවෝ ගොඩක් ඉන්නවා",
+        "එයාට ගාණට යාළුවෝ නෑ — තනිකමක් තියෙනවා",
+        "එයාට යාළුවෝ කැමති නෑ",
+        "එයා අලුත් නෑ"
+      ],
+      "answer": 1,
+      "explainSi": "'a' නැති 'few' — ප්‍රමාණවත් නැති, කනස්සල්ලක් වගේ දැනෙන අර්ථය."
+    },
+    {
+      "id": "a2-12-q10",
+      "q": "කුමන වචන යුගලය a1-07 හි ඉගෙන ගත්ත නීතියම මතක් කරනවාද?",
+      "options": [
+        "a few / a little",
+        "some / any",
+        "few / little",
+        "a bit of / a little"
+      ],
+      "answer": 1,
+      "explainSi": "a1-07 හි 'some'/'any' — ගණන් කළ හැකි/නොහැකි නීතියම මෙතනටත් අදාළයි."
+    },
+    {
+      "id": "a2-12-q11",
+      "context": "My mother made kokis for the New Year, and by the second day, there were only a few pieces left in the tin.",
+      "contextSi": "අම්මා අලුත් අවුරුද්දට කොකිස් හැදුවා, දෙවෙනි දවසේදී, ටින් එකේ ඉතුරු වෙලා තිබුණේ ටික ගණනක් විතරයි.",
+      "q": "කතාව අනුව: දෙවෙනි දවසේ ටින් එකේ තිබුණේ කොපමණද?",
+      "options": [
+        "හිස්ව තිබුණා",
+        "ටික ගණනක්",
+        "පිරිලා තිබුණා",
+        "එකක්"
+      ],
+      "answer": 1,
+      "explainSi": "'only a few pieces left in the tin.'"
+    },
+    {
+      "id": "a2-12-q12",
+      "context": "\"There are a few left,\" she said. \"Enough for tea this afternoon, if we're careful.\" That sounded fine to me.",
+      "contextSi": "\"ටිකක් ඉතුරුයි,\" එයා කිව්වා. \"අද දහවල් තේ එකට ප්‍රමාණවත්, පරිස්සමින් ඉන්නවා නම්.\" ඒක මට හොඳයි වගේ පේනුණා.",
+      "q": "කතාව අනුව: මුලින් අම්මාගේ හැඟීම කොහොමද?",
+      "options": [
+        "කනස්සල්ලෙන්",
+        "සන්සුන්, ප්‍රමාණවත් කියලා",
+        "තරහෙන්",
+        "දුකෙන්"
+      ],
+      "answer": 1,
+      "explainSi": "'Enough for tea … That sounded fine' — ප්‍රශ්නයක් නෑ."
+    },
+    {
+      "id": "a2-12-q13",
+      "context": "\"We have very little left now,\" she said, and this time her voice was different.",
+      "contextSi": "\"දැන් හරිම ටිකයි ඉතුරු,\" එයා කිව්වා, මේ පාර එයාගේ හඬ වෙනස්.",
+      "q": "කතාව අනුව: අම්මාගේ හඬ වෙනස් වුණේ ඇයි?",
+      "options": [
+        "එයාට තරහ නිසා",
+        "'a' නැති 'little' කියද්දී, ප්‍රමාණවත් නෑ කියන කනස්සල්ල දැනුණ නිසා",
+        "එයාට කථා කරන්න බෑ නිසා",
+        "මල්ලි ආපු නිසා"
+      ],
+      "answer": 1,
+      "explainSi": "'very little left' — කලින් 'a few' කිව්ව ධනාත්මක හැඟීම දැන් වෙනස්."
+    },
+    {
+      "id": "a2-12-q14",
+      "context": "\"A few pieces\" had become \"few pieces\" — the same tin, but suddenly not enough. She counted them: six pieces, five people, and my brother's friends were watching.",
+      "contextSi": "\"ටික ගණනක් කැබලි\" \"ටිකයි කැබලි\" බවට හැරිලා — එකම ටින් එක, හදිසියේම ප්‍රමාණවත් නෑ. එයා ගණන් කළා: කැබලි හයයි, මිනිස්සු පස්දෙනයි, මල්ලිගේ යාළුවෝ බලාගෙන හිටියා.",
+      "q": "කතාව අනුව: කැබලි ගණන සහ මිනිස්සු ගණන කුමක්ද?",
+      "options": [
+        "කැබලි පහයි, මිනිස්සු හයයි",
+        "කැබලි හයයි, මිනිස්සු පස්දෙනයි",
+        "කැබලි හතරයි, මිනිස්සු තුනයි",
+        "සමාන ගණන්"
+      ],
+      "answer": 1,
+      "explainSi": "'six pieces, five people' — ගණන් හරියට කියවෙනවා."
+    },
+    {
+      "id": "a2-12-q15",
+      "context": "In the end, she cut each piece in half. \"Now there's a little for everyone,\" she said, and everyone got something, even if nobody got much.",
+      "contextSi": "අන්තිමට, එයා හැම කැබැල්ලක්ම බාගයට කැපුවා. \"දැන් හැමෝටම ටිකක් තියෙනවා,\" එයා කිව්වා, හැමෝටම යමක් ලැබුණා, කාටවත් ගොඩක් නොලැබුණත්.",
+      "q": "කතාව අනුව: අම්මා ප්‍රශ්නය විසඳුවේ කොහොමද?",
+      "options": [
+        "වැඩිපුර කොකිස් හැදුවා",
+        "කැබලි බාගයට කපලා හැමෝටම බෙදුවා",
+        "ළමයින්ට තව එන්න එපා කිව්වා",
+        "කැබලි වළක්වා තිබ්බා"
+      ],
+      "answer": 1,
+      "explainSi": "'she cut each piece in half … everyone got something.'"
+    },
+    {
+      "id": "a2-12-q16",
+      "context": "My brother's friends left happy. My mother looked at the empty tin and said, \"Next year, I'm making twice as much.\" She has said that every year for as long as I can remember.",
+      "contextSi": "මල්ලිගේ යාළුවෝ සතුටින් ගියා. අම්මා හිස් ටින් එක බලලා කිව්වා, \"ලබන අවුරුද්දේ, මම දෙගුණයක් හදනවා.\" මට මතක ඇති කාලයේ ඉඳන් හැම අවුරුද්දකම එයා ඒක කියනවා.",
+      "q": "කතාව අනුව: 'She has said that every year' කියන එකෙන් අදහස් වන්නේ කුමක්ද?",
+      "options": [
+        "ඊළඟ අවුරුද්දේ දෙගුණයක් හදයි",
+        "එයා හැම අවුරුද්දකම එහෙම කියනවා, නමුත් කවදාවත් වෙනස් කරන්නේ නෑ",
+        "එයාට කොකිස් හදන්න බෑ",
+        "එයාට කෝපයි"
+      ],
+      "answer": 1,
+      "explainSi": "'every year for as long as I can remember' — කිව්වත් නැවත සිද්ධ වෙන කතාවක් වගේ."
+    },
+    {
+      "id": "a2-12-q17",
+      "context": "I have a little time tonight, / A few words I can spare. / Not much — a little patience, please, / For what I have to share.",
+      "contextSi": "අද රෑ මට ටිකක් වෙලාව තියෙනවා, / ටිකක් වචන දෙන්න පුළුවන්. / ගොඩක් නෑ — ටිකක් ඉවසීම, කරුණාකර, / මට බෙදාගන්න ඕන දේ ගැන.",
+      "q": "කවියේ පළමු කොටසේ කථකයාගේ අයදුම කුමක්ද?",
+      "options": [
+        "වැඩි කාලයක් ඉල්ලනවා",
+        "ටිකක් ඉවසීම ඉල්ලනවා, තමන් සතුව තියෙන ටික බෙදාගන්න",
+        "යමෙක්ට තරහ",
+        "කථා කරන්න එපා කියලා"
+      ],
+      "answer": 1,
+      "explainSi": "'a little patience, please, for what I have to share.'"
+    },
+    {
+      "id": "a2-12-q18",
+      "context": "I know I have but little left — / The hour is nearly done. / But a few words, said honestly, / Can matter more than none.",
+      "contextSi": "මට ඉතුරු වෙලා තියෙන්නේ ටිකයි කියලා දන්නවා — / පැය ගෙවෙන්න ළඟයි. / හැබැයි ටිකක් වචන, අවංකවම කිව්වොත්, / කිසිවක් නොකීමට වඩා වටිනවා.",
+      "q": "කවියේ අන්තිම කොටසේ 'but little left' (a නැතුව) සහ 'a few words' — වචන දෙකෙන් හැඟීම වෙනස් වන්නේ කොහොමද?",
+      "options": [
+        "දෙකම එකම හැඟීම",
+        "'little' — වෙලාව ප්‍රමාණවත් නෑ කියන කනස්සල්ල; 'a few words' — කුඩා වුණත් ඒක ප්‍රමාණවත් කියන විශ්වාසය",
+        "දෙකම කනස්සල්ලක්",
+        "දෙකම ධනාත්මක"
+      ],
+      "answer": 1,
+      "explainSi": "වෙලාව ගැන කනස්සල්ල තියෙන අතරේ, තියෙන ටික වචනවලින් හොඳක් කරන්න පුළුවන් කියලා විශ්වාසය."
+    },
+    {
+      "id": "a2-12-q19",
+      "context": "Sampath: Not much. We have a little, but I'm not sure it's enough for the whole trip.",
+      "contextSi": "සම්පත්: ගොඩක් නෑ. ටිකක් තියෙනවා, හැබැයි මුළු ගමනටම ප්‍රමාණවත්ද කියලා විශ්වාස නෑ.",
+      "q": "සංවාදයේ: 'a little' යෙදෙන්නේ ඇයි 'little' නොවේ?",
+      "options": [
+        "ඉන්ධන කිසිවක් නැති නිසා",
+        "ටිකක් තියෙනවා කියන ධනාත්මක කරුණ, ප්‍රශ්නය ප්‍රමාණවත්ද කියන එක විතරයි",
+        "වැරදීමකින්",
+        "'little' යෙදිය නොහැකි නිසා"
+      ],
+      "answer": 1,
+      "explainSi": "'We have a little' — තියෙනවා. ප්‍රශ්නය ප්‍රමාණවත්ද කියන එක, තියෙනවාද කියන එක නෙවෙයි."
+    },
+    {
+      "id": "a2-12-q20",
+      "context": "Sampath: Very little, actually. We spent most of it on the hotel.",
+      "contextSi": "සම්පත්: ඇත්තටම, හරිම ටිකයි. හෝටලයට වැඩිපුරම වියදම් කළා.",
+      "q": "සංවාදයේ: 'Very little' යෙදෙන්නේ ඇයි මෙතන?",
+      "options": [
+        "සල්ලි ටිකක් තියෙනවා, ප්‍රශ්නයක් නෑ",
+        "සල්ලි ප්‍රමාණවත් නෑ — හෝටලයට වැඩිපුර වියදම් කළ නිසා",
+        "සල්ලි කිසිවක් නෑ",
+        "සල්ලි ගොඩක් තියෙනවා"
+      ],
+      "answer": 1,
+      "explainSi": "'a' නැති 'little' — ප්‍රශ්නයක් තියෙන බව, හේතුවත් සමඟ."
+    },
+    {
+      "id": "a2-12-q21",
+      "q": "කුමන වාක්‍යය වැරදිද?",
+      "options": [
+        "I have a few friends.",
+        "Add a little salt.",
+        "We'll be there in a few minutes.",
+        "She has a few money."
+      ],
+      "answer": 3,
+      "explainSi": "'money' ගණන් කළ නොහැකි — 'She has a little money' විය යුතුයි."
+    },
+    {
+      "id": "a2-12-q22",
+      "q": "'මට ඒක ගැන හිතන්න ටිකක් වෙලාව ඕන' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "I need a few time to think about it.",
+        "I need a bit of time to think about it.",
+        "I need few time to think about it.",
+        "I need a little times to think about it."
+      ],
+      "answer": 1,
+      "explainSi": "'time' ගණන් කළ නොහැකි, කථා බස — 'a bit of time'.",
+      "speak": "I need a bit of time to think about it."
+    }
+  ]
+}

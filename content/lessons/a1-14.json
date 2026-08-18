@@ -1,0 +1,877 @@
+{
+  "hero": {
+    "src": "images/a1-14-hero.webp",
+    "alt": "Nadeesha sitting quietly by a window with a hand resting against her chin, thinking and remembering something, soft rain outside the glass."
+  },
+  "goalsSi": [
+    "-ing නොගන්නා ක්‍රියා හඳුනාගැනීම",
+    "know, want, need, like, understand — දැන් ගැන කිව්වත් සරල ස්වරූපය",
+    "have: 'මට තියෙනවා' සහ 'මම කනවා' — දෙපැත්තම",
+    "think: අදහසක් සහ ක්‍රියාවක්",
+    "I am knowing / I am wanting වැනි වැරදි නැවැත්වීම"
+  ],
+  "goals": [
+    "Know which verbs never take -ing",
+    "Use want, know and need for right now",
+    "Use have and think in both ways",
+    "Correct the most common learner mistakes"
+  ],
+  "sections": [
+    {
+      "type": "note",
+      "title": "Some verbs are not actions",
+      "titleSi": "සමහර ක්‍රියා, ක්‍රියා නෙවෙයි",
+      "bodySi": "ගිය පාඩමේ ඉගෙන ගත්තා: දැන් සිදුවෙන දෙයකට am/is/are + -ing.\n\nහැබැයි එක් කොටසක් තියෙනවා. සමහර ක්‍රියා 'කරන දෙයක්' නෙවෙයි — ඒවා 'තිබෙන තත්ත්වයක්'.\n\nකෑම කන එක ක්‍රියාවක් — පටන් ගන්නවා, ඉවර වෙනවා, නවත්වන්න පුළුවන්.\nදැනගෙන ඉන්න එක ක්‍රියාවක් නෙවෙයි — ඔබ දන්නවා, ඒක එච්චරයි. 'දැනගැනීම නවත්වන්න' කියලා කියන්න බෑ.\n\nඑවැනි ක්‍රියාවලට -ing එකතු වෙන්නේ නෑ — දැන් ගැන කිව්වත්:\n\nI want tea now. ✓\nI am wanting tea now. ✗\n\nI know the answer. ✓\nI am knowing the answer. ✗\n\nඒක නීතියක් කැඩීමක් නෙවෙයි. -ing කියන්නේ 'මේක සිදුවෙමින් තියෙනවා' කියලා. තත්ත්වයක් සිදුවෙන්නේ නෑ — එය තියෙනවා.",
+      "body": "State verbs stay simple, even for right now."
+    },
+    {
+      "type": "grammar",
+      "title": "The verbs that stay simple",
+      "titleSi": "සරලව ඉතුරු වන ක්‍රියා",
+      "explainSi": "මේවා දැනුම, කැමැත්ත, අවශ්‍යතාව සහ අයිතිය ගැන. දැන් ගැන කථා කරද්දීත් සරල ස්වරූපයෙන්.",
+      "formula": "know · want · need · like · love · hate · understand · believe · remember · forget · belong · mean · cost · seem",
+      "table": {
+        "headers": [
+          "නිවැරදි",
+          "වැරදි",
+          "සිංහල"
+        ],
+        "rows": [
+          [
+            "I want tea.",
+            "I am wanting tea.",
+            "මට තේ ඕන."
+          ],
+          [
+            "I know him.",
+            "I am knowing him.",
+            "මම එයාව දන්නවා."
+          ],
+          [
+            "She needs help.",
+            "She is needing help.",
+            "එයාට උදව් ඕන."
+          ],
+          [
+            "I like this song.",
+            "I am liking this song.",
+            "මම මේ සිංදුවට කැමතියි."
+          ],
+          [
+            "Do you understand?",
+            "Are you understanding?",
+            "ඔබට තේරෙනවාද?"
+          ],
+          [
+            "It costs 500 rupees.",
+            "It is costing 500 rupees.",
+            "එය රුපියල් 500ක්."
+          ],
+          [
+            "This book belongs to me.",
+            "This book is belonging to me.",
+            "මේ පොත මගේ."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "I don't understand this question.",
+          "si": "මට මේ ප්‍රශ්නය තේරෙන්නේ නෑ."
+        },
+        {
+          "en": "She wants to go home now.",
+          "si": "එයාට දැන් ගෙදර යන්න ඕන."
+        },
+        {
+          "en": "I remember your face, but I don't remember your name.",
+          "si": "ඔබේ මූණ මතකයි, හැබැයි නම මතක නෑ."
+        }
+      ],
+      "watchOutSi": "'දැන්' කියන වචනය තිබුණාට කමක් නෑ — මේ ක්‍රියාවලට -ing එකතු වෙන්නේ නෑ. 'I want it now' — 'I am wanting it now' නෙවෙයි."
+    },
+    {
+      "type": "grammar",
+      "title": "have: two different verbs",
+      "titleSi": "have: වෙනස් ක්‍රියා දෙකක්",
+      "explainSi": "'have' අර්ථ දෙකකින් යෙදෙනවා. අයිතිය ගැන නම් තත්ත්වයක් — -ing නෑ. යමක් කරන එක ගැන නම් ක්‍රියාවක් — -ing හරි.",
+      "formula": "have = own → no -ing  ·  have = do something → -ing fine",
+      "table": {
+        "headers": [
+          "වාක්‍යය",
+          "අර්ථය",
+          "නිවැරදිද?"
+        ],
+        "rows": [
+          [
+            "I have a car.",
+            "අයිතිය",
+            "✓ තත්ත්වයක්"
+          ],
+          [
+            "I am having a car.",
+            "—",
+            "✗ වැරදියි"
+          ],
+          [
+            "I am having lunch.",
+            "කෑම කනවා",
+            "✓ ක්‍රියාවක්"
+          ],
+          [
+            "We are having a party.",
+            "සාදයක් පවත්වනවා",
+            "✓ ක්‍රියාවක්"
+          ],
+          [
+            "She has two brothers.",
+            "පවුල",
+            "✓ තත්ත්වයක්"
+          ],
+          [
+            "He is having a shower.",
+            "නානවා",
+            "✓ ක්‍රියාවක්"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "I have three sisters, and they are all having dinner at my house tonight.",
+          "si": "මට නංගිලා තුන්දෙනෙක් ඉන්නවා, අද රෑ ඔවුන් හැමෝම මගේ ගෙදර කෑම කනවා."
+        },
+        {
+          "en": "Do you have a pen? — Sorry, I'm having lunch. Ask me later.",
+          "si": "ඔබට පෑනක් තියෙනවාද? — සමාවෙන්න, මම කෑම කනවා. පස්සේ අහන්න."
+        }
+      ],
+      "watchOutSi": "'I am having a car' කියලා කියන්න බෑ. හැබැයි 'I am having a bath' හරි — ඒක කරන දෙයක්."
+    },
+    {
+      "type": "grammar",
+      "title": "think: opinion or activity",
+      "titleSi": "think: අදහසක්ද, ක්‍රියාවක්ද",
+      "explainSi": "'මම හිතනවා' කියලා අදහසක් කියනවා නම් සරල ස්වරූපය. හිතමින් ඉන්නවා — මොළය දැන් වැඩ කරනවා — නම් -ing.",
+      "formula": "I think = opinion  ·  I'm thinking = the activity in my head",
+      "table": {
+        "headers": [
+          "වාක්‍යය",
+          "අර්ථය"
+        ],
+        "rows": [
+          [
+            "I think it's a good idea.",
+            "මගේ අදහස — තත්ත්වයක්"
+          ],
+          [
+            "I'm thinking about your idea.",
+            "දැන් හිතමින් ඉන්නවා — ක්‍රියාවක්"
+          ],
+          [
+            "What do you think?",
+            "ඔබේ අදහස කුමක්ද?"
+          ],
+          [
+            "What are you thinking about?",
+            "දැන් හිතන්නේ මොකක් ගැනද?"
+          ],
+          [
+            "I see your point.",
+            "තේරෙනවා — තත්ත්වයක්"
+          ],
+          [
+            "I'm seeing the doctor at four.",
+            "හතරට වෛද්‍යවරයා හමුවෙනවා — ක්‍රියාවක්"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "I think you are right, but I'm still thinking about the price.",
+          "si": "ඔබ හරි කියලා මම හිතනවා, හැබැයි මිල ගැන තාමත් හිතමින් ඉන්නවා."
+        },
+        {
+          "en": "What are you thinking about? — Nothing. I think I'm tired.",
+          "si": "ඔබ මොකක් ගැනද හිතන්නේ? — කිසිවක් නෑ. මම මහන්සියි කියලා හිතනවා."
+        }
+      ],
+      "watchOutSi": "අදහසක් කියද්දී 'I am thinking it's good' කියන්නේ නෑ — 'I think it's good'."
+    },
+    {
+      "type": "vocab",
+      "title": "States and feelings",
+      "titleSi": "තත්ත්ව සහ හැඟීම්",
+      "items": [
+        {
+          "en": "know",
+          "si": "දන්නවා",
+          "say": "නෝ"
+        },
+        {
+          "en": "want",
+          "si": "ඕන",
+          "say": "වොන්ට්"
+        },
+        {
+          "en": "need",
+          "si": "අවශ්‍යයි",
+          "say": "නීඩ්"
+        },
+        {
+          "en": "understand",
+          "si": "තේරෙනවා",
+          "say": "අන්ඩර්ස්ටෑන්ඩ්"
+        },
+        {
+          "en": "believe",
+          "si": "විශ්වාස කරනවා",
+          "say": "බිලීව්"
+        },
+        {
+          "en": "remember",
+          "si": "මතකයි",
+          "say": "රිමෙම්බර්"
+        },
+        {
+          "en": "forget",
+          "si": "අමතක වෙනවා",
+          "say": "ෆොගෙට්"
+        },
+        {
+          "en": "belong to",
+          "si": "අයිතියි",
+          "say": "බිලෝං ටු",
+          "exampleEn": "This bag belongs to my mother.",
+          "exampleSi": "මේ බෑග් එක අම්මාගේ."
+        },
+        {
+          "en": "mean",
+          "si": "අදහස් කරනවා",
+          "say": "මීන්"
+        },
+        {
+          "en": "cost",
+          "si": "වටිනවා / ගණන",
+          "say": "කොස්ට්"
+        },
+        {
+          "en": "seem",
+          "si": "පෙනෙනවා (වගේ)",
+          "say": "සීම්"
+        },
+        {
+          "en": "belong",
+          "si": "අයිති වෙනවා",
+          "say": "බිලෝං"
+        },
+        {
+          "en": "idea",
+          "si": "අදහස",
+          "say": "අයිඩියා"
+        },
+        {
+          "en": "price",
+          "si": "මිල",
+          "say": "ප්‍රයිස්"
+        },
+        {
+          "en": "truth",
+          "si": "ඇත්ත",
+          "say": "ට්‍රූත්"
+        },
+        {
+          "en": "letter",
+          "si": "ලියුම",
+          "say": "ලෙටර්"
+        },
+        {
+          "en": "envelope",
+          "si": "කවරය",
+          "say": "එන්වලෝප්"
+        },
+        {
+          "en": "drawer",
+          "si": "ලාච්චුව",
+          "say": "ඩ්‍රෝවර්"
+        }
+      ]
+    },
+    {
+      "type": "story",
+      "title": "The Letter in the Drawer",
+      "titleSi": "ලාච්චුවේ තිබූ ලියුම",
+      "introSi": "මේ කතාවේ දැනුම, කැමැත්ත සහ අවශ්‍යතාව ගැන ගොඩක් තියෙනවා — ඒවා කිසිවකට -ing එකතු වෙන්නේ නෑ. දැන් සිදුවෙන ක්‍රියා විතරයි -ing ගන්නේ.",
+      "paragraphs": [
+        {
+          "en": "My grandmother is eighty-one. She is sitting in the front room and she is holding an envelope. She wants to give it to me, but she isn't giving it to me yet.",
+          "si": "මගේ ආච්චිට අවුරුදු අසූ එකයි. එයා ඉස්සරහ කාමරයේ ඉඳගෙන කවරයක් අල්ලාගෙන ඉන්නවා. ඒක මට දෙන්න එයාට ඕන, හැබැයි තාම දෙන්නේ නෑ."
+        },
+        {
+          "en": "\"I know what you are thinking,\" she says. \"You think it is money. It isn't money.\"",
+          "si": "\"ඔබ මොකද හිතන්නේ කියලා මම දන්නවා,\" එයා කියනවා. \"ඔබ හිතන්නේ ඒක සල්ලි කියලා. ඒක සල්ලි නෙවෙයි.\""
+        },
+        {
+          "en": "The envelope is old. It belongs to her sister, who died in 1994. My grandmother is turning it over and over in her hands.",
+          "si": "කවරය පරණයි. ඒක එයාගේ නංගිගේ — 1994 දී මිය ගිය. ආච්චි ඒක අතේ නැවත නැවත පෙරළනවා."
+        },
+        {
+          "en": "\"I don't want to open it,\" she says. \"I have wanted to open it for thirty years. But I need to know first if you understand something.\"",
+          "si": "\"ඒක ඇරින්න මට ඕන නෑ,\" එයා කියනවා. \"අවුරුදු තිහක් තිස්සේ ඒක ඇරින්න මට ඕන වුණා. හැබැයි මුලින්ම ඔබට යමක් තේරෙනවාද කියලා මට දැනගන්න ඕන.\""
+        },
+        {
+          "en": "I am waiting. She is looking at the window, not at me. \"Some things belong to the person who is not here,\" she says. \"I don't believe a letter stops belonging to somebody.\"",
+          "si": "මම බලාගෙන ඉන්නවා. එයා බලන්නේ ජනේලය දිහා, මා දිහා නෙවෙයි. \"සමහර දේවල් අයිති නැති කෙනාට,\" එයා කියනවා. \"ලියුමක් කෙනෙකුට අයිති වීම නවතිනවා කියලා මම විශ්වාස කරන්නේ නෑ.\""
+        },
+        {
+          "en": "Then she is putting the envelope back in the drawer. She is smiling now. \"Good,\" she says. \"You are not asking me to open it. That means you understand.\"",
+          "si": "එතකොට එයා කවරය ආපහු ලාච්චුවේ තියනවා. දැන් එයා හිනාවෙනවා. \"හොඳයි,\" එයා කියනවා. \"ඔබ ඒක ඇරින්න කියලා මගෙන් අහන්නේ නෑ. ඒකෙන් තේරෙනවා ඔබට තේරෙනවා කියලා.\""
+        }
+      ],
+      "glossary": [
+        {
+          "en": "front room",
+          "si": "ඉස්සරහ කාමරය"
+        },
+        {
+          "en": "hold",
+          "si": "අල්ලාගෙන ඉන්නවා"
+        },
+        {
+          "en": "yet",
+          "si": "තාම"
+        },
+        {
+          "en": "turn over",
+          "si": "පෙරළනවා"
+        },
+        {
+          "en": "die",
+          "si": "මිය යනවා"
+        },
+        {
+          "en": "first",
+          "si": "මුලින්ම"
+        },
+        {
+          "en": "stop",
+          "si": "නවතිනවා"
+        },
+        {
+          "en": "put back",
+          "si": "ආපහු තියනවා"
+        }
+      ],
+      "questionsSi": [
+        "කවරයේ තියෙන්නේ මොකක්ද කියලා අපි දන්නවාද?",
+        "ආච්චිට ලියුම ඇරින්න ඕන ද, නැද්ද?",
+        "'ඔබ ඒක ඇරින්න කියලා අහන්නේ නෑ' කියලා එයා කියන්නේ ඇයි?",
+        "කතාවේ -ing ගන්නා ක්‍රියා සහ නොගන්නා ක්‍රියා වෙන් කරන්නේ කොහොමද?"
+      ]
+    },
+    {
+      "type": "poem",
+      "title": "I Know, I Want, I Wait",
+      "titleSi": "මම දන්නවා, මට ඕන, මම බලාගෙන ඉන්නවා",
+      "introSi": "පළමු පේළි තුනේ තත්ත්ව — -ing නෑ. අන්තිම කොටසේ ක්‍රියා — -ing තියෙනවා. වෙනස බලන්න.",
+      "lines": [
+        {
+          "en": "I know the road. I know the gate.",
+          "si": "මම පාර දන්නවා. ගේට්ටුව දන්නවා."
+        },
+        {
+          "en": "I know the sound the door will make.",
+          "si": "දොර හදන ශබ්දයත් දන්නවා."
+        },
+        {
+          "en": "I want to go. I need to go.",
+          "si": "මට යන්න ඕන. යන්නම ඕන."
+        },
+        {
+          "en": "I don't believe I will.",
+          "si": "යයි කියලා මම විශ්වාස කරන්නේ නෑ."
+        },
+        {
+          "en": "",
+          "si": ""
+        },
+        {
+          "en": "So I am sitting. I am waiting.",
+          "si": "එනිසා මම ඉඳගෙන ඉන්නවා. බලාගෙන ඉන්නවා."
+        },
+        {
+          "en": "The kettle's boiling on the stove.",
+          "si": "ලිප උඩ කේතලය තැම්බෙනවා."
+        },
+        {
+          "en": "I know exactly what I want.",
+          "si": "මට ඕන මොකක්ද කියලා හරියටම දන්නවා."
+        },
+        {
+          "en": "I'm doing nothing. That's the whole of it.",
+          "si": "මම කිසිවක් කරන්නේ නෑ. ඒක තමයි මුළු කතාවම."
+        }
+      ],
+      "noteSi": "know, want, need, believe — හතරටම -ing නෑ. sitting, waiting, boiling, doing — හතරටම -ing තියෙනවා. පළමු කොටස හිත ගැන, දෙවැන්න සිරුර ගැන."
+    },
+    {
+      "type": "dialogue",
+      "title": "In the shop",
+      "titleSi": "කඩේදී",
+      "settingSi": "මිලක් ගැන කථා කරද්දී 'cost' සහ 'want' යෙදෙනවා — දෙකටම -ing නෑ.",
+      "lines": [
+        {
+          "speaker": "Shopkeeper",
+          "en": "Are you looking for something?",
+          "si": "ඔබ යමක් හොයනවාද?"
+        },
+        {
+          "speaker": "Amali",
+          "en": "Yes. I want a small umbrella. How much does this one cost?",
+          "si": "ඔව්. මට පොඩි කුඩයක් ඕන. මේකේ ගණන කීයද?"
+        },
+        {
+          "speaker": "Shopkeeper",
+          "en": "It costs eight hundred rupees.",
+          "si": "රුපියල් අටසීයයි."
+        },
+        {
+          "speaker": "Amali",
+          "en": "I don't understand. The label says six hundred.",
+          "si": "මට තේරෙන්නේ නෑ. ලේබලයේ තියෙන්නේ හයසීයයි."
+        },
+        {
+          "speaker": "Shopkeeper",
+          "en": "That label belongs to the other box. I'm changing them now.",
+          "si": "ඒ ලේබලය අනිත් පෙට්ටියේ. මම දැන් ඒවා මාරු කරනවා."
+        },
+        {
+          "speaker": "Amali",
+          "en": "I see. I think I'll take the six hundred one, then.",
+          "si": "තේරෙනවා. එහෙනම් හයසීයේ එක ගන්නවා කියලා හිතනවා."
+        },
+        {
+          "speaker": "Shopkeeper",
+          "en": "Everybody is saying that today.",
+          "si": "අද හැමෝම ඒක තමයි කියන්නේ."
+        }
+      ]
+    },
+    {
+      "type": "practice",
+      "title": "Simple or -ing?",
+      "titleSi": "සරලද, -ing ද?",
+      "instructionSi": "ක්‍රියාව තත්ත්වයක්ද ක්‍රියාවක්ද කියලා තීරණය කරන්න.",
+      "items": [
+        {
+          "prompt": "I ___ (want) a cup of tea now.",
+          "answer": "want",
+          "hintSi": "තත්ත්වයක් — 'now' තිබුණත් -ing නෑ.",
+          "full": "I want a cup of tea now."
+        },
+        {
+          "prompt": "She ___ (have) lunch at the moment.",
+          "answer": "is having",
+          "hintSi": "කෑම කන එක ක්‍රියාවක්.",
+          "full": "She is having lunch at the moment."
+        },
+        {
+          "prompt": "We ___ (have) two cars.",
+          "answer": "have",
+          "hintSi": "අයිතිය — තත්ත්වයක්.",
+          "full": "We have two cars."
+        },
+        {
+          "prompt": "I ___ (not understand) this word.",
+          "answer": "don't understand",
+          "hintSi": "තත්ත්වයක් — 'am not understanding' නෙවෙයි.",
+          "full": "I don't understand this word."
+        },
+        {
+          "prompt": "He ___ (think) about the price.",
+          "answer": "is thinking",
+          "hintSi": "දැන් හිතමින් ඉන්නවා — ක්‍රියාවක්.",
+          "full": "He is thinking about the price."
+        },
+        {
+          "prompt": "This bag ___ (belong) to me.",
+          "answer": "belongs",
+          "hintSi": "අයිතිය — තත්ත්වයක්, සහ 'bag' සමඟ -s.",
+          "full": "This bag belongs to me."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "en": "know",
+      "si": "දන්නවා"
+    },
+    {
+      "en": "want",
+      "si": "ඕන"
+    },
+    {
+      "en": "need",
+      "si": "අවශ්‍යයි"
+    },
+    {
+      "en": "understand",
+      "si": "තේරෙනවා"
+    },
+    {
+      "en": "believe",
+      "si": "විශ්වාස කරනවා"
+    },
+    {
+      "en": "remember",
+      "si": "මතකයි"
+    },
+    {
+      "en": "forget",
+      "si": "අමතක වෙනවා"
+    },
+    {
+      "en": "belong to",
+      "si": "අයිතියි"
+    },
+    {
+      "en": "mean",
+      "si": "අදහස් කරනවා"
+    },
+    {
+      "en": "cost",
+      "si": "ගණන"
+    },
+    {
+      "en": "seem",
+      "si": "පෙනෙනවා වගේ"
+    },
+    {
+      "en": "idea",
+      "si": "අදහස"
+    },
+    {
+      "en": "price",
+      "si": "මිල"
+    },
+    {
+      "en": "truth",
+      "si": "ඇත්ත"
+    },
+    {
+      "en": "letter",
+      "si": "ලියුම"
+    },
+    {
+      "en": "envelope",
+      "si": "කවරය"
+    },
+    {
+      "en": "drawer",
+      "si": "ලාච්චුව"
+    },
+    {
+      "en": "hold",
+      "si": "අල්ලාගෙන ඉන්නවා"
+    },
+    {
+      "en": "yet",
+      "si": "තාම"
+    },
+    {
+      "en": "label",
+      "si": "ලේබලය"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "a1-14-q1",
+      "q": "'මට දැන් තේ ඕන' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "I am wanting tea now.",
+        "I want tea now.",
+        "I am want tea now.",
+        "I wanting tea now."
+      ],
+      "answer": 1,
+      "explainSi": "'want' යනු තත්ත්වයක් — 'now' තිබුණත් -ing එකතු වෙන්නේ නෑ.",
+      "speak": "I want tea now."
+    },
+    {
+      "id": "a1-14-q2",
+      "q": "'I am knowing the answer' වැරදි වන්නේ ඇයි?",
+      "options": [
+        "'know' අවිධිමත් නිසා",
+        "'know' යනු සිදුවෙන ක්‍රියාවක් නෙවෙයි — එය තත්ත්වයක්, එනිසා -ing නෑ",
+        "'the answer' සමඟ -ing යෙදිය නොහැකි නිසා",
+        "'I' සමඟ 'am' යෙදිය නොහැකි නිසා"
+      ],
+      "answer": 1,
+      "explainSi": "-ing කියන්නේ 'මේක සිදුවෙමින් තියෙනවා'. දැනගැනීම සිදුවෙන්නේ නෑ — එය තියෙනවා."
+    },
+    {
+      "id": "a1-14-q3",
+      "q": "කුමන වාක්‍යය නිවැරදිද?",
+      "options": [
+        "Are you understanding me?",
+        "Do you understand me?",
+        "Are you understand me?",
+        "You are understanding me?"
+      ],
+      "answer": 1,
+      "explainSi": "'understand' තත්ත්වයක් — ප්‍රශ්නයටත් සරල ස්වරූපය, do සමඟ.",
+      "speak": "Do you understand me?"
+    },
+    {
+      "id": "a1-14-q4",
+      "q": "'I ___ a car.' — අයිතිය ගැන නම්?",
+      "options": [
+        "am having",
+        "have",
+        "having",
+        "am have"
+      ],
+      "answer": 1,
+      "explainSi": "අයිතිය තත්ත්වයක්. 'I am having a car' කියලා කියන්න බෑ.",
+      "speak": "I have a car."
+    },
+    {
+      "id": "a1-14-q5",
+      "q": "'She ___ lunch at the moment.' — හිස්තැනට?",
+      "options": [
+        "has",
+        "is having",
+        "have",
+        "is has"
+      ],
+      "answer": 1,
+      "explainSi": "කෑම කන එක ක්‍රියාවක් — 'have' මෙතන 'eat' කියන අර්ථයෙන්, එනිසා -ing හරි.",
+      "speak": "She is having lunch at the moment."
+    },
+    {
+      "id": "a1-14-q6",
+      "q": "'have' සමඟ -ing යෙදිය හැක්කේ කවදාද?",
+      "options": [
+        "කවදාවත් නෑ",
+        "අයිතිය ගැන කථා කරද්දී",
+        "'have' යනු යමක් කරන එකක් වන විට — lunch, a shower, a party",
+        "හැම විටම"
+      ],
+      "answer": 2,
+      "explainSi": "'I have a car' (අයිතිය) ≠ 'I'm having lunch' (කරන දෙයක්)."
+    },
+    {
+      "id": "a1-14-q7",
+      "q": "'මම හිතනවා ඒක හොඳ අදහසක් කියලා' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "I am thinking it's a good idea.",
+        "I think it's a good idea.",
+        "I am think it's a good idea.",
+        "I thinking it's a good idea."
+      ],
+      "answer": 1,
+      "explainSi": "අදහසක් කියද්දී 'think' තත්ත්වයක්.",
+      "speak": "I think it's a good idea."
+    },
+    {
+      "id": "a1-14-q8",
+      "q": "'What ___ about?' — දැන් හිතමින් ඉන්නේ මොකක් ගැනද කියලා අහන්න?",
+      "options": [
+        "do you think",
+        "are you thinking",
+        "you are thinking",
+        "are you think"
+      ],
+      "answer": 1,
+      "explainSi": "දැන් හිතමින් ඉන්න එක මොළයේ සිදුවෙන ක්‍රියාවක් — -ing හරි. 'What do you think?' කියන්නේ අදහස අහන්න.",
+      "speak": "What are you thinking about?"
+    },
+    {
+      "id": "a1-14-q9",
+      "q": "'It ___ eight hundred rupees.' — හිස්තැනට?",
+      "options": [
+        "is costing",
+        "costs",
+        "cost",
+        "is cost"
+      ],
+      "answer": 1,
+      "explainSi": "'cost' තත්ත්වයක්, සහ 'It' සමඟ -s.",
+      "speak": "It costs eight hundred rupees."
+    },
+    {
+      "id": "a1-14-q10",
+      "q": "කුමන වාක්‍යය වැරදිද?",
+      "options": [
+        "I'm looking for my keys.",
+        "This book belongs to me.",
+        "I'm needing more time.",
+        "She wants to go home."
+      ],
+      "answer": 2,
+      "explainSi": "'need' තත්ත්වයක්: 'I need more time'."
+    },
+    {
+      "id": "a1-14-q11",
+      "context": "She is sitting in the front room and she is holding an envelope. She wants to give it to me, but she isn't giving it to me yet.",
+      "contextSi": "එයා ඉස්සරහ කාමරයේ ඉඳගෙන කවරයක් අල්ලාගෙන ඉන්නවා. ඒක මට දෙන්න එයාට ඕන, හැබැයි තාම දෙන්නේ නෑ.",
+      "q": "කතාව අනුව: මේ වාක්‍යයේ 'wants' පමණක් -ing නොගන්නේ ඇයි?",
+      "options": [
+        "එය කෙටි වචනයක් නිසා",
+        "sitting, holding, giving යනු ක්‍රියා — wanting යනු තත්ත්වයක්",
+        "එය වාක්‍යයේ මැද තිබෙන නිසා",
+        "'she' සමඟ -ing යෙදිය නොහැකි නිසා"
+      ],
+      "answer": 1,
+      "explainSi": "එකම වාක්‍යයේ ක්‍රියා තුනකට -ing තියෙනවා, තත්ත්වයට නෑ."
+    },
+    {
+      "id": "a1-14-q12",
+      "context": "\"I know what you are thinking,\" she says. \"You think it is money. It isn't money.\"",
+      "contextSi": "\"ඔබ මොකද හිතන්නේ කියලා මම දන්නවා,\" එයා කියනවා. \"ඔබ හිතන්නේ ඒක සල්ලි කියලා. ඒක සල්ලි නෙවෙයි.\"",
+      "q": "කතාව අනුව: 'you are thinking' සහ 'You think' — වෙනස ඇයි?",
+      "options": [
+        "වැරදීමකින්",
+        "පළමුවැන්න දැන් හිතමින් ඉන්න එක, දෙවැන්න ඔබේ අදහස",
+        "දෙකම එකම දෙයක්",
+        "පළමුවැන්න වඩා ආචාරශීලීයි"
+      ],
+      "answer": 1,
+      "explainSi": "එකම වචනය ක්‍රියාවක් සහ අදහසක් විදිහට — වාක්‍ය දෙකකින් පිට පිටම."
+    },
+    {
+      "id": "a1-14-q13",
+      "context": "\"I don't want to open it,\" she says. \"I have wanted to open it for thirty years. But I need to know first if you understand something.\"",
+      "contextSi": "\"ඒක ඇරින්න මට ඕන නෑ,\" එයා කියනවා. \"අවුරුදු තිහක් තිස්සේ ඒක ඇරින්න මට ඕන වුණා. හැබැයි මුලින්ම ඔබට යමක් තේරෙනවාද කියලා මට දැනගන්න ඕන.\"",
+      "q": "කතාව අනුව: ආච්චිගේ තත්ත්වය කුමක්ද?",
+      "options": [
+        "එයාට ලියුම ගැන උනන්දුවක් නෑ",
+        "එයාට ඕනත් වෙනවා, ඕන නෑත් වෙනවා — අවුරුදු තිහක් තිස්සේම",
+        "එයාට ලියුම ඇරලා තියෙනවා",
+        "එයාට කියවන්න බෑ"
+      ],
+      "answer": 1,
+      "explainSi": "'I don't want to open it' සහ 'I have wanted to open it for thirty years' — වාක්‍ය දෙක එකට තියෙන්නේ ඒ නිසාමයි."
+    },
+    {
+      "id": "a1-14-q14",
+      "context": "\"Some things belong to the person who is not here,\" she says. \"I don't believe a letter stops belonging to somebody.\"",
+      "contextSi": "\"සමහර දේවල් අයිති නැති කෙනාට,\" එයා කියනවා. \"ලියුමක් කෙනෙකුට අයිති වීම නවතිනවා කියලා මම විශ්වාස කරන්නේ නෑ.\"",
+      "q": "කතාව අනුව: ලියුම ගැන එයාගේ අදහස කුමක්ද?",
+      "options": [
+        "ලියුම දැන් එයාට අයිතියි",
+        "ලියුම තාමත් නංගිට අයිතියි — මිය ගියත්",
+        "ලියුම කථකයාට අයිතියි",
+        "ලියුම කාටවත් අයිති නෑ"
+      ],
+      "answer": 1,
+      "explainSi": "'belong' යනු -ing නොගන්නා තත්ත්වයක්, සහ එයාට අනුව එය කවදාවත් නවතින්නේ නෑ."
+    },
+    {
+      "id": "a1-14-q15",
+      "context": "Then she is putting the envelope back in the drawer. She is smiling now. \"Good,\" she says. \"You are not asking me to open it. That means you understand.\"",
+      "contextSi": "එතකොට එයා කවරය ආපහු ලාච්චුවේ තියනවා. දැන් එයා හිනාවෙනවා. \"හොඳයි,\" එයා කියනවා. \"ඔබ ඒක ඇරින්න කියලා මගෙන් අහන්නේ නෑ. ඒකෙන් තේරෙනවා ඔබට තේරෙනවා කියලා.\"",
+      "q": "කතාව අනුව: කථකයා පරීක්ෂාවට සමත් වන්නේ කොහොමද?",
+      "options": [
+        "ලියුම කියවීමෙන්",
+        "නිශ්ශබ්දව ඉඳීමෙන් — ඇරින්න කියලා නොඇසීමෙන්",
+        "ලියුම ඉල්ලීමෙන්",
+        "ආච්චිට උදව් කිරීමෙන්"
+      ],
+      "answer": 1,
+      "explainSi": "'You are not asking me to open it. That means you understand.' — නොකළ දෙයකින් තමයි පිළිතුර ලැබෙන්නේ."
+    },
+    {
+      "id": "a1-14-q16",
+      "context": "I know the road. I know the gate. / I want to go. I need to go. / I don't believe I will.",
+      "contextSi": "මම පාර දන්නවා. ගේට්ටුව දන්නවා. / මට යන්න ඕන. යන්නම ඕන. / යයි කියලා මම විශ්වාස කරන්නේ නෑ.",
+      "q": "කවියේ මේ පේළිවල එකම ක්‍රියාවකටවත් -ing නොමැත්තේ ඇයි?",
+      "options": [
+        "පදවැල ගැළපෙන්න",
+        "know, want, need, believe — හතරම තත්ත්ව මිස ක්‍රියා නොවන නිසා",
+        "අතීතය ගැන නිසා",
+        "කවියක් නිසා"
+      ],
+      "answer": 1,
+      "explainSi": "පළමු කොටස මුළුමනින්ම හිත ගැන. එනිසා -ing එකක්වත් නෑ."
+    },
+    {
+      "id": "a1-14-q17",
+      "context": "So I am sitting. I am waiting. / The kettle's boiling on the stove. / I know exactly what I want. / I'm doing nothing. That's the whole of it.",
+      "contextSi": "එනිසා මම ඉඳගෙන ඉන්නවා. බලාගෙන ඉන්නවා. / ලිප උඩ කේතලය තැම්බෙනවා. / මට ඕන මොකක්ද කියලා හරියටම දන්නවා. / මම කිසිවක් කරන්නේ නෑ. ඒක තමයි මුළු කතාවම.",
+      "q": "කවියේ අන්තිම කොටසේ -ing නැති ක්‍රියා දෙක කුමක්ද?",
+      "options": [
+        "sitting සහ waiting",
+        "know සහ want",
+        "boiling සහ doing",
+        "එකක්වත් නෑ"
+      ],
+      "answer": 1,
+      "explainSi": "'I know exactly what I want' — දෙකම තත්ත්ව. අනිත් සියල්ල ක්‍රියා, එනිසා -ing."
+    },
+    {
+      "id": "a1-14-q18",
+      "context": "Amali: I don't understand. The label says six hundred.\nShopkeeper: That label belongs to the other box. I'm changing them now.",
+      "contextSi": "අමාලි: මට තේරෙන්නේ නෑ. ලේබලයේ තියෙන්නේ හයසීයයි.\nකඩ හිමියා: ඒ ලේබලය අනිත් පෙට්ටියේ. මම දැන් ඒවා මාරු කරනවා.",
+      "q": "සංවාදයේ: 'belongs' සරලවත් 'changing' -ing සමඟත් යෙදෙන්නේ ඇයි?",
+      "options": [
+        "වැරදීමකින්",
+        "අයිතිය තත්ත්වයක් — මාරු කිරීම දැන් සිදුවෙන ක්‍රියාවක්",
+        "'label' සමඟ -ing යෙදිය නොහැකි නිසා",
+        "කඩ හිමියා ඉක්මන් නිසා"
+      ],
+      "answer": 1,
+      "explainSi": "එකම වාක්‍ය දෙකේ දෙකම — නීතිය එකම වාක්‍යයේ පේනවා."
+    },
+    {
+      "id": "a1-14-q19",
+      "q": "'මට ඔබේ මූණ මතකයි, හැබැයි නම මතක නෑ' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "I am remembering your face, but I am not remembering your name.",
+        "I remember your face, but I don't remember your name.",
+        "I remember your face, but I am not remember your name.",
+        "I remembering your face, but I don't remembering your name."
+      ],
+      "answer": 1,
+      "explainSi": "'remember' තත්ත්වයක් — දෙපැත්තෙම සරල ස්වරූපය.",
+      "speak": "I remember your face, but I don't remember your name."
+    },
+    {
+      "id": "a1-14-q20",
+      "q": "'I'm seeing the doctor at four' නිවැරදි වන්නේ ඇයි?",
+      "options": [
+        "'see' හැම විටම -ing ගන්නා නිසා",
+        "මෙතන 'see' යනු හමුවීමක් — ක්‍රියාවක්, ඇසින් දැකීම නෙවෙයි",
+        "'at four' සමඟ හැම විටම -ing නිසා",
+        "එය වැරදියි"
+      ],
+      "answer": 1,
+      "explainSi": "'I see what you mean' (තත්ත්වයක්) ≠ 'I'm seeing the doctor' (හමුවීමක්)."
+    },
+    {
+      "id": "a1-14-q21",
+      "q": "පහත ක්‍රියාවලින් -ing ගන්නා එක කුමක්ද?",
+      "options": [
+        "belong",
+        "cost",
+        "wait",
+        "seem"
+      ],
+      "answer": 2,
+      "explainSi": "'wait' යනු කරන දෙයක් — 'I am waiting'. අනිත් තුන තත්ත්ව."
+    },
+    {
+      "id": "a1-14-q22",
+      "q": "'මම දැන් නානවා' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "I have a shower now.",
+        "I am having a shower now.",
+        "I am have a shower now.",
+        "I having a shower now."
+      ],
+      "answer": 1,
+      "explainSi": "නාන එක කරන දෙයක් — 'have' මෙතන ක්‍රියාවක්, එනිසා -ing හරි.",
+      "speak": "I am having a shower now."
+    }
+  ]
+}

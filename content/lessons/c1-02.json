@@ -1,0 +1,528 @@
+{
+  "hero": {
+    "src": "images/c1-02-hero.webp",
+    "alt": "Ruwan at a tidy desk in a formal shirt composing a careful letter, fountain pen in hand, envelope and a lamp, quiet considered atmosphere."
+  },
+  "goalsSi": [
+    "විධිමත් සහ අවිධිමත් ඉංග්‍රීසිය හඳුනා ගැනීම",
+    "වෘත්තීය විද්‍යුත් තැපෑලක් ලිවීම",
+    "අයදුම්පත් සහ ආවරණ ලිපි",
+    "වඩාත් නිවැරදි වචන තෝරා ගැනීම"
+  ],
+  "goals": [
+    "Recognise formal and informal register",
+    "Write a professional email",
+    "Choose more precise vocabulary"
+  ],
+  "sections": [
+    {
+      "type": "note",
+      "title": "Register: the same idea, different clothes",
+      "titleSi": "Register: එකම අදහස, වෙනස් ඇඳුම්",
+      "bodySi": "Register is the level of formality you choose. The same message can be dressed three different ways:\n\n• Informal: \"Sorry, can't make it tomorrow.\"\n• Neutral: \"I'm afraid I can't come tomorrow.\"\n• Formal: \"I regret that I will be unable to attend tomorrow.\"\n\nNone of these is 'better' English. Each is correct in its own place — and wrong in the others. Writing \"Hey\" to a bank manager is as wrong as writing \"I regret to inform you\" to your brother.\n\nමේ තුනෙන් එකක්වත් අනෙක් ඒවාට වඩා 'හොඳ' ඉංග්‍රීසි නෙවෙයි. එක එකක් නිසි තැන නිවැරදියි, වැරදි තැන වැරදියි.",
+      "body": "Register is not about good or bad English. It is about the right English for the situation."
+    },
+    {
+      "type": "grammar",
+      "title": "Formal vs informal choices",
+      "titleSi": "විධිමත් සහ අවිධිමත් තේරීම්",
+      "explainSi": "Formal English prefers single Latin-based verbs; informal English prefers phrasal verbs. It avoids contractions, and it is more indirect.",
+      "table": {
+        "headers": [
+          "Informal",
+          "Formal",
+          "සිංහල"
+        ],
+        "rows": [
+          [
+            "find out",
+            "discover / ascertain",
+            "දැනගන්නවා"
+          ],
+          [
+            "put off",
+            "postpone",
+            "කල් දානවා"
+          ],
+          [
+            "get in touch",
+            "contact",
+            "සම්බන්ධ වෙනවා"
+          ],
+          [
+            "need",
+            "require",
+            "අවශ්‍යයි"
+          ],
+          [
+            "ask for",
+            "request",
+            "ඉල්ලනවා"
+          ],
+          [
+            "help",
+            "assist",
+            "උදව් කරනවා"
+          ],
+          [
+            "get",
+            "receive / obtain",
+            "ලබා ගන්නවා"
+          ],
+          [
+            "show",
+            "demonstrate / indicate",
+            "පෙන්නනවා"
+          ],
+          [
+            "a lot of",
+            "a great deal of / numerous",
+            "බොහෝ"
+          ],
+          [
+            "but",
+            "however",
+            "නමුත්"
+          ],
+          [
+            "so",
+            "therefore / consequently",
+            "එනිසා"
+          ],
+          [
+            "sorry",
+            "I apologise / I regret",
+            "සමාවෙන්න"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "Informal: Sorry I'm late getting back to you.",
+          "si": "අවිධිමත්: පිළිතුරු දෙන්න පරක්කු වුණාට සමාවෙන්න."
+        },
+        {
+          "en": "Formal: I apologise for the delay in responding.",
+          "si": "විධිමත්: ප්‍රතිචාර දැක්වීමේ ප්‍රමාදය සම්බන්ධයෙන් සමාව අයදිමි."
+        },
+        {
+          "en": "Informal: Can you send it over?",
+          "si": "අවිධිමත්: ඒක එවන්න පුළුවන්ද?"
+        },
+        {
+          "en": "Formal: Could you please forward the document?",
+          "si": "විධිමත්: කරුණාකර ලේඛනය යොමු කළ හැකිද?"
+        }
+      ],
+      "watchOutSi": "විධිමත් ලේඛනවල contractions (don't, I'm, can't) යොදන්නේ නෑ. 'do not', 'I am', 'cannot' ලෙස සම්පූර්ණයෙන් ලියන්න."
+    },
+    {
+      "type": "grammar",
+      "title": "The anatomy of a professional email",
+      "titleSi": "වෘත්තීය විද්‍යුත් තැපෑලක ව්‍යුහය",
+      "explainSi": "A professional email in English has a predictable shape. Follow it and you will never look inexperienced.",
+      "formula": "Subject → Greeting → Purpose → Detail → Action → Close → Sign-off",
+      "table": {
+        "headers": [
+          "Part",
+          "Phrase",
+          "Note"
+        ],
+        "rows": [
+          [
+            "Subject",
+            "Application for Marketing Assistant — Nimal Perera",
+            "Specific, not 'Hello' or 'Urgent'"
+          ],
+          [
+            "Greeting (name known)",
+            "Dear Ms Fernando,",
+            "Surname, not first name"
+          ],
+          [
+            "Greeting (name unknown)",
+            "Dear Sir or Madam,",
+            "Never 'Dear Sir/Madam:'"
+          ],
+          [
+            "Purpose",
+            "I am writing to enquire about …",
+            "First sentence states why"
+          ],
+          [
+            "Detail",
+            "As you will see from my CV, …",
+            "One idea per paragraph"
+          ],
+          [
+            "Action",
+            "I would be grateful if you could …",
+            "Say exactly what you want"
+          ],
+          [
+            "Close",
+            "Thank you for your time and consideration.",
+            "Polite, not pleading"
+          ],
+          [
+            "Sign-off (named)",
+            "Yours sincerely,",
+            "When you used their name"
+          ],
+          [
+            "Sign-off (unnamed)",
+            "Yours faithfully,",
+            "When you wrote 'Dear Sir or Madam'"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "I am writing to apply for the position of Junior Accountant advertised on your website.",
+          "si": "ඔබේ වෙබ් අඩවියේ දැන්වූ කනිෂ්ඨ ගණකාධිකාරී තනතුරට අයදුම් කිරීමට මම මෙය ලියමි."
+        },
+        {
+          "en": "I would be grateful if you could confirm receipt of this application.",
+          "si": "මෙම අයදුම්පත ලැබුණු බව තහවුරු කළ හැකි නම් ස්තුතිවන්ත වෙමි."
+        },
+        {
+          "en": "Please do not hesitate to contact me if you require further information.",
+          "si": "වැඩිදුර තොරතුරු අවශ්‍ය නම් කරුණාකර නොපැකිලව මා අමතන්න."
+        }
+      ],
+      "watchOutSi": "'Yours sincerely' සහ 'Yours faithfully' අතර වෙනස මතක තියාගන්න: නම දන්නවා නම් sincerely, නොදන්නවා නම් faithfully. මෙය බ්‍රිතාන්‍ය සම්මතයයි."
+    },
+    {
+      "type": "dialogue",
+      "title": "The same message, two ways",
+      "titleSi": "එකම පණිවිඩය, ක්‍රම දෙකකින්",
+      "settingSi": "A worker needs two days off. Read how he writes to a friend, and then to his manager.",
+      "lines": [
+        {
+          "speaker": "To a friend",
+          "en": "Machang, I'm taking Thursday and Friday off. Family thing in Matara. Can you cover for me?",
+          "si": "මචං, මම බ්‍රහස්පතින්දා සහ සිකුරාදා නිවාඩු ගන්නවා. මාතරදී පවුලේ දෙයක්. මට වෙනුවෙන් බලාගන්න පුළුවන්ද?"
+        },
+        {
+          "speaker": "To the manager",
+          "en": "Dear Mr Silva,",
+          "si": "සිල්වා මහතාට,"
+        },
+        {
+          "speaker": "To the manager",
+          "en": "I am writing to request two days of leave on Thursday 14th and Friday 15th of this month.",
+          "si": "මෙම මාසයේ 14 බ්‍රහස්පතින්දා සහ 15 සිකුරාදා දින දෙකක නිවාඩුවක් ඉල්ලා සිටීමට මම මෙය ලියමි."
+        },
+        {
+          "speaker": "To the manager",
+          "en": "The leave is required for a family commitment in Matara. I have discussed the matter with Mr Jayasinghe, who has kindly agreed to cover my duties.",
+          "si": "මාතරදී පවුලේ කටයුත්තක් සඳහා මෙම නිවාඩුව අවශ්‍ය වේ. මම ජයසිංහ මහතා සමඟ මේ ගැන සාකච්ඡා කර ඇති අතර, ඔහු කාරුණිකව මගේ රාජකාරි බාරගැනීමට එකඟ වී ඇත."
+        },
+        {
+          "speaker": "To the manager",
+          "en": "I would be grateful if you could approve this request at your convenience.",
+          "si": "ඔබට පහසු වේලාවක මෙම ඉල්ලීම අනුමත කළ හැකි නම් ස්තුතිවන්ත වෙමි."
+        },
+        {
+          "speaker": "To the manager",
+          "en": "Thank you for your consideration.\n\nYours sincerely,\nAsanka Rathnayake",
+          "si": "ඔබේ සලකා බැලීමට ස්තුතියි.\n\nමෙයට විශ්වාසී,\nඅසංක රත්නායක"
+        }
+      ]
+    },
+    {
+      "type": "grammar",
+      "title": "Precision: choosing the sharper word",
+      "titleSi": "නිරවද්‍යතාව: තියුණු වචනය තෝරාගැනීම",
+      "explainSi": "Advanced writing is not about long words. It is about exact words. Vague words like 'good', 'bad', 'thing', 'very' weaken your English.\n\nඋසස් ලේඛනය දිගු වචන ගැන නෙවෙයි — නිවැරදි වචන ගැනයි. 'good', 'bad', 'thing', 'very' වැනි නොපැහැදිලි වචන ඔබේ ඉංග්‍රීසිය දුර්වල කරනවා.",
+      "table": {
+        "headers": [
+          "Vague",
+          "Precise alternatives"
+        ],
+        "rows": [
+          [
+            "very good",
+            "excellent, outstanding, remarkable, impressive"
+          ],
+          [
+            "very bad",
+            "poor, inadequate, unacceptable, dreadful"
+          ],
+          [
+            "very big",
+            "enormous, substantial, considerable, vast"
+          ],
+          [
+            "very small",
+            "tiny, minimal, negligible, slight"
+          ],
+          [
+            "very tired",
+            "exhausted, drained, worn out"
+          ],
+          [
+            "very important",
+            "crucial, vital, essential, critical"
+          ],
+          [
+            "thing",
+            "issue, factor, aspect, element, matter"
+          ],
+          [
+            "get better",
+            "improve, recover, progress"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "Weak: The results were very good.",
+          "si": "දුර්වල: ප්‍රතිඵල හරිම හොඳයි."
+        },
+        {
+          "en": "Better: The results were outstanding.",
+          "si": "වඩා හොඳ: ප්‍රතිඵල විශිෂ්ටයි."
+        },
+        {
+          "en": "Weak: This is a very important thing.",
+          "si": "දුර්වල: මේක හරිම වැදගත් දෙයක්."
+        },
+        {
+          "en": "Better: This is a crucial factor.",
+          "si": "වඩා හොඳ: මෙය තීරණාත්මක සාධකයකි."
+        }
+      ],
+      "watchOutSi": "නමුත් සරලත්වයට බය වෙන්න එපා. හොඳ ලේඛකයෝ දිගු වචන යොදන්නේ අර්ථය තියුණු කරන විට පමණයි — ආඩම්බර වීමට නොවේ."
+    },
+    {
+      "type": "practice",
+      "title": "Make it formal",
+      "titleSi": "විධිමත් කරන්න",
+      "instructionSi": "වඩාත් විධිමත් වචනය ලියන්න.",
+      "items": [
+        {
+          "prompt": "informal: find out → formal: ___",
+          "answer": "discover",
+          "hintSi": "ලතින් මූලයන් සහිත එක් වචනයක්.",
+          "full": "We hope to discover the cause of the delay."
+        },
+        {
+          "prompt": "informal: put off → formal: ___",
+          "answer": "postpone",
+          "hintSi": "කල් දැමීම.",
+          "full": "The meeting has been postponed."
+        },
+        {
+          "prompt": "informal: need → formal: ___",
+          "answer": "require",
+          "hintSi": "අකුරු 7යි.",
+          "full": "We require further information."
+        },
+        {
+          "prompt": "informal: get in touch → formal: ___",
+          "answer": "contact",
+          "hintSi": "එක් වචනයක්.",
+          "full": "Please contact us at your convenience."
+        },
+        {
+          "prompt": "When you wrote 'Dear Sir or Madam', you sign off with: Yours ___",
+          "answer": "faithfully",
+          "hintSi": "නම නොදන්නා විට.",
+          "full": "Yours faithfully,"
+        },
+        {
+          "prompt": "When you wrote 'Dear Ms Fernando', you sign off with: Yours ___",
+          "answer": "sincerely",
+          "hintSi": "නම දන්නා විට.",
+          "full": "Yours sincerely,"
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "en": "register",
+      "si": "භාෂා විලාසය"
+    },
+    {
+      "en": "formal",
+      "si": "විධිමත්"
+    },
+    {
+      "en": "informal",
+      "si": "අවිධිමත්"
+    },
+    {
+      "en": "postpone",
+      "si": "කල් දානවා"
+    },
+    {
+      "en": "require",
+      "si": "අවශ්‍යයි"
+    },
+    {
+      "en": "request",
+      "si": "ඉල්ලීම කරනවා"
+    },
+    {
+      "en": "assist",
+      "si": "උදව් කරනවා"
+    },
+    {
+      "en": "obtain",
+      "si": "ලබා ගන්නවා"
+    },
+    {
+      "en": "apologise",
+      "si": "සමාව අයදිනවා"
+    },
+    {
+      "en": "consideration",
+      "si": "සලකා බැලීම"
+    },
+    {
+      "en": "convenience",
+      "si": "පහසුව"
+    },
+    {
+      "en": "confirm",
+      "si": "තහවුරු කරනවා"
+    },
+    {
+      "en": "crucial",
+      "si": "තීරණාත්මක"
+    },
+    {
+      "en": "outstanding",
+      "si": "විශිෂ්ට"
+    },
+    {
+      "en": "enormous",
+      "si": "අතිවිශාල"
+    },
+    {
+      "en": "negligible",
+      "si": "නොසැලකිය හැකි"
+    },
+    {
+      "en": "commitment",
+      "si": "කැපවීම / කටයුත්ත"
+    },
+    {
+      "en": "approve",
+      "si": "අනුමත කරනවා"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "c1-02-q1",
+      "q": "Which is the most FORMAL version?",
+      "qSi": "වඩාත්ම විධිමත් ස්වරූපය?",
+      "options": [
+        "Sorry, can't make it tomorrow.",
+        "I can't come tomorrow.",
+        "I regret that I will be unable to attend tomorrow.",
+        "Not coming tomorrow."
+      ],
+      "answer": 2,
+      "explainSi": "'I regret that I will be unable to attend' — contractions නෑ, ලතින් මූලයන් සහිත වචන, වක්‍ර ප්‍රකාශනය.",
+      "speak": "I regret that I will be unable to attend tomorrow."
+    },
+    {
+      "id": "c1-02-q2",
+      "q": "If your letter begins 'Dear Sir or Madam', you should sign off with:",
+      "qSi": "නම නොදන්නා විට අවසන් කරන්නේ කෙසේද?",
+      "options": [
+        "Yours sincerely",
+        "Yours faithfully",
+        "Best wishes",
+        "Cheers"
+      ],
+      "answer": 1,
+      "explainSi": "නම නොදන්නා විට 'Yours faithfully'. නම දන්නා විට 'Yours sincerely'.",
+      "speak": "Yours faithfully"
+    },
+    {
+      "id": "c1-02-q3",
+      "q": "In formal writing, which should you AVOID?",
+      "qSi": "විධිමත් ලේඛනයේ වළක්වා ගත යුත්තේ?",
+      "options": [
+        "Full sentences",
+        "Contractions like don't and I'm",
+        "Paragraphs",
+        "A clear subject line"
+      ],
+      "answer": 1,
+      "explainSi": "විධිමත් ලේඛනවල contractions යොදන්නේ නෑ: 'do not', 'I am' ලෙස සම්පූර්ණයෙන් ලියන්න."
+    },
+    {
+      "id": "c1-02-q4",
+      "q": "The formal equivalent of 'put off' is:",
+      "qSi": "'put off' වල විධිමත් ස්වරූපය?",
+      "options": [
+        "postpone",
+        "cancel",
+        "prepone",
+        "remove"
+      ],
+      "answer": 0,
+      "explainSi": "put off = postpone (කල් දැමීම). Cancel යනු අවලංගු කිරීමයි — වෙනස් අර්ථයක්.",
+      "speak": "postpone"
+    },
+    {
+      "id": "c1-02-q5",
+      "q": "Which is the most precise replacement for 'very good'?",
+      "qSi": "'very good' වෙනුවට වඩාත් නිරවද්‍ය වචනය?",
+      "options": [
+        "nice",
+        "outstanding",
+        "okay",
+        "very nice"
+      ],
+      "answer": 1,
+      "explainSi": "'outstanding' නිශ්චිත සහ ශක්තිමත්. 'very' + දුර්වල විශේෂණයට වඩා තනි ශක්තිමත් වචනයක් හොඳයි.",
+      "speak": "The results were outstanding."
+    },
+    {
+      "id": "c1-02-q6",
+      "q": "A good email subject line is:",
+      "qSi": "හොඳ විෂය පේළියක්?",
+      "options": [
+        "Hello",
+        "URGENT!!!",
+        "Application for Marketing Assistant — Nimal Perera",
+        "Question"
+      ],
+      "answer": 2,
+      "explainSi": "විෂය පේළිය නිශ්චිත විය යුතුයි — කුමක් ගැනද සහ කවුරුන්ගෙන්ද යන්න පැහැදිලිව."
+    },
+    {
+      "id": "c1-02-q7",
+      "q": "'I would be grateful if you could …' is used to:",
+      "qSi": "මෙම යෙදුමේ කාර්යය?",
+      "options": [
+        "apologise",
+        "make a polite request",
+        "refuse something",
+        "end a friendship"
+      ],
+      "answer": 1,
+      "explainSi": "විධිමත් ලිපිවල ආචාරශීලීව යමක් ඉල්ලීමට යෙදෙන සම්මත යෙදුමකි.",
+      "speak": "I would be grateful if you could confirm receipt."
+    },
+    {
+      "id": "c1-02-q8",
+      "q": "Which statement about register is TRUE?",
+      "qSi": "Register ගැන සත්‍ය ප්‍රකාශය?",
+      "options": [
+        "Formal English is always better English",
+        "Informal English is lazy English",
+        "Each register is correct in its own situation",
+        "Register only matters in exams"
+      ],
+      "answer": 2,
+      "explainSi": "Register යනු හොඳ නරක ගැන නොවේ — තත්ත්වයට සුදුසු භාෂාව තෝරාගැනීමයි."
+    }
+  ]
+}

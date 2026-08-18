@@ -1,0 +1,727 @@
+{
+  "hero": {
+    "src": "images/a1-03-hero.webp",
+    "alt": "Nadeesha sitting on a low wall with a hand on her chest, introducing herself with a warm open expression, relaxed and happy, leafy street behind her."
+  },
+  "goalsSi": [
+    "සර්වනාම (I, you, he, she, it, we, they) හඳුනා ගැනීම",
+    "am / is / are නිවැරදිව තෝරා ගැනීම",
+    "නැහැ කියන ආකාරය (I am not, She is not)",
+    "ප්‍රශ්න ඇසීම (Are you …? Is he …?)"
+  ],
+  "goals": [
+    "Use pronouns",
+    "Use am, is, are correctly",
+    "Make negatives and questions"
+  ],
+  "sections": [
+    {
+      "type": "note",
+      "title": "The most important verb",
+      "titleSi": "වැදගත්ම ක්‍රියාව",
+      "bodySi": "ඉංග්‍රීසියේ වැදගත්ම ක්‍රියාව 'to be'. සිංහලෙන් අපි 'මම ගුරුවරයෙක්' කියලා කෙළින්ම කියනවා — වෙනම ක්‍රියා පදයක් ඕන නෑ. නමුත් ඉංග්‍රීසියෙන් 'I teacher' කියන්න බෑ. 'I AM a teacher' කියලා 'am' දාන්නම ඕන.\n\nමේක සිංහල කථා කරන අය කරන පොදුම වැරැද්ද. එනිසා මේ පාඩම හොඳින් කරන්න — ඉදිරි හැම පාඩමකටම මේක අවශ්‍යයි.",
+      "body": "In English you must always include the verb 'to be'."
+    },
+    {
+      "type": "grammar",
+      "title": "Pronouns and 'to be'",
+      "titleSi": "සර්වනාම සහ 'to be'",
+      "explainSi": "සර්වනාමය අනුව 'be' ක්‍රියාවේ ස්වරූපය වෙනස් වෙනවා. මේ වගුව හොඳින් මතක තියාගන්න — ඉංග්‍රීසි ඉගෙනීමේ අත්තිවාරම මෙයයි.",
+      "formula": "I am · He/She/It is · You/We/They are",
+      "table": {
+        "headers": [
+          "Pronoun",
+          "සිංහල",
+          "be",
+          "Short form",
+          "Example"
+        ],
+        "rows": [
+          [
+            "I",
+            "මම",
+            "am",
+            "I'm",
+            "I am happy."
+          ],
+          [
+            "You",
+            "ඔබ / ඔබලා",
+            "are",
+            "You're",
+            "You are kind."
+          ],
+          [
+            "He",
+            "එයා (පිරිමි)",
+            "is",
+            "He's",
+            "He is my brother."
+          ],
+          [
+            "She",
+            "එයා (ගැහැණු)",
+            "is",
+            "She's",
+            "She is a nurse."
+          ],
+          [
+            "It",
+            "එය (දෙයක්/සතෙක්)",
+            "is",
+            "It's",
+            "It is a cat."
+          ],
+          [
+            "We",
+            "අපි",
+            "are",
+            "We're",
+            "We are students."
+          ],
+          [
+            "They",
+            "ඔවුන්",
+            "are",
+            "They're",
+            "They are friends."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "I am a student.",
+          "si": "මම ශිෂ්‍යයෙක්."
+        },
+        {
+          "en": "She is my sister.",
+          "si": "එයා මගේ නංගි/අක්කා."
+        },
+        {
+          "en": "We are from Sri Lanka.",
+          "si": "අපි ශ්‍රී ලංකාවෙන්."
+        },
+        {
+          "en": "They are very happy.",
+          "si": "ඔවුන් ඉතා සතුටින්."
+        },
+        {
+          "en": "It is hot today.",
+          "si": "අද රස්නෙයි."
+        }
+      ],
+      "watchOutSi": "'He' යනු පිරිමි කෙනෙකුට, 'she' යනු ගැහැණු කෙනෙකුට, 'it' යනු දෙයකට හෝ සතෙකුට. සිංහලෙන් 'එයා' කියලා දෙකටම කියන නිසා මේක මුලින් අමාරු වෙන්න පුළුවන්."
+    },
+    {
+      "type": "grammar",
+      "title": "Saying 'no' and asking questions",
+      "titleSi": "නැහැ කීම සහ ප්‍රශ්න ඇසීම",
+      "explainSi": "නැහැ කියන්න 'not' එකතු කරන්න. ප්‍රශ්නයක් අහන්න be ක්‍රියාව වාක්‍යයේ මුලට ගේන්න — වචන පිළිවෙළ මාරු කරනවා පමණයි.",
+      "formula": "Negative: I am not · Question: Am I …?",
+      "table": {
+        "headers": [
+          "Positive",
+          "Negative",
+          "Question"
+        ],
+        "rows": [
+          [
+            "I am late.",
+            "I am not late. (I'm not)",
+            "Am I late?"
+          ],
+          [
+            "He is here.",
+            "He is not here. (He isn't)",
+            "Is he here?"
+          ],
+          [
+            "They are ready.",
+            "They are not ready. (They aren't)",
+            "Are they ready?"
+          ],
+          [
+            "You are my friend.",
+            "You are not my friend.",
+            "Are you my friend?"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "I am not angry.",
+          "si": "මම කේන්තියෙන් නෑ."
+        },
+        {
+          "en": "She isn't at home.",
+          "si": "එයා ගෙදර නෑ."
+        },
+        {
+          "en": "Are you a doctor?",
+          "si": "ඔබ දොස්තර කෙනෙක්ද?"
+        },
+        {
+          "en": "Is it your book?",
+          "si": "මේක ඔබේ පොතද?"
+        }
+      ],
+      "watchOutSi": "ප්‍රශ්නයකට කෙටියෙන් පිළිතුරු දෙන්න: 'Yes, I am.' හෝ 'No, I'm not.' — 'Yes, I'm.' කියලා කියන්න බෑ. ධනාත්මක කෙටි පිළිතුරේ කෙටි ස්වරූපය භාවිත නොකරයි."
+    },
+    {
+      "type": "vocab",
+      "title": "Words to describe people",
+      "titleSi": "මිනිසුන් විස්තර කරන වචන",
+      "items": [
+        {
+          "en": "happy",
+          "si": "සතුටින්",
+          "say": "හැපී",
+          "exampleEn": "I am happy today.",
+          "exampleSi": "මම අද සතුටින්."
+        },
+        {
+          "en": "sad",
+          "si": "දුකින්",
+          "say": "සෑඩ්",
+          "exampleEn": "She is sad.",
+          "exampleSi": "එයා දුකින්."
+        },
+        {
+          "en": "tired",
+          "si": "මහන්සියි",
+          "say": "ටයර්ඩ්",
+          "exampleEn": "We are tired.",
+          "exampleSi": "අපි මහන්සියි."
+        },
+        {
+          "en": "hungry",
+          "si": "බඩගිනියි",
+          "say": "හංග්‍රී",
+          "exampleEn": "The boy is hungry.",
+          "exampleSi": "පිරිමි ළමයා බඩගිනියි."
+        },
+        {
+          "en": "young",
+          "si": "තරුණ",
+          "say": "යං",
+          "exampleEn": "My brother is young.",
+          "exampleSi": "මගේ මල්ලි තරුණයි."
+        },
+        {
+          "en": "old",
+          "si": "වයසක / පරණ",
+          "say": "ඕල්ඩ්",
+          "exampleEn": "That house is old.",
+          "exampleSi": "අර ගෙදර පරණයි."
+        },
+        {
+          "en": "tall",
+          "si": "උස",
+          "say": "ටෝල්",
+          "exampleEn": "He is very tall.",
+          "exampleSi": "එයා ගොඩක් උසයි."
+        },
+        {
+          "en": "kind",
+          "si": "කරුණාවන්ත",
+          "say": "කයින්ඩ්",
+          "exampleEn": "My teacher is kind.",
+          "exampleSi": "මගේ ගුරුතුමා කරුණාවන්තයි."
+        },
+        {
+          "en": "busy",
+          "si": "කාර්යබහුල",
+          "say": "බිසී",
+          "exampleEn": "My father is busy.",
+          "exampleSi": "මගේ තාත්තා කාර්යබහුලයි."
+        },
+        {
+          "en": "ready",
+          "si": "සූදානම්",
+          "say": "රෙඩි",
+          "exampleEn": "Are you ready?",
+          "exampleSi": "ඔබ සූදානම්ද?"
+        }
+      ]
+    },
+    {
+      "type": "story",
+      "title": "The New Neighbour",
+      "titleSi": "අලුත් අසල්වැසියා",
+      "introSi": "ඉතා සරල කෙටිකතාවක්. සෑම වාක්‍යයකම 'be' ක්‍රියාව භාවිත වෙනවා — ඒවා හොයාගන්න උත්සාහ කරන්න.",
+      "paragraphs": [
+        {
+          "en": "A new family is in our lane. The father is a driver. The mother is a nurse.",
+          "si": "අපේ පාරේ අලුත් පවුලක් ඉන්නවා. තාත්තා රියදුරෙක්. අම්මා හෙදියක්."
+        },
+        {
+          "en": "They have a daughter. Her name is Tharu. She is eight years old.",
+          "si": "ඔවුන්ට දුවෙක් ඉන්නවා. එයාගේ නම තරු. එයාට අවුරුදු අටයි."
+        },
+        {
+          "en": "Tharu is shy. She is alone in the garden. She is not happy.",
+          "si": "තරු ලැජ්ජාශීලීයි. එයා තනියම වත්තේ ඉන්නවා. එයා සතුටින් නෑ."
+        },
+        {
+          "en": "\"Hello! Are you Tharu?\" I ask. \"Yes, I am,\" she says quietly.",
+          "si": "\"හෙලෝ! ඔබ තරුද?\" මම අහනවා. \"ඔව්,\" එයා හෙමිහිට කියනවා."
+        },
+        {
+          "en": "\"I am Ravi. This is my sister. We are your neighbours now.\"",
+          "si": "\"මම රවි. මේ මගේ නංගි. දැන් අපි ඔබේ අසල්වැසියෝ.\""
+        },
+        {
+          "en": "Tharu smiles. She is not alone any more. Now we are friends.",
+          "si": "තරු සිනාසෙනවා. එයා තවදුරටත් තනියම නෑ. දැන් අපි යාළුවෝ."
+        }
+      ],
+      "glossary": [
+        {
+          "en": "neighbour",
+          "si": "අසල්වැසියා"
+        },
+        {
+          "en": "lane",
+          "si": "පටුමග / පාර"
+        },
+        {
+          "en": "driver",
+          "si": "රියදුරු"
+        },
+        {
+          "en": "nurse",
+          "si": "හෙදිය"
+        },
+        {
+          "en": "daughter",
+          "si": "දුව"
+        },
+        {
+          "en": "shy",
+          "si": "ලැජ්ජාශීලී"
+        },
+        {
+          "en": "alone",
+          "si": "තනියම"
+        },
+        {
+          "en": "garden",
+          "si": "වත්ත"
+        },
+        {
+          "en": "quietly",
+          "si": "හෙමිහිට"
+        },
+        {
+          "en": "smile",
+          "si": "සිනාසෙනවා"
+        }
+      ],
+      "questionsSi": [
+        "තරුගේ වයස කීයද?",
+        "තරුගේ අම්මාගේ රැකියාව කුමක්ද?",
+        "කතාව අවසානයේ තරු සතුටින්ද? ඇයි?"
+      ]
+    },
+    {
+      "type": "practice",
+      "title": "am, is or are?",
+      "titleSi": "am, is නැත්නම් are?",
+      "instructionSi": "නිවැරදි වචනය ලියන්න: am, is හෝ are.",
+      "items": [
+        {
+          "prompt": "I ___ a student.",
+          "answer": "am",
+          "hintSi": "'I' සමඟ එන එක.",
+          "full": "I am a student."
+        },
+        {
+          "prompt": "She ___ my mother.",
+          "answer": "is",
+          "hintSi": "He / She / It සමඟ එන එක.",
+          "full": "She is my mother."
+        },
+        {
+          "prompt": "They ___ in the garden.",
+          "answer": "are",
+          "hintSi": "බහුවචන සමඟ එන එක.",
+          "full": "They are in the garden."
+        },
+        {
+          "prompt": "It ___ very hot today.",
+          "answer": "is",
+          "hintSi": "'It' සමඟ.",
+          "full": "It is very hot today."
+        },
+        {
+          "prompt": "We ___ from Sri Lanka.",
+          "answer": "are",
+          "hintSi": "'We' සමඟ.",
+          "full": "We are from Sri Lanka."
+        },
+        {
+          "prompt": "___ you tired?",
+          "answer": "are",
+          "hintSi": "ප්‍රශ්නයක් — 'you' සමඟ.",
+          "full": "Are you tired?"
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "en": "happy",
+      "si": "සතුටින්"
+    },
+    {
+      "en": "sad",
+      "si": "දුකින්"
+    },
+    {
+      "en": "tired",
+      "si": "මහන්සියි"
+    },
+    {
+      "en": "hungry",
+      "si": "බඩගිනියි"
+    },
+    {
+      "en": "young",
+      "si": "තරුණ"
+    },
+    {
+      "en": "old",
+      "si": "වයසක / පරණ"
+    },
+    {
+      "en": "tall",
+      "si": "උස"
+    },
+    {
+      "en": "kind",
+      "si": "කරුණාවන්ත"
+    },
+    {
+      "en": "busy",
+      "si": "කාර්යබහුල"
+    },
+    {
+      "en": "ready",
+      "si": "සූදානම්"
+    },
+    {
+      "en": "neighbour",
+      "si": "අසල්වැසියා"
+    },
+    {
+      "en": "nurse",
+      "si": "හෙදිය"
+    },
+    {
+      "en": "driver",
+      "si": "රියදුරු"
+    },
+    {
+      "en": "daughter",
+      "si": "දුව"
+    },
+    {
+      "en": "garden",
+      "si": "වත්ත"
+    },
+    {
+      "en": "shy",
+      "si": "ලැජ්ජාශීලී"
+    },
+    {
+      "en": "alone",
+      "si": "තනියම"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "a1-03-q1",
+      "q": "'I ___ a teacher.' — හිස්තැනට ගැළපෙන්නේ?",
+      "options": [
+        "is",
+        "am",
+        "are",
+        "be"
+      ],
+      "answer": 1,
+      "explainSi": "'I' සමඟ හැම විටම 'am' යෙදෙනවා: I am a teacher.",
+      "speak": "I am a teacher."
+    },
+    {
+      "id": "a1-03-q2",
+      "q": "'She ___ my sister.' — හිස්තැනට ගැළපෙන්නේ?",
+      "options": [
+        "am",
+        "are",
+        "is",
+        "be"
+      ],
+      "answer": 2,
+      "explainSi": "He, She, It සමඟ 'is' යෙදෙනවා.",
+      "speak": "She is my sister."
+    },
+    {
+      "id": "a1-03-q3",
+      "q": "'ඔවුන් සතුටින්' — ඉංග්‍රීසියෙන් නිවැරදිව?",
+      "options": [
+        "They is happy.",
+        "They are happy.",
+        "They am happy.",
+        "They happy."
+      ],
+      "answer": 1,
+      "explainSi": "They සමඟ 'are'. තවද 'They happy' කියලා 'are' නැතුව ලියන්න බෑ.",
+      "speak": "They are happy."
+    },
+    {
+      "id": "a1-03-q4",
+      "q": "'He is not here.' යන්නෙහි කෙටි ස්වරූපය කුමක්ද?",
+      "options": [
+        "He'sn't here.",
+        "He isn't here.",
+        "He not here.",
+        "He aren't here."
+      ],
+      "answer": 1,
+      "explainSi": "is + not = isn't. එලෙසම are + not = aren't.",
+      "speak": "He isn't here."
+    },
+    {
+      "id": "a1-03-q5",
+      "q": "'Are you ready?' යන ප්‍රශ්නයට නිවැරදි කෙටි පිළිතුර?",
+      "options": [
+        "Yes, I'm.",
+        "Yes, I am.",
+        "Yes, I are.",
+        "Yes, am I."
+      ],
+      "answer": 1,
+      "explainSi": "ධනාත්මක කෙටි පිළිතුරේ කෙටි ස්වරූපය භාවිත නොකරයි. 'Yes, I am.' නිවැරදියි.",
+      "speak": "Are you ready? Yes, I am."
+    },
+    {
+      "id": "a1-03-q6",
+      "q": "බල්ලෙකු ගැන කතා කරද්දී කුමන සර්වනාමය භාවිත කරයිද?",
+      "options": [
+        "he only",
+        "she only",
+        "it",
+        "they"
+      ],
+      "answer": 2,
+      "explainSi": "සතුන් සහ දේවල් සඳහා සාමාන්‍යයෙන් 'it' භාවිත කරනවා: The dog is big. It is friendly."
+    },
+    {
+      "id": "a1-03-q7",
+      "q": "'අපි මහන්සියි' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "We is tired.",
+        "We are tired.",
+        "We am tired.",
+        "Us are tired."
+      ],
+      "answer": 1,
+      "explainSi": "We + are. 'Us' යනු වෙනත් ස්වරූපයක් — වාක්‍යයේ මුලට එන්නේ 'we'.",
+      "speak": "We are tired."
+    },
+    {
+      "id": "a1-03-q8",
+      "q": "'ඔබ දොස්තර කෙනෙක්ද?' — ප්‍රශ්නය නිවැරදිව ලියා ඇත්තේ?",
+      "options": [
+        "You are a doctor?",
+        "Are you a doctor?",
+        "Is you a doctor?",
+        "You a doctor are?"
+      ],
+      "answer": 1,
+      "explainSi": "ප්‍රශ්නයක් සෑදීමට 'be' ක්‍රියාව මුලට ගේනවා: Are you …?",
+      "speak": "Are you a doctor?"
+    },
+    {
+      "id": "a1-03-q9",
+      "q": "'You ___ my friend.' — හිස්තැනට?",
+      "options": [
+        "am",
+        "is",
+        "are",
+        "be"
+      ],
+      "answer": 2,
+      "explainSi": "'you' සමඟ හැම විටම 'are' — එක් අයෙක් වුණත්.",
+      "speak": "You are my friend."
+    },
+    {
+      "id": "a1-03-q10",
+      "q": "'It ___ hot today.' — හිස්තැනට?",
+      "options": [
+        "am",
+        "is",
+        "are",
+        "be"
+      ],
+      "answer": 1,
+      "explainSi": "'it' සමඟ 'is'."
+    },
+    {
+      "id": "a1-03-q11",
+      "q": "'We are not late' — කෙටි ස්වරූපය?",
+      "options": [
+        "We amn't late.",
+        "We aren't late.",
+        "We isn't late.",
+        "We not are late."
+      ],
+      "answer": 1,
+      "explainSi": "are + not = aren't. 'amn't' කියලා වචනයක් නෑ."
+    },
+    {
+      "id": "a1-03-q12",
+      "q": "'මම ගුරුවරයෙක් නෙවෙයි' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "I not a teacher.",
+        "I'm not a teacher.",
+        "I amn't a teacher.",
+        "I don't a teacher."
+      ],
+      "answer": 1,
+      "explainSi": "'I am not' → 'I'm not'. 'I' සමඟ 'don't' යෙදෙන්නේ නෑ මෙතන — be ක්‍රියාවට 'not' ඇති.",
+      "speak": "I'm not a teacher."
+    },
+    {
+      "id": "a1-03-q13",
+      "q": "'Is she your sister?' — නෑ නම් කෙටි පිළිතුර?",
+      "options": [
+        "No, she doesn't.",
+        "No, she isn't.",
+        "No, she not.",
+        "No, she aren't."
+      ],
+      "answer": 1,
+      "explainSi": "ප්‍රශ්නයේ 'Is' නම් පිළිතුරෙත් be ක්‍රියාව."
+    },
+    {
+      "id": "a1-03-q14",
+      "q": "'ඔවුන් මගේ අසල්වැසියෝ' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "They is my neighbours.",
+        "They are my neighbours.",
+        "They am my neighbours.",
+        "They be my neighbours."
+      ],
+      "answer": 1,
+      "explainSi": "බහුවචනයට 'are'.",
+      "speak": "They are my neighbours."
+    },
+    {
+      "id": "a1-03-q15",
+      "q": "ප්‍රශ්නයක් හදද්දී 'am/is/are' යන්නට මොකද වෙන්නේ?",
+      "options": [
+        "එය අයින් වෙනවා",
+        "එය වාක්‍යයේ මුලට එනවා",
+        "එය දෙපාරක් එනවා",
+        "වෙනසක් නෑ"
+      ],
+      "answer": 1,
+      "explainSi": "'You are ready' → 'Are you ready?' — වචන දෙක මාරු වෙනවා විතරයි."
+    },
+    {
+      "id": "a1-03-q16",
+      "q": "කුමන වාක්‍යය වැරදිද?",
+      "options": [
+        "He is tired.",
+        "We are happy.",
+        "She are my mother.",
+        "I am ready."
+      ],
+      "answer": 2,
+      "explainSi": "'She is my mother' විය යුතුයි."
+    },
+    {
+      "id": "a1-03-q17",
+      "context": "A new family is in our lane. The father is a driver. The mother is a nurse. They have a daughter. Her name is Tharu. She is eight years old.",
+      "contextSi": "අපේ පාරේ අලුත් පවුලක්. තාත්තා රියදුරෙක්. අම්මා හෙදියක්. ඔවුන්ට දුවෙක් ඉන්නවා. එයාගේ නම තරු. එයාට අවුරුදු අටයි.",
+      "q": "කතාව අනුව: තරුගේ අම්මාගේ රැකියාව කුමක්ද?",
+      "options": [
+        "ගුරුවරියක්",
+        "හෙදියක්",
+        "රියදුරෙක්",
+        "ශිෂ්‍යාවක්"
+      ],
+      "answer": 1,
+      "explainSi": "'The mother is a nurse.'"
+    },
+    {
+      "id": "a1-03-q18",
+      "context": "Tharu is shy. She is alone in the garden. She is not happy.",
+      "contextSi": "තරු ලැජ්ජාශීලීයි. එයා වත්තේ තනියම. එයා සතුටින් නෑ.",
+      "q": "කතාව අනුව: තරු සතුටින් නැත්තේ ඇයි?",
+      "options": [
+        "එයාට වත්තට කැමති නෑ",
+        "එයා තනියම — අලුත් තැනක, යාළුවෝ නෑ",
+        "එයාට ලෙඩ",
+        "එයාට ගෙදර යන්න ඕන"
+      ],
+      "answer": 1,
+      "explainSi": "'shy' සහ 'alone' කියන වචන දෙක එකට තියෙන්නේ ඒ නිසාමයි."
+    },
+    {
+      "id": "a1-03-q19",
+      "context": "\"Hello! Are you Tharu?\" I ask. \"Yes, I am,\" she says quietly.",
+      "contextSi": "\"හෙලෝ! ඔබ තරුද?\" මම අහනවා. \"ඔව්,\" එයා හෙමින් කියනවා.",
+      "q": "කතාව අනුව: 'Yes, I am' කියන පිළිතුරේ 'am' යෙදෙන්නේ ඇයි?",
+      "options": [
+        "ප්‍රශ්නයේ 'Are' යෙදුණ නිසා — පිළිතුරෙත් be ක්‍රියාව",
+        "එය වඩා ආචාරශීලී නිසා",
+        "එයාගේ නම නිසා",
+        "වැරදීමකින්"
+      ],
+      "answer": 0,
+      "explainSi": "'Are you …?' → 'Yes, I am.' ප්‍රශ්නයේ ක්‍රියාවම පිළිතුරට එනවා."
+    },
+    {
+      "id": "a1-03-q20",
+      "context": "\"I am Ravi. This is my sister. We are your neighbours now.\"",
+      "contextSi": "\"මම රවී. මේ මගේ නංගි. දැන් අපි ඔබේ අසල්වැසියෝ.\"",
+      "q": "කතාව අනුව: 'I am', 'This is', 'We are' — තුනක් යෙදෙන්නේ ඇයි?",
+      "options": [
+        "වචන ලස්සන කරන්න",
+        "කර්තෘව වෙනස් වෙනකොට be ක්‍රියාවේ ස්වරූපයත් වෙනස් වෙන නිසා",
+        "තුනම එකයි",
+        "වැරදීමකින්"
+      ],
+      "answer": 1,
+      "explainSi": "I → am, This (it) → is, We → are. එකම කථාවේ තුනම."
+    },
+    {
+      "id": "a1-03-q21",
+      "context": "Tharu smiles. She is not alone any more. Now we are friends.",
+      "contextSi": "තරු සිනාසෙනවා. එයා තවදුරටත් තනියම නෑ. දැන් අපි යාළුවෝ.",
+      "q": "කතාව අනුව: තරු සිනාසෙන්නේ ඇයි?",
+      "options": [
+        "එයාට වත්ත ලස්සන නිසා",
+        "කවුරුහරි එයාට කථා කරලා යාළුවෙක් වුණ නිසා",
+        "එයාට ගෙදර යන්න ලැබුණ නිසා",
+        "එයාට අවුරුදු අටක් නිසා"
+      ],
+      "answer": 1,
+      "explainSi": "'She is not alone any more' — වෙනස් වුණේ ඒක."
+    },
+    {
+      "id": "a1-03-q22",
+      "q": "'am', 'is', 'are' යනු වචන තුනක්ද, එකක්ද?",
+      "options": [
+        "වෙනස් ක්‍රියා තුනක්",
+        "එකම ක්‍රියාවේ ('be') ස්වරූප තුනක් — කර්තෘව අනුව තෝරනවා",
+        "එකම වචනයේ අකුරු වෙනස්කම්",
+        "ප්‍රශ්නවලට විතරයි"
+      ],
+      "answer": 1,
+      "explainSi": "'be' ක්‍රියාවේ ස්වරූප. ඒකයි එය ඉංග්‍රීසියේ වැදගත්ම ක්‍රියාව වන්නේ."
+    }
+  ]
+}

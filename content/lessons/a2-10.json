@@ -1,0 +1,963 @@
+{
+  "hero": {
+    "src": "images/a2-10-hero.webp",
+    "alt": "Nadeesha sitting on a suitcase in a hallway surrounded by travel souvenirs and a sun hat, smiling at the memory of a trip."
+  },
+  "goalsSi": [
+    "have/has + past participle — present perfect ස්වරූපය",
+    "a2-05 හි ඉගෙන ගත් ක්‍රියා 20ටම past participle එකතු කිරීම",
+    "Have you ever...? අත්දැකීම් ගැන අහන ආකාරය",
+    "I've never... පිළිතුරු දෙන ආකාරය",
+    "දිනයක් නැති, මුළු ජීවිතේම ගැන කථා කරන කාලයක් — a2-05 හි past simple එකෙන් වෙනස",
+    "been to සහ gone to අතර වෙනස"
+  ],
+  "goals": [
+    "Form the present perfect with have/has + past participle",
+    "Learn the past participle of 20 verbs already known",
+    "Ask about life experience with Have you ever…?",
+    "Answer with I've never…",
+    "Tell present perfect apart from the simple past",
+    "Use been to and gone to correctly"
+  ],
+  "sections": [
+    {
+      "type": "note",
+      "title": "A question with no date on it",
+      "titleSi": "දිනයක් නැති ප්‍රශ්නයක්",
+      "bodySi": "a2-05 හි ඉගෙන ගත්තා: 'Did you go to Japan?' — නිශ්චිත ගමනක් ගැන, කවදා හරි එක් අවස්ථාවක් ගැන. පිළිතුරු දෙන්නත් දිනයක්, කාලයක් ඕන: 'Yes, in 2019.'\n\nහැබැයි සමහර වෙලාවට අපිට ඕන දිනයක් නොකියාම, මුළු ජීවිතේම ගැන අහන්න: 'ඔබ කවදාහරි ජපානයට ගිහින් තියෙනවාද — කවදාද කියලා වැදගත් නෑ, ගිහින් තියෙනවාද කියලා විතරයි.' ඒකට ඉංග්‍රීසියේ තියෙන කාලයට කියන්නේ present perfect:\n\nHave you ever been to Japan?\n\nමෙතන දිනයක් නෑ. පිළිතුරෙත් දිනයක් අවශ්‍ය නෑ: 'Yes, I have.' හෝ 'No, never.'\n\nමේකයි මේ කාලයේ තියෙන මුළු අදහසම: අතීතයේ සිද්ධ වුණු දෙයක්, නමුත් 'කවදාද' කියන එක වැදගත් නැති, ජීවිතේ මුළු කාලය ආවරණය කරන එකක්.",
+      "body": "The simple past asks about one dated event. Have you ever…? asks about your whole life, with no date."
+    },
+    {
+      "type": "grammar",
+      "title": "have / has + past participle",
+      "titleSi": "have / has + past participle",
+      "explainSi": "'be' ක්‍රියාව වගේම, කර්තෘව අනුව 'have' හෝ 'has' තෝරන්න. ඊට පස්සේ ක්‍රියාවේ තුන්වන ස්වරූපය (past participle) — a2-05 හි ඉගෙන ගත් අතීත ස්වරූපයට වඩා තව එකක්.",
+      "formula": "I/you/we/they + have + past participle  ·  he/she/it + has + past participle",
+      "table": {
+        "headers": [
+          "ධනාත්මක",
+          "නැහැ",
+          "ප්‍රශ්නය"
+        ],
+        "rows": [
+          [
+            "I have visited India.",
+            "I haven't visited India.",
+            "Have you visited India?"
+          ],
+          [
+            "She has finished the book.",
+            "She hasn't finished the book.",
+            "Has she finished the book?"
+          ],
+          [
+            "They have seen that film.",
+            "They haven't seen that film.",
+            "Have they seen that film?"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "I have read that book twice.",
+          "si": "මම ඒ පොත දෙපාරක් කියෙව්වා (කවදාද කියලා වැදගත් නෑ)."
+        },
+        {
+          "en": "She has never eaten crab.",
+          "si": "එයා කවදාවත් කකුළුවෝ කාලා නෑ."
+        },
+        {
+          "en": "Have you finished your homework yet?",
+          "si": "ඔබේ ගෙදර වැඩ ඉවර වුණාද?"
+        }
+      ],
+      "watchOutSi": "'have'/'has' සරලව 'තියෙනවා' (අයිතිය) කියන අර්ථයෙන් වෙනස් — මෙතන 'have' උදව්කරු ක්‍රියාවක්, පස්සේ ක්‍රියාවක් ඕන: 'I have a car' (අයිතිය) ≠ 'I have visited' (present perfect)."
+    },
+    {
+      "type": "grammar",
+      "title": "The same 20 verbs, one more form",
+      "titleSi": "එකම ක්‍රියා 20, තව ස්වරූපයක්",
+      "explainSi": "a2-05 හි ඉගෙන ගත්ත ක්‍රියා 20ටම දැන් තුන්වන ස්වරූපයක් (past participle) එකතු වෙනවා. හොඳ ආරංචිය: ගොඩක් ක්‍රියාවලට past participle එක past tense එකම — අලුතින් ඉගෙන ගන්න ඕන ටික විතරයි.",
+      "formula": "go → went → gone  ·  make → made → made",
+      "table": {
+        "headers": [
+          "Present",
+          "Past (a2-05)",
+          "Past participle (අලුත්)"
+        ],
+        "rows": [
+          [
+            "go",
+            "went",
+            "gone / been"
+          ],
+          [
+            "eat",
+            "ate",
+            "eaten"
+          ],
+          [
+            "drink",
+            "drank",
+            "drunk"
+          ],
+          [
+            "see",
+            "saw",
+            "seen"
+          ],
+          [
+            "come",
+            "came",
+            "come"
+          ],
+          [
+            "give",
+            "gave",
+            "given"
+          ],
+          [
+            "take",
+            "took",
+            "taken"
+          ],
+          [
+            "make",
+            "made",
+            "made"
+          ],
+          [
+            "say",
+            "said",
+            "said"
+          ],
+          [
+            "buy",
+            "bought",
+            "bought"
+          ],
+          [
+            "think",
+            "thought",
+            "thought"
+          ],
+          [
+            "write",
+            "wrote",
+            "written"
+          ],
+          [
+            "read",
+            "read",
+            "read"
+          ],
+          [
+            "run",
+            "ran",
+            "run"
+          ],
+          [
+            "sleep",
+            "slept",
+            "slept"
+          ],
+          [
+            "find",
+            "found",
+            "found"
+          ],
+          [
+            "tell",
+            "told",
+            "told"
+          ],
+          [
+            "leave",
+            "left",
+            "left"
+          ],
+          [
+            "begin",
+            "began",
+            "begun"
+          ],
+          [
+            "is / are",
+            "was / were",
+            "been"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "I have never written a letter in English before.",
+          "si": "මම කලින් කවදාවත් ඉංග්‍රීසියෙන් ලියුමක් ලියලා නෑ."
+        },
+        {
+          "en": "Have you eaten sushi before?",
+          "si": "ඔබ කලින් සුෂි කාලා තියෙනවාද?"
+        },
+        {
+          "en": "She has already begun her new job.",
+          "si": "එයා දැනටමත් අලුත් රැකියාව පටන් අරගෙන."
+        }
+      ],
+      "watchOutSi": "'made', 'said', 'bought', 'thought', 'slept', 'found', 'told', 'left' — past සහ past participle එකයි. 'went→gone', 'ate→eaten', 'saw→seen', 'gave→given', 'took→taken', 'wrote→written', 'began→begun' — මේවා විතරයි වෙනස් වෙන්නේ."
+    },
+    {
+      "type": "grammar",
+      "title": "Have you ever…? and I've never…",
+      "titleSi": "Have you ever...? සහ I've never...",
+      "explainSi": "අත්දැකීමක් ගැන අහද්දී 'ever' යොදනවා — 'කවදාහරි'. පිළිතුරේ 'never' යෙදුවොත් 'කවදාවත් නෑ'.",
+      "formula": "Have you ever + past participle?  ·  I've never + past participle",
+      "table": {
+        "headers": [
+          "ප්‍රශ්නය",
+          "ඔව්",
+          "නෑ"
+        ],
+        "rows": [
+          [
+            "Have you ever been abroad?",
+            "Yes, I have.",
+            "No, I haven't. / No, never."
+          ],
+          [
+            "Has he ever driven a car?",
+            "Yes, he has.",
+            "No, he hasn't."
+          ],
+          [
+            "Have you ever eaten octopus?",
+            "Yes, once.",
+            "No, I've never eaten it."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "Have you ever climbed a mountain?",
+          "si": "ඔබ කවදාහරි කන්දක් නැගලා තියෙනවාද?"
+        },
+        {
+          "en": "I've never seen snow.",
+          "si": "මම කවදාවත් හිම දැකලා නෑ."
+        },
+        {
+          "en": "Has your mother ever been to Colombo?",
+          "si": "ඔබේ අම්මා කවදාහරි කොළඹට ගිහින් තියෙනවාද?"
+        }
+      ],
+      "watchOutSi": "'ever' ධනාත්මක වාක්‍යයක යෙදෙන්නේ නෑ — ප්‍රශ්නවලට විතරයි. ධනාත්මක වාක්‍යයක 'ever' අවශ්‍ය නෑ: 'I have been to Japan' — 'I have ever been to Japan' නෙවෙයි."
+    },
+    {
+      "type": "grammar",
+      "title": "Have you ever…? is not Did you…?",
+      "titleSi": "Have you ever...? යනු Did you...? නෙවෙයි",
+      "explainSi": "මේකයි මේ පාඩමේ තියුණුම කොටස. ප්‍රශ්න දෙකම අතීතය ගැන, නමුත් අහන්නේ සම්පූර්ණයෙන් වෙනස් දෙයක්.",
+      "formula": "Did you + verb (past)? = one dated event  ·  Have you ever + past participle? = your whole life, no date",
+      "table": {
+        "headers": [
+          "ප්‍රශ්නය",
+          "අහන්නේ",
+          "පිළිතුර"
+        ],
+        "rows": [
+          [
+            "Did you go to Japan?",
+            "නිශ්චිත එක් ගමනක් — කවදාද?",
+            "Yes, in 2019."
+          ],
+          [
+            "Have you ever been to Japan?",
+            "ජීවිතේ මුළු කාලයම — දිනයක් නෑ",
+            "Yes, twice. / No, never."
+          ],
+          [
+            "Did you see that film?",
+            "නිශ්චිත එක් අවස්ථාවක්",
+            "Yes, last week."
+          ],
+          [
+            "Have you ever seen that film?",
+            "ජීවිතේ කවදාහරි",
+            "Yes, a long time ago."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "Did you call your mother yesterday? — Yes, at six.",
+          "si": "ඊයේ අම්මාට කතා කළාද? — ඔව්, හයට."
+        },
+        {
+          "en": "Have you ever called from a public phone? — No, never.",
+          "si": "කවදාහරි පොදු දුරකථනයකින් කථා කරලා තියෙනවාද? — නෑ, කවදාවත් නෑ."
+        }
+      ],
+      "watchOutSi": "'Did you go?' කියද්දී දිනයක් හෝ 'yesterday', 'last week' වගේ කාල වචනයක් තියෙන්න පුළුවන්. 'Have you ever been?' සමඟ දිනයක් හෝ 'yesterday' වගේ නිශ්චිත කාල වචනයක් යෙදෙන්නේ නෑ."
+    },
+    {
+      "type": "tip",
+      "title": "been to or gone to?",
+      "titleSi": "been to ද gone to ද?",
+      "bodySi": "දෙකම 'go' ක්‍රියාවෙන් එනවා, නමුත් අර්ථය වෙනස්:\n\n'She has gone to London' — එයා දැන් ලන්ඩනයේ. ගිහින් තාමත් ආපහු ආවේ නෑ.\n\n'She has been to London' — එයා කලින් ලන්ඩනයට ගිහින් තියෙනවා, දැන් ආපහු මෙතන. ඒක අත්දැකීමක්.\n\nඑනිසා:\n\nHave you ever been to Japan? ✓ — 'ගිහින් තියෙනවාද' (අත්දැකීම)\nHave you ever gone to Japan? — අමුතුයි, මොකද 'gone' කියන්නේ තාමත් එතන ඉන්නවා කියලා, එනිසා 'ever' එක්ක ගැළපෙන්නේ නෑ.\n\nඅත්දැකීමක් ගැන කථා කරද්දී 'been' යෙදෙනවා. 'gone' යෙදෙන්නේ දැන් කොහෙද ඉන්නවාද කියලා කියද්දී විතරයි."
+    },
+    {
+      "type": "vocab",
+      "title": "Experiences",
+      "titleSi": "අත්දැකීම්",
+      "items": [
+        {
+          "en": "ever",
+          "si": "කවදාහරි",
+          "say": "එවර්"
+        },
+        {
+          "en": "never",
+          "si": "කවදාවත් නෑ",
+          "say": "නෙවර්"
+        },
+        {
+          "en": "before",
+          "si": "කලින්",
+          "say": "බිෆෝ"
+        },
+        {
+          "en": "once",
+          "si": "එකපාරක්",
+          "say": "වන්ස්"
+        },
+        {
+          "en": "twice",
+          "si": "දෙපාරක්",
+          "say": "ට්වයිස්"
+        },
+        {
+          "en": "several times",
+          "si": "කිහිප වතාවක්",
+          "say": "සෙවරල් ටයිම්ස්"
+        },
+        {
+          "en": "abroad",
+          "si": "විදේශයක",
+          "say": "අබ්‍රෝඩ්"
+        },
+        {
+          "en": "experience",
+          "si": "අත්දැකීම",
+          "say": "එක්ස්පීරියන්ස්"
+        },
+        {
+          "en": "achievement",
+          "si": "ජයග්‍රහණය",
+          "say": "අචීව්මන්ට්"
+        },
+        {
+          "en": "bucket list",
+          "si": "කිරීමට ඕන දේවල් ලැයිස්තුව",
+          "say": "බකට් ලිස්ට්"
+        },
+        {
+          "en": "amazing",
+          "si": "පුදුමාකාර",
+          "say": "අමේසිං"
+        },
+        {
+          "en": "octopus",
+          "si": "දැල්ලා",
+          "say": "ඔක්ටපස්"
+        },
+        {
+          "en": "mountain",
+          "si": "කන්ද",
+          "say": "මවුන්ටන්"
+        },
+        {
+          "en": "snow",
+          "si": "හිම",
+          "say": "ස්නෝ"
+        },
+        {
+          "en": "stage",
+          "si": "වේදිකාව",
+          "say": "ස්ටේජ්"
+        },
+        {
+          "en": "microphone",
+          "si": "මයික්‍රෆෝනය",
+          "say": "මයික්‍රෆෝන්"
+        }
+      ]
+    },
+    {
+      "type": "story",
+      "title": "My Grandmother's List",
+      "titleSi": "ආච්චිගේ ලැයිස්තුව",
+      "introSi": "ආච්චියක් තමන්ගේ ජීවිතේ කරන්න ඕන දේවල් ලැයිස්තුවක් ලියන කතාවක්. Have you ever, I've never, been to එනවා — ගණන් කරන්න.",
+      "paragraphs": [
+        {
+          "en": "My grandmother is seventy-eight, and last year she made a list. At the top she wrote: \"Things I have never done.\"",
+          "si": "මගේ ආච්චිට අවුරුදු හැත්තෑ අටයි, පහුගිය අවුරුද්දේ එයා ලැයිස්තුවක් හැදුවා. උඩින්ම ලිව්වා: \"මම කවදාවත් කරලා නැති දේවල්.\""
+        },
+        {
+          "en": "\"I have never been on a plane,\" the first line said. \"I have never eaten food I couldn't name. I have never sung in front of strangers.\"",
+          "si": "\"මම කවදාවත් ගුවන් යානයක නැගලා නෑ,\" පළමු පේළියේ තිබුණා. \"මම කවදාවත් නම දැනගන්න බැරි කෑමක් කාලා නෑ. මම කවදාවත් නොදන්නා අය ඉස්සරහ ගායනා කරලා නෑ.\""
+        },
+        {
+          "en": "\"Have you ever wanted to do any of these things?\" I asked her. \"All of them,\" she said. \"I just never had the time, or the money, or someone to go with.\"",
+          "si": "\"ඔබට කවදාහරි මේ දේවල් කරන්න ඕන වුණාද?\" මම ඇහුවා. \"ඒ හැම එකක්ම,\" එයා කිව්වා. \"මට කවදාවත් වෙලාවක්, සල්ලි, එක්ක යන්න කෙනෙක් හම්බ වුණේ නෑ විතරයි.\""
+        },
+        {
+          "en": "So we started. She has now flown on a plane twice — once to Jaffna, once back. She has eaten octopus, which she says she has never enjoyed and never will eat again.",
+          "si": "එහෙනම් අපි පටන් ගත්තා. දැන් එයා ගුවන් යානයකින් දෙපාරක් ගිහින් — එකපාරක් යාපනයට, එකපාරක් ආපහු. එයා දැල්ලා කාලා තියෙනවා, ඒක කවදාවත් රසවත් නොවුණා කියලා, ආපහු කවදාවත් කන්නේ නෑ කියලාත් එයා කියනවා."
+        },
+        {
+          "en": "Last month, at my cousin's wedding, she sang for the first time in her life, in front of two hundred people. She has never looked happier — not since I've known her, anyway.",
+          "si": "පහුගිය මාසේ, මගේ නෑනාගේ මංගල උත්සවයේදී, එයා ජීවිතේ පළමු වතාවට ගායනා කළා, මිනිස්සු දෙසීයක් ඉස්සරහ. එයා කවදාවත් මීට වඩා සතුටින් පේනවා දැක්කේ නෑ — අඩුම තරමින්, මම එයාව දැනගෙන හිටියේ ඉඳන්."
+        },
+        {
+          "en": "\"What's left on the list?\" I asked. \"Nothing,\" she said. \"So I'm making a new one.\" She has already written the first line: \"Things I want to do twice.\"",
+          "si": "\"ලැයිස්තුවේ ඉතුරු වෙලා තියෙන්නේ මොකක්ද?\" මම ඇහුවා. \"කිසිවක් නෑ,\" එයා කිව්වා. \"එනිසා මම අලුත් එකක් හදනවා.\" එයා දැනටමත් පළමු පේළිය ලියලා: \"මට දෙපාරක් කරන්න ඕන දේවල්.\""
+        }
+      ],
+      "glossary": [
+        {
+          "en": "stranger",
+          "si": "නොදන්නා කෙනා"
+        },
+        {
+          "en": "octopus",
+          "si": "දැල්ලා"
+        },
+        {
+          "en": "cousin",
+          "si": "නෑනා / මස්සිනා"
+        },
+        {
+          "en": "wedding",
+          "si": "මංගල උත්සවය"
+        },
+        {
+          "en": "since",
+          "si": "ඉඳන්"
+        },
+        {
+          "en": "left (remaining)",
+          "si": "ඉතුරු"
+        }
+      ],
+      "questionsSi": [
+        "ලැයිස්තුවේ ආච්චි ලිව්ව මුල් පේළි තුන කුමක්ද?",
+        "ආච්චිට ඒ දේවල් කරන්න ලැබුණේ නැත්තේ ඇයි?",
+        "දැල්ලා කෑමෙන් ආච්චිට දැනුණේ කොහොමද?",
+        "අන්තිම ඡේදයේ ආච්චිගේ අලුත් ලැයිස්තුවේ පළමු පේළිය මොකක්ද?"
+      ]
+    },
+    {
+      "type": "poem",
+      "title": "Things I Have Never Done",
+      "titleSi": "මම කවදාවත් කරලා නැති දේවල්",
+      "introSi": "have never / have you ever එකට එන කවියක්.",
+      "lines": [
+        {
+          "en": "I have never ridden a horse,",
+          "si": "මම කවදාවත් අශ්වයෙක් නැගලා නෑ,"
+        },
+        {
+          "en": "I have never sailed the sea.",
+          "si": "මම කවදාවත් මුහුදේ යාත්‍රා කරලා නෑ."
+        },
+        {
+          "en": "I have never learned to whistle —",
+          "si": "මම කවදාවත් හිස්ස ගහන්න ඉගෙන ගත්තේ නෑ —"
+        },
+        {
+          "en": "Small things, just not for me.",
+          "si": "පොඩි දේවල්, මට විතරක් නෑ."
+        },
+        {
+          "en": "",
+          "si": ""
+        },
+        {
+          "en": "But have you ever held a stranger's hand",
+          "si": "හැබැයි කවදාහරි ඔබ නොදන්නා කෙනෙකුගේ අත අල්ලලා"
+        },
+        {
+          "en": "Because they needed one?",
+          "si": "ඒ කෙනාට ඕන වුණ නිසා?"
+        },
+        {
+          "en": "I've done that more than I can count —",
+          "si": "මම ඒක ගණන් කරන්නවත් බැරි තරම් කරලා තියෙනවා —"
+        },
+        {
+          "en": "That's the list I'm proud I've run.",
+          "si": "ඒකයි මම ආඩම්බර වන ලැයිස්තුව."
+        }
+      ],
+      "noteSi": "'I have never ridden', 'have you ever held', 'I've done' — කවියේ දෙපැත්තෙන්ම present perfect, hasn't/have not one line."
+    },
+    {
+      "type": "dialogue",
+      "title": "Have you ever tried it?",
+      "titleSi": "ඔබ කවදාහරි උත්සාහ කරලා තියෙනවාද?",
+      "settingSi": "අත්දැකීම් ගැන කථා කිරීම. Have you ever / Did you වෙනස බලාගෙන කියවන්න.",
+      "lines": [
+        {
+          "speaker": "Dinali",
+          "en": "Have you ever eaten Korean food?",
+          "si": "ඔබ කවදාහරි කොරියානු කෑම කාලා තියෙනවාද?"
+        },
+        {
+          "speaker": "Ashan",
+          "en": "Yes, once. My sister made it for my birthday last year.",
+          "si": "ඔව්, එකපාරක්. ගිය අවුරුද්දේ මගේ උපන්දිනයට අක්කා හැදුවා."
+        },
+        {
+          "speaker": "Dinali",
+          "en": "Did you like it?",
+          "si": "ඔබට කැමති වුණාද?"
+        },
+        {
+          "speaker": "Ashan",
+          "en": "I loved it. Have you ever tried it?",
+          "si": "ගොඩක් ආසාවුණා. ඔබ කවදාහරි උත්සාහ කරලා තියෙනවාද?"
+        },
+        {
+          "speaker": "Dinali",
+          "en": "No, I never have. I've read about it, but I've never actually eaten any.",
+          "si": "නෑ, කවදාවත් කාලා නෑ. ඒ ගැන කියවලා තියෙනවා, හැබැයි කවදාවත් ඇත්තටම කාලා නෑ."
+        },
+        {
+          "speaker": "Ashan",
+          "en": "There's a new place near the station. We went there last Friday.",
+          "si": "දුම්රියපොළ ළඟ අලුත් තැනක් තියෙනවා. අපි ගිය සිකුරාදා ගියා."
+        },
+        {
+          "speaker": "Dinali",
+          "en": "Let's go this weekend, then. I've been wanting to try it for months.",
+          "si": "එහෙනම් මේ සති අන්තයේ යමු. මාස ගණනක් තිස්සේ මට ඕන වුණා උත්සාහ කරන්න."
+        }
+      ]
+    },
+    {
+      "type": "practice",
+      "title": "Write the past participle",
+      "titleSi": "past participle එක ලියන්න",
+      "instructionSi": "බොහෝ ක්‍රියාවලට past participle එක past tense එකම — කීපයක් විතරයි වෙනස්.",
+      "items": [
+        {
+          "prompt": "go → went → ___",
+          "answer": "gone",
+          "hintSi": "වෙනස් වෙන එකක්.",
+          "full": "I have never gone there."
+        },
+        {
+          "prompt": "eat → ate → ___",
+          "answer": "eaten",
+          "hintSi": "වෙනස් වෙන එකක්.",
+          "full": "Have you ever eaten octopus?"
+        },
+        {
+          "prompt": "make → made → ___",
+          "answer": "made",
+          "hintSi": "එකයි.",
+          "full": "She has made a list."
+        },
+        {
+          "prompt": "see → saw → ___",
+          "answer": "seen",
+          "hintSi": "වෙනස් වෙන එකක්.",
+          "full": "I have seen that film twice."
+        },
+        {
+          "prompt": "buy → bought → ___",
+          "answer": "bought",
+          "hintSi": "එකයි.",
+          "full": "Have you ever bought something you regretted?"
+        },
+        {
+          "prompt": "is/are → was/were → ___",
+          "answer": "been",
+          "hintSi": "be ක්‍රියාවේ තුන්වන ස්වරූපය.",
+          "full": "Have you ever been to Japan?"
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "en": "ever",
+      "si": "කවදාහරි"
+    },
+    {
+      "en": "never",
+      "si": "කවදාවත් නෑ"
+    },
+    {
+      "en": "before",
+      "si": "කලින්"
+    },
+    {
+      "en": "once",
+      "si": "එකපාරක්"
+    },
+    {
+      "en": "twice",
+      "si": "දෙපාරක්"
+    },
+    {
+      "en": "several times",
+      "si": "කිහිප වතාවක්"
+    },
+    {
+      "en": "abroad",
+      "si": "විදේශයක"
+    },
+    {
+      "en": "experience",
+      "si": "අත්දැකීම"
+    },
+    {
+      "en": "achievement",
+      "si": "ජයග්‍රහණය"
+    },
+    {
+      "en": "bucket list",
+      "si": "ලැයිස්තුව"
+    },
+    {
+      "en": "amazing",
+      "si": "පුදුමාකාර"
+    },
+    {
+      "en": "mountain",
+      "si": "කන්ද"
+    },
+    {
+      "en": "snow",
+      "si": "හිම"
+    },
+    {
+      "en": "stage",
+      "si": "වේදිකාව"
+    },
+    {
+      "en": "stranger",
+      "si": "නොදන්නා කෙනා"
+    },
+    {
+      "en": "wedding",
+      "si": "මංගල උත්සවය"
+    },
+    {
+      "en": "since",
+      "si": "ඉඳන්"
+    },
+    {
+      "en": "octopus",
+      "si": "දැල්ලා"
+    },
+    {
+      "en": "regret",
+      "si": "පසුතැවෙනවා"
+    },
+    {
+      "en": "proud",
+      "si": "ආඩම්බර"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "a2-10-q1",
+      "q": "'මම ඒ පොත දෙපාරක් කියෙව්වා' — present perfect එකෙන්?",
+      "options": [
+        "I read that book twice.",
+        "I have read that book twice.",
+        "I have reading that book twice.",
+        "I has read that book twice."
+      ],
+      "answer": 1,
+      "explainSi": "'have' + past participle 'read'.",
+      "speak": "I have read that book twice."
+    },
+    {
+      "id": "a2-10-q2",
+      "q": "'She ___ finished the book.' — නිවැරදි වචනය?",
+      "options": [
+        "have",
+        "has",
+        "having",
+        "is"
+      ],
+      "answer": 1,
+      "explainSi": "he/she/it සමඟ 'has'.",
+      "speak": "She has finished the book."
+    },
+    {
+      "id": "a2-10-q3",
+      "q": "'go' ක්‍රියාවේ past participle එක කුමක්ද?",
+      "options": [
+        "went",
+        "goed",
+        "gone",
+        "going"
+      ],
+      "answer": 2,
+      "explainSi": "go → went (past) → gone (past participle)."
+    },
+    {
+      "id": "a2-10-q4",
+      "q": "past participle එක past tense එකම වන ක්‍රියාවක් කුමක්ද?",
+      "options": [
+        "go",
+        "eat",
+        "made",
+        "see"
+      ],
+      "answer": 2,
+      "explainSi": "make → made → made — දෙකම එකයි. go/eat/see තුනම වෙනස් වෙනවා."
+    },
+    {
+      "id": "a2-10-q5",
+      "q": "'ඔබ කවදාහරි කන්දක් නැගලා තියෙනවාද?' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "Did you ever climb a mountain?",
+        "Have you ever climbed a mountain?",
+        "Have you never climbed a mountain?",
+        "Do you ever climb a mountain?"
+      ],
+      "answer": 1,
+      "explainSi": "අත්දැකීමක් ගැන අහද්දී 'Have you ever' + past participle.",
+      "speak": "Have you ever climbed a mountain?"
+    },
+    {
+      "id": "a2-10-q6",
+      "q": "'මම කවදාවත් හිම දැකලා නෑ' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "I never see snow.",
+        "I have never seen snow.",
+        "I don't never seen snow.",
+        "I have ever seen snow."
+      ],
+      "answer": 1,
+      "explainSi": "'never' + past participle 'seen'.",
+      "speak": "I have never seen snow."
+    },
+    {
+      "id": "a2-10-q7",
+      "q": "'Did you go to Japan?' සහ 'Have you ever been to Japan?' — වෙනස කුමක්ද?",
+      "options": [
+        "වෙනසක් නෑ",
+        "පළමුවැන්න නිශ්චිත එක් ගමනක් ගැන (දිනයක් ඇතුව), දෙවැන්න ජීවිතේ මුළු කාලයම ගැන (දිනයක් නැතුව)",
+        "දෙවැන්න වඩා ආචාරශීලීයි",
+        "පළමුවැන්න වැරදියි"
+      ],
+      "answer": 1,
+      "explainSi": "'Did you go?' = කවදාද? 'Have you ever been?' = කවදාහරි, කවදාද වැදගත් නෑ."
+    },
+    {
+      "id": "a2-10-q8",
+      "q": "'Did you go to Japan?' ප්‍රශ්නයට වඩාත් ගැළපෙන පිළිතුර?",
+      "options": [
+        "Yes, twice.",
+        "Yes, in 2019.",
+        "No, never.",
+        "Yes, I have."
+      ],
+      "answer": 1,
+      "explainSi": "'Did you' ප්‍රශ්නයට දිනයක් හෝ නිශ්චිත කාලයක් ගැළපෙනවා."
+    },
+    {
+      "id": "a2-10-q9",
+      "q": "'She has gone to London' සහ 'She has been to London' — වෙනස කුමක්ද?",
+      "options": [
+        "වෙනසක් නෑ",
+        "'gone' — දැන් එතන ඉන්නවා. 'been' — ගිහින් ආපහු ආවා, අත්දැකීමක්",
+        "'been' — දැන් එතන ඉන්නවා",
+        "දෙකම වැරදියි"
+      ],
+      "answer": 1,
+      "explainSi": "'Have you ever gone?' අමුතුයි, මොකද 'gone' කියන්නේ තාමත් එතන කියලා."
+    },
+    {
+      "id": "a2-10-q10",
+      "q": "'Have you ever been to Japan?' ප්‍රශ්නයට 'in 2019' කියලා පිළිතුරු දෙන්න පුළුවන්ද?",
+      "options": [
+        "ඔව්, පුළුවන්",
+        "බෑ — 'Have you ever' සමඟ නිශ්චිත දිනයක් යෙදෙන්නේ නෑ",
+        "සමහර වෙලාවට",
+        "ප්‍රශ්නය වැරදියි"
+      ],
+      "answer": 1,
+      "explainSi": "දිනයක් අවශ්‍ය නම් 'Did you go?' අහන්න ඕන. 'Have you ever' සමඟ දිනයක් ගැළපෙන්නේ නෑ."
+    },
+    {
+      "id": "a2-10-q11",
+      "context": "My grandmother is seventy-eight, and last year she made a list. At the top she wrote: \"Things I have never done.\"",
+      "contextSi": "මගේ ආච්චිට අවුරුදු හැත්තෑ අටයි, පහුගිය අවුරුද්දේ එයා ලැයිස්තුවක් හැදුවා. උඩින්ම ලිව්වා: \"මම කවදාවත් කරලා නැති දේවල්.\"",
+      "q": "කතාව අනුව: ආච්චි ලැයිස්තුව ලිව්වේ කවදාද?",
+      "options": [
+        "ගිය සතියේ",
+        "ගිය අවුරුද්දේ",
+        "ඊයේ",
+        "අවුරුදු හැත්තෑ අටකට කලින්"
+      ],
+      "answer": 1,
+      "explainSi": "'last year she made a list.'"
+    },
+    {
+      "id": "a2-10-q12",
+      "context": "\"I have never been on a plane,\" the first line said. \"I have never eaten food I couldn't name. I have never sung in front of strangers.\"",
+      "contextSi": "\"මම කවදාවත් ගුවන් යානයක නැගලා නෑ,\" පළමු පේළියේ තිබුණා. \"මම කවදාවත් නම දැනගන්න බැරි කෑමක් කාලා නෑ. මම කවදාවත් නොදන්නා අය ඉස්සරහ ගායනා කරලා නෑ.\"",
+      "q": "කතාව අනුව: ලැයිස්තුවේ මුල් පේළි තුනෙන් කියවෙන්නේ මොකක්ද?",
+      "options": [
+        "ආච්චි කරන්න ඕන දේවල්",
+        "ආච්චි කවදාවත් කරලා නැති දේවල්",
+        "ආච්චි කලින් කරපු දේවල්",
+        "ආච්චිට කරන්න බැරි දේවල්"
+      ],
+      "answer": 1,
+      "explainSi": "ලැයිස්තුවේ මාතෘකාවම 'Things I have never done'."
+    },
+    {
+      "id": "a2-10-q13",
+      "context": "\"Have you ever wanted to do any of these things?\" I asked her. \"All of them,\" she said. \"I just never had the time, or the money, or someone to go with.\"",
+      "contextSi": "\"ඔබට කවදාහරි මේ දේවල් කරන්න ඕන වුණාද?\" මම ඇහුවා. \"ඒ හැම එකක්ම,\" එයා කිව්වා. \"මට කවදාවත් වෙලාවක්, සල්ලි, එක්ක යන්න කෙනෙක් හම්බ වුණේ නෑ විතරයි.\"",
+      "q": "කතාව අනුව: ආච්චිට ඒ දේවල් කරන්න ලැබුණේ නැත්තේ ඇයි?",
+      "options": [
+        "එයාට කැමති නොවූ නිසා",
+        "වෙලාවක්, සල්ලි, එක්ක යන්න කෙනෙක් නැති නිසා",
+        "එයාට බැරි වූ නිසා",
+        "එයාට වයස වැඩි නිසා"
+      ],
+      "answer": 1,
+      "explainSi": "'I just never had the time, or the money, or someone to go with.'"
+    },
+    {
+      "id": "a2-10-q14",
+      "context": "She has eaten octopus, which she says she has never enjoyed and never will eat again.",
+      "contextSi": "එයා දැල්ලා කාලා තියෙනවා, ඒක කවදාවත් රසවත් නොවුණා කියලා, ආපහු කවදාවත් කන්නේ නෑ කියලාත් එයා කියනවා.",
+      "q": "කතාව අනුව: ආච්චිට දැල්ලා කැමති වුණාද?",
+      "options": [
+        "ඔව්, ගොඩක්",
+        "නෑ, කවදාවත් රසවත් වුණේ නෑ",
+        "එයා දැල්ලා කාලවත් නෑ",
+        "දන්නේ නෑ"
+      ],
+      "answer": 1,
+      "explainSi": "'she says she has never enjoyed' — රසවත් වුණේ නෑ."
+    },
+    {
+      "id": "a2-10-q15",
+      "context": "Last month, at my cousin's wedding, she sang for the first time in her life, in front of two hundred people. She has never looked happier — not since I've known her, anyway.",
+      "contextSi": "පහුගිය මාසේ, මගේ නෑනාගේ මංගල උත්සවයේදී, එයා ජීවිතේ පළමු වතාවට ගායනා කළා, මිනිස්සු දෙසීයක් ඉස්සරහ. එයා කවදාවත් මීට වඩා සතුටින් පේනවා දැක්කේ නෑ — අඩුම තරමින්, මම එයාව දැනගෙන හිටියේ ඉඳන්.",
+      "q": "කතාව අනුව: ආච්චි ගායනා කළේ කවදාද, කී දෙනෙක් ඉස්සරහද?",
+      "options": [
+        "ගිය සතියේ, දහයක් ඉස්සරහ",
+        "ගිය මාසේ, දෙසීයක් ඉස්සරහ",
+        "අවුරුදු ගණනකට කලින්, එක්කෙනෙක් ඉස්සරහ",
+        "අදම, පන්සියයක් ඉස්සරහ"
+      ],
+      "answer": 1,
+      "explainSi": "'Last month … in front of two hundred people.'"
+    },
+    {
+      "id": "a2-10-q16",
+      "context": "\"What's left on the list?\" I asked. \"Nothing,\" she said. \"So I'm making a new one.\" She has already written the first line: \"Things I want to do twice.\"",
+      "contextSi": "\"ලැයිස්තුවේ ඉතුරු වෙලා තියෙන්නේ මොකක්ද?\" මම ඇහුවා. \"කිසිවක් නෑ,\" එයා කිව්වා. \"එනිසා මම අලුත් එකක් හදනවා.\" එයා දැනටමත් පළමු පේළිය ලියලා: \"මට දෙපාරක් කරන්න ඕන දේවල්.\"",
+      "q": "කතාව අනුව: ආච්චිගේ අලුත් ලැයිස්තුවේ තේමාව කුමක්ද?",
+      "options": [
+        "කවදාවත් කරලා නැති දේවල්",
+        "දෙපාරක් කරන්න ඕන දේවල්",
+        "කරන්න ඕන නැති දේවල්",
+        "දුප්පත් දේවල්"
+      ],
+      "answer": 1,
+      "explainSi": "'Things I want to do twice.' — පළමු ලැයිස්තුව ඉවර වුණාට පස්සේ, ජීවිතේ දිගටම කරගෙන යන ආකල්පයක්."
+    },
+    {
+      "id": "a2-10-q17",
+      "context": "I have never ridden a horse, / I have never sailed the sea. / I have never learned to whistle — / Small things, just not for me.",
+      "contextSi": "මම කවදාවත් අශ්වයෙක් නැගලා නෑ, / මම කවදාවත් මුහුදේ යාත්‍රා කරලා නෑ. / මම කවදාවත් හිස්ස ගහන්න ඉගෙන ගත්තේ නෑ — / පොඩි දේවල්, මට විතරක් නෑ.",
+      "q": "කවියේ පළමු කොටසේ ලැයිස්තුව කුමක් ගැනද?",
+      "options": [
+        "කථකයා කරපු දේවල්",
+        "කථකයා කවදාවත් කරලා නැති, කුඩා දේවල්",
+        "කථකයාට කරන්න බැරි දේවල්",
+        "කථකයාගේ බලාපොරොත්තු"
+      ],
+      "answer": 1,
+      "explainSi": "'I have never ridden … sailed … learned' — කුඩා, එහෙත් කවදාවත් නොකළ දේවල්."
+    },
+    {
+      "id": "a2-10-q18",
+      "context": "But have you ever held a stranger's hand / Because they needed one? / I've done that more than I can count — / That's the list I'm proud I've run.",
+      "contextSi": "හැබැයි කවදාහරි ඔබ නොදන්නා කෙනෙකුගේ අත අල්ලලා / ඒ කෙනාට ඕන වුණ නිසා? / මම ඒක ගණන් කරන්නවත් බැරි තරම් කරලා තියෙනවා — / ඒකයි මම ආඩම්බර වන ලැයිස්තුව.",
+      "q": "කවියේ දෙවෙනි කොටසේ අදහස කුමක්ද?",
+      "options": [
+        "පොඩි දේවල් නොකිරීම ගැන කනගාටුයි",
+        "නොකළ දේවල්වලට වඩා, කළ කරුණාවන්ත දේවල් ගැන ආඩම්බරයි",
+        "එයාට යාළුවෝ ගොඩක්",
+        "එයා අශ්වයෙක් නැගලා තියෙනවා"
+      ],
+      "answer": 1,
+      "explainSi": "'That's the list I'm proud I've run' — නොකළ පොඩි දේවල්වලට වඩා, කරපු කරුණාවන්ත දේවල් වැදගත්."
+    },
+    {
+      "id": "a2-10-q19",
+      "context": "Dinali: No, I never have. I've read about it, but I've never actually eaten any.",
+      "contextSi": "දිනාලි: නෑ, කවදාවත් කාලා නෑ. ඒ ගැන කියවලා තියෙනවා, හැබැයි කවදාවත් ඇත්තටම කාලා නෑ.",
+      "q": "සංවාදයේ: දිනාලි කොරියානු කෑම ගැන දන්නවාද?",
+      "options": [
+        "නෑ, කිසිවක් දන්නේ නෑ",
+        "ඔව්, කියවලා තියෙනවා, හැබැයි කාලා නෑ",
+        "ඔව්, කාලත් තියෙනවා",
+        "එයාට කැමති නෑ"
+      ],
+      "answer": 1,
+      "explainSi": "'I've read about it, but I've never actually eaten any.' — දැනුම තියෙනවා, අත්දැකීම නෑ."
+    },
+    {
+      "id": "a2-10-q20",
+      "context": "Ashan: There's a new place near the station. We went there last Friday.\nDinali: Let's go this weekend, then. I've been wanting to try it for months.",
+      "contextSi": "අශාන්: දුම්රියපොළ ළඟ අලුත් තැනක් තියෙනවා. අපි ගිය සිකුරාදා ගියා.\nදිනාලි: එහෙනම් මේ සති අන්තයේ යමු. මාස ගණනක් තිස්සේ මට ඕන වුණා උත්සාහ කරන්න.",
+      "q": "සංවාදයේ: 'We went there last Friday' සහ 'I've been wanting … for months' — කාල දෙකේ වෙනස කුමක්ද?",
+      "options": [
+        "වෙනසක් නෑ",
+        "පළමුවැන්න නිශ්චිත එක් දිනයක්, දෙවැන්න මාස ගණනක් තිස්සේ දිගටම තියෙන ආශාවක්",
+        "පළමුවැන්න වැරදියි",
+        "දෙකම එකම දෙයක්"
+      ],
+      "answer": 1,
+      "explainSi": "'last Friday' — දිනයක් සහිත සරල අතීතය. 'I've been wanting … for months' — දිගටම තියෙන දෙයක්."
+    },
+    {
+      "id": "a2-10-q21",
+      "q": "කුමන වාක්‍යය වැරදිද?",
+      "options": [
+        "I have never seen snow.",
+        "Have you ever climbed a mountain?",
+        "She have finished the book.",
+        "They have seen that film."
+      ],
+      "answer": 2,
+      "explainSi": "'She has finished the book' විය යුතුයි — he/she/it සමඟ 'has'."
+    },
+    {
+      "id": "a2-10-q22",
+      "q": "'ඔබේ අම්මා කවදාහරි කොළඹට ගිහින් තියෙනවාද?' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "Has your mother ever gone to Colombo?",
+        "Has your mother ever been to Colombo?",
+        "Did your mother ever been to Colombo?",
+        "Has your mother ever go to Colombo?"
+      ],
+      "answer": 1,
+      "explainSi": "අත්දැකීමක් ගැන — 'been to', 'gone to' නෙවෙයි.",
+      "speak": "Has your mother ever been to Colombo?"
+    }
+  ]
+}

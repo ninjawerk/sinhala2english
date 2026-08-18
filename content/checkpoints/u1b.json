@@ -1,0 +1,112 @@
+{
+  "quiz": [
+    {
+      "id": "u1b-cp-q1",
+      "q": "'මට උදේ හතට නැගිටින්න ඕන.' — 'at' ද 'in' ද 'on' ද?",
+      "options": ["at seven", "in seven", "on seven", "seven at"],
+      "answer": 0,
+      "explainSi": "නිශ්චිත වේලාවක් සමඟ 'at' භාවිතා කරනවා — 'at seven'.",
+      "speak": "I get up at seven."
+    },
+    {
+      "id": "u1b-cp-q2",
+      "q": "'in the morning' සහ 'on Monday' — 'in' සහ 'on' භාවිතා කරන්නේ මොනවා සමඟද?",
+      "options": [
+        "'in' — දවසේ කොටස්, 'on' — නිශ්චිත දින",
+        "'in' — නිශ්චිත දින, 'on' — දවසේ කොටස්",
+        "දෙකම එකම දේ සමඟ",
+        "දෙකම වේලාවන් සමඟ"
+      ],
+      "answer": 0,
+      "explainSi": "'in the morning/evening' (කොටස්), 'on Monday/my birthday' (නිශ්චිත දින)."
+    },
+    {
+      "id": "u1b-cp-q3",
+      "q": "'ජනවාරි' — ඉංග්‍රීසියෙන්?",
+      "options": ["June", "January", "July", "December"],
+      "answer": 1,
+      "explainSi": "'January' — වසරේ පළමු මාසය.",
+      "speak": "January"
+    },
+    {
+      "id": "u1b-cp-q4",
+      "q": "'කාමරයේ මේසයක් තියෙනවා.' — 'there is' ද 'there are' ද?",
+      "options": ["There is a table.", "There are a table.", "There a table is.", "Is there a table."],
+      "answer": 0,
+      "explainSi": "'a table' ඒකවචනයක් — 'there is'.",
+      "speak": "There is a table in the room."
+    },
+    {
+      "id": "u1b-cp-q5",
+      "q": "'කාමරයේ පුටු තුනක් තියෙනවා.' — 'there is' ද 'there are' ද?",
+      "options": ["There is three chairs.", "There are three chairs.", "There chairs are three.", "Three chairs there is."],
+      "answer": 1,
+      "explainSi": "'three chairs' බහුවචනයක් — 'there are'.",
+      "speak": "There are three chairs in the room."
+    },
+    {
+      "id": "u1b-cp-q6",
+      "q": "'rice' (බත්) ගණන් කළ හැකි (countable) ද, ගණන් කළ නොහැකි (uncountable) ද?",
+      "options": ["Countable", "Uncountable", "දෙකම", "කිසිවක් නෙවෙයි"],
+      "answer": 1,
+      "explainSi": "'rice' — uncountable, තනි 'rice' කැබැල්ලක් ගැන කථා කරන්නේ නෑ."
+    },
+    {
+      "id": "u1b-cp-q7",
+      "q": "'මට කෑමට කෑලි කීයක් ඕනද?' — 'How much' ද 'How many' ද?",
+      "options": ["How much apples do you want?", "How many apples do you want?", "How much apple you want?", "How many apple want you?"],
+      "answer": 1,
+      "explainSi": "'apples' countable, බහුවචනයෙන් — 'How many'.",
+      "speak": "How many apples do you want?"
+    },
+    {
+      "id": "u1b-cp-q8",
+      "q": "'මට ටිකක් වතුර ඕන.' — 'some' ද 'any' ද?",
+      "options": ["I'd like some water.", "I'd like any water.", "I'd like a water.", "I'd like waters."],
+      "answer": 0,
+      "explainSi": "ධනාත්මක වාක්‍යවල 'some' භාවිතා කරනවා — 'I'd like some water.'",
+      "speak": "I'd like some water, please."
+    },
+    {
+      "id": "u1b-cp-q9",
+      "q": "'මේ ෂර්ට් එක' (ළඟ තියෙන එකක්) — 'this' ද 'that' ද?",
+      "options": ["this shirt", "that shirt", "these shirt", "those shirt"],
+      "answer": 0,
+      "explainSi": "ළඟින් තියෙන එකකට 'this' (ඒකවචන) භාවිතා කරනවා.",
+      "speak": "I like this shirt."
+    },
+    {
+      "id": "u1b-cp-q10",
+      "q": "'ඒ ජූතා' (දුරින් තියෙන, බහුවචන) — 'this' ද 'those' ද?",
+      "options": ["this shoes", "that shoes", "these shoes", "those shoes"],
+      "answer": 3,
+      "explainSi": "දුරින් තියෙන බහුවචන දේවලට 'those' භාවිතා කරනවා.",
+      "speak": "I like those shoes."
+    },
+    {
+      "id": "u1b-cp-q11",
+      "q": "'a big red bag' — නිවැරදි නාම විශේෂණ පිළිවෙළ භාවිතා වෙලාද?",
+      "options": [
+        "ඔව්, ප්‍රමාණය (big) වර්ණයට (red) කලින් එනවා",
+        "නෑ, වර්ණය ප්‍රමාණයට කලින් එන්න ඕන",
+        "පිළිවෙළ වැදගත් නෑ",
+        "දෙකම එකට එන්නම බෑ"
+      ],
+      "answer": 0,
+      "explainSi": "ඉංග්‍රීසියේ නාම විශේෂණ පිළිවෙළ: ප්‍රමාණය → වර්ණය → නාමය."
+    },
+    {
+      "id": "u1b-cp-q12",
+      "q": "'මේසයේ ඇපල් තුනක් තියෙනවා.' — 'there is/are' සහ 'countable' දෙකම යොදාගෙන කියන්නේ කොහොමද?",
+      "options": [
+        "There is three apples on the table.",
+        "There are three apples on the table.",
+        "There are three apple on the table.",
+        "There is three apple on the table."
+      ],
+      "answer": 1,
+      "explainSi": "'apples' බහුවචනයක්, ගණන් කළ හැකි නිසා — 'there are' + 'apples' (s සහිතව).",
+      "speak": "There are three apples on the table."
+    }
+  ]
+}

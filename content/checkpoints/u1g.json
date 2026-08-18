@@ -1,0 +1,89 @@
+{
+  "quiz": [
+    {
+      "id": "u1g-cp-q1",
+      "q": "'මට හෙට වැඩට යන්න ඕන.' — ඉංග්‍රීසියෙන්?",
+      "options": ["I must work tomorrow.", "I have to work tomorrow.", "I has to work tomorrow.", "I working tomorrow."],
+      "answer": 1,
+      "explainSi": "'I have to + verb' — 'I' සමඟ 'have to'.",
+      "speak": "I have to work tomorrow."
+    },
+    {
+      "id": "u1g-cp-q2",
+      "q": "'She ___ wake up early.' — 'have to' ද 'has to' ද?",
+      "options": ["have to", "has to", "having to", "haves to"],
+      "answer": 1,
+      "explainSi": "'he/she/it' සමඟ 'has to'."
+    },
+    {
+      "id": "u1g-cp-q3",
+      "q": "'මෙතන park කරන්න එපා.' — ඉංග්‍රීසියෙන්?",
+      "options": ["You don't have to park here.", "You must not park here.", "You have to park here.", "You not park here."],
+      "answer": 1,
+      "explainSi": "'must not' — දැඩි නීතියක්, තහනමක්.",
+      "speak": "You must not park here."
+    },
+    {
+      "id": "u1g-cp-q4",
+      "q": "'You don't have to come to the party' සහ 'You must not come to the party' — වෙනස කුමක්ද?",
+      "options": [
+        "පළමුවැන්න — ආවත් නෑවත් කැමති නම්, දෙවැන්න — කිසිසේත් එන්න එපා",
+        "වෙනසක් නෑ, දෙකම එකම අර්ථය",
+        "දෙකම 'එන්න එපා' කියන එකයි",
+        "පළමුවැන්න වඩා තදින් තහනම්"
+      ],
+      "answer": 0,
+      "explainSi": "'don't have to' — ආචාරශීලීව, බැඳීමක් නෑ. 'must not' — කිසිසේත් එන්න එපා, තහනම්."
+    },
+    {
+      "id": "u1g-cp-q5",
+      "q": "'ඇයට හෙට රැස්වීමට එන්න ඕන නෑ.' — ඉංග්‍රීසියෙන්?",
+      "options": ["She must not come to the meeting tomorrow.", "She doesn't have to come to the meeting tomorrow.", "She has to come to the meeting tomorrow.", "She not come to the meeting tomorrow."],
+      "answer": 1,
+      "explainSi": "'doesn't have to' — 'she' සමඟ, බැඳීමක් නැති බව.",
+      "speak": "She doesn't have to come to the meeting tomorrow."
+    },
+    {
+      "id": "u1g-cp-q6",
+      "q": "'No smoking' වගේ සංඥාවක් දකින්නේ කොහෙද?",
+      "options": ["රැකියා ස්ථාන, පොදු ස්ථාන", "ගෙදර විතරයි", "පාසැල් පොත්වල විතරයි", "කිසි තැනකවත් නෑ"],
+      "answer": 0,
+      "explainSi": "'No smoking', 'Must wear a helmet' වගේ සංඥා පොදු ස්ථානවල, රැකියා ස්ථානවල දකින්න ලැබෙනවා."
+    },
+    {
+      "id": "u1g-cp-q7",
+      "q": "'Children must not swim without an adult.' — 'must not' කියන්නෙන් අදහස් වන්නේ?",
+      "options": ["අනිවාර්යයි", "එය සම්පූර්ණයෙන්ම තහනම්, ආරක්ෂාව නිසා", "අත්‍යවශ්‍ය නෑ", "යෝජනාවක් විතරයි"],
+      "answer": 1,
+      "explainSi": "'must not' — ආරක්ෂිත හේතුවක් නිසා තහනම්, මෙතන ළමයින්ට තනියම පිහිනීම."
+    },
+    {
+      "id": "u1g-cp-q8",
+      "q": "'ඉරිදාවලට වැඩට යන්න ඕනද?' — ප්‍රශ්නය?",
+      "options": ["Do you have to work on Sundays?", "You have to work on Sundays?", "Must you working on Sundays?", "Have you to work on Sundays?"],
+      "answer": 0,
+      "explainSi": "'Do you have to...?' — 'do' සමඟ ප්‍රශ්නය හදනවා.",
+      "speak": "Do you have to work on Sundays?"
+    },
+    {
+      "id": "u1g-cp-q9",
+      "q": "'ළමයි එතන ක්‍රීඩා කරන්න එපා — රිය පාරක්.' — ඉංග්‍රීසියෙන්?",
+      "options": ["Children don't have to play there — it's a road.", "Children must not play there — it's a road.", "Children have to play there — it's a road.", "Children play there — it's a road."],
+      "answer": 1,
+      "explainSi": "'must not' — ආරක්ෂාව සඳහා තහනමක්.",
+      "speak": "Children must not play there — it's a road."
+    },
+    {
+      "id": "u1g-cp-q10",
+      "q": "'She has to work today, but she doesn't have to work tomorrow.' — මේ වාක්‍යයේ 'has to' සහ 'doesn't have to' දෙකම නිවැරදිද?",
+      "options": [
+        "ඔව් — අද අනිවාර්ය, හෙට අනිවාර්ය නෑ, දෙකම විවිධ දවස් ගැන",
+        "නෑ, දෙකම එකම දෙයක් කියනවා",
+        "නෑ, 'has to' වැරදියි",
+        "නෑ, 'doesn't have to' වැරදියි"
+      ],
+      "answer": 0,
+      "explainSi": "'has to' (අද, අනිවාර්ය) සහ 'doesn't have to' (හෙට, අනිවාර්ය නෑ) — දෙකම එකම වාක්‍යයේදී විවිධ දවස් ගැන කථා කරනවා."
+    }
+  ]
+}

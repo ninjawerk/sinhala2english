@@ -1,0 +1,856 @@
+{
+  "hero": {
+    "src": "images/a1-09-hero.webp",
+    "alt": "Ruwan standing in a kitchen early in the morning pouring tea into a cup before work, fully dressed with a shoulder bag on the counter beside him, sunlight through the window, clock on the wall."
+  },
+  "goalsSi": [
+    "දිනපතා පුරුදු ගැන කථා කිරීමට present simple භාවිතය",
+    "he / she / it සමඟ ක්‍රියාවට -s එකතු කිරීම",
+    "-s එකතු කරද්දී අක්ෂර වින්‍යාසය (goes, watches, studies)",
+    "දිනචරියාව විස්තර කරන වචන"
+  ],
+  "goals": [
+    "Talk about habits and routines",
+    "Add -s for he, she and it",
+    "Spell that -s correctly",
+    "Describe your day"
+  ],
+  "sections": [
+    {
+      "type": "note",
+      "title": "One letter that changes everything",
+      "titleSi": "සියල්ල වෙනස් කරන එක අකුරක්",
+      "bodySi": "සිංහලෙන් 'මම කනවා', 'එයා කනවා' — ක්‍රියා පදය වෙනස් වෙන්නේ නෑ. ඉංග්‍රීසියෙන් නම් වෙනස් වෙනවා: 'I eat' නමුත් 'He eats'.\n\nමේ පොඩි '-s' එක සිංහල කථා කරන අය නිතරම අමතක කරනවා. 'She go to school' කියලා කිව්වම තේරෙනවා, හැබැයි එය වැරදියි — සහ ලියද්දී එය පැහැදිලිව පේනවා.\n\nනීතිය එකයි: he, she, it සමඟ ක්‍රියාවට -s එකතු කරන්න. අනිත් හැම එකකටම කිසිවක් එකතු කරන්නේ නෑ. මේ පාඩම මුළුමනින්ම ඒ එක අකුර ගැනයි — මොකද එය නිතරම වරදින නිසා.",
+      "body": "Add -s to the verb for he, she and it. Nothing changes for the others."
+    },
+    {
+      "type": "grammar",
+      "title": "The present simple",
+      "titleSi": "Present simple",
+      "explainSi": "දිනපතා කරන දේ, පුරුදු, සහ හැම විටම සත්‍ය දේ කියන්න මේ කාලය භාවිත කරනවා. වගුව හොඳින් බලන්න — වෙනස් වෙන්නේ පේළි තුනක් විතරයි.",
+      "formula": "I / you / we / they + verb  ·  he / she / it + verb + s",
+      "table": {
+        "headers": [
+          "සර්වනාමය",
+          "ක්‍රියාව",
+          "උදාහරණය",
+          "සිංහල"
+        ],
+        "rows": [
+          [
+            "I",
+            "work",
+            "I work in an office.",
+            "මම කාර්යාලයක වැඩ කරනවා."
+          ],
+          [
+            "You",
+            "work",
+            "You work very hard.",
+            "ඔබ ගොඩක් වෙහෙසෙනවා."
+          ],
+          [
+            "He",
+            "works",
+            "He works at a bank.",
+            "එයා බැංකුවක වැඩ කරනවා."
+          ],
+          [
+            "She",
+            "works",
+            "She works from home.",
+            "එයා ගෙදර ඉඳන් වැඩ කරනවා."
+          ],
+          [
+            "It",
+            "works",
+            "It works well.",
+            "එය හොඳට වැඩ කරනවා."
+          ],
+          [
+            "We",
+            "work",
+            "We work together.",
+            "අපි එකට වැඩ කරනවා."
+          ],
+          [
+            "They",
+            "work",
+            "They work at night.",
+            "ඔවුන් රෑට වැඩ කරනවා."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "My father drinks tea every morning.",
+          "si": "මගේ තාත්තා හැම උදෙන්ම තේ බොනවා."
+        },
+        {
+          "en": "The shop opens at eight and closes at six.",
+          "si": "කඩේ අටට අරිනවා, හයට වහනවා."
+        },
+        {
+          "en": "Children need eight hours of sleep.",
+          "si": "ළමයින්ට පැය අටක නින්දක් ඕන."
+        },
+        {
+          "en": "Water boils at one hundred degrees.",
+          "si": "වතුර අංශක සීයකදී නටනවා."
+        }
+      ],
+      "watchOutSi": "'She work' සහ 'He go' — මේවා නිතරම වරදින තැන්. ලියලා ඉවර වුණාම he/she/it තියෙන හැම වාක්‍යයක්ම ආපහු බලලා -s තියෙනවාද කියලා පරීක්ෂා කරන්න."
+    },
+    {
+      "type": "grammar",
+      "title": "Spelling the -s",
+      "titleSi": "-s එකේ අක්ෂර වින්‍යාසය",
+      "explainSi": "බොහෝ ක්‍රියාවලට -s එකතු කරනවා පමණයි. නමුත් ක්‍රියාව අවසන් වෙන අකුර අනුව කුඩා වෙනස්කම් තුනක් තියෙනවා.",
+      "formula": "verb + s  ·  -ch/-sh/-ss/-x/-o → +es  ·  consonant + y → -ies",
+      "table": {
+        "headers": [
+          "නීතිය",
+          "ක්‍රියාව",
+          "he / she / it"
+        ],
+        "rows": [
+          [
+            "සාමාන්‍ය",
+            "eat, work, play",
+            "eats, works, plays"
+          ],
+          [
+            "-ch, -sh, -ss, -x, -o → es",
+            "watch, wash, go, do",
+            "watches, washes, goes, does"
+          ],
+          [
+            "ව්‍යාංජනයක් + y → ies",
+            "study, carry, cry",
+            "studies, carries, cries"
+          ],
+          [
+            "ස්වරයක් + y → s පමණයි",
+            "play, buy, say",
+            "plays, buys, says"
+          ],
+          [
+            "අවිධිමත්",
+            "have",
+            "has"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "She studies English every evening.",
+          "si": "එයා හැම හවසකම ඉංග්‍රීසි ඉගෙන ගන්නවා."
+        },
+        {
+          "en": "He watches the news at nine.",
+          "si": "එයා නවයට ප්‍රවෘත්ති බලනවා."
+        },
+        {
+          "en": "My brother has two children.",
+          "si": "මගේ අයියාට ළමයි දෙන්නෙක් ඉන්නවා."
+        },
+        {
+          "en": "The bus goes to Kandy every hour.",
+          "si": "බස් එක හැම පැයකම මහනුවරට යනවා."
+        }
+      ],
+      "watchOutSi": "'study' → 'studies' නමුත් 'play' → 'plays'. වෙනස තියෙන්නේ y යට කලින් තියෙන අකුරේ: ව්‍යාංජනයක් නම් ies, ස්වරයක් නම් s පමණයි."
+    },
+    {
+      "type": "vocab",
+      "title": "A day in words",
+      "titleSi": "දවසක් වචනවලින්",
+      "items": [
+        {
+          "en": "wake up",
+          "si": "නැගිටිනවා",
+          "say": "වේක් අප්",
+          "exampleEn": "I wake up at five thirty.",
+          "exampleSi": "මම පහ හමාරට නැගිටිනවා."
+        },
+        {
+          "en": "get up",
+          "si": "ඇඳෙන් නැගිටිනවා",
+          "say": "ගෙට් අප්"
+        },
+        {
+          "en": "have a shower",
+          "si": "නානවා",
+          "say": "හැව් අ ෂවර්"
+        },
+        {
+          "en": "brush",
+          "si": "මදිනවා",
+          "say": "බ්‍රෂ්",
+          "exampleEn": "She brushes her teeth twice a day.",
+          "exampleSi": "එයා දවසට දෙපාරක් දත් මදිනවා."
+        },
+        {
+          "en": "leave",
+          "si": "පිටත් වෙනවා",
+          "say": "ලීව්",
+          "exampleEn": "He leaves the house at seven.",
+          "exampleSi": "එයා හතට ගෙදරින් පිටත් වෙනවා."
+        },
+        {
+          "en": "arrive",
+          "si": "පැමිණෙනවා",
+          "say": "අරයිව්"
+        },
+        {
+          "en": "start",
+          "si": "පටන් ගන්නවා",
+          "say": "ස්ටාට්"
+        },
+        {
+          "en": "finish",
+          "si": "අවසන් කරනවා",
+          "say": "ෆිනිෂ්",
+          "exampleEn": "Work finishes at five.",
+          "exampleSi": "වැඩ පහට ඉවරයි."
+        },
+        {
+          "en": "study",
+          "si": "ඉගෙන ගන්නවා",
+          "say": "ස්ටඩි"
+        },
+        {
+          "en": "cook",
+          "si": "උයනවා",
+          "say": "කුක්"
+        },
+        {
+          "en": "watch",
+          "si": "බලනවා",
+          "say": "වොච්"
+        },
+        {
+          "en": "read",
+          "si": "කියවනවා",
+          "say": "රීඩ්"
+        },
+        {
+          "en": "walk",
+          "si": "ඇවිදිනවා",
+          "say": "වෝක්"
+        },
+        {
+          "en": "catch the bus",
+          "si": "බස් එකට නගිනවා",
+          "say": "කැච් ද බස්"
+        },
+        {
+          "en": "go to bed",
+          "si": "නිදාගන්න යනවා",
+          "say": "ගෝ ටු බෙඩ්"
+        },
+        {
+          "en": "every day",
+          "si": "හැම දාම",
+          "say": "එව්රි ඩේ"
+        },
+        {
+          "en": "early",
+          "si": "උදෙන්ම",
+          "say": "අර්ලි"
+        },
+        {
+          "en": "late",
+          "si": "පරක්කු",
+          "say": "ලේට්"
+        }
+      ]
+    },
+    {
+      "type": "story",
+      "title": "Malli's Ordinary Tuesday",
+      "titleSi": "මල්ලිගේ සාමාන්‍ය අඟහරුවාදාව",
+      "introSi": "මුළු කතාවම එක් අයෙක් ගැන — එනිසා නොනවත්වාම '-s' යෙදෙනවා. කියවද්දී ඒවා ගණන් කරන්න උත්සාහ කරන්න.",
+      "paragraphs": [
+        {
+          "en": "My younger brother Malli works at a small hotel near the beach. His day starts long before mine, because he catches the first bus of the morning.",
+          "si": "මගේ මල්ලි මුහුද ළඟ පොඩි හෝටලයක වැඩ කරනවා. එයා උදේ පළමු බස් එකට නගින නිසා, එයාගේ දවස මගේ දවසට වඩා ගොඩක් කලින් පටන් ගන්නවා."
+        },
+        {
+          "en": "He wakes up at half past four and has a cold shower. He does not eat breakfast at home; he buys a bun at the bus stand instead.",
+          "si": "එයා හතරහමාරට නැගිටලා සීතල වතුරෙන් නානවා. එයා ගෙදර උදේ කෑම කන්නේ නෑ; ඒ වෙනුවට බස් නැවතුමෙන් බනිස් එකක් ගන්නවා."
+        },
+        {
+          "en": "The hotel opens at six. Malli carries bags, answers questions, and shows visitors their rooms. He speaks English all day.",
+          "si": "හෝටලය හයට අරිනවා. මල්ලි බෑග් අරගෙන යනවා, ප්‍රශ්නවලට උත්තර දෙනවා, සහ අමුත්තන්ට ඔවුන්ගේ කාමර පෙන්නනවා. එයා දවස පුරාම ඉංග්‍රීසි කථා කරනවා."
+        },
+        {
+          "en": "He finishes at four, but he does not come home immediately. He studies at a small class in town, because he wants a better job one day.",
+          "si": "එයා හතරට ඉවර කරනවා, හැබැයි වහාම ගෙදර එන්නේ නෑ. දවසක වඩා හොඳ රැකියාවක් ඕන නිසා, එයා නගරයේ පොඩි පන්තියක ඉගෙන ගන්නවා."
+        },
+        {
+          "en": "My mother worries about him. \"He never rests,\" she says. But Malli only laughs and says he sleeps very well.",
+          "si": "අම්මා එයා ගැන කනස්සල්ලෙන්. \"එයා කවදාවත් විවේක ගන්නේ නෑ,\" එයා කියනවා. හැබැයි මල්ලි හිනාවෙලා කියනවා එයා හොඳට නිදාගන්නවා කියලා."
+        },
+        {
+          "en": "On Sundays everything changes. He gets up late, plays cricket with his friends, and does not talk about work at all.",
+          "si": "ඉරිදාට හැම දෙයක්ම වෙනස්. එයා පරක්කු වෙලා නැගිටිනවා, යාළුවෝ එක්ක ක්‍රිකට් ගහනවා, සහ වැඩ ගැන කිසිසේත් කථා කරන්නේ නෑ."
+        }
+      ],
+      "glossary": [
+        {
+          "en": "younger brother",
+          "si": "මල්ලි"
+        },
+        {
+          "en": "beach",
+          "si": "මුහුදු වෙරළ"
+        },
+        {
+          "en": "bus stand",
+          "si": "බස් නැවතුම"
+        },
+        {
+          "en": "bun",
+          "si": "බනිස්"
+        },
+        {
+          "en": "visitor",
+          "si": "අමුත්තා"
+        },
+        {
+          "en": "immediately",
+          "si": "වහාම"
+        },
+        {
+          "en": "worry",
+          "si": "කනස්සල්ල"
+        },
+        {
+          "en": "rest",
+          "si": "විවේක ගන්නවා"
+        },
+        {
+          "en": "at all",
+          "si": "කිසිසේත්"
+        }
+      ],
+      "questionsSi": [
+        "මල්ලිගේ දවස කලින් පටන් ගන්නේ ඇයි?",
+        "එයා ගෙදර උදේ කෑම නොකන්නේ ඇයි, සහ ඒ වෙනුවට කරන්නේ මොකක්ද?",
+        "වැඩ ඉවර වුණාම එයා කෙළින්ම ගෙදර නොඑන්නේ ඇයි?",
+        "ඉරිදා දවස වෙනස් වෙන්නේ කොහොමද?"
+      ]
+    },
+    {
+      "type": "poem",
+      "title": "Every Morning",
+      "titleSi": "හැම උදෑසනකම",
+      "introSi": "පළමු කොටස 'I' ගැන, දෙවැනි කොටස 'she' ගැන. -s එකතු වෙන තැන් සසඳා බලන්න.",
+      "lines": [
+        {
+          "en": "I wake at five, I make the tea,",
+          "si": "මම පහට නැගිටිනවා, තේ හදනවා,"
+        },
+        {
+          "en": "I read a page or two.",
+          "si": "පිටු එකක් දෙකක් කියවනවා."
+        },
+        {
+          "en": "I walk to work, I greet the guard,",
+          "si": "වැඩට ඇවිදිනවා, මුරකරුට ආචාර කරනවා,"
+        },
+        {
+          "en": "I start the day anew.",
+          "si": "අලුතින් දවස පටන් ගන්නවා."
+        },
+        {
+          "en": "",
+          "si": ""
+        },
+        {
+          "en": "She wakes at five, she makes the tea,",
+          "si": "එයා පහට නැගිටිනවා, තේ හදනවා,"
+        },
+        {
+          "en": "She reads a page or two.",
+          "si": "එයා පිටු එකක් දෙකක් කියවනවා."
+        },
+        {
+          "en": "She walks to work, she greets the guard —",
+          "si": "එයා වැඩට ඇවිදිනවා, මුරකරුට ආචාර කරනවා —"
+        },
+        {
+          "en": "One letter tells you who.",
+          "si": "එක අකුරක් කියනවා කවුද කියලා."
+        }
+      ],
+      "noteSi": "අවසාන පේළිය මේ පාඩමේ සාරාංශයයි: වෙනස තියෙන්නේ එක අකුරක් — නමුත් එය කවුරු ගැනද කියන එක තීරණය කරනවා."
+    },
+    {
+      "type": "dialogue",
+      "title": "Telling someone about your day",
+      "titleSi": "ඔබේ දවස ගැන කියනවා",
+      "settingSi": "අලුතින් හමු වූ දෙදෙනෙක් තමන්ගේ දිනචරියාව ගැන කථා කරනවා.",
+      "lines": [
+        {
+          "speaker": "Anushka",
+          "en": "What time do you usually wake up?",
+          "si": "ඔබ සාමාන්‍යයෙන් කීයටද නැගිටින්නේ?"
+        },
+        {
+          "speaker": "Pradeep",
+          "en": "I wake up at six. My wife wakes up earlier, at five.",
+          "si": "මම හයට නැගිටිනවා. මගේ බිරිඳ ඊට කලින්, පහට නැගිටිනවා."
+        },
+        {
+          "speaker": "Anushka",
+          "en": "Why does she get up so early?",
+          "si": "එයා ඒ තරම් උදෙන් නැගිටින්නේ ඇයි?"
+        },
+        {
+          "speaker": "Pradeep",
+          "en": "She teaches at a school, and the school starts at seven thirty.",
+          "si": "එයා පාසලක උගන්වනවා, පාසල හත හමාරට පටන් ගන්නවා."
+        },
+        {
+          "speaker": "Anushka",
+          "en": "And what do you do after work?",
+          "si": "වැඩෙන් පස්සේ ඔබ මොනවද කරන්නේ?"
+        },
+        {
+          "speaker": "Pradeep",
+          "en": "I cook dinner. My wife marks her students' books, so I cook.",
+          "si": "මම රෑ කෑම උයනවා. බිරිඳ ශිෂ්‍යයන්ගේ පොත් බලන නිසා, මම උයනවා."
+        },
+        {
+          "speaker": "Anushka",
+          "en": "That sounds fair.",
+          "si": "ඒක සාධාරණයි වගේ."
+        }
+      ]
+    },
+    {
+      "type": "practice",
+      "title": "Add the -s if you need it",
+      "titleSi": "ඕන නම් -s එකතු කරන්න",
+      "instructionSi": "වරහන් තුළ ඇති ක්‍රියාවේ නිවැරදි ස්වරූපය ලියන්න.",
+      "items": [
+        {
+          "prompt": "She ___ (go) to work by bus.",
+          "answer": "goes",
+          "hintSi": "go + es.",
+          "full": "She goes to work by bus."
+        },
+        {
+          "prompt": "They ___ (live) in Galle.",
+          "answer": "live",
+          "hintSi": "They — කිසිවක් එකතු වෙන්නේ නෑ.",
+          "full": "They live in Galle."
+        },
+        {
+          "prompt": "My sister ___ (study) at university.",
+          "answer": "studies",
+          "hintSi": "ව්‍යාංජනයක් + y → ies.",
+          "full": "My sister studies at university."
+        },
+        {
+          "prompt": "I ___ (watch) the news every night.",
+          "answer": "watch",
+          "hintSi": "I — වෙනසක් නෑ.",
+          "full": "I watch the news every night."
+        },
+        {
+          "prompt": "He ___ (have) two brothers.",
+          "answer": "has",
+          "hintSi": "අවිධිමත් — 'haves' නෙවෙයි.",
+          "full": "He has two brothers."
+        },
+        {
+          "prompt": "The train ___ (leave) at six.",
+          "answer": "leaves",
+          "hintSi": "'The train' = it.",
+          "full": "The train leaves at six."
+        },
+        {
+          "prompt": "We ___ (play) cricket on Sundays.",
+          "answer": "play",
+          "hintSi": "We — වෙනසක් නෑ.",
+          "full": "We play cricket on Sundays."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "en": "wake up",
+      "si": "නැගිටිනවා"
+    },
+    {
+      "en": "get up",
+      "si": "ඇඳෙන් නැගිටිනවා"
+    },
+    {
+      "en": "have a shower",
+      "si": "නානවා"
+    },
+    {
+      "en": "brush",
+      "si": "මදිනවා"
+    },
+    {
+      "en": "leave",
+      "si": "පිටත් වෙනවා"
+    },
+    {
+      "en": "arrive",
+      "si": "පැමිණෙනවා"
+    },
+    {
+      "en": "start",
+      "si": "පටන් ගන්නවා"
+    },
+    {
+      "en": "finish",
+      "si": "අවසන් කරනවා"
+    },
+    {
+      "en": "study",
+      "si": "ඉගෙන ගන්නවා"
+    },
+    {
+      "en": "cook",
+      "si": "උයනවා"
+    },
+    {
+      "en": "watch",
+      "si": "බලනවා"
+    },
+    {
+      "en": "read",
+      "si": "කියවනවා"
+    },
+    {
+      "en": "walk",
+      "si": "ඇවිදිනවා"
+    },
+    {
+      "en": "go to bed",
+      "si": "නිදාගන්න යනවා"
+    },
+    {
+      "en": "every day",
+      "si": "හැම දාම"
+    },
+    {
+      "en": "early",
+      "si": "උදෙන්ම"
+    },
+    {
+      "en": "late",
+      "si": "පරක්කු"
+    },
+    {
+      "en": "teach",
+      "si": "උගන්වනවා"
+    },
+    {
+      "en": "rest",
+      "si": "විවේක ගන්නවා"
+    },
+    {
+      "en": "visitor",
+      "si": "අමුත්තා"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "a1-09-q1",
+      "q": "'She ___ in a bank.' — හිස්තැනට?",
+      "options": [
+        "work",
+        "works",
+        "working",
+        "is work"
+      ],
+      "answer": 1,
+      "explainSi": "She සමඟ ක්‍රියාවට -s එකතු වෙනවා: works.",
+      "speak": "She works in a bank."
+    },
+    {
+      "id": "a1-09-q2",
+      "q": "'They ___ in Colombo.' — හිස්තැනට?",
+      "options": [
+        "lives",
+        "live",
+        "living",
+        "lives in"
+      ],
+      "answer": 1,
+      "explainSi": "They සමඟ ක්‍රියාව වෙනස් වෙන්නේ නෑ.",
+      "speak": "They live in Colombo."
+    },
+    {
+      "id": "a1-09-q3",
+      "q": "'go' යන ක්‍රියාව he සමඟ?",
+      "options": [
+        "gos",
+        "goes",
+        "goies",
+        "go"
+      ],
+      "answer": 1,
+      "explainSi": "-o වලින් අවසන් වන ක්‍රියාවලට -es: go → goes, do → does.",
+      "speak": "He goes to school."
+    },
+    {
+      "id": "a1-09-q4",
+      "q": "'study' යන ක්‍රියාව she සමඟ?",
+      "options": [
+        "studys",
+        "studies",
+        "studyes",
+        "study"
+      ],
+      "answer": 1,
+      "explainSi": "ව්‍යාංජනයක් + y → y ඉවත් කර ies: study → studies."
+    },
+    {
+      "id": "a1-09-q5",
+      "q": "'play' → 'plays' නමුත් 'study' → 'studies'. වෙනසට හේතුව?",
+      "options": [
+        "'play' කෙටි වචනයක් නිසා",
+        "y යට කලින් තියෙන්නේ ස්වරයක්ද ව්‍යාංජනයක්ද යන්න අනුව",
+        "'study' අවිධිමත් ක්‍රියාවක් නිසා",
+        "නීතියක් නෑ, මතක තියාගන්න ඕන"
+      ],
+      "answer": 1,
+      "explainSi": "pl-a-y — 'a' ස්වරයක්, එනිසා s පමණයි. st-u-d-y — 'd' ව්‍යාංජනයක්, එනිසා ies."
+    },
+    {
+      "id": "a1-09-q6",
+      "q": "'have' යන ක්‍රියාව it සමඟ?",
+      "options": [
+        "haves",
+        "haves not",
+        "has",
+        "having"
+      ],
+      "answer": 2,
+      "explainSi": "'have' අවිධිමත්: he/she/it සමඟ 'has'.",
+      "speak": "It has four legs."
+    },
+    {
+      "id": "a1-09-q7",
+      "q": "කුමන වාක්‍යය වැරදිද?",
+      "options": [
+        "My mother cooks rice every day.",
+        "My parents cook rice every day.",
+        "My brother cook rice every day.",
+        "I cook rice every day."
+      ],
+      "answer": 2,
+      "explainSi": "'My brother' = he. එනිසා 'cooks' විය යුතුයි."
+    },
+    {
+      "id": "a1-09-q8",
+      "q": "'watch' යන ක්‍රියාව he සමඟ?",
+      "options": [
+        "watchs",
+        "watches",
+        "watchies",
+        "watch"
+      ],
+      "answer": 1,
+      "explainSi": "-ch වලින් අවසන් වන ක්‍රියාවලට -es: watch → watches."
+    },
+    {
+      "id": "a1-09-q9",
+      "q": "'The bus ___ at seven.' — හිස්තැනට, සහ ඇයි?",
+      "options": [
+        "leave — 'bus' යනු දෙයක් නිසා",
+        "leaves — 'The bus' = it, එනිසා -s",
+        "leaving — කාලය දක්වා ඇති නිසා",
+        "leaves — සියලුම වාහනවලට -s යෙදෙන නිසා"
+      ],
+      "answer": 1,
+      "explainSi": "නාම පදයක් 'he', 'she' හෝ 'it' වලින් ආදේශ කළ හැකි නම්, ඒ අනුව තෝරන්න. The bus = it.",
+      "speak": "The bus leaves at seven."
+    },
+    {
+      "id": "a1-09-q10",
+      "q": "Present simple භාවිත කරන්නේ කුමන අවස්ථාවේද?",
+      "options": [
+        "දැන් මේ මොහොතේ සිදුවන දේවලට",
+        "පුරුදු, දිනචරියා සහ හැම විටම සත්‍ය දේවලට",
+        "අනාගතයේ සිදුවන දේවලට විතරක්",
+        "ඊයේ සිදු වූ දේවලට"
+      ],
+      "answer": 1,
+      "explainSi": "'I eat rice every day' — පුරුද්දක්. දැන් සිදුවන දේට වෙනම කාලයක් තියෙනවා, එය ඊළඟ පාඩම්වල."
+    },
+    {
+      "id": "a1-09-q11",
+      "context": "His day starts long before mine, because he catches the first bus of the morning.",
+      "contextSi": "එයා උදේ පළමු බස් එකට නගින නිසා, එයාගේ දවස මගේ දවසට වඩා ගොඩක් කලින් පටන් ගන්නවා.",
+      "q": "කතාව අනුව: මල්ලිගේ දවස කලින් පටන් ගන්නේ ඇයි?",
+      "options": [
+        "එයා නින්ද යන්නේ නෑ",
+        "එයා උදේ පළමු බස් එකට නගින නිසා",
+        "හෝටලය හතරට අරින නිසා",
+        "එයාට පන්තියට යන්න ඕන නිසා"
+      ],
+      "answer": 1,
+      "explainSi": "'because he catches the first bus of the morning'."
+    },
+    {
+      "id": "a1-09-q12",
+      "context": "He does not eat breakfast at home; he buys a bun at the bus stand instead.",
+      "contextSi": "එයා ගෙදර උදේ කෑම කන්නේ නෑ; ඒ වෙනුවට බස් නැවතුමෙන් බනිස් එකක් ගන්නවා.",
+      "q": "කතාව අනුව: එයා ගෙදර උදේ කෑම නොකා කරන්නේ මොකක්ද?",
+      "options": [
+        "හෝටලයේ කනවා",
+        "උදේ කෑම කන්නේම නෑ",
+        "බස් නැවතුමෙන් බනිස් එකක් ගන්නවා",
+        "අම්මා පස්සේ ගෙනත් දෙනවා"
+      ],
+      "answer": 2,
+      "explainSi": "'he buys a bun at the bus stand instead'. 'instead' කියන්නේ 'ඒ වෙනුවට'."
+    },
+    {
+      "id": "a1-09-q13",
+      "context": "He finishes at four, but he does not come home immediately. He studies at a small class in town, because he wants a better job one day.",
+      "contextSi": "එයා හතරට ඉවර කරනවා, හැබැයි වහාම ගෙදර එන්නේ නෑ. දවසක වඩා හොඳ රැකියාවක් ඕන නිසා, එයා නගරයේ පොඩි පන්තියක ඉගෙන ගන්නවා.",
+      "q": "කතාව අනුව: වැඩ ඉවර වුණාම එයා කෙළින්ම ගෙදර නොඑන්නේ ඇයි?",
+      "options": [
+        "බස් නෑ නිසා",
+        "යාළුවෝ එක්ක ක්‍රිකට් ගහන නිසා",
+        "දවසක වඩා හොඳ රැකියාවක් ඕන නිසා පන්තියක ඉගෙන ගන්නවා",
+        "හෝටලයේ රෑ වැඩත් කරන නිසා"
+      ],
+      "answer": 2,
+      "explainSi": "'He studies at a small class in town, because he wants a better job one day.'"
+    },
+    {
+      "id": "a1-09-q14",
+      "context": "My mother worries about him. \"He never rests,\" she says. But Malli only laughs and says he sleeps very well.",
+      "contextSi": "අම්මා එයා ගැන කනස්සල්ලෙන්. \"එයා කවදාවත් විවේක ගන්නේ නෑ,\" එයා කියනවා. හැබැයි මල්ලි හිනාවෙලා කියනවා එයා හොඳට නිදාගන්නවා කියලා.",
+      "q": "කතාව අනුව: අම්මා කනස්සල්ලෙන් ඉන්නේ ඇයි, සහ මල්ලි ඒකට මොකද කියන්නේ?",
+      "options": [
+        "එයා පරක්කු වෙන නිසා; මල්ලි සමාව අයදිනවා",
+        "එයා විවේක නොගන්නා නිසා; මල්ලි හිනාවෙලා හොඳට නිදාගන්නවා කියනවා",
+        "එයාට වැඩ අමාරු නිසා; මල්ලි වැඩ මාරු කරන්න යනවා",
+        "එයා කන්නේ නෑ නිසා; මල්ලි කනවා කියලා කියනවා"
+      ],
+      "answer": 1,
+      "explainSi": "'He never rests,' she says. But Malli only laughs and says he sleeps very well."
+    },
+    {
+      "id": "a1-09-q15",
+      "context": "On Sundays everything changes. He gets up late, plays cricket with his friends, and does not talk about work at all.",
+      "contextSi": "ඉරිදාට හැම දෙයක්ම වෙනස්. එයා පරක්කු වෙලා නැගිටිනවා, යාළුවෝ එක්ක ක්‍රිකට් ගහනවා, සහ වැඩ ගැන කිසිසේත් කථා කරන්නේ නෑ.",
+      "q": "කතාව අනුව: ඉරිදා දවසේ වෙනස කුමක්ද?",
+      "options": [
+        "එයා වැඩට යන්නේ නෑ, පරක්කු වෙලා නැගිටිනවා, ක්‍රිකට් ගහනවා, වැඩ ගැන කථා කරන්නේ නෑ",
+        "එයා ගොඩක් වැඩ කරනවා",
+        "එයා පන්තියට යනවා",
+        "එයා මුහුදට යනවා"
+      ],
+      "answer": 0,
+      "explainSi": "'He gets up late, plays cricket with his friends, and does not talk about work at all.'"
+    },
+    {
+      "id": "a1-09-q16",
+      "context": "\"He never rests,\" she says.",
+      "contextSi": "\"එයා කවදාවත් විවේක ගන්නේ නෑ,\" එයා කියනවා.",
+      "q": "කතාවේ 'He never rests' කියන්නේ මොකක්ද?",
+      "options": [
+        "එයා කවදාවත් නිදාගන්නේ නෑ",
+        "එයා කිසි විටෙක විවේක ගන්නේ නෑ",
+        "එයා නොසන්සුන්",
+        "එයාට විවේකය අකැමතියි"
+      ],
+      "answer": 1,
+      "explainSi": "'never' = කිසි විටෙක නෑ. 'rest' = විවේක ගැනීම."
+    },
+    {
+      "id": "a1-09-q17",
+      "context": "I walk to work, I greet the guard, / She walks to work, she greets the guard — / One letter tells you who.",
+      "contextSi": "මම වැඩට ඇවිදිනවා, මුරකරුට ආචාර කරනවා, / එයා වැඩට ඇවිදිනවා, මුරකරුට ආචාර කරනවා — / එක අකුරක් කියනවා කවුද කියලා.",
+      "q": "කවියේ අවසාන පේළිය 'One letter tells you who' කියන්නේ මොකක්ද?",
+      "options": [
+        "නම මුල් අකුරෙන් හඳුනාගන්නවා",
+        "'-s' අකුර ක්‍රියාව කරන්නේ කවුද කියලා පෙන්නනවා",
+        "ලිපියක් එවනවා",
+        "අකුරු ලියන්න ඉගෙන ගන්න ඕන"
+      ],
+      "answer": 1,
+      "explainSi": "'I walk' සහ 'She walks' අතර වෙනස ඒ එක අකුරයි — සහ එය කවුරු ගැනද කියලා කියනවා."
+    },
+    {
+      "id": "a1-09-q18",
+      "context": "Pradeep: My wife wakes up earlier, at five.\nAnushka: Why does she get up so early?\nPradeep: She teaches at a school, and the school starts at seven thirty.",
+      "contextSi": "ප්‍රදීප්: මගේ බිරිඳ ඊට කලින්, පහට නැගිටිනවා.\nඅනුෂ්කා: එයා ඒ තරම් උදෙන් නැගිටින්නේ ඇයි?\nප්‍රදීප්: එයා පාසලක උගන්වනවා, පාසල හත හමාරට පටන් ගන්නවා.",
+      "q": "සංවාදයේ: ප්‍රදීප්ගේ බිරිඳ උදෙන් නැගිටින්නේ ඇයි?",
+      "options": [
+        "එයාට නින්ද යන්නේ නෑ",
+        "එයා පාසලක උගන්වන නිසා, පාසල හත හමාරට පටන් ගන්නවා",
+        "එයා උදේ කෑම හදන නිසා",
+        "බස් එක උදෙන් යන නිසා"
+      ],
+      "answer": 1,
+      "explainSi": "'She teaches at a school, and the school starts at seven thirty.'"
+    },
+    {
+      "id": "a1-09-q19",
+      "q": "'My wife ___ her students' books.' — හිස්තැනට?",
+      "options": [
+        "mark",
+        "marks",
+        "marking",
+        "is mark"
+      ],
+      "answer": 1,
+      "explainSi": "'My wife' = she, එනිසා 'marks'.",
+      "speak": "My wife marks her students' books."
+    },
+    {
+      "id": "a1-09-q20",
+      "q": "කුමන වාක්‍යය නිවැරදිද?",
+      "options": [
+        "Water boil at one hundred degrees.",
+        "Water boils at one hundred degrees.",
+        "Waters boil at one hundred degrees.",
+        "Water is boil at one hundred degrees."
+      ],
+      "answer": 1,
+      "explainSi": "'Water' = it, එනිසා 'boils'. හැම විටම සත්‍ය දේවලටත් present simple යෙදෙනවා.",
+      "speak": "Water boils at one hundred degrees."
+    },
+    {
+      "id": "a1-09-q21",
+      "q": "'My friends and I ___ cricket on Sundays.' — හිස්තැනට?",
+      "options": [
+        "plays",
+        "play",
+        "playing",
+        "is playing"
+      ],
+      "answer": 1,
+      "explainSi": "'My friends and I' = we. එනිසා -s නෑ. කර්තෘ දිග වුණාට 'we' කියලා ආදේශ කරලා බලන්න.",
+      "speak": "My friends and I play cricket on Sundays."
+    },
+    {
+      "id": "a1-09-q22",
+      "q": "පහත වාක්‍යවලින් -s අවශ්‍ය නොවන්නේ කුමකටද?",
+      "options": [
+        "The shop (open) at eight.",
+        "My teacher (know) my name.",
+        "You (need) more sleep.",
+        "It (rain) in November."
+      ],
+      "answer": 2,
+      "explainSi": "'You' සමඟ කිසිවක් එකතු වෙන්නේ නෑ. අනිත් තුනම he/she/it වර්ගයේ."
+    }
+  ]
+}

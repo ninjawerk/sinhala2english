@@ -1,0 +1,775 @@
+{
+  "hero": {
+    "src": "images/b1-27-hero.webp",
+    "alt": "Ruwan waiting in a bank queue turning to the person behind him with a friendly remark, counter and rope rail ahead."
+  },
+  "goalsSi": [
+    "question tag එකක් හදන්න",
+    "හරි වාක්‍යයකට නැහැ tag, නැහැ වාක්‍යයකට හරි tag",
+    "ගැලපෙන සහායක ක්‍රියාව තෝරන්න",
+    "I am, let's, imperative — විශේෂ අවස්ථා",
+    "ස්වරයෙන් අර්ථය වෙනස් වෙන එක",
+    "tag එකට උත්තර දෙන්න"
+  ],
+  "goals": [
+    "Form a question tag",
+    "Match a positive statement with a negative tag and the reverse",
+    "Choose the right auxiliary",
+    "Handle I am, let's and imperatives",
+    "Hear how intonation changes the meaning",
+    "Answer a tag question"
+  ],
+  "sections": [
+    {
+      "type": "note",
+      "title": "The little question on the end",
+      "titleSi": "අගට එන පොඩි ප්‍රශ්නය",
+      "bodySi": "'It's cold today, isn't it?'\n'You've been here before, haven't you?'\n'He didn't call, did he?'\n\nඅගට එන ඒ පොඩි කෑල්ලට කියන්නේ question tag කියලා. සිංහලෙන් 'නේද?' කියන එකට හරියටම සමානයි.\n\nඉංග්‍රීසි කථාවේ මේවා හරිම බහුලයි, ඒත් ඒවා කරන්නේ තොරතුරු ඉල්ලන එක නෙවෙයි. ඒවා කරන්නේ අනිත් කෙනාව සංවාදයට ඇදගන්න එක.\n\n'It's cold today.' — ප්‍රකාශයක්. උත්තරයක් ඕන නෑ.\n'It's cold today, isn't it?' — දැන් අනිත් කෙනා 'Yes, freezing' කියලා කියනවා. කථාවක් පටන් ගත්තා.\n\nඑංගලන්තයේ නොහඳුනන අය අතරේ කථා පටන් ගන්නේ මේකෙන් තමයි. බස් නැවතුම්පොළක, පෝලිමක — 'Terrible weather, isn't it?'\n\nහැදෙන විදිහ ටිකක් යාන්ත්‍රිකයි, ඒත් නීති දෙකයි. ඒ දෙක දැනගත්තම ඕනම tag එකක් හදන්න පුළුවන්.",
+      "body": "The tag is the exact equivalent of Sinhala නේද. It does not ask for information — it invites the other person in."
+    },
+    {
+      "type": "grammar",
+      "title": "The two rules",
+      "titleSi": "නීති දෙක",
+      "explainSi": "නීතිය 1 — ප්‍රතිවිරුද්ධ පැත්ත.\n\nවාක්‍යය හරි නම් → tag එක නැහැ.\nවාක්‍යය නැහැ නම් → tag එක හරි.\n\n'It's cold, isn't it?' (හරි → නැහැ)\n'It isn't cold, is it?' (නැහැ → හරි)\n\nනීතිය 2 — වාක්‍යයේ සහායක ක්‍රියාවම ආපහු.\n\nවාක්‍යයේ is / are / was / have / can / will තියෙනවා නම් — ඒකම tag එකට.\n\n'She is coming, isn't she?'\n'They have finished, haven't they?'\n'You can swim, can't you?'\n'He will come, won't he?'\n\nසහායක ක්‍රියාවක් නැත්නම් — do / does / did.\n\n'You like tea, don't you?'\n'She works here, doesn't she?'\n'They went home, didn't they?'\n\nමේක b1-20 හි 'So do I / Neither do I' එකේම තර්කයයි — වාක්‍යයේ ක්‍රියාවම ආපහු යොදනවා.\n\nSubject එක සර්වනාමයක් වෙන්නම ඕන: 'Ruwan is late, isn't he?' — 'isn't Ruwan?' නෙවෙයි.",
+      "explain": "Opposite polarity, and echo the auxiliary. No auxiliary means do, does or did.",
+      "formula": "හරි වාක්‍යය + නැහැ tag  ·  නැහැ වාක්‍යය + හරි tag",
+      "table": {
+        "headers": [
+          "වාක්‍යය",
+          "Tag",
+          "සිංහල"
+        ],
+        "rows": [
+          [
+            "It's cold,",
+            "isn't it?",
+            "සීතලයි නේද?"
+          ],
+          [
+            "It isn't cold,",
+            "is it?",
+            "සීතල නෑ නේද?"
+          ],
+          [
+            "You like tea,",
+            "don't you?",
+            "තේ වලට කැමතියි නේද?"
+          ],
+          [
+            "She didn't call,",
+            "did she?",
+            "ඇය කතා කළේ නෑ නේද?"
+          ],
+          [
+            "They have gone,",
+            "haven't they?",
+            "ඒගොල්ලෝ ගිහින් නේද?"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "He built the house himself, didn't he?",
+          "si": "එයාම ගෙදර හැදුවා නේද?"
+        },
+        {
+          "en": "You haven't seen my keys, have you?",
+          "si": "ඔයා මගේ යතුරු දැක්කේ නෑ නේද?"
+        },
+        {
+          "en": "We can park here, can't we?",
+          "si": "අපිට මෙතන පාක් කරන්න පුළුවන් නේද?"
+        }
+      ],
+      "watchOutSi": "Subject එක සර්වනාමයක් වෙන්න ඕන. 'Your sister is a teacher, isn't your sister?' ✗ — 'isn't she?' ✓."
+    },
+    {
+      "type": "grammar",
+      "title": "The odd ones",
+      "titleSi": "අමුතු ඒවා",
+      "explainSi": "නීති දෙක හැම තැනම වැඩ කරනවා — මේ තුන හැර.\n\nI am → aren't I?\n'I'm late, aren't I?'\n\n'amn't I' කියන එකක් නෑ. ඉංග්‍රීසියේ හිඩැසක්. ඒ නිසා 'aren't I' කියනවා — තර්කයට විරුද්ධ වුණත් ඒක නිවැරදියි.\n\nLet's → shall we?\n'Let's go, shall we?'\n\nවිධානයක් → will you?\n'Close the door, will you?'\n'Don't forget, will you?'\n\nතව එකක්: there is / there are එකේ tag එකට 'there' ම යොදනවා.\n'There's a problem, isn't there?'\n'There weren't many people, were there?'\n\nසහ nobody / everybody / somebody එකට tag එකට 'they'.\n'Nobody called, did they?'\n'Everybody knows, don't they?'\n\nඒක ව්‍යාකරණ අනුව අමුතුයි (everybody කියන්නේ එකවචනයක්), ඒත් කථාවේ සම්මතය ඒකයි.",
+      "explain": "I am takes aren't I. Let's takes shall we. An imperative takes will you. There keeps there, and everybody takes they.",
+      "formula": "I'm …, aren't I?  ·  Let's …, shall we?  ·  Do it, will you?",
+      "table": {
+        "headers": [
+          "වාක්‍යය",
+          "Tag"
+        ],
+        "rows": [
+          [
+            "I'm late,",
+            "aren't I?"
+          ],
+          [
+            "Let's go,",
+            "shall we?"
+          ],
+          [
+            "Close the window,",
+            "will you?"
+          ],
+          [
+            "There's a problem,",
+            "isn't there?"
+          ],
+          [
+            "Nobody called,",
+            "did they?"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "I'm not too early, am I?",
+          "si": "මම ගොඩක් කලින් නෙවෙයි නේද?"
+        },
+        {
+          "en": "Let's take the early bus, shall we?",
+          "si": "අපි උදේ බස් එකෙන් යමු නේද?"
+        },
+        {
+          "en": "There isn't any milk, is there?",
+          "si": "කිරි නෑ නේද?"
+        }
+      ],
+      "watchOutSi": "'I'm late, amn't I?' කියන එකක් නෑ. 'aren't I' කියන එක අමුතු වුණත් නිවැරදියි."
+    },
+    {
+      "type": "grammar",
+      "title": "What the voice does",
+      "titleSi": "ස්වරය කරන දේ",
+      "explainSi": "එකම tag එක, ස්වර දෙකක්, අර්ථ දෙකක්. මේක තමයි ඇත්තටම වැදගත් කොටස.\n\nස්වරය පහළට යනවා නම් — ඔයා දන්නවා. එකඟතාවක් ඉල්ලනවා විතරයි.\n'Lovely day, isn't it?' ↘ — 'ලස්සන දවසක් නේද?' (උත්තරයක් ඕන නෑ, කථාවක් පටන් ගන්නවා)\n\nස්වරය උඩට යනවා නම් — ඔයාට නිශ්චිත නෑ. ඇත්තටම අහනවා.\n'You locked the door, didn't you?' ↗ — 'දොර වහලාද?' (ඇත්තටම දැනගන්න ඕන)\n\nලංකාවේ ඉගෙන ගන්න අයට මේක ලේසි නෑ, මොකද සිංහලෙන් 'නේද?' කියන එකට ඒ වෙනස තියෙන්නේ නෑ.\n\nප්‍රායෝගිකව: කථාවක් පටන් ගන්නවා නම් පහළට. ඇත්තටම අහනවා නම් උඩට.\n\nතව එකක් — tag එකට උත්තර දෙන එක:\n\n'It's cold, isn't it?' → 'Yes, freezing.' / 'It is, isn't it?'\n'You didn't call, did you?' → 'No, I didn't.' / 'Actually, I did.'\n\nනැහැ ප්‍රශ්නයකට උත්තර දෙනකොට ප්‍රවේශම් වෙන්න. 'You didn't call, did you?' කියන එකට 'No' කිව්වොත් ඒකේ තේරුම 'මම කතා කළේ නෑ' කියන එකයි.",
+      "explain": "Falling tone: you know, and you are inviting agreement. Rising tone: you are genuinely asking.",
+      "formula": "පහළට ↘ = එකඟතාව ඉල්ලනවා  ·  උඩට ↗ = ඇත්තටම අහනවා",
+      "table": {
+        "headers": [
+          "ස්වරය",
+          "අර්ථය",
+          "උදාහරණය"
+        ],
+        "rows": [
+          [
+            "පහළට ↘",
+            "දන්නවා, කථා පටන් ගන්නවා",
+            "Lovely day, isn't it?"
+          ],
+          [
+            "උඩට ↗",
+            "නිශ්චිත නෑ, අහනවා",
+            "You locked it, didn't you?"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "Terrible traffic this morning, wasn't it?",
+          "si": "අද උදේ ට්‍රැෆික් එක බයානකයි නේද?"
+        },
+        {
+          "en": "You haven't told anyone, have you?",
+          "si": "ඔයා කාටවත් කිව්වේ නෑ නේද?"
+        }
+      ],
+      "watchOutSi": "'You didn't call, did you?' — 'No' කිව්වොත් 'කතා කළේ නෑ'. 'Yes' කිව්වොත් 'කතා කළා'. සිංහලෙන් මේක අනිත් පැත්තට වැඩ කරන නිසා පටලවනවා."
+    },
+    {
+      "type": "vocab",
+      "title": "Tag talk",
+      "titleSi": "Tag කථාව",
+      "introSi": "tag ප්‍රශ්නවලට යෙදෙන සහායක ක්‍රියා සහ ප්‍රතිචාර.",
+      "items": [
+        {
+          "en": "isn't it",
+          "si": "නේද",
+          "say": "ඉස්න්ට් ඉට්",
+          "exampleEn": "It's cold, isn't it?",
+          "exampleSi": "සීතලයි නේද?"
+        },
+        {
+          "en": "aren't I",
+          "si": "නේද (I am එකට)",
+          "say": "ආන්ට් අයි",
+          "exampleEn": "I'm late, aren't I?",
+          "exampleSi": "මම පරක්කුයි නේද?"
+        },
+        {
+          "en": "don't you",
+          "si": "නේද",
+          "say": "ඩෝන්ට් යූ",
+          "exampleEn": "You like tea, don't you?",
+          "exampleSi": "තේ වලට කැමතියි නේද?"
+        },
+        {
+          "en": "didn't he",
+          "si": "නේද (අතීතය)",
+          "say": "ඩිඩ්න්ට් හී",
+          "exampleEn": "He called, didn't he?",
+          "exampleSi": "එයා කතා කළා නේද?"
+        },
+        {
+          "en": "haven't they",
+          "si": "නේද (present perfect)",
+          "say": "හෑවන්ට් දේ",
+          "exampleEn": "They've gone, haven't they?",
+          "exampleSi": "ඒගොල්ලෝ ගිහින් නේද?"
+        },
+        {
+          "en": "shall we",
+          "si": "නේද (Let's එකට)",
+          "say": "ෂෑල් වී",
+          "exampleEn": "Let's go, shall we?",
+          "exampleSi": "අපි යමු නේද?"
+        },
+        {
+          "en": "will you",
+          "si": "නේද (විධානයකට)",
+          "say": "විල් යූ",
+          "exampleEn": "Close the door, will you?",
+          "exampleSi": "දොර වහන්න, හරිද?"
+        },
+        {
+          "en": "freezing",
+          "si": "හරිම සීතලයි",
+          "say": "ෆ්‍රීසින්",
+          "exampleEn": "Yes, freezing.",
+          "exampleSi": "ඔව්, හරිම සීතලයි."
+        },
+        {
+          "en": "terrible",
+          "si": "බයානකයි",
+          "say": "ටෙරිබල්",
+          "exampleEn": "Terrible traffic, wasn't it?",
+          "exampleSi": "ට්‍රැෆික් එක බයානකයි නේද?"
+        },
+        {
+          "en": "lovely",
+          "si": "ලස්සනයි",
+          "say": "ලව්ලි",
+          "exampleEn": "Lovely day, isn't it?",
+          "exampleSi": "ලස්සන දවසක් නේද?"
+        },
+        {
+          "en": "queue",
+          "si": "පෝලිම",
+          "say": "කිව්",
+          "exampleEn": "Long queue, isn't it?",
+          "exampleSi": "පෝලිම දිගයි නේද?"
+        },
+        {
+          "en": "actually",
+          "si": "ඇත්තටම",
+          "say": "ඇක්චුඅලි",
+          "exampleEn": "Actually, I did.",
+          "exampleSi": "ඇත්තටම මම කළා."
+        },
+        {
+          "en": "small talk",
+          "si": "කුඩා කථාව",
+          "say": "ස්මෝල් ටෝක්",
+          "exampleEn": "Tags are for small talk.",
+          "exampleSi": "Tag කුඩා කථාවට."
+        },
+        {
+          "en": "agree",
+          "si": "එකඟ වෙනවා",
+          "say": "අග්‍රී",
+          "exampleEn": "I agree.",
+          "exampleSi": "මම එකඟයි."
+        },
+        {
+          "en": "intonation",
+          "si": "ස්වරය",
+          "say": "ඉන්ටනේෂන්",
+          "exampleEn": "The intonation changes it.",
+          "exampleSi": "ස්වරයෙන් ඒක වෙනස් වෙනවා."
+        },
+        {
+          "en": "double-check",
+          "si": "ආපහු තහවුරු කරනවා",
+          "say": "ඩබල් චෙක්",
+          "exampleEn": "I'm just double-checking.",
+          "exampleSi": "මම ආපහු තහවුරු කරගන්නවා විතරයි."
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "Long queue, isn't it?",
+      "titleSi": "පෝලිම දිගයි නේද?",
+      "settingSi": "බැංකුවක පෝලිමක. නොහඳුනන දෙදෙනෙක් අතරේ. tag එකෙන් කථාවක් පටන් ගන්න විදිහ.",
+      "lines": [
+        {
+          "speaker": "Nadeesha",
+          "en": "Long queue, isn't it?",
+          "si": "පෝලිම දිගයි නේද?"
+        },
+        {
+          "speaker": "Ruwan",
+          "en": "It always is on a Monday. You're not from here, are you?",
+          "si": "සඳුදාට හැමදාම එහෙමයි. ඔයා මෙහෙ නෙවෙයි නේද?"
+        },
+        {
+          "speaker": "Nadeesha",
+          "en": "No, I moved last month. It's usually quicker in Galle.",
+          "si": "නෑ, ගිය මාසේ ආවේ. ගාල්ලේ සාමාන්‍යයෙන් ඉක්මනට යනවා."
+        },
+        {
+          "speaker": "Ruwan",
+          "en": "You've come at the wrong time, haven't you? Pension day.",
+          "si": "ඔයා වැරදි වෙලාවකට ඇවිත් නේද? විශ්‍රාම වැටුප් දවස."
+        },
+        {
+          "speaker": "Nadeesha",
+          "en": "Ah. That explains it. There isn't another counter, is there?",
+          "si": "අහ්. ඒකෙන් තේරෙනවා. තව කවුන්ටරයක් නෑ නේද?"
+        },
+        {
+          "speaker": "Ruwan",
+          "en": "Upstairs, for deposits only. You're not depositing, are you?",
+          "si": "උඩ තට්ටුවේ, තැන්පත් කිරීමට විතරයි. ඔයා තැන්පත් කරන්නේ නෑ නේද?"
+        },
+        {
+          "speaker": "Nadeesha",
+          "en": "Actually, I am. Thank you — that's saved me an hour.",
+          "si": "ඇත්තටම, ඔව්. ස්තූතියි — ඒකෙන් මට පැයක් ඉතුරු වුණා."
+        },
+        {
+          "speaker": "Ruwan",
+          "en": "Let's hope it's quicker up there, shall we?",
+          "si": "එහෙ ඉක්මන් වෙයි කියලා හිතමු නේද?"
+        }
+      ]
+    },
+    {
+      "type": "story",
+      "title": "The four words that started it",
+      "titleSi": "පටන් ගත්ත වචන හතර",
+      "introSi": "tag එකකින් පටන් ගත්ත කථාවක් ගැන කෙටි කතාවක්.",
+      "paragraphs": [
+        {
+          "en": "My parents met in a bus queue in Kurunegala in 1979. It had been raining for two days.",
+          "si": "මගේ දෙමව්පියෝ හම්බ වුණේ 1979 කුරුණෑගල බස් පෝලිමකදී. දවස් දෙකක් තිස්සේ වහිමින් තිබුණා."
+        },
+        {
+          "en": "My mother says my father did not say anything clever. He said four words: \"Terrible weather, isn't it?\"",
+          "si": "අම්මා කියනවා තාත්තා දක්ෂ දෙයක් කිව්වේ නෑ කියලා. එයා කිව්වේ වචන හතරයි: \"Terrible weather, isn't it?\""
+        },
+        {
+          "en": "She says the weather was not even that bad. But somebody has to say something, and a question that anyone can answer is easier to answer than one that needs an opinion.",
+          "si": "ඇය කියනවා කාලගුණය එච්චර නරක වුණේ නෑ කියලා. ඒත් කවුරු හරි මොකක් හරි කියන්න ඕන, සහ ඕනම කෙනෙකුට උත්තර දෙන්න පුළුවන් ප්‍රශ්නයකට උත්තර දෙන එක ලේසියි."
+        },
+        {
+          "en": "They were married for thirty-one years. He was still saying it on the last morning, about a sky with no cloud in it at all.",
+          "si": "ඒගොල්ලෝ අවුරුදු තිස් එකක් විවාහක. අන්තිම උදේටත් එයා ඒක කිව්වා — වලාකුළක්වත් නැති අහසක් ගැන."
+        }
+      ],
+      "glossary": [
+        {
+          "en": "queue",
+          "si": "පෝලිම"
+        },
+        {
+          "en": "clever",
+          "si": "දක්ෂ"
+        },
+        {
+          "en": "opinion",
+          "si": "අදහස"
+        },
+        {
+          "en": "cloud",
+          "si": "වලාකුළ"
+        }
+      ],
+      "questionsSi": [
+        "තාත්තා කිව්ව වචන හතර මොනවාද?",
+        "අම්මා ඒක හොඳ පටන් ගැනීමක් කියලා හිතන්නේ ඇයි?",
+        "ඔයාට tag එකකින් කථාවක් පටන් ගන්න පුළුවන්ද?"
+      ]
+    },
+    {
+      "type": "tip",
+      "title": "Answer the fact, not the tag",
+      "titleSi": "Tag එකට නෙවෙයි, කාරණයට උත්තර දෙන්න",
+      "bodySi": "නැහැ tag එකකට උත්තර දෙනකොට පටලවනවා. මතක තියාගන්න: ඔයා උත්තර දෙන්නේ ඇත්තටයි, tag එකට නෙවෙයි.\n\n'You didn't call, did you?'\n→ ඔයා කතා කළේ නෑ නම්: 'No, I didn't.'\n→ ඔයා කතා කළා නම්: 'Yes, I did.' (හෝ 'Actually, I did.')\n\nසිංහලෙන් 'ඔයා කතා කළේ නෑ නේද?' කියලා ඇහුවම 'ඔව්' කියන එකේ තේරුම 'ඔව්, කතා කළේ නෑ' කියන එකයි. ඉංග්‍රීසියෙන් ඒක අනිත් පැත්තයි.\n\nඉංග්‍රීසියෙන් Yes = කළා. No = කළේ නෑ. ප්‍රශ්නය කොහොම වුණත්.",
+      "body": "Yes always means it happened; No always means it did not — whatever shape the question took. Sinhala works the other way, which is why this trips people."
+    },
+    {
+      "type": "practice",
+      "title": "Add the tag",
+      "titleSi": "Tag එක දාන්න",
+      "instructionSi": "වාක්‍යයට ගැලපෙන tag එක ලියන්න.",
+      "items": [
+        {
+          "prompt": "It's cold today, ___ ?",
+          "answer": "isn't it",
+          "hintSi": "හරි වාක්‍යයට නැහැ tag.",
+          "full": "It's cold today, isn't it?"
+        },
+        {
+          "prompt": "You like tea, ___ ?",
+          "answer": "don't you",
+          "hintSi": "සහායක ක්‍රියාවක් නෑ — do.",
+          "full": "You like tea, don't you?"
+        },
+        {
+          "prompt": "She didn't come, ___ ?",
+          "answer": "did she",
+          "hintSi": "නැහැ වාක්‍යයට හරි tag.",
+          "full": "She didn't come, did she?"
+        },
+        {
+          "prompt": "I'm late, ___ ?",
+          "answer": "aren't I",
+          "hintSi": "විශේෂ අවස්ථාවක්.",
+          "full": "I'm late, aren't I?"
+        },
+        {
+          "prompt": "Let's leave early, ___ ?",
+          "answer": "shall we",
+          "hintSi": "'Let's' එකට වෙනම tag එකක්.",
+          "full": "Let's leave early, shall we?"
+        },
+        {
+          "prompt": "There isn't any milk, ___ ?",
+          "answer": "is there",
+          "hintSi": "'there' ම ආපහු යොදනවා.",
+          "full": "There isn't any milk, is there?"
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "b1-27-q1",
+      "q": "Question tag එකේ පළවෙනි නීතිය?",
+      "options": [
+        "හැමවිටම නැහැ tag එකක්",
+        "වාක්‍යය හරි නම් tag නැහැ; වාක්‍යය නැහැ නම් tag හරි",
+        "හැමවිටම 'isn't it'",
+        "නීතියක් නෑ"
+      ],
+      "answer": 1,
+      "explainSi": "ප්‍රතිවිරුද්ධ පැත්ත."
+    },
+    {
+      "id": "b1-27-q2",
+      "q": "'You like tea, ___ ?'",
+      "options": [
+        "isn't it",
+        "don't you",
+        "aren't you",
+        "do you"
+      ],
+      "answer": 1,
+      "explainSi": "සහායක ක්‍රියාවක් නැති නිසා do."
+    },
+    {
+      "id": "b1-27-q3",
+      "q": "'I'm late, ___ ?'",
+      "options": [
+        "amn't I",
+        "aren't I",
+        "isn't I",
+        "am I"
+      ],
+      "answer": 1,
+      "explainSi": "'amn't' කියන එකක් නෑ — 'aren't I'."
+    },
+    {
+      "id": "b1-27-q4",
+      "q": "'Let's go, ___ ?'",
+      "options": [
+        "don't we",
+        "shall we",
+        "will we",
+        "aren't we"
+      ],
+      "answer": 1,
+      "explainSi": "'Let's' එකට හැමවිටම 'shall we'."
+    },
+    {
+      "id": "b1-27-q5",
+      "q": "'Close the door, ___ ?'",
+      "options": [
+        "don't you",
+        "will you",
+        "aren't you",
+        "shall we"
+      ],
+      "answer": 1,
+      "explainSi": "විධානයකට 'will you'."
+    },
+    {
+      "id": "b1-27-q6",
+      "q": "'There's a problem, ___ ?'",
+      "options": [
+        "isn't it",
+        "isn't there",
+        "aren't they",
+        "doesn't it"
+      ],
+      "answer": 1,
+      "explainSi": "'there' ම ආපහු යොදනවා."
+    },
+    {
+      "id": "b1-27-q7",
+      "q": "'Nobody called, ___ ?'",
+      "options": [
+        "did he",
+        "did they",
+        "didn't they",
+        "did nobody"
+      ],
+      "answer": 1,
+      "explainSi": "nobody/everybody එකට tag එකට 'they'."
+    },
+    {
+      "id": "b1-27-q8",
+      "q": "ස්වරය පහළට ගියොත් tag එකේ අර්ථය?",
+      "options": [
+        "ඇත්තටම අහනවා",
+        "දන්නවා — එකඟතාවක් ඉල්ලනවා විතරයි",
+        "තරහයි",
+        "නිශ්චිත නෑ"
+      ],
+      "answer": 1,
+      "explainSi": "'Lovely day, isn't it?' — කථාවක් පටන් ගන්නවා."
+    },
+    {
+      "id": "b1-27-q9",
+      "q": "ස්වරය උඩට ගියොත්?",
+      "options": [
+        "එකඟතාව ඉල්ලනවා",
+        "ඇත්තටම අහනවා — නිශ්චිත නෑ",
+        "නියෝගයක්",
+        "විහිළුවක්"
+      ],
+      "answer": 1,
+      "explainSi": "'You locked the door, didn't you?' ↗"
+    },
+    {
+      "id": "b1-27-q10",
+      "q": "'You didn't call, did you?' — ඔයා කතා කළා නම් උත්තරය?",
+      "options": [
+        "No, I did.",
+        "Yes, I did.",
+        "No, I didn't.",
+        "Yes, I didn't."
+      ],
+      "answer": 1,
+      "explainSi": "ඉංග්‍රීසියෙන් Yes = කළා, ප්‍රශ්නය කොහොම වුණත්."
+    },
+    {
+      "id": "b1-27-q11",
+      "q": "Tag ප්‍රශ්නවල ඇත්ත වැඩේ?",
+      "options": [
+        "තොරතුරු ඉල්ලනවා",
+        "අනිත් කෙනාව සංවාදයට ඇදගන්නවා",
+        "නියෝග දෙනවා",
+        "විරෝධය පෙන්නනවා"
+      ],
+      "answer": 1,
+      "explainSi": "'It's cold today.' ප්‍රකාශයක්; tag එකෙන් ඒක කථාවක් වෙනවා."
+    },
+    {
+      "id": "b1-27-q12",
+      "q": "'Ruwan is late, ___ ?'",
+      "options": [
+        "isn't Ruwan",
+        "isn't he",
+        "is he",
+        "doesn't he"
+      ],
+      "answer": 1,
+      "explainSi": "tag එකේ subject එක සර්වනාමයක් වෙන්න ඕන."
+    },
+    {
+      "id": "b1-27-q13",
+      "q": "'They have finished, ___ ?'",
+      "options": [
+        "didn't they",
+        "haven't they",
+        "don't they",
+        "aren't they"
+      ],
+      "answer": 1,
+      "explainSi": "වාක්‍යයේ 'have' තියෙනවා — ඒකම ආපහු."
+    },
+    {
+      "id": "b1-27-q14",
+      "q": "සිංහල 'නේද?' එකයි ඉංග්‍රීසි tag එකයි අතර ලොකුම වෙනස?",
+      "options": [
+        "වෙනසක් නෑ",
+        "ඉංග්‍රීසි tag එක වාක්‍යයේ ක්‍රියාව අනුව වෙනස් වෙනවා",
+        "සිංහල එක දිගයි",
+        "ඉංග්‍රීසි එක ලියන එකට විතරයි"
+      ],
+      "answer": 1,
+      "explainSi": "'නේද' එකයි; ඉංග්‍රීසියේ isn't it / don't you / didn't he…"
+    },
+    {
+      "id": "b1-27-q15",
+      "q": "'We can park here, ___ ?'",
+      "options": [
+        "don't we",
+        "can't we",
+        "aren't we",
+        "shall we"
+      ],
+      "answer": 1,
+      "explainSi": "'can' තියෙනවා — 'can't we'."
+    },
+    {
+      "id": "b1-27-q16",
+      "q": "'You haven't seen my keys, ___ ?'",
+      "options": [
+        "have you",
+        "haven't you",
+        "did you",
+        "do you"
+      ],
+      "answer": 0,
+      "explainSi": "නැහැ වාක්‍යයට හරි tag."
+    },
+    {
+      "id": "b1-27-q17",
+      "q": "නොහඳුනන කෙනෙක් එක්ක කථාවක් පටන් ගන්න tag එකක්?",
+      "options": [
+        "You're wrong, aren't you?",
+        "Terrible weather, isn't it?",
+        "You didn't pay, did you?",
+        "Let's go, shall we?"
+      ],
+      "answer": 1,
+      "explainSi": "ඕනම කෙනෙකුට උත්තර දෙන්න පුළුවන් ප්‍රශ්නයක්."
+    },
+    {
+      "id": "b1-27-q18",
+      "q": "'She works here, ___ ?'",
+      "options": [
+        "isn't she",
+        "doesn't she",
+        "don't she",
+        "didn't she"
+      ],
+      "answer": 1,
+      "explainSi": "she එක්ක does — 'doesn't she'."
+    }
+  ],
+  "vocab": [
+    {
+      "en": "isn't it",
+      "si": "නේද",
+      "say": "ඉස්න්ට් ඉට්",
+      "exampleEn": "It's cold, isn't it?",
+      "exampleSi": "සීතලයි නේද?"
+    },
+    {
+      "en": "aren't I",
+      "si": "නේද (I am එකට)",
+      "say": "ආන්ට් අයි",
+      "exampleEn": "I'm late, aren't I?",
+      "exampleSi": "මම පරක්කුයි නේද?"
+    },
+    {
+      "en": "don't you",
+      "si": "නේද",
+      "say": "ඩෝන්ට් යූ",
+      "exampleEn": "You like tea, don't you?",
+      "exampleSi": "තේ වලට කැමතියි නේද?"
+    },
+    {
+      "en": "didn't he",
+      "si": "නේද (අතීතය)",
+      "say": "ඩිඩ්න්ට් හී",
+      "exampleEn": "He called, didn't he?",
+      "exampleSi": "එයා කතා කළා නේද?"
+    },
+    {
+      "en": "haven't they",
+      "si": "නේද (present perfect)",
+      "say": "හෑවන්ට් දේ",
+      "exampleEn": "They've gone, haven't they?",
+      "exampleSi": "ඒගොල්ලෝ ගිහින් නේද?"
+    },
+    {
+      "en": "shall we",
+      "si": "නේද (Let's එකට)",
+      "say": "ෂෑල් වී",
+      "exampleEn": "Let's go, shall we?",
+      "exampleSi": "අපි යමු නේද?"
+    },
+    {
+      "en": "will you",
+      "si": "නේද (විධානයකට)",
+      "say": "විල් යූ",
+      "exampleEn": "Close the door, will you?",
+      "exampleSi": "දොර වහන්න, හරිද?"
+    },
+    {
+      "en": "freezing",
+      "si": "හරිම සීතලයි",
+      "say": "ෆ්‍රීසින්",
+      "exampleEn": "Yes, freezing.",
+      "exampleSi": "ඔව්, හරිම සීතලයි."
+    },
+    {
+      "en": "terrible",
+      "si": "බයානකයි",
+      "say": "ටෙරිබල්",
+      "exampleEn": "Terrible traffic, wasn't it?",
+      "exampleSi": "ට්‍රැෆික් එක බයානකයි නේද?"
+    },
+    {
+      "en": "lovely",
+      "si": "ලස්සනයි",
+      "say": "ලව්ලි",
+      "exampleEn": "Lovely day, isn't it?",
+      "exampleSi": "ලස්සන දවසක් නේද?"
+    },
+    {
+      "en": "queue",
+      "si": "පෝලිම",
+      "say": "කිව්",
+      "exampleEn": "Long queue, isn't it?",
+      "exampleSi": "පෝලිම දිගයි නේද?"
+    },
+    {
+      "en": "actually",
+      "si": "ඇත්තටම",
+      "say": "ඇක්චුඅලි",
+      "exampleEn": "Actually, I did.",
+      "exampleSi": "ඇත්තටම මම කළා."
+    },
+    {
+      "en": "small talk",
+      "si": "කුඩා කථාව",
+      "say": "ස්මෝල් ටෝක්",
+      "exampleEn": "Tags are for small talk.",
+      "exampleSi": "Tag කුඩා කථාවට."
+    },
+    {
+      "en": "agree",
+      "si": "එකඟ වෙනවා",
+      "say": "අග්‍රී",
+      "exampleEn": "I agree.",
+      "exampleSi": "මම එකඟයි."
+    },
+    {
+      "en": "intonation",
+      "si": "ස්වරය",
+      "say": "ඉන්ටනේෂන්",
+      "exampleEn": "The intonation changes it.",
+      "exampleSi": "ස්වරයෙන් ඒක වෙනස් වෙනවා."
+    },
+    {
+      "en": "double-check",
+      "si": "ආපහු තහවුරු කරනවා",
+      "say": "ඩබල් චෙක්",
+      "exampleEn": "I'm just double-checking.",
+      "exampleSi": "මම ආපහු තහවුරු කරගන්නවා විතරයි."
+    }
+  ]
+}

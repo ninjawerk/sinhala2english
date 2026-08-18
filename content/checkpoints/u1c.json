@@ -1,0 +1,115 @@
+{
+  "quiz": [
+    {
+      "id": "u1c-cp-q1",
+      "q": "'She ___ (work) in a bank.' — නිවැරදි ස්වරූපය?",
+      "options": ["work", "works", "working", "worked"],
+      "answer": 1,
+      "explainSi": "'he/she/it' සමඟ present simple හි ක්‍රියාවට 's' එකතු කරනවා.",
+      "speak": "She works in a bank."
+    },
+    {
+      "id": "u1c-cp-q2",
+      "q": "'watch' → 'she ___' — 's' කොහොමද එකතු කරන්නේ?",
+      "options": ["watchs", "watches", "watchies", "watchings"],
+      "answer": 1,
+      "explainSi": "'ch' වලින් අවසන් වන ක්‍රියාවලට 'es' එකතු කරනවා — 'watches'."
+    },
+    {
+      "id": "u1c-cp-q3",
+      "q": "'ඔබ කෝපි බොනවද?' — 'Do' ද 'Does' ද?",
+      "options": ["Do you drink coffee?", "Does you drink coffee?", "Do you drinks coffee?", "You do drink coffee?"],
+      "answer": 0,
+      "explainSi": "'you' සමඟ 'Do' — 'Do you...?'",
+      "speak": "Do you drink coffee?"
+    },
+    {
+      "id": "u1c-cp-q4",
+      "q": "'එයාට කෝපි ආසාවක් නෑ.' — negative එකේදී 'work' එකේ 's' එක යනවද?",
+      "options": [
+        "ඔව්, 'doesn't' යෙදුනාම ක්‍රියාවේ මූලික ස්වරූපයම — 'doesn't like'",
+        "නෑ, 's' එකම තියෙනවා — 'doesn't likes'",
+        "'doesn't' යෙදෙන්නේ නෑ",
+        "දෙකම වැරදියි"
+      ],
+      "answer": 0,
+      "explainSi": "'doesn't' + ක්‍රියාවේ මූලික ස්වරූපය — 's' එක 'doesn't' එකෙන්ම පෙන්නනවා."
+    },
+    {
+      "id": "u1c-cp-q5",
+      "q": "'I always drink tea in the morning.' — 'always' කොහෙද තියෙන්නේ?",
+      "options": [
+        "ප්‍රධාන ක්‍රියාවට කලින්",
+        "ප්‍රධාන ක්‍රියාවට පස්සේ",
+        "වාක්‍යයේ අගට",
+        "වාක්‍යයේ මුලට"
+      ],
+      "answer": 0,
+      "explainSi": "Frequency adverb (always/usually/never) ප්‍රධාන ක්‍රියාවට කලින් තියෙනවා."
+    },
+    {
+      "id": "u1c-cp-q6",
+      "q": "'ඔබ කොපමණ වාරයක් ව්‍යායාම කරනවද?' — ඉංග්‍රීසියෙන්?",
+      "options": ["How much do you exercise?", "How often do you exercise?", "How many you exercise?", "How exercise do you?"],
+      "answer": 1,
+      "explainSi": "'How often' — කොපමණ වාරයක් කියලා අහන ප්‍රශ්නය.",
+      "speak": "How often do you exercise?"
+    },
+    {
+      "id": "u1c-cp-q7",
+      "q": "'මම පිහිනීමට කැමතියි.' — 'like' පසුව කුමන ආකෘතියද?",
+      "options": ["I like swim.", "I like swims.", "I like swimming.", "I like to swimming."],
+      "answer": 2,
+      "explainSi": "'like' පසුව -ing හෝ 'to' + මූලික ස්වරූපය — 'I like swimming.'",
+      "speak": "I like swimming."
+    },
+    {
+      "id": "u1c-cp-q8",
+      "q": "'මම එය කරන්නේ නිකන්, ඒක විනෝදජනක නිසා.' — හේතුවක් දෙන්නේ කොහොමද?",
+      "options": [
+        "'because' + හේතුව",
+        "'so' + හේතුව",
+        "'but' + හේතුව",
+        "හේතුවක් දෙන්න බෑ"
+      ],
+      "answer": 0,
+      "explainSi": "'because' + හේතුව — 'I like it because it's fun.'"
+    },
+    {
+      "id": "u1c-cp-q9",
+      "q": "'මට පිහිනන්න පුළුවන්.' — 'can' පසුව කුමන ආකෘතියද?",
+      "options": ["I can swim.", "I can swims.", "I can swimming.", "I can to swim."],
+      "answer": 0,
+      "explainSi": "'can' පසුව ක්‍රියාවේ මූලික ස්වරූපය — 's' නෑ, '-ing' නෑ, 'to' නෑ.",
+      "speak": "I can swim."
+    },
+    {
+      "id": "u1c-cp-q10",
+      "q": "'can' සහ 'like + -ing' දෙකේම ක්‍රියාවේ ස්වරූපය එකම ද?",
+      "options": [
+        "නෑ — 'can' පසුව මූලික ස්වරූපය, 'like' පසුව -ing",
+        "ඔව්, දෙකම -ing",
+        "ඔව්, දෙකම මූලික ස්වරූපය",
+        "දෙකම 's' එකතු කරනවා"
+      ],
+      "answer": 0,
+      "explainSi": "'can swim' (මූලික ස්වරූපය) vs 'like swimming' (-ing) — විවිධ රටා දෙකක්."
+    },
+    {
+      "id": "u1c-cp-q11",
+      "q": "'ජනේලය වහන්න පුළුවන්ද?' (ආචාරශීලීව ඉල්ලීමක්) — ඉංග්‍රීසියෙන්?",
+      "options": ["Can you close the window?", "Can I close the window?", "You can close the window.", "Close you the window?"],
+      "answer": 0,
+      "explainSi": "'Can you...?' — අනිත් කෙනාගෙන් යමක් ඉල්ලද්දී.",
+      "speak": "Can you close the window, please?"
+    },
+    {
+      "id": "u1c-cp-q12",
+      "q": "'මට යන්න පුළුවන්ද?' (අවසර ඉල්ලීමක්) — 'Can you' ද 'Can I' ද?",
+      "options": ["Can you go?", "Can I go?", "Can go I?", "I can go?"],
+      "answer": 1,
+      "explainSi": "'Can I...?' — තමන්ටම අවසර ඉල්ලද්දී, 'Can you...?' අනිත් කෙනාගෙන් ඉල්ලද්දී.",
+      "speak": "Can I go, please?"
+    }
+  ]
+}

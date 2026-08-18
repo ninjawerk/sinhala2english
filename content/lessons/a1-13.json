@@ -1,0 +1,930 @@
+{
+  "hero": {
+    "src": "images/a1-13-hero.webp",
+    "alt": "Ruwan lifting a pot with a plant, laundry on a line behind him."
+  },
+  "goalsSi": [
+    "am / is / are + ක්‍රියාව + -ing යොදා දැන් සිදුවන දේ කීම",
+    "පුරුද්දක් සහ මේ මොහොත අතර වෙනස",
+    "නැහැ කීම සහ ප්‍රශ්න ඇසීම",
+    "-ing එකතු කරද්දී අකුරු වෙනස් වන අවස්ථා",
+    "Look! Listen! at the moment — මේ කාලය එන ලකුණු"
+  ],
+  "goals": [
+    "Say what is happening now",
+    "Tell habits apart from this moment",
+    "Make negatives and questions",
+    "Spell -ing forms correctly"
+  ],
+  "sections": [
+    {
+      "type": "note",
+      "title": "Two different 'now'",
+      "titleSi": "වෙනස් 'දැන්' දෙකක්",
+      "bodySi": "සිංහලෙන් 'මම වැඩ කරනවා' කියන එකම වාක්‍යය අවස්ථා දෙකකට යෙදෙනවා:\n\n1. මම බැංකුවක වැඩ කරනවා (රැකියාව — හැම දාම).\n2. දැන් මම වැඩ කරනවා (මේ මොහොතේ).\n\nඉංග්‍රීසියෙන් මේ දෙක වෙනස්:\n\nI work in a bank. — රැකියාව, පුරුද්ද.\nI am working now. — දැන්, මේ මොහොතේ.\n\nදෙවැන්නට ක්‍රියාව තනියම මදි. 'am/is/are' සහ '-ing' දෙකම ඕන. එකක් අමතක වුණොත් වාක්‍යය කැඩෙනවා:\n\nI am working. ✓\nI working. ✗ (am නෑ)\nI am work. ✗ (-ing නෑ)\n\nසිංහල කථා කරන අය නිතරම මුල් ස්වරූපය හැම තැනටම යොදනවා. එනිසා මේ පාඩම මුළුමනින්ම මේ වෙනස ගැනයි.",
+      "body": "Now needs am/is/are AND -ing. Both, or neither."
+    },
+    {
+      "type": "grammar",
+      "title": "am / is / are + -ing",
+      "titleSi": "am / is / are + -ing",
+      "explainSi": "'be' ක්‍රියාව සර්වනාමය අනුව වෙනස් වෙනවා. ඊට පස්සේ එන ක්‍රියාවට හැම විටම -ing. දෙකම එකට යනවා — එකක් තනියම යන්නේ නෑ.",
+      "formula": "I am + -ing  ·  he / she / it is + -ing  ·  you / we / they are + -ing",
+      "table": {
+        "headers": [
+          "ධනාත්මක",
+          "කෙටි ස්වරූපය",
+          "සිංහල"
+        ],
+        "rows": [
+          [
+            "I am eating.",
+            "I'm eating.",
+            "මම කනවා (දැන්)."
+          ],
+          [
+            "You are reading.",
+            "You're reading.",
+            "ඔබ කියවනවා."
+          ],
+          [
+            "He is sleeping.",
+            "He's sleeping.",
+            "එයා නිදාගන්නවා."
+          ],
+          [
+            "She is cooking.",
+            "She's cooking.",
+            "එයා උයනවා."
+          ],
+          [
+            "It is raining.",
+            "It's raining.",
+            "වහිනවා."
+          ],
+          [
+            "We are waiting.",
+            "We're waiting.",
+            "අපි බලාගෙන ඉන්නවා."
+          ],
+          [
+            "They are playing.",
+            "They're playing.",
+            "ඔවුන් සෙල්ලම් කරනවා."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "Look! The bus is coming.",
+          "si": "බලන්න! බස් එක එනවා."
+        },
+        {
+          "en": "My mother is talking to the neighbour.",
+          "si": "අම්මා අසල්වැසියා එක්ක කථා කරනවා."
+        },
+        {
+          "en": "We are learning English at the moment.",
+          "si": "අපි මේ මොහොතේ ඉංග්‍රීසි ඉගෙන ගන්නවා."
+        }
+      ],
+      "watchOutSi": "'I working' සහ 'I am work' දෙකම වැරදියි. am/is/are සහ -ing දෙකම එකට තියෙන්න ඕන."
+    },
+    {
+      "type": "grammar",
+      "title": "Negatives and questions",
+      "titleSi": "නැහැ කීම සහ ප්‍රශ්න",
+      "explainSi": "නැහැ කියන්න 'not' එකතු කරනවා. ප්‍රශ්නයක් හදන්න am/is/are මුලට ගේනවා. do/does මෙතන ඕන නෑ — can වගේම, be දැනටමත් ඒ වැඩේ කරනවා.",
+      "formula": "subject + am/is/are + not + -ing  ·  Am/Is/Are + subject + -ing?",
+      "table": {
+        "headers": [
+          "ධනාත්මක",
+          "නැහැ",
+          "ප්‍රශ්නය"
+        ],
+        "rows": [
+          [
+            "I am working.",
+            "I'm not working.",
+            "Am I working?"
+          ],
+          [
+            "He is sleeping.",
+            "He isn't sleeping.",
+            "Is he sleeping?"
+          ],
+          [
+            "She is cooking.",
+            "She isn't cooking.",
+            "Is she cooking?"
+          ],
+          [
+            "We are waiting.",
+            "We aren't waiting.",
+            "Are we waiting?"
+          ],
+          [
+            "They are coming.",
+            "They aren't coming.",
+            "Are they coming?"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "Are you listening to me?",
+          "si": "ඔබ මගේ කථාව අහගෙනද ඉන්නේ?"
+        },
+        {
+          "en": "The baby isn't sleeping. She's crying.",
+          "si": "බබා නිදාගන්නේ නෑ. ඇඬෙනවා."
+        },
+        {
+          "en": "Why are you laughing?",
+          "si": "ඔබ හිනා වෙන්නේ ඇයි?"
+        },
+        {
+          "en": "Yes, I am. / No, I'm not.",
+          "si": "ඔව්. / නෑ."
+        }
+      ],
+      "watchOutSi": "'Do you working?' සහ 'She doesn't working' වැරදියි. be යෙදෙන තැන do/does එන්නේ නෑ."
+    },
+    {
+      "type": "grammar",
+      "title": "Spelling the -ing form",
+      "titleSi": "-ing ස්වරූපයේ අකුරු",
+      "explainSi": "බොහෝ ක්‍රියාවලට -ing එකතු කරනවා විතරයි. නමුත් නීති දෙකක් තියෙනවා: අන්තිමට e තියෙනවා නම් එය අයින් වෙනවා; කෙටි ස්වර ශබ්දයකින් පස්සේ එක ව්‍යඤ්ජනයක් තියෙනවා නම් එය දෙගුණ වෙනවා.",
+      "formula": "verb + ing  ·  make → making  ·  sit → sitting",
+      "table": {
+        "headers": [
+          "නීතිය",
+          "ක්‍රියාව",
+          "-ing ස්වරූපය"
+        ],
+        "rows": [
+          [
+            "සාමාන්‍යයෙන් +ing",
+            "eat, play, read",
+            "eating, playing, reading"
+          ],
+          [
+            "අන්තිම e අයින්",
+            "make, write, come",
+            "making, writing, coming"
+          ],
+          [
+            "අන්තිම අකුර දෙගුණ",
+            "sit, run, get, swim",
+            "sitting, running, getting, swimming"
+          ],
+          [
+            "ie → y",
+            "lie, die",
+            "lying, dying"
+          ],
+          [
+            "-ee නම් වෙනසක් නෑ",
+            "see, agree",
+            "seeing, agreeing"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "She is writing a letter.",
+          "si": "එයා ලියුමක් ලියනවා."
+        },
+        {
+          "en": "The children are running in the garden.",
+          "si": "ළමයි වත්තේ දුවනවා."
+        },
+        {
+          "en": "He is coming now.",
+          "si": "එයා දැන් එනවා."
+        }
+      ],
+      "watchOutSi": "'writeing' සහ 'siting' වැරදියි. e අයින් වෙනවා, sit එකේ t දෙගුණ වෙනවා."
+    },
+    {
+      "type": "grammar",
+      "title": "Which one? Habit or now",
+      "titleSi": "කුමන එකද? පුරුද්දද, දැන්ද",
+      "explainSi": "වාක්‍යයේ තියෙන ලකුණු බලන්න. සමහර වචන එක් කාලයකට විතරයි ගැළපෙන්නේ.",
+      "table": {
+        "headers": [
+          "ලකුණ",
+          "කාලය",
+          "උදාහරණය"
+        ],
+        "rows": [
+          [
+            "every day, usually, always",
+            "පුරුද්ද",
+            "I usually walk to work."
+          ],
+          [
+            "now, at the moment, today",
+            "දැන්",
+            "I am walking to work today."
+          ],
+          [
+            "Look! Listen!",
+            "දැන්",
+            "Listen! Somebody is knocking."
+          ],
+          [
+            "on Mondays, twice a week",
+            "පුරුද්ද",
+            "She works on Mondays."
+          ],
+          [
+            "this week, these days",
+            "දැන් (දිගු කාලයක්)",
+            "He is studying for exams this week."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "My father drives a bus, but today he is driving a van.",
+          "si": "තාත්තා බස් එකක් පදවනවා, හැබැයි අද එයා වෑන් එකක් පදවනවා."
+        },
+        {
+          "en": "I don't usually drink coffee, but I'm drinking it now.",
+          "si": "මම සාමාන්‍යයෙන් කෝපි බොන්නේ නෑ, හැබැයි දැන් බොනවා."
+        }
+      ],
+      "watchOutSi": "'I am going to school every day' — වැරදියි. හැම දාම නම් 'I go to school every day'."
+    },
+    {
+      "type": "vocab",
+      "title": "Happening now",
+      "titleSi": "දැන් සිදුවෙන දේ",
+      "items": [
+        {
+          "en": "now",
+          "si": "දැන්",
+          "say": "නව්"
+        },
+        {
+          "en": "at the moment",
+          "si": "මේ මොහොතේ",
+          "say": "ඇට් ද මෝමන්ට්"
+        },
+        {
+          "en": "Look!",
+          "si": "බලන්න!",
+          "say": "ලුක්"
+        },
+        {
+          "en": "Listen!",
+          "si": "අහන්න!",
+          "say": "ලිසන්"
+        },
+        {
+          "en": "wait",
+          "si": "බලාගෙන ඉන්නවා",
+          "say": "වේට්"
+        },
+        {
+          "en": "carry",
+          "si": "අරගෙන යනවා",
+          "say": "කැරි"
+        },
+        {
+          "en": "knock",
+          "si": "තට්ටු කරනවා",
+          "say": "නොක්"
+        },
+        {
+          "en": "shout",
+          "si": "කෑගහනවා",
+          "say": "ෂවුට්"
+        },
+        {
+          "en": "cry",
+          "si": "අඬනවා",
+          "say": "ක්‍රයි"
+        },
+        {
+          "en": "laugh",
+          "si": "හිනා වෙනවා",
+          "say": "ලාෆ්"
+        },
+        {
+          "en": "queue",
+          "si": "පෝලිම",
+          "say": "කිව්",
+          "exampleEn": "People are standing in a queue.",
+          "exampleSi": "මිනිස්සු පෝලිමේ ඉන්නවා."
+        },
+        {
+          "en": "platform",
+          "si": "වේදිකාව",
+          "say": "ප්ලැට්ෆෝම්"
+        },
+        {
+          "en": "umbrella",
+          "si": "කුඩය",
+          "say": "අම්බ්‍රෙලා"
+        },
+        {
+          "en": "window",
+          "si": "ජනේලය",
+          "say": "වින්ඩෝ"
+        },
+        {
+          "en": "street",
+          "si": "වීදිය",
+          "say": "ස්ට්‍රීට්"
+        },
+        {
+          "en": "somebody",
+          "si": "කවුරුහරි",
+          "say": "සම්බඩි"
+        },
+        {
+          "en": "nobody",
+          "si": "කවුරුවත් නෑ",
+          "say": "නොබඩි"
+        },
+        {
+          "en": "still",
+          "si": "තාමත්",
+          "say": "ස්ටිල්"
+        }
+      ]
+    },
+    {
+      "type": "story",
+      "title": "From the Window",
+      "titleSi": "ජනේලයෙන්",
+      "introSi": "මේ කතාවේ හැම දෙයක්ම දැන් සිදුවෙනවා. එනිසා හැම ක්‍රියාවක්ම -ing ස්වරූපයෙන්. කියවද්දී ඒවා ගණන් කරන්න.",
+      "paragraphs": [
+        {
+          "en": "It is half past four, and it is raining. I am sitting at my window with a cup of tea. I am not working today, so I am watching the street.",
+          "si": "දැන් හතරයි කාලයි, වහිනවා. මම තේ කෝප්පයක් අරගෙන ජනේලය ළඟ ඉඳගෙන ඉන්නවා. අද මම වැඩ කරන්නේ නෑ, එනිසා වීදිය බලාගෙන ඉන්නවා."
+        },
+        {
+          "en": "A woman is running to the bus stop. She is carrying two bags and she is not carrying an umbrella. The bus is waiting, but the driver is not looking at her.",
+          "si": "කාන්තාවක් බස් නැවතුමට දුවනවා. එයා බෑග් දෙකක් අරගෙන යනවා, කුඩයක් නෑ. බස් එක බලාගෙන ඉන්නවා, හැබැයි රියදුරු එයාව බලන්නේ නෑ."
+        },
+        {
+          "en": "Two boys are standing under the shop roof. They are laughing at something on a phone. Their shoes are wet, but they are not going home.",
+          "si": "පිරිමි ළමයි දෙන්නෙක් කඩේ වහලය යට ඉන්නවා. ඔවුන් දුරකථනයේ යමකට හිනා වෙනවා. ඔවුන්ගේ සපත්තු තෙමිලා, හැබැයි ඔවුන් ගෙදර යන්නේ නෑ."
+        },
+        {
+          "en": "The woman is shouting now. The driver is starting the engine. Then one of the boys is shouting too, and he is waving both arms at the bus.",
+          "si": "දැන් කාන්තාව කෑගහනවා. රියදුරු එන්ජිම පටන් ගන්නවා. එතකොට ළමයෙක්ද කෑගහනවා, බස් එකට දෑත් දෙකම වනනවා."
+        },
+        {
+          "en": "The bus stops. The woman is climbing in, and she is saying something to the boy. She is not smiling — she is out of breath — but she is nodding at him.",
+          "si": "බස් එක නවතිනවා. කාන්තාව නගිනවා, ළමයාට යමක් කියනවා. එයා හිනාවෙන්නේ නෑ — හුස්ම හිරවෙලා — හැබැයි ළමයාට හිස සලනවා."
+        },
+        {
+          "en": "Now the street is empty again. It is still raining. I am still sitting here, and my tea is cold.",
+          "si": "දැන් වීදිය නැවත හිස්. තාමත් වහිනවා. මම තාමත් මෙතන ඉඳගෙන ඉන්නවා, මගේ තේ සීතලයි."
+        }
+      ],
+      "glossary": [
+        {
+          "en": "half past four",
+          "si": "හතරයි කාලයි"
+        },
+        {
+          "en": "bus stop",
+          "si": "බස් නැවතුම"
+        },
+        {
+          "en": "wet",
+          "si": "තෙමිච්ච"
+        },
+        {
+          "en": "wave",
+          "si": "වනනවා"
+        },
+        {
+          "en": "climb in",
+          "si": "නගිනවා"
+        },
+        {
+          "en": "out of breath",
+          "si": "හුස්ම හිරවෙලා"
+        },
+        {
+          "en": "nod",
+          "si": "හිස සලනවා"
+        },
+        {
+          "en": "empty",
+          "si": "හිස්"
+        }
+      ],
+      "questionsSi": [
+        "කථකයා අද වැඩ නොකරන්නේ ඇයි කියලා අපි දන්නවාද?",
+        "කාන්තාවට කුඩයක් නැත්තේ ඇයි වැදගත් වන්නේ?",
+        "බස් එක නවතින්නේ කාගේ කෑගැසීම නිසාද?",
+        "අන්තිම වාක්‍යයෙන් කාලය ගැන අපිට කුමක් කියනවාද?"
+      ]
+    },
+    {
+      "type": "poem",
+      "title": "Everyone Is Busy",
+      "titleSi": "හැමෝම කාර්යබහුලයි",
+      "introSi": "හැම පේළියකම is හෝ are සමඟ -ing එනවා.",
+      "lines": [
+        {
+          "en": "The kettle is singing, the rice is done,",
+          "si": "කේතලය ගී ගයනවා, බත උයලා ඉවරයි,"
+        },
+        {
+          "en": "The neighbours are shouting again.",
+          "si": "අසල්වැසියෝ නැවතත් කෑගහනවා."
+        },
+        {
+          "en": "My brother is looking for both his shoes,",
+          "si": "අයියා තමන්ගේ සපත්තු දෙකම හොයනවා,"
+        },
+        {
+          "en": "And nobody's watching the rain.",
+          "si": "වැස්ස කවුරුවත් බලන්නේ නෑ."
+        },
+        {
+          "en": "",
+          "si": ""
+        },
+        {
+          "en": "I'm sitting still. I'm doing nothing.",
+          "si": "මම නිශ්චලව ඉන්නවා. කිසිවක් කරන්නේ නෑ."
+        },
+        {
+          "en": "They say that's rather rude.",
+          "si": "ඒක ටිකක් අශෝභනයි කියලා ඔවුන් කියනවා."
+        },
+        {
+          "en": "But someone in a busy house",
+          "si": "හැබැයි කාර්යබහුල ගෙදරක"
+        },
+        {
+          "en": "Is watching, and it's good.",
+          "si": "කවුරුහරි බලාගෙන ඉන්නවා, ඒක හොඳයි."
+        }
+      ],
+      "noteSi": "'nobody's watching' යනු 'nobody is watching'. කෙටි ස්වරූපය කවියේ පොදුයි."
+    },
+    {
+      "type": "dialogue",
+      "title": "On the phone",
+      "titleSi": "දුරකථනයෙන්",
+      "settingSi": "දුරකථනයෙන් කථා කරද්දී 'දැන් මොකද කරන්නේ' කියලා අහන එක සාමාන්‍යයි. පුරුද්ද සහ මේ මොහොත මාරු වෙන තැන් බලන්න.",
+      "lines": [
+        {
+          "speaker": "Nadi",
+          "en": "Hi! What are you doing?",
+          "si": "හායි! ඔබ මොකද කරන්නේ?"
+        },
+        {
+          "speaker": "Kasun",
+          "en": "I'm standing in a queue at the bank. What about you?",
+          "si": "මම බැංකුවේ පෝලිමේ ඉන්නවා. ඔබ?"
+        },
+        {
+          "speaker": "Nadi",
+          "en": "I'm cooking. Are you coming for dinner?",
+          "si": "මම උයනවා. රෑ කෑමට එනවාද?"
+        },
+        {
+          "speaker": "Kasun",
+          "en": "I don't usually eat dinner early, but today I'm finishing work at five.",
+          "si": "සාමාන්‍යයෙන් මම කලින් රෑ කෑම කන්නේ නෑ, හැබැයි අද පහට වැඩ ඉවර කරනවා."
+        },
+        {
+          "speaker": "Nadi",
+          "en": "Good. Is it still raining there?",
+          "si": "හොඳයි. එහෙ තාමත් වහිනවාද?"
+        },
+        {
+          "speaker": "Kasun",
+          "en": "It isn't raining now, but nobody is moving. The queue isn't going anywhere.",
+          "si": "දැන් වහින්නේ නෑ, හැබැයි කවුරුවත් හෙළවෙන්නේ නෑ. පෝලිම කොහෙවත් යන්නේ නෑ."
+        }
+      ]
+    },
+    {
+      "type": "practice",
+      "title": "Write the -ing form",
+      "titleSi": "-ing ස්වරූපය ලියන්න",
+      "instructionSi": "අකුරු නීති දෙක මතක තියාගන්න: අන්තිම e අයින්, කෙටි ස්වරයකින් පස්සේ ව්‍යඤ්ජනය දෙගුණ.",
+      "items": [
+        {
+          "prompt": "sit → ___",
+          "answer": "sitting",
+          "hintSi": "කෙටි ස්වරය — t දෙගුණ.",
+          "full": "He is sitting outside."
+        },
+        {
+          "prompt": "make → ___",
+          "answer": "making",
+          "hintSi": "අන්තිම e අයින්.",
+          "full": "She is making tea."
+        },
+        {
+          "prompt": "run → ___",
+          "answer": "running",
+          "hintSi": "n දෙගුණ.",
+          "full": "They are running home."
+        },
+        {
+          "prompt": "read → ___",
+          "answer": "reading",
+          "hintSi": "වෙනසක් නෑ — ස්වර දෙකක් තියෙනවා.",
+          "full": "I am reading a book."
+        },
+        {
+          "prompt": "write → ___",
+          "answer": "writing",
+          "hintSi": "e අයින්.",
+          "full": "He is writing a letter."
+        },
+        {
+          "prompt": "lie → ___",
+          "answer": "lying",
+          "hintSi": "ie → y.",
+          "full": "The dog is lying under the table."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "en": "now",
+      "si": "දැන්"
+    },
+    {
+      "en": "at the moment",
+      "si": "මේ මොහොතේ"
+    },
+    {
+      "en": "wait",
+      "si": "බලාගෙන ඉන්නවා"
+    },
+    {
+      "en": "carry",
+      "si": "අරගෙන යනවා"
+    },
+    {
+      "en": "knock",
+      "si": "තට්ටු කරනවා"
+    },
+    {
+      "en": "shout",
+      "si": "කෑගහනවා"
+    },
+    {
+      "en": "cry",
+      "si": "අඬනවා"
+    },
+    {
+      "en": "laugh",
+      "si": "හිනා වෙනවා"
+    },
+    {
+      "en": "queue",
+      "si": "පෝලිම"
+    },
+    {
+      "en": "platform",
+      "si": "වේදිකාව"
+    },
+    {
+      "en": "umbrella",
+      "si": "කුඩය"
+    },
+    {
+      "en": "window",
+      "si": "ජනේලය"
+    },
+    {
+      "en": "street",
+      "si": "වීදිය"
+    },
+    {
+      "en": "somebody",
+      "si": "කවුරුහරි"
+    },
+    {
+      "en": "nobody",
+      "si": "කවුරුවත් නෑ"
+    },
+    {
+      "en": "still",
+      "si": "තාමත්"
+    },
+    {
+      "en": "wave",
+      "si": "වනනවා"
+    },
+    {
+      "en": "wet",
+      "si": "තෙමිච්ච"
+    },
+    {
+      "en": "empty",
+      "si": "හිස්"
+    },
+    {
+      "en": "nod",
+      "si": "හිස සලනවා"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "a1-13-q1",
+      "q": "'දැන් මම කනවා' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "I eat now.",
+        "I am eating now.",
+        "I am eat now.",
+        "I eating now."
+      ],
+      "answer": 1,
+      "explainSi": "දැන් සිදුවෙන දෙයකට am/is/are සහ -ing දෙකම ඕන.",
+      "speak": "I am eating now."
+    },
+    {
+      "id": "a1-13-q2",
+      "q": "'I working now' වැරදි වන්නේ ඇයි?",
+      "options": [
+        "'now' අන්තිමට යා නොහැකි නිසා",
+        "am/is/are නැති නිසා — -ing තනියම මදි",
+        "'working' වැරදි ස්වරූපය නිසා",
+        "'I' සමඟ -ing යෙදිය නොහැකි නිසා"
+      ],
+      "answer": 1,
+      "explainSi": "දෙකම එකට යනවා: 'I am working now'."
+    },
+    {
+      "id": "a1-13-q3",
+      "q": "'She ___ a letter.' — දැන් සිදුවෙනවා නම්?",
+      "options": [
+        "is writing",
+        "is writeing",
+        "writing",
+        "is write"
+      ],
+      "answer": 0,
+      "explainSi": "'write' එකේ අන්තිම e අයින් වෙලා writing.",
+      "speak": "She is writing a letter."
+    },
+    {
+      "id": "a1-13-q4",
+      "q": "'sit' එකේ -ing ස්වරූපය?",
+      "options": [
+        "siting",
+        "sitting",
+        "sitteing",
+        "siteing"
+      ],
+      "answer": 1,
+      "explainSi": "කෙටි ස්වර ශබ්දයකින් පස්සේ එක ව්‍යඤ්ජනයක් — එය දෙගුණ වෙනවා."
+    },
+    {
+      "id": "a1-13-q5",
+      "q": "'මම බැංකුවක වැඩ කරනවා' (රැකියාව) — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "I am working in a bank.",
+        "I work in a bank.",
+        "I am work in a bank.",
+        "I working in a bank."
+      ],
+      "answer": 1,
+      "explainSi": "රැකියාව යනු පුරුද්දක් — සරල ස්වරූපය. -ing යෙදුවොත් 'දැන් මේ මොහොතේ' කියන අර්ථය එනවා.",
+      "speak": "I work in a bank."
+    },
+    {
+      "id": "a1-13-q6",
+      "q": "'I am going to school every day' — මෙහි ඇති වැරැද්ද?",
+      "options": [
+        "'every day' අන්තිමට යා නොහැක",
+        "'every day' යනු පුරුද්දක් — 'I go to school every day' විය යුතුයි",
+        "'going' වැරදි ස්වරූපයයි",
+        "වැරැද්දක් නෑ"
+      ],
+      "answer": 1,
+      "explainSi": "'every day' සමඟ -ing ස්වරූපය යෙදෙන්නේ නෑ. ලකුණ බලලා කාලය තෝරන්න."
+    },
+    {
+      "id": "a1-13-q7",
+      "q": "'ඔබ මගේ කථාව අහගෙනද ඉන්නේ?' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "Do you listening to me?",
+        "Are you listening to me?",
+        "Are you listen to me?",
+        "You are listening to me?"
+      ],
+      "answer": 1,
+      "explainSi": "ප්‍රශ්නයට are මුලට. do මෙතන ඕන නෑ — be දැනටමත් ඒ වැඩේ කරනවා.",
+      "speak": "Are you listening to me?"
+    },
+    {
+      "id": "a1-13-q8",
+      "q": "'බබා නිදාගන්නේ නෑ' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "The baby doesn't sleeping.",
+        "The baby isn't sleeping.",
+        "The baby not sleeping.",
+        "The baby isn't sleep."
+      ],
+      "answer": 1,
+      "explainSi": "is + not = isn't, ඊට පස්සේ -ing.",
+      "speak": "The baby isn't sleeping."
+    },
+    {
+      "id": "a1-13-q9",
+      "q": "'Listen! Somebody ___ at the door.' — හිස්තැනට?",
+      "options": [
+        "knocks",
+        "is knocking",
+        "knock",
+        "does knock"
+      ],
+      "answer": 1,
+      "explainSi": "'Listen!' යනු දැන් සිදුවෙන දෙයක ලකුණක්.",
+      "speak": "Listen! Somebody is knocking at the door."
+    },
+    {
+      "id": "a1-13-q10",
+      "q": "කුමන වාක්‍යය නිවැරදිද?",
+      "options": [
+        "My father drives a bus, but today he is driving a van.",
+        "My father is driving a bus, but today he drives a van.",
+        "My father driving a bus, but today he is drive a van.",
+        "My father drive a bus, but today he driving a van."
+      ],
+      "answer": 0,
+      "explainSi": "රැකියාව = සරල ස්වරූපය. 'today' = -ing ස්වරූපය. එකම වාක්‍යයේ දෙකම වෙනස් වැඩකට."
+    },
+    {
+      "id": "a1-13-q11",
+      "context": "It is half past four, and it is raining. I am sitting at my window with a cup of tea. I am not working today, so I am watching the street.",
+      "contextSi": "දැන් හතරයි කාලයි, වහිනවා. මම තේ කෝප්පයක් අරගෙන ජනේලය ළඟ ඉඳගෙන ඉන්නවා. අද මම වැඩ කරන්නේ නෑ, එනිසා වීදිය බලාගෙන ඉන්නවා.",
+      "q": "කතාව අනුව: කථකයා වීදිය බලාගෙන ඉන්නේ ඇයි?",
+      "options": [
+        "වැස්ස නිසා",
+        "අද වැඩ නොකරන නිසා",
+        "තේ සීතල නිසා",
+        "බස් එකට බලාගෙන ඉන්න නිසා"
+      ],
+      "answer": 1,
+      "explainSi": "'I am not working today, so I am watching the street' — 'so' හේතුව සම්බන්ධ කරනවා."
+    },
+    {
+      "id": "a1-13-q12",
+      "context": "A woman is running to the bus stop. She is carrying two bags and she is not carrying an umbrella. The bus is waiting, but the driver is not looking at her.",
+      "contextSi": "කාන්තාවක් බස් නැවතුමට දුවනවා. එයා බෑග් දෙකක් අරගෙන යනවා, කුඩයක් නෑ. බස් එක බලාගෙන ඉන්නවා, හැබැයි රියදුරු එයාව බලන්නේ නෑ.",
+      "q": "කතාව අනුව: කාන්තාවගේ ප්‍රශ්නය කුමක්ද?",
+      "options": [
+        "බස් එක නෑ",
+        "රියදුරු එයාව දකින්නේ නෑ",
+        "එයාට බෑග් ඕන",
+        "වහින්නේ නෑ"
+      ],
+      "answer": 1,
+      "explainSi": "'the driver is not looking at her' — බස් එක තියෙනවා, නමුත් රියදුරු දකින්නේ නෑ."
+    },
+    {
+      "id": "a1-13-q13",
+      "context": "Two boys are standing under the shop roof. They are laughing at something on a phone. Their shoes are wet, but they are not going home.",
+      "contextSi": "පිරිමි ළමයි දෙන්නෙක් කඩේ වහලය යට ඉන්නවා. ඔවුන් දුරකථනයේ යමකට හිනා වෙනවා. ඔවුන්ගේ සපත්තු තෙමිලා, හැබැයි ඔවුන් ගෙදර යන්නේ නෑ.",
+      "q": "කතාව අනුව: ළමයි ගැන කුමක් සත්‍යද?",
+      "options": [
+        "ඔවුන් ගෙදර යනවා",
+        "ඔවුන් වහලය යට ඉඳගෙන දුරකථනය බලනවා, තෙමිච්ච වුණත් යන්නේ නෑ",
+        "ඔවුන් බස් එකට බලාගෙන ඉන්නවා",
+        "ඔවුන් කාන්තාවට උදව් කරනවා"
+      ],
+      "answer": 1,
+      "explainSi": "'Their shoes are wet, but they are not going home.'"
+    },
+    {
+      "id": "a1-13-q14",
+      "context": "The woman is shouting now. The driver is starting the engine. Then one of the boys is shouting too, and he is waving both arms at the bus. The bus stops.",
+      "contextSi": "දැන් කාන්තාව කෑගහනවා. රියදුරු එන්ජිම පටන් ගන්නවා. එතකොට ළමයෙක්ද කෑගහනවා, බස් එකට දෑත් දෙකම වනනවා. බස් එක නවතිනවා.",
+      "q": "කතාව අනුව: බස් එක නවතින්නේ ඇයි?",
+      "options": [
+        "කාන්තාව කෑගැහුව නිසා පමණයි",
+        "ළමයාත් කෑගහලා දෑත් වැනූ නිසා — රියදුරුට එය පේනවා",
+        "වැස්ස නැවතුණ නිසා",
+        "එන්ජිම නැවතුණ නිසා"
+      ],
+      "answer": 1,
+      "explainSi": "කාන්තාව කෑගැහුවත් රියදුරු බලන්නේ නෑ. ළමයාගේ අත් වැනීම තමයි එයාට පේන්නේ."
+    },
+    {
+      "id": "a1-13-q15",
+      "context": "She is not smiling — she is out of breath — but she is nodding at him.",
+      "contextSi": "එයා හිනාවෙන්නේ නෑ — හුස්ම හිරවෙලා — හැබැයි ළමයාට හිස සලනවා.",
+      "q": "කතාව අනුව: හිස සැලීමෙන් අදහස් වන්නේ කුමක්ද?",
+      "options": [
+        "එයා තරහයි",
+        "වචන නැතුව ස්තූතිය කියනවා",
+        "එයාට කථා කරන්න බෑ",
+        "එයා ළමයාව දන්නවා"
+      ],
+      "answer": 1,
+      "explainSi": "හුස්ම හිරවෙලා නිසා කථා කරන්න බැරි වුණත්, හිස සැලීමෙන් ස්තූතිය කියනවා."
+    },
+    {
+      "id": "a1-13-q16",
+      "context": "Now the street is empty again. It is still raining. I am still sitting here, and my tea is cold.",
+      "contextSi": "දැන් වීදිය නැවත හිස්. තාමත් වහිනවා. මම තාමත් මෙතන ඉඳගෙන ඉන්නවා, මගේ තේ සීතලයි.",
+      "q": "කතාව අනුව: තේ සීතල වීමෙන් අපිට කුමක් කියනවාද?",
+      "options": [
+        "තේ හොඳ නෑ",
+        "කථකයා බලාගෙන සිටියේ දිගු වෙලාවක් — කථාව සිදුවුණේ ඒ අතරේ",
+        "වැස්ස සීතලයි",
+        "කථකයා තේ බිව්වේ නෑ"
+      ],
+      "answer": 1,
+      "explainSi": "පළමු ඡේදයේ තේ අලුතින් හදලා. දැන් සීතලයි — වෙලාව ගෙවිලා තියෙනවා."
+    },
+    {
+      "id": "a1-13-q17",
+      "context": "I'm sitting still. I'm doing nothing. / They say that's rather rude. / But someone in a busy house / Is watching, and it's good.",
+      "contextSi": "මම නිශ්චලව ඉන්නවා. කිසිවක් කරන්නේ නෑ. / ඒක ටිකක් අශෝභනයි කියලා ඔවුන් කියනවා. / හැබැයි කාර්යබහුල ගෙදරක / කවුරුහරි බලාගෙන ඉන්නවා, ඒක හොඳයි.",
+      "q": "කවියේ අන්තිම කොටසේ අදහස කුමක්ද?",
+      "options": [
+        "කිසිවක් නොකර ඉන්න එක වැරදියි",
+        "හැමෝම කාර්යබහුල වෙලාවක බලාගෙන ඉන්න කෙනෙකුත් අවශ්‍යයි",
+        "ගෙදර ඉතා ඝෝෂාකාරීයි",
+        "වැස්ස බලන එක කම්මැලියි"
+      ],
+      "answer": 1,
+      "explainSi": "'Is watching, and it's good' — නිශ්චලව ඉන්න එකත් යමක් කිරීමක් විදිහට කවිය දකිනවා."
+    },
+    {
+      "id": "a1-13-q18",
+      "context": "Kasun: I don't usually eat dinner early, but today I'm finishing work at five.",
+      "contextSi": "කසුන්: සාමාන්‍යයෙන් මම කලින් රෑ කෑම කන්නේ නෑ, හැබැයි අද පහට වැඩ ඉවර කරනවා.",
+      "q": "සංවාදයේ: මේ වාක්‍යයේ කාල දෙකක් යෙදෙන්නේ ඇයි?",
+      "options": [
+        "වැරදීමකින්",
+        "පළමු කොටස පුරුද්දක්, දෙවැන්න අද විතරක් වන දෙයක්",
+        "දෙකම එකම දෙයක්",
+        "'today' සමඟ හැම විටම දෙකම යෙදෙනවා"
+      ],
+      "answer": 1,
+      "explainSi": "'I don't usually eat' = පුරුද්ද. 'today I'm finishing' = අද විතරයි."
+    },
+    {
+      "id": "a1-13-q19",
+      "q": "'run' එකේ -ing ස්වරූපය?",
+      "options": [
+        "runing",
+        "running",
+        "runnning",
+        "runneing"
+      ],
+      "answer": 1,
+      "explainSi": "කෙටි ස්වරයකින් පස්සේ n එකක් — දෙගුණ වෙනවා."
+    },
+    {
+      "id": "a1-13-q20",
+      "q": "කුමන වාක්‍යය වැරදිද?",
+      "options": [
+        "They are playing outside.",
+        "It is raining.",
+        "She doesn't working today.",
+        "We aren't waiting."
+      ],
+      "answer": 2,
+      "explainSi": "'She isn't working today' විය යුතුයි. be යෙදෙන තැන do/does එන්නේ නෑ."
+    },
+    {
+      "id": "a1-13-q21",
+      "q": "'Are you coming?' — නෑ නම් කෙටි පිළිතුර?",
+      "options": [
+        "No, I don't.",
+        "No, I'm not.",
+        "No, I amn't.",
+        "No, I not."
+      ],
+      "answer": 1,
+      "explainSi": "ප්‍රශ්නයේ 'are' යෙදුණා නම් පිළිතුරෙත් be ක්‍රියාව. 'amn't' කියලා වචනයක් නෑ."
+    },
+    {
+      "id": "a1-13-q22",
+      "q": "'I don't usually drink coffee, but I ___ it now.' — හිස්තැනට?",
+      "options": [
+        "drink",
+        "am drinking",
+        "drinks",
+        "am drink"
+      ],
+      "answer": 1,
+      "explainSi": "'now' නිසා -ing ස්වරූපය. එකම වාක්‍යයේ පුරුද්දයි මේ මොහොතයි වෙන් වෙනවා.",
+      "speak": "I don't usually drink coffee, but I'm drinking it now."
+    }
+  ]
+}

@@ -1,0 +1,453 @@
+{
+  "hero": {
+    "src": "images/b1-02-hero.webp",
+    "alt": "Nadeesha waiting outside an interview room on a chair in a corridor, straightening her collar, nervous but determined, clock on the wall."
+  },
+  "goalsSi": [
+    "because, so, but, although යෙදීම",
+    "කථාවක් පිළිවෙළට කීමට first, then, after that යෙදීම",
+    "කෙටි වාක්‍ය එකතු කර දිගු වාක්‍ය සෑදීම",
+    "සරල ඡේදයක් ලිවීම"
+  ],
+  "goals": [
+    "Join short sentences",
+    "Show reason and contrast",
+    "Sequence a story"
+  ],
+  "sections": [
+    {
+      "type": "note",
+      "title": "From short sentences to real English",
+      "titleSi": "කෙටි වාක්‍යවලින් සැබෑ ඉංග්‍රීසියට",
+      "bodySi": "දැන් ඔබට කෙටි වාක්‍ය හදන්න පුළුවන්. නමුත් සැබෑ ඉංග්‍රීසි මෙහෙම නෙවෙයි:\n\n\"I was tired. I went to bed. It was early.\"\n\nමේක ළමා ඉංග්‍රීසි වගේ. සම්බන්ධක වචන යෙදුවම එය මෙසේ වෙනවා:\n\n\"I went to bed early because I was tired.\"\n\nඑකම අර්ථයයි, නමුත් වැඩිහිටි, ස්වාභාවික ඉංග්‍රීසි. මේ පාඩම ඔබේ ඉංග්‍රීසි එකවර මට්ටමකින් ඉහළ දමයි.",
+      "body": "Linking words turn short, childish sentences into natural English."
+    },
+    {
+      "type": "grammar",
+      "title": "Reason and result",
+      "titleSi": "හේතුව සහ ප්‍රතිඵලය",
+      "explainSi": "'because' සහ 'so' එකම සම්බන්ධය දෙපැත්තෙන් පෙන්නනවා.\n\n• because + හේතුව (ඇයි?)\n• so + ප්‍රතිඵලය (එනිසා මොකද වුණේ?)\n\nI stayed at home BECAUSE it was raining. (හේතුව අගට)\nIt was raining, SO I stayed at home. (ප්‍රතිඵලය අගට)",
+      "formula": "result + because + reason   ·   reason + so + result",
+      "table": {
+        "headers": [
+          "Word",
+          "Use",
+          "Example"
+        ],
+        "rows": [
+          [
+            "because",
+            "හේතුව හඳුන්වයි",
+            "She was late because the bus broke down."
+          ],
+          [
+            "so",
+            "ප්‍රතිඵලය හඳුන්වයි",
+            "The bus broke down, so she was late."
+          ],
+          [
+            "since / as",
+            "because හා සමානයි (විධිමත්)",
+            "Since it was raining, we stayed inside."
+          ],
+          [
+            "therefore",
+            "ඉතා විධිමත් 'so'",
+            "The road was closed. Therefore, we took another route."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "I couldn't come because I was ill.",
+          "si": "මට එන්න බැරි වුණා මොකද මම අසනීපයි."
+        },
+        {
+          "en": "It was very hot, so we opened all the windows.",
+          "si": "හරිම රස්නෙයි, එනිසා අපි හැම ජනේලයක්ම ඇරියා."
+        },
+        {
+          "en": "She studies hard because she wants to be a doctor.",
+          "si": "එයා දොස්තර කෙනෙක් වෙන්න ඕන නිසා හොඳට ඉගෙන ගන්නවා."
+        }
+      ],
+      "watchOutSi": "සිංහල කථා කරන අය නිතර කරන වැරැද්දක්: 'Because it was raining, so I stayed home.' — දෙකම එකට යොදන්න බෑ! එකක් තෝරන්න."
+    },
+    {
+      "type": "grammar",
+      "title": "Contrast: but, although, however",
+      "titleSi": "විරෝධය: but, although, however",
+      "explainSi": "බලාපොරොත්තු නොවූ දෙයක් කියද්දී මේවා යොදනවා.\n\n• but — වාක්‍ය දෙකක් අතරේ (සරලයි)\n• although / even though — වාක්‍යයේ මුලට හෝ මැදට\n• however — වෙනම වාක්‍යයක් පටන් ගන්නවා (විධිමත්). මුලින්ම කොමාවක් දානවා.",
+      "table": {
+        "headers": [
+          "Word",
+          "Position",
+          "Example"
+        ],
+        "rows": [
+          [
+            "but",
+            "මැද",
+            "He is rich but he is not happy."
+          ],
+          [
+            "although",
+            "මුල හෝ මැද",
+            "Although he is rich, he is not happy."
+          ],
+          [
+            "even though",
+            "මුල හෝ මැද (ශක්තිමත්)",
+            "Even though it rained, we played."
+          ],
+          [
+            "however",
+            "නව වාක්‍යයක මුල",
+            "It rained. However, we played."
+          ],
+          [
+            "while",
+            "සැසඳීමකට",
+            "While Kandy is cool, Colombo is hot."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "Although she was tired, she finished the work.",
+          "si": "එයා මහන්සි වුණත් වැඩේ ඉවර කළා."
+        },
+        {
+          "en": "The exam was hard, but I passed.",
+          "si": "විභාගය අමාරු වුණා, නමුත් මම සමත් වුණා."
+        },
+        {
+          "en": "He speaks English well. However, he cannot write it.",
+          "si": "එයා ඉංග්‍රීසි හොඳට කතා කරනවා. නමුත් ලියන්න බෑ."
+        }
+      ],
+      "watchOutSi": "'Although … but …' යනු වැරදියි. 'Although he is rich, but he is not happy' ✗. එකක් පමණක් යොදන්න."
+    },
+    {
+      "type": "grammar",
+      "title": "Sequencing a story",
+      "titleSi": "කථාවක් පිළිවෙළට කීම",
+      "explainSi": "සිදුවීම් පිළිවෙළට කියද්දී මේ වචන යොදනවා. කථාවක් හෝ උපදෙස් මාලාවක් ලියද්දී ඉතා ප්‍රයෝජනවත්.",
+      "formula": "First … → Then / After that … → Finally / In the end …",
+      "examples": [
+        {
+          "en": "First, I washed the rice. Then I put it in the pot.",
+          "si": "මුලින්ම මම බත් හෝදුවා. ඊට පස්සේ ඒක වළඳේ දැම්මා."
+        },
+        {
+          "en": "After that, we walked to the temple.",
+          "si": "ඊට පස්සේ අපි පන්සලට ඇවිද්දා."
+        },
+        {
+          "en": "Finally, everyone went home happy.",
+          "si": "අන්තිමට හැමෝම සතුටින් ගෙදර ගියා."
+        },
+        {
+          "en": "Meanwhile, my brother was cleaning the house.",
+          "si": "අතරතුර මගේ අයියා ගෙදර පිරිසිදු කරමින් හිටියා."
+        }
+      ]
+    },
+    {
+      "type": "story",
+      "title": "The Boy Who Missed the Train",
+      "titleSi": "දුම්රිය අතහැරුණු කොලුවා",
+      "introSi": "සම්බන්ධක වචන පිරුණු කතාවක්. ඒවා යටින් ඉරි ඇඳගන්නවා වගේ හොයන්න.",
+      "paragraphs": [
+        {
+          "en": "Ajith had an important interview in Colombo, so he woke up very early. He wanted to catch the six o'clock train.",
+          "si": "අජිත්ට කොළඹ වැදගත් සම්මුඛ පරීක්ෂණයක් තිබුණා, එනිසා එයා ගොඩක් කලින් අවදි වුණා. එයාට හය දුම්රිය අල්ලන්න ඕන වුණා."
+        },
+        {
+          "en": "First, he ironed his only good shirt. Then he ate a small breakfast, although he was too nervous to feel hungry.",
+          "si": "මුලින්ම එයා තිබුණු එකම හොඳ කමිසය මදින්න ගත්තා. ඊට පස්සේ පොඩි උදෑසන ආහාරයක් ගත්තා, බඩගිනි දැනෙන්න බැරි තරම් කලබල වුණත්."
+        },
+        {
+          "en": "He left the house at half past five. However, the road was closed because a tree had fallen in the night.",
+          "si": "එයා පහහමාරට ගෙදරින් පිටත් වුණා. නමුත් රෑ ගහක් වැටිලා තිබුණු නිසා පාර වහලා තිබුණා."
+        },
+        {
+          "en": "He ran through the paddy field, but the train was already leaving when he reached the station.",
+          "si": "එයා කුඹුර හරහා දිව්වා, නමුත් එයා ස්ථානයට එද්දී දුම්රිය දැනටමත් පිටත් වෙමින් තිබුණා."
+        },
+        {
+          "en": "Ajith sat on the platform. His shirt was muddy and his shoes were wet. He wanted to cry.",
+          "si": "අජිත් වේදිකාවේ ඉඳගත්තා. එයාගේ කමිසය මඩ ගෑවිලා, සපත්තු තෙමිලා. එයාට අඬන්න හිතුණා."
+        },
+        {
+          "en": "An old station master watched him. \"There is another train at eight,\" he said. \"Wash your face. Sit here. Nobody in Colombo will know how you arrived.\"",
+          "si": "වයසක ස්ථානාධිපතිවරයෙක් එයාව බලාගෙන හිටියා. \"අටට තව දුම්රියක් තියෙනවා,\" එයා කිව්වා. \"මූණ හෝදගන්න. මෙතන ඉඳගන්න. ඔබ කොහොම ආවද කියලා කොළඹ කිසිවෙක් දන්නේ නෑ.\""
+        },
+        {
+          "en": "Ajith got the job. Even today, whenever something goes wrong, he remembers that quiet platform and the old man's words.",
+          "si": "අජිත්ට රැකියාව ලැබුණා. අදත්, යමක් වැරදුනු හැම වෙලාවකම, එයාට ඒ නිශ්ශබ්ද වේදිකාවත් ඒ මහල්ලාගේ වචනත් මතක් වෙනවා."
+        }
+      ],
+      "glossary": [
+        {
+          "en": "interview",
+          "si": "සම්මුඛ පරීක්ෂණය"
+        },
+        {
+          "en": "catch (a train)",
+          "si": "අල්ලනවා"
+        },
+        {
+          "en": "iron",
+          "si": "මදිනවා"
+        },
+        {
+          "en": "nervous",
+          "si": "කලබල / බියෙන්"
+        },
+        {
+          "en": "paddy field",
+          "si": "කුඹුර"
+        },
+        {
+          "en": "already",
+          "si": "දැනටමත්"
+        },
+        {
+          "en": "platform",
+          "si": "වේදිකාව"
+        },
+        {
+          "en": "muddy",
+          "si": "මඩ ගෑවුණු"
+        },
+        {
+          "en": "wet",
+          "si": "තෙමුණු"
+        },
+        {
+          "en": "arrive",
+          "si": "පැමිණෙනවා"
+        }
+      ],
+      "questionsSi": [
+        "අජිත්ට දුම්රිය අතහැරුණේ ඇයි?",
+        "ස්ථානාධිපතිවරයා දුන් උපදෙස මොකක්ද?",
+        "'Nobody in Colombo will know how you arrived' — මෙයින් අදහස් කරන්නේ කුමක්ද?"
+      ]
+    },
+    {
+      "type": "practice",
+      "title": "Join the sentences",
+      "titleSi": "වාක්‍ය සම්බන්ධ කරන්න",
+      "instructionSi": "නිවැරදි සම්බන්ධක වචනය ලියන්න.",
+      "items": [
+        {
+          "prompt": "I stayed at home ___ it was raining.",
+          "answer": "because",
+          "hintSi": "හේතුව හඳුන්වනවා.",
+          "full": "I stayed at home because it was raining."
+        },
+        {
+          "prompt": "It was raining, ___ I stayed at home.",
+          "answer": "so",
+          "hintSi": "ප්‍රතිඵලය හඳුන්වනවා.",
+          "full": "It was raining, so I stayed at home."
+        },
+        {
+          "prompt": "___ he was tired, he finished the work.",
+          "answer": "although",
+          "hintSi": "බලාපොරොත්තු නොවූ දෙයක්. වචනය වාක්‍යයේ මුලට.",
+          "full": "Although he was tired, he finished the work."
+        },
+        {
+          "prompt": "The exam was hard, ___ I passed.",
+          "answer": "but",
+          "hintSi": "සරලම විරෝධතා වචනය.",
+          "full": "The exam was hard, but I passed."
+        },
+        {
+          "prompt": "First I washed the rice. ___ I put it in the pot.",
+          "answer": "then",
+          "hintSi": "පිළිවෙළ පෙන්නන වචනයක්.",
+          "full": "First I washed the rice. Then I put it in the pot."
+        },
+        {
+          "prompt": "___, everyone went home happy. (අන්තිමට)",
+          "answer": "finally",
+          "hintSi": "අවසාන පියවර.",
+          "full": "Finally, everyone went home happy."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "en": "because",
+      "si": "මොකද / නිසා"
+    },
+    {
+      "en": "although",
+      "si": "වුවත්"
+    },
+    {
+      "en": "however",
+      "si": "නමුත්"
+    },
+    {
+      "en": "finally",
+      "si": "අන්තිමට"
+    },
+    {
+      "en": "meanwhile",
+      "si": "අතරතුර"
+    },
+    {
+      "en": "interview",
+      "si": "සම්මුඛ පරීක්ෂණය"
+    },
+    {
+      "en": "nervous",
+      "si": "කලබල / බියෙන්"
+    },
+    {
+      "en": "already",
+      "si": "දැනටමත්"
+    },
+    {
+      "en": "arrive",
+      "si": "පැමිණෙනවා"
+    },
+    {
+      "en": "platform",
+      "si": "වේදිකාව"
+    },
+    {
+      "en": "wet",
+      "si": "තෙමුණු"
+    },
+    {
+      "en": "paddy field",
+      "si": "කුඹුර"
+    },
+    {
+      "en": "important",
+      "si": "වැදගත්"
+    },
+    {
+      "en": "reach",
+      "si": "ළඟා වෙනවා"
+    },
+    {
+      "en": "wash",
+      "si": "හෝදනවා"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "b1-02-q1",
+      "q": "'I was late ___ the bus broke down.' — නිවැරදි වචනය?",
+      "options": [
+        "so",
+        "because",
+        "but",
+        "although"
+      ],
+      "answer": 1,
+      "explainSi": "බස් එක කැඩුණේ හේතුවයි. හේතුව හඳුන්වන්නේ 'because'.",
+      "speak": "I was late because the bus broke down."
+    },
+    {
+      "id": "b1-02-q2",
+      "q": "'The bus broke down, ___ I was late.' — නිවැරදි වචනය?",
+      "options": [
+        "because",
+        "so",
+        "although",
+        "however"
+      ],
+      "answer": 1,
+      "explainSi": "ප්‍රතිඵලය හඳුන්වන්නේ 'so'.",
+      "speak": "The bus broke down, so I was late."
+    },
+    {
+      "id": "b1-02-q3",
+      "q": "කුමන වාක්‍යය වැරදිද?",
+      "options": [
+        "Although he is rich, he is not happy.",
+        "He is rich, but he is not happy.",
+        "Although he is rich, but he is not happy.",
+        "He is rich. However, he is not happy."
+      ],
+      "answer": 2,
+      "explainSi": "'Although' සහ 'but' එකට යොදන්න බෑ. එකක් තෝරන්න.",
+      "speak": "Although he is rich, he is not happy."
+    },
+    {
+      "id": "b1-02-q4",
+      "q": "'however' යෙදෙන්නේ කොහෙද?",
+      "options": [
+        "වාක්‍ය දෙකක් අතරේ 'but' වගේ",
+        "නව වාක්‍යයක් පටන් ගනිමින්, පසුව කොමාවක් සමඟ",
+        "වාක්‍යයේ අගට පමණක්",
+        "ප්‍රශ්නවල පමණක්"
+      ],
+      "answer": 1,
+      "explainSi": "'However,' යනු විධිමත් වචනයක් — නව වාක්‍යයක් පටන් ගෙන පසුව කොමාවක් දානවා.",
+      "speak": "It rained. However, we played."
+    },
+    {
+      "id": "b1-02-q5",
+      "q": "කථාවක අවසාන පියවර හඳුන්වන්නේ කුමන වචනයෙන්ද?",
+      "options": [
+        "First",
+        "Then",
+        "Meanwhile",
+        "Finally"
+      ],
+      "answer": 3,
+      "explainSi": "Finally / In the end = අන්තිමට.",
+      "speak": "Finally, everyone went home."
+    },
+    {
+      "id": "b1-02-q6",
+      "q": "'Meanwhile' යන්නෙහි අර්ථය?",
+      "options": [
+        "ඊට පස්සේ",
+        "අතරතුර",
+        "මුලින්ම",
+        "එනිසා"
+      ],
+      "answer": 1,
+      "explainSi": "Meanwhile = අතරතුර; එකවර වෙනත් තැනක සිදුවන දෙයක් හඳුන්වයි.",
+      "speak": "Meanwhile, my brother was cleaning."
+    },
+    {
+      "id": "b1-02-q7",
+      "q": "'Even though it rained, we played.' — මෙයින් කියවෙන්නේ?",
+      "options": [
+        "වැස්ස නිසා අපි සෙල්ලම් කළා",
+        "වැස්සත් අපි සෙල්ලම් කළා",
+        "වැස්ස නිසා අපි සෙල්ලම් කළේ නෑ",
+        "අපි වැස්ස බලාගෙන හිටියා"
+      ],
+      "answer": 1,
+      "explainSi": "'Even though' යනු ශක්තිමත් 'although' — බලාපොරොත්තු නොවූ දෙයක් සිදු වූ බව.",
+      "speak": "Even though it rained, we played."
+    },
+    {
+      "id": "b1-02-q8",
+      "context": "He left the house at half past five. However, the road was closed because a tree had fallen in the night.",
+      "contextSi": "එයා පහහමාරට ගෙදරින් පිටත් වුණා. නමුත් රෑ ගහක් වැටිලා තිබුණු නිසා පාර වහලා තිබුණා.",
+      "q": "කතාවේ අජිත් සම්මුඛ පරීක්ෂණයට පරක්කු වුණේ ඇයි?",
+      "options": [
+        "එයා පරක්කු වෙලා අවදි වුණා",
+        "ගහක් වැටිලා පාර වහලා තිබුණා",
+        "එයාට සල්ලි තිබුණේ නෑ",
+        "එයා ස්ථානය හොයාගත්තේ නෑ"
+      ],
+      "answer": 1,
+      "explainSi": "'the road was closed because a tree had fallen in the night' — එයා කලින්ම අවදි වුණා, නමුත් පාර වහලා තිබුණා."
+    }
+  ]
+}

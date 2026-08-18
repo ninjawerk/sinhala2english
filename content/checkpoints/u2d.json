@@ -1,0 +1,113 @@
+{
+  "quiz": [
+    {
+      "id": "u2d-cp-q1",
+      "q": "'අද රෑට සිනමා පෝලයකට යමුද?' — යෝජනාවක්?",
+      "options": ["Why we go to the cinema tonight?", "Shall we go to the cinema tonight?", "We go to the cinema tonight?", "Shall we going to the cinema tonight?"],
+      "answer": 1,
+      "explainSi": "'Shall we + ක්‍රියාවේ මූලික ස්වරූපය?' — යෝජනාවක් කිරීම.",
+      "speak": "Shall we go to the cinema tonight?"
+    },
+    {
+      "id": "u2d-cp-q2",
+      "q": "'ඇයි අපි විවේකයක් ගන්නේ නැත්තේ?' — ඉංග්‍රීසියෙන්?",
+      "options": ["Why don't we take a break?", "Why we don't take a break?", "Why don't we taking a break?", "Don't we take a break?"],
+      "answer": 0,
+      "explainSi": "'Why don't we + ක්‍රියාවේ මූලික ස්වරූපය?' — යෝජනාවක් කිරීම.",
+      "speak": "Why don't we take a break?"
+    },
+    {
+      "id": "u2d-cp-q3",
+      "q": "'ඇවිදින්න යනවා නම් කොහොමද?' (අනියම්) — 'How about'?",
+      "options": ["How about go for a walk?", "How about to go for a walk?", "How about going for a walk?", "How about walk?"],
+      "answer": 2,
+      "explainSi": "'How about + -ing' — අනියම් යෝජනාවක්.",
+      "speak": "How about going for a walk?"
+    },
+    {
+      "id": "u2d-cp-q4",
+      "q": "'Let's go to the beach' සහ 'Shall we go to the beach?' — වෙනස කුමක්ද?",
+      "options": [
+        "'Let's' කෙලින්ම යෝජනාවක්, 'Shall we?' ප්‍රශ්නයක් ලෙස මතය අහනවා",
+        "වෙනසක් නෑ",
+        "'Let's' ප්‍රශ්නයක්, 'Shall we?' කෙලින්ම යෝජනාවක්",
+        "'Let's' අතීතයට විතරයි"
+      ],
+      "answer": 0,
+      "explainSi": "'Let's' (a1-15) කෙලින්ම යෝජනාවක් කරනවා, 'Shall we...?' ප්‍රශ්නයක් ලෙස අනෙක් කෙනාගේ මතය අහනවා."
+    },
+    {
+      "id": "u2d-cp-q5",
+      "q": "'මට කරුණාකර නිමල් සමඟ කතා කරන්න පුළුවන්ද?' (දුරකථනයෙන්) — ඉංග්‍රීසියෙන්?",
+      "options": ["Could I speak to Nimal, please?", "Can I talking to Nimal?", "I want speak Nimal.", "Could I talk with Nimal, please?"],
+      "answer": 0,
+      "explainSi": "'Could I speak to... please?' — දුරකථනයෙන් කෙනෙකු අහන ආචාරශීලී ආකාරය.",
+      "speak": "Could I speak to Nimal, please?"
+    },
+    {
+      "id": "u2d-cp-q6",
+      "q": "'මම පණිවිඩයක් තියන්නද?' (ඔහු නැති නම්) — ඉංග්‍රීසියෙන්?",
+      "options": ["Can I leave a message?", "Can I take a message?", "Can I get a message?", "Can I put a message?"],
+      "answer": 0,
+      "explainSi": "'leave a message' — ඔබ පණිවිඩයක් තියනවා. 'take a message' — අනිත් කෙනා ලියාගන්නවා."
+    },
+    {
+      "id": "u2d-cp-q7",
+      "q": "'මේක වැඩ කරන්නේ නෑ.' (පැමිණිල්ලක්) — ආචාරශීලීව ඉංග්‍රීසියෙන්?",
+      "options": ["This is bad!", "Excuse me, this doesn't work.", "This no work!", "I hate this thing."],
+      "answer": 1,
+      "explainSi": "'Excuse me, this doesn't work.' — තරහ නොපෙන්නා ආචාරශීලී පැමිණිල්ලක්.",
+      "speak": "Excuse me, this doesn't work."
+    },
+    {
+      "id": "u2d-cp-q8",
+      "q": "'මට මුදල් ආපසු ලබාදෙන්න ඕන.' — ඉංග්‍රීසියෙන්?",
+      "options": ["I'd like a refund, please.", "Give me my money.", "I want money back now.", "Refund me."],
+      "answer": 0,
+      "explainSi": "'I'd like a refund, please.' — ආචාරශීලීව මුදල් ආපසු ඉල්ලීම.",
+      "speak": "I'd like a refund, please."
+    },
+    {
+      "id": "u2d-cp-q9",
+      "q": "'මට reservation එකක් තියෙනවා නිමල් නමින්.' (Hotel check-in) — ඉංග්‍රීසියෙන්?",
+      "options": ["I have a reservation under Nimal.", "I book a room Nimal.", "My name reservation Nimal.", "I have reservation for Nimal."],
+      "answer": 0,
+      "explainSi": "'I have a reservation under [name].' — hotel check-in වලදී සම්මත වාක්‍යය.",
+      "speak": "I have a reservation under Nimal."
+    },
+    {
+      "id": "u2d-cp-q10",
+      "q": "'කාමරයේ AC එකක් තියෙනවද?' — ඉංග්‍රීසියෙන්?",
+      "options": ["Does the room have air conditioning?", "The room have AC?", "Is the room AC?", "Have room air conditioning?"],
+      "answer": 0,
+      "explainSi": "'Does the room have...?' — කාමරයේ තියෙන දේවල් ගැන අහන ප්‍රශ්නය.",
+      "speak": "Does the room have air conditioning?"
+    },
+    {
+      "id": "u2d-cp-q11",
+      "context": "Excuse me, I have a problem with my room. The shower isn't working properly. I'd like to speak to the manager, please.",
+      "contextSi": "සමාවෙන්න, මගේ කාමරයේ ප්‍රශ්නයක් තියෙනවා. ෂවර් එක හරියට වැඩ කරන්නේ නෑ. කරුණාකර manager සමඟ කතා කරන්න ඕන.",
+      "q": "මේ hotel පැමිණිල්ලේ 'I have a problem with', 'isn't working properly', 'I'd like to speak to' — a2-16 ඉගෙන ගත් ආචාරශීලී පැමිණිලි රටාවම මෙතන hotel කාමරයේ ප්‍රශ්නයකට යොදාගෙන තියෙනවද?",
+      "options": [
+        "ඔව් — a2-16 හි ආචාරශීලී පැමිණිලි රටාව මෙතන hotel තත්ත්වයකට යොදාගෙන තියෙනවා",
+        "නෑ, මේක නව රටාවක්",
+        "නෑ, 'isn't working properly' වැරදියි",
+        "නෑ, hotel වලදී වෙනස් රටාවක් ඕන"
+      ],
+      "answer": 0,
+      "explainSi": "'I have a problem with...', 'isn't working properly', 'I'd like to speak to...' — a2-16 හි ඉගෙන ගත් ආචාරශීලී පැමිණිලි වාක්‍ය රටාවම, hotel තත්ත්වයකට යොදාගෙන."
+    },
+    {
+      "id": "u2d-cp-q12",
+      "q": "'Why don't we call the hotel and ask if the room has a sea view?' — 'Why don't we' (යෝජනාව) සහ 'Does/ask if the room has' (hotel ප්‍රශ්නය) දෙකම එකට එකතු වෙලා තියෙන්නේ නිවැරදිද?",
+      "options": [
+        "ඔව් — 'Why don't we' යෝජනාවක් කරනවා, 'ask if the room has' hotel එකේ දේවල් ගැන අහනවා",
+        "නෑ, 'Why don't we' වෙනුවට 'Shall' විය යුතුයි",
+        "නෑ, 'the room has' වෙනුවට 'the room have' විය යුතුයි",
+        "දෙකම වැරදියි"
+      ],
+      "answer": 0,
+      "explainSi": "'Why don't we call...' (යෝජනාවක්) සහ 'ask if the room has...' (hotel ප්‍රශ්නයක් ගැන) — දෙකම එකම වාක්‍යයේදී විවිධ අරමුණු වලට එකතු වෙනවා."
+    }
+  ]
+}

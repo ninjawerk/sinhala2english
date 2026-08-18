@@ -1,0 +1,771 @@
+{
+  "hero": {
+    "src": "images/b1-23-hero.webp",
+    "alt": "Nadeesha sitting at a kitchen table with an open notebook and a pen, thinking a decision through, a jug and a plant beside her."
+  },
+  "goalsSi": [
+    "පැති දෙකම කියලා තර්කයක් ගොඩනඟන්න",
+    "On the one hand … on the other hand …",
+    "වාසි සහ අවාසි කියන්න",
+    "'Mind you' සහ 'having said that'",
+    "අන්තිමට ඔබේ නිගමනය දෙන්න",
+    "සමතුලිත ඡේදයක් ලියන්න"
+  ],
+  "goals": [
+    "Build an argument that shows both sides",
+    "Use On the one hand … on the other hand",
+    "Give advantages and disadvantages",
+    "Use mind you and having said that",
+    "Close with your own conclusion",
+    "Write a balanced paragraph"
+  ],
+  "sections": [
+    {
+      "type": "note",
+      "title": "Two sides, then your side",
+      "titleSi": "පැති දෙකක්, ඊට පස්සේ ඔබේ පැත්ත",
+      "bodySi": "b1-07 හි අදහසක් කියන එක ඉගෙන ගත්තා. b1-22 හි වාක්‍ය සම්බන්ධ කරන එක.\n\nදැන් ඒ දෙක එකට. සමතුලිත තර්කයක්.\n\nB1 මට්ටමේ ලියන එකේදී වැඩිපුරම එන ප්‍රශ්නය මේකයි: 'ඔයාට මොකද හිතෙන්නේ? ඇයි?' — නමුත් හොඳ උත්තරයක් ඔයාගේ පැත්ත විතරක් නෙවෙයි. අනිත් පැත්තත් දන්නවා කියලා පෙන්නන එකයි.\n\nරටාව:\n\n1. එක් පැත්තක් — On the one hand, …\n2. අනිත් පැත්ත — On the other hand, …\n3. ඔබේ නිගමනය — On balance, I think…\n\n'On the one hand, living in Colombo is expensive. On the other hand, the work is there. On balance, I would still move.'\n\nවාක්‍ය තුනයි. ඒත් මේ තුනෙන් ඔයා පෙන්නනවා ඔයා හිතලා තියෙනවා කියලා — එකපැත්තකට හිතුවක්කාර නෑ කියලා.\n\nCEFR B1 හි මේකට කියන්නේ 'Contrasting opinions'. විභාග ලියවිලිවලට, රැකියා සම්මුඛ පරීක්ෂණවලට, ඕනම සාකච්ඡාවකට මේ රටාව වැඩ කරනවා.",
+      "body": "A good B1 answer is not just your side. It is your side after you have shown you know the other one."
+    },
+    {
+      "type": "grammar",
+      "title": "On the one hand…",
+      "titleSi": "On the one hand…",
+      "explainSi": "මේක යුගලයක්. එකක් යෙදුවොත් අනිත් එකත් එන්න ඕන.\n\n'On the one hand, …'\n'On the other hand, …'\n\nපළවෙනි එක නැතුව දෙවෙනි එක තනියම යෙදෙනවා — ඒක සාමාන්‍යයි:\n'It's expensive. On the other hand, it lasts for years.'\n\nඒත් 'On the one hand' කිව්වට පස්සේ 'on the other hand' නොකිව්වොත් වාක්‍යය අඩුයි වගේ. අහන කෙනා බලාගෙන ඉන්නවා.\n\nවෙනත් යුගල:\n\nSome people think… Others believe…\n'Some people think exams are useless. Others believe they are the only fair test.'\n\nIt is true that… but…\n'It is true that it costs more, but it saves time.'\n\nWhile … , …\n'While the bus is cheaper, the train is far more comfortable.'\n\n'While' කියන එකට කාලය කියන අර්ථයකුත් තියෙනවා (b1-13), ඒත් වාක්‍යය මුලට දාද්දී ඒක සාමාන්‍යයෙන් 'වුණත්' කියන අර්ථය දෙනවා.",
+      "explain": "On the one hand needs its pair. On the other hand can stand alone. While at the start of a sentence usually means although.",
+      "formula": "On the one hand, … On the other hand, … On balance, …",
+      "table": {
+        "headers": [
+          "යුගලය",
+          "උදාහරණය"
+        ],
+        "rows": [
+          [
+            "On the one hand / on the other hand",
+            "On the one hand it's cheap. On the other hand it's slow."
+          ],
+          [
+            "Some people / others",
+            "Some people walk. Others take the bus."
+          ],
+          [
+            "It is true that / but",
+            "It is true that it costs more, but it lasts."
+          ],
+          [
+            "While / …",
+            "While the bus is cheaper, the train is faster."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "On the one hand, he is good with people. On the other hand, he does not think before he speaks.",
+          "si": "එක පැත්තකින්, එයා මිනිස්සු එක්ක හොඳයි. අනිත් පැත්තෙන්, එයා කථා කරන්න කලින් හිතන්නේ නෑ."
+        },
+        {
+          "en": "While the flat is small, the rent is fair.",
+          "si": "නිවස පොඩි වුණත් කුලිය සාධාරණයි."
+        },
+        {
+          "en": "It is true that it rains, but the hills are worth it.",
+          "si": "වහිනවා කියන එක ඇත්ත, ඒත් කඳුකරය ඒකට වටිනවා."
+        }
+      ],
+      "watchOutSi": "'In one hand' ✗ — 'On the one hand' ✓. 'On the other side' ✗ — 'On the other hand' ✓. මේ යෙදුම නියතයි, වචන මාරු කරන්න බෑ."
+    },
+    {
+      "type": "grammar",
+      "title": "Advantages and disadvantages",
+      "titleSi": "වාසි සහ අවාසි",
+      "explainSi": "වාසි-අවාසි කියන එකට ස්ථිර වචන කීපයක් තියෙනවා.\n\nවාසිය:\n'The main advantage is…'\n'One benefit is…'\n'The good thing about it is…'\n'It has the advantage of being cheap.'\n\nඅවාසිය:\n'The main disadvantage is…'\n'One drawback is…'\n'The problem with it is…'\n'The trouble is…'\n\nසමතුලනය:\n'It depends on…'\n'It has its advantages and disadvantages.'\n'There are arguments on both sides.'\n\nතව ප්‍රයෝජනවත් යෙදුම් දෙකක්:\n\nMind you — 'ඒත් මතක තියාගන්න'. දැන් කිව්ව දෙයට පොඩි විරෝධයක් එකතු කරනවා, කථාවේදී බහුලයි.\n'The hotel was awful. Mind you, it was very cheap.'\n\nHaving said that — 'එහෙම කිව්වත්'. ලියන එකට ගැලපෙනවා.\n'The service was slow. Having said that, the food was excellent.'\n\nදෙකම කරන්නේ එකම දේ — ඔයාගේම ප්‍රකාශයට ඔයාම පොඩි විරෝධයක් එකතු කරන එක. ඒක තර්කයක් සමතුලිත කරනවා.",
+      "explain": "Fixed phrases for pros and cons, plus mind you and having said that — the two ways to qualify your own statement.",
+      "formula": "The main advantage is…  ·  The main drawback is…  ·  Mind you, …",
+      "table": {
+        "headers": [
+          "අවශ්‍යතාව",
+          "යෙදුම"
+        ],
+        "rows": [
+          [
+            "වාසිය",
+            "The main advantage is…"
+          ],
+          [
+            "අවාසිය",
+            "The main drawback is…"
+          ],
+          [
+            "ප්‍රශ්නය",
+            "The trouble is…"
+          ],
+          [
+            "ඔබේම ප්‍රකාශයට විරෝධය",
+            "Mind you, … / Having said that, …"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "The main advantage is that you can pay monthly.",
+          "si": "ප්‍රධාන වාසිය තමයි මාසිකව ගෙවන්න පුළුවන් වීම."
+        },
+        {
+          "en": "The trouble is, nobody reads the notices.",
+          "si": "ප්‍රශ්නය තමයි කවුරුවත් දැන්වීම් කියවන්නේ නෑ."
+        },
+        {
+          "en": "It was far too long. Mind you, the ending was good.",
+          "si": "ඒක හරිම දිගයි. ඒත් අන්තිම කොටස හොඳයි."
+        }
+      ],
+      "watchOutSi": "'The trouble is' සහ 'The problem is' කියන එකට පස්සේ කොමාවක් හෝ 'that' එකක් — 'The trouble is, nobody reads it' නැත්නම් 'The trouble is that nobody reads it'. දෙකම හරි."
+    },
+    {
+      "type": "grammar",
+      "title": "Landing on your view",
+      "titleSi": "ඔබේ නිගමනයට එන එක",
+      "explainSi": "පැති දෙකම කිව්වට පස්සේ ඔබේ පැත්ත කියන්න ඕන. ඒක නොකළොත් ලියවිල්ල ඉවර නෑ.\n\nසමතුලනයෙන් පස්සේ:\n'On balance, I think…' — හැම දෙයක්ම බැලුවම…\n'All things considered, …' — හැම දෙයක්ම සලකලා…\n'Overall, …' — සමස්තයක් ලෙස…\n\nඔබේ පැත්ත:\n'I would still say…' — මම තාමත් කියන්නේ…\n'In my view, the second is better.' — මගේ අදහසේ හැටියට…\n'Personally, I would…' — පෞද්ගලිකව මම…\n\nවැදගත්: 'On balance' කියන එකෙන් ඔයා පෙන්නනවා ඔයා කිරලා තියෙනවා කියලා. ඒක B1 ලියවිල්ලක් B2 වගේ පෙන්නන එක වචනයක්.\n\nඅවසානය කෙටියි ඕන. පැති දෙකට වාක්‍ය දෙක තුනක්, නිගමනයට එකක්.\n\n'On the one hand X. On the other hand Y. On balance, I would choose X, because Z.'\n\n'because Z' කියන එක අමතක කරන්න එපා — නිගමනයට හේතුවක් තිබ්බම තමයි ඒක තර්කයක් වෙන්නේ.",
+      "explain": "After both sides, take one. On balance shows you weighed them — and the reason is what turns an opinion into an argument.",
+      "formula": "On balance, I think … because …",
+      "table": {
+        "headers": [
+          "යෙදුම",
+          "සිංහල"
+        ],
+        "rows": [
+          [
+            "On balance,",
+            "හැම දෙයක්ම බැලුවම"
+          ],
+          [
+            "All things considered,",
+            "හැම දෙයක්ම සලකලා"
+          ],
+          [
+            "Overall,",
+            "සමස්තයක් ලෙස"
+          ],
+          [
+            "Personally, I would…",
+            "පෞද්ගලිකව මම…"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "On balance, I would take the train, because the road is unpredictable.",
+          "si": "හැම දෙයක්ම බැලුවම මම කෝච්චිය ගන්නවා, මොකද පාර නිශ්චිත නෑ."
+        },
+        {
+          "en": "All things considered, the smaller school suited her better.",
+          "si": "හැම දෙයක්ම සලකලා, පොඩි ඉස්කෝලේ ඇයට වඩා ගැළපුණා."
+        }
+      ],
+      "watchOutSi": "පැති දෙකම කියලා නිගමනයක් නොදී නැවතුනොත් අහන කෙනාට හිතෙනවා ඔයාට අදහසක් නෑ කියලා. සමතුලිතකම කියන්නේ අදහසක් නැති කම නෙවෙයි."
+    },
+    {
+      "type": "vocab",
+      "title": "Weighing it up",
+      "titleSi": "කිරලා බැලීම",
+      "introSi": "සමතුලිත තර්කයක් ලියන්න ඕන කරන වචන.",
+      "items": [
+        {
+          "en": "on the one hand",
+          "si": "එක පැත්තකින්",
+          "say": "ඔන් ද වන් හෑන්ඩ්",
+          "exampleEn": "On the one hand, it's cheap.",
+          "exampleSi": "එක පැත්තකින්, ඒක ලාභයි."
+        },
+        {
+          "en": "on the other hand",
+          "si": "අනිත් පැත්තෙන්",
+          "say": "ඔන් ද අදර් හෑන්ඩ්",
+          "exampleEn": "On the other hand, it's slow.",
+          "exampleSi": "අනිත් පැත්තෙන්, ඒක හෙමීයි."
+        },
+        {
+          "en": "advantage",
+          "si": "වාසිය",
+          "say": "අඩ්වාන්ටේජ්",
+          "exampleEn": "The main advantage is the price.",
+          "exampleSi": "ප්‍රධාන වාසිය ගානයි."
+        },
+        {
+          "en": "disadvantage",
+          "si": "අවාසිය",
+          "say": "ඩිස්අඩ්වාන්ටේජ්",
+          "exampleEn": "The disadvantage is the distance.",
+          "exampleSi": "අවාසිය දුරයි."
+        },
+        {
+          "en": "drawback",
+          "si": "අඩුපාඩුව",
+          "say": "ඩ්‍රෝබැක්",
+          "exampleEn": "One drawback is the noise.",
+          "exampleSi": "එක අඩුපාඩුවක් ශබ්දයයි."
+        },
+        {
+          "en": "benefit",
+          "si": "ප්‍රතිලාභය",
+          "say": "බෙනිෆිට්",
+          "exampleEn": "The benefit is clear.",
+          "exampleSi": "ප්‍රතිලාභය පැහැදිලියි."
+        },
+        {
+          "en": "the trouble is",
+          "si": "ප්‍රශ්නය තමයි",
+          "say": "ද ට්‍රබල් ඉස්",
+          "exampleEn": "The trouble is, it's far.",
+          "exampleSi": "ප්‍රශ්නය තමයි, ඒක දුරයි."
+        },
+        {
+          "en": "mind you",
+          "si": "ඒත් මතක තියාගන්න",
+          "say": "මයින්ඩ් යූ",
+          "exampleEn": "Mind you, it was cheap.",
+          "exampleSi": "ඒත් ඒක ලාභයි."
+        },
+        {
+          "en": "having said that",
+          "si": "එහෙම කිව්වත්",
+          "say": "හෑවින් සෙඩ් දැට්",
+          "exampleEn": "Having said that, the food was good.",
+          "exampleSi": "එහෙම කිව්වත්, කෑම හොඳයි."
+        },
+        {
+          "en": "on balance",
+          "si": "හැම දෙයක්ම බැලුවම",
+          "say": "ඔන් බැලන්ස්",
+          "exampleEn": "On balance, I would go.",
+          "exampleSi": "හැම දෙයක්ම බැලුවම, මම යනවා."
+        },
+        {
+          "en": "overall",
+          "si": "සමස්තයක් ලෙස",
+          "say": "ඕවරෝල්",
+          "exampleEn": "Overall, it was worth it.",
+          "exampleSi": "සමස්තයක් ලෙස ඒක වටිනවා."
+        },
+        {
+          "en": "it depends",
+          "si": "ඒක තියෙන්නේ...",
+          "say": "ඉට් ඩිපෙන්ඩ්ස්",
+          "exampleEn": "It depends on the budget.",
+          "exampleSi": "ඒක තියෙන්නේ අයවැය අනුව."
+        },
+        {
+          "en": "personally",
+          "si": "පෞද්ගලිකව",
+          "say": "පර්සනලි",
+          "exampleEn": "Personally, I prefer the bus.",
+          "exampleSi": "පෞද්ගලිකව මම බස් එකට කැමතියි."
+        },
+        {
+          "en": "worth it",
+          "si": "ඒකට වටිනවා",
+          "say": "වර්ත් ඉට්",
+          "exampleEn": "It's worth it.",
+          "exampleSi": "ඒක ඒකට වටිනවා."
+        },
+        {
+          "en": "both sides",
+          "si": "පැති දෙකම",
+          "say": "බෝත් සයිඩ්ස්",
+          "exampleEn": "There are arguments on both sides.",
+          "exampleSi": "පැති දෙකටම තර්ක තියෙනවා."
+        },
+        {
+          "en": "prefer",
+          "si": "වඩා කැමතියි",
+          "say": "ප්‍රිෆර්",
+          "exampleEn": "I prefer the quieter one.",
+          "exampleSi": "මම නිශ්ශබ්ද එකට වඩා කැමතියි."
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "Move to Colombo, or stay?",
+      "titleSi": "කොළඹ යනවාද, ඉන්නවාද?",
+      "settingSi": "තීරණයක් ගැන සාකච්ඡාවක්. පැති දෙකම, ඊට පස්සේ නිගමනය.",
+      "lines": [
+        {
+          "speaker": "Nadeesha",
+          "en": "They've offered me the Colombo job. I don't know.",
+          "si": "ඒගොල්ලෝ මට කොළඹ රස්සාව දුන්නා. මම දන්නේ නෑ."
+        },
+        {
+          "speaker": "Ruwan",
+          "en": "What's the pay like?",
+          "si": "පඩිය කොහොමද?"
+        },
+        {
+          "speaker": "Nadeesha",
+          "en": "On the one hand, it's nearly double. On the other hand, so is the rent.",
+          "si": "එක පැත්තකින්, ඒක දෙගුණයක් විතර. අනිත් පැත්තෙන්, කුලියත් එහෙමයි."
+        },
+        {
+          "speaker": "Ruwan",
+          "en": "The main advantage would be the experience, surely.",
+          "si": "ප්‍රධාන වාසිය අත්දැකීම වෙන්න ඕන නේද."
+        },
+        {
+          "speaker": "Nadeesha",
+          "en": "That's true. The trouble is, my mother is here on her own.",
+          "si": "ඒක ඇත්ත. ප්‍රශ්නය තමයි, අම්මා මෙහෙ තනියම."
+        },
+        {
+          "speaker": "Ruwan",
+          "en": "Mind you, it's only four hours on the train.",
+          "si": "ඒත් කෝච්චියෙන් පැය හතරයි."
+        },
+        {
+          "speaker": "Nadeesha",
+          "en": "Having said that, four hours is not four minutes.",
+          "si": "එහෙම කිව්වත්, පැය හතරක් කියන්නේ විනාඩි හතරක් නෙවෙයි."
+        },
+        {
+          "speaker": "Ruwan",
+          "en": "So on balance?",
+          "si": "එහෙනම් හැම දෙයක්ම බැලුවම?"
+        },
+        {
+          "speaker": "Nadeesha",
+          "en": "On balance I'll go — but for two years, not for good.",
+          "si": "හැම දෙයක්ම බැලුවම මම යනවා — ඒත් අවුරුදු දෙකකට, හැමදාටම නෙවෙයි."
+        }
+      ]
+    },
+    {
+      "type": "story",
+      "title": "Both sides of the wall",
+      "titleSi": "තාප්පේ පැති දෙක",
+      "introSi": "සමතුලිත තර්කයක් ලියපු කෙටි ඡේදයක්.",
+      "paragraphs": [
+        {
+          "en": "Every year the village argues about the same wall. On the one hand, it keeps the cattle off the tank bund, which is why it was built.",
+          "si": "හැම අවුරුද්දකම ගම රණ්ඩු වෙන්නේ එකම තාප්පේ ගැන. එක පැත්තකින්, ඒක ගවයන්ව වැව් ඉස්මත්තට එන්නේ නැතුව තියාගන්නවා — ඒක හදපු හේතුව ඒකයි."
+        },
+        {
+          "en": "On the other hand, it also keeps the children from the shortest path to school, so they walk on the main road instead.",
+          "si": "අනිත් පැත්තෙන්, ඒක ළමයින්ට ඉස්කෝලේ යන කෙටිම පාරත් වහලා, ඒ නිසා ඒගොල්ලෝ ප්‍රධාන පාරේ ඇවිදිනවා."
+        },
+        {
+          "en": "The main advantage of a gate would be that both problems end at once. The drawback is that a gate left open is worse than no wall at all.",
+          "si": "ගේට්ටුවක ප්‍රධාන වාසිය තමයි ප්‍රශ්න දෙකම එකවර ඉවර වීම. අඩුපාඩුව තමයි ඇරලා තියෙන ගේට්ටුවක් තාප්පයක් නැති එකටත් වඩා නරකයි."
+        },
+        {
+          "en": "On balance the gate is still worth trying, because a wall that children climb over every morning is not really a wall.",
+          "si": "හැම දෙයක්ම බැලුවම ගේට්ටුව උත්සාහ කරලා බලන්න වටිනවා, මොකද ළමයි හැම උදෙම නගින තාප්පයක් ඇත්තටම තාප්පයක් නෙවෙයි."
+        }
+      ],
+      "glossary": [
+        {
+          "en": "cattle",
+          "si": "ගවයෝ"
+        },
+        {
+          "en": "tank bund",
+          "si": "වැව් ඉස්මත්ත"
+        },
+        {
+          "en": "shortcut / short path",
+          "si": "කෙටි පාර"
+        },
+        {
+          "en": "gate",
+          "si": "ගේට්ටුව"
+        }
+      ],
+      "questionsSi": [
+        "තාප්පේ වාසිය මොකක්ද? අවාසිය මොකක්ද?",
+        "ලියපු කෙනාගේ නිගමනය මොකක්ද?",
+        "නිගමනයට දුන්න හේතුව මොකක්ද?"
+      ]
+    },
+    {
+      "type": "tip",
+      "title": "Three sentences is enough",
+      "titleSi": "වාක්‍ය තුනක් ඇති",
+      "bodySi": "සමතුලිත තර්කයක් දිග වෙන්න ඕන නෑ. වාක්‍ය තුනකින් සම්පූර්ණයි:\n\n1. On the one hand, …\n2. On the other hand, …\n3. On balance, I think … because …\n\nවිභාග ලියවිල්ලක නම් හැම කොටසකටම වාක්‍ය දෙක තුනක්. ඒත් සැකැස්ම එකයි.\n\nඅමතක නොකරන්න: තුන්වෙනි වාක්‍යය නැත්නම් ඒක තර්කයක් නෙවෙයි — ඒක ලැයිස්තුවක් විතරයි.",
+      "body": "One sentence each side, one for your conclusion with its reason. Without the third, it is a list, not an argument."
+    },
+    {
+      "type": "practice",
+      "title": "Balance the argument",
+      "titleSi": "තර්කය සමතුලිත කරන්න",
+      "instructionSi": "හිස් තැනට ගැලපෙන යෙදුම ලියන්න.",
+      "items": [
+        {
+          "prompt": "___ the one hand, the flat is cheap. On the other hand, it is far.",
+          "answer": "On",
+          "hintSi": "'In' නෙවෙයි.",
+          "full": "On the one hand, the flat is cheap."
+        },
+        {
+          "prompt": "The main ___ is that you can pay monthly.",
+          "answer": "advantage",
+          "hintSi": "වාසිය.",
+          "full": "The main advantage is that you can pay monthly."
+        },
+        {
+          "prompt": "One ___ is the noise from the road.",
+          "answer": "drawback",
+          "hintSi": "අඩුපාඩුව.",
+          "full": "One drawback is the noise from the road."
+        },
+        {
+          "prompt": "The hotel was awful. ___ you, it was very cheap.",
+          "answer": "Mind",
+          "hintSi": "ඔයාගේම ප්‍රකාශයට පොඩි විරෝධයක්.",
+          "full": "Mind you, it was very cheap."
+        },
+        {
+          "prompt": "___ said that, the food was excellent.",
+          "answer": "Having",
+          "hintSi": "'එහෙම කිව්වත්'.",
+          "full": "Having said that, the food was excellent."
+        },
+        {
+          "prompt": "___ balance, I would take the train.",
+          "answer": "On",
+          "hintSi": "නිගමනයට එන යෙදුම.",
+          "full": "On balance, I would take the train."
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "b1-23-q1",
+      "q": "හොඳ B1 මට්ටමේ තර්කයක තියෙන්නේ?",
+      "options": [
+        "ඔයාගේ පැත්ත විතරයි",
+        "පැති දෙකම, ඊට පස්සේ ඔයාගේ නිගමනය",
+        "ප්‍රශ්න විතරයි",
+        "නිගමනයක් නෑ"
+      ],
+      "answer": 1,
+      "explainSi": "අනිත් පැත්තත් දන්නවා කියලා පෙන්නන එකයි වෙනස."
+    },
+    {
+      "id": "b1-23-q2",
+      "q": "කුමන එක හරිද?",
+      "options": [
+        "In one hand…",
+        "On the one hand…",
+        "On one hand of…",
+        "At the one hand…"
+      ],
+      "answer": 1,
+      "explainSi": "යෙදුම නියතයි — වචන මාරු කරන්න බෑ."
+    },
+    {
+      "id": "b1-23-q3",
+      "q": "'On the one hand' කිව්වට පස්සේ එන්න ඕන?",
+      "options": [
+        "Therefore",
+        "On the other hand",
+        "Because of",
+        "However not"
+      ],
+      "answer": 1,
+      "explainSi": "ඒක යුගලයක්."
+    },
+    {
+      "id": "b1-23-q4",
+      "q": "'On the other hand' තනියම යෙදෙනවාද?",
+      "options": [
+        "නෑ, කවදාවත්",
+        "ඔව් — ඒක සාමාන්‍යයි",
+        "ඔව්, ඒත් ලියන එකට විතරයි",
+        "නෑ, ප්‍රශ්නවලට විතරයි"
+      ],
+      "answer": 1,
+      "explainSi": "'It's expensive. On the other hand, it lasts for years.'"
+    },
+    {
+      "id": "b1-23-q5",
+      "q": "'Mind you' කරන්නේ?",
+      "options": [
+        "අනිත් කෙනාට අවවාද කරනවා",
+        "ඔයාගේම ප්‍රකාශයට පොඩි විරෝධයක් එකතු කරනවා",
+        "ප්‍රශ්නයක් අහනවා",
+        "නිගමනය දෙනවා"
+      ],
+      "answer": 1,
+      "explainSi": "'The hotel was awful. Mind you, it was cheap.'"
+    },
+    {
+      "id": "b1-23-q6",
+      "q": "'Having said that' යෙදෙන්නේ?",
+      "options": [
+        "කථාවට විතරයි",
+        "ලියන එකට ගැලපෙනවා — 'එහෙම කිව්වත්'",
+        "ප්‍රශ්නවලට",
+        "අතීතයට විතරයි"
+      ],
+      "answer": 1,
+      "explainSi": "'Mind you' එකේ ලිඛිත ඥාතියා."
+    },
+    {
+      "id": "b1-23-q7",
+      "q": "'On balance' කියන එකෙන් පෙන්නන්නේ?",
+      "options": [
+        "ඔයාට අදහසක් නෑ",
+        "ඔයා පැති දෙකම කිරලා තියෙනවා",
+        "ඔයා තරහයි",
+        "ඔයා නිශ්චිත නෑ"
+      ],
+      "answer": 1,
+      "explainSi": "ඒක B1 ලියවිල්ලක් වැඩිපුර පරිණත කරන එක වචනයක්."
+    },
+    {
+      "id": "b1-23-q8",
+      "q": "සමතුලිත ඡේදයක තුන්වෙනි කොටස නැත්නම්?",
+      "options": [
+        "ඒක තව හොඳයි",
+        "ඒක තර්කයක් නෙවෙයි — ලැයිස්තුවක් විතරයි",
+        "ඒක කෙටියි",
+        "වෙනසක් නෑ"
+      ],
+      "answer": 1,
+      "explainSi": "නිගමනයක් නැතුව අහන කෙනාට හිතෙනවා ඔයාට අදහසක් නෑ කියලා."
+    },
+    {
+      "id": "b1-23-q9",
+      "q": "'While the bus is cheaper, the train is faster.' — මෙතන 'while' කියන්නේ?",
+      "options": [
+        "අතරතුර (කාලය)",
+        "වුණත් (විරෝධය)",
+        "නිසා",
+        "ඒ නිසා"
+      ],
+      "answer": 1,
+      "explainSi": "වාක්‍යය මුලට දාද්දී 'while' සාමාන්‍යයෙන් 'although' අර්ථය දෙනවා."
+    },
+    {
+      "id": "b1-23-q10",
+      "q": "අවාසියක් කියන යෙදුමක්?",
+      "options": [
+        "benefit",
+        "drawback",
+        "advantage",
+        "on balance"
+      ],
+      "answer": 1,
+      "explainSi": "drawback = අඩුපාඩුව."
+    },
+    {
+      "id": "b1-23-q11",
+      "q": "හිස් තැනට: 'The ___ is, nobody reads the notices.'",
+      "options": [
+        "advantage",
+        "trouble",
+        "balance",
+        "benefit"
+      ],
+      "answer": 1,
+      "explainSi": "'The trouble is' — ප්‍රශ්නය හඳුන්වන යෙදුම."
+    },
+    {
+      "id": "b1-23-q12",
+      "q": "නිගමනයට හේතුවක් දෙන්නේ ඇයි?",
+      "options": [
+        "ලියවිල්ල දිග කරන්න",
+        "අදහසක් තර්කයක් වෙන්නේ හේතුව එකතු වුණාමයි",
+        "ව්‍යාකරණ නිසා",
+        "අවශ්‍ය නෑ"
+      ],
+      "answer": 1,
+      "explainSi": "'On balance I would choose X, because Z.'"
+    },
+    {
+      "id": "b1-23-q13",
+      "q": "'Some people think… ___ believe…' — හිස් තැනට?",
+      "options": [
+        "Another",
+        "Others",
+        "Other",
+        "The other"
+      ],
+      "answer": 1,
+      "explainSi": "'Others believe…' — යුගලයේ අනිත් පැත්ත."
+    },
+    {
+      "id": "b1-23-q14",
+      "q": "'It is true that it costs more, but it lasts.' — මේ රටාව කරන්නේ?",
+      "options": [
+        "අනිත් පැත්ත පිළිගෙන ඔයාගේ පැත්ත කියනවා",
+        "එකඟ වෙනවා",
+        "ප්‍රශ්නයක් අහනවා",
+        "නිගමනය දෙනවා"
+      ],
+      "answer": 0,
+      "explainSi": "'It is true that… but…' — පිළිගැනීම + විරෝධය."
+    },
+    {
+      "id": "b1-23-q15",
+      "q": "සමතුලිත තර්කයක් කොච්චර දිග වෙන්න ඕනද?",
+      "options": [
+        "අඩුම තරමේ පිටුවක්",
+        "වාක්‍ය තුනකින් සම්පූර්ණයි",
+        "වාක්‍ය දහයක්",
+        "එක වාක්‍යයක්"
+      ],
+      "answer": 1,
+      "explainSi": "එක් පැත්තක්, අනිත් පැත්ත, නිගමනය."
+    },
+    {
+      "id": "b1-23-q16",
+      "q": "'Overall' කියන්නේ?",
+      "options": [
+        "මුලින්ම",
+        "සමස්තයක් ලෙස",
+        "එහෙත්",
+        "උදාහරණයක් ලෙස"
+      ],
+      "answer": 1,
+      "explainSi": "'On balance' එකට ළං යෙදුමක්."
+    },
+    {
+      "id": "b1-23-q17",
+      "q": "සමතුලිතකම කියන්නේ?",
+      "options": [
+        "අදහසක් නැති කම",
+        "අනිත් පැත්ත දැනගෙන ඔබේ පැත්ත ගන්න එක",
+        "දෙපැත්තටම එකඟ වීම",
+        "නිශ්ශබ්ද වීම"
+      ],
+      "answer": 1,
+      "explainSi": "පැති දෙකම කිව්වට පස්සේ තෝරාගැනීමක් තියෙන්න ඕන."
+    },
+    {
+      "id": "b1-23-q18",
+      "q": "'It has its advantages and disadvantages' කියන්නේ?",
+      "options": [
+        "ඒක නරකයි",
+        "ඒකට පැති දෙකක් තියෙනවා",
+        "ඒක හොඳයි",
+        "ඒක වැරදියි"
+      ],
+      "answer": 1,
+      "explainSi": "සමතුලනය හඳුන්වන යෙදුමක්."
+    }
+  ],
+  "vocab": [
+    {
+      "en": "on the one hand",
+      "si": "එක පැත්තකින්",
+      "say": "ඔන් ද වන් හෑන්ඩ්",
+      "exampleEn": "On the one hand, it's cheap.",
+      "exampleSi": "එක පැත්තකින්, ඒක ලාභයි."
+    },
+    {
+      "en": "on the other hand",
+      "si": "අනිත් පැත්තෙන්",
+      "say": "ඔන් ද අදර් හෑන්ඩ්",
+      "exampleEn": "On the other hand, it's slow.",
+      "exampleSi": "අනිත් පැත්තෙන්, ඒක හෙමීයි."
+    },
+    {
+      "en": "advantage",
+      "si": "වාසිය",
+      "say": "අඩ්වාන්ටේජ්",
+      "exampleEn": "The main advantage is the price.",
+      "exampleSi": "ප්‍රධාන වාසිය ගානයි."
+    },
+    {
+      "en": "disadvantage",
+      "si": "අවාසිය",
+      "say": "ඩිස්අඩ්වාන්ටේජ්",
+      "exampleEn": "The disadvantage is the distance.",
+      "exampleSi": "අවාසිය දුරයි."
+    },
+    {
+      "en": "drawback",
+      "si": "අඩුපාඩුව",
+      "say": "ඩ්‍රෝබැක්",
+      "exampleEn": "One drawback is the noise.",
+      "exampleSi": "එක අඩුපාඩුවක් ශබ්දයයි."
+    },
+    {
+      "en": "benefit",
+      "si": "ප්‍රතිලාභය",
+      "say": "බෙනිෆිට්",
+      "exampleEn": "The benefit is clear.",
+      "exampleSi": "ප්‍රතිලාභය පැහැදිලියි."
+    },
+    {
+      "en": "the trouble is",
+      "si": "ප්‍රශ්නය තමයි",
+      "say": "ද ට්‍රබල් ඉස්",
+      "exampleEn": "The trouble is, it's far.",
+      "exampleSi": "ප්‍රශ්නය තමයි, ඒක දුරයි."
+    },
+    {
+      "en": "mind you",
+      "si": "ඒත් මතක තියාගන්න",
+      "say": "මයින්ඩ් යූ",
+      "exampleEn": "Mind you, it was cheap.",
+      "exampleSi": "ඒත් ඒක ලාභයි."
+    },
+    {
+      "en": "having said that",
+      "si": "එහෙම කිව්වත්",
+      "say": "හෑවින් සෙඩ් දැට්",
+      "exampleEn": "Having said that, the food was good.",
+      "exampleSi": "එහෙම කිව්වත්, කෑම හොඳයි."
+    },
+    {
+      "en": "on balance",
+      "si": "හැම දෙයක්ම බැලුවම",
+      "say": "ඔන් බැලන්ස්",
+      "exampleEn": "On balance, I would go.",
+      "exampleSi": "හැම දෙයක්ම බැලුවම, මම යනවා."
+    },
+    {
+      "en": "overall",
+      "si": "සමස්තයක් ලෙස",
+      "say": "ඕවරෝල්",
+      "exampleEn": "Overall, it was worth it.",
+      "exampleSi": "සමස්තයක් ලෙස ඒක වටිනවා."
+    },
+    {
+      "en": "it depends",
+      "si": "ඒක තියෙන්නේ...",
+      "say": "ඉට් ඩිපෙන්ඩ්ස්",
+      "exampleEn": "It depends on the budget.",
+      "exampleSi": "ඒක තියෙන්නේ අයවැය අනුව."
+    },
+    {
+      "en": "personally",
+      "si": "පෞද්ගලිකව",
+      "say": "පර්සනලි",
+      "exampleEn": "Personally, I prefer the bus.",
+      "exampleSi": "පෞද්ගලිකව මම බස් එකට කැමතියි."
+    },
+    {
+      "en": "worth it",
+      "si": "ඒකට වටිනවා",
+      "say": "වර්ත් ඉට්",
+      "exampleEn": "It's worth it.",
+      "exampleSi": "ඒක ඒකට වටිනවා."
+    },
+    {
+      "en": "both sides",
+      "si": "පැති දෙකම",
+      "say": "බෝත් සයිඩ්ස්",
+      "exampleEn": "There are arguments on both sides.",
+      "exampleSi": "පැති දෙකටම තර්ක තියෙනවා."
+    },
+    {
+      "en": "prefer",
+      "si": "වඩා කැමතියි",
+      "say": "ප්‍රිෆර්",
+      "exampleEn": "I prefer the quieter one.",
+      "exampleSi": "මම නිශ්ශබ්ද එකට වඩා කැමතියි."
+    }
+  ]
+}

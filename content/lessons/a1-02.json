@@ -1,0 +1,641 @@
+{
+  "hero": {
+    "src": "images/a1-02-hero.webp",
+    "alt": "Ruwan alone at a garden gate in the morning, raising one hand in a friendly wave towards the viewer, flowering shrubs along the fence, empty garden path behind, warm early light."
+  },
+  "goalsSi": [
+    "දවසේ වේලාව අනුව ආචාර කිරීම",
+    "ඔබේ නම සහ රට කීම",
+    "'please' සහ 'thank you' නිවැරදිව යෙදීම",
+    "සරල හඳුන්වා දීමේ සංවාදයක් කිරීම"
+  ],
+  "goals": [
+    "Greet people",
+    "Say your name and where you are from",
+    "Be polite in English"
+  ],
+  "sections": [
+    {
+      "type": "note",
+      "title": "Greetings change with the time of day",
+      "titleSi": "වේලාව අනුව ආචාරය වෙනස් වේ",
+      "bodySi": "සිංහලෙන් අපි කවදත් 'ආයුබෝවන්' කියනවා. නමුත් ඉංග්‍රීසියෙන් වේලාව අනුව වචනය වෙනස් වෙනවා:\n\n• උදේ 12ට කලින් — Good morning\n• දවල් 12 සිට හවස 6 දක්වා — Good afternoon\n• හවස 6න් පස්සේ — Good evening\n• නිදාගන්න යද්දී පමණක් — Good night\n\nවැදගත්: 'Good night' කියන්නේ ආචාර කරන්න නෙවෙයි, සමුගන්න. කවුරුහරි හමු වුණාම 'Good night' කියන්න එපා!",
+      "body": "In English, the greeting changes with the time of day."
+    },
+    {
+      "type": "vocab",
+      "title": "Greeting words",
+      "titleSi": "ආචාර වචන",
+      "introSi": "සෑම එකක්ම අහලා නැවත කියන්න.",
+      "items": [
+        {
+          "en": "hello",
+          "si": "හෙලෝ / ආයුබෝවන්",
+          "say": "හෙලෝ",
+          "exampleEn": "Hello! How are you?",
+          "exampleSi": "හෙලෝ! ඔබට කොහොමද?"
+        },
+        {
+          "en": "good morning",
+          "si": "සුබ උදෑසනක්",
+          "say": "ගුඩ් මෝනිං",
+          "exampleEn": "Good morning, teacher.",
+          "exampleSi": "සුබ උදෑසනක්, ගුරුතුමනි."
+        },
+        {
+          "en": "good evening",
+          "si": "සුබ සැන්දෑවක්",
+          "say": "ගුඩ් ඊව්නිං",
+          "exampleEn": "Good evening, everyone.",
+          "exampleSi": "සුබ සැන්දෑවක්, සැමට."
+        },
+        {
+          "en": "goodbye",
+          "si": "ගිහින් එන්නම්",
+          "say": "ගුඩ්බයි",
+          "exampleEn": "Goodbye! See you tomorrow.",
+          "exampleSi": "ගිහින් එන්නම්! හෙට හම්බවෙමු."
+        },
+        {
+          "en": "please",
+          "si": "කරුණාකර",
+          "say": "ප්ලීස්",
+          "exampleEn": "Water, please.",
+          "exampleSi": "කරුණාකර වතුර."
+        },
+        {
+          "en": "thank you",
+          "si": "ස්තුතියි",
+          "say": "තෑන්ක් යූ",
+          "exampleEn": "Thank you very much.",
+          "exampleSi": "බොහොම ස්තුතියි."
+        },
+        {
+          "en": "sorry",
+          "si": "සමාවෙන්න",
+          "say": "සොරි",
+          "exampleEn": "Sorry, I am late.",
+          "exampleSi": "සමාවෙන්න, මම පරක්කුයි."
+        },
+        {
+          "en": "excuse me",
+          "si": "සමාවෙන්න (අවධානය ගැනීමට)",
+          "say": "එක්ස්කියුස් මී",
+          "exampleEn": "Excuse me, where is the bus stop?",
+          "exampleSi": "සමාවෙන්න, බස් නැවතුම කොහෙද?"
+        },
+        {
+          "en": "name",
+          "si": "නම",
+          "say": "නේම්",
+          "exampleEn": "My name is Kamal.",
+          "exampleSi": "මගේ නම කමල්."
+        },
+        {
+          "en": "welcome",
+          "si": "සාදරයෙන් පිළිගනිමු",
+          "say": "වෙල්කම්",
+          "exampleEn": "Welcome to our home.",
+          "exampleSi": "අපේ ගෙදරට සාදරයෙන් පිළිගනිමු."
+        }
+      ]
+    },
+    {
+      "type": "grammar",
+      "title": "Introducing yourself",
+      "titleSi": "ඔබව හඳුන්වා දීම",
+      "explainSi": "ඔබේ නම කියන්න ක්‍රම දෙකක් තියෙනවා. දෙකම නිවැරදියි:\n\n1. My name is Nimal. (ටිකක් විධිමත්)\n2. I'm Nimal. (කෙටියි, දිනපතා භාවිතයට)\n\n'I'm' කියන්නේ 'I am' කියන එකේ කෙටි ස්වරූපයයි. කතා කරද්දී ඉංග්‍රීසි කථිකයෝ හැමවිටම වගේ කෙටි ස්වරූපය පාවිච්චි කරනවා.",
+      "formula": "My name is + [නම]   ·   I'm from + [ස්ථානය]",
+      "table": {
+        "headers": [
+          "Question",
+          "Answer",
+          "සිංහල අර්ථය"
+        ],
+        "rows": [
+          [
+            "What is your name?",
+            "My name is Sunil.",
+            "ඔබේ නම කුමක්ද? — මගේ නම සුනිල්."
+          ],
+          [
+            "Where are you from?",
+            "I'm from Kandy.",
+            "ඔබ කොහෙන්ද? — මම මහනුවරින්."
+          ],
+          [
+            "How are you?",
+            "I'm fine, thank you.",
+            "කොහොමද? — හොඳින්, ස්තුතියි."
+          ],
+          [
+            "Nice to meet you.",
+            "Nice to meet you too.",
+            "හමුවීම ගැන සතුටුයි. — මමත් සතුටුයි."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "Hello, my name is Amara.",
+          "si": "හෙලෝ, මගේ නම අමරා."
+        },
+        {
+          "en": "I'm from Sri Lanka.",
+          "si": "මම ශ්‍රී ලංකාවෙන්."
+        },
+        {
+          "en": "I am a student.",
+          "si": "මම ශිෂ්‍යයෙක්."
+        },
+        {
+          "en": "Nice to meet you.",
+          "si": "ඔබව හමුවීම ගැන සතුටුයි."
+        }
+      ],
+      "watchOutSi": "ඉංග්‍රීසියෙන් නම් සහ රටවල් ලියද්දී පළමු අකුර හැම විටම capital letter (විශාල අකුර) විය යුතුයි: Nimal, Sri Lanka, Kandy."
+    },
+    {
+      "type": "dialogue",
+      "title": "At the school gate",
+      "titleSi": "පාසල් ගේට්ටුව ළඟදී",
+      "settingSi": "නව ශිෂ්‍යයෙක් වන සමන්, තමන්ගේ නව යාළුවා වන නිලූව හමුවෙනවා.",
+      "lines": [
+        {
+          "speaker": "Nilu",
+          "en": "Good morning! Are you new here?",
+          "si": "සුබ උදෑසනක්! ඔබ මෙහෙ අලුත්ද?"
+        },
+        {
+          "speaker": "Saman",
+          "en": "Yes. Good morning. My name is Saman.",
+          "si": "ඔව්. සුබ උදෑසනක්. මගේ නම සමන්."
+        },
+        {
+          "speaker": "Nilu",
+          "en": "I'm Nilu. Nice to meet you, Saman.",
+          "si": "මම නිලූ. ඔබව හමුවීම ගැන සතුටුයි, සමන්."
+        },
+        {
+          "speaker": "Saman",
+          "en": "Nice to meet you too. Where are you from?",
+          "si": "මමත් සතුටුයි. ඔබ කොහෙන්ද?"
+        },
+        {
+          "speaker": "Nilu",
+          "en": "I'm from Galle. And you?",
+          "si": "මම ගාල්ලෙන්. ඔබ?"
+        },
+        {
+          "speaker": "Saman",
+          "en": "I'm from a small village near Kandy.",
+          "si": "මම මහනුවර ළඟ පොඩි ගමකින්."
+        },
+        {
+          "speaker": "Nilu",
+          "en": "Welcome to our school! Come, I will show you the class.",
+          "si": "අපේ පාසලට සාදරයෙන් පිළිගනිමු! එන්න, මම පන්තිය පෙන්නන්නම්."
+        },
+        {
+          "speaker": "Saman",
+          "en": "Thank you very much!",
+          "si": "බොහොම ස්තුතියි!"
+        }
+      ]
+    },
+    {
+      "type": "tip",
+      "title": "Politeness matters",
+      "titleSi": "ආචාරශීලීත්වය වැදගත්",
+      "bodySi": "ඉංග්‍රීසි කථා කරන අය 'please' සහ 'thank you' ඉතා නිතර භාවිත කරනවා — සිංහලෙන් අපි තරම් නොවේ. යමක් ඉල්ලද්දී 'please' නැතුව ඉල්ලුවොත් ඒක රළු විදිහට දැනෙන්න පුළුවන්. 'Give me water' කියනවා වෙනුවට 'Water, please' හෝ 'Could I have some water, please?' කියන්න.",
+      "body": "Always add 'please' when you ask for something."
+    },
+    {
+      "type": "poem",
+      "title": "Hello, Friend",
+      "titleSi": "හෙලෝ, යාළුවා",
+      "introSi": "සරල කවියක්. හැම පේළියක්ම කෙටියි — අහලා නැවත කියන්න.",
+      "lines": [
+        {
+          "en": "Hello, friend, and how are you?",
+          "si": "හෙලෝ යාළුවා, කොහොමද?"
+        },
+        {
+          "en": "The sky is bright, the day is new.",
+          "si": "අහස දීප්තිමත්, දවස අලුත්."
+        },
+        {
+          "en": "",
+          "si": ""
+        },
+        {
+          "en": "I say hello, you say hello,",
+          "si": "මම හෙලෝ කියනවා, ඔබත් හෙලෝ කියනවා,"
+        },
+        {
+          "en": "And off to school we gladly go.",
+          "si": "සතුටින් අපි පාසල් යනවා."
+        },
+        {
+          "en": "",
+          "si": ""
+        },
+        {
+          "en": "At night I say, \"Goodbye, my friend.\"",
+          "si": "රෑට මම කියනවා, \"ගිහින් එන්නම්, යාළුවා.\""
+        },
+        {
+          "en": "Tomorrow we will meet again.",
+          "si": "හෙට අපි නැවත හමුවෙනවා."
+        }
+      ],
+      "noteSi": "'you' සහ 'new' rhyme වෙනවා. 'hello' සහ 'go' rhyme වෙනවා. 'friend' සහ 'again' ආසන්න rhyme එකක්. කවි ලියද්දී මේ වගේ හඬ ගැළපීම භාවිත කරනවා."
+    },
+    {
+      "type": "practice",
+      "title": "Choose the right greeting",
+      "titleSi": "නිවැරදි ආචාරය තෝරන්න",
+      "instructionSi": "හිස්තැන පුරවන්න. පිළිතුරු ඉංග්‍රීසියෙන් ලියන්න.",
+      "items": [
+        {
+          "prompt": "උදේ 8ට ගුරුතුමා හමු වුණාම: ___ , teacher.",
+          "answer": "good morning",
+          "hintSi": "වචන දෙකයි.",
+          "full": "Good morning, teacher."
+        },
+        {
+          "prompt": "යමක් ඉල්ලද්දී අන්තිමට එකතු කරන ආචාරශීලී වචනය: Water, ___ .",
+          "answer": "please",
+          "hintSi": "අකුරු 6යි.",
+          "full": "Water, please."
+        },
+        {
+          "prompt": "යමක් ලැබුණාම කියන දේ: ___ you.",
+          "answer": "thank",
+          "hintSi": "'ස්තුතියි' කියන එකේ පළමු වචනය.",
+          "full": "Thank you."
+        },
+        {
+          "prompt": "ඔබේ නම කීමට: My ___ is Kamal.",
+          "answer": "name",
+          "hintSi": "අකුරු 4යි.",
+          "full": "My name is Kamal."
+        },
+        {
+          "prompt": "ඔබ පදිංචි තැන කීමට: I'm ___ Colombo.",
+          "answer": "from",
+          "hintSi": "අකුරු 4යි.",
+          "full": "I'm from Colombo."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "en": "hello",
+      "si": "හෙලෝ / ආයුබෝවන්"
+    },
+    {
+      "en": "good morning",
+      "si": "සුබ උදෑසනක්"
+    },
+    {
+      "en": "good evening",
+      "si": "සුබ සැන්දෑවක්"
+    },
+    {
+      "en": "goodbye",
+      "si": "ගිහින් එන්නම්"
+    },
+    {
+      "en": "please",
+      "si": "කරුණාකර"
+    },
+    {
+      "en": "thank you",
+      "si": "ස්තුතියි"
+    },
+    {
+      "en": "sorry",
+      "si": "සමාවෙන්න"
+    },
+    {
+      "en": "excuse me",
+      "si": "සමාවෙන්න (අවධානය ගැනීමට)"
+    },
+    {
+      "en": "name",
+      "si": "නම"
+    },
+    {
+      "en": "welcome",
+      "si": "සාදරයෙන් පිළිගනිමු"
+    },
+    {
+      "en": "student",
+      "si": "ශිෂ්‍යයා"
+    },
+    {
+      "en": "teacher",
+      "si": "ගුරුවරයා"
+    },
+    {
+      "en": "new",
+      "si": "අලුත්"
+    },
+    {
+      "en": "tomorrow",
+      "si": "හෙට"
+    },
+    {
+      "en": "sky",
+      "si": "අහස"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "a1-02-q1",
+      "q": "උදේ 9ට කෙනෙකු හමු වුණාම කුමක් කියන්නද?",
+      "options": [
+        "Good night",
+        "Good morning",
+        "Good evening",
+        "Goodbye"
+      ],
+      "answer": 1,
+      "explainSi": "දහවල් 12ට කලින් 'Good morning' කියනවා.",
+      "speak": "Good morning"
+    },
+    {
+      "id": "a1-02-q2",
+      "q": "'Good night' කියන්නේ කවදාද?",
+      "options": [
+        "රාත්‍රියේ කෙනෙකු හමු වුණාම",
+        "නිදාගන්න යද්දී හෝ රාත්‍රියේ සමුගද්දී",
+        "උදේ අවදි වුණාම",
+        "දහවල් කෑම වේලාවේ"
+      ],
+      "answer": 1,
+      "explainSi": "'Good night' යනු සමුගැනීමකි, ආචාරයක් නොවේ. රාත්‍රියේ කෙනෙකු හමු වුණාම 'Good evening' කියන්න.",
+      "speak": "Good night"
+    },
+    {
+      "id": "a1-02-q3",
+      "q": "'මගේ නම නිමල්' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "My name is Nimal.",
+        "I name Nimal.",
+        "Me name Nimal.",
+        "My name Nimal."
+      ],
+      "answer": 0,
+      "explainSi": "'is' අනිවාර්යයි: My name IS Nimal. 'I'm Nimal.' කියලත් කියන්න පුළුවන්.",
+      "speak": "My name is Nimal."
+    },
+    {
+      "id": "a1-02-q4",
+      "q": "'Where are you from?' යන්නට හොඳම පිළිතුර කුමක්ද?",
+      "options": [
+        "I am fine.",
+        "I'm from Matara.",
+        "My name is Sita.",
+        "Thank you."
+      ],
+      "answer": 1,
+      "explainSi": "'Where are you from?' යනු 'ඔබ කොහෙන්ද?' — එනිසා ස්ථානයක් කිව යුතුයි.",
+      "speak": "Where are you from? I'm from Matara."
+    },
+    {
+      "id": "a1-02-q5",
+      "q": "කඩේ මිනිසෙකුගේ අවධානය ගැනීමට කුමක් කියන්නද?",
+      "options": [
+        "Sorry!",
+        "Excuse me!",
+        "Goodbye!",
+        "Welcome!"
+      ],
+      "answer": 1,
+      "explainSi": "'Excuse me' යනු අවධානය ගැනීමට. 'Sorry' යනු වරදක් සිදු වූ පසු සමාව ඉල්ලීමට.",
+      "speak": "Excuse me!"
+    },
+    {
+      "id": "a1-02-q6",
+      "q": "ඉංග්‍රීසියෙන් නම් ලියද්දී පළමු අකුර කෙසේ විය යුතුද?",
+      "options": [
+        "කුඩා අකුරක්",
+        "විශාල අකුරක් (capital)",
+        "අංකයක්",
+        "වෙනසක් නැත"
+      ],
+      "answer": 1,
+      "explainSi": "නම්, රටවල් සහ නගර හැම විටම capital letter එකකින් පටන් ගන්නවා: Nimal, Sri Lanka, Kandy."
+    },
+    {
+      "id": "a1-02-q7",
+      "q": "'Nice to meet you.' යන්නට ගැළපෙන පිළිතුර?",
+      "options": [
+        "Nice to meet you too.",
+        "Good night.",
+        "I am from Kandy.",
+        "Please."
+      ],
+      "answer": 0,
+      "explainSi": "'too' කියන්නේ 'මමත්' කියන එකයි. එනිසා 'Nice to meet you too.'",
+      "speak": "Nice to meet you too."
+    },
+    {
+      "id": "a1-02-q8",
+      "q": "'I'm' යනු කුමන වචන දෙකේ කෙටි ස්වරූපයද?",
+      "options": [
+        "I have",
+        "I am",
+        "I will",
+        "I do"
+      ],
+      "answer": 1,
+      "explainSi": "I'm = I am. එලෙසම: you're = you are, he's = he is.",
+      "speak": "I am. I'm."
+    },
+    {
+      "id": "a1-02-q9",
+      "q": "හවස 4ට කෙනෙකු හමු වුණාම කුමක් කියන්නද?",
+      "options": [
+        "Good morning",
+        "Good afternoon",
+        "Good evening",
+        "Good night"
+      ],
+      "answer": 1,
+      "explainSi": "Good afternoon — දවල් 12 සිට හවස 6 පමණ වන තුරු.",
+      "speak": "Good afternoon"
+    },
+    {
+      "id": "a1-02-q10",
+      "q": "'Good night' සහ 'Good evening' අතර වෙනස කුමක්ද?",
+      "options": [
+        "වෙනසක් නෑ",
+        "'Good evening' හමු වෙද්දී, 'Good night' පිටත් වෙද්දී හෝ නිදාගන්න යද්දී",
+        "'Good night' වඩා ආචාරශීලීයි",
+        "'Good evening' උදේට"
+      ],
+      "answer": 1,
+      "explainSi": "'Good night' කියන්නේ ආයුබෝවන් කියලා යද්දී — හමු වෙද්දී නෙවෙයි."
+    },
+    {
+      "id": "a1-02-q11",
+      "q": "'ඔබට කොහොමද?' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "How you are?",
+        "How are you?",
+        "How is you?",
+        "What are you?"
+      ],
+      "answer": 1,
+      "explainSi": "'How are you?' — 'are' සහ 'you' මාරු වෙනවා ප්‍රශ්නයේ.",
+      "speak": "How are you?"
+    },
+    {
+      "id": "a1-02-q12",
+      "q": "'How are you?' යන්නට ගැළපෙන පිළිතුර?",
+      "options": [
+        "My name is Nimal.",
+        "I'm fine, thank you. And you?",
+        "I'm from Galle.",
+        "Yes, I am."
+      ],
+      "answer": 1,
+      "explainSi": "පිළිතුරු දීලා ආපහු අහන එක ආචාරශීලීයි — කථාව එතනින් නවතින්නේ නෑ."
+    },
+    {
+      "id": "a1-02-q13",
+      "q": "'මම ගාල්ලෙන්' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "I from Galle.",
+        "I'm from Galle.",
+        "I'm Galle.",
+        "My from Galle."
+      ],
+      "answer": 1,
+      "explainSi": "'from' අවශ්‍යයි, සහ 'am' අත්හරින්න බෑ.",
+      "speak": "I'm from Galle."
+    },
+    {
+      "id": "a1-02-q14",
+      "q": "'Thank you' යන්නට ගැළපෙන පිළිතුරු දෙක?",
+      "options": [
+        "'Please' සහ 'Sorry'",
+        "'You're welcome' සහ 'Not at all'",
+        "'Hello' සහ 'Goodbye'",
+        "'Yes' සහ 'No'"
+      ],
+      "answer": 1,
+      "explainSi": "ලංකාවේ බොහෝ දෙනා පිළිතුරක් දෙන්නේ නෑ — ඉංග්‍රීසියේ පිළිතුරක් දෙන එක සාමාන්‍යයි."
+    },
+    {
+      "id": "a1-02-q15",
+      "q": "කඩේක යමක් ඉල්ලද්දී අන්තිමට එකතු කරන වචනය කුමක්ද?",
+      "options": [
+        "now",
+        "please",
+        "quickly",
+        "yes"
+      ],
+      "answer": 1,
+      "explainSi": "'please' නැති ඉල්ලීමක් ඉංග්‍රීසියේ රළුයි — සිංහලෙන් ස්වරයෙන් කරන දේ ඉංග්‍රීසියේ වචනයෙන් කරනවා."
+    },
+    {
+      "id": "a1-02-q16",
+      "q": "'What is your name?' යන්නට ගැළපෙන පිළිතුර?",
+      "options": [
+        "I'm from Kandy.",
+        "My name is Saman.",
+        "Nice to meet you.",
+        "Good morning."
+      ],
+      "answer": 1,
+      "explainSi": "'What is your name?' නම අහනවා. 'Where are you from?' තැන අහනවා."
+    },
+    {
+      "id": "a1-02-q17",
+      "context": "Nilu: I'm Nilu. Nice to meet you, Saman.\nSaman: Nice to meet you too. Where are you from?\nNilu: I'm from Galle. And you?",
+      "contextSi": "නිලූ: මම නිලූ. හමු වීම සතුටක්, සමන්.\nසමන්: මටත් සතුටක්. ඔබ කොහෙන්ද?\nනිලූ: මම ගාල්ලෙන්. ඔබ?",
+      "q": "සංවාදයේ: ගාල්ලෙන් එන්නේ කවුද?",
+      "options": [
+        "සමන්",
+        "නිලූ",
+        "දෙන්නම",
+        "කවුරුවත් නෑ"
+      ],
+      "answer": 1,
+      "explainSi": "'I'm from Galle' කියන්නේ නිලූ. ඊට පස්සේ 'And you?' කියලා සමන්ගෙන් අහනවා."
+    },
+    {
+      "id": "a1-02-q18",
+      "context": "Nilu: I'm from Galle. And you?\nSaman: I'm from a small village near Kandy.",
+      "contextSi": "නිලූ: මම ගාල්ලෙන්. ඔබ?\nසමන්: මම නුවර ළඟ පොඩි ගමකින්.",
+      "q": "සංවාදයේ: 'And you?' කියන කෙටි ප්‍රශ්නය කරන්නේ මොකක්ද?",
+      "options": [
+        "කථාව නවත්වනවා",
+        "එකම ප්‍රශ්නය ආපහු අහනවා — වචන නැවත නොකියාම",
+        "නමක් අහනවා",
+        "සමාව අහනවා"
+      ],
+      "answer": 1,
+      "explainSi": "'Where are you from?' නැවත කියන්නේ නෑ — 'And you?' ඇති."
+    },
+    {
+      "id": "a1-02-q19",
+      "context": "Nilu: Welcome to our school! Come, I will show you the class.\nSaman: Thank you very much!",
+      "contextSi": "නිලූ: අපේ පාසලට සාදරයෙන් පිළිගන්නවා! එන්න, මම පන්තිය පෙන්නන්නම්.\nසමන්: බොහොම ස්තූතියි!",
+      "q": "සංවාදයේ: නිලූ අන්තිමට කරන්නේ කුමක්ද?",
+      "options": [
+        "සමන්ට ආයුබෝවන් කියනවා",
+        "උදව් කරන්න ඉදිරිපත් වෙනවා",
+        "නම අහනවා",
+        "ගෙදර යනවා"
+      ],
+      "answer": 1,
+      "explainSi": "'I will show you the class' — කථාවෙන් ක්‍රියාවකට."
+    },
+    {
+      "id": "a1-02-q20",
+      "context": "Hello, friend, and how are you? / The sky is bright, the day is new.",
+      "contextSi": "හෙලෝ යාළුවා, ඔබට කොහොමද? / අහස දීප්තිමත්, දවස අලුත්.",
+      "q": "කවියේ: මේ පේළි දෙක කුමන වෙලාවක්ද?",
+      "options": [
+        "රාත්‍රිය",
+        "උදෑසන",
+        "හවස",
+        "දන්නේ නෑ"
+      ],
+      "answer": 1,
+      "explainSi": "'the day is new' — දවස පටන් ගන්නවා."
+    },
+    {
+      "id": "a1-02-q21",
+      "context": "At night I say, \"Goodbye, my friend.\" / Tomorrow we will meet again.",
+      "contextSi": "රෑට මම කියනවා, \"ආයුබෝවන් යාළුවා.\" / හෙට අපි නැවත හමු වෙනවා.",
+      "q": "කවියේ: 'Goodbye' කියන්නේ ඇයි, 'Hello' නොවේ?",
+      "options": [
+        "යාළුවා යන නිසා",
+        "දවස ඉවර වෙලා වෙන් වෙන නිසා",
+        "එයාට තරහ නිසා",
+        "පදවැල ගැළපෙන්න"
+      ],
+      "answer": 1,
+      "explainSi": "කවිය උදෑසන 'Hello' එකෙන් පටන් අරගෙන රාත්‍රියේ 'Goodbye' එකෙන් ඉවර වෙනවා."
+    },
+    {
+      "id": "a1-02-q22",
+      "q": "ඉංග්‍රීසියෙන් ලියද්දී ලොකු අකුරින් ලිවිය යුතු නොවන්නේ කුමක්ද?",
+      "options": [
+        "Saman",
+        "Galle",
+        "teacher",
+        "Kandy"
+      ],
+      "answer": 2,
+      "explainSi": "මිනිසුන්ගේ සහ ස්ථානවල නම් ලොකු අකුරින්. රැකියා නම් නෑ."
+    }
+  ]
+}

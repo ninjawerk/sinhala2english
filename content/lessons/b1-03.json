@@ -1,0 +1,500 @@
+{
+  "hero": {
+    "src": "images/b1-03-hero.webp",
+    "alt": "Ruwan standing still in a crowded busy street market, quietly observing everything around him, colourful faded awnings and bustle."
+  },
+  "goalsSi": [
+    "විශේෂණ (adjectives) සහ ක්‍රියා විශේෂණ (adverbs) අතර වෙනස",
+    "විශේෂණ නිවැරදි පිළිවෙළට යෙදීම",
+    "-ing සහ -ed විශේෂණ අතර වෙනස",
+    "පුද්ගලයෙක් හෝ ස්ථානයක් විස්තර කිරීමේ ඡේදයක් ලිවීම"
+  ],
+  "goals": [
+    "Tell adjectives and adverbs apart",
+    "Put adjectives in the right order",
+    "Know when to use -ing and -ed adjectives"
+  ],
+  "sections": [
+    {
+      "type": "note",
+      "title": "Adjective or adverb?",
+      "titleSi": "විශේෂණයද, ක්‍රියා විශේෂණයද?",
+      "bodySi": "Adjective (විශේෂණය) නාම පදයක් විස්තර කරනවා — කවුද, මොකක්ද, කොහොමද කියලා.\nAdverb (ක්‍රියා විශේෂණය) ක්‍රියාවක් විස්තර කරනවා — කොහොම කළාද කියලා.\n\nShe is a careful driver. (careful → driver යන නාම පදය විස්තර කරයි)\nShe drives carefully. (carefully → drives යන ක්‍රියාව විස්තර කරයි)\n\nබොහෝ adverbs සෑදෙන්නේ adjective එකට '-ly' එකතු කිරීමෙන්. නමුත් සමහරක් අක්‍රමවත්: good → well, fast → fast, hard → hard.",
+      "body": "Adjectives describe nouns. Adverbs describe verbs. Most adverbs end in -ly."
+    },
+    {
+      "type": "grammar",
+      "title": "Making adverbs",
+      "titleSi": "Adverbs සෑදීම",
+      "explainSi": "බොහෝ විට adjective එකට '-ly' එකතු කරනවා. නමුත් අක්‍රමවත් ඒවා මතක තබා ගන්නම ඕන.",
+      "table": {
+        "headers": [
+          "Adjective",
+          "Adverb",
+          "Example"
+        ],
+        "rows": [
+          [
+            "quick",
+            "quickly",
+            "He walked quickly."
+          ],
+          [
+            "careful",
+            "carefully",
+            "Read the question carefully."
+          ],
+          [
+            "happy",
+            "happily",
+            "The children played happily."
+          ],
+          [
+            "good",
+            "well ⚠",
+            "She speaks English well."
+          ],
+          [
+            "fast",
+            "fast ⚠",
+            "He runs fast."
+          ],
+          [
+            "hard",
+            "hard ⚠",
+            "They work hard."
+          ],
+          [
+            "late",
+            "late ⚠",
+            "I arrived late."
+          ],
+          [
+            "easy",
+            "easily",
+            "He passed the test easily."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "She speaks English very well.",
+          "si": "එයා ඉංග්‍රීසි හරිම හොඳට කතා කරනවා."
+        },
+        {
+          "en": "Please drive carefully.",
+          "si": "කරුණාකර පරෙස්සමෙන් රිය පදවන්න."
+        },
+        {
+          "en": "He answered the question quickly.",
+          "si": "එයා ප්‍රශ්නයට ඉක්මනට උත්තර දුන්නා."
+        }
+      ],
+      "watchOutSi": "'She speaks English good' ✗ — 'good' යනු adjective එකක්. 'She speaks English WELL' ✓. තවද 'hardly' යනු 'hard' වල adverb එක නෙවෙයි — 'hardly' කියන්නේ 'කිසිසේත් නොවේ තරම්' කියන අර්ථයයි: 'I hardly slept' = මම නිදාගත්තේ නෑ තරම්."
+    },
+    {
+      "type": "grammar",
+      "title": "The order of adjectives",
+      "titleSi": "විශේෂණවල පිළිවෙළ",
+      "explainSi": "විශේෂණ කිහිපයක් එකට යෙදෙද්දී ඒවාට නිශ්චිත පිළිවෙළක් තියෙනවා. ස්වදේශිකයෝ මේක නොදැනුවත්වම කරනවා, නමුත් වැරදුනොත් ඉතා අමුතුවට ඇහෙනවා.\n\nපිළිවෙළ: Opinion → Size → Age → Shape → Colour → Origin → Material → NOUN\n\n\"a beautiful small old round brown Sri Lankan wooden box\"\n\nප්‍රායෝගිකව එකවර දෙකකට වඩා යොදන්නේ නෑ. නමුත් පිළිවෙළ දැනගෙන ඉන්න එක වැදගත්.",
+      "formula": "Opinion → Size → Age → Shape → Colour → Origin → Material → Noun",
+      "table": {
+        "headers": [
+          "✓ නිවැරදි",
+          "✗ වැරදි"
+        ],
+        "rows": [
+          [
+            "a beautiful old house",
+            "an old beautiful house"
+          ],
+          [
+            "a big red bus",
+            "a red big bus"
+          ],
+          [
+            "a small wooden table",
+            "a wooden small table"
+          ],
+          [
+            "a lovely little village",
+            "a little lovely village"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "She wore a lovely blue silk saree.",
+          "si": "එයා ලස්සන නිල් සේද සාරියක් ඇඳගෙන හිටියා."
+        },
+        {
+          "en": "They live in a small old house near the river.",
+          "si": "ඔවුන් ගඟ ළඟ පොඩි පරණ ගෙදරක ජීවත් වෙනවා."
+        }
+      ]
+    },
+    {
+      "type": "grammar",
+      "title": "-ing or -ed adjectives?",
+      "titleSi": "-ing හෝ -ed විශේෂණ?",
+      "explainSi": "මේක ඉතා පොදු වැරැද්දක්, සහ තේරුම් ගත්තම ලේසියි.\n\n• -ing → දෙයක් හෝ තත්ත්වයක් විස්තර කරයි (හේතුව)\n• -ed → මිනිසෙකුගේ හැඟීම විස්තර කරයි (ප්‍රතිඵලය)\n\nThe film was boring. (චිත්‍රපටය කම්මැලියි)\nI was bored. (මට කම්මැලි දැනුණා)\n\n\"I am boring\" කිව්වොත් අර්ථය වෙන්නේ 'මම කම්මැලි මිනිහෙක්' කියලා! ප්‍රවේශම් වෙන්න.",
+      "table": {
+        "headers": [
+          "-ing (දෙය)",
+          "-ed (හැඟීම)",
+          "සිංහල"
+        ],
+        "rows": [
+          [
+            "interesting",
+            "interested",
+            "රසවත් / උනන්දුයි"
+          ],
+          [
+            "boring",
+            "bored",
+            "කම්මැලි / කම්මැලි දැනෙනවා"
+          ],
+          [
+            "tiring",
+            "tired",
+            "මහන්සි කරවන / මහන්සියි"
+          ],
+          [
+            "exciting",
+            "excited",
+            "උද්‍යෝගිමත් කරවන / උද්‍යෝගිමත්"
+          ],
+          [
+            "confusing",
+            "confused",
+            "ව්‍යාකූල කරවන / ව්‍යාකූලයි"
+          ],
+          [
+            "surprising",
+            "surprised",
+            "පුදුම කරවන / පුදුමයි"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "The lesson was interesting, so I was interested.",
+          "si": "පාඩම රසවත් වුණා, එනිසා මම උනන්දු වුණා."
+        },
+        {
+          "en": "The journey was tiring. We were all tired.",
+          "si": "ගමන මහන්සි කරවන එකක් වුණා. අපි හැමෝම මහන්සියි."
+        },
+        {
+          "en": "I was confused because the instructions were confusing.",
+          "si": "උපදෙස් ව්‍යාකූල නිසා මම ව්‍යාකූල වුණා."
+        }
+      ]
+    },
+    {
+      "type": "story",
+      "title": "The Woman at the Bus Halt",
+      "titleSi": "බස් නැවතුමේ සිටි කාන්තාව",
+      "introSi": "විස්තර කිරීමේ භාෂාව බහුල කෙටිකතාවක්. adjectives සහ adverbs කීයක් හොයාගන්න පුළුවන්ද?",
+      "paragraphs": [
+        {
+          "en": "Every evening she stood at the same bus halt: a thin, quiet woman in a faded green saree.",
+          "si": "හැම සැන්දෑවකම එයා එකම බස් නැවතුමේ හිටියා: කෙට්ටු, නිශ්ශබ්ද කාන්තාවක්, පැහැ ගිය කොළ පාට සාරියක්."
+        },
+        {
+          "en": "She never spoke loudly. She waited patiently while the crowded buses came and went.",
+          "si": "එයා කවදාවත් හයියෙන් කතා කළේ නෑ. පිරුණු බස් එනකොට යනකොට එයා ඉවසිලිවන්තව බලාගෙන හිටියා."
+        },
+        {
+          "en": "One rainy evening I offered her my umbrella. She smiled shyly and shook her head.",
+          "si": "වැසි සැන්දෑවක මම එයාට මගේ කුඩය දුන්නා. එයා ලැජ්ජාවෙන් සිනාසිලා හිස වැනුවා."
+        },
+        {
+          "en": "\"My son comes at six,\" she said softly. \"He works in the big factory near the town.\"",
+          "si": "\"මගේ පුතා හයට එනවා,\" එයා හෙමිහිට කිව්වා. \"එයා නගරේ ළඟ ලොකු කර්මාන්තශාලාවේ වැඩ කරනවා.\""
+        },
+        {
+          "en": "The story was surprising because everyone in the lane knew the truth. Her son left for Dubai eleven years ago and never wrote.",
+          "si": "කතාව පුදුම කරවන එකක් වුණා, මොකද පාරේ හැමෝම ඇත්ත දැනගෙන හිටියා. එයාගේ පුතා අවුරුදු එකොළහකට කලින් ඩුබායි ගියා, කවදාවත් ලිව්වේ නෑ."
+        },
+        {
+          "en": "But every evening she stood there, calm and hopeful, watching each bus carefully. And nobody in that lane was ever cruel enough to tell her the truth.",
+          "si": "නමුත් හැම සැන්දෑවකම එයා එතන හිටියා, සන්සුන්ව සහ බලාපොරොත්තුවෙන්, හැම බස් එකක්ම පරෙස්සමෙන් බලමින්. ඒ පාරේ කිසිවෙක් එයාට ඇත්ත කියන තරම් කුරිරු වුණේ නෑ."
+        }
+      ],
+      "glossary": [
+        {
+          "en": "thin",
+          "si": "කෙට්ටු"
+        },
+        {
+          "en": "faded",
+          "si": "පැහැ ගිය"
+        },
+        {
+          "en": "loudly",
+          "si": "හයියෙන්"
+        },
+        {
+          "en": "patiently",
+          "si": "ඉවසිලිවන්තව"
+        },
+        {
+          "en": "crowded",
+          "si": "පිරුණු"
+        },
+        {
+          "en": "offer",
+          "si": "දෙන්න ඉදිරිපත් වෙනවා"
+        },
+        {
+          "en": "shyly",
+          "si": "ලැජ්ජාවෙන්"
+        },
+        {
+          "en": "softly",
+          "si": "හෙමිහිට"
+        },
+        {
+          "en": "hopeful",
+          "si": "බලාපොරොත්තුවෙන්"
+        },
+        {
+          "en": "cruel",
+          "si": "කුරිරු"
+        },
+        {
+          "en": "truth",
+          "si": "ඇත්ත"
+        }
+      ],
+      "questionsSi": [
+        "කාන්තාව බස් නැවතුමේ බලා සිටියේ කාටද?",
+        "පාරේ අය ඇත්ත නොකියා සිටියේ ඇයි?",
+        "'calm and hopeful' යන වචන දෙකින් කර්තෘ ගොඩනගන හැඟීම කුමක්ද?"
+      ]
+    },
+    {
+      "type": "practice",
+      "title": "Adjective or adverb?",
+      "titleSi": "Adjective නැත්නම් adverb?",
+      "instructionSi": "නිවැරදි ස්වරූපය ලියන්න.",
+      "items": [
+        {
+          "prompt": "She speaks English very ___ . (good)",
+          "answer": "well",
+          "hintSi": "'good' වල adverb එක අක්‍රමවත්.",
+          "full": "She speaks English very well."
+        },
+        {
+          "prompt": "Please drive ___ . (careful)",
+          "answer": "carefully",
+          "hintSi": "-ly එකතු කරන්න.",
+          "full": "Please drive carefully."
+        },
+        {
+          "prompt": "He is a ___ driver. (careful)",
+          "answer": "careful",
+          "hintSi": "'driver' නාම පදයක් — adjective ඕන.",
+          "full": "He is a careful driver."
+        },
+        {
+          "prompt": "The film was ___ . I fell asleep. (bore)",
+          "answer": "boring",
+          "hintSi": "චිත්‍රපටය විස්තර කරනවා.",
+          "full": "The film was boring."
+        },
+        {
+          "prompt": "I was ___ during the meeting. (bore)",
+          "answer": "bored",
+          "hintSi": "මගේ හැඟීම විස්තර කරනවා.",
+          "full": "I was bored during the meeting."
+        },
+        {
+          "prompt": "නිවැරදි පිළිවෙළ: (old / a / beautiful / house)",
+          "answer": "a beautiful old house",
+          "hintSi": "Opinion → Age → Noun.",
+          "full": "They live in a beautiful old house."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "en": "careful",
+      "si": "පරෙස්සම්"
+    },
+    {
+      "en": "quickly",
+      "si": "ඉක්මනට"
+    },
+    {
+      "en": "patiently",
+      "si": "ඉවසිලිවන්තව"
+    },
+    {
+      "en": "loudly",
+      "si": "හයියෙන්"
+    },
+    {
+      "en": "softly",
+      "si": "හෙමිහිට"
+    },
+    {
+      "en": "crowded",
+      "si": "පිරුණු"
+    },
+    {
+      "en": "faded",
+      "si": "පැහැ ගිය"
+    },
+    {
+      "en": "thin",
+      "si": "කෙට්ටු"
+    },
+    {
+      "en": "hopeful",
+      "si": "බලාපොරොත්තුවෙන්"
+    },
+    {
+      "en": "cruel",
+      "si": "කුරිරු"
+    },
+    {
+      "en": "truth",
+      "si": "ඇත්ත"
+    },
+    {
+      "en": "interesting",
+      "si": "රසවත්"
+    },
+    {
+      "en": "bored",
+      "si": "කම්මැලි දැනෙනවා"
+    },
+    {
+      "en": "excited",
+      "si": "උද්‍යෝගිමත්"
+    },
+    {
+      "en": "confused",
+      "si": "ව්‍යාකූලයි"
+    },
+    {
+      "en": "surprising",
+      "si": "පුදුම කරවන"
+    },
+    {
+      "en": "offer",
+      "si": "දෙන්න ඉදිරිපත් වෙනවා"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "b1-03-q1",
+      "q": "'She speaks English ___.' — නිවැරදි වචනය?",
+      "options": [
+        "good",
+        "well",
+        "goodly",
+        "better good"
+      ],
+      "answer": 1,
+      "explainSi": "ක්‍රියාවක් (speaks) විස්තර කරන නිසා adverb ඕන. 'good' වල adverb එක 'well'.",
+      "speak": "She speaks English well."
+    },
+    {
+      "id": "b1-03-q2",
+      "q": "'The lesson was ___ and I was very ___.'",
+      "options": [
+        "interested / interesting",
+        "interesting / interested",
+        "interesting / interesting",
+        "interested / interested"
+      ],
+      "answer": 1,
+      "explainSi": "දෙය (lesson) → -ing. මිනිසාගේ හැඟීම (I) → -ed.",
+      "speak": "The lesson was interesting and I was very interested."
+    },
+    {
+      "id": "b1-03-q3",
+      "q": "විශේෂණවල නිවැරදි පිළිවෙළ කුමක්ද?",
+      "options": [
+        "a red big bus",
+        "a big red bus",
+        "big a red bus",
+        "a bus big red"
+      ],
+      "answer": 1,
+      "explainSi": "Size ප්‍රථමයෙන්, Colour පසුව: a big red bus.",
+      "speak": "a big red bus"
+    },
+    {
+      "id": "b1-03-q4",
+      "q": "'I am boring.' යන්නෙන් අර්ථවත් වන්නේ කුමක්ද?",
+      "options": [
+        "මට කම්මැලි දැනෙනවා",
+        "මම අනුන්ට කම්මැලි ගෙනෙන කෙනෙක්",
+        "මම මහන්සියි",
+        "මම උනන්දුයි"
+      ],
+      "answer": 1,
+      "explainSi": "'I am boring' = මම කම්මැලි මිනිහෙක්. 'මට කම්මැලියි' කියන්න 'I am bored.'",
+      "speak": "I am bored, not I am boring."
+    },
+    {
+      "id": "b1-03-q5",
+      "q": "'hard' යන්නෙහි adverb ස්වරූපය කුමක්ද?",
+      "options": [
+        "hardly",
+        "hard",
+        "hardily",
+        "harder"
+      ],
+      "answer": 1,
+      "explainSi": "'hard' adverb එකක් ලෙසත් එලෙසමයි: 'They work hard.' 'hardly' යනු වෙනම වචනයක් — 'කිසිසේත් නොවේ තරම්'.",
+      "speak": "They work hard. I hardly slept."
+    },
+    {
+      "id": "b1-03-q6",
+      "q": "'She waited ___ for the bus.' — නිවැරදි වචනය?",
+      "options": [
+        "patient",
+        "patiently",
+        "patience",
+        "patientful"
+      ],
+      "answer": 1,
+      "explainSi": "'waited' ක්‍රියාව විස්තර කරන නිසා adverb: patiently.",
+      "speak": "She waited patiently for the bus."
+    },
+    {
+      "id": "b1-03-q7",
+      "q": "'The instructions were ___, so I was ___.'",
+      "options": [
+        "confused / confusing",
+        "confusing / confused",
+        "confuse / confused",
+        "confusing / confusing"
+      ],
+      "answer": 1,
+      "explainSi": "උපදෙස් (දෙයක්) → confusing. මම (හැඟීම) → confused.",
+      "speak": "The instructions were confusing, so I was confused."
+    },
+    {
+      "id": "b1-03-q8",
+      "context": "And nobody in that lane was ever cruel enough to tell her the truth.",
+      "contextSi": "ඒ පාරේ කිසිවෙකුට එයාට ඇත්ත කියන තරම් කුරිරු වෙන්න බැරි වුණා.",
+      "q": "කතාවේ පාරේ අය ඇත්ත නොකීවේ ඇයි?",
+      "options": [
+        "ඔවුන් ඇත්ත දැනගෙන සිටියේ නෑ",
+        "එයාට ඇත්ත කියන තරම් කුරිරු වීමට ඔවුන්ට නොහැකි වූ නිසා",
+        "එයා ඔවුන් සමඟ කතා නොකළ නිසා",
+        "පුතා ආපසු එන නිසා"
+      ],
+      "answer": 1,
+      "explainSi": "'nobody in that lane was ever cruel enough to tell her the truth' — කරුණාව නිසා ඔවුන් නිහඬ වුණා."
+    }
+  ]
+}

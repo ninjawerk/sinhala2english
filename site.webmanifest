@@ -1,0 +1,17 @@
+{
+  "name": "Sinhala → English · සිංහලෙන් ඉංග්‍රීසි",
+  "short_name": "සිං → English",
+  "description": "A free beginner-to-advanced English course for Sinhala speakers.",
+  "lang": "si",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f7f8fc",
+  "theme_color": "#3b63f0",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

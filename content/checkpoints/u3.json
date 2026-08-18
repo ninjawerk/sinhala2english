@@ -1,0 +1,110 @@
+{
+  "quiz": [
+    {
+      "id": "u3-cp-q1",
+      "q": "'මම ඊයේ ගමනක් ගියා.' — 'travel' → past simple?",
+      "options": ["I travel yesterday.", "I traveled yesterday.", "I traveling yesterday.", "I am traveled yesterday."],
+      "answer": 1,
+      "explainSi": "'travel' → 'traveled' (regular verb, -ed එකතු කිරීම).",
+      "speak": "I traveled yesterday."
+    },
+    {
+      "id": "u3-cp-q2",
+      "q": "'go' → past simple (irregular)?",
+      "options": ["goed", "went", "gone", "going"],
+      "answer": 1,
+      "explainSi": "'go' → 'went' — irregular verb, -ed රටාව අනුගමනය නොකරයි."
+    },
+    {
+      "id": "u3-cp-q3",
+      "q": "'ඔබ ඊයේ ගෙදර ගියාද?' — 'did' භාවිතා කරන ප්‍රශ්නය?",
+      "options": ["Did you went home yesterday?", "Did you go home yesterday?", "You did go home yesterday?", "Did you going home yesterday?"],
+      "answer": 1,
+      "explainSi": "'Did you + ක්‍රියාවේ මූලික ස්වරූපය?' — 'did' සමඟ ක්‍රියාවට 'ed' නැවත එකතු කරන්නේ නෑ.",
+      "speak": "Did you go home yesterday?"
+    },
+    {
+      "id": "u3-cp-q4",
+      "q": "'මම නාන කොට phone එක ring වුනා.' — past continuous + past simple?",
+      "options": ["I was showering when the phone rang.", "I showered when the phone was ringing.", "I was shower when the phone ring.", "I am showering when the phone rang."],
+      "answer": 0,
+      "explainSi": "දිගු කාලයක් සිදුවෙමින් තිබූ ක්‍රියාව 'was showering' (past continuous), ක්ෂණික ක්‍රියාව 'rang' (past simple)."
+    },
+    {
+      "id": "u3-cp-q5",
+      "q": "'when' සහ 'while' අතර වෙනස කුමක්ද?",
+      "options": [
+        "'while' දිගු ක්‍රියාවක් සමඟ (continuous), 'when' කෙටි ක්‍රියාවක් සමඟ (simple) බහුලව යෙදෙනවා",
+        "වෙනසක් නෑ",
+        "'when' continuous සමඟ විතරයි",
+        "'while' simple සමඟ විතරයි"
+      ],
+      "answer": 0,
+      "explainSi": "'While I was cooking...' (දිගු ක්‍රියාව), 'when the phone rang' (ක්ෂණික ක්‍රියාව) — පොදු රටාව."
+    },
+    {
+      "id": "u3-cp-q6",
+      "q": "'මට කාලයක් තිබුනේ නෑ, ඒ නිසා මම ටැක්සියක් ගත්තා.' — 'because' ද 'so' ද?",
+      "options": ["I had no time because I took a taxi.", "I had no time so I took a taxi.", "I had no time, taxi I took.", "So I had no time, I took a taxi."],
+      "answer": 1,
+      "explainSi": "'so' — ප්‍රතිඵලය පෙන්වනවා ('had no time' → 'took a taxi').",
+      "speak": "I had no time, so I took a taxi."
+    },
+    {
+      "id": "u3-cp-q7",
+      "q": "'වැස්ස වහිද්දීත් ඇය පිටතට ගියා.' (contrast) — 'although' භාවිතා කරන්නේ කොහොමද?",
+      "options": ["Although it was raining, she went outside.", "It was raining although she went outside first.", "She went outside because it was raining.", "Although she went outside, it was raining."],
+      "answer": 0,
+      "explainSi": "'Although + තත්ත්වය, ප්‍රතිවිරුද්ධ ක්‍රියාව' — contrast පෙන්වීම.",
+      "speak": "Although it was raining, she went outside."
+    },
+    {
+      "id": "u3-cp-q8",
+      "q": "'ලස්සන කුඩා රතු කාරයක්.' — adjective order?",
+      "options": ["a red small beautiful car", "a beautiful small red car", "a small beautiful red car", "a beautiful red small car"],
+      "answer": 1,
+      "explainSi": "Adjective order: opinion (beautiful) → size (small) → colour (red)."
+    },
+    {
+      "id": "u3-cp-q9",
+      "q": "'මම කම්මැලියි.' (feeling) සහ 'ඒක කම්මැලි සිනමාපටයක්.' (cause) — '-ed' ද '-ing' ද?",
+      "options": ["I'm bored. / It's a boring movie.", "I'm boring. / It's a bored movie.", "I'm bored. / It's a bored movie.", "I'm boring. / It's a boring movie."],
+      "answer": 0,
+      "explainSi": "'-ed' (bored) — දැනෙන හැඟීම. '-ing' (boring) — හේතුව/එය ඇති කරන දේ."
+    },
+    {
+      "id": "u3-cp-q10",
+      "q": "'ඇය ඉක්මනින් ලියුම ලිව්වා.' — adverb?",
+      "options": ["She wrote the letter quick.", "She wrote the letter quickly.", "She quickly wrote the letter, quick.", "She quick wrote the letter."],
+      "answer": 1,
+      "explainSi": "'quickly' — adverb, ක්‍රියාව විස්තර කරනවා ('-ly' අවසානය).",
+      "speak": "She wrote the letter quickly."
+    },
+    {
+      "id": "u3-cp-q11",
+      "context": "I was walking home when it started to rain. Although I had no umbrella, I wasn't worried because the house was close. I quickly ran the last part.",
+      "contextSi": "මම ගෙදර යද්දී වහින්න පටන්ගත්තා. මට කුඩයක් නැතත්, මම කරදර වුනේ නෑ, මොකද ගෙදර ළඟින් තිබුනා. මම අන්තිම කොටස ඉක්මනින් දුවගෙන ගියා.",
+      "q": "මේ කථාවේ 'was walking...when it started' (past continuous+simple), 'Although' (contrast), 'quickly' (adverb) — තුනම එකතු වෙලා තියෙන්නේ නිවැරදිද?",
+      "options": [
+        "ඔව් — පසුබිම (was walking), හදිසි සිදුවීම (started), contrast (Although), adverb (quickly) — කථාවක් ගොතන සියලුම මූලද්‍රව්‍ය",
+        "නෑ, 'Although' වෙනුවට 'because' විය යුතුයි",
+        "නෑ, 'quickly' වෙනුවට 'quick' විය යුතුයි",
+        "නෑ, 'was walking' වැරදියි"
+      ],
+      "answer": 0,
+      "explainSi": "'was walking' (පසුබිම), 'started' (හදිසි සිදුවීම), 'Although' (contrast connector), 'quickly' (adverb) — b1-01, b1-02, b1-03 හි සියලුම රටා එකට එකතු වෙලා කථාවක් ගොතනවා."
+    },
+    {
+      "id": "u3-cp-q12",
+      "q": "'She was cooking dinner when I arrived, so I waited quietly in the beautiful old kitchen.' — 'was cooking...when', 'so', adjective order ('beautiful old'), 'quietly' — හතරම නිවැරදිද?",
+      "options": [
+        "ඔව් — past continuous+simple, 'so' ප්‍රතිඵලය, opinion→age adjective order, adverb — හතරම නිවැරදියි",
+        "නෑ, 'beautiful old' වෙනුවට 'old beautiful' විය යුතුයි",
+        "නෑ, 'quietly' වෙනුවට 'quiet' විය යුතුයි",
+        "නෑ, 'so' වෙනුවට 'because' විය යුතුයි"
+      ],
+      "answer": 0,
+      "explainSi": "'was cooking...when I arrived' (පසුබිම+සිදුවීම), 'so I waited' (ප්‍රතිඵලය), 'beautiful old kitchen' (opinion→age order), 'quietly' (adverb) — හතරම නිවැරදි රටා."
+    }
+  ]
+}

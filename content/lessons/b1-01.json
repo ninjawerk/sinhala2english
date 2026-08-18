@@ -1,0 +1,437 @@
+{
+  "hero": {
+    "src": "images/b1-01-hero.webp",
+    "alt": "Ruwan in a kitchen during a power cut, lighting a candle while heavy rain runs down the dark window, warm flame lighting his face."
+  },
+  "goalsSi": [
+    "Past Continuous සෑදීම (was/were + -ing)",
+    "Past Simple සමඟ එකට යෙදීම",
+    "when සහ while අතර වෙනස",
+    "කථාවකට පසුබිමක් ගොඩනැගීම"
+  ],
+  "goals": [
+    "Form the past continuous",
+    "Combine it with the past simple",
+    "Use when and while correctly"
+  ],
+  "sections": [
+    {
+      "type": "note",
+      "title": "The background and the event",
+      "titleSi": "පසුබිම සහ සිද්ධිය",
+      "bodySi": "කථාවක් කියද්දී අපිට කාල දෙකක් ඕන:\n\n• Past Continuous — දිගටම සිදු වෙමින් තිබූ දේ (පසුබිම)\n• Past Simple — හදිසියේ සිදු වූ දේ (සිද්ධිය)\n\nඋදාහරණය: \"I was walking home when it started to rain.\"\nඇවිදීම දිගටම සිදු වෙමින් තිබුණා (පසුබිම). වැස්ස හදිසියේ පටන් ගත්තා (සිද්ධිය).\n\nමේ රටාව ඉංග්‍රීසි කථා සහ නවකථා වල නිතරම එනවා.",
+      "body": "The past continuous sets the scene. The past simple is the sudden event."
+    },
+    {
+      "type": "grammar",
+      "title": "was / were + -ing",
+      "titleSi": "was / were + -ing",
+      "explainSi": "සෑදීම ඉතා සරලයි: be ක්‍රියාවේ අතීතය + ක්‍රියාවට -ing.",
+      "explain": "Take the past of 'be' and add -ing to the main verb.",
+      "formula": "I / He / She / It + was + verb-ing   ·   You / We / They + were + verb-ing",
+      "table": {
+        "headers": [
+          "Positive",
+          "Negative",
+          "Question"
+        ],
+        "rows": [
+          [
+            "I was reading.",
+            "I wasn't reading.",
+            "Was I reading?"
+          ],
+          [
+            "She was cooking.",
+            "She wasn't cooking.",
+            "Was she cooking?"
+          ],
+          [
+            "We were waiting.",
+            "We weren't waiting.",
+            "Were we waiting?"
+          ],
+          [
+            "They were playing.",
+            "They weren't playing.",
+            "Were they playing?"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "At eight o'clock I was having dinner.",
+          "si": "අටට මම රාත්‍රී ආහාරය ගනිමින් හිටියා."
+        },
+        {
+          "en": "The children were playing in the garden.",
+          "si": "ළමයි වත්තේ සෙල්ලම් කරමින් හිටියා."
+        },
+        {
+          "en": "It was raining all morning.",
+          "si": "උදේ පුරාම වහිමින් තිබුණා."
+        },
+        {
+          "en": "What were you doing at ten last night?",
+          "si": "ඊයේ රෑ දහයට ඔබ මොනවා කරමින් හිටියේ?"
+        }
+      ],
+      "watchOutSi": "සමහර ක්‍රියා -ing ස්වරූපයෙන් භාවිත කරන්නේ නෑ: know, like, want, need, believe, understand. 'I was knowing' කියලා කියන්නේ නෑ — 'I knew' කියන්න."
+    },
+    {
+      "type": "grammar",
+      "title": "when and while",
+      "titleSi": "when සහ while",
+      "explainSi": "නීතිය සරලයි:\n\n• while + දිගටම සිදු වූ දේ (past continuous)\n• when + හදිසියේ සිදු වූ දේ (past simple)\n\nදෙක එකට යෙදෙන ආකාරය:\nWhile I was cooking, the phone rang.\nI was cooking when the phone rang.\n\nදෙකම එකම අර්ථයයි. වාක්‍යය මුලින් පටන් ගත්තොත් මැදට කොමාවක් (,) දානවා.",
+      "formula": "while + was/were -ing   ·   when + past simple",
+      "examples": [
+        {
+          "en": "While I was walking home, I met an old friend.",
+          "si": "ගෙදර ඇවිදගෙන යද්දී මට පරණ යාළුවෙක් හම්බුණා."
+        },
+        {
+          "en": "She was sleeping when the bell rang.",
+          "si": "සීනුව නාද වුණාම එයා නිදාගෙන හිටියා."
+        },
+        {
+          "en": "They were watching TV when the power went off.",
+          "si": "විදුලිය නැති වුණාම ඔවුන් රූපවාහිනිය බලමින් හිටියා."
+        },
+        {
+          "en": "While the teacher was talking, the students were writing.",
+          "si": "ගුරුතුමා කතා කරද්දී ශිෂ්‍යයෝ ලියමින් හිටියා."
+        }
+      ],
+      "watchOutSi": "දෙකම දිගටම සිදු වුණා නම් දෙකටම past continuous යොදනවා: 'While she was cooking, I was cleaning.'"
+    },
+    {
+      "type": "story",
+      "title": "The Night the Lights Went Out",
+      "titleSi": "විදුලිය නැති වුණ රාත්‍රිය",
+      "introSi": "මේ කතාවේ past continuous සහ past simple එකට යෙදෙන අවස්ථා ගොඩක් තියෙනවා. ඒවා හොයාගන්න.",
+      "paragraphs": [
+        {
+          "en": "It was a warm evening in June. My mother was cooking in the kitchen and my father was reading the newspaper.",
+          "si": "ජූනි මාසේ උණුසුම් සැන්දෑවක්. මගේ අම්මා කුස්සියේ උයමින් හිටියා, තාත්තා පත්තරය කියවමින් හිටියා."
+        },
+        {
+          "en": "I was doing my homework at the small table near the window. My little sister was drawing pictures on the floor.",
+          "si": "මම ජනේලය ළඟ පොඩි මේසේ ගෙදර වැඩ කරමින් හිටියා. මගේ පොඩි නංගී බිම චිත්‍ර අඳිමින් හිටියා."
+        },
+        {
+          "en": "Suddenly, the lights went out. The whole lane became dark. My sister screamed.",
+          "si": "හදිසියේම විදුලිය නැති වුණා. මුළු පාරම අඳුරු වුණා. මගේ නංගී කෑ ගැහුවා."
+        },
+        {
+          "en": "\"Don't worry,\" my father said calmly. He found a candle while my mother was looking for the matches.",
+          "si": "\"බය වෙන්න එපා,\" තාත්තා සන්සුන්ව කිව්වා. අම්මා ගිනිකූරු හොයද්දී තාත්තා ඉටිපන්දමක් හොයාගත්තා."
+        },
+        {
+          "en": "We sat together around the small yellow flame. My father began to tell a story about his village.",
+          "si": "අපි පොඩි කහ පාට ගින්න වටේ එකට ඉඳගත්තා. තාත්තා එයාගේ ගම ගැන කතාවක් කියන්න පටන් ගත්තා."
+        },
+        {
+          "en": "Two hours later, while he was still talking, the lights came back on. Nobody moved. \"Turn them off again,\" my sister said.",
+          "si": "පැය දෙකකට පස්සේ, එයා තාම කතා කරමින් සිටියදී, විදුලිය ආපහු ආවා. කවුරුත් නොසෙල්වී හිටියා. \"ආපහු නිවන්න,\" මගේ නංගී කිව්වා."
+        }
+      ],
+      "glossary": [
+        {
+          "en": "warm",
+          "si": "උණුසුම්"
+        },
+        {
+          "en": "kitchen",
+          "si": "කුස්සිය"
+        },
+        {
+          "en": "homework",
+          "si": "ගෙදර වැඩ"
+        },
+        {
+          "en": "draw",
+          "si": "අඳිනවා"
+        },
+        {
+          "en": "suddenly",
+          "si": "හදිසියේම"
+        },
+        {
+          "en": "scream",
+          "si": "කෑ ගහනවා"
+        },
+        {
+          "en": "calmly",
+          "si": "සන්සුන්ව"
+        },
+        {
+          "en": "candle",
+          "si": "ඉටිපන්දම"
+        },
+        {
+          "en": "flame",
+          "si": "ගිනි දැල්ල"
+        },
+        {
+          "en": "move",
+          "si": "සෙලවෙනවා"
+        }
+      ],
+      "questionsSi": [
+        "විදුලිය නැති වුණ වෙලාවේ තාත්තා මොනවා කරමින් හිටියද?",
+        "විදුලිය ආපහු ආවම කවුරුත් නොසෙල්වී හිටියේ ඇයි?",
+        "මේ කතාවේ තේමාව මොකක්ද කියලා ඔබ හිතනවද?"
+      ]
+    },
+    {
+      "type": "poem",
+      "title": "While the World Was Sleeping",
+      "titleSi": "ලෝකය නිදාගෙන සිටියදී",
+      "introSi": "Past continuous භාවිතා කරන කුඩා කවියක්.",
+      "lines": [
+        {
+          "en": "While the world was sleeping,",
+          "si": "ලෝකය නිදාගෙන සිටියදී,"
+        },
+        {
+          "en": "the rain was falling slow.",
+          "si": "වැස්ස හෙමිහිට වැටෙමින් තිබුණා."
+        },
+        {
+          "en": "The river kept on running",
+          "si": "ගඟ දිගටම ගලාගෙන ගියා"
+        },
+        {
+          "en": "to somewhere none could go.",
+          "si": "කිසිවෙකුට යා නොහැකි තැනකට."
+        },
+        {
+          "en": "",
+          "si": ""
+        },
+        {
+          "en": "And when the morning opened",
+          "si": "උදෑසන විවර වූ විට"
+        },
+        {
+          "en": "its wide and golden eye,",
+          "si": "එහි පුළුල් රන්වන් ඇස,"
+        },
+        {
+          "en": "the fields were green with water",
+          "si": "කෙත් වතුර සමඟ කොළ පැහැ වී තිබුණා"
+        },
+        {
+          "en": "beneath a washed blue sky.",
+          "si": "සෝදාගත් නිල් අහසක් යටින්."
+        }
+      ],
+      "noteSi": "'While the world was sleeping' — පසුබිම. 'when the morning opened' — සිද්ධිය. කවියා මේ රටාවම භාවිත කරලා තියෙනවා. තවද 'golden eye' යනු රූපකයක් (metaphor) — හිරු ඇසක් ලෙස සිතනවා."
+    },
+    {
+      "type": "practice",
+      "title": "Past simple or past continuous?",
+      "titleSi": "Past simple නැත්නම් past continuous?",
+      "instructionSi": "නිවැරදි ස්වරූපය ලියන්න.",
+      "items": [
+        {
+          "prompt": "I ___ (walk) home when it started to rain.",
+          "answer": "was walking",
+          "hintSi": "දිගටම සිදු වූ පසුබිම.",
+          "full": "I was walking home when it started to rain."
+        },
+        {
+          "prompt": "While she ___ (cook), the phone rang.",
+          "answer": "was cooking",
+          "hintSi": "'while' සමඟ.",
+          "full": "While she was cooking, the phone rang."
+        },
+        {
+          "prompt": "They were watching TV when the power ___ (go) off.",
+          "answer": "went",
+          "hintSi": "හදිසි සිද්ධිය.",
+          "full": "They were watching TV when the power went off."
+        },
+        {
+          "prompt": "What ___ you doing at nine last night?",
+          "answer": "were",
+          "hintSi": "'you' සමඟ.",
+          "full": "What were you doing at nine last night?"
+        },
+        {
+          "prompt": "The sun ___ (shine) and the birds were singing.",
+          "answer": "was shining",
+          "hintSi": "පසුබිම විස්තර කරනවා.",
+          "full": "The sun was shining and the birds were singing."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "en": "suddenly",
+      "si": "හදිසියේම"
+    },
+    {
+      "en": "kitchen",
+      "si": "කුස්සිය"
+    },
+    {
+      "en": "homework",
+      "si": "ගෙදර වැඩ"
+    },
+    {
+      "en": "draw",
+      "si": "අඳිනවා"
+    },
+    {
+      "en": "scream",
+      "si": "කෑ ගහනවා"
+    },
+    {
+      "en": "calmly",
+      "si": "සන්සුන්ව"
+    },
+    {
+      "en": "candle",
+      "si": "ඉටිපන්දම"
+    },
+    {
+      "en": "flame",
+      "si": "ගිනි දැල්ල"
+    },
+    {
+      "en": "warm",
+      "si": "උණුසුම්"
+    },
+    {
+      "en": "while",
+      "si": "…යද්දී"
+    },
+    {
+      "en": "river",
+      "si": "ගඟ"
+    },
+    {
+      "en": "field",
+      "si": "කෙත / පිට්ටනිය"
+    },
+    {
+      "en": "golden",
+      "si": "රන්වන්"
+    },
+    {
+      "en": "shine",
+      "si": "බබළනවා"
+    },
+    {
+      "en": "wait",
+      "si": "බලාගෙන ඉන්නවා"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "b1-01-q1",
+      "q": "'I ___ home when it started to rain.' — නිවැරදි ස්වරූපය?",
+      "options": [
+        "walked",
+        "was walking",
+        "walk",
+        "am walking"
+      ],
+      "answer": 1,
+      "explainSi": "ඇවිදීම දිගටම සිදු වෙමින් තිබූ පසුබිමයි. එනිසා past continuous.",
+      "speak": "I was walking home when it started to rain."
+    },
+    {
+      "id": "b1-01-q2",
+      "q": "Past continuous සෑදෙන්නේ කෙසේද?",
+      "options": [
+        "did + verb",
+        "was/were + verb-ing",
+        "have + verb-ed",
+        "will + verb"
+      ],
+      "answer": 1,
+      "explainSi": "was / were + ක්‍රියාවට -ing.",
+      "speak": "She was reading."
+    },
+    {
+      "id": "b1-01-q3",
+      "q": "'While I was cooking, the phone ___.' — නිවැරදි ස්වරූපය?",
+      "options": [
+        "was ringing",
+        "rang",
+        "rings",
+        "ring"
+      ],
+      "answer": 1,
+      "explainSi": "දුරකථනය නාද වීම හදිසි සිද්ධියක් — past simple.",
+      "speak": "While I was cooking, the phone rang."
+    },
+    {
+      "id": "b1-01-q4",
+      "q": "පහත කුමන ක්‍රියාව -ing ස්වරූපයෙන් සාමාන්‍යයෙන් භාවිත නොවේද?",
+      "options": [
+        "run",
+        "know",
+        "eat",
+        "walk"
+      ],
+      "answer": 1,
+      "explainSi": "'know', 'like', 'want', 'understand' වැනි state verbs -ing ස්වරූපයෙන් යෙදෙන්නේ නෑ. 'I was knowing' වැරදියි."
+    },
+    {
+      "id": "b1-01-q5",
+      "q": "'They ___ playing when I arrived.' — නිවැරදි වචනය?",
+      "options": [
+        "was",
+        "were",
+        "did",
+        "are"
+      ],
+      "answer": 1,
+      "explainSi": "They සමඟ 'were'.",
+      "speak": "They were playing when I arrived."
+    },
+    {
+      "id": "b1-01-q6",
+      "q": "'while' සාමාන්‍යයෙන් යෙදෙන්නේ කුමන කාලය සමඟද?",
+      "options": [
+        "past simple",
+        "past continuous",
+        "present simple",
+        "future"
+      ],
+      "answer": 1,
+      "explainSi": "'while' + දිගටම සිදු වූ දේ = past continuous. 'when' + හදිසි සිද්ධිය = past simple."
+    },
+    {
+      "id": "b1-01-q7",
+      "context": "My mother was cooking in the kitchen and my father was reading the newspaper. Suddenly, the lights went out.",
+      "contextSi": "මගේ අම්මා කුස්සියේ උයමින් හිටියා, තාත්තා පත්තරය කියවමින් හිටියා. හදිසියේම විදුලිය නැති වුණා.",
+      "q": "කතාවේ විදුලිය නැති වුණ වෙලාවේ අම්මා මොනවා කරමින් හිටියද?",
+      "options": [
+        "පත්තරය කියෙව්වා",
+        "උයමින් හිටියා",
+        "නිදාගෙන හිටියා",
+        "චිත්‍ර ඇන්දා"
+      ],
+      "answer": 1,
+      "explainSi": "'My mother was cooking in the kitchen.' තාත්තා පත්තරය කියෙව්වා, නංගී චිත්‍ර ඇන්දා.",
+      "speak": "My mother was cooking in the kitchen."
+    },
+    {
+      "id": "b1-01-q8",
+      "q": "'The sun was shining and the birds were singing.' — මෙම වාක්‍යයේ කාර්යය කුමක්ද?",
+      "options": [
+        "හදිසි සිද්ධියක් කීම",
+        "කථාවට පසුබිමක් ගොඩනැගීම",
+        "අනාගතය ගැන කීම",
+        "ප්‍රශ්නයක් ඇසීම"
+      ],
+      "answer": 1,
+      "explainSi": "Past continuous කථාවක ආරම්භයේදී පසුබිම හෝ දර්ශනය ගොඩනගන්න යොදනවා."
+    }
+  ]
+}

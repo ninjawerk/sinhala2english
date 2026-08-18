@@ -1,0 +1,481 @@
+{
+  "hero": {
+    "src": "images/c1-03-hero.webp",
+    "alt": "Nadeesha standing on a hillside at dawn looking out over mist filling the valley below, contemplative, tea bushes and distant blue mountains."
+  },
+  "goalsSi": [
+    "Simile, metaphor, personification හඳුනා ගැනීම",
+    "Imagery සහ symbol තේරුම් ගැනීම",
+    "කවියක තේමාව සහ ස්වරය විශ්ලේෂණය කිරීම",
+    "රූපක භාෂාව ඔබේම ලේඛනයේ යෙදීම"
+  ],
+  "goals": [
+    "Identify simile, metaphor and personification",
+    "Read a poem for theme and tone",
+    "Use figurative language in your own writing"
+  ],
+  "sections": [
+    {
+      "type": "note",
+      "title": "Why poetry is worth the trouble",
+      "titleSi": "කවි ඉගෙනීම වටින්නේ ඇයි?",
+      "bodySi": "Many learners skip poetry. That is a mistake, and here is why.\n\nPoetry compresses language. In four lines a poet does what a paragraph of ordinary prose cannot. When you learn to read that compression, three things happen: your vocabulary deepens, you start noticing connotation as well as meaning, and your own writing gains rhythm.\n\nකවියෙන් භාෂාව සංකෝචනය වෙනවා. පේළි හතරකින් කවියෙක් කරන දේ සාමාන්‍ය ඡේදයකට කරන්න බෑ. ඒ සංකෝචනය කියවන්න ඉගෙන ගත්තම ඔබේ වචන මාලාව ගැඹුරු වෙනවා, වචනවල සියුම් අර්ථ දැනෙන්න පටන් ගන්නවා, සහ ඔබේ ලේඛනයට රිද්මයක් එනවා.\n\nAll the poems in this lesson were written for this course, so you can read them without worrying about difficult old English.",
+      "body": "Poetry compresses language. Learning to read that compression deepens everything else."
+    },
+    {
+      "type": "grammar",
+      "title": "The five tools",
+      "titleSi": "මෙවලම් පහ",
+      "explainSi": "Almost all figurative language in English uses one of these five devices. Learn to name them and poems stop feeling mysterious.",
+      "table": {
+        "headers": [
+          "Device",
+          "Definition",
+          "Example",
+          "සිංහල"
+        ],
+        "rows": [
+          [
+            "Simile",
+            "comparison using like or as",
+            "Her voice was like rain on a tin roof.",
+            "උපමාව"
+          ],
+          [
+            "Metaphor",
+            "says one thing IS another",
+            "Hope is a small stubborn lamp.",
+            "රූපකය"
+          ],
+          [
+            "Personification",
+            "gives human qualities to non-human things",
+            "The old house sighed in the wind.",
+            "මානුෂීකරණය"
+          ],
+          [
+            "Imagery",
+            "language that appeals to the senses",
+            "The smell of wet earth after the first rain.",
+            "රූප චිත්‍රණය"
+          ],
+          [
+            "Symbol",
+            "an object standing for a larger idea",
+            "A closed gate standing for lost opportunity.",
+            "සංකේතය"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "Simile: The queue moved like a tired snake.",
+          "si": "උපමාව: පෝලිම මහන්සි වූ සර්පයෙකු මෙන් ගමන් කළා."
+        },
+        {
+          "en": "Metaphor: My grandmother's hands were two old maps.",
+          "si": "රූපකය: මගේ ආච්චිගේ අත් පරණ සිතියම් දෙකක්."
+        },
+        {
+          "en": "Personification: The wind pushed at the shutters all night.",
+          "si": "මානුෂීකරණය: හුළඟ රෑ පුරාම ජනෙල් තල්ලු කළා."
+        }
+      ],
+      "watchOutSi": "Simile සහ metaphor අතර වෙනස සරලයි: simile එකේ 'like' හෝ 'as' තියෙනවා; metaphor එකේ නෑ. 'brave as a lion' = simile. 'he is a lion' = metaphor. Metaphor වඩා ශක්තිමත්, මොකද එය සැසඳීමක් නොව හඳුනාගැනීමක්."
+    },
+    {
+      "type": "poem",
+      "title": "The Tailor of Maradana",
+      "titleSi": "මරදානේ මහන්නා",
+      "introSi": "පළමුව කවිය අහන්න. පස්සේ පහත සටහන කියවලා නැවත අහන්න — දෙවෙනි වතාවේ වඩා ගැඹුරින් තේරෙනවා.",
+      "byline": "written for this course",
+      "lines": [
+        {
+          "en": "For forty years he measured other men,",
+          "si": "අවුරුදු හතළිහක් එයා අනුන් මැන්නා,"
+        },
+        {
+          "en": "his tape a yellow river round their chests.",
+          "si": "එයාගේ ටේප් එක ඔවුන්ගේ පපුව වටා කහ ගඟක්."
+        },
+        {
+          "en": "He knew their weddings by the way they stood,",
+          "si": "ඔවුන් සිටගත් ආකාරයෙන් එයා ඔවුන්ගේ මංගල උත්සව දැනගත්තා,"
+        },
+        {
+          "en": "their grief by how the shoulders lost their rests.",
+          "si": "උරහිස් විවේකය නැති කරගත් ආකාරයෙන් ඔවුන්ගේ ශෝකය."
+        },
+        {
+          "en": "",
+          "si": ""
+        },
+        {
+          "en": "The shop was small. The ceiling fan turned slow",
+          "si": "කඩේ පොඩියි. සිවිලිං පංකාව හෙමිහිට කැරකුණා"
+        },
+        {
+          "en": "like something thinking hard and getting nowhere.",
+          "si": "ගැඹුරින් හිතලා කිසිතැනකට නොයන දෙයක් වගේ."
+        },
+        {
+          "en": "He sewed. The city shouted past his door.",
+          "si": "එයා මැහුවා. නගරය එයාගේ දොර පසුකරමින් කෑ ගැහුවා."
+        },
+        {
+          "en": "He did not look. He had no time to spare.",
+          "si": "එයා බැලුවේ නෑ. එයාට ඉතිරි කරන්න වෙලාවක් තිබුණේ නෑ."
+        },
+        {
+          "en": "",
+          "si": ""
+        },
+        {
+          "en": "And when he died they found, behind the till,",
+          "si": "එයා මැරුණාම, කවුන්ටරය පිටිපස්සේ ඔවුන්ට හම්බුණා,"
+        },
+        {
+          "en": "one shirt, unfinished, cut to his own size —",
+          "si": "අවසන් නොකළ කමිසයක්, එයාගේම ප්‍රමාණයට කපලා —"
+        },
+        {
+          "en": "the only measurement he never took",
+          "si": "එයා කවදාවත් නොගත් එකම මිනුම"
+        },
+        {
+          "en": "until the thread ran out behind his eyes.",
+          "si": "එයාගේ ඇස් පිටිපස්සේ නූල ඉවර වන තෙක්."
+        }
+      ],
+      "noteSi": "මෙම කවියේ මෙවලම් හතරම තියෙනවා:\n\n• Metaphor — 'his tape a yellow river' (ටේප් එක ගඟක් ලෙස)\n• Simile — 'like something thinking hard and getting nowhere' (පංකාව)\n• Personification — 'The city shouted past his door' (නගරය කෑ ගසනවා)\n• Symbol — අවසන් නොකළ කමිසය = එයා තමන් වෙනුවෙන් කිසිදා වෙන් නොකළ ජීවිතය\n\nඅවසාන පේළියේ 'the thread ran out' යනු ද්විත්ව අර්ථයක්: මැසුම් නූලත්, ජීවිතයත් ඉවර වුණා. මෙය pun නොවේ — මෙය extended metaphor එකක අවසානයයි.\n\nතේමාව (theme): අනුන් වෙනුවෙන් ජීවත් වී තමන් අමතක කරගත් මිනිසෙක්. ස්වරය (tone): ශෝකී, නමුත් මෘදුයි — කවියා චෝදනා කරන්නේ නෑ."
+    },
+    {
+      "type": "grammar",
+      "title": "Reading a poem in four steps",
+      "titleSi": "කවියක් කියවන පියවර හතර",
+      "explainSi": "Do not try to 'solve' a poem on the first reading. Use this method instead — it works in exams and in life.",
+      "formula": "1. Listen  →  2. Literal  →  3. Figurative  →  4. Theme & tone",
+      "table": {
+        "headers": [
+          "Step",
+          "Question to ask",
+          "සිංහල"
+        ],
+        "rows": [
+          [
+            "1. Listen",
+            "How does it sound? Where does it pause?",
+            "හඬ නඟා අහන්න"
+          ],
+          [
+            "2. Literal",
+            "What literally happens? Who is speaking?",
+            "වචනාර්ථයෙන් සිදුවන්නේ කුමක්ද?"
+          ],
+          [
+            "3. Figurative",
+            "Which images are not literal? What do they suggest?",
+            "රූපක මොනවාද?"
+          ],
+          [
+            "4. Theme & tone",
+            "What is it really about? How does the poet feel?",
+            "තේමාව සහ ස්වරය"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "Tone words: bitter, tender, nostalgic, ironic, hopeful, resigned, defiant.",
+          "si": "ස්වර වචන: කටුක, මෘදු, නොස්ටැල්ජික්, උපහාසාත්මක, බලාපොරොත්තු සහගත, යටත් වූ, අභියෝගාත්මක."
+        },
+        {
+          "en": "Theme is the idea; subject is the topic. The subject is a tailor. The theme is self-neglect.",
+          "si": "විෂය සහ තේමාව එකක් නෙවෙයි. විෂය: මහන්නෙක්. තේමාව: තමන් නොසලකා හැරීම."
+        }
+      ],
+      "watchOutSi": "'Theme' සහ 'subject' පටලවා ගන්න එපා. Subject යනු කවිය කුමක් ගැනද යන්නයි (මහන්නෙක්). Theme යනු එය සැබවින්ම කුමක් ගැනද යන්නයි (තමන් අමතක කරගැනීම)."
+    },
+    {
+      "type": "poem",
+      "title": "Second Language",
+      "titleSi": "දෙවන භාෂාව",
+      "introSi": "දෙවෙනි කවිය — කෙටියි, සහ මේ පාඨමාලාවේ සෑම ශිෂ්‍යයෙකුටම අදාළයි. පියවර හතර යොදලා ඔබම විශ්ලේෂණය කරන්න.",
+      "byline": "written for this course",
+      "lines": [
+        {
+          "en": "In my own tongue I am a river —",
+          "si": "මගේම බසින් මම ගඟක් —"
+        },
+        {
+          "en": "wide, unhurried, sure of every stone.",
+          "si": "පළල්, ඉක්මන් නැති, හැම ගලක්ම දන්නා."
+        },
+        {
+          "en": "",
+          "si": ""
+        },
+        {
+          "en": "In yours I am a man with borrowed shoes,",
+          "si": "ඔබේ බසින් මම ණයට ගත් සපත්තු පැළඳි මිනිසෙක්,"
+        },
+        {
+          "en": "walking carefully, watching where I place each word.",
+          "si": "පරෙස්සමෙන් ඇවිදිමින්, හැම වචනයක්ම තබන තැන බලමින්."
+        },
+        {
+          "en": "",
+          "si": ""
+        },
+        {
+          "en": "But shoes are made for walking, not for pride,",
+          "si": "නමුත් සපත්තු හදලා තියෙන්නේ ඇවිදින්න, ආඩම්බරයට නොවේ,"
+        },
+        {
+          "en": "and every mile makes leather fit the foot.",
+          "si": "හැම සැතපුමක්ම හම පයට ගළපනවා."
+        },
+        {
+          "en": "",
+          "si": ""
+        },
+        {
+          "en": "Give me a year. I will not sound like you.",
+          "si": "මට අවුරුද්දක් දෙන්න. මම ඔබ වගේ ඇහෙන්නේ නෑ."
+        },
+        {
+          "en": "I will sound like myself — in your language too.",
+          "si": "මම මා වගේම ඇහෙනවා — ඔබේ භාෂාවෙනුත්."
+        }
+      ],
+      "noteSi": "විශ්ලේෂණය:\n\n• Metaphor 1: 'I am a river' — මව් භාෂාවේ ගලනය, ස්වාභාවිකත්වය\n• Metaphor 2: 'borrowed shoes' — නව භාෂාව; ණයට ගත් දෙයක්, තාම නොගැළපෙන\n• Extended metaphor: සපත්තු රූපකය පේළි හතරක් පුරා දිගු වෙනවා ('made for walking', 'leather fit the foot')\n• Tone: මුලින් අවිනිශ්චිත, අවසානයේ අභියෝගාත්මක සහ බලාපොරොත්තු සහගත\n• Theme: නව භාෂාවක් ඉගෙනීම යනු අනුකරණය නොව — ඒ භාෂාවෙන් තමන්වම සොයාගැනීමයි\n\nඅවසාන පේළි දෙක වැදගත්: කවියා ස්වදේශිකයෙක් වගේ ඇහෙන්න උත්සාහ කරන්නේ නෑ. එය පරාජයක් නොව, පරිණතභාවයයි."
+    },
+    {
+      "type": "practice",
+      "title": "Name the device",
+      "titleSi": "මෙවලම නම් කරන්න",
+      "instructionSi": "පහත එක එකෙහි ඇති රූපක මෙවලම ලියන්න: simile, metaphor, personification හෝ imagery.",
+      "items": [
+        {
+          "prompt": "The moon was a silver coin on black cloth.",
+          "answer": "metaphor",
+          "hintSi": "'like' හෝ 'as' නෑ.",
+          "full": "The moon was a silver coin on black cloth."
+        },
+        {
+          "prompt": "She sang like a bird after rain.",
+          "answer": "simile",
+          "hintSi": "'like' තියෙනවා.",
+          "full": "She sang like a bird after rain."
+        },
+        {
+          "prompt": "The old bus groaned up the hill.",
+          "answer": "personification",
+          "hintSi": "බස් එකට මිනිස් ගුණයක්.",
+          "full": "The old bus groaned up the hill."
+        },
+        {
+          "prompt": "The smell of frying onions and wet coriander.",
+          "answer": "imagery",
+          "hintSi": "ඉන්ද්‍රියන්ට කෙළින්ම කතා කරනවා.",
+          "full": "The smell of frying onions and wet coriander."
+        },
+        {
+          "prompt": "'Hope is a small stubborn lamp' — device?",
+          "answer": "metaphor",
+          "hintSi": "'is' කියලා කෙළින්ම හඳුනාගන්නවා.",
+          "full": "Hope is a small stubborn lamp."
+        },
+        {
+          "prompt": "In 'Second Language', 'borrowed shoes' stands for the new language. This is a ___ .",
+          "answer": "metaphor",
+          "hintSi": "දිගු කරන ලද එකක්.",
+          "full": "Borrowed shoes is an extended metaphor for the new language."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "en": "simile",
+      "si": "උපමාව"
+    },
+    {
+      "en": "metaphor",
+      "si": "රූපකය"
+    },
+    {
+      "en": "personification",
+      "si": "මානුෂීකරණය"
+    },
+    {
+      "en": "imagery",
+      "si": "රූප චිත්‍රණය"
+    },
+    {
+      "en": "symbol",
+      "si": "සංකේතය"
+    },
+    {
+      "en": "theme",
+      "si": "තේමාව"
+    },
+    {
+      "en": "tone",
+      "si": "ස්වරය"
+    },
+    {
+      "en": "stanza",
+      "si": "පද්‍ය කණ්ඩය"
+    },
+    {
+      "en": "rhyme",
+      "si": "අන්ත්‍යානුප්‍රාසය"
+    },
+    {
+      "en": "rhythm",
+      "si": "රිද්මය"
+    },
+    {
+      "en": "grief",
+      "si": "ශෝකය"
+    },
+    {
+      "en": "nostalgic",
+      "si": "අතීතකාමී"
+    },
+    {
+      "en": "ironic",
+      "si": "උපහාසාත්මක"
+    },
+    {
+      "en": "tender",
+      "si": "මෘදු"
+    },
+    {
+      "en": "stubborn",
+      "si": "මුරණ්ඩු"
+    },
+    {
+      "en": "measure",
+      "si": "මනිනවා"
+    },
+    {
+      "en": "thread",
+      "si": "නූල"
+    },
+    {
+      "en": "borrow",
+      "si": "ණයට ගන්නවා"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "c1-03-q1",
+      "q": "'Her voice was like rain on a tin roof.' This is a:",
+      "qSi": "මෙය කුමන මෙවලමද?",
+      "options": [
+        "metaphor",
+        "simile",
+        "personification",
+        "symbol"
+      ],
+      "answer": 1,
+      "explainSi": "'like' යෙදී ඇති නිසා මෙය simile එකකි. 'like' හෝ 'as' නැත්නම් metaphor.",
+      "speak": "Her voice was like rain on a tin roof."
+    },
+    {
+      "id": "c1-03-q2",
+      "q": "'Hope is a small stubborn lamp.' This is a:",
+      "qSi": "මෙය කුමන මෙවලමද?",
+      "options": [
+        "simile",
+        "metaphor",
+        "imagery",
+        "rhyme"
+      ],
+      "answer": 1,
+      "explainSi": "සැසඳීමේ වචනයක් නැතුව එකක් අනෙක බව කියන නිසා metaphor.",
+      "speak": "Hope is a small stubborn lamp."
+    },
+    {
+      "id": "c1-03-q3",
+      "q": "'The city shouted past his door.' This is:",
+      "qSi": "මෙය කුමක්ද?",
+      "options": [
+        "simile",
+        "personification",
+        "symbol",
+        "irony"
+      ],
+      "answer": 1,
+      "explainSi": "නගරයට මිනිස් ක්‍රියාවක් (කෑ ගැසීම) ලබා දී ඇති නිසා personification.",
+      "speak": "The city shouted past his door."
+    },
+    {
+      "id": "c1-03-q4",
+      "q": "What is the difference between subject and theme?",
+      "qSi": "විෂය සහ තේමාව අතර වෙනස?",
+      "options": [
+        "They are the same",
+        "Subject is what it is about; theme is what it really means",
+        "Theme is the title",
+        "Subject is the tone"
+      ],
+      "answer": 1,
+      "explainSi": "Subject = මහන්නෙක්. Theme = තමන් නොසලකා හැරීම. විෂය මතුපිට, තේමාව ගැඹුර."
+    },
+    {
+      "id": "c1-03-q5",
+      "q": "In 'The Tailor of Maradana', the unfinished shirt is best read as a:",
+      "qSi": "අවසන් නොකළ කමිසය නියෝජනය කරන්නේ?",
+      "options": [
+        "simile for old age",
+        "symbol of the life he never made time for himself",
+        "example of rhyme",
+        "personification of the shop"
+      ],
+      "answer": 1,
+      "explainSi": "එයා අනුන් වෙනුවෙන් සියල්ල මැහුවා, තමන් වෙනුවෙන් කිසිවක් අවසන් කළේ නෑ. කමිසය සංකේතයක්."
+    },
+    {
+      "id": "c1-03-q6",
+      "q": "'Imagery' means language that:",
+      "qSi": "Imagery යනු කුමක්ද?",
+      "options": [
+        "always rhymes",
+        "appeals to the senses",
+        "compares using 'as'",
+        "repeats consonants"
+      ],
+      "answer": 1,
+      "explainSi": "Imagery යනු ඉන්ද්‍රියන්ට (දැකීම, ඇසීම, ගඳ, රස, ස්පර්ශය) කතා කරන භාෂාවයි."
+    },
+    {
+      "id": "c1-03-q7",
+      "q": "In 'Second Language', what does the speaker finally claim?",
+      "qSi": "'Second Language' කවියේ අවසාන ප්‍රකාශය කුමක්ද?",
+      "options": [
+        "He will sound exactly like a native speaker",
+        "He will give up the new language",
+        "He will sound like himself in the new language",
+        "The new language is impossible to learn"
+      ],
+      "answer": 2,
+      "explainSi": "'I will not sound like you. I will sound like myself — in your language too.' — අනුකරණය නොව අනන්‍යතාවයි."
+    },
+    {
+      "id": "c1-03-q8",
+      "q": "Which word best describes the TONE of 'Second Language'?",
+      "qSi": "'Second Language' කවියේ ස්වරය?",
+      "options": [
+        "bitter and angry",
+        "quietly confident",
+        "humorous",
+        "indifferent"
+      ],
+      "answer": 1,
+      "explainSi": "කවියා දුෂ්කරතාව පිළිගන්නවා, නමුත් අවසානය බලාපොරොත්තු සහගත සහ ස්ථිරයි — නිහඬ විශ්වාසයක්."
+    }
+  ]
+}

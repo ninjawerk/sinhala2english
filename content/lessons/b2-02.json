@@ -1,0 +1,445 @@
+{
+  "hero": {
+    "src": "images/b2-02-hero.webp",
+    "alt": "Ruwan standing at a road junction holding a closed umbrella, looking up at a black sky, deciding which way to go, first drops falling."
+  },
+  "goalsSi": [
+    "Zero, first, second සහ third conditional හතරම",
+    "එකිනෙකට ඇති අර්ථ වෙනස තේරුම් ගැනීම",
+    "unless, as long as, in case යෙදීම",
+    "පසුතැවීම් සහ පරිකල්පන ප්‍රකාශ කිරීම"
+  ],
+  "goals": [
+    "Use all four conditionals",
+    "Understand real vs unreal situations",
+    "Express regret about the past"
+  ],
+  "sections": [
+    {
+      "type": "note",
+      "title": "Four conditionals, one idea",
+      "titleSi": "කොන්දේසි හතරක්, එක් අදහසක්",
+      "bodySi": "A conditional sentence has two halves: the 'if' half (the condition) and the result half.\n\nකොන්දේසි වාක්‍යයකට කොටස් දෙකක්: 'if' කොටස (කොන්දේසිය) සහ ප්‍රතිඵල කොටස.\n\nWhich conditional you choose depends on two questions:\n1. Is it real or imaginary?\n2. Is it about the present/future or the past?\n\nතෝරාගැනීම මේ ප්‍රශ්න දෙක මතයි:\n1. එය සැබෑද, පරිකල්පිතද?\n2. එය වර්තමානය/අනාගතය ගැනද, අතීතය ගැනද?\n\nවැදගත් ලකුණු නීතියක්: 'if' කොටස මුලින් නම් මැදට කොමාවක් දානවා. පස්සේ නම් කොමාවක් නෑ.",
+      "body": "Choose the conditional by asking: real or unreal? present or past?"
+    },
+    {
+      "type": "grammar",
+      "title": "The four patterns",
+      "titleSi": "රටා හතර",
+      "explainSi": "Learn the four formulas, then read the examples until the difference feels natural.",
+      "table": {
+        "headers": [
+          "Type",
+          "Meaning",
+          "If-clause",
+          "Result clause"
+        ],
+        "rows": [
+          [
+            "Zero",
+            "සදාකාලික සත්‍යයක්",
+            "If + present simple",
+            "present simple"
+          ],
+          [
+            "First",
+            "සැබෑ අනාගත හැකියාවක්",
+            "If + present simple",
+            "will + base verb"
+          ],
+          [
+            "Second",
+            "දැන් සැබෑ නොවන දෙයක්",
+            "If + past simple",
+            "would + base verb"
+          ],
+          [
+            "Third",
+            "අතීතයේ සිදු නොවූ දෙයක්",
+            "If + had + V3",
+            "would have + V3"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "If you heat water to 100°C, it boils.",
+          "si": "වතුර 100°C දක්වා රත් කළොත් ඒක නටනවා. (zero — සත්‍යයක්)"
+        },
+        {
+          "en": "If it rains tomorrow, we will cancel the trip.",
+          "si": "හෙට වැස්සොත් අපි ගමන අවලංගු කරනවා. (first — සැබෑ හැකියාවක්)"
+        },
+        {
+          "en": "If I had a car, I would drive you home.",
+          "si": "මට කාර් එකක් තිබුණා නම් මම ඔබව ගෙදර ගෙනියනවා. (second — දැන් කාර් එකක් නෑ)"
+        },
+        {
+          "en": "If I had studied harder, I would have passed.",
+          "si": "මම වඩා හොඳට ඉගෙන ගත්තා නම් මම සමත් වෙනවා. (third — නමුත් සමත් වුණේ නෑ)"
+        }
+      ],
+      "watchOutSi": "'if' කොටසේ කවදාවත් 'will' යොදන්නේ නෑ! 'If it will rain' ✗ → 'If it rains' ✓. මෙය ඉතා පොදු වැරැද්දක්."
+    },
+    {
+      "type": "grammar",
+      "title": "Second conditional in detail",
+      "titleSi": "Second conditional විස්තරාත්මකව",
+      "explainSi": "This is the most used conditional in real conversation. It describes situations that are not true now: dreams, advice, and polite suggestions.\n\nදැන් සැබෑ නොවන තත්ත්ව සඳහා — සිහින, උපදෙස් සහ ආචාරශීලී යෝජනා.\n\nA special point: with 'I / he / she / it' the traditional form uses 'were', not 'was'.\n\n'If I WERE you, I would talk to her.' — මෙය සම්මත ස්වරූපයයි, විශේෂයෙන් උපදෙස් දෙද්දී.",
+      "formula": "If + past simple, … would / could / might + base verb",
+      "examples": [
+        {
+          "en": "If I were you, I would apply for that job.",
+          "si": "මම ඔබ නම් මම ඒ රැකියාවට අයදුම් කරනවා."
+        },
+        {
+          "en": "If we had more time, we could visit the temple.",
+          "si": "අපිට වැඩි වෙලාවක් තිබුණා නම් අපිට පන්සලට යන්න තිබුණා."
+        },
+        {
+          "en": "What would you do if you won the lottery?",
+          "si": "ඔබ ලොතරැයිය දිනුවොත් මොකද කරන්නේ?"
+        },
+        {
+          "en": "If she spoke English, she would get a better job.",
+          "si": "එයාට ඉංග්‍රීසි කතා කරන්න පුළුවන් නම් වඩා හොඳ රැකියාවක් ලැබෙනවා."
+        }
+      ],
+      "watchOutSi": "'If I was you' කථනයේදී ඇහෙනවා, නමුත් ලිවීමේදී සහ විභාගවලදී 'If I were you' යොදන්න — එය සම්මතයයි."
+    },
+    {
+      "type": "grammar",
+      "title": "Third conditional — regret",
+      "titleSi": "Third conditional — පසුතැවීම",
+      "explainSi": "The third conditional talks about the past that cannot be changed. It is the grammar of regret.\n\nවෙනස් කළ නොහැකි අතීතය ගැන — පසුතැවීමේ ව්‍යාකරණය.\n\nEvery third conditional sentence carries a hidden truth:\n\n\"If I had left earlier, I wouldn't have missed the train.\"\nහොර සත්‍යය: මම කලින් පිටත් වුණේ නෑ, එනිසා දුම්රිය අතහැරුණා.",
+      "formula": "If + had + V3, … would have + V3",
+      "examples": [
+        {
+          "en": "If I had known, I would have told you.",
+          "si": "මම දැනගෙන හිටියා නම් මම ඔබට කියනවා. (නමුත් දැනගෙන හිටියේ නෑ)"
+        },
+        {
+          "en": "If they had left earlier, they wouldn't have missed the bus.",
+          "si": "ඔවුන් කලින් පිටත් වුණා නම් බස් එක අතහැරෙන්නේ නෑ."
+        },
+        {
+          "en": "She would have come if you had invited her.",
+          "si": "ඔබ එයාට ආරාධනා කළා නම් එයා එනවා."
+        }
+      ],
+      "watchOutSi": "'If I would have known' ✗ — 'if' කොටසේ 'would' යොදන්නේ නෑ. 'If I had known' ✓."
+    },
+    {
+      "type": "grammar",
+      "title": "unless, as long as, in case",
+      "titleSi": "unless, as long as, in case",
+      "explainSi": "These words replace or refine 'if'.\n\n• unless = if not (…නැත්නම්)\n• as long as / provided that = කොන්දේසියක් සමඟ පමණක්\n• in case = ඉදිරියේ සිදු විය හැකි දෙයකට කලින්ම සූදානම් වීම",
+      "examples": [
+        {
+          "en": "You won't pass unless you study.",
+          "si": "ඉගෙන ගත්තේ නැත්නම් ඔබ සමත් වෙන්නේ නෑ."
+        },
+        {
+          "en": "You can borrow it as long as you return it tomorrow.",
+          "si": "හෙට ආපහු දෙනවා නම් ඔබට ඒක ගන්න පුළුවන්."
+        },
+        {
+          "en": "Take an umbrella in case it rains.",
+          "si": "වහින්න පුළුවන් නිසා කුඩයක් අරගෙන යන්න."
+        }
+      ],
+      "watchOutSi": "'in case' සහ 'if' එකක් නෙවෙයි. 'I'll take an umbrella IF it rains' = වහිනවා දැක්කම ගන්නවා. 'IN CASE it rains' = වහින්න පුළුවන් නිසා කලින්ම ගන්නවා."
+    },
+    {
+      "type": "story",
+      "title": "If He Had Turned Left",
+      "titleSi": "එයා වමට හැරුණා නම්",
+      "introSi": "A story that turns on a single decision. Watch how the conditionals carry the whole meaning.",
+      "paragraphs": [
+        {
+          "en": "In 1994, a young man named Ranjan stood at a junction in Pettah with two job letters in his pocket.",
+          "si": "1994දී රංජන් නමැති තරුණයෙක් රැකියා ලිපි දෙකක් සාක්කුවේ තියාගෙන පිටකොටුවේ හන්දියක හිටියා."
+        },
+        {
+          "en": "If he turned left, he would reach a bank. If he turned right, he would reach a small printing press.",
+          "si": "එයා වමට හැරුණොත් බැංකුවකට යනවා. දකුණට හැරුණොත් පොඩි මුද්‍රණාලයකට යනවා."
+        },
+        {
+          "en": "The bank paid more. But it was raining, and the printing press was closer, so he turned right.",
+          "si": "බැංකුව වැඩිපුර ගෙව්වා. නමුත් වහිමින් තිබුණා, මුද්‍රණාලය ළඟයි, එනිසා එයා දකුණට හැරුණා."
+        },
+        {
+          "en": "Thirty years later, his daughter asked him, \"Do you ever think about it? If you had gone to the bank, we would be rich now.\"",
+          "si": "අවුරුදු තිහකට පස්සේ එයාගේ දුව ඇහුවා, \"ඔබ කවදාහරි ඒක ගැන හිතනවද? ඔබ බැංකුවට ගියා නම් අපි දැන් ධනවත් වෙනවා.\""
+        },
+        {
+          "en": "Ranjan laughed. \"If I had gone to the bank, I would never have met your mother. She came in on my third day to print her wedding cards — for another man.\"",
+          "si": "රංජන් හිනා වුණා. \"මම බැංකුවට ගියා නම් මම කවදාවත් ඔබේ අම්මාව හම්බවෙන්නේ නෑ. එයා මගේ තුන්වෙනි දවසේ එයාගේ මංගල කාඩ් මුද්‍රණය කරන්න ආවා — වෙන මිනිහෙකුට.\""
+        },
+        {
+          "en": "\"What happened?\"",
+          "si": "\"මොකද වුණේ?\""
+        },
+        {
+          "en": "\"I printed them very, very slowly,\" he said. \"If I had worked faster, you would not be sitting here asking me questions.\"",
+          "si": "\"මම ඒවා හරිම හෙමිහිට මුද්‍රණය කළා,\" එයා කිව්වා. \"මම වේගයෙන් වැඩ කළා නම් ඔබ දැන් මෙතන ඉඳගෙන මගෙන් ප්‍රශ්න අහන්නේ නෑ.\""
+        }
+      ],
+      "glossary": [
+        {
+          "en": "junction",
+          "si": "හන්දිය"
+        },
+        {
+          "en": "printing press",
+          "si": "මුද්‍රණාලය"
+        },
+        {
+          "en": "pocket",
+          "si": "සාක්කුව"
+        },
+        {
+          "en": "reach",
+          "si": "ළඟා වෙනවා"
+        },
+        {
+          "en": "wedding",
+          "si": "මංගල උත්සවය"
+        },
+        {
+          "en": "slowly",
+          "si": "හෙමිහිට"
+        },
+        {
+          "en": "laugh",
+          "si": "හිනා වෙනවා"
+        }
+      ],
+      "questionsSi": [
+        "'If you had gone to the bank, we would be rich now' — මෙය mixed conditional එකක්. ඇයි?",
+        "රංජන් හෙමිහිට වැඩ කළේ ඇයි?",
+        "කතාවේ ප්‍රධාන අදහස කුමක්ද?"
+      ]
+    },
+    {
+      "type": "practice",
+      "title": "Complete the conditionals",
+      "titleSi": "කොන්දේසි සම්පූර්ණ කරන්න",
+      "instructionSi": "නිවැරදි ස්වරූපය ලියන්න.",
+      "items": [
+        {
+          "prompt": "If it ___ (rain) tomorrow, we will stay at home.",
+          "answer": "rains",
+          "hintSi": "'if' කොටසේ 'will' යොදන්නේ නෑ.",
+          "full": "If it rains tomorrow, we will stay at home."
+        },
+        {
+          "prompt": "If I ___ (be) you, I would take the job.",
+          "answer": "were",
+          "hintSi": "Second conditional හි සම්මත ස්වරූපය.",
+          "full": "If I were you, I would take the job."
+        },
+        {
+          "prompt": "If I had known, I ___ (tell) you.",
+          "answer": "would have told",
+          "hintSi": "Third conditional ප්‍රතිඵල කොටස.",
+          "full": "If I had known, I would have told you."
+        },
+        {
+          "prompt": "You won't pass ___ you study. (if not)",
+          "answer": "unless",
+          "hintSi": "'if not' වෙනුවට එන එක් වචනයක්.",
+          "full": "You won't pass unless you study."
+        },
+        {
+          "prompt": "If you heat ice, it ___ (melt).",
+          "answer": "melts",
+          "hintSi": "Zero conditional — සත්‍යයක්.",
+          "full": "If you heat ice, it melts."
+        },
+        {
+          "prompt": "Take an umbrella ___ ___ it rains. (කලින්ම සූදානම්)",
+          "answer": "in case",
+          "hintSi": "වචන දෙකයි.",
+          "full": "Take an umbrella in case it rains."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "en": "condition",
+      "si": "කොන්දේසිය"
+    },
+    {
+      "en": "unless",
+      "si": "…නැත්නම්"
+    },
+    {
+      "en": "regret",
+      "si": "පසුතැවීම"
+    },
+    {
+      "en": "imagine",
+      "si": "පරිකල්පනය කරනවා"
+    },
+    {
+      "en": "junction",
+      "si": "හන්දිය"
+    },
+    {
+      "en": "pocket",
+      "si": "සාක්කුව"
+    },
+    {
+      "en": "wedding",
+      "si": "මංගල උත්සවය"
+    },
+    {
+      "en": "cancel",
+      "si": "අවලංගු කරනවා"
+    },
+    {
+      "en": "borrow",
+      "si": "ණයට ගන්නවා"
+    },
+    {
+      "en": "invite",
+      "si": "ආරාධනා කරනවා"
+    },
+    {
+      "en": "melt",
+      "si": "දිය වෙනවා"
+    },
+    {
+      "en": "boil",
+      "si": "නටනවා"
+    },
+    {
+      "en": "lottery",
+      "si": "ලොතරැයිය"
+    },
+    {
+      "en": "decision",
+      "si": "තීරණය"
+    },
+    {
+      "en": "opportunity",
+      "si": "අවස්ථාව"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "b2-02-q1",
+      "q": "Which sentence is correct?",
+      "qSi": "නිවැරදි වාක්‍යය කුමක්ද?",
+      "options": [
+        "If it will rain, we will stay home.",
+        "If it rains, we will stay home.",
+        "If it rains, we stay home tomorrow.",
+        "If it would rain, we will stay home."
+      ],
+      "answer": 1,
+      "explainSi": "'if' කොටසේ කවදාවත් 'will' යොදන්නේ නෑ. If + present simple, will + base verb.",
+      "speak": "If it rains, we will stay home."
+    },
+    {
+      "id": "b2-02-q2",
+      "q": "'If I ___ you, I would apply for that job.'",
+      "qSi": "සම්මත ස්වරූපය?",
+      "options": [
+        "am",
+        "was",
+        "were",
+        "will be"
+      ],
+      "answer": 2,
+      "explainSi": "Second conditional හි 'I / he / she / it' සමඟ සම්මත ස්වරූපය 'were'.",
+      "speak": "If I were you, I would apply for that job."
+    },
+    {
+      "id": "b2-02-q3",
+      "q": "'If I had studied harder, I ___ the exam.'",
+      "qSi": "Third conditional ප්‍රතිඵල කොටස?",
+      "options": [
+        "would pass",
+        "will pass",
+        "would have passed",
+        "had passed"
+      ],
+      "answer": 2,
+      "explainSi": "Third conditional: If + had + V3, would have + V3.",
+      "speak": "If I had studied harder, I would have passed the exam."
+    },
+    {
+      "id": "b2-02-q4",
+      "q": "'You won't pass unless you study' means:",
+      "qSi": "මෙහි අර්ථය?",
+      "options": [
+        "You will pass even without studying",
+        "If you do not study, you will not pass",
+        "You must not study",
+        "Studying does not matter"
+      ],
+      "answer": 1,
+      "explainSi": "unless = if not. එනිසා 'ඉගෙන ගත්තේ නැත්නම් සමත් වෙන්නේ නෑ'.",
+      "speak": "You won't pass unless you study."
+    },
+    {
+      "id": "b2-02-q5",
+      "q": "Which is a ZERO conditional?",
+      "qSi": "Zero conditional කුමක්ද?",
+      "options": [
+        "If it rains, we will cancel it.",
+        "If you heat water, it boils.",
+        "If I had money, I would travel.",
+        "If I had left earlier, I would have arrived."
+      ],
+      "answer": 1,
+      "explainSi": "Zero conditional යනු සදාකාලික සත්‍යයක්: If + present simple, present simple.",
+      "speak": "If you heat water, it boils."
+    },
+    {
+      "id": "b2-02-q6",
+      "q": "Which sentence is WRONG?",
+      "qSi": "වැරදි වාක්‍යය කුමක්ද?",
+      "options": [
+        "If I had known, I would have come.",
+        "If I would have known, I would have come.",
+        "If she had asked, I would have helped.",
+        "If they had left earlier, they would have caught it."
+      ],
+      "answer": 1,
+      "explainSi": "'if' කොටසේ 'would' යොදන්නේ නෑ. 'If I had known' නිවැරදියි."
+    },
+    {
+      "id": "b2-02-q7",
+      "q": "'Take an umbrella in case it rains' means:",
+      "qSi": "'in case' යන්නෙහි අර්ථය?",
+      "options": [
+        "Take it only when it starts raining",
+        "Take it now because rain is possible later",
+        "Do not take it",
+        "It is raining now"
+      ],
+      "answer": 1,
+      "explainSi": "'in case' යනු කලින්ම සූදානම් වීම. 'if' යනු ඒක සිදු වුණාම ක්‍රියා කිරීම.",
+      "speak": "Take an umbrella in case it rains."
+    },
+    {
+      "id": "b2-02-q8",
+      "context": "Thirty years later, his daughter asked him, \"Do you ever think about it? If you had gone to the bank, we would be rich now.\"",
+      "contextSi": "අවුරුදු තිහකට පස්සේ එයාගේ දුව ඇහුවා, \"ඔබ කවදාහරි ඒක ගැන හිතනවද? ඔබ බැංකුවට ගියා නම් අපි දැන් ධනවත් වෙනවා.\"",
+      "q": "In the story, 'If you had gone to the bank, we would be rich now' mixes:",
+      "qSi": "මෙය මිශ්‍ර කොන්දේසියක් වන්නේ ඇයි?",
+      "options": [
+        "a past condition with a present result",
+        "a present condition with a past result",
+        "two past conditions",
+        "a future condition with a past result"
+      ],
+      "answer": 0,
+      "explainSi": "'had gone' (අතීත කොන්දේසිය) + 'would be' (වර්තමාන ප්‍රතිඵලය) — මෙය mixed conditional එකක්."
+    }
+  ]
+}

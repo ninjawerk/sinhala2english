@@ -1,0 +1,978 @@
+{
+  "hero": {
+    "src": "images/a1-22-hero.webp",
+    "alt": "Nadeesha sitting on the edge of an examination couch in a small clinic with a hand at her throat, a doctor stethoscope on the table, calm clean room."
+  },
+  "goalsSi": [
+    "සිරුරේ කොටස් — head, stomach, back, throat, tooth",
+    "එකම දේ කියන ක්‍රම තුනක්: I have a headache / My head hurts / a pain in my back",
+    "I have a cold සහ I am cold අතර වෙනස",
+    "hurt, pain, ache — කුමන කොටසට කුමක්ද",
+    "වෛද්‍යවරයා ළඟදී: කවදා පටන් ගත්තාද, බෙහෙත් ගන්නේ කොහොමද",
+    "feel sick, get better, get worse"
+  ],
+  "goals": [
+    "Name the parts of the body",
+    "Say what hurts in three ways",
+    "Tell an illness from a temperature",
+    "Describe symptoms to a doctor"
+  ],
+  "sections": [
+    {
+      "type": "note",
+      "title": "One word changes an illness into weather",
+      "titleSi": "එක වචනයකින් ලෙඩක් කාලගුණයක් වෙනවා",
+      "bodySi": "a1-19 හි ඉගෙන ගත්තා හැඟීම් 'be' ක්‍රියාවේ තියෙනවා කියලා: I am tired, I am cold.\n\nහැබැයි ලෙඩ ගැන කථා කරද්දී ඒක වෙනස්. බලන්න:\n\nI am cold. — මට සීතලයි (ජැකට් එකක් ඕන).\nI have a cold. — මට සෙම්ප්‍රතිශ්‍යාවක් (බෙහෙතක් ඕන).\n\nවචන දෙකේ වෙනස 'a' සහ 'have' විතරයි, නමුත් අර්ථය සම්පූර්ණයෙන් වෙනස්. එකක් උෂ්ණත්වය, අනෙක ලෙඩක්.\n\nඑකම රටාව:\nI am hot. — මට රස්නෙයි.\nI have a temperature. — මට උණයි.\n\nනීතිය: ලෙඩක් නම් 'have' — ඔබට එය තියෙනවා, ඔබ එය නෙවෙයි.",
+      "body": "I am cold = temperature. I have a cold = illness."
+    },
+    {
+      "type": "vocab",
+      "title": "The body",
+      "titleSi": "සිරුර",
+      "items": [
+        {
+          "en": "head",
+          "si": "හිස",
+          "say": "හෙඩ්"
+        },
+        {
+          "en": "eye / eyes",
+          "si": "ඇස / ඇස්",
+          "say": "අයි / අයිස්"
+        },
+        {
+          "en": "ear",
+          "si": "කන",
+          "say": "ඉයර්"
+        },
+        {
+          "en": "nose",
+          "si": "නාසය",
+          "say": "නෝස්"
+        },
+        {
+          "en": "throat",
+          "si": "උගුර",
+          "say": "ත්‍රෝට්"
+        },
+        {
+          "en": "tooth / teeth",
+          "si": "දත / දත්",
+          "say": "ටූත් / ටීත්"
+        },
+        {
+          "en": "neck",
+          "si": "බෙල්ල",
+          "say": "නෙක්"
+        },
+        {
+          "en": "back",
+          "si": "පිට",
+          "say": "බැක්"
+        },
+        {
+          "en": "chest",
+          "si": "පපුව",
+          "say": "චෙස්ට්"
+        },
+        {
+          "en": "stomach",
+          "si": "බඩ",
+          "say": "ස්ටමක්"
+        },
+        {
+          "en": "arm",
+          "si": "අත",
+          "say": "ආම්"
+        },
+        {
+          "en": "hand",
+          "si": "අත්ල",
+          "say": "හෑන්ඩ්"
+        },
+        {
+          "en": "finger",
+          "si": "ඇඟිල්ල",
+          "say": "ෆින්ගර්"
+        },
+        {
+          "en": "leg",
+          "si": "කකුල",
+          "say": "ලෙග්"
+        },
+        {
+          "en": "knee",
+          "si": "දණහිස",
+          "say": "නී"
+        },
+        {
+          "en": "foot / feet",
+          "si": "පාදය / පාද",
+          "say": "ෆුට් / ෆීට්"
+        }
+      ]
+    },
+    {
+      "type": "grammar",
+      "title": "Three ways to say what is wrong",
+      "titleSi": "වැරදිලා තියෙන දේ කියන ක්‍රම තුනක්",
+      "explainSi": "එකම දේ කියන්න ක්‍රම තුනක් තියෙනවා, තුනටම වෙනස් ව්‍යාකරණයක්. තුනම ඉගෙන ගන්න — මොකද සමහර කොටස්වලට එකක් විතරයි ගැළපෙන්නේ.",
+      "formula": "I have a + noun  ·  My + part + hurts  ·  I have a pain in my + part",
+      "table": {
+        "headers": [
+          "ක්‍රමය",
+          "උදාහරණය",
+          "සිංහල"
+        ],
+        "rows": [
+          [
+            "have + නාමය",
+            "I have a headache.",
+            "මගේ ඔලුව රිදෙනවා."
+          ],
+          [
+            "part + hurts",
+            "My head hurts.",
+            "මගේ ඔලුව රිදෙනවා."
+          ],
+          [
+            "a pain in",
+            "I have a pain in my back.",
+            "පිටේ රිදුමක් තියෙනවා."
+          ],
+          [
+            "have + නාමය",
+            "I have a stomach ache.",
+            "බඩේ රිදෙනවා."
+          ],
+          [
+            "part + hurts",
+            "My leg hurts.",
+            "කකුල රිදෙනවා."
+          ],
+          [
+            "sore + part",
+            "I have a sore throat.",
+            "උගුර රිදෙනවා."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "I have a bad headache and my neck hurts too.",
+          "si": "මට හොඳට ඔලුව රිදෙනවා, බෙල්ලත් රිදෙනවා."
+        },
+        {
+          "en": "My tooth has been hurting since Monday.",
+          "si": "සඳුදා ඉඳන් මගේ දත රිදෙනවා."
+        },
+        {
+          "en": "She has a pain in her chest, so we are going to the hospital.",
+          "si": "එයාට පපුවේ රිදුමක් තියෙනවා, එනිසා අපි රෝහලට යනවා."
+        }
+      ],
+      "watchOutSi": "'hurts' යනු ක්‍රියාවක් — එනිසා he/she/it නීතිය අදාළයි: 'My leg hurts' (එකක්) නමුත් 'My legs hurt' (දෙකක්). -s එක එකකට විතරයි."
+    },
+    {
+      "type": "grammar",
+      "title": "ache, sore or pain?",
+      "titleSi": "ache, sore නැත්නම් pain?",
+      "explainSi": "සමහර කොටස්වලට 'ache' එකතු වෙනවා. උගුරට නම් 'sore'. හැම දෙයකටම 'a pain in …' යෙදිය හැකි — ඒක සුරක්ෂිතම ක්‍රමයයි.",
+      "formula": "headache · toothache · stomach ache · backache  ·  a sore throat  ·  a pain in my …",
+      "table": {
+        "headers": [
+          "කොටස",
+          "සම්මත ක්‍රමය",
+          "නිවැරදිද?"
+        ],
+        "rows": [
+          [
+            "head",
+            "a headache",
+            "✓ (a head pain ✗)"
+          ],
+          [
+            "tooth",
+            "toothache",
+            "✓"
+          ],
+          [
+            "stomach",
+            "a stomach ache",
+            "✓"
+          ],
+          [
+            "back",
+            "backache / a pain in my back",
+            "✓ දෙකම"
+          ],
+          [
+            "throat",
+            "a sore throat",
+            "✓ (a throat ache ✗)"
+          ],
+          [
+            "knee",
+            "a pain in my knee",
+            "✓ (a kneeache ✗)"
+          ],
+          [
+            "eyes",
+            "sore eyes / my eyes hurt",
+            "✓ දෙකම"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "I couldn't sleep because of the toothache.",
+          "si": "දත් රිදුම නිසා නිදාගන්න බැරි වුණා."
+        },
+        {
+          "en": "I have a sore throat and I can't talk much.",
+          "si": "උගුර රිදෙනවා, ගොඩක් කථා කරන්න බෑ."
+        }
+      ],
+      "watchOutSi": "'ache' එකතු කරන්න පුළුවන් කොටස් හතරයි: head, tooth, stomach, back. අනිත් හැම කොටසකටම 'a pain in my …' හෝ 'my … hurts'."
+    },
+    {
+      "type": "grammar",
+      "title": "have or be?",
+      "titleSi": "have ද be ද?",
+      "explainSi": "ලෙඩක් නම් 'have'. උෂ්ණත්වයක් හෝ දැනීමක් නම් 'be'. එකම වචනය දෙපැත්තෙම යෙදෙන අවස්ථා තියෙනවා — එතන අර්ථය සම්පූර්ණයෙන් වෙනස්.",
+      "formula": "have + illness  ·  be + feeling",
+      "table": {
+        "headers": [
+          "have (ලෙඩක්)",
+          "be (දැනීමක්)",
+          "වෙනස"
+        ],
+        "rows": [
+          [
+            "I have a cold.",
+            "I am cold.",
+            "සෙම්ප්‍රතිශ්‍යාව / සීතල"
+          ],
+          [
+            "I have a temperature.",
+            "I am hot.",
+            "උණ / රස්නෙ"
+          ],
+          [
+            "I have a cough.",
+            "—",
+            "කැස්ස"
+          ],
+          [
+            "I have flu.",
+            "—",
+            "උණ රෝගය"
+          ],
+          [
+            "—",
+            "I am tired.",
+            "මහන්සිය"
+          ],
+          [
+            "—",
+            "I am hungry.",
+            "බඩගිනි"
+          ],
+          [
+            "I feel sick.",
+            "I am sick.",
+            "ඔක්කාරය / ලෙඩ වීම"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "I'm not cold — I have a cold. There's a difference.",
+          "si": "මට සීතල නෑ — මට සෙම්ප්‍රතිශ්‍යාවක්. ඒක වෙනස්."
+        },
+        {
+          "en": "He has a temperature, so he isn't going to school.",
+          "si": "එයාට උණයි, එනිසා පාසල් යන්නේ නෑ."
+        },
+        {
+          "en": "I feel sick. I think it was the fish.",
+          "si": "මට ඔක්කාරයි. මාළු නිසා කියලා හිතනවා."
+        }
+      ],
+      "watchOutSi": "'I feel sick' කියන්නේ ඔක්කාරය — වමනය එන්න වගේ. 'I am sick' කියන්නේ පොදුවේ ලෙඩ වීම. දෙක එකම දෙයක් නෙවෙයි."
+    },
+    {
+      "type": "vocab",
+      "title": "At the doctor",
+      "titleSi": "වෛද්‍යවරයා ළඟදී",
+      "items": [
+        {
+          "en": "doctor",
+          "si": "වෛද්‍යවරයා",
+          "say": "ඩොක්ටර්"
+        },
+        {
+          "en": "medicine",
+          "si": "බෙහෙත",
+          "say": "මෙඩිසින්"
+        },
+        {
+          "en": "tablet",
+          "si": "පෙති",
+          "say": "ටැබ්ලට්"
+        },
+        {
+          "en": "prescription",
+          "si": "නිර්දේශය",
+          "say": "ප්‍රිස්ක්‍රිප්ෂන්"
+        },
+        {
+          "en": "cough",
+          "si": "කැස්ස",
+          "say": "කොෆ්"
+        },
+        {
+          "en": "temperature",
+          "si": "උණ",
+          "say": "ටෙම්පරචර්"
+        },
+        {
+          "en": "flu",
+          "si": "උණ රෝගය",
+          "say": "ෆ්ලූ"
+        },
+        {
+          "en": "dizzy",
+          "si": "කැරකෙනවා",
+          "say": "ඩිසි"
+        },
+        {
+          "en": "feel sick",
+          "si": "ඔක්කාරයි",
+          "say": "ෆීල් සික්"
+        },
+        {
+          "en": "get better",
+          "si": "සනීප වෙනවා",
+          "say": "ගෙට් බෙටර්"
+        },
+        {
+          "en": "get worse",
+          "si": "වැඩි වෙනවා",
+          "say": "ගෙට් වර්ස්"
+        },
+        {
+          "en": "three times a day",
+          "si": "දවසට තුන් වේලා",
+          "say": "ත්‍රී ටයිම්ස් අ ඩේ"
+        },
+        {
+          "en": "after meals",
+          "si": "කෑමට පස්සේ",
+          "say": "ආෆ්ටර් මීල්ස්"
+        },
+        {
+          "en": "rest",
+          "si": "විවේක ගන්නවා",
+          "say": "රෙස්ට්"
+        },
+        {
+          "en": "since",
+          "si": "ඉඳන්",
+          "say": "සින්ස්"
+        },
+        {
+          "en": "serious",
+          "si": "බරපතළ",
+          "say": "සීරියස්"
+        }
+      ]
+    },
+    {
+      "type": "story",
+      "title": "Nothing, Really",
+      "titleSi": "කිසිවක් නෑ, ඇත්තටම",
+      "introSi": "රිදුම ගැන අඩුවෙන් කියන කෙනෙක් ගැන කතාවක්. එයා කියන දේ සහ ඇත්ත අතර වෙනස බලන්න.",
+      "paragraphs": [
+        {
+          "en": "My father had a pain in his chest for three weeks and he told nobody. When my mother asked, he said, \"Nothing, really. It's the tea.\"",
+          "si": "මගේ තාත්තාට සති තුනක් පපුවේ රිදුමක් තිබුණා, එයා කාටවත් කිව්වේ නෑ. අම්මා ඇහුවම එයා කිව්වා, \"කිසිවක් නෑ, ඇත්තටම. ඒක තේ නිසා.\""
+        },
+        {
+          "en": "He is sixty-two. He has a bad back and he has had toothache since May, and he says the same thing about all of it: \"It isn't serious.\"",
+          "si": "එයාට අවුරුදු හැට දෙකයි. පිට රිදෙනවා, මැයි ඉඳන් දත් රිදෙනවා, ඒ හැම දෙයක් ගැනම එයා කියන්නේ එකම දේ: \"බරපතළ නෑ.\""
+        },
+        {
+          "en": "One evening he was sitting on the step and he was very quiet. His face was grey. \"Are you cold?\" I asked, because he was holding his arms. \"No,\" he said. \"I'm not cold.\"",
+          "si": "එක් හවසක එයා පඩිය මතේ ඉඳගෙන, හරිම නිශ්ශබ්දයි. එයාගේ මූණ අළු පාට. \"ඔබට සීතලද?\" මම ඇහුවා, මොකද එයා අත් දෙක බදාගෙන හිටියා. \"නෑ,\" එයා කිව්වා. \"මට සීතල නෑ.\""
+        },
+        {
+          "en": "We went to the hospital that night. The doctor asked one question: \"How long have you had this pain?\" My father said, \"Since this evening.\" I said, \"Three weeks.\" My father looked at the floor.",
+          "si": "ඒ රෑ අපි රෝහලට ගියා. වෛද්‍යවරයා එක ප්‍රශ්නයක් ඇහුවා: \"මේ රිදුම කොපමණ කාලයක් තියෙනවාද?\" තාත්තා කිව්වා, \"අද හවස ඉඳන්.\" මම කිව්වා, \"සති තුනක්.\" තාත්තා බිම බැලුවා."
+        },
+        {
+          "en": "It wasn't his heart. It was his stomach, and the tablets cost two hundred rupees. He was better in four days.",
+          "si": "ඒක එයාගේ හදවත නෙවෙයි. ඒක බඩ, පෙති රුපියල් දෙසීයයි. දවස් හතරකින් එයාට හොඳ වුණා."
+        },
+        {
+          "en": "But the doctor said one thing to me at the door: \"Three weeks was luck. Next time it will not be his stomach.\" Now I ask my father every Sunday, and every Sunday he says, \"Nothing, really.\" So I ask my mother instead.",
+          "si": "හැබැයි වෛද්‍යවරයා දොර ළඟදී මට එක දෙයක් කිව්වා: \"සති තුනක් ගියේ වාසනාවට. ඊළඟ පාර ඒක බඩ නොවෙයි.\" දැන් මම හැම ඉරිදාම තාත්තාගෙන් අහනවා, හැම ඉරිදාම එයා කියනවා, \"කිසිවක් නෑ, ඇත්තටම.\" එනිසා මම අම්මාගෙන් අහනවා."
+        }
+      ],
+      "glossary": [
+        {
+          "en": "chest",
+          "si": "පපුව"
+        },
+        {
+          "en": "bad back",
+          "si": "රිදෙන පිට"
+        },
+        {
+          "en": "grey",
+          "si": "අළු පාට"
+        },
+        {
+          "en": "hold",
+          "si": "බදාගන්නවා"
+        },
+        {
+          "en": "heart",
+          "si": "හදවත"
+        },
+        {
+          "en": "tablet",
+          "si": "පෙති"
+        },
+        {
+          "en": "luck",
+          "si": "වාසනාව"
+        },
+        {
+          "en": "instead",
+          "si": "වෙනුවට"
+        }
+      ],
+      "questionsSi": [
+        "තාත්තාට තිබූ රිදුම් තුන කුමක්ද?",
+        "'ඔබට සීතලද?' කියලා ඇහුවේ ඇයි, එයාගේ පිළිතුර වැදගත් ඇයි?",
+        "වෛද්‍යවරයාට කිව්ව කාලය දෙකක් වුණේ ඇයි?",
+        "අන්තිමට කථකයා අම්මාගෙන් අහන්නේ ඇයි?"
+      ]
+    },
+    {
+      "type": "poem",
+      "title": "Where It Hurts",
+      "titleSi": "රිදෙන තැන",
+      "introSi": "සිරුරේ කොටස් සහ රිදුම ගැන කවියක්.",
+      "lines": [
+        {
+          "en": "My grandmother's knees knew every rain.",
+          "si": "ආච්චිගේ දණහිස් හැම වැස්සක්ම දැනගෙන හිටියා."
+        },
+        {
+          "en": "Her back knew every year.",
+          "si": "එයාගේ පිට හැම අවුරුද්දක්ම දැනගෙන හිටියා."
+        },
+        {
+          "en": "She never said the word for pain —",
+          "si": "රිදුම කියන වචනය එයා කිව්වේ නෑ —"
+        },
+        {
+          "en": "She said: come sit down here.",
+          "si": "එයා කිව්වා: මෙහෙ ඉඳගන්න කියලා."
+        },
+        {
+          "en": "",
+          "si": ""
+        },
+        {
+          "en": "And now my own knee talks to me",
+          "si": "දැන් මගේම දණහිසත් මට කථා කරනවා"
+        },
+        {
+          "en": "On mornings cold and wet,",
+          "si": "සීතල, තෙමිච්ච උදෑසනවල,"
+        },
+        {
+          "en": "And I say nothing, like she did.",
+          "si": "මමත් කිසිවක් කියන්නේ නෑ, එයා වගේ."
+        },
+        {
+          "en": "I've learnt it. I regret it.",
+          "si": "මම ඒක ඉගෙන ගත්තා. මට ඒක ගැන පසුතැවිල්ලයි."
+        }
+      ],
+      "noteSi": "'My knee talks to me' යනු රූපකයක් — දණහිස ඇත්තටම කථා කරන්නේ නෑ, රිදෙනවා. අන්තිම පේළිය කවියේ අදහසයි."
+    },
+    {
+      "type": "dialogue",
+      "title": "At the clinic",
+      "titleSi": "සායනයේදී",
+      "settingSi": "රෝග ලක්ෂණ විස්තර කිරීම. වෛද්‍යවරයා අහන ප්‍රශ්නවලට අවධානය දෙන්න.",
+      "lines": [
+        {
+          "speaker": "Doctor",
+          "en": "What's the problem?",
+          "si": "ප්‍රශ්නය මොකක්ද?"
+        },
+        {
+          "speaker": "Sanduni",
+          "en": "I have a sore throat and a cough. And my head hurts.",
+          "si": "උගුර රිදෙනවා, කැස්සත් තියෙනවා. ඔලුවත් රිදෙනවා."
+        },
+        {
+          "speaker": "Doctor",
+          "en": "How long have you had it?",
+          "si": "කොපමණ කාලයක් තියෙනවාද?"
+        },
+        {
+          "speaker": "Sanduni",
+          "en": "Since Tuesday. It's getting worse, not better.",
+          "si": "අඟහරුවාදා ඉඳන්. හොඳ වෙනවා නෙවෙයි, වැඩි වෙනවා."
+        },
+        {
+          "speaker": "Doctor",
+          "en": "Do you have a temperature?",
+          "si": "උණ තියෙනවාද?"
+        },
+        {
+          "speaker": "Sanduni",
+          "en": "I think so. I feel hot and then I feel cold.",
+          "si": "තියෙනවා කියලා හිතනවා. රස්නෙ දැනෙනවා, ඊට පස්සේ සීතල දැනෙනවා."
+        },
+        {
+          "speaker": "Doctor",
+          "en": "It's flu. Take one tablet three times a day, after meals, and rest for two days.",
+          "si": "ඒක උණ රෝගය. දවසට තුන් වේලා, කෑමට පස්සේ පෙතියක් ගන්න, දවස් දෙකක් විවේක ගන්න."
+        },
+        {
+          "speaker": "Sanduni",
+          "en": "I can't rest. I have work.",
+          "si": "විවේක ගන්න බෑ. වැඩ තියෙනවා."
+        },
+        {
+          "speaker": "Doctor",
+          "en": "Then you'll be here again on Friday. Your choice.",
+          "si": "එහෙනම් සිකුරාදා ආපහු මෙතන එයි. ඔබේ තේරීම."
+        }
+      ]
+    },
+    {
+      "type": "practice",
+      "title": "have or be?",
+      "titleSi": "have ද be ද?",
+      "instructionSi": "ලෙඩක්ද, දැනීමක්ද කියලා තීරණය කරන්න.",
+      "items": [
+        {
+          "prompt": "I ___ a cold. (සෙම්ප්‍රතිශ්‍යාව)",
+          "answer": "have",
+          "hintSi": "ලෙඩක් — have.",
+          "full": "I have a cold."
+        },
+        {
+          "prompt": "I ___ cold. (සීතලයි)",
+          "answer": "am",
+          "hintSi": "දැනීමක් — be.",
+          "full": "I am cold."
+        },
+        {
+          "prompt": "She ___ a temperature.",
+          "answer": "has",
+          "hintSi": "උණ යනු ලෙඩක්, සහ 'she' සමඟ has.",
+          "full": "She has a temperature."
+        },
+        {
+          "prompt": "My leg ___. (රිදෙනවා)",
+          "answer": "hurts",
+          "hintSi": "'hurts' ක්‍රියාවක් — එකක් නිසා -s.",
+          "full": "My leg hurts."
+        },
+        {
+          "prompt": "My legs ___. (දෙකම රිදෙනවා)",
+          "answer": "hurt",
+          "hintSi": "බහුවචනය — -s නෑ.",
+          "full": "My legs hurt."
+        },
+        {
+          "prompt": "I ___ a pain in my back.",
+          "answer": "have",
+          "hintSi": "'a pain in' සමඟ have.",
+          "full": "I have a pain in my back."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "en": "head",
+      "si": "හිස"
+    },
+    {
+      "en": "throat",
+      "si": "උගුර"
+    },
+    {
+      "en": "tooth",
+      "si": "දත"
+    },
+    {
+      "en": "back",
+      "si": "පිට"
+    },
+    {
+      "en": "chest",
+      "si": "පපුව"
+    },
+    {
+      "en": "stomach",
+      "si": "බඩ"
+    },
+    {
+      "en": "knee",
+      "si": "දණහිස"
+    },
+    {
+      "en": "hurt",
+      "si": "රිදෙනවා"
+    },
+    {
+      "en": "pain",
+      "si": "රිදුම"
+    },
+    {
+      "en": "headache",
+      "si": "ඔලුව රිදීම"
+    },
+    {
+      "en": "sore throat",
+      "si": "උගුර රිදීම"
+    },
+    {
+      "en": "cough",
+      "si": "කැස්ස"
+    },
+    {
+      "en": "temperature",
+      "si": "උණ"
+    },
+    {
+      "en": "flu",
+      "si": "උණ රෝගය"
+    },
+    {
+      "en": "medicine",
+      "si": "බෙහෙත"
+    },
+    {
+      "en": "tablet",
+      "si": "පෙති"
+    },
+    {
+      "en": "feel sick",
+      "si": "ඔක්කාරයි"
+    },
+    {
+      "en": "get better",
+      "si": "සනීප වෙනවා"
+    },
+    {
+      "en": "get worse",
+      "si": "වැඩි වෙනවා"
+    },
+    {
+      "en": "rest",
+      "si": "විවේක ගන්නවා"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "a1-22-q1",
+      "q": "'මට සෙම්ප්‍රතිශ්‍යාවක්' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "I am cold.",
+        "I have a cold.",
+        "I have cold.",
+        "I am a cold."
+      ],
+      "answer": 1,
+      "explainSi": "ලෙඩක් නම් 'have', සහ 'a' අවශ්‍යයි.",
+      "speak": "I have a cold."
+    },
+    {
+      "id": "a1-22-q2",
+      "q": "'මට සීතලයි' (ජැකට් එකක් ඕන) — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "I have a cold.",
+        "I am cold.",
+        "I have cold.",
+        "I feel a cold."
+      ],
+      "answer": 1,
+      "explainSi": "උෂ්ණත්වයක් නම් 'be' — a1-19 හි නීතියමයි.",
+      "speak": "I am cold."
+    },
+    {
+      "id": "a1-22-q3",
+      "q": "'I am cold' සහ 'I have a cold' අතර වෙනස කුමක්ද?",
+      "options": [
+        "වෙනසක් නෑ",
+        "පළමුවැන්න උෂ්ණත්වය, දෙවැන්න ලෙඩක්",
+        "දෙවැන්න වඩා ආචාරශීලීයි",
+        "පළමුවැන්න වැරදියි"
+      ],
+      "answer": 1,
+      "explainSi": "'a' සහ 'have' එකතු වුණාම කාලගුණයක් ලෙඩක් වෙනවා."
+    },
+    {
+      "id": "a1-22-q4",
+      "q": "'මගේ ඔලුව රිදෙනවා' — ක්‍රම දෙකෙන් නිවැරදි යුගලය?",
+      "options": [
+        "I have a headache. / My head hurts.",
+        "I have a head pain. / My head is hurt.",
+        "I am headache. / My head hurt.",
+        "I have headache. / My head hurting."
+      ],
+      "answer": 0,
+      "explainSi": "'headache' නාම පදයක් (have සමඟ), 'hurts' ක්‍රියාවක්.",
+      "speak": "I have a headache. My head hurts."
+    },
+    {
+      "id": "a1-22-q5",
+      "q": "'My leg ___' සහ 'My legs ___' — නිවැරදි ස්වරූප?",
+      "options": [
+        "hurt / hurts",
+        "hurts / hurt",
+        "hurts / hurts",
+        "hurt / hurt"
+      ],
+      "answer": 1,
+      "explainSi": "'hurts' ක්‍රියාවක් නිසා a1-09 හි නීතිය අදාළයි: එකකට -s, බහුවචනයට නෑ."
+    },
+    {
+      "id": "a1-22-q6",
+      "q": "'උගුර රිදෙනවා' — නිවැරදි ස්වරූපය?",
+      "options": [
+        "I have a throat ache.",
+        "I have a sore throat.",
+        "I have throatache.",
+        "My throat is ache."
+      ],
+      "answer": 1,
+      "explainSi": "උගුරට 'sore'. 'ache' එකතු වෙන්නේ head, tooth, stomach, back වලට විතරයි.",
+      "speak": "I have a sore throat."
+    },
+    {
+      "id": "a1-22-q7",
+      "q": "'දණහිස රිදෙනවා' — නිවැරදි ස්වරූපය?",
+      "options": [
+        "I have a kneeache.",
+        "I have a pain in my knee.",
+        "I am knee pain.",
+        "I have knee."
+      ],
+      "answer": 1,
+      "explainSi": "'ache' යෙදෙන කොටස් හතරට දණහිස අයිති නෑ — 'a pain in my knee' හෝ 'my knee hurts'."
+    },
+    {
+      "id": "a1-22-q8",
+      "q": "'ache' එකතු කළ හැකි කොටස් මොනවාද?",
+      "options": [
+        "හැම කොටසකටම",
+        "head, tooth, stomach, back",
+        "throat, knee, eye",
+        "arm, leg, foot"
+      ],
+      "answer": 1,
+      "explainSi": "headache, toothache, stomach ache, backache. අනිත් හැම එකකටම 'a pain in my …'."
+    },
+    {
+      "id": "a1-22-q9",
+      "q": "'I feel sick' කියන්නෙන් අදහස් වන්නේ?",
+      "options": [
+        "මම පොදුවේ ලෙඩයි",
+        "මට ඔක්කාරයි — වමනය එන්න වගේ",
+        "මට සීතලයි",
+        "මට උණයි"
+      ],
+      "answer": 1,
+      "explainSi": "'I feel sick' ඔක්කාරය. 'I am sick' පොදුවේ ලෙඩ වීම."
+    },
+    {
+      "id": "a1-22-q10",
+      "q": "'How long have you had it?' — ගැළපෙන පිළිතුර?",
+      "options": [
+        "Three times a day.",
+        "Since Tuesday.",
+        "In my back.",
+        "It's flu."
+      ],
+      "answer": 1,
+      "explainSi": "'How long' කාලය අහනවා — 'since' හෝ 'for' සමඟ පිළිතුරු."
+    },
+    {
+      "id": "a1-22-q11",
+      "q": "'දවසට තුන් වේලා, කෑමට පස්සේ' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "Three times in a day, after meal.",
+        "Three times a day, after meals.",
+        "Three time a day, after the meals.",
+        "In three times a day, after meals."
+      ],
+      "answer": 1,
+      "explainSi": "'three times a day' සම්මත ස්වරූපය, සහ 'meals' බහුවචනයෙන්.",
+      "speak": "Take one tablet three times a day, after meals."
+    },
+    {
+      "id": "a1-22-q12",
+      "context": "My father had a pain in his chest for three weeks and he told nobody. When my mother asked, he said, \"Nothing, really. It's the tea.\"",
+      "contextSi": "මගේ තාත්තාට සති තුනක් පපුවේ රිදුමක් තිබුණා, එයා කාටවත් කිව්වේ නෑ. අම්මා ඇහුවම එයා කිව්වා, \"කිසිවක් නෑ, ඇත්තටම. ඒක තේ නිසා.\"",
+      "q": "කතාව අනුව: තාත්තා 'ඒක තේ නිසා' කියන්නේ ඇයි?",
+      "options": [
+        "එයාට ඇත්තටම එහෙම හිතුණ නිසා",
+        "රිදුමට වෙන හේතුවක් දීලා කථාව නවත්වන්න",
+        "එයා තේ ගොඩක් බොන නිසා",
+        "අම්මා තේ හදපු නිසා"
+      ],
+      "answer": 1,
+      "explainSi": "සති තුනක් තිබූ පපුවේ රිදුමකට තේ හේතුවක් නෙවෙයි — ඒක වළක්වා ගැනීමක්."
+    },
+    {
+      "id": "a1-22-q13",
+      "context": "He is sixty-two. He has a bad back and he has had toothache since May, and he says the same thing about all of it: \"It isn't serious.\"",
+      "contextSi": "එයාට අවුරුදු හැට දෙකයි. පිට රිදෙනවා, මැයි ඉඳන් දත් රිදෙනවා, ඒ හැම දෙයක් ගැනම එයා කියන්නේ එකම දේ: \"බරපතළ නෑ.\"",
+      "q": "කතාව අනුව: තාත්තාට තිබූ රිදුම් කීයක්ද?",
+      "options": [
+        "එකක්",
+        "දෙකක්",
+        "තුනක්",
+        "හතරක්"
+      ],
+      "answer": 2,
+      "explainSi": "පපුව, පිට, දත — තුනක්. තුනටම එකම පිළිතුර."
+    },
+    {
+      "id": "a1-22-q14",
+      "context": "His face was grey. \"Are you cold?\" I asked, because he was holding his arms. \"No,\" he said. \"I'm not cold.\"",
+      "contextSi": "එයාගේ මූණ අළු පාට. \"ඔබට සීතලද?\" මම ඇහුවා, මොකද එයා අත් දෙක බදාගෙන හිටියා. \"නෑ,\" එයා කිව්වා. \"මට සීතල නෑ.\"",
+      "q": "කතාව අනුව: තාත්තාගේ පිළිතුරෙන් වැදගත් වන්නේ කුමක්ද?",
+      "options": [
+        "එයාට ඇත්තටම සීතල නෑ",
+        "එයා ඇහුව ප්‍රශ්නයට විතරයි උත්තර දෙනවා — රිදුම ගැන කිසිවක් කියන්නේ නෑ",
+        "එයාට ජැකට් එකක් ඕන",
+        "එයාට ඇහුණේ නෑ"
+      ],
+      "answer": 1,
+      "explainSi": "'I'm not cold' කියන එක ඇත්ත — නමුත් සම්පූර්ණ ඇත්ත නෙවෙයි. එයා නොකියන දේ තමයි ප්‍රශ්නය."
+    },
+    {
+      "id": "a1-22-q15",
+      "context": "The doctor asked one question: \"How long have you had this pain?\" My father said, \"Since this evening.\" I said, \"Three weeks.\" My father looked at the floor.",
+      "contextSi": "වෛද්‍යවරයා එක ප්‍රශ්නයක් ඇහුවා: \"මේ රිදුම කොපමණ කාලයක් තියෙනවාද?\" තාත්තා කිව්වා, \"අද හවස ඉඳන්.\" මම කිව්වා, \"සති තුනක්.\" තාත්තා බිම බැලුවා.",
+      "q": "කතාව අනුව: තාත්තා බිම බලන්නේ ඇයි?",
+      "options": [
+        "එයාට රිදෙන නිසා",
+        "එයා අඩුවෙන් කිව්වේ අල්ලාගත් නිසා",
+        "එයාට වෛද්‍යවරයා තේරෙන්නේ නැති නිසා",
+        "එයාට ලැජ්ජා නිසා පමණයි"
+      ],
+      "answer": 1,
+      "explainSi": "'Since this evening' සහ 'Three weeks' — කථකයා ඇත්ත කිව්වා."
+    },
+    {
+      "id": "a1-22-q16",
+      "context": "But the doctor said one thing to me at the door: \"Three weeks was luck. Next time it will not be his stomach.\"",
+      "contextSi": "හැබැයි වෛද්‍යවරයා දොර ළඟදී මට එක දෙයක් කිව්වා: \"සති තුනක් ගියේ වාසනාවට. ඊළඟ පාර ඒක බඩ නොවෙයි.\"",
+      "q": "කතාව අනුව: වෛද්‍යවරයාගේ අවවාදයෙන් අදහස් වන්නේ කුමක්ද?",
+      "options": [
+        "බඩ රෝග භයානක",
+        "මේ පාර බරපතළ නොවුණේ වාසනාවට — ඒ පුරුද්ද දිගටම ගියොත් ඊළඟට එහෙම වෙන්නේ නෑ",
+        "තාත්තා ආපහු එන්න ඕන",
+        "පෙති ලාභයි"
+      ],
+      "answer": 1,
+      "explainSi": "අවවාදය රෝගය ගැන නෙවෙයි — නොකියා ඉන්න පුරුද්ද ගැන."
+    },
+    {
+      "id": "a1-22-q17",
+      "context": "Now I ask my father every Sunday, and every Sunday he says, \"Nothing, really.\" So I ask my mother instead.",
+      "contextSi": "දැන් මම හැම ඉරිදාම තාත්තාගෙන් අහනවා, හැම ඉරිදාම එයා කියනවා, \"කිසිවක් නෑ, ඇත්තටම.\" එනිසා මම අම්මාගෙන් අහනවා.",
+      "q": "කතාව අනුව: කථකයා අම්මාගෙන් අහන්නේ ඇයි?",
+      "options": [
+        "අම්මා වෛද්‍යවරයෙක් නිසා",
+        "තාත්තා ඇත්ත කියන්නේ නැති බව දැනගෙන ඉන්න නිසා",
+        "අම්මාට ලෙඩ නිසා",
+        "තාත්තා ගෙදර නැති නිසා"
+      ],
+      "answer": 1,
+      "explainSi": "පිළිතුර වෙනස් වෙන්නේ නෑ — එනිසා ප්‍රශ්නය අහන කෙනා වෙනස් කරනවා."
+    },
+    {
+      "id": "a1-22-q18",
+      "context": "She never said the word for pain — / She said: come sit down here. / … / And I say nothing, like she did. / I've learnt it. I regret it.",
+      "contextSi": "රිදුම කියන වචනය එයා කිව්වේ නෑ — / එයා කිව්වා: මෙහෙ ඉඳගන්න කියලා. / … / මමත් කිසිවක් කියන්නේ නෑ, එයා වගේ. / මම ඒක ඉගෙන ගත්තා. මට ඒක ගැන පසුතැවිල්ලයි.",
+      "q": "කවියේ 'I've learnt it. I regret it' කියන එකෙන් අදහස් වන්නේ?",
+      "options": [
+        "එයාට ආච්චිගෙන් ඉගෙන ගත්ත දේ ගැන සතුටුයි",
+        "නිශ්ශබ්ද වීමත් උරුමයක් — නමුත් හොඳ එකක් නෙවෙයි",
+        "එයාට දණහිස රිදෙනවා",
+        "එයාට ආච්චි මතක් වෙනවා"
+      ],
+      "answer": 1,
+      "explainSi": "'learnt' සහ 'regret' එකම වාක්‍ය දෙකේ තියෙන්නේ ඒ නිසාමයි."
+    },
+    {
+      "id": "a1-22-q19",
+      "context": "Sanduni: Since Tuesday. It's getting worse, not better.",
+      "contextSi": "සඳුනි: අඟහරුවාදා ඉඳන්. හොඳ වෙනවා නෙවෙයි, වැඩි වෙනවා.",
+      "q": "සංවාදයේ: 'getting worse, not better' කියන එකෙන් වෛද්‍යවරයාට ලැබෙන තොරතුර කුමක්ද?",
+      "options": [
+        "රෝගය පටන් ගත්ත දිනය",
+        "රෝගය දිශාව — හොඳ අතට නෙවෙයි, නරක අතට",
+        "රෝගය බරපතළ නෑ",
+        "එයාට බෙහෙත් ඕන"
+      ],
+      "answer": 1,
+      "explainSi": "දිනයට අමතරව දිශාවත් වැදගත් — 'get better' සහ 'get worse' ඒකයි කියන්නේ."
+    },
+    {
+      "id": "a1-22-q20",
+      "context": "Doctor: Then you'll be here again on Friday. Your choice.",
+      "contextSi": "වෛද්‍යවරයා: එහෙනම් සිකුරාදා ආපහු මෙතන එයි. ඔබේ තේරීම.",
+      "q": "සංවාදයේ: වෛද්‍යවරයා මෙසේ කියන්නේ ඇයි?",
+      "options": [
+        "සඳුනිට තරහ නිසා",
+        "විවේක නොගත්තොත් රෝගය නැවත එන බව කියන්න",
+        "සිකුරාදා සායනය තියෙන නිසා",
+        "බෙහෙත් ප්‍රමාණවත් නැති නිසා"
+      ],
+      "answer": 1,
+      "explainSi": "'Your choice' — බලකරන්නේ නෑ, ප්‍රතිඵලය කියනවා විතරයි."
+    },
+    {
+      "id": "a1-22-q21",
+      "q": "කුමන වාක්‍යය වැරදිද?",
+      "options": [
+        "She has a temperature.",
+        "I have a pain in my chest.",
+        "My teeth hurts.",
+        "I have a sore throat."
+      ],
+      "answer": 2,
+      "explainSi": "'teeth' බහුවචනයි: 'My teeth hurt' — -s නෑ."
+    },
+    {
+      "id": "a1-22-q22",
+      "q": "'එයාට උණයි, එනිසා පාසල් යන්නේ නෑ' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "He is a temperature, so he isn't going to school.",
+        "He has a temperature, so he isn't going to school.",
+        "He has temperature, so he isn't going to school.",
+        "He is hot, so he isn't going to school."
+      ],
+      "answer": 1,
+      "explainSi": "උණ ලෙඩක් — 'has a temperature'. 'He is hot' කිව්වොත් රස්නෙ ගැන අර්ථය.",
+      "speak": "He has a temperature, so he isn't going to school."
+    }
+  ]
+}

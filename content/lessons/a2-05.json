@@ -1,0 +1,567 @@
+{
+  "hero": {
+    "src": "images/a2-05-hero.webp",
+    "alt": "Nadeesha stepping out of an office doorway into yesterday rain, opening an umbrella, a folder held carefully under one arm."
+  },
+  "goalsSi": [
+    "-ed එකතු කර අතීත කාලය සෑදීම",
+    "නිතර භාවිත වන අක්‍රමවත් ක්‍රියා 20ක්",
+    "did / didn't සමඟ ප්‍රශ්න සහ නැහැ කීම",
+    "ඔබේ ජීවිතයේ සිදු වූ දෙයක් ගැන කීම"
+  ],
+  "goals": [
+    "Talk about the past",
+    "Use regular and irregular verbs",
+    "Ask past questions with did"
+  ],
+  "sections": [
+    {
+      "type": "note",
+      "title": "The past is one form only",
+      "titleSi": "අතීතයට ඇත්තේ එක ස්වරූපයයි",
+      "bodySi": "හොඳ ආරංචියක්: Past Simple හි he/she/it සඳහා වෙනම ස්වරූපයක් නෑ. සියලු දෙනාටම එකයි.\n\nI worked · You worked · She worked · They worked\n\nඑනිසා present tense එකට වඩා past tense එක ලේසියි! එකම අභියෝගය තමයි අක්‍රමවත් ක්‍රියා (irregular verbs) මතක තබා ගැනීම — go → went, eat → ate වගේ. ඒවාට නීතියක් නෑ, පුරුද්දෙන් තමයි එන්නේ.",
+      "body": "Good news: the past simple has only one form for everybody."
+    },
+    {
+      "type": "grammar",
+      "title": "Regular verbs: add -ed",
+      "titleSi": "ක්‍රමවත් ක්‍රියා: -ed එකතු කරන්න",
+      "explainSi": "බොහෝ ක්‍රියාවලට අගට '-ed' එකතු කරලා අතීත ස්වරූපය හදනවා. අක්ෂර වින්‍යාසයේ කුඩා නීති කිහිපයක් තියෙනවා.",
+      "table": {
+        "headers": [
+          "Rule",
+          "Present",
+          "Past"
+        ],
+        "rows": [
+          [
+            "සාමාන්‍ය → +ed",
+            "work / play / help",
+            "worked / played / helped"
+          ],
+          [
+            "-e වලින් අවසන් → +d",
+            "live / like / close",
+            "lived / liked / closed"
+          ],
+          [
+            "ව්‍යාංජනය + y → -ied",
+            "study / carry / cry",
+            "studied / carried / cried"
+          ],
+          [
+            "කෙටි ස්වර + ව්‍යාංජනය → ද්විත්ව",
+            "stop / plan",
+            "stopped / planned"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "I worked in a shop last year.",
+          "si": "පහුගිය අවුරුද්දේ මම කඩේක වැඩ කළා."
+        },
+        {
+          "en": "She studied all night.",
+          "si": "එයා රෑ පුරාම ඉගෙන ගත්තා."
+        },
+        {
+          "en": "The bus stopped near the temple.",
+          "si": "බස් එක පන්සල ළඟ නැවතුනා."
+        }
+      ],
+      "watchOutSi": "'-ed' උච්චාරණය තුන් ආකාරයි: worked = 'ට්' හඬ, played = 'ඩ්' හඬ, wanted = 'ඉඩ්' හඬ. හඬ නඟා කියලා පුරුදු වෙන්න."
+    },
+    {
+      "type": "grammar",
+      "title": "Irregular verbs — learn these 20",
+      "titleSi": "අක්‍රමවත් ක්‍රියා 20",
+      "explainSi": "මේවාට නීතියක් නෑ. නමුත් ඉංග්‍රීසියේ නිතරම භාවිත වන්නේ මේවා නිසා, මතක තබා ගැනීම වටිනවා. දිනකට පහක් බැගින් ඉගෙන ගන්න.",
+      "table": {
+        "headers": [
+          "Present",
+          "Past",
+          "සිංහල"
+        ],
+        "rows": [
+          [
+            "go",
+            "went",
+            "යනවා → ගියා"
+          ],
+          [
+            "eat",
+            "ate",
+            "කනවා → කෑවා"
+          ],
+          [
+            "drink",
+            "drank",
+            "බොනවා → බිව්වා"
+          ],
+          [
+            "see",
+            "saw",
+            "දකිනවා → දැක්කා"
+          ],
+          [
+            "come",
+            "came",
+            "එනවා → ආවා"
+          ],
+          [
+            "give",
+            "gave",
+            "දෙනවා → දුන්නා"
+          ],
+          [
+            "take",
+            "took",
+            "ගන්නවා → ගත්තා"
+          ],
+          [
+            "make",
+            "made",
+            "හදනවා → හැදුවා"
+          ],
+          [
+            "say",
+            "said",
+            "කියනවා → කිව්වා"
+          ],
+          [
+            "buy",
+            "bought",
+            "මිලදී ගන්නවා → ගත්තා"
+          ],
+          [
+            "think",
+            "thought",
+            "හිතනවා → හිතුවා"
+          ],
+          [
+            "write",
+            "wrote",
+            "ලියනවා → ලිව්වා"
+          ],
+          [
+            "read",
+            "read (රෙඩ්)",
+            "කියවනවා → කියෙව්වා"
+          ],
+          [
+            "run",
+            "ran",
+            "දුවනවා → දිව්වා"
+          ],
+          [
+            "sleep",
+            "slept",
+            "නිදාගන්නවා → නිදාගත්තා"
+          ],
+          [
+            "find",
+            "found",
+            "හොයාගන්නවා → හොයාගත්තා"
+          ],
+          [
+            "tell",
+            "told",
+            "කියනවා → කිව්වා"
+          ],
+          [
+            "leave",
+            "left",
+            "පිටත් වෙනවා → පිටත් වුණා"
+          ],
+          [
+            "begin",
+            "began",
+            "පටන් ගන්නවා → පටන් ගත්තා"
+          ],
+          [
+            "is / are",
+            "was / were",
+            "වෙනවා → වුණා"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "We went to the beach yesterday.",
+          "si": "අපි ඊයේ මුහුදු වෙරළට ගියා."
+        },
+        {
+          "en": "She gave me a book.",
+          "si": "එයා මට පොතක් දුන්නා."
+        },
+        {
+          "en": "I saw him at the market.",
+          "si": "මම එයාව වෙළඳපොළේදී දැක්කා."
+        }
+      ],
+      "watchOutSi": "'read' අතීතයේත් 'read' කියලාම ලියනවා, නමුත් උච්චාරණය වෙනස්: present = 'රීඩ්', past = 'රෙඩ්'."
+    },
+    {
+      "type": "grammar",
+      "title": "was / were, and questions with did",
+      "titleSi": "was / were සහ did සමඟ ප්‍රශ්න",
+      "explainSi": "'be' ක්‍රියාවේ අතීතය: I/He/She/It → was, You/We/They → were.\n\nඅනෙක් සියලු ක්‍රියා සමඟ ප්‍රශ්නයක් හෝ නැහැ කියද්දී 'did' භාවිත කරනවා. ඉතා වැදගත්: 'did' යෙදුවම ප්‍රධාන ක්‍රියාව මූලික ස්වරූපයට ආපහු යනවා.\n\n✗ Did you went? — වැරදියි\n✓ Did you go? — නිවැරදියි",
+      "formula": "Did + subject + base verb?   ·   didn't + base verb",
+      "table": {
+        "headers": [
+          "Positive",
+          "Negative",
+          "Question"
+        ],
+        "rows": [
+          [
+            "I went home.",
+            "I didn't go home.",
+            "Did you go home?"
+          ],
+          [
+            "She ate rice.",
+            "She didn't eat rice.",
+            "Did she eat rice?"
+          ],
+          [
+            "It was hot.",
+            "It wasn't hot.",
+            "Was it hot?"
+          ],
+          [
+            "They were late.",
+            "They weren't late.",
+            "Were they late?"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "Did you see the match last night?",
+          "si": "ඔබ ඊයේ රෑ තරගය බැලුවද?"
+        },
+        {
+          "en": "I didn't understand the question.",
+          "si": "මට ප්‍රශ්නය තේරුණේ නෑ."
+        },
+        {
+          "en": "Where did you go?",
+          "si": "ඔබ කොහෙද ගියේ?"
+        },
+        {
+          "en": "It was a beautiful day.",
+          "si": "ඒක ලස්සන දවසක් වුණා."
+        }
+      ]
+    },
+    {
+      "type": "story",
+      "title": "The Lost Umbrella",
+      "titleSi": "නැති වුණ කුඩය",
+      "introSi": "අතීත ක්‍රියා පිරුණු කෙටිකතාවක්. කියවද්දී අක්‍රමවත් ක්‍රියා කීයක් හොයාගන්න පුළුවන්ද බලන්න.",
+      "paragraphs": [
+        {
+          "en": "Last Monday it rained very hard. Malini left her house at seven o'clock and walked to the bus stand.",
+          "si": "පහුගිය සඳුදා හරිම වැස්සක් වැස්සා. මාලිනී හතට ගෙදරින් පිටත් වෙලා බස් නැවතුමට ඇවිද්දා."
+        },
+        {
+          "en": "She carried a small blue umbrella. It was old, but it belonged to her grandmother, so she loved it.",
+          "si": "එයා පොඩි නිල් කුඩයක් අරගෙන ගියා. ඒක පරණයි, නමුත් ඒක එයාගේ ආච්චිගේ නිසා එයා ඒකට ආදරෙයි."
+        },
+        {
+          "en": "The bus came late. Many people got in and Malini sat near the window. She closed the umbrella and put it beside her seat.",
+          "si": "බස් එක පරක්කු වෙලා ආවා. මිනිස්සු ගොඩක් ගොඩ වුණා, මාලිනී ජනේලය ළඟ ඉඳගත්තා. එයා කුඩය වහලා ආසනය ළඟ තිබ්බා."
+        },
+        {
+          "en": "She read a book for thirty minutes. Then she got off the bus quickly and ran to her office.",
+          "si": "එයා විනාඩි තිහක් පොතක් කියෙව්වා. ඊට පස්සේ ඉක්මනට බස් එකෙන් බැහැලා කාර්යාලයට දිව්වා."
+        },
+        {
+          "en": "At noon the rain stopped. Then Malini remembered the umbrella. Her heart sank. She forgot it on the bus.",
+          "si": "දවල් වැස්ස නැවතුනා. එතකොට මාලිනීට කුඩය මතක් වුණා. එයාගේ හිත බර වුණා. එයා ඒක බස් එකේ අමතක කරලා."
+        },
+        {
+          "en": "The next day, a young man came to her office. He held the blue umbrella. \"I found this on the bus,\" he said. \"Your name was inside.\"",
+          "si": "පසුදා තරුණයෙක් එයාගේ කාර්යාලයට ආවා. එයා නිල් කුඩය අල්ලාගෙන හිටියා. \"මට මේක බස් එකේ හම්බුණා,\" එයා කිව්වා. \"ඇතුළේ ඔබේ නම තිබුණා.\""
+        },
+        {
+          "en": "Malini smiled. Her grandmother wrote that name forty years ago, in small careful letters.",
+          "si": "මාලිනී සිනාසුණා. එයාගේ ආච්චි ඒ නම අවුරුදු හතළිහකට කලින්, පොඩි පරෙස්සම් අකුරුවලින් ලිව්වා."
+        }
+      ],
+      "glossary": [
+        {
+          "en": "umbrella",
+          "si": "කුඩය"
+        },
+        {
+          "en": "carry",
+          "si": "අරගෙන යනවා"
+        },
+        {
+          "en": "belong to",
+          "si": "අයිති වෙනවා"
+        },
+        {
+          "en": "beside",
+          "si": "ළඟින්"
+        },
+        {
+          "en": "get off",
+          "si": "බැහැලා යනවා"
+        },
+        {
+          "en": "remember",
+          "si": "මතක් වෙනවා"
+        },
+        {
+          "en": "forget",
+          "si": "අමතක වෙනවා"
+        },
+        {
+          "en": "hold",
+          "si": "අල්ලාගෙන ඉන්නවා"
+        },
+        {
+          "en": "careful",
+          "si": "පරෙස්සම්"
+        },
+        {
+          "en": "noon",
+          "si": "දවල් 12"
+        }
+      ],
+      "questionsSi": [
+        "මාලිනීගේ කුඩය කාගෙන්ද එයාට ලැබුණේ?",
+        "එයාට කුඩය අමතක වුණේ කොහෙදීද?",
+        "කුඩය ආපහු ලැබුණේ කොහොමද?"
+      ]
+    },
+    {
+      "type": "practice",
+      "title": "Change to the past",
+      "titleSi": "අතීත කාලයට හරවන්න",
+      "instructionSi": "වරහන් තුළ ඇති ක්‍රියාවේ අතීත ස්වරූපය ලියන්න.",
+      "items": [
+        {
+          "prompt": "Yesterday I ___ (go) to the market.",
+          "answer": "went",
+          "hintSi": "අක්‍රමවත් ක්‍රියාවක්.",
+          "full": "Yesterday I went to the market."
+        },
+        {
+          "prompt": "She ___ (study) for three hours.",
+          "answer": "studied",
+          "hintSi": "y → ied.",
+          "full": "She studied for three hours."
+        },
+        {
+          "prompt": "We ___ (eat) rice and curry.",
+          "answer": "ate",
+          "hintSi": "අක්‍රමවත්.",
+          "full": "We ate rice and curry."
+        },
+        {
+          "prompt": "The bus ___ (stop) near the school.",
+          "answer": "stopped",
+          "hintSi": "ව්‍යාංජනය ද්විත්ව වෙනවා.",
+          "full": "The bus stopped near the school."
+        },
+        {
+          "prompt": "___ you see the film? (ප්‍රශ්නය)",
+          "answer": "did",
+          "hintSi": "අතීත ප්‍රශ්නවලට යෙදෙන එක.",
+          "full": "Did you see the film?"
+        },
+        {
+          "prompt": "It ___ (be) very hot yesterday.",
+          "answer": "was",
+          "hintSi": "'It' සමඟ එන be ක්‍රියාවේ අතීතය.",
+          "full": "It was very hot yesterday."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "en": "yesterday",
+      "si": "ඊයේ"
+    },
+    {
+      "en": "umbrella",
+      "si": "කුඩය"
+    },
+    {
+      "en": "carry",
+      "si": "අරගෙන යනවා"
+    },
+    {
+      "en": "remember",
+      "si": "මතක් වෙනවා"
+    },
+    {
+      "en": "forget",
+      "si": "අමතක වෙනවා"
+    },
+    {
+      "en": "beside",
+      "si": "ළඟින්"
+    },
+    {
+      "en": "careful",
+      "si": "පරෙස්සම්"
+    },
+    {
+      "en": "office",
+      "si": "කාර්යාලය"
+    },
+    {
+      "en": "went",
+      "si": "ගියා"
+    },
+    {
+      "en": "ate",
+      "si": "කෑවා"
+    },
+    {
+      "en": "saw",
+      "si": "දැක්කා"
+    },
+    {
+      "en": "bought",
+      "si": "ගත්තා (මිලදී)"
+    },
+    {
+      "en": "thought",
+      "si": "හිතුවා"
+    },
+    {
+      "en": "wrote",
+      "si": "ලිව්වා"
+    },
+    {
+      "en": "found",
+      "si": "හොයාගත්තා"
+    },
+    {
+      "en": "told",
+      "si": "කිව්වා"
+    },
+    {
+      "en": "left",
+      "si": "පිටත් වුණා"
+    },
+    {
+      "en": "began",
+      "si": "පටන් ගත්තා"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "a2-05-q1",
+      "q": "'go' යන ක්‍රියාවේ අතීත ස්වරූපය?",
+      "options": [
+        "goed",
+        "gone",
+        "went",
+        "going"
+      ],
+      "answer": 2,
+      "explainSi": "go → went. ('gone' යනු past participle — ඒක පස්සේ පාඩමකින් එනවා.)",
+      "speak": "go, went"
+    },
+    {
+      "id": "a2-05-q2",
+      "q": "'Did you ___ the film?' — නිවැරදි වචනය?",
+      "options": [
+        "saw",
+        "see",
+        "seen",
+        "seeing"
+      ],
+      "answer": 1,
+      "explainSi": "'did' යෙදුවම ප්‍රධාන ක්‍රියාව මූලික ස්වරූපයෙන් තියෙනවා: Did you SEE?",
+      "speak": "Did you see the film?"
+    },
+    {
+      "id": "a2-05-q3",
+      "q": "'study' යන්නෙහි අතීත ස්වරූපය?",
+      "options": [
+        "studyed",
+        "studied",
+        "studed",
+        "study"
+      ],
+      "answer": 1,
+      "explainSi": "ව්‍යාංජනයකින් පසු 'y' නම් → 'ied': study → studied.",
+      "speak": "studied"
+    },
+    {
+      "id": "a2-05-q4",
+      "q": "'මම ඒක තේරුම් ගත්තේ නෑ' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "I didn't understood it.",
+        "I didn't understand it.",
+        "I not understand it.",
+        "I don't understood it."
+      ],
+      "answer": 1,
+      "explainSi": "didn't + මූලික ක්‍රියාව. 'didn't understood' වැරදියි.",
+      "speak": "I didn't understand it."
+    },
+    {
+      "id": "a2-05-q5",
+      "q": "'They ___ late yesterday.' — නිවැරදි වචනය?",
+      "options": [
+        "was",
+        "were",
+        "did",
+        "are"
+      ],
+      "answer": 1,
+      "explainSi": "You / We / They සමඟ 'were'. I / He / She / It සමඟ 'was'.",
+      "speak": "They were late yesterday."
+    },
+    {
+      "id": "a2-05-q6",
+      "q": "Past Simple හි he/she/it සඳහා වෙනම ස්වරූපයක් තිබේද?",
+      "options": [
+        "ඔව්, -s එකතු වේ",
+        "නැත, සියලු දෙනාටම එකයි",
+        "ඔව්, -es එකතු වේ",
+        "ඔව්, was එකතු වේ"
+      ],
+      "answer": 1,
+      "explainSi": "Past Simple හි සියලු කර්තෘන්ට එකම ස්වරූපයයි: I worked, she worked, they worked."
+    },
+    {
+      "id": "a2-05-q7",
+      "q": "'buy' යන්නෙහි අතීත ස්වරූපය?",
+      "options": [
+        "buyed",
+        "bought",
+        "brought",
+        "boughted"
+      ],
+      "answer": 1,
+      "explainSi": "buy → bought. ('brought' යනු 'bring' වල අතීතය — දෙක පටලවා ගන්න එපා.)",
+      "speak": "buy, bought"
+    },
+    {
+      "id": "a2-05-q8",
+      "context": "\"I found this on the bus,\" he said. \"Your name was inside.\"",
+      "contextSi": "\"මට මේක බස් එකේ හම්බුණා,\" එයා කිව්වා. \"ඇතුළේ ඔබේ නම තිබුණා.\"",
+      "q": "කතාවේ මාලිනීගේ කුඩය ආපහු ලැබුණේ ඇයි?",
+      "options": [
+        "එයා බස් එකට ආපහු ගිය නිසා",
+        "කුඩය ඇතුළේ එයාගේ නම තිබූ නිසා",
+        "රියදුරු එයාව හඳුනාගත් නිසා",
+        "එයා පොලීසියට කී නිසා"
+      ],
+      "answer": 1,
+      "explainSi": "'Your name was inside.' — ආච්චි අවුරුදු 40කට කලින් ලියපු නම නිසා කුඩය ආපහු ආවා."
+    }
+  ]
+}

@@ -1,0 +1,856 @@
+{
+  "hero": {
+    "src": "images/a2-11-hero.webp",
+    "alt": "Ruwan standing at the edge of a green paddy field at golden hour looking out over it, remembering childhood, distant hills."
+  },
+  "goalsSi": [
+    "used to + ක්‍රියාව — කලින් තිබූ, දැන් නැති පුරුද්දක් හෝ තත්ත්වයක්",
+    "used to සහ a2-05 හි plain past simple අතර වෙනස",
+    "didn't use to, Did you use to...? — නැහැ කීම සහ ප්‍රශ්න",
+    "but now, these days — දැන් සමඟ සංසන්දනය",
+    "used to + ago — නැවතුණේ කවදාද කියලා කීම",
+    "be used to (හුරු පුරුදු) — වෙනස් දෙයක්, මේ පාඩමේ නෑ"
+  ],
+  "goals": [
+    "Use used to for past habits that have stopped",
+    "Tell used to apart from the plain past simple",
+    "Make negatives and questions with used to",
+    "Contrast the past with now",
+    "Say when something stopped, with ago",
+    "Avoid confusing used to with be used to"
+  ],
+  "sections": [
+    {
+      "type": "note",
+      "title": "A habit that has stopped",
+      "titleSi": "නැවතුණු පුරුද්දක්",
+      "bodySi": "a2-05 හි ඉගෙන ගත්තා: 'I lived in Galle' — අතීතයේ සිද්ධ වුණු දෙයක්, ඒක තවම ඇත්තද නැද්ද කියලා කිසිවක් කියන්නේ නෑ.\n\n'used to' යෙදුවම වෙනස් දෙයක් කියවෙනවා: 'I used to live in Galle' — කලින් ගාල්ලේ ජීවත් වුණා, දැන් ජීවත් වෙන්නේ නෑ. 'used to' යෙදුවම, එය දැන් ඇත්ත නෑ කියලා පැහැදිලිවම ඇඟවෙනවා.\n\nපරීක්ෂාව: 'used to' ගැළපෙන්නේ දෙයක් නැවත නැවතත් සිද්ධ වුණා (පුරුද්දක්) හෝ දිගු කාලයක් ඇත්තක් වුණා (තත්ත්වයක්) — ඒ දෙකම දැන් නැති වෙලා නම් විතරයි.\n\nI used to play cricket every weekend. — පුරුද්දක්, දැන් නෑ.\nI used to be shy. — තත්ත්වයක්, දැන් නෑ.\n\nඑක් වතාවක් සිද්ධ වුණු දෙයකට 'used to' යෙදෙන්නේ නෑ: 'I used to go to the concert last night' — වැරදියි, මොකද එය එක් වතාවක්, දින නිශ්චිතව සිද්ධ වුණු දෙයක්.",
+      "body": "used to = a repeated habit or lasting state that is not true any more."
+    },
+    {
+      "type": "grammar",
+      "title": "used to + verb",
+      "titleSi": "used to + ක්‍රියාව",
+      "explainSi": "සර්වනාමය කුමක් වුණත් ස්වරූපය එකයි — කවුරු ගැන කිව්වත් 'used to'. ඊට පස්සේ ක්‍රියාව මූලික ස්වරූපයෙන්.",
+      "formula": "subject + used to + verb",
+      "table": {
+        "headers": [
+          "ධනාත්මක",
+          "දැන්",
+          "සිංහල"
+        ],
+        "rows": [
+          [
+            "I used to play cricket.",
+            "I don't play cricket now.",
+            "කලින් ක්‍රිකට් ගැහුවා, දැන් නෑ."
+          ],
+          [
+            "She used to smoke.",
+            "She doesn't smoke now.",
+            "එයා කලින් දුම් බිව්වා, දැන් නෑ."
+          ],
+          [
+            "We used to live here.",
+            "We don't live here now.",
+            "අපි කලින් මෙතන ජීවත් වුණා, දැන් නෑ."
+          ],
+          [
+            "He used to be tall for his age.",
+            "He isn't especially tall now.",
+            "එයා කලින් වයසට වඩා උසයි වුණා."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "My grandfather used to work in a bank.",
+          "si": "මගේ සීයා කලින් බැංකුවක වැඩ කළා (දැන් නෑ)."
+        },
+        {
+          "en": "This street used to be very quiet.",
+          "si": "මේ පාර කලින් හරිම නිශ්ශබ්දයි වුණා (දැන් නෑ)."
+        },
+        {
+          "en": "We used to visit my aunt every Sunday.",
+          "si": "අපි කලින් හැම ඉරිදාම නැන්දා බලන්න ගියා (දැන් නෑ)."
+        }
+      ],
+      "watchOutSi": "'used to' ස්වරූපය කවුරු ගැන කිව්වත් වෙනස් වෙන්නේ නෑ — 'She useds to' කියලා කියන්නේ නෑ."
+    },
+    {
+      "type": "grammar",
+      "title": "used to or the plain past?",
+      "titleSi": "used to ද, සරල අතීතයද?",
+      "explainSi": "දෙකම අතීතය ගැන, නමුත් අහන්නේ වෙනස් දෙයක්. එකපාරක් වුණු දෙයකට 'used to' යෙදෙන්නේ නෑ.",
+      "formula": "used to = repeated/lasting, now finished  ·  past simple = a fact, no comment on now",
+      "table": {
+        "headers": [
+          "වාක්‍යය",
+          "අර්ථය"
+        ],
+        "rows": [
+          [
+            "I visited Kandy in 2015.",
+            "එකපාරක් — දිනයක් සහිත සිද්ධියක්"
+          ],
+          [
+            "I used to visit Kandy every year.",
+            "නැවත නැවත — දැන් නවතලා"
+          ],
+          [
+            "I went to the concert last night.",
+            "එකපාරක් — ඊයේ රෑ"
+          ],
+          [
+            "✗ I used to go to the concert last night.",
+            "වැරදියි — එකපාරක් සිද්ධ වුණු දෙයකට 'used to' යෙදෙන්නේ නෑ"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "I used to walk to school, but now I take the bus.",
+          "si": "කලින් පයින් පාසල් ගියා, දැන් බස් එකෙන් යනවා."
+        },
+        {
+          "en": "I walked to school yesterday because the bus didn't come.",
+          "si": "ඊයේ පයින් පාසල් ගියේ බස් එක නොආ නිසා."
+        }
+      ],
+      "watchOutSi": "'yesterday', 'last night', 'in 2015' වගේ එක් නිශ්චිත දිනයක් කියන කාල වචන 'used to' එක්ක යෙදෙන්නේ නෑ — ඒවාට සරල අතීතයයි ගැළපෙන්නේ."
+    },
+    {
+      "type": "grammar",
+      "title": "didn't use to, Did you use to…?",
+      "titleSi": "didn't use to, Did you use to...?",
+      "explainSi": "නැහැ කියන්නත් ප්‍රශ්නයක් හදන්නත් 'did' යෙදෙනවා — a2-05 හි නීතියම. හැබැයි 'did' ආවම 'used' එකේ 'd' අකුර අයින් වෙනවා: 'use to' (didn't use to).",
+      "formula": "didn't use to + verb  ·  Did + subject + use to + verb?",
+      "table": {
+        "headers": [
+          "ධනාත්මක",
+          "නැහැ",
+          "ප්‍රශ්නය"
+        ],
+        "rows": [
+          [
+            "I used to like coffee.",
+            "I didn't use to like coffee.",
+            "Did you use to like coffee?"
+          ],
+          [
+            "She used to live abroad.",
+            "She didn't use to live abroad.",
+            "Did she use to live abroad?"
+          ],
+          [
+            "They used to argue a lot.",
+            "They didn't use to argue.",
+            "Did they use to argue?"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "I didn't use to like spicy food, but I love it now.",
+          "si": "කලින් රස කුළු කෑමට කැමති වුණේ නෑ, දැන් ගොඩක් කැමතියි."
+        },
+        {
+          "en": "Did you use to play an instrument as a child?",
+          "si": "ළමා කාලේ ඔබ වාද්‍ය භාණ්ඩයක් වාදනය කළාද?"
+        }
+      ],
+      "watchOutSi": "'didn't used to' කියලා 'd' එකතුව ලියන්නේ නෑ — 'did' දැනටමත් අතීතය පෙන්නනවා, එනිසා 'used' එකේ 'd' අවශ්‍ය නෑ: 'didn't use to'."
+    },
+    {
+      "type": "grammar",
+      "title": "used to … but now / these days",
+      "titleSi": "used to ... but now / these days",
+      "explainSi": "'used to' බොහෝ විට 'but now' හෝ 'these days' එක්ක යෙදෙනවා — දෙබස් ම්ම විදිහටම කියද්දී.",
+      "formula": "used to + X, but now/these days + Y",
+      "table": {
+        "headers": [
+          "අතීතය",
+          "දැන්"
+        ],
+        "rows": [
+          [
+            "This shop used to sell only rice.",
+            "These days it sells everything."
+          ],
+          [
+            "I used to be afraid of the dark.",
+            "But now it doesn't bother me."
+          ],
+          [
+            "He used to have long hair.",
+            "Now he keeps it short."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "This area used to be full of paddy fields, but now there are houses everywhere.",
+          "si": "මේ ප්‍රදේශය කලින් කුඹුරු වලින් පිරිලා තිබුණා, දැන් හැම තැනකම ගෙවල්."
+        },
+        {
+          "en": "I used to hate mathematics, but these days I actually enjoy it.",
+          "si": "කලින් ගණිතයට පිළිකුලයි වුණා, දැන් ඇත්තටම එයට ආසයි."
+        }
+      ],
+      "watchOutSi": "'but now' හෝ 'these days' අවශ්‍ය නෑ — 'used to' තනියම ඇති, නමුත් අර්ථය පැහැදිලි කරන්න මේ වචන එකතු කරන එක ස්වාභාවික ලේඛන ශෛලියක්."
+    },
+    {
+      "type": "tip",
+      "title": "used to ≠ be used to",
+      "titleSi": "used to ≠ be used to",
+      "bodySi": "මේ දෙක ඇහෙන්නේ ළඟින්ම, නමුත් අර්ථය මුළුමනින්ම වෙනස්.\n\n'used to' + ක්‍රියාව = කලින් තිබූ පුරුද්දක්: 'I used to live in Japan' (කලින් ජීවත් වුණා).\n\n'be used to' + -ing = දැන් හුරු පුරුදුයි, දැන් සාමාන්‍යයි: 'I am used to living in Japan' (දැන් ජීවත් වීම හුරු පුරුදුයි — දැන්ම ජීවත් වෙනවා වෙන්නත් පුළුවන්).\n\n'used to' කියන්නේ දැන් නැති දෙයක්. 'be used to' කියන්නේ දැන් තියෙන දෙයක් හුරු පුරුදුයි කියලා. මේ පාඩම 'used to' ගැන විතරයි — 'be used to' වෙනම ග්‍රාමර් කරුණක්."
+    },
+    {
+      "type": "vocab",
+      "title": "Then and now",
+      "titleSi": "එදා සහ අද",
+      "items": [
+        {
+          "en": "used to",
+          "si": "කලින් තිබූ පුරුද්දක්",
+          "say": "යූස්ඩ් ටු"
+        },
+        {
+          "en": "these days",
+          "si": "දැන් කාලේ",
+          "say": "දීස් ඩේස්"
+        },
+        {
+          "en": "not any more",
+          "si": "දැන් නෑ",
+          "say": "නොට් එනි මෝර්"
+        },
+        {
+          "en": "used to be",
+          "si": "කලින් තිබූ තත්ත්වයක්",
+          "say": "යූස්ඩ් ටු බී"
+        },
+        {
+          "en": "stop (doing something)",
+          "si": "නවත්වනවා",
+          "say": "ස්ටොප්"
+        },
+        {
+          "en": "change",
+          "si": "වෙනස් වෙනවා",
+          "say": "චේන්ජ්"
+        },
+        {
+          "en": "instrument",
+          "si": "වාද්‍ය භාණ්ඩය",
+          "say": "ඉන්ස්ට්‍රුමන්ට්"
+        },
+        {
+          "en": "paddy field",
+          "si": "කුඹුර",
+          "say": "පැඩි ෆීල්ඩ්"
+        },
+        {
+          "en": "childhood",
+          "si": "ළමා කාලය",
+          "say": "චයිල්ඩ්හුඩ්"
+        },
+        {
+          "en": "generation",
+          "si": "පරම්පරාව",
+          "say": "ජනරේෂන්"
+        },
+        {
+          "en": "familiar",
+          "si": "හුරු පුරුදු",
+          "say": "ෆැමිලියර්"
+        },
+        {
+          "en": "recognise",
+          "si": "හඳුනාගන්නවා",
+          "say": "රෙකග්නයිස්"
+        },
+        {
+          "en": "landmark",
+          "si": "සලකුණක් වන ස්ථානය",
+          "say": "ලෑන්ඩ්මාක්"
+        },
+        {
+          "en": "empty lot",
+          "si": "හිස් ඉඩම",
+          "say": "එම්ටි ලොට්"
+        }
+      ]
+    },
+    {
+      "type": "story",
+      "title": "Going Back to Nugegoda",
+      "titleSi": "නුගේගොඩට ආපහු යාම",
+      "introSi": "අවුරුදු ගණනකට පස්සේ පරණ ගමට ආපහු එන කෙනෙක්. used to එනවා — දැන් වෙනස් වූ දේවල් ගණන් කරන්න.",
+      "paragraphs": [
+        {
+          "en": "I lived in Nugegoda until I was fifteen, and I hadn't been back in twelve years. Last week, for my cousin's wedding, I finally went back.",
+          "si": "මම අවුරුදු පහළොව වෙනකම් නුගේගොඩ ජීවත් වුණා, අවුරුදු දොළහක් තිස්සේ ආපහු ගියේ නෑ. පහුගිය සතියේ, මගේ නෑනාගේ මංගල උත්සවයට, අන්තිමට මම ආපහු ගියා."
+        },
+        {
+          "en": "There used to be a small bookshop on the corner of our street, run by an old man everyone called Uncle Sarath. He used to let us read comics for free if we promised not to bend the pages.",
+          "si": "අපේ පාරේ කොනේ පොඩි පොත් කඩයක් තිබුණා, කවුරුත් 'සරත් මාමා' කියලා කථා කරන මහත්තයෙක් හදාගෙන ගිය. පිටු නොහකුළනවා කියලා පොරොන්දු වුණොත් අපිට කොමික් නොමිලේ කියවන්න එයා ඉඩ දුන්නා."
+        },
+        {
+          "en": "The shop is a mobile phone repair place now. I asked the young man inside if he knew what happened to Uncle Sarath. He didn't recognise the name.",
+          "si": "දැන් ඒ තැන ජංගම දුරකථන අලුත්වැඩියා තැනක්. එතුළ ඉන්න තරුණයාගෙන් මම ඇහුවා සරත් මාමාට මොකද වුණේ කියලා දන්නවාද කියලා. එයාට ඒ නම හඳුනාගන්න බැරි වුණා."
+        },
+        {
+          "en": "We used to have one small shop for everything — rice, soap, sweets, ice. Now there are three supermarkets within five minutes of each other, and I didn't recognise any of them.",
+          "si": "අපිට හැම දෙයටම එකම පොඩි කඩයක් තිබුණා — බත්, සබන්, රස කැවිලි, අයිස්. දැන් විනාඩි පහක් ඇතුළත සුපිරි වෙළඳසැල් තුනක් තියෙනවා, එකකවත් මට හඳුනාගන්න බැරි වුණා."
+        },
+        {
+          "en": "The one thing that hadn't changed was the temple at the end of the road. It used to look enormous to me as a child. Now it looks exactly the right size.",
+          "si": "වෙනස් නොවුණු එකම දෙය පාරේ කෙළවරේ පන්සල. ළමා කාලේ එය මට හරිම ලොකුයි වගේ පේනවා තිබුණා. දැන් හරිම ප්‍රමාණයට වගේ පේනවා."
+        },
+        {
+          "en": "I didn't expect to feel sad about a bookshop I hadn't thought about in years. But I did. These days, apparently, everyone reads on their phone.",
+          "si": "අවුරුදු ගණනක් හිතුවේවත් නැති පොත් කඩයක් ගැන දුකක් දැනෙයි කියලා මම බලාපොරොත්තු වුණේ නෑ. හැබැයි දැනුණා. දැන් කාලේ, පේනවා විදිහට, හැමෝම කියවන්නේ දුරකථනයෙන්."
+        }
+      ],
+      "glossary": [
+        {
+          "en": "corner",
+          "si": "කොන"
+        },
+        {
+          "en": "comics",
+          "si": "කොමික්"
+        },
+        {
+          "en": "bend",
+          "si": "හකුළනවා"
+        },
+        {
+          "en": "repair",
+          "si": "අලුත්වැඩියා"
+        },
+        {
+          "en": "recognise",
+          "si": "හඳුනාගන්නවා"
+        },
+        {
+          "en": "enormous",
+          "si": "අති විශාල"
+        },
+        {
+          "en": "apparently",
+          "si": "පේනවා විදිහට"
+        }
+      ],
+      "questionsSi": [
+        "කථකයා නුගේගොඩට ආපහු ගියේ ඇයි, කොපමණ කාලයකට පස්සේද?",
+        "සරත් මාමා ළමයින්ට කුමක් කරන්න ඉඩ දුන්නාද, කුමන කොන්දේසියක් යටතේද?",
+        "පොත් කඩයේ තැන දැන් මොකද්ද?",
+        "වෙනස් නොවුණු එකම දෙය මොකක්ද, සහ ඒක වෙනස් වූයේ කොහොමද?"
+      ]
+    },
+    {
+      "type": "poem",
+      "title": "The House on the Corner",
+      "titleSi": "කොනේ තිබූ ගෙදර",
+      "introSi": "used to නැවත නැවත එන කවියක් — දැන් සමඟ සංසන්දනය.",
+      "lines": [
+        {
+          "en": "We used to run down this same street,",
+          "si": "අපි මේ එකම පාරේ දුවපු,"
+        },
+        {
+          "en": "Barefoot, before the rain.",
+          "si": "වැහි එන්න කලින්, පාවහන් නැතුව."
+        },
+        {
+          "en": "The house that used to be all ours",
+          "si": "එදා අපේම වුණ ගෙදර"
+        },
+        {
+          "en": "Has someone else's name.",
+          "si": "දැන් වෙන කෙනෙකුගේ නමක්."
+        },
+        {
+          "en": "",
+          "si": ""
+        },
+        {
+          "en": "I didn't use to notice doors,",
+          "si": "දොරවල් මම කවදාවත් බැලුවේ නෑ,"
+        },
+        {
+          "en": "Now I count every one.",
+          "si": "දැන් හැම දොරක්ම ගණන් කරනවා."
+        },
+        {
+          "en": "The street's the same. I am the one",
+          "si": "පාර එහෙමම. මම තමයි"
+        },
+        {
+          "en": "Whose running days are done.",
+          "si": "දුවන දවස් ඉවර වුණ කෙනා."
+        }
+      ],
+      "noteSi": "'used to run', 'used to be', 'didn't use to notice' — කවියේ ධනාත්මකයි නැහැයි දෙකම එනවා."
+    },
+    {
+      "type": "dialogue",
+      "title": "You've changed the shop!",
+      "titleSi": "කඩේ වෙනස් කරලා!",
+      "settingSi": "පරණ පාරිභෝගිකයෙක් වෙනස් වූ කඩයක් ගැන කථා කරනවා.",
+      "lines": [
+        {
+          "speaker": "Manoj",
+          "en": "This place looks completely different. You used to sell only vegetables, didn't you?",
+          "si": "මේ තැන මුළුමනින්ම වෙනස්. ඔබ කලින් එළවලු විතරක් විකුණන්නේ නේද?"
+        },
+        {
+          "speaker": "Owner",
+          "en": "That's right. We used to have just this one small room.",
+          "si": "ඔව්. අපිට තිබුණේ මේ පොඩි කාමරයම විතරයි."
+        },
+        {
+          "speaker": "Manoj",
+          "en": "Did you use to grow the vegetables yourself?",
+          "si": "ඔබම එළවලු වවනවාද?"
+        },
+        {
+          "speaker": "Owner",
+          "en": "We did, actually. But my father stopped farming about ten years ago, when his knees got bad.",
+          "si": "ඇත්තටම, කළා. හැබැයි තාත්තා අවුරුදු දහයකට විතර කලින් වගාව නැවැත්තුවා, එයාගේ දණහිස් අමාරු වුණාම."
+        },
+        {
+          "speaker": "Manoj",
+          "en": "I didn't use to come here much, but I remember it being tiny.",
+          "si": "මම කලින් එහෙම මෙතනට ආවේ නෑ, හැබැයි පොඩියි කියලා මතකයි."
+        },
+        {
+          "speaker": "Owner",
+          "en": "It was. Now we sell everything, and we deliver too. Things have changed a lot.",
+          "si": "ඔව්. දැන් අපි හැම දෙයක්ම විකුණනවා, බෙදාහරිනවත් කරනවා. දේවල් ගොඩක් වෙනස් වෙලා."
+        }
+      ]
+    },
+    {
+      "type": "practice",
+      "title": "used to, didn't use to, or Did … use to?",
+      "titleSi": "used to, didn't use to, නැත්නම් Did ... use to?",
+      "instructionSi": "'d' අකුර 'did' එන ස්ථානවල අයින් වෙනවා.",
+      "items": [
+        {
+          "prompt": "I ___ (like) coffee, but now I love it.",
+          "answer": "used to like",
+          "hintSi": "ධනාත්මක.",
+          "full": "I used to like coffee, but now I love it."
+        },
+        {
+          "prompt": "She ___ (not/smoke) — she started last year.",
+          "answer": "didn't use to smoke",
+          "hintSi": "'d' නෑ.",
+          "full": "She didn't use to smoke — she started last year."
+        },
+        {
+          "prompt": "___ you ___ (play) an instrument as a child?",
+          "answer": "Did … use to play",
+          "hintSi": "ප්‍රශ්නය.",
+          "full": "Did you use to play an instrument as a child?"
+        },
+        {
+          "prompt": "This street ___ (be) very quiet.",
+          "answer": "used to be",
+          "hintSi": "තත්ත්වයක්.",
+          "full": "This street used to be very quiet."
+        },
+        {
+          "prompt": "I went to the concert last night. (used to යෙදෙනවාද?)",
+          "answer": "නෑ — එකපාරක් සිද්ධ වුණු දෙයක්",
+          "hintSi": "'last night' — නිශ්චිත එක් දිනයක්.",
+          "full": "I went to the concert last night."
+        },
+        {
+          "prompt": "We ___ (visit) my aunt every Sunday.",
+          "answer": "used to visit",
+          "hintSi": "පුරුද්දක්.",
+          "full": "We used to visit my aunt every Sunday."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "en": "used to",
+      "si": "කලින් තිබූ පුරුද්දක්"
+    },
+    {
+      "en": "these days",
+      "si": "දැන් කාලේ"
+    },
+    {
+      "en": "not any more",
+      "si": "දැන් නෑ"
+    },
+    {
+      "en": "stop",
+      "si": "නවත්වනවා"
+    },
+    {
+      "en": "change",
+      "si": "වෙනස් වෙනවා"
+    },
+    {
+      "en": "instrument",
+      "si": "වාද්‍ය භාණ්ඩය"
+    },
+    {
+      "en": "paddy field",
+      "si": "කුඹුර"
+    },
+    {
+      "en": "childhood",
+      "si": "ළමා කාලය"
+    },
+    {
+      "en": "generation",
+      "si": "පරම්පරාව"
+    },
+    {
+      "en": "familiar",
+      "si": "හුරු පුරුදු"
+    },
+    {
+      "en": "recognise",
+      "si": "හඳුනාගන්නවා"
+    },
+    {
+      "en": "landmark",
+      "si": "සලකුණක් වන ස්ථානය"
+    },
+    {
+      "en": "corner",
+      "si": "කොන"
+    },
+    {
+      "en": "repair",
+      "si": "අලුත්වැඩියා"
+    },
+    {
+      "en": "enormous",
+      "si": "අති විශාල"
+    },
+    {
+      "en": "apparently",
+      "si": "පේනවා විදිහට"
+    },
+    {
+      "en": "bend",
+      "si": "හකුළනවා"
+    },
+    {
+      "en": "promise",
+      "si": "පොරොන්දු වෙනවා"
+    },
+    {
+      "en": "knee",
+      "si": "දණහිස"
+    },
+    {
+      "en": "deliver",
+      "si": "බෙදාහරිනවා"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "a2-11-q1",
+      "q": "'මගේ සීයා කලින් බැංකුවක වැඩ කළා (දැන් නෑ)' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "My grandfather worked in a bank.",
+        "My grandfather used to work in a bank.",
+        "My grandfather uses to work in a bank.",
+        "My grandfather is used to work in a bank."
+      ],
+      "answer": 1,
+      "explainSi": "'used to' — කලින් තිබූ, දැන් නැති පුරුද්දක්.",
+      "speak": "My grandfather used to work in a bank."
+    },
+    {
+      "id": "a2-11-q2",
+      "q": "'I lived in Galle' සහ 'I used to live in Galle' — වෙනස කුමක්ද?",
+      "options": [
+        "වෙනසක් නෑ",
+        "පළමුවැන්න දැන් ඇත්තද කියලා කිසිවක් කියන්නේ නෑ; දෙවැන්නෙන් දැන් ඇත්ත නෑ කියලා පැහැදිලිවම කියවෙනවා",
+        "දෙවැන්න වැරදියි",
+        "පළමුවැන්න දැන් ගැන"
+      ],
+      "answer": 1,
+      "explainSi": "'used to' යෙදුවම, එය දැන් අවසන් වෙලා කියලා ස්ථිරවම කියවෙනවා."
+    },
+    {
+      "id": "a2-11-q3",
+      "q": "'I used to go to the concert last night' වැරදි වන්නේ ඇයි?",
+      "options": [
+        "'concert' වැරදි වචනය",
+        "එකපාරක් සිද්ධ වුණු දෙයකට 'used to' යෙදෙන්නේ නෑ",
+        "'last night' අන්තිමට යා නොහැක",
+        "වැරදි නෑ"
+      ],
+      "answer": 1,
+      "explainSi": "'used to' නැවත නැවත සිද්ධ වුණු දේවලට හෝ දිගු කාලයක් තිබූ තත්ත්වයකට — එකපාරකට නෙවෙයි."
+    },
+    {
+      "id": "a2-11-q4",
+      "q": "'She ___ (not) smoke.' — නැහැ කියද්දී?",
+      "options": [
+        "didn't used to smoke",
+        "didn't use to smoke",
+        "doesn't used to smoke",
+        "not used to smoke"
+      ],
+      "answer": 1,
+      "explainSi": "'did' ආවම 'used' එකේ 'd' අයින් වෙනවා — 'didn't use to'.",
+      "speak": "She didn't use to smoke."
+    },
+    {
+      "id": "a2-11-q5",
+      "q": "'ළමා කාලේ ඔබ වාද්‍ය භාණ්ඩයක් වාදනය කළාද?' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "Did you used to play an instrument as a child?",
+        "Did you use to play an instrument as a child?",
+        "Do you use to play an instrument as a child?",
+        "Were you use to play an instrument as a child?"
+      ],
+      "answer": 1,
+      "explainSi": "ප්‍රශ්නයටත් 'd' අයින්: 'Did you use to...?'",
+      "speak": "Did you use to play an instrument as a child?"
+    },
+    {
+      "id": "a2-11-q6",
+      "q": "'This street ___ very quiet.' (කලින් — දැන් නෑ)",
+      "options": [
+        "is",
+        "was",
+        "used to be",
+        "uses to be"
+      ],
+      "answer": 2,
+      "explainSi": "දිගු කාලයක් තිබූ තත්ත්වයක්, දැන් වෙනස් — 'used to be'.",
+      "speak": "This street used to be very quiet."
+    },
+    {
+      "id": "a2-11-q7",
+      "q": "'used to' සහ 'be used to' අතර වෙනස කුමක්ද?",
+      "options": [
+        "වෙනසක් නෑ",
+        "'used to' කලින් තිබූ දැන් නැති පුරුද්දක්; 'be used to' දැන් හුරු පුරුදු දෙයක්",
+        "'be used to' කලින් ගැන, 'used to' දැන් ගැන",
+        "දෙකම එකම දෙය"
+      ],
+      "answer": 1,
+      "explainSi": "'I used to live in Japan' (කලින්). 'I am used to living in Japan' (දැන් හුරුයි)."
+    },
+    {
+      "id": "a2-11-q8",
+      "q": "'I visited Kandy in 2015' යනුවෙන් 'used to' යොදන්නේ නැත්තේ ඇයි?",
+      "options": [
+        "'Kandy' ලොකු අකුරින් නිසා",
+        "'in 2015' නිශ්චිත එක් දිනයක් — 'used to' යෙදෙන්නේ නැවත නැවත සිද්ධ වූ දේවලට",
+        "'visited' වැරදි ස්වරූපය",
+        "වැරදි නෑ, 'used to' යෙදෙන්නත් පුළුවන්"
+      ],
+      "answer": 1,
+      "explainSi": "'in 2015' කියන එකෙන් එකපාරක්, දිනයක් සහිත සිද්ධියක් කියලා පේනවා."
+    },
+    {
+      "id": "a2-11-q9",
+      "q": "'used to' බොහෝ විට එකට යෙදෙන වචන දෙක?",
+      "options": [
+        "'yesterday' සහ 'last night'",
+        "'but now' සහ 'these days'",
+        "'in 2015' සහ 'once'",
+        "'never' සහ 'ever'"
+      ],
+      "answer": 1,
+      "explainSi": "අතීතය දැන් සමඟ සංසන්දනය කරන්න 'but now'/'these days' ස්වාභාවික."
+    },
+    {
+      "id": "a2-11-q10",
+      "q": "'කලින් රස කුළු කෑමට කැමති වුණේ නෑ' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "I don't used to like spicy food.",
+        "I didn't use to like spicy food.",
+        "I usedn't to like spicy food.",
+        "I didn't used to like spicy food."
+      ],
+      "answer": 1,
+      "explainSi": "'didn't use to' — 'd' අකුර නෑ.",
+      "speak": "I didn't use to like spicy food."
+    },
+    {
+      "id": "a2-11-q11",
+      "context": "I lived in Nugegoda until I was fifteen, and I hadn't been back in twelve years. Last week, for my cousin's wedding, I finally went back.",
+      "contextSi": "මම අවුරුදු පහළොව වෙනකම් නුගේගොඩ ජීවත් වුණා, අවුරුදු දොළහක් තිස්සේ ආපහු ගියේ නෑ. පහුගිය සතියේ, මගේ නෑනාගේ මංගල උත්සවයට, අන්තිමට මම ආපහු ගියා.",
+      "q": "කතාව අනුව: කථකයා නුගේගොඩට ආපහු ගියේ ඇයි, කොපමණ කාලයකින්ද?",
+      "options": [
+        "නිවාඩුවකට, සති දෙකකින්",
+        "නෑනාගේ මංගල උත්සවයට, අවුරුදු දොළහකින්",
+        "රැකියාවකට, අවුරුද්දකින්",
+        "ගෙයක් හදන්න"
+      ],
+      "answer": 1,
+      "explainSi": "'for my cousin's wedding … hadn't been back in twelve years.'"
+    },
+    {
+      "id": "a2-11-q12",
+      "context": "There used to be a small bookshop on the corner of our street, run by an old man everyone called Uncle Sarath. He used to let us read comics for free if we promised not to bend the pages.",
+      "contextSi": "අපේ පාරේ කොනේ පොඩි පොත් කඩයක් තිබුණා, කවුරුත් 'සරත් මාමා' කියලා කථා කරන මහත්තයෙක් හදාගෙන ගිය. පිටු නොහකුළනවා කියලා පොරොන්දු වුණොත් අපිට කොමික් නොමිලේ කියවන්න එයා ඉඩ දුන්නා.",
+      "q": "කතාව අනුව: සරත් මාමා ළමයින්ට කුමන කොන්දේසිය යටතේ කොමික් නොමිලේ දුන්නාද?",
+      "options": [
+        "කොමික් ආපහු ගෙනාවොත්",
+        "පිටු නොහකුළනවා කියලා පොරොන්දු වුණොත්",
+        "එයාට උදව් කළොත්",
+        "සතියකට එකක් විතරයි කියවනවා නම්"
+      ],
+      "answer": 1,
+      "explainSi": "'if we promised not to bend the pages.'"
+    },
+    {
+      "id": "a2-11-q13",
+      "context": "The shop is a mobile phone repair place now. I asked the young man inside if he knew what happened to Uncle Sarath. He didn't recognise the name.",
+      "contextSi": "දැන් ඒ තැන ජංගම දුරකථන අලුත්වැඩියා තැනක්. එතුළ ඉන්න තරුණයාගෙන් මම ඇහුවා සරත් මාමාට මොකද වුණේ කියලා දන්නවාද කියලා. එයාට ඒ නම හඳුනාගන්න බැරි වුණා.",
+      "q": "කතාව අනුව: පොත් කඩය දැන් මොකද්ද, සහ තරුණයාට සරත් මාමා ගැන දැනගෙන හිටියාද?",
+      "options": [
+        "දැනුත් පොත් කඩයක්, තරුණයා දැනගෙන හිටියා",
+        "දුරකථන අලුත්වැඩියා තැනක්, තරුණයා දැනගෙන හිටියේ නෑ",
+        "හිස් ඉඩමක්, තරුණයා දැනගෙන හිටියා",
+        "දුරකථන අලුත්වැඩියා තැනක්, තරුණයාම සරත් මාමා"
+      ],
+      "answer": 1,
+      "explainSi": "'is a mobile phone repair place now … He didn't recognise the name.'"
+    },
+    {
+      "id": "a2-11-q14",
+      "context": "We used to have one small shop for everything — rice, soap, sweets, ice. Now there are three supermarkets within five minutes of each other, and I didn't recognise any of them.",
+      "contextSi": "අපිට හැම දෙයටම එකම පොඩි කඩයක් තිබුණා — බත්, සබන්, රස කැවිලි, අයිස්. දැන් විනාඩි පහක් ඇතුළත සුපිරි වෙළඳසැල් තුනක් තියෙනවා, එකකවත් මට හඳුනාගන්න බැරි වුණා.",
+      "q": "කතාව අනුව: කඩ ගණන සහ වර්ගය කොහොමද වෙනස් වුණේ?",
+      "options": [
+        "එකම කඩය තව ලොකු වුණා",
+        "පොඩි කඩයක සිට සුපිරි වෙළඳසැල් තුනක් දක්වා",
+        "කඩ තුනේ සිට එකක් දක්වා",
+        "වෙනසක් වුණේ නෑ"
+      ],
+      "answer": 1,
+      "explainSi": "'one small shop for everything' → 'three supermarkets'."
+    },
+    {
+      "id": "a2-11-q15",
+      "context": "The one thing that hadn't changed was the temple at the end of the road. It used to look enormous to me as a child. Now it looks exactly the right size.",
+      "contextSi": "වෙනස් නොවුණු එකම දෙය පාරේ කෙළවරේ පන්සල. ළමා කාලේ එය මට හරිම ලොකුයි වගේ පේනවා තිබුණා. දැන් හරිම ප්‍රමාණයට වගේ පේනවා.",
+      "q": "කතාව අනුව: පන්සල මොකද වෙනස් නොවුණේ, ඇයි එය කථකයාට 'හරිම ප්‍රමාණයට' පේනවා දැන්?",
+      "options": [
+        "පන්සල ලොකු කරලා",
+        "පන්සල එහෙමම, නමුත් කථකයා ලොකු වුණා",
+        "පන්සල පොඩි කරලා",
+        "දන්නේ නෑ"
+      ],
+      "answer": 1,
+      "explainSi": "'used to look enormous to me as a child' — ලොකුවෙන් පේනවා තිබුණේ ළමයෙක් නිසා. පන්සල නෙවෙයි වෙනස් වුණේ."
+    },
+    {
+      "id": "a2-11-q16",
+      "context": "I didn't expect to feel sad about a bookshop I hadn't thought about in years. But I did. These days, apparently, everyone reads on their phone.",
+      "contextSi": "අවුරුදු ගණනක් හිතුවේවත් නැති පොත් කඩයක් ගැන දුකක් දැනෙයි කියලා මම බලාපොරොත්තු වුණේ නෑ. හැබැයි දැනුණා. දැන් කාලේ, පේනවා විදිහට, හැමෝම කියවන්නේ දුරකථනයෙන්.",
+      "q": "කතාව අනුව: කථකයාට පුදුමයක් වුණේ මොකක් ගැනද?",
+      "options": [
+        "අලුත් සුපිරි වෙළඳසැල් ගැන",
+        "අවුරුදු ගණනක් හිතාවත් නැති පොත් කඩයක් ගැන දුකක් දැනුණු එක",
+        "පන්සල එහෙමම තිබූ එක",
+        "නෑනාගේ මංගල උත්සවය"
+      ],
+      "answer": 1,
+      "explainSi": "'I didn't expect to feel sad … But I did.'"
+    },
+    {
+      "id": "a2-11-q17",
+      "context": "We used to run down this same street, / Barefoot, before the rain. / The house that used to be all ours / Has someone else's name.",
+      "contextSi": "අපි මේ එකම පාරේ දුවපු, / වැහි එන්න කලින්, පාවහන් නැතුව. / එදා අපේම වුණ ගෙදර / දැන් වෙන කෙනෙකුගේ නමක්.",
+      "q": "කවියේ පළමු කොටසේ 'used to' කීපවතාවක් යෙදෙන්නේ ඇයි?",
+      "options": [
+        "පදවැල ගැළපෙන්න",
+        "එදා තිබූ, දැන් වෙනස් වූ දේවල් ගණන් කරනවා — දුවීම, ගෙදර අයිතිය",
+        "අතීතය ගැන කථා කරන්න වෙනත් ක්‍රමයක් නැති නිසා",
+        "එය අනාගතය ගැන"
+      ],
+      "answer": 1,
+      "explainSi": "'used to run' සහ 'used to be all ours' — දෙකම දැන් වෙනස් වූ දේවල්."
+    },
+    {
+      "id": "a2-11-q18",
+      "context": "I didn't use to notice doors, / Now I count every one. / The street's the same. I am the one / Whose running days are done.",
+      "contextSi": "දොරවල් මම කවදාවත් බැලුවේ නෑ, / දැන් හැම දොරක්ම ගණන් කරනවා. / පාර එහෙමම. මම තමයි / දුවන දවස් ඉවර වුණ කෙනා.",
+      "q": "කවියේ අන්තිම කොටසේ 'The street's the same. I am the one …' කියන එකෙන් අදහස් වන්නේ කුමක්ද?",
+      "options": [
+        "පාර වෙනස් වුණා",
+        "වෙනස් වුණේ පාර නෙවෙයි, කථකයාම",
+        "පාර නැති වෙලා",
+        "කථකයාට දුවන්න ලේසියි"
+      ],
+      "answer": 1,
+      "explainSi": "'The street's the same' — වෙනස වෙන්නේ කථකයාගේ පැත්තෙන්, ස්ථානයේ නෙවෙයි."
+    },
+    {
+      "id": "a2-11-q19",
+      "context": "Manoj: Did you use to grow the vegetables yourself?\nOwner: We did, actually. But my father stopped farming about ten years ago, when his knees got bad.",
+      "contextSi": "මනෝජ්: ඔබම එළවලු වවනවාද?\nකඩහිමියා: ඇත්තටම, කළා. හැබැයි තාත්තා අවුරුදු දහයකට විතර කලින් වගාව නැවැත්තුවා, එයාගේ දණහිස් අමාරු වුණාම.",
+      "q": "සංවාදයේ: තාත්තා වගාව නැවැත්තුවේ ඇයි?",
+      "options": [
+        "එයාට එළවලු අකමැති නිසා",
+        "එයාගේ දණහිස් අමාරු වුණ නිසා",
+        "කඩේට ඉඩ නැති නිසා",
+        "එළවලු මිල අඩු වුණ නිසා"
+      ],
+      "answer": 1,
+      "explainSi": "'when his knees got bad' — හේතුව එතන."
+    },
+    {
+      "id": "a2-11-q20",
+      "context": "Manoj: I didn't use to come here much, but I remember it being tiny.\nOwner: It was. Now we sell everything, and we deliver too. Things have changed a lot.",
+      "contextSi": "මනෝජ්: මම කලින් එහෙම මෙතනට ආවේ නෑ, හැබැයි පොඩියි කියලා මතකයි.\nකඩහිමියා: ඔව්. දැන් අපි හැම දෙයක්ම විකුණනවා, බෙදාහරිනවත් කරනවා. දේවල් ගොඩක් වෙනස් වෙලා.",
+      "q": "සංවාදයේ: කඩේ දැන් කලින්ට වඩා විශාල වීම කොහොමද පේනවාද?",
+      "options": [
+        "එළවලු විතරක් විකුණන නිසා",
+        "හැම දෙයක්ම විකුණන නිසා, සහ බෙදාහැරීම් සේවාවක් තියෙන නිසා",
+        "කඩේ පොඩි වුණ නිසා",
+        "දැන් වගාවක් නැති නිසා"
+      ],
+      "answer": 1,
+      "explainSi": "'Now we sell everything, and we deliver too.'"
+    },
+    {
+      "id": "a2-11-q21",
+      "q": "කුමන වාක්‍යය වැරදිද?",
+      "options": [
+        "I used to play cricket every weekend.",
+        "Did you use to live abroad?",
+        "She didn't used to smoke.",
+        "We used to visit my aunt every Sunday."
+      ],
+      "answer": 2,
+      "explainSi": "'She didn't use to smoke' විය යුතුයි — 'did' ආවම 'used' එකේ 'd' අයින්."
+    },
+    {
+      "id": "a2-11-q22",
+      "q": "'මේ ප්‍රදේශය කලින් කුඹුරු වලින් පිරිලා තිබුණා, දැන් හැම තැනකම ගෙවල්' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "This area is full of paddy fields, but now there are houses everywhere.",
+        "This area used to be full of paddy fields, but now there are houses everywhere.",
+        "This area use to be full of paddy fields, but now there are houses everywhere.",
+        "This area was used to full of paddy fields."
+      ],
+      "answer": 1,
+      "explainSi": "දිගු කාලයක් තිබූ තත්ත්වයක්, දැන් වෙනස් — 'used to be'.",
+      "speak": "This area used to be full of paddy fields, but now there are houses everywhere."
+    }
+  ]
+}

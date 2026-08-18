@@ -1,0 +1,883 @@
+{
+  "hero": {
+    "src": "images/a1-21-hero.webp",
+    "alt": "Ruwan waiting at a bus stop holding a ticket, a red bus pulling in behind him, a three-wheeler parked at the kerb, busy street."
+  },
+  "goalsSi": [
+    "ප්‍රවාහන වචන — bus, train, three-wheeler, plane",
+    "by bus, on foot — ක්‍රමය කියන ආකාරය",
+    "on the bus සහ in the car — ඇතුළේ ඉන්නවා කියන ආකාරය",
+    "take, catch, miss, get on, get off",
+    "ටිකට් ගැනීම සහ වෙලාව ඇසීම",
+    "How do you get to work?"
+  ],
+  "goals": [
+    "Name every kind of transport",
+    "Choose by, on or in correctly",
+    "Catch, miss and get off a bus",
+    "Buy a ticket and ask about times"
+  ],
+  "sections": [
+    {
+      "type": "note",
+      "title": "Big vehicles take on, small ones take in",
+      "titleSi": "ලොකු වාහනවලට on, පොඩි ඒවාට in",
+      "bodySi": "ප්‍රවාහනය ගැන කථා කරද්දී පෙරනිමිති තුනක් යෙදෙනවා, ඒවා පටලවා ගන්න ලේසියි. නමුත් ඇත්තටම නීතියක් තියෙනවා.\n\n1. ක්‍රමය කියනවා නම් — by\n   I go to work by bus. by train. by car. by plane.\n   මෙතන 'the' නෑ. 'by the bus' කියලා කියන්නේ නෑ.\n\n2. ඇවිදිනවා නම් — on foot\n   I go to school on foot. — 'by foot' නෙවෙයි. මේක එකම ව්‍යතිරේකයයි.\n\n3. දැන් ඇතුළේ ඉන්නවා නම් — on හෝ in\n   ලොකු වාහනයක්, ඇතුළේ නැගිටලා ඇවිදින්න පුළුවන් නම් — on:\n   on the bus, on the train, on a plane\n   පොඩි වාහනයක්, ඇතුළට රිංගන්න ඕන නම් — in:\n   in the car, in a three-wheeler, in a van\n\nඑනිසා: 'I go by bus' (ක්‍රමය) සහ 'I am on the bus' (දැන් ඇතුළේ) — දෙකම හරි, දෙකම වෙනස්.",
+      "body": "by + method, on foot, on a big vehicle, in a small one."
+    },
+    {
+      "type": "grammar",
+      "title": "by, on foot, on and in",
+      "titleSi": "by, on foot, on සහ in",
+      "explainSi": "ක්‍රමය නම් by, ඇතුළේ නම් on/in. වාහනයේ ලොකු කුඩා බව අනුව on ද in ද කියලා තෝරන්න.",
+      "formula": "by + vehicle (no the)  ·  on foot  ·  on the bus / in the car",
+      "table": {
+        "headers": [
+          "ක්‍රමය",
+          "ඇතුළේ",
+          "සිංහල"
+        ],
+        "rows": [
+          [
+            "by bus",
+            "on the bus",
+            "බස් එකෙන් / බස් එකේ"
+          ],
+          [
+            "by train",
+            "on the train",
+            "කෝච්චියෙන් / කෝච්චියේ"
+          ],
+          [
+            "by plane",
+            "on a plane",
+            "ගුවන් යානයෙන් / යානයේ"
+          ],
+          [
+            "by car",
+            "in the car",
+            "කාරෙන් / කාරෙකේ"
+          ],
+          [
+            "by three-wheeler",
+            "in a three-wheeler",
+            "ත්‍රීවීලරෙන් / ත්‍රීවීලරේ"
+          ],
+          [
+            "by bicycle",
+            "on a bicycle",
+            "බයිසිකලයෙන් / බයිසිකලයේ"
+          ],
+          [
+            "on foot",
+            "—",
+            "පයින්"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "I go to work by bus, but today I am on the train.",
+          "si": "මම බස් එකෙන් වැඩට යනවා, හැබැයි අද මම කෝච්චියේ."
+        },
+        {
+          "en": "She goes to school on foot because it is only ten minutes.",
+          "si": "එයා පයින් පාසල් යනවා, මොකද විනාඩි දහයයි."
+        },
+        {
+          "en": "There were five of us in the three-wheeler.",
+          "si": "ත්‍රීවීලරේ අපි පස්දෙනෙක් හිටියා."
+        }
+      ],
+      "watchOutSi": "'by the bus' සහ 'by foot' දෙකම වැරදියි. 'by bus' — 'the' නෑ. පයින් නම් 'on foot'."
+    },
+    {
+      "type": "grammar",
+      "title": "take, catch, miss",
+      "titleSi": "take, catch, miss",
+      "explainSi": "ක්‍රියා තුනක්, තුනම බස් සහ කෝච්චි සමඟ. අර්ථ තුනක්.",
+      "formula": "take = use it  ·  catch = get there in time  ·  miss = it left without you",
+      "table": {
+        "headers": [
+          "ක්‍රියාව",
+          "අර්ථය",
+          "උදාහරණය"
+        ],
+        "rows": [
+          [
+            "take",
+            "පාවිච්චි කරනවා",
+            "I take the 138 every day."
+          ],
+          [
+            "catch",
+            "වෙලාවට අල්ලනවා",
+            "I ran and caught the last bus."
+          ],
+          [
+            "miss",
+            "මඟහැරෙනවා",
+            "She missed the train by two minutes."
+          ],
+          [
+            "get on",
+            "නගිනවා (ලොකු වාහන)",
+            "Get on at the next stop."
+          ],
+          [
+            "get off",
+            "බහිනවා (ලොකු වාහන)",
+            "Get off at the temple."
+          ],
+          [
+            "get in / get out of",
+            "නගිනවා / බහිනවා (කාර්)",
+            "He got in and shut the door."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "Hurry, or we'll miss the bus.",
+          "si": "ඉක්මන් කරන්න, නැත්නම් බස් එක මඟහැරෙයි."
+        },
+        {
+          "en": "Where do I get off for the hospital?",
+          "si": "රෝහලට යන්න මම කොහෙන්ද බහින්නේ?"
+        },
+        {
+          "en": "I catch the 6.40 every morning.",
+          "si": "හැම උදෑසනකම මම 6.40 එකට නගිනවා."
+        }
+      ],
+      "watchOutSi": "බස් එකෙන් බහින්නේ 'get off', 'get down' නෙවෙයි. කාරෙකෙන් නම් 'get out'."
+    },
+    {
+      "type": "vocab",
+      "title": "Getting there",
+      "titleSi": "යන එන එක",
+      "items": [
+        {
+          "en": "bus stop",
+          "si": "බස් නැවතුම",
+          "say": "බස් ස්ටොප්"
+        },
+        {
+          "en": "station",
+          "si": "දුම්රියපොළ",
+          "say": "ස්ටේෂන්"
+        },
+        {
+          "en": "platform",
+          "si": "වේදිකාව",
+          "say": "ප්ලැට්ෆෝම්"
+        },
+        {
+          "en": "ticket",
+          "si": "ටිකට් එක",
+          "say": "ටිකට්"
+        },
+        {
+          "en": "return ticket",
+          "si": "යන එන ටිකට් එක",
+          "say": "රිටර්න් ටිකට්"
+        },
+        {
+          "en": "three-wheeler",
+          "si": "ත්‍රීවීලරය",
+          "say": "ත්‍රී වීලර්"
+        },
+        {
+          "en": "driver",
+          "si": "රියදුරු",
+          "say": "ඩ්‍රයිවර්"
+        },
+        {
+          "en": "conductor",
+          "si": "කොන්දොස්තර",
+          "say": "කන්ඩක්ටර්"
+        },
+        {
+          "en": "seat",
+          "si": "ආසනය",
+          "say": "සීට්"
+        },
+        {
+          "en": "crowded",
+          "si": "පිරුණු",
+          "say": "ක්‍රවුඩඩ්"
+        },
+        {
+          "en": "journey",
+          "si": "ගමන",
+          "say": "ජර්නි"
+        },
+        {
+          "en": "far",
+          "si": "දුර",
+          "say": "ෆාර්"
+        },
+        {
+          "en": "near",
+          "si": "ළඟ",
+          "say": "නියර්"
+        },
+        {
+          "en": "traffic",
+          "si": "රථවාහන තදබදය",
+          "say": "ට්‍රැෆික්"
+        },
+        {
+          "en": "on time",
+          "si": "වෙලාවට",
+          "say": "ඔන් ටයිම්"
+        },
+        {
+          "en": "late",
+          "si": "පරක්කු",
+          "say": "ලේට්"
+        },
+        {
+          "en": "change (buses)",
+          "si": "බස් මාරු කරනවා",
+          "say": "චේන්ජ්"
+        },
+        {
+          "en": "next stop",
+          "si": "ඊළඟ නැවතුම",
+          "say": "නෙක්ස්ට් ස්ටොප්"
+        }
+      ]
+    },
+    {
+      "type": "grammar",
+      "title": "How do you get to work?",
+      "titleSi": "How do you get to work?",
+      "explainSi": "'get to' යනු 'යනවා' කියන එකට වඩා ස්වාභාවිකයි ගමන ගැන අහද්දී. 'How long does it take?' කාලය අහනවා.",
+      "formula": "How do you get to …?  ·  How long does it take?",
+      "table": {
+        "headers": [
+          "ප්‍රශ්නය",
+          "පිළිතුර"
+        ],
+        "rows": [
+          [
+            "How do you get to work?",
+            "By bus. / I walk."
+          ],
+          [
+            "How long does it take?",
+            "About forty minutes."
+          ],
+          [
+            "How far is it?",
+            "Twelve kilometres."
+          ],
+          [
+            "Which bus goes to Kandy?",
+            "The 1 or the 17."
+          ],
+          [
+            "Where do I change?",
+            "At Nittambuwa."
+          ],
+          [
+            "What time is the next one?",
+            "In twenty minutes."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "How do you get to the office? — I take two buses and then I walk.",
+          "si": "ඔබ කාර්යාලයට යන්නේ කොහොමද? — බස් දෙකකට නගිනවා, ඊට පස්සේ ඇවිදිනවා."
+        },
+        {
+          "en": "It takes an hour on a good day.",
+          "si": "හොඳ දවසක නම් පැයක් යනවා."
+        }
+      ],
+      "watchOutSi": "'It takes' යනු කාලය ගැන — 'I take' යනු ඔබ පාවිච්චි කරන දේ ගැන. 'It takes an hour' සහ 'I take the bus' දෙකම හරි, දෙකම වෙනස්."
+    },
+    {
+      "type": "story",
+      "title": "The Wrong Bus",
+      "titleSi": "වැරදි බස් එක",
+      "introSi": "ගමනක් වැරදෙන කතාවක්. catch, miss, get on, get off — ඒවා තමයි කතාව ගෙනියන්නේ.",
+      "paragraphs": [
+        {
+          "en": "My cousin Nuwan came from Matara to visit us. He doesn't know Colombo, so I told him: take the 138 and get off at the third stop after the bridge.",
+          "si": "මගේ මස්සිනා නුවන් අපිව බලන්න මාතරින් ආවා. එයා කොළඹ දන්නේ නෑ, එනිසා මම කිව්වා: 138 එකට නැගලා පාලමට පස්සේ තුන්වෙනි නැවතුමෙන් බහින්න කියලා."
+        },
+        {
+          "en": "He caught the bus, but he got on the wrong one. The number was 138, but it was going the other way.",
+          "si": "එයා බස් එකට නැගලා, හැබැයි වැරදි එකට. අංකය 138 තමයි, හැබැයි ඒක යමින් හිටියේ අනිත් පැත්තට."
+        },
+        {
+          "en": "For twenty minutes he was happy. Then the bridge did not come. He asked the conductor, and the conductor laughed and said, \"You want the other side. Get off here.\"",
+          "si": "විනාඩි විස්සක් එයා සතුටින්. එතකොට පාලම ආවේ නෑ. එයා කොන්දොස්තරගෙන් ඇහුවා, කොන්දොස්තර හිනාවෙලා කිව්වා, \"ඔබට ඕන අනිත් පැත්ත. මෙතනින් බහින්න.\""
+        },
+        {
+          "en": "So he got off, crossed the road and waited. Three buses came, and all three were full. He didn't get on any of them, because he is a polite man from Matara and he was waiting for a queue.",
+          "si": "එහෙනම් එයා බැහැලා, පාර හරහා ගිහින්, බලාගෙන හිටියා. බස් තුනක් ආවා, තුනම පිරිලා. එයා එකකටවත් නැග්ගේ නෑ, මොකද එයා මාතරින් ආපු ආචාරශීලී මිනිසෙක්, පෝලිමකට බලාගෙන හිටියා."
+        },
+        {
+          "en": "In Colombo there is no queue at a bus stop. There is only a door and forty people. He missed four buses in half an hour.",
+          "si": "කොළඹ බස් නැවතුමක පෝලිමක් නෑ. තියෙන්නේ දොරක් සහ මිනිස්සු හතළිහක් විතරයි. පැය භාගයකින් එයාට බස් හතරක් මඟහැරුණා."
+        },
+        {
+          "en": "In the end he took a three-wheeler. It cost him nine hundred rupees, and the bus is thirty. When he arrived he said one sentence: \"Your city is not difficult. It is just faster than me.\"",
+          "si": "අන්තිමට එයා ත්‍රීවීලරයක් ගත්තා. එයාට රුපියල් නවසීයක් ගියා, බස් එක තිහයි. ආපු ගමන් එයා එක වාක්‍යයක් කිව්වා: \"ඔබේ නගරය අමාරු නෑ. ඒක මට වඩා වේගවත් විතරයි.\""
+        }
+      ],
+      "glossary": [
+        {
+          "en": "cousin",
+          "si": "මස්සිනා"
+        },
+        {
+          "en": "bridge",
+          "si": "පාලම"
+        },
+        {
+          "en": "the other way",
+          "si": "අනිත් පැත්තට"
+        },
+        {
+          "en": "conductor",
+          "si": "කොන්දොස්තර"
+        },
+        {
+          "en": "cross",
+          "si": "හරහා යනවා"
+        },
+        {
+          "en": "queue",
+          "si": "පෝලිම"
+        },
+        {
+          "en": "in the end",
+          "si": "අන්තිමට"
+        },
+        {
+          "en": "arrive",
+          "si": "පැමිණෙනවා"
+        }
+      ],
+      "questionsSi": [
+        "නුවන්ට කිව්වේ මොකක්ද, එයා කළේ මොකක්ද?",
+        "බස් එකේ අංකය හරි වුණත් වැරදුණේ ඇයි?",
+        "එයාට බස් හතරක් මඟහැරුණේ ඇයි?",
+        "අන්තිම වාක්‍යයෙන් එයා කියන්නේ මොකක්ද?"
+      ]
+    },
+    {
+      "type": "poem",
+      "title": "The 6.40",
+      "titleSi": "6.40 එක",
+      "introSi": "හැම දාම එකම ගමන ගැන කවියක්.",
+      "lines": [
+        {
+          "en": "I catch the same bus every day.",
+          "si": "හැම දාම මම එකම බස් එකට නගිනවා."
+        },
+        {
+          "en": "The same man has my seat.",
+          "si": "එකම මිනිහා මගේ ආසනයේ."
+        },
+        {
+          "en": "We've never said a word to each other.",
+          "si": "අපි එකිනෙකාට වචනයක් කිව්වේ නෑ."
+        },
+        {
+          "en": "We nod, and that's complete.",
+          "si": "අපි හිස සලනවා, ඒක සම්පූර්ණයි."
+        },
+        {
+          "en": "",
+          "si": ""
+        },
+        {
+          "en": "One morning he was not on board.",
+          "si": "එක් උදෑසනක එයා බස් එකේ හිටියේ නෑ."
+        },
+        {
+          "en": "The seat stayed there, and free.",
+          "si": "ආසනය එතන, හිස්ව."
+        },
+        {
+          "en": "I didn't sit. I stood the whole way.",
+          "si": "මම ඉඳගත්තේ නෑ. මුළු ගමනම නැගිටගෙන."
+        },
+        {
+          "en": "I don't know why. Do we?",
+          "si": "ඇයි කියලා දන්නේ නෑ. අපි දන්නවාද?"
+        }
+      ],
+      "noteSi": "'on board' යනු 'වාහනයේ ඇතුළේ'. බස්, කෝච්චි, යානා — ලොකු වාහනවලට on."
+    },
+    {
+      "type": "dialogue",
+      "title": "At the ticket counter",
+      "titleSi": "ටිකට් කවුන්ටරයේදී",
+      "settingSi": "ටිකට් එකක් ගැනීම සහ වෙලාව ඇසීම.",
+      "lines": [
+        {
+          "speaker": "Traveller",
+          "en": "One ticket to Galle, please. What time is the next train?",
+          "si": "ගාල්ලට ටිකට් එකක්. ඊළඟ කෝච්චිය කීයටද?"
+        },
+        {
+          "speaker": "Clerk",
+          "en": "Single or return?",
+          "si": "යන එක විතරද, යන එනවාද?"
+        },
+        {
+          "speaker": "Traveller",
+          "en": "Return, please. I'm coming back on Sunday.",
+          "si": "යන එන එකක්. ඉරිදා ආපහු එනවා."
+        },
+        {
+          "speaker": "Clerk",
+          "en": "The next one is at 9.20 from platform two. It takes about two and a half hours.",
+          "si": "ඊළඟ එක 9.20ට, වේදිකා දෙකෙන්. පැය දෙකහමාරක් විතර යනවා."
+        },
+        {
+          "speaker": "Traveller",
+          "en": "Is it direct, or do I have to change?",
+          "si": "කෙළින්ම යනවාද, මාරු වෙන්න ඕනද?"
+        },
+        {
+          "speaker": "Clerk",
+          "en": "Direct. But get on at the front — the back carriages are always crowded.",
+          "si": "කෙළින්ම. හැබැයි ඉස්සරහින් නගින්න — පිටිපස්සේ මැදිරි හැම විටම පිරිලා."
+        },
+        {
+          "speaker": "Traveller",
+          "en": "Thank you. And where do I get off for the fort?",
+          "si": "ස්තූතියි. කොටුවට යන්න මම කොහෙන්ද බහින්නේ?"
+        },
+        {
+          "speaker": "Clerk",
+          "en": "Galle is the last stop. You can't miss it.",
+          "si": "ගාල්ල අන්තිම නැවතුම. මඟහරින්න බෑ."
+        }
+      ]
+    },
+    {
+      "type": "practice",
+      "title": "by, on or in?",
+      "titleSi": "by, on නැත්නම් in?",
+      "instructionSi": "ක්‍රමය ගැනද, ඇතුළේ ඉන්නවා ගැනද කියලා බලන්න. වාහනය ලොකුද පොඩිද කියලාත් බලන්න.",
+      "items": [
+        {
+          "prompt": "I go to work ___ bus.",
+          "answer": "by",
+          "hintSi": "ක්‍රමය — 'the' නෑ.",
+          "full": "I go to work by bus."
+        },
+        {
+          "prompt": "She walks. She goes ___ foot.",
+          "answer": "on",
+          "hintSi": "'by foot' නෙවෙයි.",
+          "full": "She goes on foot."
+        },
+        {
+          "prompt": "I'm ___ the train now.",
+          "answer": "on",
+          "hintSi": "කෝච්චිය ලොකුයි.",
+          "full": "I'm on the train now."
+        },
+        {
+          "prompt": "There were four of us ___ the car.",
+          "answer": "in",
+          "hintSi": "කාර් එක පොඩියි.",
+          "full": "There were four of us in the car."
+        },
+        {
+          "prompt": "We came ___ three-wheeler.",
+          "answer": "by",
+          "hintSi": "ක්‍රමය.",
+          "full": "We came by three-wheeler."
+        },
+        {
+          "prompt": "Get ___ at the temple.",
+          "answer": "off",
+          "hintSi": "බස් එකෙන් බහිනවා.",
+          "full": "Get off at the temple."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "en": "bus stop",
+      "si": "බස් නැවතුම"
+    },
+    {
+      "en": "station",
+      "si": "දුම්රියපොළ"
+    },
+    {
+      "en": "platform",
+      "si": "වේදිකාව"
+    },
+    {
+      "en": "ticket",
+      "si": "ටිකට් එක"
+    },
+    {
+      "en": "return ticket",
+      "si": "යන එන ටිකට් එක"
+    },
+    {
+      "en": "three-wheeler",
+      "si": "ත්‍රීවීලරය"
+    },
+    {
+      "en": "conductor",
+      "si": "කොන්දොස්තර"
+    },
+    {
+      "en": "seat",
+      "si": "ආසනය"
+    },
+    {
+      "en": "crowded",
+      "si": "පිරුණු"
+    },
+    {
+      "en": "journey",
+      "si": "ගමන"
+    },
+    {
+      "en": "traffic",
+      "si": "රථවාහන තදබදය"
+    },
+    {
+      "en": "on time",
+      "si": "වෙලාවට"
+    },
+    {
+      "en": "catch",
+      "si": "අල්ලනවා / නගිනවා"
+    },
+    {
+      "en": "miss",
+      "si": "මඟහැරෙනවා"
+    },
+    {
+      "en": "get on",
+      "si": "නගිනවා"
+    },
+    {
+      "en": "get off",
+      "si": "බහිනවා"
+    },
+    {
+      "en": "change (buses)",
+      "si": "බස් මාරු කරනවා"
+    },
+    {
+      "en": "bridge",
+      "si": "පාලම"
+    },
+    {
+      "en": "arrive",
+      "si": "පැමිණෙනවා"
+    },
+    {
+      "en": "carriage",
+      "si": "මැදිරිය"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "a1-21-q1",
+      "q": "'මම බස් එකෙන් වැඩට යනවා' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "I go to work by the bus.",
+        "I go to work by bus.",
+        "I go to work on bus.",
+        "I go to work in bus."
+      ],
+      "answer": 1,
+      "explainSi": "ක්‍රමය කියද්දී 'by' — සහ 'the' යෙදෙන්නේ නෑ.",
+      "speak": "I go to work by bus."
+    },
+    {
+      "id": "a1-21-q2",
+      "q": "'එයා පයින් යනවා' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "She goes by foot.",
+        "She goes on foot.",
+        "She goes in foot.",
+        "She goes with foot."
+      ],
+      "answer": 1,
+      "explainSi": "අනිත් හැම එකකටම 'by', හැබැයි පයින් නම් 'on foot'. එකම ව්‍යතිරේකය.",
+      "speak": "She goes on foot."
+    },
+    {
+      "id": "a1-21-q3",
+      "q": "'I'm ___ the train now.' — හිස්තැනට?",
+      "options": [
+        "in",
+        "on",
+        "by",
+        "at"
+      ],
+      "answer": 1,
+      "explainSi": "දැන් ඇතුළේ ඉන්නවා නම් — ලොකු වාහනවලට 'on'."
+    },
+    {
+      "id": "a1-21-q4",
+      "q": "'There were four of us ___ the car.' — හිස්තැනට?",
+      "options": [
+        "on",
+        "in",
+        "by",
+        "at"
+      ],
+      "answer": 1,
+      "explainSi": "කාර් එක පොඩියි — ඇතුළට රිංගනවා, එනිසා 'in'."
+    },
+    {
+      "id": "a1-21-q5",
+      "q": "බස් එකට 'on' සහ කාර් එකට 'in' යෙදෙන්නේ ඇයි?",
+      "options": [
+        "නීතියක් නෑ, මතක තියාගන්න ඕන",
+        "ලොකු වාහනයක ඇතුළේ නැගිටලා ඇවිදින්න පුළුවන් — පොඩි එකකට රිංගන්න ඕන",
+        "බස් පොදු ප්‍රවාහන නිසා",
+        "කාර් වේගවත් නිසා"
+      ],
+      "answer": 1,
+      "explainSi": "නැගිටින්න පුළුවන් නම් on (bus, train, plane). රිංගන්න ඕන නම් in (car, van, three-wheeler)."
+    },
+    {
+      "id": "a1-21-q6",
+      "q": "'I go by bus' සහ 'I am on the bus' — වෙනස?",
+      "options": [
+        "වෙනසක් නෑ",
+        "පළමුවැන්න ක්‍රමය ගැන, දෙවැන්න දැන් කොහෙද ඉන්නේ කියලා",
+        "දෙවැන්න වැරදියි",
+        "පළමුවැන්න අතීතය"
+      ],
+      "answer": 1,
+      "explainSi": "'by bus' = කොහොමද යන්නේ. 'on the bus' = දැන් ඇතුළේ."
+    },
+    {
+      "id": "a1-21-q7",
+      "q": "'catch' සහ 'miss' අතර වෙනස?",
+      "options": [
+        "'catch' = නගිනවා, 'miss' = බහිනවා",
+        "'catch' = වෙලාවට අල්ලනවා, 'miss' = ඒක ගිහින්",
+        "දෙකම එකයි",
+        "'miss' = බස් එක නවත්තනවා"
+      ],
+      "answer": 1,
+      "explainSi": "'I caught the last bus' — වෙලාවට ගියා. 'I missed it' — ඒක මාව නැතුව ගියා."
+    },
+    {
+      "id": "a1-21-q8",
+      "q": "'රෝහලට යන්න මම කොහෙන්ද බහින්නේ?' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "Where do I get down for the hospital?",
+        "Where do I get off for the hospital?",
+        "Where do I get out for the hospital?",
+        "Where I get off for the hospital?"
+      ],
+      "answer": 1,
+      "explainSi": "බස්/කෝච්චියෙන් 'get off'. කාරෙකෙන් නම් 'get out'.",
+      "speak": "Where do I get off for the hospital?"
+    },
+    {
+      "id": "a1-21-q9",
+      "q": "'It takes an hour' සහ 'I take the bus' — 'take' එකේ අර්ථ දෙක?",
+      "options": [
+        "දෙකම එකයි",
+        "පළමුවැන්න කාලය ගැන, දෙවැන්න ඔබ පාවිච්චි කරන දේ ගැන",
+        "පළමුවැන්න වැරදියි",
+        "දෙවැන්න අතීතය"
+      ],
+      "answer": 1,
+      "explainSi": "'It takes …' කාලය. 'I take …' ප්‍රවාහනය."
+    },
+    {
+      "id": "a1-21-q10",
+      "q": "'ඔබ කාර්යාලයට යන්නේ කොහොමද?' — ස්වාභාවිකම ප්‍රශ්නය?",
+      "options": [
+        "How you go to the office?",
+        "How do you get to the office?",
+        "How do you going to the office?",
+        "Where do you get the office?"
+      ],
+      "answer": 1,
+      "explainSi": "ගමන ගැන අහද්දී 'get to' ස්වාභාවිකයි. ප්‍රශ්න ව්‍යුහයත් හරි — a1-17 හි නීතිය.",
+      "speak": "How do you get to the office?"
+    },
+    {
+      "id": "a1-21-q11",
+      "context": "He doesn't know Colombo, so I told him: take the 138 and get off at the third stop after the bridge. He caught the bus, but he got on the wrong one. The number was 138, but it was going the other way.",
+      "contextSi": "එයා කොළඹ දන්නේ නෑ, එනිසා මම කිව්වා: 138 එකට නැගලා පාලමට පස්සේ තුන්වෙනි නැවතුමෙන් බහින්න කියලා. එයා බස් එකට නැගලා, හැබැයි වැරදි එකට. අංකය 138 තමයි, හැබැයි ඒක යමින් හිටියේ අනිත් පැත්තට.",
+      "q": "කතාව අනුව: අංකය හරි වුණත් වැරදුණේ ඇයි?",
+      "options": [
+        "අංකය කියවා ගත්තේ නෑ",
+        "එකම අංකයේ බස් දෙපැත්තටම යනවා — එයා ගත්තේ ප්‍රතිවිරුද්ධ දිශාවට යන එක",
+        "බස් එක නැවතුමට ආවේ නෑ",
+        "එයාට ටිකට් තිබුණේ නෑ"
+      ],
+      "answer": 1,
+      "explainSi": "'it was going the other way' — දිශාව ගැන කවුරුවත් කිව්වේ නෑ."
+    },
+    {
+      "id": "a1-21-q12",
+      "context": "For twenty minutes he was happy. Then the bridge did not come.",
+      "contextSi": "විනාඩි විස්සක් එයා සතුටින්. එතකොට පාලම ආවේ නෑ.",
+      "q": "කතාව අනුව: 'Then the bridge did not come' කියන එකෙන් අදහස් වන්නේ?",
+      "options": [
+        "පාලම කැඩිලා",
+        "එයාට තේරෙන්න පටන් ගත්තා යමක් වැරදිලා කියලා",
+        "බස් එක නැවතුණා",
+        "එයා නිදාගත්තා"
+      ],
+      "answer": 1,
+      "explainSi": "බලාපොරොත්තු වූ ලකුණ නොආපු එකෙන් තමයි වැරැද්ද පේන්නේ."
+    },
+    {
+      "id": "a1-21-q13",
+      "context": "Three buses came, and all three were full. He didn't get on any of them, because he is a polite man from Matara and he was waiting for a queue.",
+      "contextSi": "බස් තුනක් ආවා, තුනම පිරිලා. එයා එකකටවත් නැග්ගේ නෑ, මොකද එයා මාතරින් ආපු ආචාරශීලී මිනිසෙක්, පෝලිමකට බලාගෙන හිටියා.",
+      "q": "කතාව අනුව: එයා බස්වලට නොනැගුණේ ඇයි?",
+      "options": [
+        "බස් නැවතුණේ නැති නිසා",
+        "පෝලිමක් හැදෙනකම් බලාගෙන හිටි නිසා",
+        "ටිකට් නොතිබූ නිසා",
+        "වැරදි අංක නිසා"
+      ],
+      "answer": 1,
+      "explainSi": "'he was waiting for a queue' — එයාගේ ගමේ එහෙමයි."
+    },
+    {
+      "id": "a1-21-q14",
+      "context": "In Colombo there is no queue at a bus stop. There is only a door and forty people. He missed four buses in half an hour.",
+      "contextSi": "කොළඹ බස් නැවතුමක පෝලිමක් නෑ. තියෙන්නේ දොරක් සහ මිනිස්සු හතළිහක් විතරයි. පැය භාගයකින් එයාට බස් හතරක් මඟහැරුණා.",
+      "q": "කතාව අනුව: 'a door and forty people' කියන එකෙන් කියවෙන්නේ?",
+      "options": [
+        "නැවතුම පොඩියි",
+        "පිළිවෙළක් නෑ — දොර ළඟට යන කෙනා නගිනවා",
+        "බස් හතළිහක් තියෙනවා",
+        "දොර කැඩිලා"
+      ],
+      "answer": 1,
+      "explainSi": "පෝලිමක් නොතිබූ නිසා බලාගෙන ඉන්න එකෙන් ඵලක් නෑ."
+    },
+    {
+      "id": "a1-21-q15",
+      "context": "In the end he took a three-wheeler. It cost him nine hundred rupees, and the bus is thirty.",
+      "contextSi": "අන්තිමට එයා ත්‍රීවීලරයක් ගත්තා. එයාට රුපියල් නවසීයක් ගියා, බස් එක තිහයි.",
+      "q": "කතාව අනුව: බස් ගාස්තුවත් ත්‍රීවීලර් ගාස්තුවත් සංසන්දනය කරන්නේ ඇයි?",
+      "options": [
+        "ත්‍රීවීලර් ලාභ බව කියන්න",
+        "වැරදුණු ගමන කොපමණ මිල අධිකද කියලා පෙන්නන්න — තිහක් වෙනුවට නවසීයක්",
+        "එයාට සල්ලි නැති බව කියන්න",
+        "බස් හොඳ නෑ කියන්න"
+      ],
+      "answer": 1,
+      "explainSi": "අංක දෙක එකට තියෙන්නේ ඒ නිසාමයි — දෙතිස් ගුණයක්."
+    },
+    {
+      "id": "a1-21-q16",
+      "context": "When he arrived he said one sentence: \"Your city is not difficult. It is just faster than me.\"",
+      "contextSi": "ආපු ගමන් එයා එක වාක්‍යයක් කිව්වා: \"ඔබේ නගරය අමාරු නෑ. ඒක මට වඩා වේගවත් විතරයි.\"",
+      "q": "කතාව අනුව: නුවන්ගේ අන්තිම වාක්‍යයෙන් අදහස් වන්නේ කුමක්ද?",
+      "options": [
+        "එයාට කොළඹ කැමති නෑ",
+        "ප්‍රශ්නය එයාගේ දැනුම නෙවෙයි — නගරයේ වේගයට එයා තාම හුරු නෑ",
+        "බස් ඉතා වේගවත්",
+        "එයාට ආපහු යන්න ඕන"
+      ],
+      "answer": 1,
+      "explainSi": "එයා තමන්ට හෝ නගරයට දොස් කියන්නේ නෑ — වේගය දෙක අතර වෙනසක් විදිහට කියනවා."
+    },
+    {
+      "id": "a1-21-q17",
+      "context": "One morning he was not on board. / The seat stayed there, and free. / I didn't sit. I stood the whole way.",
+      "contextSi": "එක් උදෑසනක එයා බස් එකේ හිටියේ නෑ. / ආසනය එතන, හිස්ව. / මම ඉඳගත්තේ නෑ. මුළු ගමනම නැගිටගෙන.",
+      "q": "කවියේ කථකයා ඉඳගන්නේ නැත්තේ ඇයි කියලා ඔබ හිතන්නේ?",
+      "options": [
+        "ආසනය කැඩිලා",
+        "ඒ ආසනය අර මිනිසාගේ — වචනයක් නොකිව්වත් ඒක සම්බන්ධයක්",
+        "එයාට ඉඳගන්න බැරි",
+        "එයා කලින් බහිනවා"
+      ],
+      "answer": 1,
+      "explainSi": "'I don't know why' කියලා කවියම කියනවා — පිළිතුර නොදන්නා බව තමයි කවියේ අදහස."
+    },
+    {
+      "id": "a1-21-q18",
+      "context": "Clerk: Direct. But get on at the front — the back carriages are always crowded.",
+      "contextSi": "ලිපිකරු: කෙළින්ම. හැබැයි ඉස්සරහින් නගින්න — පිටිපස්සේ මැදිරි හැම විටම පිරිලා.",
+      "q": "සංවාදයේ: ලිපිකරු ඉස්සරහින් නගින්න කියන්නේ ඇයි?",
+      "options": [
+        "ඒක ලාභ නිසා",
+        "පිටිපස්සේ මැදිරි පිරී ඇති නිසා",
+        "කෙළින්ම යන නිසා",
+        "වේදිකාව දෙක නිසා"
+      ],
+      "answer": 1,
+      "explainSi": "'the back carriages are always crowded' — උපදෙසේ හේතුව එතනම."
+    },
+    {
+      "id": "a1-21-q19",
+      "context": "Traveller: And where do I get off for the fort?\nClerk: Galle is the last stop. You can't miss it.",
+      "contextSi": "ගමන් කරන්නා: කොටුවට යන්න මම කොහෙන්ද බහින්නේ?\nලිපිකරු: ගාල්ල අන්තිම නැවතුම. මඟහරින්න බෑ.",
+      "q": "සංවාදයේ: 'You can't miss it' කියන්නෙන් අදහස් වන්නේ?",
+      "options": [
+        "බහින්න බෑ",
+        "අන්තිම නැවතුම නිසා වරදින්න විදිහක් නෑ",
+        "කෝච්චිය නවතින්නේ නෑ",
+        "ටිකට් එක ඕන"
+      ],
+      "answer": 1,
+      "explainSi": "අන්තිම නැවතුමේදී හැමෝම බහිනවා — එනිසා මඟහැරෙන්න බෑ."
+    },
+    {
+      "id": "a1-21-q20",
+      "q": "කුමන වාක්‍යය වැරදිද?",
+      "options": [
+        "We came by three-wheeler.",
+        "I was on the plane for four hours.",
+        "She goes to school by foot.",
+        "Get off at the next stop."
+      ],
+      "answer": 2,
+      "explainSi": "'on foot' විය යුතුයි — පයින් යාම එකම ව්‍යතිරේකයයි."
+    },
+    {
+      "id": "a1-21-q21",
+      "q": "'ඉක්මන් කරන්න, නැත්නම් බස් එක මඟහැරෙයි' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "Hurry, or we'll miss the bus.",
+        "Hurry, or we'll catch the bus.",
+        "Hurry, or we'll get off the bus.",
+        "Hurry, and we'll miss the bus."
+      ],
+      "answer": 0,
+      "explainSi": "'miss' = බස් එක නැතුව යනවා. 'or' විකල්පය — a1-20 හි වචනය.",
+      "speak": "Hurry, or we'll miss the bus."
+    },
+    {
+      "id": "a1-21-q22",
+      "q": "'Where do I change?' යනුවෙන් අහන්නේ මොකක්ද?",
+      "options": [
+        "ඇඳුම් මාරු කරන්නේ කොහෙද",
+        "සල්ලි මාරු කරන්නේ කොහෙද",
+        "එක බස්/කෝච්චියකින් තව එකකට මාරු වෙන්නේ කොහෙද",
+        "ටිකට් ගන්නේ කොහෙද"
+      ],
+      "answer": 2,
+      "explainSi": "ගමනක් මැද වාහනය මාරු කිරීම. පිළිතුර සාමාන්‍යයෙන් තැනක් — 'At Nittambuwa'."
+    }
+  ]
+}

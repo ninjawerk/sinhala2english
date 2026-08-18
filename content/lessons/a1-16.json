@@ -1,0 +1,951 @@
+{
+  "hero": {
+    "src": "images/a1-16-hero.webp",
+    "alt": "Nadeesha handing a wallet back to someone off frame with both hands, a jacket folded over her arm, warm indoor light in a hallway."
+  },
+  "goalsSi": [
+    "me, him, her, us, them — ක්‍රියාවෙන් පස්සේ එන සර්වනාම",
+    "එකම කෙනාට වචන දෙකක්, ස්ථානය අනුව තෝරාගැනීම",
+    "my, your, his, her, our, their — අයිතිය",
+    "Nimal's bag වැනි 's ස්වරූපය",
+    "his/her තෝරන්නේ අයිතිකරු අනුව මිස දෙය අනුව නොවන බව",
+    "its සහ it's අතර වෙනස"
+  ],
+  "goals": [
+    "Use object pronouns correctly",
+    "Say whose something is",
+    "Choose his or her by the owner",
+    "Tell its and it's apart"
+  ],
+  "sections": [
+    {
+      "type": "note",
+      "title": "One person, two words",
+      "titleSi": "එක් කෙනෙක්, වචන දෙකක්",
+      "bodySi": "ඉංග්‍රීසියේ එකම කෙනාට වචන දෙකක් තියෙනවා. වාක්‍යයේ කොහෙද ඉන්නේ කියලා තමයි තෝරන්නේ.\n\nක්‍රියාවට කලින් (කරන කෙනා): I, he, she, we, they\nක්‍රියාවට පස්සේ (ලබන කෙනා): me, him, her, us, them\n\nI know him. — මම එයාව දන්නවා.\nHe knows me. — එයා මාව දන්නවා.\n\nදෙපැත්තෙම එකම මිනිස්සු දෙන්නා. නමුත් වචන හතරක් යෙදෙනවා.\n\nසිංහලෙන් 'මම' සහ 'මාව' කියලා වෙනස තියෙනවා — ඉංග්‍රීසියේත් එහෙමයි. එනිසා මේක අමුතු දෙයක් නෙවෙයි, හුරු වෙන්න ඕන දෙයක් විතරයි.",
+      "body": "Before the verb: I, he, she. After it: me, him, her."
+    },
+    {
+      "type": "grammar",
+      "title": "Subject and object pronouns",
+      "titleSi": "කර්තෘ සහ කර්ම සර්වනාම",
+      "explainSi": "වම් තීරුව ක්‍රියාවට කලින්. දකුණු තීරුව ක්‍රියාවට පස්සේ, සහ to, with, for වැනි වචනවලට පස්සේ.",
+      "formula": "subject + verb + object  ·  with / for / to + object pronoun",
+      "table": {
+        "headers": [
+          "කර්තෘ",
+          "කර්ම",
+          "උදාහරණය"
+        ],
+        "rows": [
+          [
+            "I",
+            "me",
+            "She is calling me."
+          ],
+          [
+            "you",
+            "you",
+            "I am calling you."
+          ],
+          [
+            "he",
+            "him",
+            "I know him."
+          ],
+          [
+            "she",
+            "her",
+            "Ask her."
+          ],
+          [
+            "it",
+            "it",
+            "Take it."
+          ],
+          [
+            "we",
+            "us",
+            "Come with us."
+          ],
+          [
+            "they",
+            "them",
+            "Give it to them."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "My brother helps me every morning.",
+          "si": "අයියා හැම උදේම මට උදව් කරනවා."
+        },
+        {
+          "en": "I don't know them, but they know me.",
+          "si": "මම ඔවුන්ව දන්නේ නෑ, හැබැයි ඔවුන් මාව දන්නවා."
+        },
+        {
+          "en": "Can you come with us on Sunday?",
+          "si": "ඉරිදාට අපිත් එක්ක එන්න පුළුවන්ද?"
+        },
+        {
+          "en": "This letter is for her, not for him.",
+          "si": "මේ ලියුම එයාට — එයාට නෙවෙයි."
+        }
+      ],
+      "watchOutSi": "'with I', 'for he', 'to she' කියලා යෙදෙන්නේ නෑ. with/for/to පසුව හැම විටම කර්ම ස්වරූපය: with me, for him, to her."
+    },
+    {
+      "type": "grammar",
+      "title": "my, your, his, her",
+      "titleSi": "my, your, his, her",
+      "explainSi": "අයිතිය කියන්න මේ වචන නාම පදයට කලින් යනවා. මේවා තනියම යෙදෙන්නේ නෑ — පස්සේ දෙයක් ඕන.",
+      "formula": "possessive + noun  ·  my bag, his name, their house",
+      "table": {
+        "headers": [
+          "සර්වනාමය",
+          "අයිතිය",
+          "උදාහරණය"
+        ],
+        "rows": [
+          [
+            "I",
+            "my",
+            "my bag"
+          ],
+          [
+            "you",
+            "your",
+            "your name"
+          ],
+          [
+            "he",
+            "his",
+            "his sister"
+          ],
+          [
+            "she",
+            "her",
+            "her brother"
+          ],
+          [
+            "it",
+            "its",
+            "its colour"
+          ],
+          [
+            "we",
+            "our",
+            "our house"
+          ],
+          [
+            "they",
+            "their",
+            "their car"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "This is my phone, and that is her phone.",
+          "si": "මේක මගේ දුරකථනය, ඕක එයාගේ දුරකථනය."
+        },
+        {
+          "en": "What is your sister's name?",
+          "si": "ඔබේ අක්කාගේ නම මොකක්ද?"
+        },
+        {
+          "en": "Their house is behind our garden.",
+          "si": "ඔවුන්ගේ ගෙදර අපේ වත්තට පිටිපස්සෙන්."
+        }
+      ],
+      "watchOutSi": "'my' සහ 'me' පටලවා ගන්න එපා. 'Give me the bag' (මට) ≠ 'This is my bag' (මගේ)."
+    },
+    {
+      "type": "grammar",
+      "title": "his or her? Look at the owner",
+      "titleSi": "his ද her ද? අයිතිකරු දිහා බලන්න",
+      "explainSi": "මේක සිංහල කථා කරන අය නිතරම වරදවන තැනක්. ඉංග්‍රීසියේ 'his' හෝ 'her' තෝරන්නේ අයිතිකරු කවුද කියලා — අයිති දෙය මොකක්ද කියලා නෙවෙයි.",
+      "formula": "his = a man owns it  ·  her = a woman owns it",
+      "table": {
+        "headers": [
+          "වාක්‍යය",
+          "අයිතිකරු",
+          "නිවැරදිද?"
+        ],
+        "rows": [
+          [
+            "Nimal loves his wife.",
+            "නිමල් (පිරිමි)",
+            "✓ his"
+          ],
+          [
+            "Nimal loves her wife.",
+            "—",
+            "✗ වැරදියි"
+          ],
+          [
+            "Kamala loves her husband.",
+            "කමලා (ගැහැණු)",
+            "✓ her"
+          ],
+          [
+            "Kamala loves his husband.",
+            "—",
+            "✗ වැරදියි"
+          ],
+          [
+            "My father drives his car.",
+            "තාත්තා",
+            "✓ his"
+          ],
+          [
+            "My mother drives her car.",
+            "අම්මා",
+            "✓ her"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "Sunil is showing his sister the photos.",
+          "si": "සුනිල් තමන්ගේ නංගිට ඡායාරූප පෙන්නනවා."
+        },
+        {
+          "en": "Ishara is showing her brother the photos.",
+          "si": "ඉෂාරා තමන්ගේ අයියාට ඡායාරූප පෙන්නනවා."
+        }
+      ],
+      "watchOutSi": "'Nimal and her wife' යනු පොදු වැරැද්දක්. නිමල් පිරිමි නිසා 'his wife' — බිරිඳ ගැහැණු වුණත්."
+    },
+    {
+      "type": "grammar",
+      "title": "Nimal's bag: the 's",
+      "titleSi": "Nimal's bag: 's ස්වරූපය",
+      "explainSi": "මිනිසෙකුගේ අයිතිය කියන්න නමට 's එකතු කරනවා. සිංහලෙන් 'නිමල්ගේ බෑග් එක' කියන අනුපිළිවෙළම — අයිතිකරු මුලින්.",
+      "formula": "person + 's + thing  ·  plural ending in s → s'",
+      "table": {
+        "headers": [
+          "තත්ත්වය",
+          "ස්වරූපය",
+          "උදාහරණය"
+        ],
+        "rows": [
+          [
+            "එක් අයෙක්",
+            "name + 's",
+            "Nimal's bag"
+          ],
+          [
+            "එක් අයෙක්",
+            "noun + 's",
+            "my sister's house"
+          ],
+          [
+            "බොහෝ දෙනෙක් (s අන්තිමට)",
+            "noun + '",
+            "the boys' room"
+          ],
+          [
+            "බොහෝ දෙනෙක් (s නැති)",
+            "noun + 's",
+            "the children's books"
+          ],
+          [
+            "දෙදෙනෙක් එකට",
+            "අන්තිම නමට විතරයි",
+            "Ravi and Nadi's house"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "That is my father's shop.",
+          "si": "ඕක තාත්තාගේ කඩේ."
+        },
+        {
+          "en": "Whose bag is this? — It's Ishara's.",
+          "si": "මේක කාගේ බෑග් එකද? — ඉෂාරාගේ."
+        },
+        {
+          "en": "The teachers' room is upstairs.",
+          "si": "ගුරුවරුන්ගේ කාමරය උඩ තට්ටුවේ."
+        }
+      ],
+      "watchOutSi": "දේවලට 's යෙදෙන්නේ අඩුවෙන්: 'the door of the car' කියන එක 'the car's door' ට වඩා පොදුයි. මිනිස්සුන්ට 's — ඒක හැම විටම හරි."
+    },
+    {
+      "type": "tip",
+      "title": "its and it's",
+      "titleSi": "its සහ it's",
+      "bodySi": "මේ දෙක ශබ්දයෙන් එකයි, අර්ථයෙන් සම්පූර්ණයෙන් වෙනස්. සහ ඉංග්‍රීසියේ අමුතුම දෙය මෙතනයි:\n\nits = අයිතිය (කොමාව නෑ) — The dog is eating its food.\nit's = it is (කොමාව තියෙනවා) — It's raining.\n\nසාමාන්‍යයෙන් 's කියන්නේ අයිතිය. හැබැයි මෙතන ප්‍රතිවිරුද්ධයි — කොමාව තියෙන එක අයිතිය නෙවෙයි.\n\nපරීක්ෂාව: 'it is' කියලා කියන්න පුළුවන්ද? පුළුවන් නම් it's. බැරි නම් its.\n\nIt's cold today. → It is cold today. ✓ එනිසා it's.\nThe cat wants its food. → 'it is food' අර්ථයක් නෑ. එනිසා its."
+    },
+    {
+      "type": "vocab",
+      "title": "People and belongings",
+      "titleSi": "මිනිස්සු සහ බඩු",
+      "items": [
+        {
+          "en": "Whose?",
+          "si": "කාගේද?",
+          "say": "හූස්",
+          "exampleEn": "Whose keys are these?",
+          "exampleSi": "මේ යතුරු කාගේද?"
+        },
+        {
+          "en": "mine",
+          "si": "මගේ එක",
+          "say": "මයින්"
+        },
+        {
+          "en": "borrow",
+          "si": "ණයට ගන්නවා",
+          "say": "බොරෝ"
+        },
+        {
+          "en": "lend",
+          "si": "ණයට දෙනවා",
+          "say": "ලෙන්ඩ්"
+        },
+        {
+          "en": "own",
+          "si": "තමන්ගේම",
+          "say": "ඕන්"
+        },
+        {
+          "en": "belong",
+          "si": "අයිතියි",
+          "say": "බිලෝං"
+        },
+        {
+          "en": "swap",
+          "si": "මාරු කරගන්නවා",
+          "say": "ස්වොප්"
+        },
+        {
+          "en": "wallet",
+          "si": "පසුම්බිය",
+          "say": "වොලට්"
+        },
+        {
+          "en": "umbrella",
+          "si": "කුඩය",
+          "say": "අම්බ්‍රෙලා"
+        },
+        {
+          "en": "jacket",
+          "si": "ජැකට් එක",
+          "say": "ජැකට්"
+        },
+        {
+          "en": "same",
+          "si": "එකම",
+          "say": "සේම්"
+        },
+        {
+          "en": "different",
+          "si": "වෙනස්",
+          "say": "ඩිෆරන්ට්"
+        },
+        {
+          "en": "mistake",
+          "si": "වැරැද්ද",
+          "say": "මිස්ටේක්"
+        },
+        {
+          "en": "by mistake",
+          "si": "වැරදීමකින්",
+          "say": "බයි මිස්ටේක්"
+        },
+        {
+          "en": "office",
+          "si": "කාර්යාලය",
+          "say": "ඔෆිස්"
+        },
+        {
+          "en": "colleague",
+          "si": "සගයා",
+          "say": "කොලීග්"
+        },
+        {
+          "en": "pocket",
+          "si": "සාක්කුව",
+          "say": "පොකට්"
+        },
+        {
+          "en": "label",
+          "si": "ලේබලය",
+          "say": "ලේබල්"
+        }
+      ]
+    },
+    {
+      "type": "story",
+      "title": "Three Black Umbrellas",
+      "titleSi": "කළු කුඩ තුනක්",
+      "introSi": "මේ කතාවේ මිනිස්සු තුන්දෙනෙක් සහ බඩු තුනක්. කාගේ මොකක්ද කියලා දැනගන්න පුළුවන් සර්වනාම සහ 's ස්වරූපයෙන් විතරයි. ප්‍රවේශමෙන් කියවන්න.",
+      "paragraphs": [
+        {
+          "en": "It is raining, and three people are leaving our office at the same time. Ravi is taking his umbrella from the stand. Ishara is taking hers. Mr Silva is taking one too.",
+          "si": "වහිනවා, අපේ කාර්යාලයෙන් තුන්දෙනෙක් එකම වෙලාවේ පිටත් වෙනවා. රවී තමන්ගේ කුඩය ස්ටෑන්ඩ් එකෙන් ගන්නවා. ඉෂාරා එයාගේ එක ගන්නවා. සිල්වා මහතාත් එකක් ගන්නවා."
+        },
+        {
+          "en": "All three umbrellas are black. Ravi's has a broken handle. Ishara's has her name on the label. Mr Silva's is new, and it has no marks at all.",
+          "si": "කුඩ තුනම කළු. රවීගේ එකේ අත කැඩිලා. ඉෂාරාගේ එකේ ලේබලයේ එයාගේ නම තියෙනවා. සිල්වා මහතාගේ එක අලුත්, ඒකේ කිසිම ලකුණක් නෑ."
+        },
+        {
+          "en": "The next morning Ravi comes to me. \"Somebody has my umbrella,\" he says. \"This one isn't mine. The handle is fine, and there's a name on it. It isn't my name.\"",
+          "si": "පසුවදා උදේ රවී මා ළඟට එනවා. \"කවුරුහරි ළඟ මගේ කුඩය,\" එයා කියනවා. \"මේක මගේ එක නෙවෙයි. අත හොඳයි, ඒකේ නමකුත් තියෙනවා. ඒක මගේ නම නෙවෙයි.\""
+        },
+        {
+          "en": "So Ravi has Ishara's umbrella. I ask her. She shows me the one in her hand: the handle is broken. \"I took it by mistake,\" she says. \"I thought it was mine.\"",
+          "si": "එහෙනම් රවී ළඟ තියෙන්නේ ඉෂාරාගේ කුඩය. මම එයාගෙන් අහනවා. එයා අතේ තියෙන එක පෙන්නනවා: අත කැඩිලා. \"මම වැරදීමකින් ගත්තා,\" එයා කියනවා. \"මගේ එක කියලා හිතුවා.\""
+        },
+        {
+          "en": "\"So you have his and he has yours,\" I say. \"Then whose is the new one? Mr Silva didn't bring an umbrella yesterday. I remember, because he asked me for mine.\"",
+          "si": "\"එහෙනම් ඔබ ළඟ එයාගේ එක, එයා ළඟ ඔබේ එක,\" මම කියනවා. \"එහෙනම් අලුත් එක කාගේද? සිල්වා මහතා ඊයේ කුඩයක් ගෙනාවේ නෑ. මට මතකයි, මොකද එයා මගෙන් මගේ එක ඉල්ලුවා.\""
+        },
+        {
+          "en": "Nobody is saying anything. Then Ishara starts laughing. \"It's the office umbrella,\" she says. \"It's been in the stand for two years. It doesn't belong to anybody. And now it belongs to Mr Silva.\"",
+          "si": "කවුරුවත් කිසිවක් කියන්නේ නෑ. එතකොට ඉෂාරා හිනාවෙන්න පටන් ගන්නවා. \"ඒක කාර්යාලයේ කුඩය,\" එයා කියනවා. \"අවුරුදු දෙකක් තිස්සේ ස්ටෑන්ඩ් එකේ තිබුණා. ඒක කාටවත් අයිති නෑ. දැන් ඒක සිල්වා මහතාට අයිතියි.\""
+        }
+      ],
+      "glossary": [
+        {
+          "en": "stand",
+          "si": "ස්ටෑන්ඩ් එක"
+        },
+        {
+          "en": "handle",
+          "si": "අත"
+        },
+        {
+          "en": "broken",
+          "si": "කැඩුණු"
+        },
+        {
+          "en": "mark",
+          "si": "ලකුණ"
+        },
+        {
+          "en": "mine",
+          "si": "මගේ එක"
+        },
+        {
+          "en": "by mistake",
+          "si": "වැරදීමකින්"
+        },
+        {
+          "en": "bring",
+          "si": "ගෙනෙනවා"
+        },
+        {
+          "en": "anybody",
+          "si": "කවුරුහරි / කවුරුවත්"
+        }
+      ],
+      "questionsSi": [
+        "රවී ළඟ තියෙන්නේ කාගේ කුඩයද?",
+        "ඉෂාරා ළඟ තියෙන්නේ කාගේ කුඩයද, සහ එය දැනගන්නේ කොහොමද?",
+        "සිල්වා මහතා ළඟ තියෙන එක කාගේද?",
+        "සිල්වා මහතා ඊයේ කුඩයක් ගෙනාවේ නෑ කියලා කථකයාට මතක ඇයි?"
+      ]
+    },
+    {
+      "type": "poem",
+      "title": "Yours and Mine",
+      "titleSi": "ඔබේ එකයි මගේ එකයි",
+      "introSi": "අයිතිය ගැන කවියක්.",
+      "lines": [
+        {
+          "en": "Your chair, my chair, his old cup,",
+          "si": "ඔබේ පුටුව, මගේ පුටුව, එයාගේ පරණ කෝප්පය,"
+        },
+        {
+          "en": "Her book beside the door.",
+          "si": "දොර ළඟ එයාගේ පොත."
+        },
+        {
+          "en": "We know whose things are whose in here —",
+          "si": "මෙතන කාගේ මොකක්ද කියලා අපි දන්නවා —"
+        },
+        {
+          "en": "We've shared this room for four.",
+          "si": "අවුරුදු හතරක් මේ කාමරය අපි බෙදාගත්තා."
+        },
+        {
+          "en": "",
+          "si": ""
+        },
+        {
+          "en": "But no one owns the window light,",
+          "si": "හැබැයි ජනේලයේ එළිය කාටවත් අයිති නෑ,"
+        },
+        {
+          "en": "The dust, the evening air.",
+          "si": "දූවිලි, හවස් සුළඟ."
+        },
+        {
+          "en": "The best things in a crowded house",
+          "si": "පිරුණු ගෙදරක හොඳම දේවල්"
+        },
+        {
+          "en": "Are nobody's, and there.",
+          "si": "කාටවත් අයිති නෑ — හැබැයි එතන තියෙනවා."
+        }
+      ],
+      "noteSi": "'whose things are whose' — පළමු 'whose' ප්‍රශ්නාර්ථයක් නෙවෙයි, 'කාගේද' කියන අර්ථය. 'nobody's' — කාටවත් අයිති නෑ."
+    },
+    {
+      "type": "dialogue",
+      "title": "Whose is this?",
+      "titleSi": "මේක කාගේද?",
+      "settingSi": "බඩුවක් හොයද්දී 'Whose', 's සහ කර්ම සර්වනාම යෙදෙනවා.",
+      "lines": [
+        {
+          "speaker": "Dilan",
+          "en": "Whose jacket is this? It was on my chair.",
+          "si": "මේ ජැකට් එක කාගේද? මගේ පුටුවේ තිබුණා."
+        },
+        {
+          "speaker": "Nirmala",
+          "en": "It isn't mine. Ask Sanduni — I think it's hers.",
+          "si": "මගේ එක නෙවෙයි. සඳුනිගෙන් අහන්න — ඒක එයාගේ කියලා හිතනවා."
+        },
+        {
+          "speaker": "Dilan",
+          "en": "I asked her already. She says it's her brother's.",
+          "si": "මම එයාගෙන් ඇහුවා. එයා කියනවා ඒක එයාගේ අයියාගේ කියලා."
+        },
+        {
+          "speaker": "Nirmala",
+          "en": "Then give it to her and she can give it to him.",
+          "si": "එහෙනම් එයාට දෙන්න, එයා අයියාට දෙයි."
+        },
+        {
+          "speaker": "Dilan",
+          "en": "There's a phone in its pocket. Is it his phone too?",
+          "si": "ඒකේ සාක්කුවේ දුරකථනයක් තියෙනවා. ඒකත් එයාගේ ද?"
+        },
+        {
+          "speaker": "Nirmala",
+          "en": "Don't touch it. It's not our business.",
+          "si": "අල්ලන්න එපා. ඒක අපේ වැඩක් නෙවෙයි."
+        }
+      ]
+    },
+    {
+      "type": "practice",
+      "title": "Choose the right word",
+      "titleSi": "නිවැරදි වචනය තෝරන්න",
+      "instructionSi": "සර්වනාමය ක්‍රියාවට කලින්ද පස්සේද කියලා බලන්න. අයිතිය නම් අයිතිකරු කවුද කියලා බලන්න.",
+      "items": [
+        {
+          "prompt": "She is calling ___ (I).",
+          "answer": "me",
+          "hintSi": "ක්‍රියාවට පස්සේ — කර්ම ස්වරූපය.",
+          "full": "She is calling me."
+        },
+        {
+          "prompt": "Come with ___ (we).",
+          "answer": "us",
+          "hintSi": "'with' පසුව කර්ම ස්වරූපය.",
+          "full": "Come with us."
+        },
+        {
+          "prompt": "Nimal loves ___ wife.",
+          "answer": "his",
+          "hintSi": "අයිතිකරු නිමල් — පිරිමි.",
+          "full": "Nimal loves his wife."
+        },
+        {
+          "prompt": "Kamala is driving ___ car.",
+          "answer": "her",
+          "hintSi": "අයිතිකරු කමලා — ගැහැණු.",
+          "full": "Kamala is driving her car."
+        },
+        {
+          "prompt": "That is my ___ (sister) house.",
+          "answer": "sister's",
+          "hintSi": "අයිතියට 's.",
+          "full": "That is my sister's house."
+        },
+        {
+          "prompt": "___ raining. (it is)",
+          "answer": "It's",
+          "hintSi": "'it is' කියන්න පුළුවන් නම් කොමාව එක්ක.",
+          "full": "It's raining."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "en": "Whose?",
+      "si": "කාගේද?"
+    },
+    {
+      "en": "mine",
+      "si": "මගේ එක"
+    },
+    {
+      "en": "borrow",
+      "si": "ණයට ගන්නවා"
+    },
+    {
+      "en": "lend",
+      "si": "ණයට දෙනවා"
+    },
+    {
+      "en": "own",
+      "si": "තමන්ගේම"
+    },
+    {
+      "en": "swap",
+      "si": "මාරු කරගන්නවා"
+    },
+    {
+      "en": "wallet",
+      "si": "පසුම්බිය"
+    },
+    {
+      "en": "jacket",
+      "si": "ජැකට් එක"
+    },
+    {
+      "en": "same",
+      "si": "එකම"
+    },
+    {
+      "en": "different",
+      "si": "වෙනස්"
+    },
+    {
+      "en": "mistake",
+      "si": "වැරැද්ද"
+    },
+    {
+      "en": "by mistake",
+      "si": "වැරදීමකින්"
+    },
+    {
+      "en": "office",
+      "si": "කාර්යාලය"
+    },
+    {
+      "en": "colleague",
+      "si": "සගයා"
+    },
+    {
+      "en": "pocket",
+      "si": "සාක්කුව"
+    },
+    {
+      "en": "handle",
+      "si": "අත"
+    },
+    {
+      "en": "broken",
+      "si": "කැඩුණු"
+    },
+    {
+      "en": "mark",
+      "si": "ලකුණ"
+    },
+    {
+      "en": "anybody",
+      "si": "කවුරුහරි"
+    },
+    {
+      "en": "business",
+      "si": "වැඩේ / කාරණය"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "a1-16-q1",
+      "q": "'මම එයාව දන්නවා' (පිරිමි) — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "I know he.",
+        "I know him.",
+        "I know his.",
+        "Me know him."
+      ],
+      "answer": 1,
+      "explainSi": "ක්‍රියාවට පස්සේ කර්ම ස්වරූපය: him.",
+      "speak": "I know him."
+    },
+    {
+      "id": "a1-16-q2",
+      "q": "'Come with ___' — හිස්තැනට?",
+      "options": [
+        "we",
+        "us",
+        "our",
+        "ours"
+      ],
+      "answer": 1,
+      "explainSi": "with, for, to පසුව හැම විටම කර්ම ස්වරූපය: us.",
+      "speak": "Come with us."
+    },
+    {
+      "id": "a1-16-q3",
+      "q": "'She is calling ___' — කථා කරන කෙනාට?",
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "answer": 1,
+      "explainSi": "'I' ක්‍රියාවට කලින් විතරයි. පස්සේ නම් 'me'."
+    },
+    {
+      "id": "a1-16-q4",
+      "q": "'නිමල් තමන්ගේ බිරිඳට කැමතියි' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "Nimal loves her wife.",
+        "Nimal loves his wife.",
+        "Nimal loves hers wife.",
+        "Nimal loves he wife."
+      ],
+      "answer": 1,
+      "explainSi": "his/her තෝරන්නේ අයිතිකරු අනුව. නිමල් පිරිමි නිසා 'his' — බිරිඳ ගැහැණු වුණත්.",
+      "speak": "Nimal loves his wife."
+    },
+    {
+      "id": "a1-16-q5",
+      "q": "'Nimal and her wife' වැරදි වන්නේ ඇයි?",
+      "options": [
+        "'wife' සමඟ 'her' යෙදිය නොහැකි නිසා",
+        "his/her තෝරන්නේ අයිති දෙය අනුව නොව අයිතිකරු අනුව — නිමල් පිරිමි",
+        "'and' පසුව අයිතිය යෙදිය නොහැකි නිසා",
+        "වැරදි නෑ"
+      ],
+      "answer": 1,
+      "explainSi": "බිරිඳ ගැහැණු වුණාට කමක් නෑ — අයිතිකරු නිමල් නිසා 'his wife'."
+    },
+    {
+      "id": "a1-16-q6",
+      "q": "'කමලා තමන්ගේ සැමියාට කැමතියි' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "Kamala loves his husband.",
+        "Kamala loves her husband.",
+        "Kamala loves hers husband.",
+        "Kamala loves she husband."
+      ],
+      "answer": 1,
+      "explainSi": "අයිතිකරු කමලා — ගැහැණු, එනිසා 'her'. සැමියා පිරිමි වුණත්.",
+      "speak": "Kamala loves her husband."
+    },
+    {
+      "id": "a1-16-q7",
+      "q": "'ඕක තාත්තාගේ කඩේ' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "That is my father shop.",
+        "That is my father's shop.",
+        "That is my fathers shop.",
+        "That is shop of my father."
+      ],
+      "answer": 1,
+      "explainSi": "අයිතියට 's — අයිතිකරු මුලින්, ඊට පස්සේ දෙය.",
+      "speak": "That is my father's shop."
+    },
+    {
+      "id": "a1-16-q8",
+      "q": "'ගුරුවරුන්ගේ කාමරය' — නිවැරදි ස්වරූපය?",
+      "options": [
+        "the teacher's room",
+        "the teachers' room",
+        "the teachers's room",
+        "the teachers room"
+      ],
+      "answer": 1,
+      "explainSi": "බහුවචනය දැනටමත් s එකෙන් අවසන් නම් කොමාව විතරයි: teachers'."
+    },
+    {
+      "id": "a1-16-q9",
+      "q": "'ළමයින්ගේ පොත්' — නිවැරදි ස්වරූපය?",
+      "options": [
+        "the childrens' books",
+        "the children's books",
+        "the childrens books",
+        "the child's books"
+      ],
+      "answer": 1,
+      "explainSi": "'children' බහුවචනය වුණත් s එකෙන් අවසන් වෙන්නේ නෑ — එනිසා සාමාන්‍ය 's."
+    },
+    {
+      "id": "a1-16-q10",
+      "q": "'___ raining today.' — හිස්තැනට?",
+      "options": [
+        "Its",
+        "It's",
+        "Its'",
+        "It is'"
+      ],
+      "answer": 1,
+      "explainSi": "'It is raining' කියන්න පුළුවන් — එනිසා කොමාව එක්ක 'It's'."
+    },
+    {
+      "id": "a1-16-q11",
+      "q": "'The dog is eating ___ food.' — හිස්තැනට?",
+      "options": [
+        "it's",
+        "its",
+        "its'",
+        "his"
+      ],
+      "answer": 1,
+      "explainSi": "'it is food' කියලා අර්ථයක් නෑ — එනිසා අයිතිය, කොමාව නැතුව: its."
+    },
+    {
+      "id": "a1-16-q12",
+      "q": "'its' සහ 'it's' අතර නීතිය ඉංග්‍රීසියේ අනිත් වචනවලට ප්‍රතිවිරුද්ධ වන්නේ ඇයි?",
+      "options": [
+        "සාමාන්‍යයෙන් 's අයිතිය පෙන්නනවා, හැබැයි මෙතන කොමාව තියෙන එක 'it is'",
+        "'it' කෙටි වචනයක් නිසා",
+        "නීතියක් නෑ",
+        "'its' පරණ වචනයක් නිසා"
+      ],
+      "answer": 0,
+      "explainSi": "පරීක්ෂාව සරලයි: 'it is' කියලා දාන්න පුළුවන් නම් it's. බැරි නම් its."
+    },
+    {
+      "id": "a1-16-q13",
+      "context": "All three umbrellas are black. Ravi's has a broken handle. Ishara's has her name on the label. Mr Silva's is new, and it has no marks at all.",
+      "contextSi": "කුඩ තුනම කළු. රවීගේ එකේ අත කැඩිලා. ඉෂාරාගේ එකේ ලේබලයේ එයාගේ නම තියෙනවා. සිල්වා මහතාගේ එක අලුත්, ඒකේ කිසිම ලකුණක් නෑ.",
+      "q": "කතාව අනුව: ලේබලයේ නමක් තියෙන කුඩය කාගේද?",
+      "options": [
+        "රවීගේ",
+        "ඉෂාරාගේ",
+        "සිල්වා මහතාගේ",
+        "කාර්යාලයේ"
+      ],
+      "answer": 1,
+      "explainSi": "'Ishara's has her name on the label.'"
+    },
+    {
+      "id": "a1-16-q14",
+      "context": "\"Somebody has my umbrella,\" he says. \"This one isn't mine. The handle is fine, and there's a name on it. It isn't my name.\"",
+      "contextSi": "\"කවුරුහරි ළඟ මගේ කුඩය,\" එයා කියනවා. \"මේක මගේ එක නෙවෙයි. අත හොඳයි, ඒකේ නමකුත් තියෙනවා. ඒක මගේ නම නෙවෙයි.\"",
+      "q": "කතාව අනුව: රවී ළඟ තියෙන්නේ කාගේ කුඩයද?",
+      "options": [
+        "රවීගේම",
+        "ඉෂාරාගේ",
+        "සිල්වා මහතාගේ",
+        "දන්නේ නෑ"
+      ],
+      "answer": 1,
+      "explainSi": "අත හොඳයි (රවීගේ එකේ කැඩිලා) සහ නමක් තියෙනවා — ඒක ඉෂාරාගේ ලකුණ."
+    },
+    {
+      "id": "a1-16-q15",
+      "context": "She shows me the one in her hand: the handle is broken. \"I took it by mistake,\" she says. \"I thought it was mine.\"",
+      "contextSi": "එයා අතේ තියෙන එක පෙන්නනවා: අත කැඩිලා. \"මම වැරදීමකින් ගත්තා,\" එයා කියනවා. \"මගේ එක කියලා හිතුවා.\"",
+      "q": "කතාව අනුව: ඉෂාරා ළඟ තියෙන්නේ කාගේ කුඩයද?",
+      "options": [
+        "ඉෂාරාගේම",
+        "රවීගේ",
+        "සිල්වා මහතාගේ",
+        "කාර්යාලයේ"
+      ],
+      "answer": 1,
+      "explainSi": "කැඩුණු අත රවීගේ එකේ ලකුණ. ඔවුන් දෙන්නා එකිනෙකාගේ එක අරගෙන."
+    },
+    {
+      "id": "a1-16-q16",
+      "context": "\"Then whose is the new one? Mr Silva didn't bring an umbrella yesterday. I remember, because he asked me for mine.\"",
+      "contextSi": "\"එහෙනම් අලුත් එක කාගේද? සිල්වා මහතා ඊයේ කුඩයක් ගෙනාවේ නෑ. මට මතකයි, මොකද එයා මගෙන් මගේ එක ඉල්ලුවා.\"",
+      "q": "කතාව අනුව: සිල්වා මහතා කුඩයක් ගෙනාවේ නෑ කියලා කථකයාට මතක ඇයි?",
+      "options": [
+        "එයා දැක්කා නිසා",
+        "සිල්වා මහතා කථකයාගෙන් කුඩය ඉල්ලපු නිසා",
+        "ඉෂාරා කිව්ව නිසා",
+        "සිල්වා මහතා කිව්ව නිසා"
+      ],
+      "answer": 1,
+      "explainSi": "'he asked me for mine' — තමන්ගේ එකක් තිබුණා නම් ඉල්ලන්නේ නෑ."
+    },
+    {
+      "id": "a1-16-q17",
+      "context": "\"It's the office umbrella,\" she says. \"It's been in the stand for two years. It doesn't belong to anybody. And now it belongs to Mr Silva.\"",
+      "contextSi": "\"ඒක කාර්යාලයේ කුඩය,\" එයා කියනවා. \"අවුරුදු දෙකක් තිස්සේ ස්ටෑන්ඩ් එකේ තිබුණා. ඒක කාටවත් අයිති නෑ. දැන් ඒක සිල්වා මහතාට අයිතියි.\"",
+      "q": "කතාව අනුව: අන්තිම වාක්‍යයේ විහිළුව කුමක්ද?",
+      "options": [
+        "සිල්වා මහතා කුඩය හොරකම් කළා",
+        "කාටවත් අයිති නොවූ දෙයක් අරගෙන ගිය නිසා දැන් එය එයාට අයිතියි",
+        "කුඩය පරණයි",
+        "ඉෂාරා බොරු කියනවා"
+      ],
+      "answer": 1,
+      "explainSi": "අවුරුදු දෙකක් කාටවත් අයිති නොවූ එකක් — දැන් අයිතිකරුවෙක් හම්බ වුණා."
+    },
+    {
+      "id": "a1-16-q18",
+      "context": "Dilan: I asked her already. She says it's her brother's.\nNirmala: Then give it to her and she can give it to him.",
+      "contextSi": "දිලාන්: මම එයාගෙන් ඇහුවා. එයා කියනවා ඒක එයාගේ අයියාගේ කියලා.\nනිර්මලා: එහෙනම් එයාට දෙන්න, එයා අයියාට දෙයි.",
+      "q": "සංවාදයේ: 'give it to her' සහ 'give it to him' — 'her' සහ 'him' යනු කවුද?",
+      "options": [
+        "her = නිර්මලා, him = දිලාන්",
+        "her = සඳුනි, him = සඳුනිගේ අයියා",
+        "her = සඳුනිගේ අම්මා, him = දිලාන්",
+        "දෙකම එකම කෙනා"
+      ],
+      "answer": 1,
+      "explainSi": "'to' පසුව කර්ම ස්වරූපය, සහ කවුරු ගැනද කියලා දැනගන්නේ කලින් වාක්‍යයෙන්."
+    },
+    {
+      "id": "a1-16-q19",
+      "context": "Dilan: There's a phone in its pocket. Is it his phone too?",
+      "contextSi": "දිලාන්: ඒකේ සාක්කුවේ දුරකථනයක් තියෙනවා. ඒකත් එයාගේ ද?",
+      "q": "සංවාදයේ: 'its pocket' — කොමාවක් නැත්තේ ඇයි?",
+      "options": [
+        "වැරදීමකින්",
+        "එය අයිතිය — ජැකට් එකේ සාක්කුව. 'it is pocket' කියලා අර්ථයක් නෑ",
+        "'pocket' සමඟ කොමාව යෙදෙන්නේ නෑ",
+        "එය බහුවචනය නිසා"
+      ],
+      "answer": 1,
+      "explainSi": "පරීක්ෂාව: 'it is' දාන්න බැරි නම් its."
+    },
+    {
+      "id": "a1-16-q20",
+      "q": "කුමන වාක්‍යය වැරදිද?",
+      "options": [
+        "This letter is for her.",
+        "They know me.",
+        "Give it to they.",
+        "Ask him tomorrow."
+      ],
+      "answer": 2,
+      "explainSi": "'to' පසුව කර්ම ස්වරූපය: 'Give it to them'."
+    },
+    {
+      "id": "a1-16-q21",
+      "q": "'Whose keys are these?' — ගැළපෙන පිළිතුර?",
+      "options": [
+        "They are my.",
+        "They are mine.",
+        "They are me.",
+        "They are my's."
+      ],
+      "answer": 1,
+      "explainSi": "'my' පසුව නාම පදයක් ඕන ('my keys'). තනියම යෙදෙන්නේ 'mine'.",
+      "speak": "Whose keys are these? They are mine."
+    },
+    {
+      "id": "a1-16-q22",
+      "q": "'මම ඔවුන්ව දන්නේ නෑ, හැබැයි ඔවුන් මාව දන්නවා' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "I don't know them, but they know me.",
+        "I don't know they, but them know I.",
+        "Me don't know them, but they know I.",
+        "I don't know their, but they know my."
+      ],
+      "answer": 0,
+      "explainSi": "එකම මිනිස්සු දෙපැත්තෙම — ස්ථානය අනුව වචනය මාරු වෙනවා.",
+      "speak": "I don't know them, but they know me."
+    }
+  ]
+}

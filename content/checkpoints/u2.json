@@ -1,0 +1,114 @@
+{
+  "quiz": [
+    {
+      "id": "u2-cp-q1",
+      "q": "'මම නිර්කෝෂකයෙක් දකිනවා.' — 'a' ද 'an' ද? (engineer)",
+      "options": ["I see a engineer.", "I see an engineer.", "I see the engineer first time.", "I see engineer."],
+      "answer": 1,
+      "explainSi": "'engineer' ස්වර ශබ්දයකින් ('e') පටන් ගන්නා නිසා 'an'.",
+      "speak": "I see an engineer."
+    },
+    {
+      "id": "u2-cp-q2",
+      "q": "'this' සහ 'that' අතර වෙනස කුමක්ද?",
+      "options": [
+        "'this' — ළඟින්, 'that' — දුරින්",
+        "'this' — දුරින්, 'that' — ළඟින්",
+        "වෙනසක් නෑ",
+        "දෙකම බහුවචන"
+      ],
+      "answer": 0,
+      "explainSi": "'this' ළඟින් තියෙන දෙයකට, 'that' දුරින් තියෙන දෙයකට."
+    },
+    {
+      "id": "u2-cp-q3",
+      "q": "'She ___ (cook) dinner every evening.' — නිවැරදි ස්වරූපය?",
+      "options": ["cook", "cooks", "cooking", "cooked"],
+      "answer": 1,
+      "explainSi": "'she' සමඟ present simple හි 's' එකතු කරනවා — 'cooks'.",
+      "speak": "She cooks dinner every evening."
+    },
+    {
+      "id": "u2-cp-q4",
+      "q": "'ඔබ දිනපතා කෝපි බොනවද?' — ප්‍රශ්නය?",
+      "options": ["Does you drink coffee every day?", "Do you drink coffee every day?", "You drink coffee every day?", "Do you drinks coffee?"],
+      "answer": 1,
+      "explainSi": "'you' සමඟ 'Do' — 'Do you drink...?'",
+      "speak": "Do you drink coffee every day?"
+    },
+    {
+      "id": "u2-cp-q5",
+      "q": "'මට ටිකක් සීනි ඕන.' — 'some' ද 'any' ද?",
+      "options": ["I need any sugar.", "I need some sugar.", "I need a sugar.", "I need sugars."],
+      "answer": 1,
+      "explainSi": "ධනාත්මක වාක්‍යවල 'some' භාවිතා කරනවා.",
+      "speak": "I need some sugar."
+    },
+    {
+      "id": "u2-cp-q6",
+      "q": "'ඔබට කෙසෙල් තියෙනවද?' (සාප්පුවකදී) — negative/question එකේදී 'some' ද 'any' ද?",
+      "options": ["Do you have some bananas?", "Do you have any bananas?", "Do you have a bananas?", "Do you bananas have?"],
+      "answer": 1,
+      "explainSi": "ප්‍රශ්නවල, negative වාක්‍යවල 'any' භාවිතා කරනවා.",
+      "speak": "Do you have any bananas?"
+    },
+    {
+      "id": "u2-cp-q7",
+      "q": "'මේක කීයද?' (සාප්පුවකදී ආචාරශීලීව) — ඉංග්‍රීසියෙන්?",
+      "options": ["How much is this?", "How many is this?", "What price this?", "This cost how much?"],
+      "answer": 0,
+      "explainSi": "'How much is this?' — මිල අහන ආචාරශීලී ප්‍රශ්නය.",
+      "speak": "How much is this, please?"
+    },
+    {
+      "id": "u2-cp-q8",
+      "q": "'මම හතරට නිදාගන්නවා.' — 'at' ද 'in' ද?",
+      "options": ["I sleep in four.", "I sleep at four.", "I sleep on four.", "I sleep four."],
+      "answer": 1,
+      "explainSi": "නිශ්චිත වේලාවක් සමඟ 'at' — 'at four'.",
+      "speak": "I sleep at four."
+    },
+    {
+      "id": "u2-cp-q9",
+      "q": "'මාර්තු මාසයේ' — 'in' ද 'on' ද?",
+      "options": ["on March", "at March", "in March", "March in"],
+      "answer": 2,
+      "explainSi": "මාසයක් සමඟ 'in' — 'in March'.",
+      "speak": "in March"
+    },
+    {
+      "id": "u2-cp-q10",
+      "q": "'බැංකුව කොහෙද තියෙන්නේ?' — දිශාව අහන ප්‍රශ්නය?",
+      "options": ["Where is the bank?", "What is the bank?", "Where the bank?", "Bank is where?"],
+      "answer": 0,
+      "explainSi": "'Where is the...?' — දිශාව/ස්ථානය අහන ප්‍රශ්නය.",
+      "speak": "Excuse me, where is the bank?"
+    },
+    {
+      "id": "u2-cp-q11",
+      "context": "I usually go shopping in the morning. Do you have any apples? — Yes, they're two dollars each.",
+      "contextSi": "මම සාමාන්‍යයෙන් උදේ සාප්පු යනවා. ඇපල් තියෙනවද? — ඔව්, එකකට ඩොලර් දෙකයි.",
+      "q": "මේ සංවාදයේ 'Do you have any apples?' සහ 'in the morning' — 'any' සහ 'in' දෙකම නිවැරදිව යෙදිලාද?",
+      "options": [
+        "ඔව් — ප්‍රශ්නයේ 'any', දවසේ කොටසක් සමඟ 'in' දෙකම නිවැරදියි",
+        "නෑ, 'any' වෙනුවට 'some' විය යුතුයි",
+        "නෑ, 'in' වෙනුවට 'at' විය යුතුයි",
+        "දෙකම වැරදියි"
+      ],
+      "answer": 0,
+      "explainSi": "ප්‍රශ්නයේ 'any' (Do you have any...?), දවසේ කොටසක් සමඟ 'in the morning' — දෙකම නිවැරදි රටා."
+    },
+    {
+      "id": "u2-cp-q12",
+      "q": "'She usually cooks dinner at six, but this evening she needs some help.' — 'cooks', 'at six', 'some' තුනම නිවැරදිද?",
+      "options": [
+        "ඔව් — 'cooks' (present simple, she), 'at six' (නිශ්චිත වේලාව), 'some' (ධනාත්මක වාක්‍යය)",
+        "නෑ, 'cooks' වෙනුවට 'cook' විය යුතුයි",
+        "නෑ, 'at six' වෙනුවට 'in six' විය යුතුයි",
+        "නෑ, 'some' වෙනුවට 'any' විය යුතුයි"
+      ],
+      "answer": 0,
+      "explainSi": "තුනම නිවැරදියි — 'cooks' (she + s), 'at six' (නිශ්චිත වේලාව), 'some help' (ධනාත්මක වාක්‍යයක් නිසා)."
+    }
+  ]
+}

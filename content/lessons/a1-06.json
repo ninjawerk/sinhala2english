@@ -1,0 +1,775 @@
+{
+  "hero": {
+    "src": "images/a1-06-hero.webp",
+    "alt": "Ruwan standing in the doorway between a kitchen and a living room of a Sri Lankan home, gesturing into the room, clay pots on a shelf, an open window with curtains."
+  },
+  "goalsSi": [
+    "ගෙදර කාමර සහ බඩු ඉංග්‍රීසියෙන් නම් කිරීම",
+    "There is / There are භාවිතය",
+    "දෙයක් කොහෙද කියන්න in, on, under, next to වැනි වචන",
+    "ඔබේ ගෙදර සරලව විස්තර කිරීම"
+  ],
+  "goals": [
+    "Name rooms and furniture",
+    "Use there is and there are",
+    "Say where things are"
+  ],
+  "sections": [
+    {
+      "type": "note",
+      "title": "Saying what exists",
+      "titleSi": "'තියෙනවා' කියන්නේ කොහොමද",
+      "bodySi": "සිංහලෙන් 'මේසේ උඩ පොතක් තියෙනවා' කියනවා. ඉංග්‍රීසියෙන් මේකට විශේෂ ආරම්භයක් තියෙනවා: 'There is a book on the table.'\n\n'There' කියන්නේ මෙතන 'අතන' කියන අර්ථයෙන් නෙවෙයි — එය වාක්‍යය පටන් ගන්න යොදන වචනයක් පමණයි. මේක තේරුම් ගත්තම වාක්‍ය සිය ගණනක් හදන්න පුළුවන්.",
+      "body": "'There is' introduces something that exists."
+    },
+    {
+      "type": "grammar",
+      "title": "There is / There are",
+      "titleSi": "There is / There are",
+      "explainSi": "එකක් නම් 'There is'. එකකට වඩා නම් 'There are'. ඊළඟට එන නාම පදය අනුව තෝරන්න — 'there' අනුව නෙවෙයි.",
+      "formula": "There is + singular  ·  There are + plural",
+      "table": {
+        "headers": [
+          "ගණන",
+          "ස්වරූපය",
+          "උදාහරණය",
+          "සිංහල"
+        ],
+        "rows": [
+          [
+            "එකක්",
+            "There is",
+            "There is a chair.",
+            "පුටුවක් තියෙනවා."
+          ],
+          [
+            "කිහිපයක්",
+            "There are",
+            "There are two chairs.",
+            "පුටු දෙකක් තියෙනවා."
+          ],
+          [
+            "නැහැ (එකක්)",
+            "There is no / isn't a",
+            "There isn't a window.",
+            "ජනේලයක් නෑ."
+          ],
+          [
+            "නැහැ (බොහෝ)",
+            "There aren't any",
+            "There aren't any plates.",
+            "පිඟන් නෑ."
+          ],
+          [
+            "ප්‍රශ්නය",
+            "Is there / Are there",
+            "Is there a bathroom?",
+            "නාන කාමරයක් තියෙනවාද?"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "There is a big tree in the garden.",
+          "si": "වත්තේ ලොකු ගහක් තියෙනවා."
+        },
+        {
+          "en": "There are three rooms in my house.",
+          "si": "මගේ ගෙදර කාමර තුනක් තියෙනවා."
+        },
+        {
+          "en": "Is there a shop near here?",
+          "si": "මෙතන ළඟ කඩයක් තියෙනවාද?"
+        },
+        {
+          "en": "There isn't any water in the bottle.",
+          "si": "බෝතලේ වතුර නෑ."
+        }
+      ],
+      "watchOutSi": "ඊළඟට එන වචනය බලලා තෝරන්න. 'There is a table and two chairs' — මුලින්ම එන්නේ 'a table' (එකක්) නිසා 'is'."
+    },
+    {
+      "type": "vocab",
+      "title": "Rooms and things in them",
+      "titleSi": "කාමර සහ ඒවායේ බඩු",
+      "items": [
+        {
+          "en": "house",
+          "si": "ගෙදර",
+          "say": "හවුස්",
+          "exampleEn": "My house is small.",
+          "exampleSi": "මගේ ගෙදර පොඩියි."
+        },
+        {
+          "en": "room",
+          "si": "කාමරය",
+          "say": "රූම්"
+        },
+        {
+          "en": "kitchen",
+          "si": "කුස්සිය",
+          "say": "කිච්චන්",
+          "exampleEn": "Amma is in the kitchen.",
+          "exampleSi": "අම්මා කුස්සියේ."
+        },
+        {
+          "en": "bedroom",
+          "si": "නිදන කාමරය",
+          "say": "බෙඩ්රූම්"
+        },
+        {
+          "en": "bathroom",
+          "si": "නාන කාමරය",
+          "say": "බාත්රූම්"
+        },
+        {
+          "en": "living room",
+          "si": "සාලය",
+          "say": "ලිවින් රූම්"
+        },
+        {
+          "en": "door",
+          "si": "දොර",
+          "say": "ඩෝර්"
+        },
+        {
+          "en": "window",
+          "si": "ජනේලය",
+          "say": "වින්ඩෝ",
+          "exampleEn": "Open the window, please.",
+          "exampleSi": "කරුණාකර ජනේලය අරින්න."
+        },
+        {
+          "en": "table",
+          "si": "මේසය",
+          "say": "ටේබල්"
+        },
+        {
+          "en": "chair",
+          "si": "පුටුව",
+          "say": "චෙයා"
+        },
+        {
+          "en": "bed",
+          "si": "ඇඳ",
+          "say": "බෙඩ්"
+        },
+        {
+          "en": "sofa",
+          "si": "සෝෆාව",
+          "say": "සෝෆා"
+        },
+        {
+          "en": "lamp",
+          "si": "විදුලි පහන",
+          "say": "ලෑම්ප්"
+        },
+        {
+          "en": "wall",
+          "si": "බිත්තිය",
+          "say": "වෝල්"
+        },
+        {
+          "en": "floor",
+          "si": "බිම",
+          "say": "ෆ්ලෝර්"
+        },
+        {
+          "en": "garden",
+          "si": "වත්ත",
+          "say": "ගාඩන්"
+        }
+      ]
+    },
+    {
+      "type": "grammar",
+      "title": "Where is it?",
+      "titleSi": "එය කොහෙද?",
+      "explainSi": "ස්ථානය කියන වචන ටික මතක තියාගත්තම, ඕනෑම දෙයක් කොහෙද කියලා විස්තර කරන්න පුළුවන්. මේවා 'be' ක්‍රියාව සමඟ එකට යෙදෙනවා.",
+      "formula": "The + thing + is + preposition + the + place",
+      "table": {
+        "headers": [
+          "වචනය",
+          "සිංහල",
+          "උදාහරණය"
+        ],
+        "rows": [
+          [
+            "in",
+            "ඇතුළේ",
+            "The keys are in the bag."
+          ],
+          [
+            "on",
+            "උඩ (ස්පර්ශ වී)",
+            "The book is on the table."
+          ],
+          [
+            "under",
+            "යටින්",
+            "The cat is under the chair."
+          ],
+          [
+            "next to",
+            "අයිනේ",
+            "The lamp is next to the bed."
+          ],
+          [
+            "behind",
+            "පිටිපස්සේ",
+            "The garden is behind the house."
+          ],
+          [
+            "in front of",
+            "ඉදිරිපිට",
+            "A car is in front of the door."
+          ],
+          [
+            "between",
+            "අතරේ",
+            "The table is between two chairs."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "The rice is in the pot.",
+          "si": "බත් වළඳේ ඇතුළේ."
+        },
+        {
+          "en": "My phone is on the bed.",
+          "si": "මගේ දුරකථනය ඇඳ උඩ."
+        },
+        {
+          "en": "The shoes are under the table.",
+          "si": "සපත්තු මේසය යටින්."
+        },
+        {
+          "en": "The shop is next to the temple.",
+          "si": "කඩේ පන්සල අයිනේ."
+        }
+      ],
+      "watchOutSi": "'in' සහ 'on' අතර වෙනස: ඇතුළේ නම් 'in' (in the box), මතුපිට ස්පර්ශ වී නම් 'on' (on the box)."
+    },
+    {
+      "type": "story",
+      "title": "A Small House",
+      "titleSi": "පොඩි ගෙදරක්",
+      "introSi": "'There is' සහ ස්ථාන වචන කීයක් හොයාගන්න පුළුවන්ද කියලා බලන්න.",
+      "paragraphs": [
+        {
+          "en": "Our house is small, but it is enough. There are three rooms.",
+          "si": "අපේ ගෙදර පොඩියි, හැබැයි ඇති. කාමර තුනක් තියෙනවා."
+        },
+        {
+          "en": "There is a kitchen at the back. Amma cooks rice there every evening.",
+          "si": "පිටිපස්සේ කුස්සියක් තියෙනවා. අම්මා හැම හවසකම එතන බත් උයනවා."
+        },
+        {
+          "en": "In the living room there is an old sofa and a small table.",
+          "si": "සාලයේ පරණ සෝෆාවක් සහ පොඩි මේසයක් තියෙනවා."
+        },
+        {
+          "en": "There is no television. There are many books on the shelf.",
+          "si": "රූපවාහිනියක් නෑ. රාක්කයේ පොත් ගොඩක් තියෙනවා."
+        },
+        {
+          "en": "Behind the house there is a small garden. There are two mango trees in it.",
+          "si": "ගෙදර පිටිපස්සේ පොඩි වත්තක් තියෙනවා. එහි අඹ ගස් දෙකක් තියෙනවා."
+        },
+        {
+          "en": "My favourite place is under the trees. It is quiet there.",
+          "si": "මගේ ප්‍රියතම තැන ගස් යටින්. එතන නිශ්ශබ්දයි."
+        }
+      ],
+      "glossary": [
+        {
+          "en": "enough",
+          "si": "ප්‍රමාණවත්"
+        },
+        {
+          "en": "at the back",
+          "si": "පිටිපස්සේ"
+        },
+        {
+          "en": "cook",
+          "si": "උයනවා"
+        },
+        {
+          "en": "shelf",
+          "si": "රාක්කය"
+        },
+        {
+          "en": "television",
+          "si": "රූපවාහිනිය"
+        },
+        {
+          "en": "mango tree",
+          "si": "අඹ ගස"
+        },
+        {
+          "en": "favourite",
+          "si": "ප්‍රියතම"
+        },
+        {
+          "en": "quiet",
+          "si": "නිශ්ශබ්ද"
+        }
+      ],
+      "questionsSi": [
+        "ගෙදර කාමර කීයක් තියෙනවාද?",
+        "සාලයේ මොනවද තියෙන්නේ?",
+        "කතාව කියන කෙනාගේ ප්‍රියතම තැන කොහෙද?"
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "Looking for the keys",
+      "titleSi": "යතුරු හොයනවා",
+      "settingSi": "සමන් ගෙදර යතුරු නැති වෙලා.",
+      "lines": [
+        {
+          "speaker": "Saman",
+          "en": "Amma, where are my keys?",
+          "si": "අම්මේ, මගේ යතුරු කොහෙද?"
+        },
+        {
+          "speaker": "Amma",
+          "en": "Are they on the table?",
+          "si": "ඒවා මේසේ උඩද?"
+        },
+        {
+          "speaker": "Saman",
+          "en": "No, there is only a book on the table.",
+          "si": "නෑ, මේසේ උඩ පොතක් විතරයි තියෙන්නේ."
+        },
+        {
+          "speaker": "Amma",
+          "en": "Look under the sofa.",
+          "si": "සෝෆාව යට බලන්න."
+        },
+        {
+          "speaker": "Saman",
+          "en": "They are not there either.",
+          "si": "ඒවා එතනත් නෑ."
+        },
+        {
+          "speaker": "Amma",
+          "en": "Is there anything in your bag?",
+          "si": "ඔබේ බෑග් එකේ මොනවහරි තියෙනවාද?"
+        },
+        {
+          "speaker": "Saman",
+          "en": "Oh! They are in my bag. Thank you, Amma.",
+          "si": "අනේ! ඒවා මගේ බෑග් එකේ. ස්තූතියි අම්මේ."
+        }
+      ]
+    },
+    {
+      "type": "practice",
+      "title": "is or are?",
+      "titleSi": "is නැත්නම් are?",
+      "instructionSi": "'There ___' — is හෝ are ලියන්න.",
+      "items": [
+        {
+          "prompt": "There ___ a lamp on the table.",
+          "answer": "is",
+          "hintSi": "එකක් — a lamp.",
+          "full": "There is a lamp on the table."
+        },
+        {
+          "prompt": "There ___ four chairs in the room.",
+          "answer": "are",
+          "hintSi": "හතරක්.",
+          "full": "There are four chairs in the room."
+        },
+        {
+          "prompt": "There ___ two windows in my bedroom.",
+          "answer": "are",
+          "hintSi": "දෙකක්.",
+          "full": "There are two windows in my bedroom."
+        },
+        {
+          "prompt": "___ there a bathroom upstairs?",
+          "answer": "Is",
+          "hintSi": "ප්‍රශ්නයක්, එකක් ගැන.",
+          "full": "Is there a bathroom upstairs?"
+        },
+        {
+          "prompt": "There ___ a garden behind the house.",
+          "answer": "is",
+          "hintSi": "එකක්.",
+          "full": "There is a garden behind the house."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "en": "house",
+      "si": "ගෙදර"
+    },
+    {
+      "en": "room",
+      "si": "කාමරය"
+    },
+    {
+      "en": "kitchen",
+      "si": "කුස්සිය"
+    },
+    {
+      "en": "bedroom",
+      "si": "නිදන කාමරය"
+    },
+    {
+      "en": "bathroom",
+      "si": "නාන කාමරය"
+    },
+    {
+      "en": "living room",
+      "si": "සාලය"
+    },
+    {
+      "en": "door",
+      "si": "දොර"
+    },
+    {
+      "en": "window",
+      "si": "ජනේලය"
+    },
+    {
+      "en": "table",
+      "si": "මේසය"
+    },
+    {
+      "en": "chair",
+      "si": "පුටුව"
+    },
+    {
+      "en": "bed",
+      "si": "ඇඳ"
+    },
+    {
+      "en": "sofa",
+      "si": "සෝෆාව"
+    },
+    {
+      "en": "lamp",
+      "si": "විදුලි පහන"
+    },
+    {
+      "en": "wall",
+      "si": "බිත්තිය"
+    },
+    {
+      "en": "shelf",
+      "si": "රාක්කය"
+    },
+    {
+      "en": "under",
+      "si": "යටින්"
+    },
+    {
+      "en": "next to",
+      "si": "අයිනේ"
+    },
+    {
+      "en": "behind",
+      "si": "පිටිපස්සේ"
+    },
+    {
+      "en": "between",
+      "si": "අතරේ"
+    },
+    {
+      "en": "in front of",
+      "si": "ඉදිරිපිට"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "a1-06-q1",
+      "q": "'___ two mangoes on the plate.' — හිස්තැනට?",
+      "options": [
+        "There is",
+        "There are",
+        "There have",
+        "It is"
+      ],
+      "answer": 1,
+      "explainSi": "'two mangoes' බහුවචන නිසා 'There are'.",
+      "speak": "There are two mangoes on the plate."
+    },
+    {
+      "id": "a1-06-q2",
+      "q": "'There ___ a table and four chairs.' — හිස්තැනට ගැළපෙන්නේ සහ ඇයි?",
+      "options": [
+        "are — මුළු ගණන පහක් නිසා",
+        "is — මුලින්ම එන්නේ 'a table' නිසා",
+        "are — 'chairs' බහුවචන නිසා",
+        "is — 'there' සෑම විටම එකවචන නිසා"
+      ],
+      "answer": 1,
+      "explainSi": "වහාම පසුව එන නාම පදය අනුව තෝරනවා. මෙහි එය 'a table' — එකවචන.",
+      "speak": "There is a table and four chairs."
+    },
+    {
+      "id": "a1-06-q3",
+      "q": "පොත මේසය මතුපිට ඇත. නිවැරදි වචනය?",
+      "options": [
+        "in the table",
+        "on the table",
+        "under the table",
+        "at the table"
+      ],
+      "answer": 1,
+      "explainSi": "මතුපිට ස්පර්ශ වී තිබෙනවා නම් 'on'. ඇතුළේ නම් 'in'.",
+      "speak": "The book is on the table."
+    },
+    {
+      "id": "a1-06-q4",
+      "q": "'බළලා පුටුව යටින්' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "The cat is on the chair.",
+        "The cat is behind the chair.",
+        "The cat is under the chair.",
+        "The cat is next to the chair."
+      ],
+      "answer": 2,
+      "explainSi": "යටින් = under.",
+      "speak": "The cat is under the chair."
+    },
+    {
+      "id": "a1-06-q5",
+      "q": "'Is there a bank near here?' — නිවැරදි කෙටි පිළිතුර (බැංකුවක් තියෙනවා නම්)?",
+      "options": [
+        "Yes, there is.",
+        "Yes, it is.",
+        "Yes, there are.",
+        "Yes, is there."
+      ],
+      "answer": 0,
+      "explainSi": "ප්‍රශ්නය 'Is there' නම් පිළිතුරත් 'Yes, there is.' — එකම ස්වරූපය තියාගන්න.",
+      "speak": "Is there a bank near here? Yes, there is."
+    },
+    {
+      "id": "a1-06-q6",
+      "q": "'කුස්සියේ වතුර නෑ' — ඉංග්‍රීසියෙන් වඩාත් ස්වාභාවික?",
+      "options": [
+        "There is no water in the kitchen.",
+        "There are no water in the kitchen.",
+        "There is not a water in the kitchen.",
+        "Water is not there in kitchen."
+      ],
+      "answer": 0,
+      "explainSi": "'water' ගණන් කරන්න බැරි නාම පදයක් නිසා 'a' යෙදෙන්නේ නෑ, සහ 'is' යෙදෙනවා.",
+      "speak": "There is no water in the kitchen."
+    },
+    {
+      "id": "a1-06-q7",
+      "q": "මේසය පුටු දෙකක් අතරේ නම්, කුමන වචනයද?",
+      "options": [
+        "behind",
+        "between",
+        "in front of",
+        "next to"
+      ],
+      "answer": 1,
+      "explainSi": "දෙකක් අතරේ = between. එකක් අයිනේ නම් 'next to'.",
+      "speak": "The table is between two chairs."
+    },
+    {
+      "id": "a1-06-q8",
+      "q": "'මගේ ගෙදර කාමර තුනක් තියෙනවා' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "My house has three room.",
+        "There are three rooms in my house.",
+        "There is three rooms in my house.",
+        "In my house have three rooms."
+      ],
+      "answer": 1,
+      "explainSi": "බහුවචන නිසා 'There are', සහ 'room' නෙවෙයි 'rooms'.",
+      "speak": "There are three rooms in my house."
+    },
+    {
+      "id": "a1-06-q9",
+      "q": "'There ___ many books on the shelf.' — හිස්තැනට?",
+      "options": [
+        "is",
+        "are",
+        "was",
+        "be"
+      ],
+      "answer": 1,
+      "explainSi": "'many books' බහුවචනයි — 'There are'."
+    },
+    {
+      "id": "a1-06-q10",
+      "q": "There is / There are තෝරන්නේ කුමක් බලලාද?",
+      "options": [
+        "'there' කියන වචනය",
+        "ඊට පස්සේ එන දෙය එකද කිහිපයද කියලා",
+        "වාක්‍යයේ දිග",
+        "තැන"
+      ],
+      "answer": 1,
+      "explainSi": "'There is a chair' / 'There are two chairs' — පස්සේ එන දෙයයි තීරණය කරන්නේ."
+    },
+    {
+      "id": "a1-06-q11",
+      "q": "'නාන කාමරයක් තියෙනවාද?' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "There is a bathroom?",
+        "Is there a bathroom?",
+        "Have a bathroom?",
+        "Is a bathroom there?"
+      ],
+      "answer": 1,
+      "explainSi": "ප්‍රශ්නයට 'Is' මුලට.",
+      "speak": "Is there a bathroom?"
+    },
+    {
+      "id": "a1-06-q12",
+      "q": "'පිඟන් නෑ' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "There aren't any plates.",
+        "There isn't any plates.",
+        "There are not plate.",
+        "There no plates."
+      ],
+      "answer": 0,
+      "explainSi": "'plates' බහුවචනයි — 'aren't any'."
+    },
+    {
+      "id": "a1-06-q13",
+      "q": "'ලාම්පුව ඇඳ ළඟ' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "The lamp is on the bed.",
+        "The lamp is next to the bed.",
+        "The lamp is under the bed.",
+        "The lamp is behind the bed."
+      ],
+      "answer": 1,
+      "explainSi": "next to = ළඟ/අයිනේ. on = උඩ.",
+      "speak": "The lamp is next to the bed."
+    },
+    {
+      "id": "a1-06-q14",
+      "q": "'in' සහ 'on' අතර වෙනස?",
+      "options": [
+        "වෙනසක් නෑ",
+        "'in' ඇතුළේ, 'on' මතුපිට ස්පර්ශ වී",
+        "'on' ඇතුළේ",
+        "'in' උඩ"
+      ],
+      "answer": 1,
+      "explainSi": "'The keys are in the bag' (ඇතුළේ) / 'The book is on the table' (මතුපිට)."
+    },
+    {
+      "id": "a1-06-q15",
+      "q": "'වත්ත ගෙදරට පිටිපස්සෙන්' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "The garden is in front of the house.",
+        "The garden is behind the house.",
+        "The garden is between the house.",
+        "The garden is on the house."
+      ],
+      "answer": 1,
+      "explainSi": "behind = පිටිපස්සේ, in front of = ඉදිරිපිට."
+    },
+    {
+      "id": "a1-06-q16",
+      "q": "කුමන වාක්‍යය වැරදිද?",
+      "options": [
+        "There is a kitchen at the back.",
+        "There are three rooms.",
+        "There is two chairs.",
+        "There isn't a window."
+      ],
+      "answer": 2,
+      "explainSi": "'two chairs' බහුවචනයි — 'There are two chairs'."
+    },
+    {
+      "id": "a1-06-q17",
+      "context": "Our house is small, but it is enough. There are three rooms. There is a kitchen at the back.",
+      "contextSi": "අපේ ගෙදර පොඩියි, හැබැයි ඒක ඇති. කාමර තුනක් තියෙනවා. පිටිපස්සේ කුස්සියක් තියෙනවා.",
+      "q": "කතාව අනුව: 'it is enough' කියන එකෙන් අදහස් වන්නේ කුමක්ද?",
+      "options": [
+        "ගෙදර ලොකුයි",
+        "ගෙදර පොඩි වුණාට ඔවුන්ට ප්‍රමාණවත්",
+        "ගෙදර හදලා ඉවරයි",
+        "තව කාමර ඕන"
+      ],
+      "answer": 1,
+      "explainSi": "'small, but enough' — 'but' යෙදෙන්නේ බලාපොරොත්තු නොවුණු දෙයක් එනකොට."
+    },
+    {
+      "id": "a1-06-q18",
+      "context": "In the living room there is an old sofa and a small table. There is no television. There are many books on the shelf.",
+      "contextSi": "සාලයේ පරණ සෝෆාවක් සහ පොඩි මේසයක් තියෙනවා. රූපවාහිනියක් නෑ. රාක්කයේ පොත් ගොඩක් තියෙනවා.",
+      "q": "කතාව අනුව: සාලයේ නැත්තේ කුමක්ද?",
+      "options": [
+        "සෝෆාව",
+        "මේසය",
+        "රූපවාහිනිය",
+        "පොත්"
+      ],
+      "answer": 2,
+      "explainSi": "'There is no television.'"
+    },
+    {
+      "id": "a1-06-q19",
+      "context": "Behind the house there is a small garden. There are two mango trees in it. My favourite place is under the trees. It is quiet there.",
+      "contextSi": "ගෙදර පිටිපස්සේ පොඩි වත්තක් තියෙනවා. ඒකේ අඹ ගස් දෙකක් තියෙනවා. මගේ ප්‍රියතම තැන ගස් යට. එතන නිශ්ශබ්දයි.",
+      "q": "කතාව අනුව: කථකයාගේ ප්‍රියතම තැන ඒක වන්නේ ඇයි?",
+      "options": [
+        "එතන අඹ තියෙන නිසා",
+        "එතන නිශ්ශබ්ද නිසා",
+        "ඒක ලොකු නිසා",
+        "ඒක ගෙදර ඇතුළේ නිසා"
+      ],
+      "answer": 1,
+      "explainSi": "'It is quiet there' — හේතුව අන්තිම වාක්‍යයේ."
+    },
+    {
+      "id": "a1-06-q20",
+      "context": "A: Amma, where are my keys?\nB: Are they on the table?\nA: No, there is only a book on the table.",
+      "contextSi": "A: අම්මේ, මගේ යතුරු කොහෙද?\nB: ඒවා මේසය උඩද?\nA: නෑ, මේසය උඩ තියෙන්නේ පොතක් විතරයි.",
+      "q": "සංවාදයේ: මේසය උඩ තියෙන්නේ මොකක්ද?",
+      "options": [
+        "යතුරු",
+        "පොතක්",
+        "බෑග් එකක්",
+        "කිසිවක් නෑ"
+      ],
+      "answer": 1,
+      "explainSi": "'there is only a book on the table' — 'only' කියන්නේ ඒක විතරයි කියලා."
+    },
+    {
+      "id": "a1-06-q21",
+      "context": "B: Is there anything in your bag?\nA: Oh! They are in my bag. Thank you, Amma.",
+      "contextSi": "B: ඔබේ බෑග් එකේ මොනවහරි තියෙනවාද?\nA: අනේ! ඒවා මගේ බෑග් එකේ. ස්තූතියි අම්මේ.",
+      "q": "සංවාදයේ: යතුරු හම්බ වුණේ කොහොමද?",
+      "options": [
+        "අම්මා ඒවා හොයාගත්තා",
+        "අම්මා නොබැලූ තැනක් ගැන ඇහුවා",
+        "ඒවා මේසය උඩ තිබුණා",
+        "ඒවා සෝෆාව යට තිබුණා"
+      ],
+      "answer": 1,
+      "explainSi": "අම්මා හොයන්නේ නෑ — හොයන්න ඕන තැන අහනවා."
+    },
+    {
+      "id": "a1-06-q22",
+      "q": "'There is a book on the table' සහ 'The book is on the table' — වෙනස?",
+      "options": [
+        "වෙනසක් නෑ",
+        "පළමුවැන්නෙන් අලුත් දෙයක් හඳුන්වනවා, දෙවැන්නෙන් දන්න දෙයක් කොහෙද කියලා කියනවා",
+        "දෙවැන්න වැරදියි",
+        "පළමුවැන්න ප්‍රශ්නයක්"
+      ],
+      "answer": 1,
+      "explainSi": "මුලින්ම 'There is a book' — ඊට පස්සේ ඒක ගැන කථා කරද්දී 'The book is …'."
+    }
+  ]
+}

@@ -1,0 +1,903 @@
+{
+  "hero": {
+    "src": "images/a2-07-hero.webp",
+    "alt": "Ruwan searching through a shoulder bag on a table, turning it out looking for something, keys and coins spilled beside it."
+  },
+  "goalsSi": [
+    "something, anything, nothing, everything — දේවල් ගැන",
+    "somewhere, anywhere, nowhere, everywhere — තැන් ගැන",
+    "a2-06 හි නීතියම නැවත යෙදීම — some-/any-, තනි ක්‍රියාව",
+    "nothing සහ nowhere දැනටමත් negative එකක් ගෙන එන බව",
+    "ආරාධනා සහ ඉල්ලීම්වල anything/anywhere යෙදීම"
+  ],
+  "goals": [
+    "Talk about an unknown thing with something, anything, nothing, everything",
+    "Talk about an unknown place with somewhere, anywhere, nowhere, everywhere",
+    "Reuse the some-/any- split from a2-06",
+    "Avoid the double negative with nothing and nowhere",
+    "Use anything/anywhere in offers and requests"
+  ],
+  "sections": [
+    {
+      "type": "note",
+      "title": "The same system, two more categories",
+      "titleSi": "එකම ක්‍රමය, තව කාණ්ඩ දෙකක්",
+      "bodySi": "ගිය පාඩමේ ඉගෙන ගත්තා මිනිස්සු ගැන: someone, anyone, no one, everyone.\n\nඑම හතරම දේවල් ගැනත් තැන් ගැනත් තියෙනවා — වචනයේ අන්තිම කොටස විතරයි වෙනස් වෙන්නේ:\n\nමිනිස්සු → -one / -body\nදේවල් → -thing\nතැන් → -where\n\nsome- / any- / no- / every- කියන මුල් කොටස් හතරම එකයි. එනිසා අලුතින් ඉගෙන ගන්න ඕන නීතියක් නෑ — a2-06 හි ඉගෙන ගත්ත එකම නීතිය තුන්වන කාණ්ඩයටත් යෙදෙනවා:\n\nSomething is burning. — Someone is at the door. වගේම.\nI can't find it anywhere. — I don't know anyone here. වගේම.\n\nඑක් රටාවක් තුනකට. එච්චරයි.",
+      "body": "-one/-body for people, -thing for things, -where for places. Same some-/any- rule."
+    },
+    {
+      "type": "grammar",
+      "title": "something, anything, nothing, everything",
+      "titleSi": "something, anything, nothing, everything",
+      "explainSi": "දේවල් ගැන කථා කරද්දී මේ හතර. a2-06 හි එකම නීතිය: ධනාත්මකයට some-, ප්‍රශ්න/නැහැයට any-.",
+      "formula": "some-/any-/no-/every- + thing  ·  + singular verb",
+      "table": {
+        "headers": [
+          "වචනය",
+          "සිංහල",
+          "උදාහරණය"
+        ],
+        "rows": [
+          [
+            "something",
+            "යමක්",
+            "Something smells good."
+          ],
+          [
+            "anything",
+            "යමක්ද (ප්‍රශ්නය/නැහැ)",
+            "I don't have anything to wear."
+          ],
+          [
+            "nothing",
+            "කිසිවක් නෑ",
+            "Nothing happened."
+          ],
+          [
+            "everything",
+            "හැම දෙයක්ම",
+            "Everything is ready."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "Something is wrong with the printer.",
+          "si": "මුද්‍රණ යන්ත්‍රයට යමක් වෙලා තියෙනවා."
+        },
+        {
+          "en": "Is there anything I can do to help?",
+          "si": "මට උදව් කරන්න යමක් තියෙනවාද?"
+        },
+        {
+          "en": "Everything was quiet when I got home.",
+          "si": "මම ගෙදර ආපු වෙලාවේ හැම දෙයක්ම නිශ්ශබ්දයි වුණා."
+        }
+      ],
+      "watchOutSi": "'something' සහ 'anything' පසුව ක්‍රියාවක් යෙදෙනවා නම් to+ක්‍රියාව: 'nothing to do', 'anything to eat' — 'nothing to doing' නෙවෙයි."
+    },
+    {
+      "type": "grammar",
+      "title": "somewhere, anywhere, nowhere, everywhere",
+      "titleSi": "somewhere, anywhere, nowhere, everywhere",
+      "explainSi": "තැන් ගැන කථා කරද්දී මේ හතර. එකම some-/any- නීතිය.",
+      "formula": "some-/any-/no-/every- + where",
+      "table": {
+        "headers": [
+          "වචනය",
+          "සිංහල",
+          "උදාහරණය"
+        ],
+        "rows": [
+          [
+            "somewhere",
+            "කොහේහරි",
+            "Let's go somewhere quiet."
+          ],
+          [
+            "anywhere",
+            "කොහේද (ප්‍රශ්නය/නැහැ)",
+            "I can't find my keys anywhere."
+          ],
+          [
+            "nowhere",
+            "කොහෙවත් නෑ",
+            "There is nowhere to sit."
+          ],
+          [
+            "everywhere",
+            "හැම තැනකම",
+            "I looked everywhere for it."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "We're going somewhere new for lunch today.",
+          "si": "අද අපි අලුත් තැනකට කෑමට යනවා."
+        },
+        {
+          "en": "Is there anywhere near here to buy water?",
+          "si": "වතුර ගන්න මෙතන ළඟ තැනක් තියෙනවාද?"
+        },
+        {
+          "en": "There's nowhere to park on this street.",
+          "si": "මේ පාරේ වාහන නවත්තන්න තැනක් නෑ."
+        }
+      ],
+      "watchOutSi": "'no where' කියලා වචන දෙකකින් ලියන්නේ නෑ — 'nowhere' එකම වචනයක්."
+    },
+    {
+      "type": "grammar",
+      "title": "nothing and nowhere already say no",
+      "titleSi": "nothing සහ nowhere දැනටමත් 'නෑ' කියනවා",
+      "explainSi": "a2-06 හි 'no one' වගේම, 'nothing' සහ 'nowhere' යන්නෙන්ම negative අර්ථය. 'don't' එක්කත් යොදන්න බෑ.",
+      "formula": "nothing/nowhere + positive verb  (not: don't + nothing/nowhere)",
+      "table": {
+        "headers": [
+          "වැරදි",
+          "නිවැරදි",
+          "සිංහල"
+        ],
+        "rows": [
+          [
+            "I don't have nothing to say.",
+            "I have nothing to say.",
+            "මට කියන්න කිසිවක් නෑ."
+          ],
+          [
+            "I don't have nothing to say.",
+            "I don't have anything to say.",
+            "මට කියන්න කිසිවක් නෑ."
+          ],
+          [
+            "There isn't nowhere to go.",
+            "There is nowhere to go.",
+            "යන්න තැනක් නෑ."
+          ],
+          [
+            "There isn't nowhere to go.",
+            "There isn't anywhere to go.",
+            "යන්න තැනක් නෑ."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "There is nothing in the fridge.",
+          "si": "ෆ්‍රිජ් එකේ කිසිවක් නෑ."
+        },
+        {
+          "en": "There isn't anything in the fridge.",
+          "si": "ෆ්‍රිජ් එකේ කිසිවක් නෑ."
+        },
+        {
+          "en": "We found nowhere open at that hour.",
+          "si": "ඒ වෙලාවේ ඇරලා තියෙන තැනක් අපිට හම්බ වුණේ නෑ."
+        }
+      ],
+      "watchOutSi": "a2-06 හි 'no one' සහ 'don't … anyone' අතර නීතියම මතක තියාගන්න — මෙතනත් එකයි."
+    },
+    {
+      "type": "grammar",
+      "title": "anything, anywhere in offers",
+      "titleSi": "ආරාධනාවල anything, anywhere",
+      "explainSi": "a2-06 හි 'someone' ආරාධනාවලට වඩා ස්වාභාවික බව ඉගෙන ගත්තා. හැබැයි 'anything' සමඟ මේක ප්‍රතිවිරුද්ධයි — විවෘත ප්‍රශ්නයක් (කැමති ඕනෑම දෙයක්) අහද්දී 'anything' යෙදෙනවා.",
+      "formula": "Would you like anything?  ·  You can sit anywhere.",
+      "table": {
+        "headers": [
+          "වාක්‍යය",
+          "අර්ථය"
+        ],
+        "rows": [
+          [
+            "Would you like something to drink?",
+            "විශේෂිත යෝජනාවක් — තේ එකක් හෝ එබඳු දෙයක්"
+          ],
+          [
+            "Would you like anything else?",
+            "විවෘත ප්‍රශ්නයක් — ඔබ කැමති ඕනෑම දෙයක්"
+          ],
+          [
+            "Sit somewhere comfortable.",
+            "විශේෂිත තැනක් යෝජනා කරනවා"
+          ],
+          [
+            "You can sit anywhere you like.",
+            "විවෘතයි — ඕනෑම තැනක්"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "Would you like something to eat before you go?",
+          "si": "යන්න කලින් කන්න යමක් ඕනද?"
+        },
+        {
+          "en": "Feel free to ask anything you want.",
+          "si": "ඔබට ඕන ඕනෑම දෙයක් අහන්න පුළුවන්."
+        },
+        {
+          "en": "Sit anywhere — we have plenty of space.",
+          "si": "ඕනෑම තැනක ඉඳගන්න — ඉඩ ගොඩක් තියෙනවා."
+        }
+      ],
+      "watchOutSi": "'something' යෙදුවොත් යෝජනාවක් (තේ එකක්ද?). 'anything' යෙදුවොත් තෝරාගැනීම දෙන්නවා (ඔබ ඕන දෙයක්)."
+    },
+    {
+      "type": "vocab",
+      "title": "Things, places and searching",
+      "titleSi": "දේවල්, තැන් සහ හොයන එක",
+      "items": [
+        {
+          "en": "something",
+          "si": "යමක්",
+          "say": "සම්තින්"
+        },
+        {
+          "en": "anything",
+          "si": "යමක්ද",
+          "say": "එනිතින්"
+        },
+        {
+          "en": "nothing",
+          "si": "කිසිවක් නෑ",
+          "say": "නතින්"
+        },
+        {
+          "en": "everything",
+          "si": "හැම දෙයක්ම",
+          "say": "එව්රිතින්"
+        },
+        {
+          "en": "somewhere",
+          "si": "කොහේහරි",
+          "say": "සම්වෙයාර්"
+        },
+        {
+          "en": "anywhere",
+          "si": "කොහේද",
+          "say": "එනිවෙයාර්"
+        },
+        {
+          "en": "nowhere",
+          "si": "කොහෙවත් නෑ",
+          "say": "නෝවෙයාර්"
+        },
+        {
+          "en": "everywhere",
+          "si": "හැම තැනකම",
+          "say": "එව්රිවෙයාර්"
+        },
+        {
+          "en": "search",
+          "si": "සොයනවා",
+          "say": "සර්ච්"
+        },
+        {
+          "en": "missing",
+          "si": "නැති වූ",
+          "say": "මිසිං"
+        },
+        {
+          "en": "drawer",
+          "si": "ලාච්චුව",
+          "say": "ඩ්‍රෝවර්"
+        },
+        {
+          "en": "shelf",
+          "si": "රාක්කය",
+          "say": "ෂෙල්ෆ්"
+        },
+        {
+          "en": "pocket",
+          "si": "සාක්කුව",
+          "say": "පොකට්"
+        },
+        {
+          "en": "spare",
+          "si": "අමතර",
+          "say": "ස්පෙයාර්"
+        },
+        {
+          "en": "in the end",
+          "si": "අන්තිමට",
+          "say": "ඉන් ද එන්ඩ්"
+        },
+        {
+          "en": "turn out",
+          "si": "අන්තිමට වෙන්නේ",
+          "say": "ටර්න් අවුට්"
+        }
+      ]
+    },
+    {
+      "type": "story",
+      "title": "The Missing Key",
+      "titleSi": "නැති වූ යතුර",
+      "introSi": "යතුරක් හොයන කතාවක්. something/anything, somewhere/anywhere, nothing/nowhere එනවා — කියවන අතරේ ගණන් කරන්න.",
+      "paragraphs": [
+        {
+          "en": "On Saturday morning, my father could not find the spare key to the shop. \"I put it somewhere safe,\" he said, which is what he always says.",
+          "si": "සෙනසුරාදා උදේ, තාත්තාට කඩේ අමතර යතුර හම්බ වුණේ නෑ. \"මම ඒක ආරක්ෂිත තැනක තිබ්බා,\" එයා කිව්වා, එයා හැම විටම කියන දේ."
+        },
+        {
+          "en": "We looked everywhere. Nothing was in the usual drawer. There was nothing on the shelf either, and nothing in his jacket pockets.",
+          "si": "අපි හැම තැනකම හෙව්වා. සාමාන්‍ය ලාච්චුවේ කිසිවක් තිබුණේ නෑ. රාක්කයේත් කිසිවක් තිබුණේ නෑ, එයාගේ ජැකට් සාක්කුවලත් කිසිවක් තිබුණේ නෑ."
+        },
+        {
+          "en": "\"Is there anything unusual you did yesterday?\" I asked. \"Anything at all?\" He thought for a moment. \"Nothing,\" he said. Then, \"Wait — something.\"",
+          "si": "\"ඊයේ ඔබ අමුතු දෙයක් කළාද?\" මම ඇහුවා. \"මොනවහරි?\" එයා විනාඩියක් හිතුවා. \"කිසිවක් නෑ,\" එයා කිව්වා. එතකොට, \"ඉන්න — යමක්.\""
+        },
+        {
+          "en": "He remembered putting the key somewhere new, to keep it safe from my little cousins. But he could not remember where that somewhere was.",
+          "si": "එයාට මතක් වුණා යතුර අලුත් තැනක තිබ්බා කියලා, මගේ පොඩි නෑනා මස්සිනාලාගෙන් ආරක්ෂා කරන්න. හැබැයි ඒ 'අලුත් තැන' කුමක්ද කියලා එයාට මතක් වුණේ නෑ."
+        },
+        {
+          "en": "We searched everywhere again — this time more carefully. Finally, my mother found it, inside an old teapot nobody used any more.",
+          "si": "අපි ආපහු හැම තැනකම හෙව්වා — මේ පාර වඩාත් ප්‍රවේශමින්. අන්තිමට, අම්මා ඒක හම්බ කළා, කවුරුවත් දැන් පාවිච්චි නොකරන පරණ තේ බඳුනක් ඇතුළේ."
+        },
+        {
+          "en": "\"You see,\" my father said, \"I did put it somewhere safe.\" Nobody argued. It was, after all, technically true.",
+          "si": "\"බලන්න,\" තාත්තා කිව්වා, \"මම ඇත්තටම ඒක ආරක්ෂිත තැනක තිබ්බා.\" කවුරුවත් තර්ක කළේ නෑ. ඇත්තටම, තාක්ෂණිකව ඒක ඇත්තක්."
+        }
+      ],
+      "glossary": [
+        {
+          "en": "spare key",
+          "si": "අමතර යතුර"
+        },
+        {
+          "en": "usual",
+          "si": "සාමාන්‍ය"
+        },
+        {
+          "en": "unusual",
+          "si": "අමුතු"
+        },
+        {
+          "en": "remember",
+          "si": "මතක් වෙනවා"
+        },
+        {
+          "en": "search",
+          "si": "සොයනවා"
+        },
+        {
+          "en": "carefully",
+          "si": "ප්‍රවේශමින්"
+        },
+        {
+          "en": "teapot",
+          "si": "තේ බඳුන"
+        },
+        {
+          "en": "argue",
+          "si": "තර්ක කරනවා"
+        },
+        {
+          "en": "technically",
+          "si": "තාක්ෂණිකව"
+        }
+      ],
+      "questionsSi": [
+        "යතුර හොයන්න පළමුව බැලූ තැන් තුනක් කුමක්ද?",
+        "'Nothing,' ... 'Wait — something' කියද්දී තාත්තාට මතක් වුණේ මොකක්ද?",
+        "යතුර අන්තිමට හම්බ වුණේ කොහෙන්ද?",
+        "අන්තිම වාක්‍යයේ විහිළුව කුමක්ද?"
+      ]
+    },
+    {
+      "type": "poem",
+      "title": "Nothing, Everywhere",
+      "titleSi": "කිසිවක් නෑ, හැම තැනම",
+      "introSi": "සරල කවියක් — දේවල් සහ තැන් දෙකම එනවා.",
+      "lines": [
+        {
+          "en": "I have nothing new to tell you,",
+          "si": "ඔබට කියන්න මට අලුත් කිසිවක් නෑ,"
+        },
+        {
+          "en": "Nowhere new that I have been.",
+          "si": "මම ගිය අලුත් තැනක් නෑ."
+        },
+        {
+          "en": "Just the same old streets and faces,",
+          "si": "එකම පරණ වීදි සහ මුහුණු විතරයි,"
+        },
+        {
+          "en": "Everything the way it's seen.",
+          "si": "පේන විදිහටම හැම දෙයක්ම."
+        },
+        {
+          "en": "",
+          "si": ""
+        },
+        {
+          "en": "But something in the quiet evening",
+          "si": "හැබැයි නිශ්ශබ්ද හවසේ යමක්"
+        },
+        {
+          "en": "Makes me want to write this down —",
+          "si": "මට මේක ලියන්න ඕන කරවනවා —"
+        },
+        {
+          "en": "Nothing happened. Nowhere special.",
+          "si": "කිසිවක් වුණේ නෑ. විශේෂ තැනක් නෑ."
+        },
+        {
+          "en": "Somehow, still, my favourite town.",
+          "si": "එතත්, තාමත්, මගේ ප්‍රියතම නගරය."
+        }
+      ],
+      "noteSi": "'nothing new', 'nowhere new', 'everything the way it's seen' — කවියේ මුල් කොටස මුළුමනින්ම මේ පාඩමේ වචනවලින්."
+    },
+    {
+      "type": "dialogue",
+      "title": "Would you like anything else?",
+      "titleSi": "ඔබට වෙන දෙයක් ඕනද?",
+      "settingSi": "කැෆේ එකක ඇණවුම් කිරීම. something/anything වෙනස බලන්න.",
+      "lines": [
+        {
+          "speaker": "Waiter",
+          "en": "Good afternoon. Would you like something to drink first?",
+          "si": "සුබ දහවලක්. මුලින්ම බොන්න යමක් ඕනද?"
+        },
+        {
+          "speaker": "Nadeesha",
+          "en": "Yes, could I have a tea, please?",
+          "si": "ඔව්, තේ එකක් ගන්න පුළුවන්ද?"
+        },
+        {
+          "speaker": "Waiter",
+          "en": "Of course. And would you like anything to eat?",
+          "si": "අනිවාර්යයෙන්. කන්න යමක්ද ඕන?"
+        },
+        {
+          "speaker": "Nadeesha",
+          "en": "Is there anything without sugar? I'm avoiding sweet things this week.",
+          "si": "සීනි නැති දෙයක් තියෙනවාද? මේ සතියේ මිහිරි දේවල් මම මගහරිනවා."
+        },
+        {
+          "speaker": "Waiter",
+          "en": "We have plain toast, or eggs — nothing sweet in either.",
+          "si": "අපිට සරල පාන් ටෝස්ට් එකක්, බිත්තර — දෙකෙන් එකකවත් මිහිරි කිසිවක් නෑ."
+        },
+        {
+          "speaker": "Nadeesha",
+          "en": "Eggs, please. Thank you.",
+          "si": "බිත්තර ගන්නවා. ස්තූතියි."
+        },
+        {
+          "speaker": "Waiter",
+          "en": "Anything else? We're not busy — take your time.",
+          "si": "වෙන යමක්ද? අපි කාර්යබහුල නෑ — හෙමින් තෝරන්න."
+        },
+        {
+          "speaker": "Nadeesha",
+          "en": "No, that's everything. Thank you.",
+          "si": "නෑ, ඒක ඇති. ස්තූතියි."
+        }
+      ]
+    },
+    {
+      "type": "practice",
+      "title": "something, anything, nothing or everything?",
+      "titleSi": "something, anything, nothing නැත්නම් everything?",
+      "instructionSi": "ධනාත්මකද, ප්‍රශ්නයක්ද, නැහැයක්ද කියලා බලන්න.",
+      "items": [
+        {
+          "prompt": "___ smells good in the kitchen.",
+          "answer": "Something",
+          "hintSi": "ධනාත්මක.",
+          "full": "Something smells good in the kitchen."
+        },
+        {
+          "prompt": "Is there ___ I can do to help?",
+          "answer": "anything",
+          "hintSi": "ප්‍රශ්නය.",
+          "full": "Is there anything I can do to help?"
+        },
+        {
+          "prompt": "There is ___ in the fridge.",
+          "answer": "nothing",
+          "hintSi": "දැනටමත් negative.",
+          "full": "There is nothing in the fridge."
+        },
+        {
+          "prompt": "___ is ready for the party.",
+          "answer": "Everything",
+          "hintSi": "හැම දෙයක්ම.",
+          "full": "Everything is ready for the party."
+        },
+        {
+          "prompt": "I looked ___ for my glasses.",
+          "answer": "everywhere",
+          "hintSi": "හැම තැනකම.",
+          "full": "I looked everywhere for my glasses."
+        },
+        {
+          "prompt": "There's ___ to sit — every seat is full.",
+          "answer": "nowhere",
+          "hintSi": "දැනටමත් negative.",
+          "full": "There's nowhere to sit — every seat is full."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "en": "something",
+      "si": "යමක්"
+    },
+    {
+      "en": "anything",
+      "si": "යමක්ද"
+    },
+    {
+      "en": "nothing",
+      "si": "කිසිවක් නෑ"
+    },
+    {
+      "en": "everything",
+      "si": "හැම දෙයක්ම"
+    },
+    {
+      "en": "somewhere",
+      "si": "කොහේහරි"
+    },
+    {
+      "en": "anywhere",
+      "si": "කොහේද"
+    },
+    {
+      "en": "nowhere",
+      "si": "කොහෙවත් නෑ"
+    },
+    {
+      "en": "everywhere",
+      "si": "හැම තැනකම"
+    },
+    {
+      "en": "search",
+      "si": "සොයනවා"
+    },
+    {
+      "en": "missing",
+      "si": "නැති වූ"
+    },
+    {
+      "en": "drawer",
+      "si": "ලාච්චුව"
+    },
+    {
+      "en": "shelf",
+      "si": "රාක්කය"
+    },
+    {
+      "en": "pocket",
+      "si": "සාක්කුව"
+    },
+    {
+      "en": "spare",
+      "si": "අමතර"
+    },
+    {
+      "en": "unusual",
+      "si": "අමුතු"
+    },
+    {
+      "en": "remember",
+      "si": "මතක් වෙනවා"
+    },
+    {
+      "en": "carefully",
+      "si": "ප්‍රවේශමින්"
+    },
+    {
+      "en": "argue",
+      "si": "තර්ක කරනවා"
+    },
+    {
+      "en": "avoid",
+      "si": "මගහරිනවා"
+    },
+    {
+      "en": "plain",
+      "si": "සරල"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "a2-07-q1",
+      "q": "'කුස්සියේ යමක් සුවඳයි' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "Anything smells good in the kitchen.",
+        "Something smells good in the kitchen.",
+        "Nothing smells good in the kitchen.",
+        "Something smell good in the kitchen."
+      ],
+      "answer": 1,
+      "explainSi": "ධනාත්මක වාක්‍යයක් — 'something', සහ තනි ක්‍රියාව 'smells'.",
+      "speak": "Something smells good in the kitchen."
+    },
+    {
+      "id": "a2-07-q2",
+      "q": "'මට කියන්න යමක්වත් නෑ' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "I have anything to say.",
+        "I have nothing to say.",
+        "I have no to say.",
+        "I have not anything say."
+      ],
+      "answer": 1,
+      "explainSi": "'nothing' දැනටමත් negative — ධනාත්මක ක්‍රියාවක් සමඟ.",
+      "speak": "I have nothing to say."
+    },
+    {
+      "id": "a2-07-q3",
+      "q": "'I don't have nothing to say' වැරදි වන්නේ ඇයි?",
+      "options": [
+        "'nothing' යෙදිය නොහැකි නිසා",
+        "'nothing' එකේම negative අර්ථය තියෙන නිසා — 'don't' එක්කත් යෙදුවම දෙපාරක් නැහැ කියනවා",
+        "'say' වැරදි ස්වරූපය නිසා",
+        "වැරදි නෑ"
+      ],
+      "answer": 1,
+      "explainSi": "a2-06 හි 'no one' වගේම — double negative."
+    },
+    {
+      "id": "a2-07-q4",
+      "q": "'මගේ කණ්ණාඩි මට හැම තැනකම හෙව්වා' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "I looked everywhere for my glasses.",
+        "I looked anywhere for my glasses.",
+        "I looked nowhere for my glasses.",
+        "I looked somewhere for my glasses."
+      ],
+      "answer": 0,
+      "explainSi": "'everywhere' — හැම තැනකම.",
+      "speak": "I looked everywhere for my glasses."
+    },
+    {
+      "id": "a2-07-q5",
+      "q": "'ඉඳගන්න තැනක් නෑ — ආසන හැම එකම පිරිලා' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "There's everywhere to sit.",
+        "There's nowhere to sit.",
+        "There's anywhere to sit.",
+        "There's somewhere to sit."
+      ],
+      "answer": 1,
+      "explainSi": "'nowhere' දැනටමත් negative.",
+      "speak": "There's nowhere to sit."
+    },
+    {
+      "id": "a2-07-q6",
+      "q": "'no where' ලියන්නේ කොහොමද?",
+      "options": [
+        "no where (වචන දෙකක්)",
+        "nowhere (එකම වචනයක්)",
+        "no-where",
+        "දෙකම හරි"
+      ],
+      "answer": 1,
+      "explainSi": "'nowhere' එකම වචනයක් — 'anywhere', 'somewhere', 'everywhere' වගේම."
+    },
+    {
+      "id": "a2-07-q7",
+      "q": "'Would you like something to drink?' සහ 'Would you like anything else?' — වෙනස කුමක්ද?",
+      "options": [
+        "වෙනසක් නෑ",
+        "පළමුවැන්න විශේෂිත යෝජනාවක්, දෙවැන්න විවෘත ප්‍රශ්නයක්",
+        "දෙවැන්න රළුයි",
+        "පළමුවැන්න වැරදියි"
+      ],
+      "answer": 1,
+      "explainSi": "'something' = යෝජනාවක්. 'anything' = ඔබ ඕන දෙයක් තෝරන්න."
+    },
+    {
+      "id": "a2-07-q8",
+      "q": "'ඔබට ඕන ඕනෑම දෙයක් අහන්න පුළුවන්' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "Feel free to ask something you want.",
+        "Feel free to ask anything you want.",
+        "Feel free to ask nothing you want.",
+        "Feel free to ask everything you want."
+      ],
+      "answer": 1,
+      "explainSi": "විවෘත තෝරාගැනීමක් — 'anything'.",
+      "speak": "Feel free to ask anything you want."
+    },
+    {
+      "id": "a2-07-q9",
+      "q": "'nothing to do' සහ 'nothing to doing' — කුමක් නිවැරදිද?",
+      "options": [
+        "nothing to do",
+        "nothing to doing",
+        "nothing doing",
+        "nothing for do"
+      ],
+      "answer": 0,
+      "explainSi": "'something/anything/nothing' පසුව 'to' + ක්‍රියාවේ මූලික ස්වරූපය."
+    },
+    {
+      "id": "a2-07-q10",
+      "q": "'මම ගෙදර ආපු වෙලාවේ හැම දෙයක්ම නිශ්ශබ්දයි වුණා' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "Nothing was quiet when I got home.",
+        "Everything was quiet when I got home.",
+        "Anything was quiet when I got home.",
+        "Everywhere was quiet when I got home."
+      ],
+      "answer": 1,
+      "explainSi": "'everything' — දේවල් ගැන, 'everywhere' තැන් ගැන.",
+      "speak": "Everything was quiet when I got home."
+    },
+    {
+      "id": "a2-07-q11",
+      "context": "On Saturday morning, my father could not find the spare key to the shop. \"I put it somewhere safe,\" he said, which is what he always says.",
+      "contextSi": "සෙනසුරාදා උදේ, තාත්තාට කඩේ අමතර යතුර හම්බ වුණේ නෑ. \"මම ඒක ආරක්ෂිත තැනක තිබ්බා,\" එයා කිව්වා, එයා හැම විටම කියන දේ.",
+      "q": "කතාව අනුව: 'which is what he always says' කියන එකෙන් අදහස් වන්නේ කුමක්ද?",
+      "options": [
+        "එයා හැම විටම හරි",
+        "එයා මේ දෙය කලින් කිහිප වතාවක් කියලා තියෙනවා — විශ්වාසය අඩුයි",
+        "එයාට කථා කරන්න බෑ",
+        "එයාට තව යතුරක් තියෙනවා"
+      ],
+      "answer": 1,
+      "explainSi": "'always says' — මුලින්ම කියවද්දීම, මේ පිළිතුර විශ්වාස කරන්න එදාහෙට වගේ නෑ කියලා ඉඟි කරනවා."
+    },
+    {
+      "id": "a2-07-q12",
+      "context": "We looked everywhere. Nothing was in the usual drawer. There was nothing on the shelf either, and nothing in his jacket pockets.",
+      "contextSi": "අපි හැම තැනකම හෙව්වා. සාමාන්‍ය ලාච්චුවේ කිසිවක් තිබුණේ නෑ. රාක්කයේත් කිසිවක් තිබුණේ නෑ, එයාගේ ජැකට් සාක්කුවලත් කිසිවක් තිබුණේ නෑ.",
+      "q": "කතාව අනුව: හෙව්ව තැන් තුනෙන් යතුර හම්බ වුණාද?",
+      "options": [
+        "ඔව්, ලාච්චුවේ",
+        "ඔව්, රාක්කයේ",
+        "නෑ, තුනෙන් එකකවත් නෑ",
+        "ඔව්, සාක්කුවේ"
+      ],
+      "answer": 2,
+      "explainSi": "'Nothing was in … either … and nothing in …' — තුනම හිස්."
+    },
+    {
+      "id": "a2-07-q13",
+      "context": "\"Is there anything unusual you did yesterday?\" I asked. \"Anything at all?\" He thought for a moment. \"Nothing,\" he said. Then, \"Wait — something.\"",
+      "contextSi": "\"ඊයේ ඔබ අමුතු දෙයක් කළාද?\" මම ඇහුවා. \"මොනවහරි?\" එයා විනාඩියක් හිතුවා. \"කිසිවක් නෑ,\" එයා කිව්වා. එතකොට, \"ඉන්න — යමක්.\"",
+      "q": "කතාව අනුව: තාත්තා 'Nothing' කියලා පස්සේ 'Wait — something' කියන්නේ ඇයි?",
+      "options": [
+        "එයාට ප්‍රශ්නය තේරුණේ නෑ",
+        "මුලින් හිතුවේ අමුතු දෙයක් නෑ කියලා, පස්සේ මතක් වුණා",
+        "එයා බොරු කියනවා",
+        "එයාට කථා කරන්න ලැජ්ජා"
+      ],
+      "answer": 1,
+      "explainSi": "'He thought for a moment' — හිතලා බැලුවම මතක් වුණේ."
+    },
+    {
+      "id": "a2-07-q14",
+      "context": "He remembered putting the key somewhere new, to keep it safe from my little cousins. But he could not remember where that somewhere was.",
+      "contextSi": "එයාට මතක් වුණා යතුර අලුත් තැනක තිබ්බා කියලා, මගේ පොඩි නෑනා මස්සිනාලාගෙන් ආරක්ෂා කරන්න. හැබැයි ඒ 'අලුත් තැන' කුමක්ද කියලා එයාට මතක් වුණේ නෑ.",
+      "q": "කතාව අනුව: තාත්තා යතුර 'අලුත් තැනකට' දැම්මේ ඇයි?",
+      "options": [
+        "එයාට ලාච්චුව ගැන කැමති නෑ",
+        "පොඩි නෑනා මස්සිනාලාගෙන් ආරක්ෂා කරන්න",
+        "යතුර නැති කරන්න",
+        "ලාච්චුව පිරිලා තියෙන නිසා"
+      ],
+      "answer": 1,
+      "explainSi": "'to keep it safe from my little cousins.'"
+    },
+    {
+      "id": "a2-07-q15",
+      "context": "Finally, my mother found it, inside an old teapot nobody used any more.",
+      "contextSi": "අන්තිමට, අම්මා ඒක හම්බ කළා, කවුරුවත් දැන් පාවිච්චි නොකරන පරණ තේ බඳුනක් ඇතුළේ.",
+      "q": "කතාව අනුව: යතුර අන්තිමට හම්බ වුණේ කොහෙන්ද?",
+      "options": [
+        "ලාච්චුවෙන්",
+        "රාක්කයෙන්",
+        "පරණ තේ බඳුනකින්",
+        "සාක්කුවෙන්"
+      ],
+      "answer": 2,
+      "explainSi": "'inside an old teapot nobody used any more.'"
+    },
+    {
+      "id": "a2-07-q16",
+      "context": "\"You see,\" my father said, \"I did put it somewhere safe.\" Nobody argued. It was, after all, technically true.",
+      "contextSi": "\"බලන්න,\" තාත්තා කිව්වා, \"මම ඇත්තටම ඒක ආරක්ෂිත තැනක තිබ්බා.\" කවුරුවත් තර්ක කළේ නෑ. ඇත්තටම, තාක්ෂණිකව ඒක ඇත්තක්.",
+      "q": "කතාව අනුව: 'technically true' කියන එකෙන් අදහස් වන්නේ කුමක්ද?",
+      "options": [
+        "තාත්තා මුළුමනින්ම වැරදියි",
+        "වචනයෙන් කිව්වේ ඇත්ත, නමුත් ඒක සොයාගන්න ලේසි කළේ නෑ",
+        "තේ බඳුන ආරක්ෂිත නෑ",
+        "අම්මාට හම්බ වුණේ වාසනාවට"
+      ],
+      "answer": 1,
+      "explainSi": "'somewhere safe' කිව්වට, 'safe' කියන්නෙන්ම 'හොයාගන්න ලේසි' කියලා අර්ථයක් නෑ — විහිළුව එතනයි."
+    },
+    {
+      "id": "a2-07-q17",
+      "context": "I have nothing new to tell you, / Nowhere new that I have been. / Just the same old streets and faces, / Everything the way it's seen.",
+      "contextSi": "ඔබට කියන්න මට අලුත් කිසිවක් නෑ, / මම ගිය අලුත් තැනක් නෑ. / එකම පරණ වීදි සහ මුහුණු විතරයි, / පේන විදිහටම හැම දෙයක්ම.",
+      "q": "කවියේ පළමු කොටසේ දෙබස් කරන කෙනාගේ ජීවිතය කොහොමද?",
+      "options": [
+        "ඉතා කාර්යබහුල",
+        "එකම දේවල්, එකම තැන් — වෙනසක් නෑ",
+        "එයා ගොඩක් ගමන් කරනවා",
+        "එයාට ගොඩක් අලුත් යාළුවෝ"
+      ],
+      "answer": 1,
+      "explainSi": "'nothing new … nowhere new … the same old …' — වෙනසක් නැති දවසක්."
+    },
+    {
+      "id": "a2-07-q18",
+      "context": "Nothing happened. Nowhere special. / Somehow, still, my favourite town.",
+      "contextSi": "කිසිවක් වුණේ නෑ. විශේෂ තැනක් නෑ. / එතත්, තාමත්, මගේ ප්‍රියතම නගරය.",
+      "q": "කවියේ අන්තිම පේළියේ 'Somehow, still' කියන එකෙන් අදහස් වන්නේ කුමක්ද?",
+      "options": [
+        "නගරය අමුතුයි",
+        "විශේෂ කිසිවක් නොවුණාට, එයාට ඒක තාමත් ප්‍රියතමයි",
+        "එයාට නගරය අකමැතියි",
+        "එයා නගරයෙන් යනවා"
+      ],
+      "answer": 1,
+      "explainSi": "'Nothing happened … Somehow, still' — විශේෂත්වයක් නැති දෙයක් තාමත් වටිනවා."
+    },
+    {
+      "id": "a2-07-q19",
+      "context": "Nadeesha: Is there anything without sugar? I'm avoiding sweet things this week.\nWaiter: We have plain toast, or eggs — nothing sweet in either.",
+      "contextSi": "නදීෂා: සීනි නැති දෙයක් තියෙනවාද? මේ සතියේ මිහිරි දේවල් මම මගහරිනවා.\nවේටර්: අපිට සරල පාන් ටෝස්ට් එකක්, බිත්තර — දෙකෙන් එකකවත් මිහිරි කිසිවක් නෑ.",
+      "q": "සංවාදයේ: නදීෂාට මිහිරි දේවල් ඕන නැත්තේ ඇයි?",
+      "options": [
+        "එයාට එයට කැමති නෑ",
+        "එයා මේ සතියේ මිහිරි දේවල් මගහරිනවා",
+        "රෙස්ටුරන්ට් එකේ මිහිරි කිසිවක් නෑ",
+        "එයාට සීනි නෑ"
+      ],
+      "answer": 1,
+      "explainSi": "'I'm avoiding sweet things this week.'"
+    },
+    {
+      "id": "a2-07-q20",
+      "context": "Waiter: Anything else? We're not busy — take your time.\nNadeesha: No, that's everything. Thank you.",
+      "contextSi": "වේටර්: වෙන යමක්ද? අපි කාර්යබහුල නෑ — හෙමින් තෝරන්න.\nනදීෂා: නෑ, ඒක ඇති. ස්තූතියි.",
+      "q": "සංවාදයේ: 'that's everything' කියන එකෙන් අදහස් වන්නේ කුමක්ද?",
+      "options": [
+        "එයා තව ඇණවුමක් කරනවා",
+        "ඇණවුම මුළුමනින්ම ඉවර",
+        "එයාට කෑම ලැබුණේ නෑ",
+        "වේටර්ට තේරෙන්නේ නෑ"
+      ],
+      "answer": 1,
+      "explainSi": "'everything' මෙතන ඇණවුම මුළුමනින්ම — 'that's everything' = 'ඒවා ඇති, තව අවශ්‍ය නෑ'."
+    },
+    {
+      "id": "a2-07-q21",
+      "q": "කුමන වාක්‍යය වැරදිද?",
+      "options": [
+        "There's nothing in my bag.",
+        "I can't find my phone anywhere.",
+        "There isn't nowhere to sit.",
+        "Is there anything I can bring?"
+      ],
+      "answer": 2,
+      "explainSi": "'There is nowhere to sit' හෝ 'There isn't anywhere to sit' — 'isn't' සහ 'nowhere' එකට යොදන්නේ නෑ."
+    },
+    {
+      "id": "a2-07-q22",
+      "q": "'ෆ්‍රිජ් එකේ කිසිවක් නෑ' — නිවැරදි ක්‍රම දෙක?",
+      "options": [
+        "There is nothing in the fridge. / There isn't anything in the fridge.",
+        "There is anything in the fridge. / There isn't nothing in the fridge.",
+        "There is nothing in the fridge. / There isn't nothing in the fridge.",
+        "There isn't everything in the fridge."
+      ],
+      "answer": 0,
+      "explainSi": "'nothing' + ධනාත්මක, හෝ 'isn't' + 'anything' — දෙකම හරි, දෙපාරක් negative නෙවෙයි.",
+      "speak": "There is nothing in the fridge."
+    }
+  ]
+}

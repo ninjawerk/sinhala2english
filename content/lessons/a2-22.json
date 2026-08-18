@@ -1,0 +1,778 @@
+{
+  "hero": {
+    "src": "images/a2-22-hero.webp",
+    "alt": "Nadeesha standing in a hallway beside a packed suitcase by the front door, coat over one arm, glancing at her watch, ready far too early, morning light through the doorway."
+  },
+  "goalsSi": [
+    "a2-10 හි ඉගෙන ගත් present perfect එකට already, just, yet එකතු කිරීම",
+    "already — හිතුවට වඩා කලින් සිද්ධ වුණා කියන එක",
+    "just — දැන් මේ ටිකේ, විනාඩි කිහිපයකට කලින්",
+    "yet — තාම වෙලා නැති දේ ගැන අහන්නත්, නැහැ කියන්නත්",
+    "මේ වචන තුන වාක්‍යයේ කොහෙද තියෙන්නේ කියන එක",
+    "already සහ yet අතර වෙනස — එකම ප්‍රශ්නය, වෙනස් අපේක්ෂාවක්"
+  ],
+  "goals": [
+    "Add already, just and yet to the present perfect from a2-10",
+    "Use already for something that happened sooner than expected",
+    "Use just for something that happened a moment ago",
+    "Use yet in questions and negatives about things that have not happened",
+    "Put each word in its correct place in the sentence",
+    "Tell already and yet apart"
+  ],
+  "sections": [
+    {
+      "type": "note",
+      "title": "Three small words",
+      "titleSi": "පොඩි වචන තුනක්",
+      "bodySi": "a2-10 හි අපි present perfect එක ඉගෙන ගත්තා: have/has + past participle. 'I have finished my work.' — වැඩේ ඉවරයි, කවදාද කියලා කියන්නේ නෑ.\n\nදැන් ඒ වාක්‍යයට පොඩි වචනයක් එකතු කරලා බලමු. එකම වාක්‍යය, තුන් විදිහකට:\n\n'I have already finished.' — හිතුවට වඩා කලින් ඉවර වුණා.\n'I have just finished.' — දැන් මේ ටිකේ ඉවර වුණා.\n'I haven't finished yet.' — තාම ඉවර නෑ, නමුත් ඉවර වෙයි.\n\nවචනේ එකයි — finished. වෙනස් වෙන්නේ කාලය ගැන අපි දෙන හැඟීමයි. මේ තුන ඉංග්‍රීසි කථාවේ හරිම බහුලයි, ඒ නිසා මේ පාඩම ටිකක් හෙමින් කරන්න.",
+      "body": "In a2-10 you learned have/has + past participle. These three little words change what the sentence feels like, without changing the verb."
+    },
+    {
+      "type": "grammar",
+      "title": "already — sooner than expected",
+      "titleSi": "already — හිතුවට වඩා කලින්",
+      "explainSi": "'Already' කියන්නේ දෙයක් සිද්ධ වෙලා තියෙනවා — ඒත් අපි හිතුවට වඩා කලින්. ඒකේ තියෙන්නේ පොඩි පුදුමයක්.\n\nතැන: have සහ past participle අතරේ.\n\n'I have already eaten.' — කන්න එන්න කිව්වට, මම කාලා ඉවරයි.\n'She has already left.' — ඇය ගිහින්. දැනටමත්.\n\nප්‍රශ්නයකදීත් යොදන්න පුළුවන් — එතකොට ඒකේ තියෙන්නේ පුදුමය: 'Have you already finished?' — 'මොකද, දැනටමත් ඉවරද?'",
+      "explain": "Already means it has happened — and sooner than expected. It sits between have and the past participle.",
+      "formula": "subject + have/has + already + past participle",
+      "table": {
+        "headers": [
+          "English",
+          "සිංහල",
+          "හැඟීම"
+        ],
+        "rows": [
+          [
+            "I have already eaten.",
+            "මම කාලා ඉවරයි.",
+            "බලාපොරොත්තු වුණාට වඩා කලින්"
+          ],
+          [
+            "He has already gone.",
+            "එයා ගිහින්.",
+            "ඉක්මනට"
+          ],
+          [
+            "Have you already read it?",
+            "දැනටමත් කියෙව්වද?",
+            "පුදුමය"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "I have already sent the message.",
+          "si": "මම දැනටමත් පණිවිඩය යවලා."
+        },
+        {
+          "en": "They have already paid the bill.",
+          "si": "ඒගොල්ලෝ බිල එකත් ගෙවලා ඉවරයි."
+        },
+        {
+          "en": "She has already answered you.",
+          "si": "ඇය දැනටමත් ඔබට උත්තර දීලා."
+        }
+      ],
+      "watchOutSi": "'Already' කවදාවත් වාක්‍යය අගට යන්නේ නෑ present perfect එකේදී. 'I have eaten already' කියලා කථා කරන අය ඉන්නවා, ඒත් ඉගෙන ගන්නකොට මැදට දාන එක හරි."
+    },
+    {
+      "type": "grammar",
+      "title": "just — a moment ago",
+      "titleSi": "just — දැන් මේ ටිකේ",
+      "explainSi": "'Just' කියන්නේ ගොඩක් ලඟදී — විනාඩි කිහිපයකට කලින්, තත්පර ගණනකට කලින්. සිද්ධිය ඉවරයි, ඒත් ඒක තාම උණුසුම්.\n\nතැන: already වගේම, have සහ past participle අතරේ.\n\n'I have just arrived.' — දැන් තමයි ආවේ.\n'The bus has just left.' — බස් එක දැන් තමයි ගියේ. (තව විනාඩියක් කලින් ආවා නම්...)\n\nමෙතන 'just' කියන්නේ 'විතරක්' නෙවෙයි කියන එක මතක තියාගන්න. 'I just want tea' කියන එකේ 'just' එකේ තේරුම වෙනස්.",
+      "explain": "Just means very recently — a few minutes or seconds ago. It goes in the same place as already.",
+      "formula": "subject + have/has + just + past participle",
+      "examples": [
+        {
+          "en": "I have just finished my homework.",
+          "si": "මම දැන් තමයි ගෙදර වැඩේ ඉවර කළේ."
+        },
+        {
+          "en": "We have just come back from the market.",
+          "si": "අපි දැන් තමයි පොළෙන් ආවේ."
+        },
+        {
+          "en": "He has just called you.",
+          "si": "එයා දැන් තමයි ඔබට කතා කළේ."
+        }
+      ],
+      "watchOutSi": "'Just' කියන වචනයට තේරුම් දෙකක් තියෙනවා. 'I have just eaten' = දැන් තමයි කෑවේ. 'I just want water' = මට ඕන වතුර විතරයි. කාලය ගැනද, ප්‍රමාණය ගැනද කියලා වාක්‍යයෙන් තේරුම් ගන්න."
+    },
+    {
+      "type": "grammar",
+      "title": "yet — not so far",
+      "titleSi": "yet — තාම නෑ",
+      "explainSi": "'Yet' යොදන්නේ තැන් දෙකකයි: ප්‍රශ්නවලට, සහ නැහැ කියන වාක්‍යවලට. හරි වාක්‍යවලට (positive) 'yet' යන්නේ නෑ.\n\nතැන: වාක්‍යය අගට.\n\nප්‍රශ්නය: 'Have you eaten yet?' — කාලා ඉවරද? (තාම නැත්නම් කමක් නෑ, අහනවා විතරයි)\nනැහැ: 'I haven't eaten yet.' — තාම කාලා නෑ.\n\n'Yet' එකේ තියෙන වැදගත්ම දේ: ඒක සිද්ධ වෙයි කියලා අපි බලාපොරොත්තු වෙනවා. 'තාම නෑ' කියන එකේ 'තාම' කියන වචනේ තියෙන අදහසමයි.",
+      "explain": "Yet is used in questions and negatives, and goes at the end of the sentence. It carries the idea that the thing is still expected.",
+      "formula": "questions: have/has + subject + past participle + yet?  ·  negatives: haven't/hasn't + past participle + yet",
+      "table": {
+        "headers": [
+          "වර්ගය",
+          "English",
+          "සිංහල"
+        ],
+        "rows": [
+          [
+            "ප්‍රශ්නය",
+            "Has the bus come yet?",
+            "බස් එක ඇවිත් ද?"
+          ],
+          [
+            "නැහැ",
+            "The bus hasn't come yet.",
+            "බස් එක තාම ඇවිත් නෑ."
+          ],
+          [
+            "ප්‍රශ්නය",
+            "Have you finished yet?",
+            "ඉවර වුණාද?"
+          ],
+          [
+            "නැහැ",
+            "I haven't finished yet.",
+            "මම තාම ඉවර නෑ."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "Have you spoken to her yet?",
+          "si": "ඔබ තාම ඇයට කතා කළාද?"
+        },
+        {
+          "en": "I haven't decided yet.",
+          "si": "මම තාම තීරණයක් ගත්තේ නෑ."
+        },
+        {
+          "en": "The shop hasn't opened yet.",
+          "si": "සාප්පුව තාම ඇරලා නෑ."
+        }
+      ],
+      "watchOutSi": "'I have finished yet' කියලා ලියන්න එපා — ඒක වැරදියි. හරි වාක්‍යයකට ඕන 'already' නැත්නම් කිසිම වචනයක් නෑ."
+    },
+    {
+      "type": "grammar",
+      "title": "already or yet?",
+      "titleSi": "already ද, yet ද?",
+      "explainSi": "එකම දේ ගැන අහන ප්‍රශ්න දෙකක් බලන්න:\n\n'Have you finished already?' — ඔයා ඉවර කරලාද? (පුදුමයි! මම හිතුවේ තව වෙලා යයි කියලා)\n'Have you finished yet?' — ඉවර වුණාද? (හුදෙක් අහනවා. තාම නැත්නම් කමක් නෑ)\n\nඑකම වචන, එකම වේලාව — ඒත් අහන කෙනාගේ හිතේ තියෙන්නේ දෙකක්. 'Already' කියනකොට පුදුමයක් තියෙනවා. 'Yet' කියනකොට පුදුමයක් නෑ, බලාපොරොත්තුවක් විතරයි.",
+      "explain": "Have you finished already? is surprise. Have you finished yet? is a plain question.",
+      "formula": "already = පුදුමය  ·  yet = සාමාන්‍ය විමසීම",
+      "examples": [
+        {
+          "en": "Have you woken up already? It's only five.",
+          "si": "දැනටමත් නැගිටලාද? තාම පහයි."
+        },
+        {
+          "en": "Have you woken up yet? We're leaving soon.",
+          "si": "නැගිටලාද? අපි ටිකෙන් යනවා."
+        }
+      ],
+      "watchOutSi": "නැහැ කියන වාක්‍යයකට 'already' යන්නේ නෑ. 'I haven't already eaten' කියන එක වැරදියි — 'I haven't eaten yet' කියන්න."
+    },
+    {
+      "type": "vocab",
+      "title": "Words for how far along",
+      "titleSi": "කොච්චර ඉදිරියටද කියන වචන",
+      "introSi": "මේ පාඩමේ වචන සහ ඒවත් එක්ක බහුලව එන ක්‍රියා.",
+      "items": [
+        {
+          "en": "already",
+          "si": "දැනටමත්",
+          "say": "ඕල්රෙඩි",
+          "exampleEn": "I have already eaten.",
+          "exampleSi": "මම දැනටමත් කාලා."
+        },
+        {
+          "en": "just",
+          "si": "දැන් තමයි",
+          "say": "ජස්ට්",
+          "exampleEn": "She has just left.",
+          "exampleSi": "ඇය දැන් තමයි ගියේ."
+        },
+        {
+          "en": "yet",
+          "si": "තාම",
+          "say": "යෙට්",
+          "exampleEn": "I haven't started yet.",
+          "exampleSi": "මම තාම පටන් ගත්තේ නෑ."
+        },
+        {
+          "en": "still",
+          "si": "තාමත්",
+          "say": "ස්ටිල්",
+          "exampleEn": "He is still waiting.",
+          "exampleSi": "එයා තාමත් බලාගෙන ඉන්නවා."
+        },
+        {
+          "en": "finish",
+          "si": "ඉවර කරනවා",
+          "say": "ෆිනිෂ්",
+          "exampleEn": "Have you finished yet?",
+          "exampleSi": "ඉවර වුණාද?"
+        },
+        {
+          "en": "arrive",
+          "si": "එනවා, ළඟා වෙනවා",
+          "say": "අරයිව්",
+          "exampleEn": "The train has just arrived.",
+          "exampleSi": "කෝච්චිය දැන් තමයි ආවේ."
+        },
+        {
+          "en": "decide",
+          "si": "තීරණය කරනවා",
+          "say": "ඩිසයිඩ්",
+          "exampleEn": "I haven't decided yet.",
+          "exampleSi": "මම තාම තීරණය කළේ නෑ."
+        },
+        {
+          "en": "pay",
+          "si": "ගෙවනවා",
+          "say": "පේ",
+          "exampleEn": "They have already paid.",
+          "exampleSi": "ඒගොල්ලෝ දැනටමත් ගෙවලා."
+        },
+        {
+          "en": "send",
+          "si": "යවනවා",
+          "say": "සෙන්ඩ්",
+          "exampleEn": "I have just sent it.",
+          "exampleSi": "මම දැන් තමයි යැව්වේ."
+        },
+        {
+          "en": "wake up",
+          "si": "නැගිටිනවා",
+          "say": "වේක් අප්",
+          "exampleEn": "Has he woken up yet?",
+          "exampleSi": "එයා නැගිටලාද?"
+        },
+        {
+          "en": "book (a room)",
+          "si": "වෙන් කරනවා",
+          "say": "බුක්",
+          "exampleEn": "I have already booked it.",
+          "exampleSi": "මම දැනටමත් වෙන් කරලා."
+        },
+        {
+          "en": "reply",
+          "si": "පිළිතුරු දෙනවා",
+          "say": "රිප්ලයි",
+          "exampleEn": "She hasn't replied yet.",
+          "exampleSi": "ඇය තාම උත්තර දීලා නෑ."
+        },
+        {
+          "en": "pack",
+          "si": "බඩු අසුරනවා",
+          "say": "පැක්",
+          "exampleEn": "Have you packed yet?",
+          "exampleSi": "බඩු ඇහුරුවාද?"
+        },
+        {
+          "en": "clean",
+          "si": "පිරිසිදු කරනවා",
+          "say": "ක්ලීන්",
+          "exampleEn": "I have just cleaned the room.",
+          "exampleSi": "මම දැන් තමයි කාමරේ පිරිසිදු කළේ."
+        },
+        {
+          "en": "call",
+          "si": "කතා කරනවා",
+          "say": "කෝල්",
+          "exampleEn": "He has just called.",
+          "exampleSi": "එයා දැන් තමයි කතා කළේ."
+        },
+        {
+          "en": "start",
+          "si": "පටන් ගන්නවා",
+          "say": "ස්ටාට්",
+          "exampleEn": "The film has already started.",
+          "exampleSi": "චිත්‍රපටිය දැනටමත් පටන් අරන්."
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "Have you packed yet?",
+      "titleSi": "බඩු ඇහුරුවාද?",
+      "settingSi": "ගමනකට කලින් ගෙදර. නදීෂා සහ රුවන් සූදානම් වෙනවා. already, just, yet තුනම මෙතන තියෙනවා.",
+      "lines": [
+        {
+          "speaker": "Nadeesha",
+          "en": "Have you packed yet?",
+          "si": "බඩු ඇහුරුවාද?"
+        },
+        {
+          "speaker": "Ruwan",
+          "en": "I have already packed. I finished last night.",
+          "si": "මම දැනටමත් ඇහුරුවා. ඊයේ රෑ ඉවර කළා."
+        },
+        {
+          "speaker": "Nadeesha",
+          "en": "Already? I haven't even started yet.",
+          "si": "දැනටමත්ද? මම තාම පටන් අරන්වත් නෑ."
+        },
+        {
+          "speaker": "Ruwan",
+          "en": "Has the taxi come yet?",
+          "si": "ටැක්සිය ඇවිත් ද?"
+        },
+        {
+          "speaker": "Nadeesha",
+          "en": "It has just called. Ten minutes.",
+          "si": "දැන් තමයි කතා කළේ. විනාඩි දහයක්."
+        },
+        {
+          "speaker": "Ruwan",
+          "en": "Then hurry. Have you locked the back door?",
+          "si": "එහෙනම් ඉක්මන් කරන්න. පිටිපස්සේ දොර වහලාද?"
+        },
+        {
+          "speaker": "Nadeesha",
+          "en": "Not yet. I'll do it now.",
+          "si": "තාම නෑ. දැන් කරනවා."
+        }
+      ]
+    },
+    {
+      "type": "story",
+      "title": "The parcel",
+      "titleSi": "පාර්සලය",
+      "introSi": "පොඩි කතාවක්. already, just, yet කොහොමද යෙදෙන්නේ කියලා බලන්න.",
+      "paragraphs": [
+        {
+          "en": "Amali was waiting for a parcel. Every morning she asked her brother the same question: \"Has the postman come yet?\"",
+          "si": "අමලි පාර්සලයක් එනකම් බලාගෙන හිටියා. හැම උදෙන්ම ඇය එයාගේ අයියාගෙන් එකම ප්‍රශ්නය ඇහුවා: \"තැපැල්කාරයා ඇවිත් ද?\""
+        },
+        {
+          "en": "\"Not yet,\" he said, every time.",
+          "si": "\"තාම නෑ,\" එයා හැම පාරම කිව්වා."
+        },
+        {
+          "en": "On Friday she came home late. Her brother was smiling. \"It has just arrived,\" he said. \"Two minutes ago.\"",
+          "si": "සිකුරාදා ඇය ගෙදර ආවේ ප්‍රමාද වෙලා. අයියා හිනාවෙනවා. \"දැන් තමයි ආවේ,\" එයා කිව්වා. \"විනාඩි දෙකකට කලින්.\""
+        },
+        {
+          "en": "Amali ran to the table. The box was open. \"You have already opened it!\" she said.",
+          "si": "අමලි මේසෙට දිව්වා. පෙට්ටිය ඇරලා. \"ඔයා දැනටමත් ඒක ඇරලා!\" ඇය කිව්වා."
+        },
+        {
+          "en": "\"Only a little,\" he said. \"I haven't taken anything out yet.\"",
+          "si": "\"පොඩ්ඩක් විතරයි,\" එයා කිව්වා. \"මම තාම මොකුත් අරගෙන නෑ.\""
+        }
+      ],
+      "glossary": [
+        {
+          "en": "parcel",
+          "si": "පාර්සලය"
+        },
+        {
+          "en": "postman",
+          "si": "තැපැල්කාරයා"
+        },
+        {
+          "en": "open",
+          "si": "අරිනවා"
+        }
+      ],
+      "questionsSi": [
+        "අමලි හැම උදෙම ඇහුවේ මොකක්ද?",
+        "පාර්සලය ආවේ කවදාද?",
+        "අයියා තාම කරලා නැති දේ මොකක්ද?"
+      ]
+    },
+    {
+      "type": "tip",
+      "title": "Where the word goes",
+      "titleSi": "වචනේ තියෙන්නේ කොහෙද",
+      "bodySi": "මතක තියාගන්න පහසු ක්‍රමයක්: already සහ just මැදට, yet අගට.\n\nI have already finished.\nI have just finished.\nI haven't finished yet.",
+      "body": "already and just go in the middle. yet goes at the end."
+    },
+    {
+      "type": "practice",
+      "title": "Put the word in",
+      "titleSi": "වචනේ දාන්න",
+      "instructionSi": "හිස් තැනට already, just නැත්නම් yet දාන්න. වාක්‍යය හොඳට කියවලා තෝරන්න.",
+      "items": [
+        {
+          "prompt": "I haven't finished ___.",
+          "answer": "yet",
+          "hintSi": "නැහැ කියන වාක්‍යයක්, අගට යනවා.",
+          "full": "I haven't finished yet."
+        },
+        {
+          "prompt": "She has ___ arrived — two minutes ago.",
+          "answer": "just",
+          "hintSi": "දැන් මේ ටිකේ.",
+          "full": "She has just arrived."
+        },
+        {
+          "prompt": "Have you eaten ___? It's only six o'clock!",
+          "answer": "already",
+          "hintSi": "පුදුමයක් තියෙනවා.",
+          "full": "Have you eaten already?"
+        },
+        {
+          "prompt": "The shop hasn't opened ___.",
+          "answer": "yet",
+          "hintSi": "තාම නෑ.",
+          "full": "The shop hasn't opened yet."
+        },
+        {
+          "prompt": "They have ___ paid the bill, so we can go.",
+          "answer": "already",
+          "hintSi": "ගෙවලා ඉවරයි.",
+          "full": "They have already paid the bill."
+        },
+        {
+          "prompt": "He has ___ called. Pick up the phone.",
+          "answer": "just",
+          "hintSi": "තත්පර කිහිපයකට කලින්.",
+          "full": "He has just called."
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "a2-22-q1",
+      "q": "'මම දැනටමත් කාලා' — කොහොමද?",
+      "options": [
+        "I have already eaten.",
+        "I have eaten already yet.",
+        "I already have eaten.",
+        "I have yet eaten."
+      ],
+      "answer": 0,
+      "explainSi": "already යන්නේ have සහ past participle අතරට.",
+      "speak": "I have already eaten."
+    },
+    {
+      "id": "a2-22-q2",
+      "q": "'මම තාම ඉවර නෑ' — කොහොමද?",
+      "options": [
+        "I haven't finished already.",
+        "I haven't finished yet.",
+        "I have finished yet.",
+        "I haven't yet finish."
+      ],
+      "answer": 1,
+      "explainSi": "නැහැ කියන වාක්‍යයට yet, ඒකත් අගට.",
+      "speak": "I haven't finished yet."
+    },
+    {
+      "id": "a2-22-q3",
+      "q": "'බස් එක දැන් තමයි ගියේ' — කොහොමද?",
+      "options": [
+        "The bus has just left.",
+        "The bus has left just.",
+        "The bus just has left.",
+        "The bus has yet left."
+      ],
+      "answer": 0,
+      "explainSi": "just යන්නේ මැදට — has just left.",
+      "speak": "The bus has just left."
+    },
+    {
+      "id": "a2-22-q4",
+      "q": "කුමන වාක්‍යය වැරදිද?",
+      "options": [
+        "I have already paid.",
+        "I haven't paid yet.",
+        "Have you paid yet?",
+        "I have paid yet."
+      ],
+      "answer": 3,
+      "explainSi": "හරි වාක්‍යයකට yet යන්නේ නෑ.",
+      "speak": "I have paid yet."
+    },
+    {
+      "id": "a2-22-q5",
+      "q": "'Have you finished already?' — මෙතන තියෙන හැඟීම මොකක්ද?",
+      "options": [
+        "පුදුමය — හිතුවට වඩා කලින්",
+        "තරහ",
+        "සාමාන්‍ය විමසීමක් විතරයි",
+        "බලාපොරොත්තු සුන්වීම"
+      ],
+      "answer": 0,
+      "explainSi": "already ප්‍රශ්නයකට දැම්මම පුදුමයක් එනවා."
+    },
+    {
+      "id": "a2-22-q6",
+      "q": "'Have you finished yet?' — මෙතන තියෙන හැඟීම මොකක්ද?",
+      "options": [
+        "පුදුමය",
+        "සාමාන්‍ය විමසීමක්",
+        "තරහ",
+        "නියෝගයක්"
+      ],
+      "answer": 1,
+      "explainSi": "yet කියන්නේ සාමාන්‍ය විමසීමක්."
+    },
+    {
+      "id": "a2-22-q7",
+      "q": "'ඇය තාම උත්තර දීලා නෑ' — කොහොමද?",
+      "options": [
+        "She hasn't replied yet.",
+        "She hasn't already replied.",
+        "She has replied yet.",
+        "She hasn't yet reply."
+      ],
+      "answer": 0,
+      "explainSi": "haven't/hasn't + past participle + yet.",
+      "speak": "She hasn't replied yet."
+    },
+    {
+      "id": "a2-22-q8",
+      "q": "හිස් තැනට: 'I have ___ sent the email — one minute ago.'",
+      "options": [
+        "yet",
+        "already",
+        "just",
+        "still"
+      ],
+      "answer": 2,
+      "explainSi": "විනාඩියකට කලින් = just.",
+      "speak": "I have just sent the email."
+    },
+    {
+      "id": "a2-22-q9",
+      "q": "හිස් තැනට: 'The film has ___ started. We are late.'",
+      "options": [
+        "yet",
+        "already",
+        "just now",
+        "not"
+      ],
+      "answer": 1,
+      "explainSi": "අපි හිතුවට වඩා කලින් පටන් අරන් = already.",
+      "speak": "The film has already started."
+    },
+    {
+      "id": "a2-22-q10",
+      "q": "හිස් තැනට: 'Has the taxi come ___?'",
+      "options": [
+        "already only",
+        "yet",
+        "just",
+        "still"
+      ],
+      "answer": 1,
+      "explainSi": "සාමාන්‍ය ප්‍රශ්නයක් = yet.",
+      "speak": "Has the taxi come yet?"
+    },
+    {
+      "id": "a2-22-q11",
+      "q": "'I just want tea' කියන එකේ 'just' එකේ තේරුම මොකක්ද?",
+      "options": [
+        "දැන් මේ ටිකේ",
+        "විතරක්",
+        "දැනටමත්",
+        "තාම"
+      ],
+      "answer": 1,
+      "explainSi": "මෙතන just = විතරක්. කාලය ගැන නෙවෙයි."
+    },
+    {
+      "id": "a2-22-q12",
+      "q": "කුමන වාක්‍යය හරිද?",
+      "options": [
+        "I haven't already eaten.",
+        "I haven't eaten yet.",
+        "I have eaten yet.",
+        "I haven't yet already eaten."
+      ],
+      "answer": 1,
+      "explainSi": "නැහැ කියන වාක්‍යයට yet.",
+      "speak": "I haven't eaten yet."
+    },
+    {
+      "id": "a2-22-q13",
+      "q": "'ඒගොල්ලෝ දැනටමත් ගෙවලා' — කොහොමද?",
+      "options": [
+        "They have paid already yet.",
+        "They already have pay.",
+        "They have already paid.",
+        "They have yet paid."
+      ],
+      "answer": 2,
+      "explainSi": "have + already + past participle.",
+      "speak": "They have already paid."
+    },
+    {
+      "id": "a2-22-q14",
+      "q": "already සහ just යන්නේ කොහෙද?",
+      "options": [
+        "වාක්‍යය අගට",
+        "have සහ past participle අතරට",
+        "වාක්‍යය මුලට",
+        "subject එකට කලින්"
+      ],
+      "answer": 1,
+      "explainSi": "දෙකම මැදට."
+    },
+    {
+      "id": "a2-22-q15",
+      "q": "yet යන්නේ කොහෙද?",
+      "options": [
+        "වාක්‍යය අගට",
+        "have සහ past participle අතරට",
+        "වාක්‍යය මුලට",
+        "කොහෙද වුණත් හරි"
+      ],
+      "answer": 0,
+      "explainSi": "yet අගට."
+    },
+    {
+      "id": "a2-22-q16",
+      "q": "'නැගිටලාද? තාම පහයි' — පුදුමය පෙන්නන්න කුමන වචනයද?",
+      "options": [
+        "yet",
+        "already",
+        "just",
+        "still"
+      ],
+      "answer": 1,
+      "explainSi": "පුදුමය = already.",
+      "speak": "Have you woken up already?"
+    },
+    {
+      "id": "a2-22-q17",
+      "q": "'මම තාම තීරණයක් ගත්තේ නෑ' — කොහොමද?",
+      "options": [
+        "I haven't decided yet.",
+        "I have decided yet.",
+        "I haven't already decided.",
+        "I don't decided yet."
+      ],
+      "answer": 0,
+      "explainSi": "hasn't/haven't + past participle + yet.",
+      "speak": "I haven't decided yet."
+    },
+    {
+      "id": "a2-22-q18",
+      "q": "'කෝච්චිය දැන් තමයි ආවේ' — කොහොමද?",
+      "options": [
+        "The train has arrived just.",
+        "The train just arrived yet.",
+        "The train has just arrived.",
+        "The train has already arrive."
+      ],
+      "answer": 2,
+      "explainSi": "has + just + past participle.",
+      "speak": "The train has just arrived."
+    }
+  ],
+  "vocab": [
+    {
+      "en": "already",
+      "si": "දැනටමත්",
+      "say": "ඕල්රෙඩි",
+      "exampleEn": "I have already eaten.",
+      "exampleSi": "මම දැනටමත් කාලා."
+    },
+    {
+      "en": "just",
+      "si": "දැන් තමයි",
+      "say": "ජස්ට්",
+      "exampleEn": "She has just left.",
+      "exampleSi": "ඇය දැන් තමයි ගියේ."
+    },
+    {
+      "en": "yet",
+      "si": "තාම",
+      "say": "යෙට්",
+      "exampleEn": "I haven't started yet.",
+      "exampleSi": "මම තාම පටන් ගත්තේ නෑ."
+    },
+    {
+      "en": "still",
+      "si": "තාමත්",
+      "say": "ස්ටිල්",
+      "exampleEn": "He is still waiting.",
+      "exampleSi": "එයා තාමත් බලාගෙන ඉන්නවා."
+    },
+    {
+      "en": "finish",
+      "si": "ඉවර කරනවා",
+      "say": "ෆිනිෂ්",
+      "exampleEn": "Have you finished yet?",
+      "exampleSi": "ඉවර වුණාද?"
+    },
+    {
+      "en": "arrive",
+      "si": "එනවා, ළඟා වෙනවා",
+      "say": "අරයිව්",
+      "exampleEn": "The train has just arrived.",
+      "exampleSi": "කෝච්චිය දැන් තමයි ආවේ."
+    },
+    {
+      "en": "decide",
+      "si": "තීරණය කරනවා",
+      "say": "ඩිසයිඩ්",
+      "exampleEn": "I haven't decided yet.",
+      "exampleSi": "මම තාම තීරණය කළේ නෑ."
+    },
+    {
+      "en": "pay",
+      "si": "ගෙවනවා",
+      "say": "පේ",
+      "exampleEn": "They have already paid.",
+      "exampleSi": "ඒගොල්ලෝ දැනටමත් ගෙවලා."
+    },
+    {
+      "en": "send",
+      "si": "යවනවා",
+      "say": "සෙන්ඩ්",
+      "exampleEn": "I have just sent it.",
+      "exampleSi": "මම දැන් තමයි යැව්වේ."
+    },
+    {
+      "en": "wake up",
+      "si": "නැගිටිනවා",
+      "say": "වේක් අප්",
+      "exampleEn": "Has he woken up yet?",
+      "exampleSi": "එයා නැගිටලාද?"
+    },
+    {
+      "en": "book (a room)",
+      "si": "වෙන් කරනවා",
+      "say": "බුක්",
+      "exampleEn": "I have already booked it.",
+      "exampleSi": "මම දැනටමත් වෙන් කරලා."
+    },
+    {
+      "en": "reply",
+      "si": "පිළිතුරු දෙනවා",
+      "say": "රිප්ලයි",
+      "exampleEn": "She hasn't replied yet.",
+      "exampleSi": "ඇය තාම උත්තර දීලා නෑ."
+    },
+    {
+      "en": "pack",
+      "si": "බඩු අසුරනවා",
+      "say": "පැක්",
+      "exampleEn": "Have you packed yet?",
+      "exampleSi": "බඩු ඇහුරුවාද?"
+    },
+    {
+      "en": "clean",
+      "si": "පිරිසිදු කරනවා",
+      "say": "ක්ලීන්",
+      "exampleEn": "I have just cleaned the room.",
+      "exampleSi": "මම දැන් තමයි කාමරේ පිරිසිදු කළේ."
+    },
+    {
+      "en": "call",
+      "si": "කතා කරනවා",
+      "say": "කෝල්",
+      "exampleEn": "He has just called.",
+      "exampleSi": "එයා දැන් තමයි කතා කළේ."
+    },
+    {
+      "en": "start",
+      "si": "පටන් ගන්නවා",
+      "say": "ස්ටාට්",
+      "exampleEn": "The film has already started.",
+      "exampleSi": "චිත්‍රපටිය දැනටමත් පටන් අරන්."
+    }
+  ]
+}

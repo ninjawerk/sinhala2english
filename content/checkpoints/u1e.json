@@ -1,0 +1,108 @@
+{
+  "quiz": [
+    {
+      "id": "u1e-cp-q1",
+      "q": "'ඔබ කොහෙද ජීවත් වෙන්නේ?' — ඉංග්‍රීසියෙන්?",
+      "options": ["Where do you live?", "You live where?", "Where you live?", "Do you where live?"],
+      "answer": 0,
+      "explainSi": "'Where' + 'do you' + ක්‍රියාව — question word ප්‍රශ්නයක් හදන පිළිවෙළ.",
+      "speak": "Where do you live?"
+    },
+    {
+      "id": "u1e-cp-q2",
+      "q": "'ඇයි ඔබ පරක්කු වුණේ?' — 'Why' ට පිළිතුරු දෙන්නේ කුමන වචනයෙන්ද?",
+      "options": ["So", "And", "Because", "But"],
+      "answer": 2,
+      "explainSi": "'Why' ට පිළිතුරු දෙන්නේ 'Because' + හේතුව."
+    },
+    {
+      "id": "u1e-cp-q3",
+      "q": "'මේක කොපමණ ලොකුද?' — 'How' + adjective?",
+      "options": ["How big is it?", "How is it big?", "Big how is it?", "It is how big?"],
+      "answer": 0,
+      "explainSi": "'How' + adjective + 'is it?' — 'How big is it?'",
+      "speak": "How big is it?"
+    },
+    {
+      "id": "u1e-cp-q4",
+      "q": "'මම ඊයේ ගෙදර හිටියේ.' — 'was' ද 'were' ද?",
+      "options": ["I were at home.", "I was at home.", "I is at home.", "I am at home yesterday."],
+      "answer": 1,
+      "explainSi": "'I' සමඟ අතීත කාලයේ 'was' භාවිතා කරනවා.",
+      "speak": "I was at home yesterday."
+    },
+    {
+      "id": "u1e-cp-q5",
+      "q": "'ඔවුන් පාසැලේ හිටියේ නෑ.' — negative?",
+      "options": ["They wasn't at school.", "They weren't at school.", "They isn't at school.", "They don't were at school."],
+      "answer": 1,
+      "explainSi": "'they' බහුවචනයෙන් — 'were' + 'not' = 'weren't'."
+    },
+    {
+      "id": "u1e-cp-q6",
+      "q": "'මේසය උඩ පොතක් තිබුනා.' — 'there was' ද 'there were' ද?",
+      "options": ["There was a book on the table.", "There were a book on the table.", "It was a book on the table.", "A book there was."],
+      "answer": 0,
+      "explainSi": "'a book' ඒකවචනයක් — 'there was'."
+    },
+    {
+      "id": "u1e-cp-q7",
+      "q": "'ඇය උසයි, කළු කෙස් තියෙනවා.' — පෙනුම විස්තර කරද්දී?",
+      "options": ["She is tall, with black hair.", "She has tall, with black hair.", "She is tall, has black hair have.", "She tall, black hair."],
+      "answer": 0,
+      "explainSi": "පෙනුම විස්තර කරද්දී 'is' + adjective, 'has/with' + hair/features."
+    },
+    {
+      "id": "u1e-cp-q8",
+      "q": "'මම ටිකක් වෙහෙසිලා.' — 'very' ද 'a bit' ද වඩා මෘදුද?",
+      "options": ["'very' වඩා මෘදුයි", "'a bit' වඩා මෘදුයි", "දෙකම එකම තීව්‍රතාවයක්", "දෙකම භාවිතා කරන්නේ නෑ"],
+      "answer": 1,
+      "explainSi": "'a bit tired' — ටිකක් වෙහෙසිලා. 'very tired' — ගොඩක් වෙහෙසිලා, තදින්ම."
+    },
+    {
+      "id": "u1e-cp-q9",
+      "q": "'මම බඩගින්නෙයි, ඉතින් මම කෑවා.' — 'because' ද 'so' ද?",
+      "options": ["I was hungry, because I ate.", "I was hungry, so I ate.", "I was hungry, but I ate.", "I ate, so I was hungry."],
+      "answer": 1,
+      "explainSi": "'so' ප්‍රතිඵලය දෙනවා (බඩගිනි → කෑවා). 'because' නම් හේතුව මුලින්ම එනවා."
+    },
+    {
+      "id": "u1e-cp-q10",
+      "q": "'because' සහ 'because of' අතර වෙනස කුමක්ද?",
+      "options": [
+        "'because' + වාක්‍යයක් (subject+verb), 'because of' + නාම පදයක්",
+        "වෙනසක් නෑ",
+        "'because of' + වාක්‍යයක්",
+        "දෙකම එකම ආකෘතියෙන්"
+      ],
+      "answer": 0,
+      "explainSi": "'because it rained' (වාක්‍යයක්) vs 'because of the rain' (නාම පදයක්)."
+    },
+    {
+      "id": "u1e-cp-q11",
+      "context": "Why was she tired yesterday? She was tired because she didn't sleep well.",
+      "contextSi": "ඇය ඊයේ ඇයි වෙහෙසිලා හිටියේ? ඇය හොඳට නිදාගත්තේ නැති නිසා වෙහෙසිලා හිටියා.",
+      "q": "මේ වාක්‍යවල 'Why' ප්‍රශ්නයට 'was' සමඟ පිළිතුරු දෙන්නේ කොහොමද?",
+      "options": [
+        "'Why was she tired?' — 'was' ('be' ක්‍රියාවේ අතීතය) සමඟ ප්‍රශ්නය, 'because' සමඟ පිළිතුර",
+        "'Why' ප්‍රශ්නවලට 'was' සමඟ පිළිතුරු දෙන්න බෑ",
+        "'because' භාවිතා කරන්නේ නෑ",
+        "'Why' සහ 'was' එකට යෙදෙන්නේ නෑ"
+      ],
+      "answer": 0,
+      "explainSi": "'Why was she tired?' — question word + was, 'because she didn't sleep well' — හේතුව."
+    },
+    {
+      "id": "u1e-cp-q12",
+      "q": "'She was a bit sad, so I asked her why.' — මේ වාක්‍යයේ 'a bit', 'was', 'why', 'so' හතරම නිවැරදිව යෙදිලාද?",
+      "options": [
+        "ඔව් — 'a bit sad' (මෘදු හැඟීමක්), 'was' (අතීතය), 'why' (ප්‍රශ්නය), 'so' (ප්‍රතිඵලය)",
+        "නෑ, 'a bit' වැරදියි",
+        "නෑ, 'so' වෙනුවට 'because' විය යුතුයි",
+        "නෑ, 'was' වෙනුවට 'is' විය යුතුයි"
+      ],
+      "answer": 0,
+      "explainSi": "හතරම නිවැරදියි — 'a bit sad' (හැඟීමේ තීව්‍රතාවය), 'was' (අතීතය), 'why' (ප්‍රශ්නය), 'so' (ප්‍රතිඵලය)."
+    }
+  ]
+}

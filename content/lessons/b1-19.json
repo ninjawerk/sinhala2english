@@ -1,0 +1,776 @@
+{
+  "hero": {
+    "src": "images/b1-19-hero.webp",
+    "alt": "Nadeesha holding a phone to her ear at a desk while writing a number on a notepad, checking it back, papers and a lamp around her."
+  },
+  "goalsSi": [
+    "තේරුණාද කියලා අහන්න",
+    "තේරුණේ නෑ කියලා කියන්න — ලැජ්ජාවක් නැතුව",
+    "අහගත්ත දේ තහවුරු කරගන්න",
+    "ආපහු කියන්න කියලා ඉල්ලන්න",
+    "'Do you mean…?' කියලා පැහැදිලි කරගන්න",
+    "ඔබේම වචනවලින් ආපහු කියලා තහවුරු කරන්න"
+  ],
+  "goals": [
+    "Check that the other person has understood",
+    "Say you have not understood, without embarrassment",
+    "Confirm what you heard",
+    "Ask for a repeat",
+    "Clarify with Do you mean…?",
+    "Confirm by saying it back in your own words"
+  ],
+  "sections": [
+    {
+      "type": "note",
+      "title": "Nodding is not understanding",
+      "titleSi": "හිස වැනීම තේරුම් ගැනීමක් නෙවෙයි",
+      "bodySi": "අපි හැමෝම මේක කරලා තියෙනවා. කවුරු හරි ඉංග්‍රීසියෙන් දෙයක් කියනවා, ඔයාට තේරෙන්නේ නෑ, ඒත් ඔයා හිස වනනවා.\n\nඇයි? ලැජ්ජාව. 'ආපහු කියන්න' කියන එකෙන් 'මට ඉංග්‍රීසි බෑ' කියලා පේයි කියලා බය.\n\nඇත්ත අනිත් පැත්තයි. ඉංග්‍රීසි හොඳට දන්න අයමයි වැඩිපුරම පැහැදිලි කරගන්නේ. මොකද ඒගොල්ලෝ දන්නවා අඩක් තේරුම් ගැනීමෙන් වැඩක් නෑ කියලා.\n\nඉංග්‍රීසි කථා කරන අයත් එකිනෙකාගෙන් අහනවා:\n'Sorry, what do you mean?'\n'Sorry, I didn't catch that.'\n'Do you mean the blue one or the green one?'\n\nමේක B1 මට්ටමේ ලකුණක් — CEFR හි කියන්නේ 'Ask someone to clarify or elaborate what he or she has just said'.\n\nපැති දෙකක් තියෙනවා:\n1. ඔයාට තේරෙන්නේ නෑ — ආපහු අහන එක.\n2. ඔයා කියපු දේ අනිත් කෙනාට තේරුණාද — ඒක බලන එක.\n\nදෙකම මේ පාඩමේ.",
+      "body": "Nodding when you have not understood is the most expensive habit in a second language. Asking is a sign of competence, not weakness."
+    },
+    {
+      "type": "grammar",
+      "title": "When you did not understand",
+      "titleSi": "ඔයාට තේරුණේ නැති වෙලාවට",
+      "explainSi": "අහගන්න බැරි වුණාද, තේරෙන්නේ නැද්ද කියලා වෙනස් කෑලි තියෙනවා.\n\nඅහගන්න බැරි වුණා (ශබ්දය):\n'Sorry, I didn't catch that.'\n'Sorry, could you say that again?'\n'Could you repeat that, please?'\n\nහෙමින් කියන්න:\n'Could you speak a little more slowly, please?'\n'Sorry, you're speaking quite fast for me.'\n\nවචනයක් තේරෙන්නේ නෑ:\n'What does \"deposit\" mean?'\n'Sorry, what's a \"guarantor\"?'\n\nඅදහස තේරෙන්නේ නෑ:\n'Sorry, I don't quite follow.'\n'I'm not sure I understand.'\n'Sorry, what do you mean exactly?'\n\n'quite' සහ 'not sure' කියන වචන වැදගත් — ඒවා 'මට කිසිසේත් තේරෙන්නේ නෑ' කියන එක මෘදු කරනවා.\n\nලොකුම මිථ්‍යාව: 'Pardon?' කියන එක. ඒක වැරදි නෑ, ඒත් අද ටිකක් පරණයි. 'Sorry?' කියන එක ස්වාභාවිකයි — එක වචනයයි, උඩට යන ස්වරයකින්.",
+      "explain": "Separate not hearing from not following. Sorry? is the everyday one-word version; Pardon? sounds dated.",
+      "formula": "Sorry, I didn't catch that.  ·  Sorry, I don't quite follow.",
+      "table": {
+        "headers": [
+          "ප්‍රශ්නය",
+          "කියන්නේ",
+          "සිංහල"
+        ],
+        "rows": [
+          [
+            "අහගන්න බැරි වුණා",
+            "Sorry, I didn't catch that.",
+            "අහගන්න බැරි වුණා"
+          ],
+          [
+            "ඉක්මනට කිව්වා",
+            "Could you speak a bit more slowly?",
+            "ටිකක් හෙමින් කියන්න පුළුවන්ද?"
+          ],
+          [
+            "වචනයක්",
+            "What does that word mean?",
+            "ඒ වචනේ තේරුම මොකක්ද?"
+          ],
+          [
+            "අදහස",
+            "Sorry, I don't quite follow.",
+            "හරියටම තේරෙන්නේ නෑ"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "Sorry, I didn't catch the last part. Could you say it again?",
+          "si": "අන්තිම කොටස අහගන්න බැරි වුණා. ආපහු කියන්න පුළුවන්ද?"
+        },
+        {
+          "en": "Sorry, what does \"excess\" mean here?",
+          "si": "සමාවෙන්න, මෙතන \"excess\" කියන්නේ මොකක්ද?"
+        },
+        {
+          "en": "I'm not sure I understand. Could you explain that part again?",
+          "si": "මට හරියටම තේරෙනවාද කියලා නිශ්චිත නෑ. ඒ කොටස ආපහු කියන්න පුළුවන්ද?"
+        }
+      ],
+      "watchOutSi": "'Repeat, please' කියලා තනියම කිව්වොත් ඒක නියෝගයක් වගේ. 'Could you repeat that, please?' කියන එකේ 'could' එකෙන් ඒක ඉල්ලීමක් වෙනවා."
+    },
+    {
+      "type": "grammar",
+      "title": "Checking you got it right",
+      "titleSi": "හරියටම තේරුණාද කියලා බැලීම",
+      "explainSi": "අහගත්තා, ඒත් හරිද කියලා නිශ්චිත නෑ. එතකොට ආපහු කියලා තහවුරු කරගන්නවා. මේක ඉගෙන ගන්න පුළුවන් හොඳම පුරුද්ද.\n\nවචනාර්ථයෙන් ආපහු:\n'Sorry, did you say Tuesday?'\n'Sorry, did you say fifteen or fifty?'\n\nඔයාගේ වචනවලින් ආපහු:\n'So, you mean I should come back tomorrow?'\n'If I understand you correctly, the fee is separate?'\n'So what you're saying is, there's no room until March.'\n\nතේරීම් දෙකක් නම්:\n'Do you mean the blue one or the green one?'\n'Sorry — do you mean today, or today week?'\n\nමේකේ ලොකු වාසියක් තියෙනවා. ඔයා වැරදියට තේරුම් අරන් නම්, අනිත් කෙනා එතනම නිවැරදි කරනවා. නැත්නම් වැරදි දවසට ගිහින්, වැරදි ගාන ගෙවලා පස්සේ තමයි දැනගන්නේ.\n\nඉලක්කම් නම් හැමවිටම තහවුරු කරගන්න — fifteen/fifty, thirteen/thirty ඉංග්‍රීසි කථාවේ බහුලම වැරදීම.",
+      "explain": "Say it back — word for word, or in your own words. If you have it wrong, you find out now rather than on the wrong day.",
+      "formula": "Sorry, did you say…?  ·  So you mean…?  ·  If I understand you correctly, …?",
+      "table": {
+        "headers": [
+          "ක්‍රමය",
+          "උදාහරණය"
+        ],
+        "rows": [
+          [
+            "වචනාර්ථයෙන්",
+            "Sorry, did you say Tuesday?"
+          ],
+          [
+            "ඔයාගේ වචනවලින්",
+            "So you mean I should come back tomorrow?"
+          ],
+          [
+            "තේරීම් දෙකක්",
+            "Do you mean the blue one or the green one?"
+          ],
+          [
+            "විධිමත්",
+            "If I understand you correctly, the fee is separate?"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "Sorry, did you say fifteen or fifty?",
+          "si": "සමාවෙන්න, පහළොවද පනහද කිව්වේ?"
+        },
+        {
+          "en": "So what you're saying is, there's no room until March.",
+          "si": "එහෙනම් ඔයා කියන්නේ මාර්තු වෙනකම් කාමරයක් නෑ කියලා."
+        },
+        {
+          "en": "Do you mean today, or a week from today?",
+          "si": "අද කියලාද, නැත්නම් අද ඉඳන් සතියකින් කියලාද?"
+        }
+      ],
+      "watchOutSi": "'So you mean…' කියලා ආපහු කියනකොට ඔයාගේ ස්වරය ප්‍රශ්නයක් වගේ තියෙන්න ඕන. පැතලිව කිව්වොත් ඒක අනිත් කෙනාව නිවැරදි කරනවා වගේ ඇහෙනවා."
+    },
+    {
+      "type": "grammar",
+      "title": "Checking they got it",
+      "titleSi": "අනිත් කෙනාට තේරුණාද කියලා බැලීම",
+      "explainSi": "දැන් අනිත් පැත්ත. ඔයා පැහැදිලි කරනවා — ඒත් තේරුණාද?\n\nමෘදු, ආචාරශීලී:\n'Does that make sense?'\n'Is that clear?'\n'Do you know what I mean?'\n\nසාමාන්‍ය කථාවේ:\n'You know?' (වාක්‍යය අගට)\n'Right?' (වාක්‍යය අගට)\n\nප්‍රවේශම් වෙන්න ඕන එකක් තියෙනවා: 'Do you understand?' කියන එක. ව්‍යාකරණ අනුව හරි, ඒත් ඒක අනිත් කෙනාව පොඩි ළමයෙක් වගේ සලකනවා වගේ ඇහෙන්න පුළුවන් — විශේෂයෙන් තදින් කිව්වොත්.\n\nවඩා හොඳ: 'Does that make sense?' — මේකෙන් බර ඔයාගේ පැහැදිලි කිරීමට දානවා, අනිත් කෙනාගේ මොළයට නෙවෙයි. 'මම හරියට කිව්වාද?' කියන අදහස.\n\nඑහෙමයි 'Am I making sense?' — ඒක තව මෘදුයි.\n\nදිග දෙයක් පැහැදිලි කරලා ඉවර වුණාම:\n'Shall I go over that again?' — ආපහු කියන්නද?\n'Would you like me to write it down?' — ලියලා දෙන්නද?",
+      "explain": "Does that make sense? puts the burden on your explanation. Do you understand? can put it on the listener, which is why it can sting.",
+      "formula": "Does that make sense?  ·  Is that clear?  ·  Do you know what I mean?",
+      "table": {
+        "headers": [
+          "කෑල්ල",
+          "රසය"
+        ],
+        "rows": [
+          [
+            "Does that make sense?",
+            "මෘදු — බර මගේ පැහැදිලි කිරීමට"
+          ],
+          [
+            "Do you know what I mean?",
+            "සාමාන්‍ය, කථාවේ බහුලයි"
+          ],
+          [
+            "Is that clear?",
+            "ටිකක් විධිමත් — උපදෙස් දෙනකොට"
+          ],
+          [
+            "Do you understand?",
+            "ප්‍රවේශමෙන් — තදින් කිව්වොත් රළුයි"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "You take the second left, not the first. Does that make sense?",
+          "si": "දෙවෙනි වම් පැත්ත ගන්න, පළවෙනි එක නෙවෙයි. තේරුණාද?"
+        },
+        {
+          "en": "It has to be signed by both of you — do you know what I mean?",
+          "si": "දෙන්නාම අත්සන් කරන්න ඕන — තේරෙනවා නේද?"
+        },
+        {
+          "en": "Shall I go over that again?",
+          "si": "ආපහු කියන්නද?"
+        }
+      ],
+      "watchOutSi": "'You know?' කියන එක වාක්‍ය අගට දාන එක කථාවේ සාමාන්‍යයි, ඒත් හැම වාක්‍යයකටම දැම්මොත් ඒක පුරුද්දක් වෙලා අහන්න අමාරු වෙනවා."
+    },
+    {
+      "type": "vocab",
+      "title": "Asking and clarifying",
+      "titleSi": "අහන එකයි, පැහැදිලි කරන එකයි",
+      "introSi": "මේ කෑලි කටපාඩම් කරගන්න — ඕන වෙන මොහොතේ හදන්න වෙලාවක් නෑ.",
+      "items": [
+        {
+          "en": "sorry?",
+          "si": "සමාවෙන්න? (ආපහු කියන්න)",
+          "say": "සොරි",
+          "exampleEn": "Sorry? I didn't hear you.",
+          "exampleSi": "සමාවෙන්න? මට ඇහුණේ නෑ."
+        },
+        {
+          "en": "I didn't catch that",
+          "si": "අහගන්න බැරි වුණා",
+          "say": "අයි ඩිඩ්න්ට් කැච් දැට්",
+          "exampleEn": "Sorry, I didn't catch that.",
+          "exampleSi": "සමාවෙන්න, අහගන්න බැරි වුණා."
+        },
+        {
+          "en": "say that again",
+          "si": "ආපහු කියන්න",
+          "say": "සේ දැට් අගේන්",
+          "exampleEn": "Could you say that again?",
+          "exampleSi": "ආපහු කියන්න පුළුවන්ද?"
+        },
+        {
+          "en": "more slowly",
+          "si": "ටිකක් හෙමින්",
+          "say": "මෝ ස්ලෝලි",
+          "exampleEn": "Could you speak more slowly?",
+          "exampleSi": "ටිකක් හෙමින් කථා කරන්න පුළුවන්ද?"
+        },
+        {
+          "en": "I don't quite follow",
+          "si": "හරියටම තේරෙන්නේ නෑ",
+          "say": "අයි ඩෝන්ට් ක්වයිට් ෆොලෝ",
+          "exampleEn": "Sorry, I don't quite follow.",
+          "exampleSi": "සමාවෙන්න, හරියටම තේරෙන්නේ නෑ."
+        },
+        {
+          "en": "what do you mean",
+          "si": "ඔයා කියන්නේ මොකක්ද",
+          "say": "වොට් ඩූ යූ මීන්",
+          "exampleEn": "What do you mean exactly?",
+          "exampleSi": "හරියටම කියන්නේ මොකක්ද?"
+        },
+        {
+          "en": "do you mean",
+          "si": "ඔයා කියන්නේ ...ද",
+          "say": "ඩූ යූ මීන්",
+          "exampleEn": "Do you mean today or tomorrow?",
+          "exampleSi": "අදද හෙටද කියලා?"
+        },
+        {
+          "en": "did you say",
+          "si": "ඔයා කිව්වේ ...ද",
+          "say": "ඩිඩ් යූ සේ",
+          "exampleEn": "Sorry, did you say Tuesday?",
+          "exampleSi": "සමාවෙන්න, අඟහරුවාදා කිව්වේ?"
+        },
+        {
+          "en": "so you mean",
+          "si": "එහෙනම් ඔයා කියන්නේ",
+          "say": "සෝ යූ මීන්",
+          "exampleEn": "So you mean I should wait?",
+          "exampleSi": "එහෙනම් මම ඉන්න ඕන කියලා?"
+        },
+        {
+          "en": "does that make sense",
+          "si": "තේරුණාද",
+          "say": "ඩස් දැට් මේක් සෙන්ස්",
+          "exampleEn": "Does that make sense?",
+          "exampleSi": "තේරුණාද?"
+        },
+        {
+          "en": "do you know what I mean",
+          "si": "තේරෙනවා නේද",
+          "say": "ඩූ යූ නෝ වොට් අයි මීන්",
+          "exampleEn": "Do you know what I mean?",
+          "exampleSi": "තේරෙනවා නේද?"
+        },
+        {
+          "en": "go over it again",
+          "si": "ආපහු කියනවා",
+          "say": "ගෝ ඕවර් ඉට් අගේන්",
+          "exampleEn": "Shall I go over it again?",
+          "exampleSi": "ආපහු කියන්නද?"
+        },
+        {
+          "en": "in other words",
+          "si": "වෙන විදිහකින් කිව්වොත්",
+          "say": "ඉන් අදර් වර්ඩ්ස්",
+          "exampleEn": "In other words, it's free.",
+          "exampleSi": "වෙන විදිහකින් කිව්වොත්, ඒක නොමිලේ."
+        },
+        {
+          "en": "spell it",
+          "si": "අකුරු කියන්න",
+          "say": "ස්පෙල් ඉට්",
+          "exampleEn": "Could you spell that for me?",
+          "exampleSi": "අකුරු කියන්න පුළුවන්ද?"
+        },
+        {
+          "en": "write it down",
+          "si": "ලියලා දෙන්න",
+          "say": "රයිට් ඉට් ඩවුන්",
+          "exampleEn": "Could you write it down?",
+          "exampleSi": "ලියලා දෙන්න පුළුවන්ද?"
+        },
+        {
+          "en": "got it",
+          "si": "තේරුණා",
+          "say": "ගොට් ඉට්",
+          "exampleEn": "Got it. Thank you.",
+          "exampleSi": "තේරුණා. ස්තූතියි."
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "Fifteen or fifty?",
+      "titleSi": "පහළොවද පනහද?",
+      "settingSi": "දුරකථනයෙන් කාමරයක් වෙන් කරනවා. තහවුරු කරගන්න එකේ අගය බලන්න.",
+      "lines": [
+        {
+          "speaker": "Clerk",
+          "en": "That's fifty dollars a night, breakfast excluded.",
+          "si": "රාත්‍රියකට ඩොලර් පනහයි, උදේ කෑම ඇතුළත් නෑ."
+        },
+        {
+          "speaker": "Ruwan",
+          "en": "Sorry, did you say fifteen or fifty?",
+          "si": "සමාවෙන්න, පහළොවද පනහද කිව්වේ?"
+        },
+        {
+          "speaker": "Clerk",
+          "en": "Five-zero. Fifty.",
+          "si": "පහයි බින්දුවයි. පනහ."
+        },
+        {
+          "speaker": "Ruwan",
+          "en": "Got it. And what does \"excluded\" mean here — I pay separately?",
+          "si": "තේරුණා. \"excluded\" කියන්නේ මෙතන මොකක්ද — වෙනම ගෙවනවාද?"
+        },
+        {
+          "speaker": "Clerk",
+          "en": "Yes. Breakfast is eight dollars extra, paid at the restaurant.",
+          "si": "ඔව්. උදේ කෑම ඩොලර් අටක් වැඩියි, රෙස්ටෝරන්ට් එකේදී ගෙවනවා."
+        },
+        {
+          "speaker": "Ruwan",
+          "en": "So what you're saying is, the room is fifty and I can decide about breakfast later.",
+          "si": "එහෙනම් ඔයා කියන්නේ, කාමරය පනහයි, උදේ කෑම ගැන පස්සේ තීරණය කරන්න පුළුවන් කියලා."
+        },
+        {
+          "speaker": "Clerk",
+          "en": "Exactly. Does that make sense?",
+          "si": "හරියටම. තේරුණාද?"
+        },
+        {
+          "speaker": "Ruwan",
+          "en": "It does. Could you spell your name for the booking?",
+          "si": "තේරුණා. වෙන් කිරීමට ඔයාගේ නම අකුරු කියන්න පුළුවන්ද?"
+        }
+      ]
+    },
+    {
+      "type": "story",
+      "title": "The wrong Wednesday",
+      "titleSi": "වැරදි බදාදා",
+      "introSi": "තහවුරු කර නොගැනීමේ මිල ගැන කෙටි කතාවක්.",
+      "paragraphs": [
+        {
+          "en": "The nurse said, \"Come back on Wednesday week.\" Ranjith nodded. He had heard every word and understood none of them.",
+          "si": "හෙදිය කිව්වා, \"Come back on Wednesday week.\" රංජිත් හිස වැනුවා. එයාට හැම වචනයක්ම ඇහුණා, එකක්වත් තේරුණේ නෑ."
+        },
+        {
+          "en": "He knew \"Wednesday\". He knew \"week\". Together they meant nothing to him, and asking felt worse than guessing.",
+          "si": "එයා \"Wednesday\" දැනගෙන හිටියා. \"week\" දැනගෙන හිටියා. දෙක එකට එයාට කිසිම තේරුමක් තිබුණේ නෑ, ඒත් අහන එක අනුමාන කරනවාට වඩා නරකයි වගේ දැනුණා."
+        },
+        {
+          "en": "He went on the next Wednesday, two days later. The clinic was closed to new patients. He waited two hours and came home.",
+          "si": "එයා ඊළඟ බදාදා ගියා, දවස් දෙකකට පස්සේ. සායනය අලුත් රෝගීන්ට වහලා. පැය දෙකක් බලාගෙන ඉඳලා ගෙදර ආවා."
+        },
+        {
+          "en": "\"Wednesday week\" means the Wednesday after next. Seven words would have saved him: \"Sorry — do you mean this Wednesday?\"",
+          "si": "\"Wednesday week\" කියන්නේ ඊළඟ බදාදාට පස්සේ එන බදාදා. වචන කීපයකින් ඒක වළක්වගන්න තිබුණා: \"Sorry — do you mean this Wednesday?\""
+        }
+      ],
+      "glossary": [
+        {
+          "en": "nurse",
+          "si": "හෙදිය"
+        },
+        {
+          "en": "clinic",
+          "si": "සායනය"
+        },
+        {
+          "en": "patient",
+          "si": "රෝගියා"
+        },
+        {
+          "en": "guess",
+          "si": "අනුමාන කරනවා"
+        }
+      ],
+      "questionsSi": [
+        "රංජිත් අහන්නේ නැතුව හිස වැනුවේ ඇයි?",
+        "'Wednesday week' කියන්නේ මොකක්ද?",
+        "එයා අහන්න තිබුණු ප්‍රශ්නය මොකක්ද?"
+      ]
+    },
+    {
+      "type": "tip",
+      "title": "Say the number back",
+      "titleSi": "ඉලක්කම ආපහු කියන්න",
+      "bodySi": "ඉංග්‍රීසි කථාවේ බහුලම වැරදීම ඉලක්කම්:\n\nfifteen / fifty\nthirteen / thirty\nfourteen / forty\n\nවෙනස තියෙන්නේ අවධාරණයේ විතරයි — fif-TEEN, FIF-ty. දුරකථනයෙන් නම් ඒක අහන්නේම නෑ.\n\nඒ නිසා ඉලක්කමක් අහගත්තම හැමවිටම ආපහු කියන්න:\n\n'Sorry, did you say fifteen or fifty?'\n'Five-zero, or one-five?'\n\nගාන, දිනය, දුරකථන අංකය — තුනම ආපහු කියන්න. ලැජ්ජා වෙන්න දෙයක් නෑ; ඉංග්‍රීසි කථා කරන අයත් ඒක කරනවා.",
+      "body": "fifteen/fifty, thirteen/thirty differ only in stress, which the phone eats. Always say a number back."
+    },
+    {
+      "type": "practice",
+      "title": "What would you say?",
+      "titleSi": "ඔයා මොකද කියන්නේ?",
+      "instructionSi": "අවස්ථාවට ගැලපෙන කෑල්ල ලියන්න.",
+      "items": [
+        {
+          "prompt": "ශබ්දය නිසා අහගන්න බැරි වුණා: Sorry, I didn't ___ that.",
+          "answer": "catch",
+          "hintSi": "'අල්ලගන්න' කියන ක්‍රියාව.",
+          "full": "Sorry, I didn't catch that."
+        },
+        {
+          "prompt": "අහගත්තා, ඒත් අදහස තේරෙන්නේ නෑ: Sorry, I don't quite ___.",
+          "answer": "follow",
+          "hintSi": "'පස්සෙන් යනවා' කියන ක්‍රියාව.",
+          "full": "Sorry, I don't quite follow."
+        },
+        {
+          "prompt": "ඉලක්කම තහවුරු කරගන්නවා: Sorry, ___ you say fifteen or fifty?",
+          "answer": "did",
+          "hintSi": "අතීත ප්‍රශ්නයක්.",
+          "full": "Sorry, did you say fifteen or fifty?"
+        },
+        {
+          "prompt": "ඔයාගේ වචනවලින් ආපහු කියනවා: So you ___ I should come back tomorrow?",
+          "answer": "mean",
+          "hintSi": "'කියන්නේ' කියන ක්‍රියාව.",
+          "full": "So you mean I should come back tomorrow?"
+        },
+        {
+          "prompt": "පැහැදිලි කරලා ඉවරයි, තේරුණාද කියලා අහනවා: Does that make ___?",
+          "answer": "sense",
+          "hintSi": "එක වචනයයි.",
+          "full": "Does that make sense?"
+        },
+        {
+          "prompt": "නම ලියාගන්න ඕන: Could you ___ that for me?",
+          "answer": "spell",
+          "hintSi": "අකුරු එකින් එක කියන එක.",
+          "full": "Could you spell that for me?"
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "b1-19-q1",
+      "q": "තේරෙන්නේ නැති වෙලාවට හිස වනන එකේ ප්‍රශ්නය මොකක්ද?",
+      "options": [
+        "ඒක අශිෂ්ටයි",
+        "වැරදි තොරතුරු මත ක්‍රියා කරන්න වෙනවා",
+        "ඒක ව්‍යාකරණ වැරැද්දක්",
+        "ප්‍රශ්නයක් නෑ"
+      ],
+      "answer": 1,
+      "explainSi": "අඩක් තේරුම් ගැනීමෙන් වැරදි දවසට යන එක, වැරදි ගාන ගෙවන එක වෙනවා."
+    },
+    {
+      "id": "b1-19-q2",
+      "q": "ශබ්දය නිසා අහගන්න බැරි වුණාම කියන්නේ?",
+      "options": [
+        "I don't follow.",
+        "I didn't catch that.",
+        "What do you mean?",
+        "Does that make sense?"
+      ],
+      "answer": 1,
+      "explainSi": "'catch' කියන්නේ අහගන්න එක.",
+      "speak": "Sorry, I didn't catch that."
+    },
+    {
+      "id": "b1-19-q3",
+      "q": "අහගත්තා, ඒත් අදහස තේරෙන්නේ නෑ. කියන්නේ?",
+      "options": [
+        "I didn't catch that.",
+        "I don't quite follow.",
+        "Speak up.",
+        "Got it."
+      ],
+      "answer": 1,
+      "explainSi": "'follow' කියන්නේ අදහස පස්සෙන් යන එක."
+    },
+    {
+      "id": "b1-19-q4",
+      "q": "'Pardon?' කියන එක ගැන හරි කියමන?",
+      "options": [
+        "ඒක වැරදියි",
+        "වැරදි නෑ, ඒත් අද ටිකක් පරණයි — 'Sorry?' ස්වාභාවිකයි",
+        "ඒක ඉතාම අවිධිමත්",
+        "ඒක ලියන එකට විතරයි"
+      ],
+      "answer": 1,
+      "explainSi": "'Sorry?' — එක වචනයයි, උඩට යන ස්වරයකින්."
+    },
+    {
+      "id": "b1-19-q5",
+      "q": "'Do you understand?' කියන එකේ අවදානම මොකක්ද?",
+      "options": [
+        "ව්‍යාකරණ වැරදියි",
+        "තදින් කිව්වොත් අනිත් කෙනාව පොඩි ළමයෙක් වගේ සලකනවා වගේ ඇහෙන්න පුළුවන්",
+        "ඒක ඉතාම දිගයි",
+        "අවදානමක් නෑ"
+      ],
+      "answer": 1,
+      "explainSi": "'Does that make sense?' කියන එකෙන් බර ඔයාගේ පැහැදිලි කිරීමට යනවා."
+    },
+    {
+      "id": "b1-19-q6",
+      "q": "ඉංග්‍රීසි කථාවේ බහුලම වැරදීම?",
+      "options": [
+        "නම්",
+        "ඉලක්කම් — fifteen/fifty, thirteen/thirty",
+        "දින",
+        "ස්ථාන"
+      ],
+      "answer": 1,
+      "explainSi": "වෙනස තියෙන්නේ අවධාරණයේ විතරයි, දුරකථනයෙන් ඒක නැති වෙනවා."
+    },
+    {
+      "id": "b1-19-q7",
+      "q": "'So what you're saying is…' කරන්නේ මොකක්ද?",
+      "options": [
+        "එකඟ නොවෙනවා",
+        "ඔයාගේ වචනවලින් ආපහු කියලා තහවුරු කරගන්නවා",
+        "බාධා කරනවා",
+        "මාතෘකාව හරවනවා"
+      ],
+      "answer": 1,
+      "explainSi": "වැරදියට තේරුම් අරන් නම් අනිත් කෙනා එතනම නිවැරදි කරනවා."
+    },
+    {
+      "id": "b1-19-q8",
+      "q": "හිස් තැනට: 'Could you ___ that for me? R-A-N-J-I-T-H.'",
+      "options": [
+        "spell",
+        "write",
+        "say",
+        "read"
+      ],
+      "answer": 0,
+      "explainSi": "අකුරු එකින් එක කියන එක — spell."
+    },
+    {
+      "id": "b1-19-q9",
+      "q": "'Repeat, please' සහ 'Could you repeat that, please?' — වෙනස?",
+      "options": [
+        "වෙනසක් නෑ",
+        "පළවෙනි එක නියෝගයක් වගේ; 'could' එකෙන් ඒක ඉල්ලීමක් වෙනවා",
+        "දෙවෙනි එක වැරදියි",
+        "පළවෙනි එක වඩාත් ආචාරශීලීයි"
+      ],
+      "answer": 1,
+      "explainSi": "'could' ඉල්ලීම මෘදු කරනවා."
+    },
+    {
+      "id": "b1-19-q10",
+      "q": "තේරීම් දෙකක් අතරේ පැහැදිලි කරගන්නේ?",
+      "options": [
+        "What?",
+        "Do you mean the blue one or the green one?",
+        "I don't understand.",
+        "Say again."
+      ],
+      "answer": 1,
+      "explainSi": "'Do you mean A or B?' — කෙළින්ම."
+    },
+    {
+      "id": "b1-19-q11",
+      "q": "'I don't quite follow' කියන එකේ 'quite' කරන්නේ?",
+      "options": [
+        "අවධාරණය කරනවා",
+        "මෘදු කරනවා",
+        "වැරදියි",
+        "වේගය කියනවා"
+      ],
+      "answer": 1,
+      "explainSi": "'කිසිසේත් තේරෙන්නේ නෑ' කියන එක මෘදු වෙනවා."
+    },
+    {
+      "id": "b1-19-q12",
+      "q": "දිග දෙයක් පැහැදිලි කරලා ඉවර වුණාම අහන්නේ?",
+      "options": [
+        "Understand?",
+        "Shall I go over that again?",
+        "Anyway.",
+        "By the way."
+      ],
+      "answer": 1,
+      "explainSi": "ආපහු කියන්නද කියලා ඉදිරිපත් වෙනවා."
+    },
+    {
+      "id": "b1-19-q13",
+      "q": "වචනයක තේරුම අහන්නේ?",
+      "options": [
+        "What does that word mean?",
+        "What is that word?",
+        "How do you say that word?",
+        "Where is that word?"
+      ],
+      "answer": 0,
+      "explainSi": "'What does X mean?' — තේරුම අහන ක්‍රමය."
+    },
+    {
+      "id": "b1-19-q14",
+      "q": "CEFR B1 මට්ටමේ මේ කුසලතාවට කියන්නේ?",
+      "options": [
+        "Reading for detail",
+        "Ask someone to clarify or elaborate",
+        "Describing places",
+        "Telling a story"
+      ],
+      "answer": 1,
+      "explainSi": "පැහැදිලි කරගන්න අහන එක B1 ලකුණක්."
+    },
+    {
+      "id": "b1-19-q15",
+      "q": "'So you mean…' කියනකොට වැදගත් දේ?",
+      "options": [
+        "වේගය",
+        "ස්වරය — ප්‍රශ්නයක් වගේ තියෙන්න ඕන",
+        "දිග",
+        "වචන තේරීම"
+      ],
+      "answer": 1,
+      "explainSi": "පැතලිව කිව්වොත් අනිත් කෙනාව නිවැරදි කරනවා වගේ ඇහෙනවා."
+    },
+    {
+      "id": "b1-19-q16",
+      "q": "හිස් තැනට: 'Could you speak a bit more ___, please?'",
+      "options": [
+        "slow",
+        "slowly",
+        "slower than",
+        "slowest"
+      ],
+      "answer": 1,
+      "explainSi": "ක්‍රියාවක් විස්තර කරන නිසා -ly ආකෘතිය."
+    },
+    {
+      "id": "b1-19-q17",
+      "q": "ඉංග්‍රීසි හොඳට දන්න අය ගැන ඇත්ත?",
+      "options": [
+        "ඒගොල්ලෝ කවදාවත් ආපහු අහන්නේ නෑ",
+        "ඒගොල්ලෝ තමයි වැඩිපුරම පැහැදිලි කරගන්නේ",
+        "ඒගොල්ලෝ හිස වනනවා",
+        "ඒගොල්ලෝ අනුමාන කරනවා"
+      ],
+      "answer": 1,
+      "explainSi": "අඩක් තේරුම් ගැනීමෙන් වැඩක් නෑ කියලා ඒගොල්ලෝ දන්නවා."
+    },
+    {
+      "id": "b1-19-q18",
+      "q": "'In other words…' කරන්නේ?",
+      "options": [
+        "එකම දේ වෙනස් විදිහකින් කියනවා",
+        "විරුද්ධ දේ කියනවා",
+        "මාතෘකාව හරවනවා",
+        "අවසන් කරනවා"
+      ],
+      "answer": 0,
+      "explainSi": "පැහැදිලි කරන්න එකම දේ සරලව ආපහු."
+    }
+  ],
+  "vocab": [
+    {
+      "en": "sorry?",
+      "si": "සමාවෙන්න? (ආපහු කියන්න)",
+      "say": "සොරි",
+      "exampleEn": "Sorry? I didn't hear you.",
+      "exampleSi": "සමාවෙන්න? මට ඇහුණේ නෑ."
+    },
+    {
+      "en": "I didn't catch that",
+      "si": "අහගන්න බැරි වුණා",
+      "say": "අයි ඩිඩ්න්ට් කැච් දැට්",
+      "exampleEn": "Sorry, I didn't catch that.",
+      "exampleSi": "සමාවෙන්න, අහගන්න බැරි වුණා."
+    },
+    {
+      "en": "say that again",
+      "si": "ආපහු කියන්න",
+      "say": "සේ දැට් අගේන්",
+      "exampleEn": "Could you say that again?",
+      "exampleSi": "ආපහු කියන්න පුළුවන්ද?"
+    },
+    {
+      "en": "more slowly",
+      "si": "ටිකක් හෙමින්",
+      "say": "මෝ ස්ලෝලි",
+      "exampleEn": "Could you speak more slowly?",
+      "exampleSi": "ටිකක් හෙමින් කථා කරන්න පුළුවන්ද?"
+    },
+    {
+      "en": "I don't quite follow",
+      "si": "හරියටම තේරෙන්නේ නෑ",
+      "say": "අයි ඩෝන්ට් ක්වයිට් ෆොලෝ",
+      "exampleEn": "Sorry, I don't quite follow.",
+      "exampleSi": "සමාවෙන්න, හරියටම තේරෙන්නේ නෑ."
+    },
+    {
+      "en": "what do you mean",
+      "si": "ඔයා කියන්නේ මොකක්ද",
+      "say": "වොට් ඩූ යූ මීන්",
+      "exampleEn": "What do you mean exactly?",
+      "exampleSi": "හරියටම කියන්නේ මොකක්ද?"
+    },
+    {
+      "en": "do you mean",
+      "si": "ඔයා කියන්නේ ...ද",
+      "say": "ඩූ යූ මීන්",
+      "exampleEn": "Do you mean today or tomorrow?",
+      "exampleSi": "අදද හෙටද කියලා?"
+    },
+    {
+      "en": "did you say",
+      "si": "ඔයා කිව්වේ ...ද",
+      "say": "ඩිඩ් යූ සේ",
+      "exampleEn": "Sorry, did you say Tuesday?",
+      "exampleSi": "සමාවෙන්න, අඟහරුවාදා කිව්වේ?"
+    },
+    {
+      "en": "so you mean",
+      "si": "එහෙනම් ඔයා කියන්නේ",
+      "say": "සෝ යූ මීන්",
+      "exampleEn": "So you mean I should wait?",
+      "exampleSi": "එහෙනම් මම ඉන්න ඕන කියලා?"
+    },
+    {
+      "en": "does that make sense",
+      "si": "තේරුණාද",
+      "say": "ඩස් දැට් මේක් සෙන්ස්",
+      "exampleEn": "Does that make sense?",
+      "exampleSi": "තේරුණාද?"
+    },
+    {
+      "en": "do you know what I mean",
+      "si": "තේරෙනවා නේද",
+      "say": "ඩූ යූ නෝ වොට් අයි මීන්",
+      "exampleEn": "Do you know what I mean?",
+      "exampleSi": "තේරෙනවා නේද?"
+    },
+    {
+      "en": "go over it again",
+      "si": "ආපහු කියනවා",
+      "say": "ගෝ ඕවර් ඉට් අගේන්",
+      "exampleEn": "Shall I go over it again?",
+      "exampleSi": "ආපහු කියන්නද?"
+    },
+    {
+      "en": "in other words",
+      "si": "වෙන විදිහකින් කිව්වොත්",
+      "say": "ඉන් අදර් වර්ඩ්ස්",
+      "exampleEn": "In other words, it's free.",
+      "exampleSi": "වෙන විදිහකින් කිව්වොත්, ඒක නොමිලේ."
+    },
+    {
+      "en": "spell it",
+      "si": "අකුරු කියන්න",
+      "say": "ස්පෙල් ඉට්",
+      "exampleEn": "Could you spell that for me?",
+      "exampleSi": "අකුරු කියන්න පුළුවන්ද?"
+    },
+    {
+      "en": "write it down",
+      "si": "ලියලා දෙන්න",
+      "say": "රයිට් ඉට් ඩවුන්",
+      "exampleEn": "Could you write it down?",
+      "exampleSi": "ලියලා දෙන්න පුළුවන්ද?"
+    },
+    {
+      "en": "got it",
+      "si": "තේරුණා",
+      "say": "ගොට් ඉට්",
+      "exampleEn": "Got it. Thank you.",
+      "exampleSi": "තේරුණා. ස්තූතියි."
+    }
+  ]
+}

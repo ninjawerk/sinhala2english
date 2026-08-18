@@ -1,0 +1,789 @@
+{
+  "hero": {
+    "src": "images/b1-14-hero.webp",
+    "alt": "Ruwan pinning a handwritten list to the wall above a small desk, a mug and an open application form on the desk below, evening lamplight."
+  },
+  "goalsSi": [
+    "බලාපොරොත්තු, සිහින සහ සැලසුම් ගැන කථා කරන්න",
+    "hope to, want to, would like to, plan to අතර වෙනස",
+    "'thinking of' එකට පස්සේ -ing එන එක",
+    "ඔබේ තේරීමට හේතුවක් දෙන්න — because, so that, in order to",
+    "කෙනෙකුගේ බලාපොරොත්තු ගැන අහන්න",
+    "සිහිනයක් ගැන ඡේදයක් ලියන්න"
+  ],
+  "goals": [
+    "Talk about hopes, dreams and plans",
+    "Tell hope to, want to, would like to and plan to apart",
+    "Use thinking of with an -ing form",
+    "Give reasons with because, so that and in order to",
+    "Ask someone about their hopes",
+    "Write a paragraph about an ambition"
+  ],
+  "sections": [
+    {
+      "type": "note",
+      "title": "The question everyone asks",
+      "titleSi": "හැමෝම අහන ප්‍රශ්නය",
+      "bodySi": "CEFR B1 මට්ටමේ නිර්වචනයේම මේක තියෙනවා: 'සිහින, බලාපොරොත්තු සහ අභිලාෂ විස්තර කරන්න, සහ ඒවාට හේතු කෙටියෙන් දෙන්න'.\n\nඑහෙනම් මේක ව්‍යාකරණ පාඩමක් නෙවෙයි — උත්තර දෙන පාඩමක්.\n\nරැකියා සම්මුඛ පරීක්ෂණයක, විශ්වවිද්‍යාල අයදුම්පතක, අලුත් කෙනෙක් හම්බ වුණාම — ප්‍රශ්නය එකයි:\n\n'What do you want to do?'\n'What are your plans?'\n'Where do you see yourself in five years?'\n\nඒකට 'I want to be a doctor' කියලා නැවතුනොත් A2. B1 කියන්නේ ඊට පස්සේ ඇයි කියලා කියන එකයි:\n\n'I'm hoping to study nursing, because my mother was ill for a long time and I saw what good nurses do. I'm planning to apply next year.'\n\nවාක්‍ය තුනයි. බලාපොරොත්තුව, හේතුව, ඊළඟ පියවර. මේ පාඩම ඒ තුනේ.",
+      "body": "The CEFR's own words for B1: describe dreams, hopes and ambitions, and briefly give reasons. The reason is what makes it B1 rather than A2."
+    },
+    {
+      "type": "grammar",
+      "title": "hope, want, would like, plan",
+      "titleSi": "hope, want, would like, plan",
+      "explainSi": "හතරම 'to' එකකින් පස්සේ ක්‍රියාවක් ගන්නවා. ඒත් ඒවායේ තරම වෙනස්.\n\nwant to — ඕන. කෙළින්ම, බලවත්ව. යාළුවෙක් එක්ක හරි.\n'I want to work abroad.'\n\nwould like to — ඕන, ඒත් ආචාරශීලීව. නොහඳුනන කෙනෙක් එක්ක, සම්මුඛ පරීක්ෂණයක.\n'I would like to work abroad.'\n\nhope to — බලාපොරොත්තුවක්. වෙයිද නැද්ද කියලා නිශ්චිත නෑ.\n'I hope to work abroad.'\n\nplan to — සැලසුමක්. පියවර ගන්නත් පටන් අරන්.\n'I plan to work abroad.'\n\nපිළිවෙළක් වගේ හිතන්න: hope (බලාපොරොත්තුව) → want (ආසාව) → plan (සැලසුම) → going to (කරනවා).\n\nතව එකක්: hope එකට 'that' වාක්‍යයකුත් ගන්න පුළුවන් — 'I hope that she comes.' ඒත් 'plan' එකට බෑ.",
+      "explain": "All four take to plus a verb, but they differ in strength: want (direct), would like (polite), hope (uncertain), plan (decided).",
+      "formula": "want / would like / hope / plan + to + ක්‍රියාව",
+      "table": {
+        "headers": [
+          "English",
+          "සිංහල",
+          "තරම"
+        ],
+        "rows": [
+          [
+            "I want to study.",
+            "මට ඉගෙන ගන්න ඕන",
+            "කෙළින්ම"
+          ],
+          [
+            "I would like to study.",
+            "මම ඉගෙන ගන්න කැමතියි",
+            "ආචාරශීලීව"
+          ],
+          [
+            "I hope to study.",
+            "ඉගෙන ගන්න බලාපොරොත්තුවක් තියෙනවා",
+            "අවිනිශ්චිතයි"
+          ],
+          [
+            "I plan to study.",
+            "ඉගෙන ගන්න සැලසුමක් තියෙනවා",
+            "තීරණය කරලා"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "I hope to finish the course by June.",
+          "si": "ජූනි වෙනකොට පාඨමාලාව ඉවර කරන්න බලාපොරොත්තුයි."
+        },
+        {
+          "en": "She plans to open her own salon.",
+          "si": "ඇය සැලසුම් කරනවා තමන්ගේම සැලූන් එකක් අරින්න."
+        },
+        {
+          "en": "I would like to learn to drive.",
+          "si": "මම රිය පදවන්න ඉගෙන ගන්න කැමතියි."
+        }
+      ],
+      "watchOutSi": "'I want to be a teacher' කියන එක සම්මුඛ පරීක්ෂණයකදී ටිකක් හිස්ටර්. 'I would like to become a teacher' නැත්නම් 'I'm hoping to become a teacher' ආචාරශීලීයි."
+    },
+    {
+      "type": "grammar",
+      "title": "thinking of, and other -ing ones",
+      "titleSi": "thinking of, සහ -ing ගන්න අනිත් ඒවා",
+      "explainSi": "සමහර යෙදුම්වලට පස්සේ to නෙවෙයි, -ing එනවා. ඒක තෝරගන්නේ නෑ — යෙදුම එක්කම එනවා.\n\nthinking of / thinking about + -ing — තාම හිතනවා, තීරණයක් නෑ.\n'I'm thinking of moving to Colombo.'\n\ninterested in + -ing\n'I'm interested in studying design.'\n\nlook forward to + -ing — මේකේ 'to' එකක් තියෙනවා, ඒත් ඊට පස්සේ -ing! බහුලම වැරැද්ද මෙතන.\n'I'm looking forward to starting.' ✓\n'I'm looking forward to start.' ✗\n\nkeen on + -ing\n'She's keen on working with children.'\n\ndream of + -ing\n'He dreams of playing for the country.'\n\nඒත් dream එකට 'my dream is to…' කියලත් කියන්න පුළුවන් — එතන to එකයි.\n'My dream is to open a bookshop.'",
+      "explain": "Some expressions take -ing rather than to. Look forward to is the trap: its to is a preposition, so an -ing follows.",
+      "formula": "thinking of / interested in / keen on / look forward to + -ing",
+      "table": {
+        "headers": [
+          "යෙදුම",
+          "ඊළඟට",
+          "උදාහරණය"
+        ],
+        "rows": [
+          [
+            "hope / want / plan",
+            "to + ක්‍රියාව",
+            "I hope to go."
+          ],
+          [
+            "thinking of",
+            "-ing",
+            "I'm thinking of going."
+          ],
+          [
+            "interested in",
+            "-ing",
+            "I'm interested in going."
+          ],
+          [
+            "look forward to",
+            "-ing",
+            "I look forward to going."
+          ],
+          [
+            "my dream is",
+            "to + ක්‍රියාව",
+            "My dream is to go."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "I'm thinking of applying for a scholarship.",
+          "si": "ශිෂ්‍යත්වයකට අයදුම් කරන්න හිතාගෙන ඉන්නවා."
+        },
+        {
+          "en": "She's interested in becoming a translator.",
+          "si": "පරිවර්තිකාවක් වෙන්න ඇය කැමැත්තක් දක්වනවා."
+        },
+        {
+          "en": "We're looking forward to seeing you.",
+          "si": "ඔයාව හම්බ වෙන එක බලාපොරොත්තුවෙන් ඉන්නවා."
+        }
+      ],
+      "watchOutSi": "'I'm looking forward to meet you' කියන එක වැරදියි, ඒත් හරිම බහුලයි. 'to meeting you' කියන්න. මෙතන 'to' කියන්නේ ක්‍රියාවේ කොටසක් නෙවෙයි."
+    },
+    {
+      "type": "grammar",
+      "title": "Because, so that, in order to",
+      "titleSi": "Because, so that, in order to",
+      "explainSi": "බලාපොරොත්තුවක් කිව්වම ඊළඟ ප්‍රශ්නය හැමවිටම 'ඇයි?'. හේතුව දෙන ක්‍රම තුනක්:\n\nbecause + වාක්‍යයක් — හේතුව.\n'I want to study nursing because my mother was ill.'\n\nso that + වාක්‍යයක් — අරමුණ. ඊට පස්සේ can/could/will නිතරම එනවා.\n'I'm saving money so that I can go next year.'\n\nin order to / to + ක්‍රියාව — අරමුණ, කෙටියෙන්.\n'I'm learning English in order to work abroad.'\n'I'm learning English to work abroad.' (එකම දේ, සරලයි)\n\nවෙනස: because පස්සට බලනවා (හේතුව). so that සහ to ඉස්සරහට බලනවා (අරමුණ).\n\n'I left early because the road was flooded.' (වුණු දෙයක්)\n'I left early so that I would not be late.' (වළක්වගන්න ඕන දෙයක්)",
+      "explain": "Because looks back at a cause. So that and in order to look forward to a purpose.",
+      "formula": "because + වාක්‍යය  ·  so that + can/will වාක්‍යය  ·  (in order) to + ක්‍රියාව",
+      "table": {
+        "headers": [
+          "වචනය",
+          "බලන්නේ",
+          "උදාහරණය"
+        ],
+        "rows": [
+          [
+            "because",
+            "හේතුව (පස්සට)",
+            "…because I like children."
+          ],
+          [
+            "so that",
+            "අරමුණ (ඉස්සරහට)",
+            "…so that I can help my family."
+          ],
+          [
+            "in order to",
+            "අරමුණ (ඉස්සරහට)",
+            "…in order to get a better job."
+          ],
+          [
+            "to",
+            "අරමුණ, කෙටියෙන්",
+            "…to get a better job."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "I'm studying at night so that I can keep my job.",
+          "si": "රැකියාව තියාගන්න පුළුවන් වෙන්න මම රෑට ඉගෙන ගන්නවා."
+        },
+        {
+          "en": "She moved to Colombo in order to be near the hospital.",
+          "si": "රෝහල ළඟ ඉන්න ඇය කොළඹ ගියා."
+        },
+        {
+          "en": "I chose this course because it is practical.",
+          "si": "මේක ප්‍රායෝගික නිසා මම මේ පාඨමාලාව තෝරගත්තා."
+        }
+      ],
+      "watchOutSi": "'for' යොදලා අරමුණ කියන්න එපා. 'I came here for study' ✗ — 'I came here to study' ✓. 'for' එකට පස්සේ නාම පදයක් එනවා: 'for my studies' ✓."
+    },
+    {
+      "type": "vocab",
+      "title": "Hopes and plans",
+      "titleSi": "බලාපොරොත්තු සහ සැලසුම්",
+      "introSi": "සිහින, බලාපොරොත්තු සහ ඉදිරි පියවර ගැන කථා කරන වචන.",
+      "items": [
+        {
+          "en": "hope",
+          "si": "බලාපොරොත්තුව",
+          "say": "හෝප්",
+          "exampleEn": "I hope to travel one day.",
+          "exampleSi": "කවදා හරි ගමන් කරන්න බලාපොරොත්තුයි."
+        },
+        {
+          "en": "dream",
+          "si": "සිහිනය",
+          "say": "ඩ්‍රීම්",
+          "exampleEn": "My dream is to open a shop.",
+          "exampleSi": "මගේ සිහිනය කඩයක් අරින්න."
+        },
+        {
+          "en": "ambition",
+          "si": "අභිලාෂය",
+          "say": "ඇම්බිෂන්",
+          "exampleEn": "Her ambition is to teach.",
+          "exampleSi": "ඇයගේ අභිලාෂය උගන්නන්න."
+        },
+        {
+          "en": "plan",
+          "si": "සැලසුම",
+          "say": "ප්ලෑන්",
+          "exampleEn": "What are your plans?",
+          "exampleSi": "ඔයාගේ සැලසුම් මොනවාද?"
+        },
+        {
+          "en": "goal",
+          "si": "ඉලක්කය",
+          "say": "ගෝල්",
+          "exampleEn": "My goal is to finish this year.",
+          "exampleSi": "මගේ ඉලක්කය මේ අවුරුද්දේ ඉවර කරන්න."
+        },
+        {
+          "en": "apply for",
+          "si": "අයදුම් කරනවා",
+          "say": "අප්ලයි ෆෝ",
+          "exampleEn": "I'm applying for a scholarship.",
+          "exampleSi": "මම ශිෂ්‍යත්වයකට අයදුම් කරනවා."
+        },
+        {
+          "en": "scholarship",
+          "si": "ශිෂ්‍යත්වය",
+          "say": "ස්කොලර්ෂිප්",
+          "exampleEn": "She won a scholarship.",
+          "exampleSi": "ඇය ශිෂ්‍යත්වයක් දිනාගත්තා."
+        },
+        {
+          "en": "qualification",
+          "si": "සුදුසුකම",
+          "say": "ක්වොලිෆිකේෂන්",
+          "exampleEn": "I need one more qualification.",
+          "exampleSi": "මට තව සුදුසුකමක් ඕන."
+        },
+        {
+          "en": "save (money)",
+          "si": "ඉතුරු කරනවා",
+          "say": "සේව්",
+          "exampleEn": "I'm saving for the fees.",
+          "exampleSi": "ගාස්තු වෙනුවෙන් මම ඉතුරු කරනවා."
+        },
+        {
+          "en": "abroad",
+          "si": "විදේශයක",
+          "say": "අබ්‍රෝඩ්",
+          "exampleEn": "He hopes to work abroad.",
+          "exampleSi": "එයා විදේශයක වැඩ කරන්න බලාපොරොත්තුයි."
+        },
+        {
+          "en": "look forward to",
+          "si": "බලාපොරොත්තුවෙන් ඉන්නවා",
+          "say": "ලුක් ෆෝවර්ඩ් ටු",
+          "exampleEn": "I'm looking forward to starting.",
+          "exampleSi": "පටන් ගන්න බලාපොරොත්තුවෙන් ඉන්නවා."
+        },
+        {
+          "en": "in order to",
+          "si": "...න්න",
+          "say": "ඉන් ඕඩර් ටු",
+          "exampleEn": "In order to pass, study daily.",
+          "exampleSi": "සමත් වෙන්න නම් හැම දාම ඉගෙන ගන්න."
+        },
+        {
+          "en": "so that",
+          "si": "...න්න පුළුවන් වෙන්න",
+          "say": "සෝ දැට්",
+          "exampleEn": "I work so that I can study.",
+          "exampleSi": "ඉගෙන ගන්න පුළුවන් වෙන්න මම වැඩ කරනවා."
+        },
+        {
+          "en": "one day",
+          "si": "කවදා හරි",
+          "say": "වන් ඩේ",
+          "exampleEn": "One day I'll have my own house.",
+          "exampleSi": "කවදා හරි මට මගේම ගෙදරක් ඇති."
+        },
+        {
+          "en": "give up",
+          "si": "අත්හරිනවා",
+          "say": "ගිව් අප්",
+          "exampleEn": "Don't give up now.",
+          "exampleSi": "දැන් අත්හරින්න එපා."
+        },
+        {
+          "en": "step by step",
+          "si": "පියවරෙන් පියවර",
+          "say": "ස්ටෙප් බයි ස්ටෙප්",
+          "exampleEn": "Step by step, it is possible.",
+          "exampleSi": "පියවරෙන් පියවර, ඒක පුළුවන්."
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "Where do you see yourself?",
+      "titleSi": "ඔයා ඔයාව දකින්නේ කොහෙද?",
+      "settingSi": "රැකියා සම්මුඛ පරීක්ෂණයක්. ආචාරශීලී ආකෘති සහ හේතු දෙන විදිහ බලන්න.",
+      "lines": [
+        {
+          "speaker": "Interviewer",
+          "en": "So, what would you like to do here?",
+          "si": "එහෙනම්, ඔයා මෙතන කරන්න කැමති මොකක්ද?"
+        },
+        {
+          "speaker": "Nadeesha",
+          "en": "I'd like to work in the customer team, because I enjoy talking to people all day.",
+          "si": "මම පාරිභෝගික කණ්ඩායමේ වැඩ කරන්න කැමතියි, මොකද මට දවස පුරාම මිනිස්සු එක්ක කථා කරන එක රසයි."
+        },
+        {
+          "speaker": "Interviewer",
+          "en": "And where do you see yourself in three years?",
+          "si": "අවුරුදු තුනකින් ඔයා ඔයාව දකින්නේ කොහෙද?"
+        },
+        {
+          "speaker": "Nadeesha",
+          "en": "I'm hoping to lead a small team. I'm doing a management course at night so that I can be ready.",
+          "si": "පොඩි කණ්ඩායමක් මෙහෙයවන්න බලාපොරොත්තුයි. සූදානම් වෙන්න පුළුවන් වෙන්න මම රෑට කළමනාකරණ පාඨමාලාවක් කරනවා."
+        },
+        {
+          "speaker": "Interviewer",
+          "en": "Are you thinking of studying further after that?",
+          "si": "ඊට පස්සේ තව ඉගෙන ගන්න හිතාගෙන ඉන්නවාද?"
+        },
+        {
+          "speaker": "Nadeesha",
+          "en": "I am, but step by step. I don't want to promise something I can't finish.",
+          "si": "ඔව්, ඒත් පියවරෙන් පියවර. ඉවර කරන්න බැරි දෙයක් පොරොන්දු වෙන්න මට ඕන නෑ."
+        },
+        {
+          "speaker": "Interviewer",
+          "en": "That's a fair answer.",
+          "si": "ඒක සාධාරණ උත්තරයක්."
+        }
+      ]
+    },
+    {
+      "type": "story",
+      "title": "The list on the wall",
+      "titleSi": "බිත්තියේ ලැයිස්තුව",
+      "introSi": "බලාපොරොත්තු ගැන කෙටි කතාවක්.",
+      "paragraphs": [
+        {
+          "en": "When Sunil was seventeen he wrote six things on a piece of paper and stuck it above his bed. He did not tell anybody what they were.",
+          "si": "සුනිල් දාහත් වයසේදී කොළයක දේවල් හයක් ලියලා ඇඳට උඩින් ඇලෙව්වා. ඒවා මොනවාද කියලා එයා කාටවත් කිව්වේ නෑ."
+        },
+        {
+          "en": "The first was to learn to swim, because he had grown up beside the sea and had never gone in past his knees.",
+          "si": "පළවෙනි එක පීනන්න ඉගෙන ගන්න. එයා ලොකු වුණේ මුහුද ළඟ, ඒත් දණහිසට උඩින් කවදාවත් ගිහින් තිබුණේ නෑ."
+        },
+        {
+          "en": "The fourth was to see snow. He had no plan for it at all, so he simply wrote it and left it there.",
+          "si": "හතරවෙනි එක හිම බලන්න. ඒකට කිසිම සැලසුමක් තිබුණේ නෑ, ඒ නිසා ලියලා එහෙම්මම තිබ්බා."
+        },
+        {
+          "en": "He is fifty-one now. Five of the six are done. The paper is still on the wall, in a frame, and the sixth line has not been crossed out — because he is still planning to.",
+          "si": "දැන් එයාට පනස් එකයි. හයෙන් පහක් ඉවරයි. කොළේ තාමත් බිත්තියේ, රාමුවක. හයවෙනි පේළිය තාම කපලා නෑ — මොකද එයා තාමත් ඒක කරන්න සැලසුම් කරනවා."
+        }
+      ],
+      "glossary": [
+        {
+          "en": "stick (stuck)",
+          "si": "අලවනවා"
+        },
+        {
+          "en": "knee",
+          "si": "දණහිස"
+        },
+        {
+          "en": "frame",
+          "si": "රාමුව"
+        },
+        {
+          "en": "cross out",
+          "si": "කපනවා"
+        }
+      ],
+      "questionsSi": [
+        "සුනිල් පීනන්න ඉගෙන ගන්න ඕන වුණේ ඇයි?",
+        "හතරවෙනි එකට සැලසුමක් තිබුණේ නෑ — ඒත් එයා ඒක ලිව්වේ ඇයි?",
+        "ඔයාගේ ලැයිස්තුවේ මොනවා තියෙයිද?"
+      ]
+    },
+    {
+      "type": "tip",
+      "title": "Answer in three",
+      "titleSi": "වාක්‍ය තුනකින් උත්තර දෙන්න",
+      "bodySi": "'ඔයාගේ සැලසුම මොකක්ද?' කියලා ඇහුවම, වාක්‍ය තුනකින් උත්තර දෙන්න පුරුදු වෙන්න:\n\n1. බලාපොරොත්තුව — 'I'm hoping to study accounting.'\n2. හේතුව — 'because I have always been good with numbers.'\n3. ඊළඟ පියවර — 'I'm applying to two places in January.'\n\nඑක වාක්‍යයකින් නැවතුනොත් අහන කෙනා තව ප්‍රශ්නයක් අහන්න ඕන. තුනක් කිව්වොත් ඔයාගේ ඉංග්‍රීසි B1 කියලා පේනවා.",
+      "body": "Hope, reason, next step. One sentence each. That shape is what B1 sounds like."
+    },
+    {
+      "type": "practice",
+      "title": "to, or -ing?",
+      "titleSi": "to ද, -ing ද?",
+      "instructionSi": "වරහන් තුළ ඇති ක්‍රියාව හරි ආකෘතියෙන් ලියන්න.",
+      "items": [
+        {
+          "prompt": "I hope ___ (finish) by June.",
+          "answer": "to finish",
+          "hintSi": "hope + to.",
+          "full": "I hope to finish by June."
+        },
+        {
+          "prompt": "I'm thinking of ___ (move) to Kandy.",
+          "answer": "moving",
+          "hintSi": "thinking of + -ing.",
+          "full": "I'm thinking of moving to Kandy."
+        },
+        {
+          "prompt": "I'm looking forward to ___ (start) the course.",
+          "answer": "starting",
+          "hintSi": "මේ 'to' එකට පස්සේ -ing.",
+          "full": "I'm looking forward to starting the course."
+        },
+        {
+          "prompt": "She plans ___ (open) her own salon.",
+          "answer": "to open",
+          "hintSi": "plan + to.",
+          "full": "She plans to open her own salon."
+        },
+        {
+          "prompt": "He's interested in ___ (study) design.",
+          "answer": "studying",
+          "hintSi": "interested in + -ing.",
+          "full": "He's interested in studying design."
+        },
+        {
+          "prompt": "My dream is ___ (live) by the sea.",
+          "answer": "to live",
+          "hintSi": "my dream is + to.",
+          "full": "My dream is to live by the sea."
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "b1-14-q1",
+      "q": "CEFR B1 මට්ටමට අනුව සිහින සහ බලාපොරොත්තු කියනකොට තව මොකක් ඕනද?",
+      "options": [
+        "දිග වචන",
+        "හේතු කෙටියෙන් දෙන එක",
+        "අතීත කාලය",
+        "ප්‍රශ්න පමණක්"
+      ],
+      "answer": 1,
+      "explainSi": "බලාපොරොත්තුව + හේතුව — ඒක තමයි A2 සහ B1 අතර වෙනස."
+    },
+    {
+      "id": "b1-14-q2",
+      "q": "සම්මුඛ පරීක්ෂණයකට වඩාත් ආචාරශීලී එක?",
+      "options": [
+        "I want to be a manager.",
+        "I would like to become a manager.",
+        "I will be a manager.",
+        "Give me the manager job."
+      ],
+      "answer": 1,
+      "explainSi": "'would like to' ආචාරශීලීයි; 'want to' කෙළින්ම.",
+      "speak": "I would like to become a manager."
+    },
+    {
+      "id": "b1-14-q3",
+      "q": "'plan to' සහ 'hope to' අතර වෙනස?",
+      "options": [
+        "වෙනසක් නෑ",
+        "plan = තීරණය කරලා; hope = තාම අවිනිශ්චිතයි",
+        "hope = තීරණය කරලා",
+        "plan එක අතීතය"
+      ],
+      "answer": 1,
+      "explainSi": "plan එකට පියවර තියෙනවා; hope එකට බලාපොරොත්තුව විතරයි."
+    },
+    {
+      "id": "b1-14-q4",
+      "q": "කුමන එක හරිද?",
+      "options": [
+        "I'm thinking of to move.",
+        "I'm thinking of moving.",
+        "I'm thinking to move.",
+        "I'm thinking of move."
+      ],
+      "answer": 1,
+      "explainSi": "thinking of + -ing."
+    },
+    {
+      "id": "b1-14-q5",
+      "q": "'I'm looking forward to ___ you.' — හිස් තැනට?",
+      "options": [
+        "meet",
+        "meeting",
+        "met",
+        "to meet"
+      ],
+      "answer": 1,
+      "explainSi": "මෙතන 'to' කියන්නේ ක්‍රියාවේ කොටසක් නෙවෙයි — ඒ නිසා -ing.",
+      "speak": "I'm looking forward to meeting you."
+    },
+    {
+      "id": "b1-14-q6",
+      "q": "'because' බලන්නේ කොහාටද?",
+      "options": [
+        "ඉස්සරහට — අරමුණට",
+        "පස්සට — හේතුවට",
+        "දෙපැත්තටම",
+        "කිසිම තැනකට නෑ"
+      ],
+      "answer": 1,
+      "explainSi": "because හේතුව කියනවා; so that සහ to අරමුණ කියනවා."
+    },
+    {
+      "id": "b1-14-q7",
+      "q": "හිස් තැනට: 'I'm saving money ___ I can go next year.'",
+      "options": [
+        "because",
+        "so that",
+        "in order",
+        "for"
+      ],
+      "answer": 1,
+      "explainSi": "අරමුණ + can — 'so that'.",
+      "speak": "I'm saving money so that I can go next year."
+    },
+    {
+      "id": "b1-14-q8",
+      "q": "කුමන එක වැරදිද?",
+      "options": [
+        "I came here to study.",
+        "I came here in order to study.",
+        "I came here for study.",
+        "I came here for my studies."
+      ],
+      "answer": 2,
+      "explainSi": "'for' එකට පස්සේ නාම පදයක්. අරමුණ කියන්න 'to study'."
+    },
+    {
+      "id": "b1-14-q9",
+      "q": "'My dream is ___ a bookshop.' — හිස් තැනට?",
+      "options": [
+        "opening",
+        "to open",
+        "open",
+        "of opening"
+      ],
+      "answer": 1,
+      "explainSi": "'my dream is' + to + ක්‍රියාව."
+    },
+    {
+      "id": "b1-14-q10",
+      "q": "'She's keen on ___ with children.' — හිස් තැනට?",
+      "options": [
+        "work",
+        "to work",
+        "working",
+        "worked"
+      ],
+      "answer": 2,
+      "explainSi": "keen on + -ing."
+    },
+    {
+      "id": "b1-14-q11",
+      "q": "බලාපොරොත්තුවක් ගැන හොඳ උත්තරයක තියෙන කොටස් තුන?",
+      "options": [
+        "නම, වයස, ලිපිනය",
+        "බලාපොරොත්තුව, හේතුව, ඊළඟ පියවර",
+        "අතීතය, වර්තමානය, අනාගතය",
+        "ප්‍රශ්නය, උත්තරය, ස්තූතිය"
+      ],
+      "answer": 1,
+      "explainSi": "වාක්‍ය තුනක් — ඒක B1 හඬ."
+    },
+    {
+      "id": "b1-14-q12",
+      "q": "'I hope that she comes' — මේක හරිද?",
+      "options": [
+        "නෑ, hope එකට 'that' බෑ",
+        "ඔව් — hope එකට 'that' වාක්‍යයකුත් ගන්න පුළුවන්",
+        "ඔව්, ඒත් 'plan' එකත් එහෙමයි",
+        "නෑ, 'hope to come' කියන්න ඕන"
+      ],
+      "answer": 1,
+      "explainSi": "hope + that + වාක්‍යය හරි. plan එකට ඒක බෑ."
+    },
+    {
+      "id": "b1-14-q13",
+      "q": "'ඇය සැලසුම් කරනවා තමන්ගේම සැලූන් එකක් අරින්න' — කොහොමද?",
+      "options": [
+        "She plans opening her own salon.",
+        "She plans to open her own salon.",
+        "She plans for open her own salon.",
+        "She is plan to open her own salon."
+      ],
+      "answer": 1,
+      "explainSi": "plan + to + ක්‍රියාව.",
+      "speak": "She plans to open her own salon."
+    },
+    {
+      "id": "b1-14-q14",
+      "q": "වඩාත් අවිනිශ්චිත එක කුමක්ද?",
+      "options": [
+        "I'm going to study nursing.",
+        "I plan to study nursing.",
+        "I hope to study nursing.",
+        "I'm studying nursing."
+      ],
+      "answer": 2,
+      "explainSi": "hope එකේ තියෙන්නේ බලාපොරොත්තුව විතරයි."
+    },
+    {
+      "id": "b1-14-q15",
+      "q": "හිස් තැනට: 'I chose this course ___ it is practical.'",
+      "options": [
+        "so that",
+        "in order to",
+        "because",
+        "to"
+      ],
+      "answer": 2,
+      "explainSi": "හේතුවක් — because."
+    },
+    {
+      "id": "b1-14-q16",
+      "q": "'in order to' සහ 'to' අතර වෙනස?",
+      "options": [
+        "අර්ථය වෙනස්",
+        "අර්ථය එකයි — 'in order to' ටිකක් විධිමත්",
+        "'to' වැරදියි",
+        "'in order to' අතීතයට විතරයි"
+      ],
+      "answer": 1,
+      "explainSi": "දෙකම අරමුණ. 'in order to' ලියන එකට ගැලපෙනවා."
+    },
+    {
+      "id": "b1-14-q17",
+      "q": "'What are your plans?' කියලා ඇහුවම දුර්වලම උත්තරය?",
+      "options": [
+        "I want to be a nurse.",
+        "I'm hoping to study nursing, because I like helping people. I'm applying in January.",
+        "I'd like to study nursing so that I can work in a hospital.",
+        "I plan to study nursing — it has always interested me."
+      ],
+      "answer": 0,
+      "explainSi": "හේතුවක් නෑ, ඊළඟ පියවරක් නෑ — A2 මට්ටමේ උත්තරයක්."
+    },
+    {
+      "id": "b1-14-q18",
+      "q": "'He dreams of ___ for the country.' — හිස් තැනට?",
+      "options": [
+        "play",
+        "to play",
+        "playing",
+        "played"
+      ],
+      "answer": 2,
+      "explainSi": "dream of + -ing."
+    }
+  ],
+  "vocab": [
+    {
+      "en": "hope",
+      "si": "බලාපොරොත්තුව",
+      "say": "හෝප්",
+      "exampleEn": "I hope to travel one day.",
+      "exampleSi": "කවදා හරි ගමන් කරන්න බලාපොරොත්තුයි."
+    },
+    {
+      "en": "dream",
+      "si": "සිහිනය",
+      "say": "ඩ්‍රීම්",
+      "exampleEn": "My dream is to open a shop.",
+      "exampleSi": "මගේ සිහිනය කඩයක් අරින්න."
+    },
+    {
+      "en": "ambition",
+      "si": "අභිලාෂය",
+      "say": "ඇම්බිෂන්",
+      "exampleEn": "Her ambition is to teach.",
+      "exampleSi": "ඇයගේ අභිලාෂය උගන්නන්න."
+    },
+    {
+      "en": "plan",
+      "si": "සැලසුම",
+      "say": "ප්ලෑන්",
+      "exampleEn": "What are your plans?",
+      "exampleSi": "ඔයාගේ සැලසුම් මොනවාද?"
+    },
+    {
+      "en": "goal",
+      "si": "ඉලක්කය",
+      "say": "ගෝල්",
+      "exampleEn": "My goal is to finish this year.",
+      "exampleSi": "මගේ ඉලක්කය මේ අවුරුද්දේ ඉවර කරන්න."
+    },
+    {
+      "en": "apply for",
+      "si": "අයදුම් කරනවා",
+      "say": "අප්ලයි ෆෝ",
+      "exampleEn": "I'm applying for a scholarship.",
+      "exampleSi": "මම ශිෂ්‍යත්වයකට අයදුම් කරනවා."
+    },
+    {
+      "en": "scholarship",
+      "si": "ශිෂ්‍යත්වය",
+      "say": "ස්කොලර්ෂිප්",
+      "exampleEn": "She won a scholarship.",
+      "exampleSi": "ඇය ශිෂ්‍යත්වයක් දිනාගත්තා."
+    },
+    {
+      "en": "qualification",
+      "si": "සුදුසුකම",
+      "say": "ක්වොලිෆිකේෂන්",
+      "exampleEn": "I need one more qualification.",
+      "exampleSi": "මට තව සුදුසුකමක් ඕන."
+    },
+    {
+      "en": "save (money)",
+      "si": "ඉතුරු කරනවා",
+      "say": "සේව්",
+      "exampleEn": "I'm saving for the fees.",
+      "exampleSi": "ගාස්තු වෙනුවෙන් මම ඉතුරු කරනවා."
+    },
+    {
+      "en": "abroad",
+      "si": "විදේශයක",
+      "say": "අබ්‍රෝඩ්",
+      "exampleEn": "He hopes to work abroad.",
+      "exampleSi": "එයා විදේශයක වැඩ කරන්න බලාපොරොත්තුයි."
+    },
+    {
+      "en": "look forward to",
+      "si": "බලාපොරොත්තුවෙන් ඉන්නවා",
+      "say": "ලුක් ෆෝවර්ඩ් ටු",
+      "exampleEn": "I'm looking forward to starting.",
+      "exampleSi": "පටන් ගන්න බලාපොරොත්තුවෙන් ඉන්නවා."
+    },
+    {
+      "en": "in order to",
+      "si": "...න්න",
+      "say": "ඉන් ඕඩර් ටු",
+      "exampleEn": "In order to pass, study daily.",
+      "exampleSi": "සමත් වෙන්න නම් හැම දාම ඉගෙන ගන්න."
+    },
+    {
+      "en": "so that",
+      "si": "...න්න පුළුවන් වෙන්න",
+      "say": "සෝ දැට්",
+      "exampleEn": "I work so that I can study.",
+      "exampleSi": "ඉගෙන ගන්න පුළුවන් වෙන්න මම වැඩ කරනවා."
+    },
+    {
+      "en": "one day",
+      "si": "කවදා හරි",
+      "say": "වන් ඩේ",
+      "exampleEn": "One day I'll have my own house.",
+      "exampleSi": "කවදා හරි මට මගේම ගෙදරක් ඇති."
+    },
+    {
+      "en": "give up",
+      "si": "අත්හරිනවා",
+      "say": "ගිව් අප්",
+      "exampleEn": "Don't give up now.",
+      "exampleSi": "දැන් අත්හරින්න එපා."
+    },
+    {
+      "en": "step by step",
+      "si": "පියවරෙන් පියවර",
+      "say": "ස්ටෙප් බයි ස්ටෙප්",
+      "exampleEn": "Step by step, it is possible.",
+      "exampleSi": "පියවරෙන් පියවර, ඒක පුළුවන්."
+    }
+  ]
+}

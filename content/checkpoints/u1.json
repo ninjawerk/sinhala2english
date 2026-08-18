@@ -1,0 +1,102 @@
+{
+  "quiz": [
+    {
+      "id": "u1-cp-q1",
+      "q": "ඉංග්‍රීසි අක්ෂර මාලාවේ අකුරු කීයක් තියෙනවද?",
+      "options": ["24", "26", "28", "30"],
+      "answer": 1,
+      "explainSi": "ඉංග්‍රීසි අක්ෂර මාලාවේ අකුරු 26ක් තියෙනවා."
+    },
+    {
+      "id": "u1-cp-q2",
+      "q": "'apple' වචනයේ මුල් අකුර vowel එකක්ද, consonant එකක්ද?",
+      "options": ["Vowel", "Consonant", "දෙකම නෙවෙයි", "දෙකම"],
+      "answer": 0,
+      "explainSi": "a, e, i, o, u — vowels. 'apple' පටන් ගන්නේ 'a' කින්."
+    },
+    {
+      "id": "u1-cp-q3",
+      "q": "'ස්තූතියි' — ඉංග්‍රීසියෙන්?",
+      "options": ["Sorry", "Please", "Thank you", "Excuse me"],
+      "answer": 2,
+      "explainSi": "'Thank you' — ස්තූතිය පළ කිරීමට.",
+      "speak": "Thank you"
+    },
+    {
+      "id": "u1-cp-q4",
+      "q": "යමක් ආචාරශීලීව ඉල්ලද්දී වචනයක් එකතු කරනවා. ඒක මොකක්ද?",
+      "options": ["Sorry", "Please", "Goodbye", "Hello"],
+      "answer": 1,
+      "explainSi": "'Please' — ආචාරශීලීව ඉල්ලීමකට එකතු කරන වචනය.",
+      "speak": "Please"
+    },
+    {
+      "id": "u1-cp-q5",
+      "q": "'I ___ a student.' — හිස්තැනට ගැලපෙන්නේ?",
+      "options": ["is", "are", "am", "be"],
+      "answer": 2,
+      "explainSi": "'I' සමඟ හැමවිටම 'am' — 'be' ක්‍රියාවේ රීතිය.",
+      "speak": "I am a student."
+    },
+    {
+      "id": "u1-cp-q6",
+      "q": "'They ___ from Colombo.' — හිස්තැනට ගැලපෙන්නේ?",
+      "options": ["is", "am", "are", "be"],
+      "answer": 2,
+      "explainSi": "'they' (බහුවචන) සමඟ 'are'.",
+      "speak": "They are from Colombo."
+    },
+    {
+      "id": "u1-cp-q7",
+      "q": "'Hello, I am Priya, and I am from Kandy.' — මෙතන 'am' දෙපාරක්ම යෙදෙන්නේ ඇයි?",
+      "options": [
+        "'I' සමඟ හැමවිටම 'am' භාවිතා කරන නිසා",
+        "නම් සමඟ 'am' භාවිතා කරන නිසා",
+        "'from' සමඟ 'am' භාවිතා කරන නිසා",
+        "වැරදීමකින්"
+      ],
+      "answer": 0,
+      "explainSi": "'I' පවතින තාක් කල්, ක්‍රියා පදය මොකක් වුනත් 'am' එකම වචනයම."
+    },
+    {
+      "id": "u1-cp-q8",
+      "q": "'15' — ඉංග්‍රීසියෙන්?",
+      "options": ["fifty", "fourteen", "fifteen", "five"],
+      "answer": 2,
+      "explainSi": "'fifteen' — 15.",
+      "speak": "fifteen"
+    },
+    {
+      "id": "u1-cp-q9",
+      "q": "'මට සහෝදරයන් දෙදෙනෙක් ඉන්නවා.' — ඉංග්‍රීසියෙන්?",
+      "options": ["I has two brothers.", "I have two brother.", "I have two brothers.", "I having two brothers."],
+      "answer": 2,
+      "explainSi": "'I have two brothers.' — 'I' සමඟ 'have', 'brothers' බහුවචනයෙන්.",
+      "speak": "I have two brothers."
+    },
+    {
+      "id": "u1-cp-q10",
+      "q": "'She ___ three sisters.' — 'has' ද 'have' ද?",
+      "options": ["have", "has", "is", "are"],
+      "answer": 1,
+      "explainSi": "'he/she/it' සමඟ 'have' නොව 'has' භාවිතා කරනවා.",
+      "speak": "She has three sisters."
+    },
+    {
+      "id": "u1-cp-q11",
+      "q": "'My father ___ tall.' — 'is' ද 'has' ද?",
+      "options": ["have", "has", "is", "am"],
+      "answer": 2,
+      "explainSi": "උස වගේ ලක්ෂණයක් විස්තර කරද්දී 'be' ක්‍රියාව ('is') භාවිතා කරනවා, 'have/has' නෙවෙයි.",
+      "speak": "My father is tall."
+    },
+    {
+      "id": "u1-cp-q12",
+      "q": "'කොළ පාට' — ඉංග්‍රීසියෙන්?",
+      "options": ["blue", "yellow", "green", "red"],
+      "answer": 2,
+      "explainSi": "'green' — කොළ පාට.",
+      "speak": "green"
+    }
+  ]
+}

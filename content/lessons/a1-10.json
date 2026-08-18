@@ -1,0 +1,897 @@
+{
+  "hero": {
+    "src": "images/a1-10-hero.webp",
+    "alt": "Nadeesha marking a wall calendar with a pen, thinking about how often something happens, a mug of tea beside her on the shelf, tidy sunlit room."
+  },
+  "goalsSi": [
+    "don't සහ doesn't භාවිතයෙන් නැහැ කීම",
+    "Do සහ Does භාවිතයෙන් ප්‍රශ්න ඇසීම",
+    "does යෙදුවම ක්‍රියාවෙන් -s ඉවත් වන බව",
+    "always, usually, sometimes, never වැනි වචන යොදන තැන",
+    "How often …? ප්‍රශ්නය සහ පිළිතුරු"
+  ],
+  "goals": [
+    "Make negatives with don't and doesn't",
+    "Ask questions with Do and Does",
+    "Place frequency adverbs correctly",
+    "Ask and answer How often"
+  ],
+  "sections": [
+    {
+      "type": "note",
+      "title": "The -s moves, it does not double",
+      "titleSi": "-s එක මාරු වෙනවා, දෙගුණ වෙන්නේ නෑ",
+      "bodySi": "ගිය පාඩමේ ඉගෙන ගත්තා he/she/it සමඟ ක්‍රියාවට -s එකතු වෙනවා කියලා: 'She works'.\n\nදැන් අමුතු දෙයක්. නැහැ කියද්දී හෝ ප්‍රශ්නයක් අහද්දී, ඒ -s එක ක්‍රියාවෙන් ඉවත් වෙලා 'does' එකට යනවා:\n\nShe works. → She doesn't work. → Does she work?\n\n'She doesn't works' හෝ 'Does she works?' කියලා ලියන්නේ නෑ — එකම වාක්‍යයේ -s දෙපාරක් එන්නේ නෑ. එක තැනකට විතරයි.\n\nමේක තේරුම් ගත්තම present simple එකේ තුනෙන් දෙකක්ම ඉවරයි.",
+      "body": "When 'does' appears, the main verb drops its -s."
+    },
+    {
+      "type": "grammar",
+      "title": "Negatives: don't and doesn't",
+      "titleSi": "නැහැ කීම: don't සහ doesn't",
+      "explainSi": "සර්වනාමය අනුව don't හෝ doesn't තෝරන්න. ඊට පස්සේ එන ක්‍රියාව හැම විටම මූලික ස්වරූපයෙන් — කිසිම වෙනසක් නෑ.",
+      "formula": "I / you / we / they + don't + verb  ·  he / she / it + doesn't + verb",
+      "table": {
+        "headers": [
+          "ධනාත්මක",
+          "නැහැ",
+          "සිංහල"
+        ],
+        "rows": [
+          [
+            "I drink tea.",
+            "I don't drink tea.",
+            "මම තේ බොන්නේ නෑ."
+          ],
+          [
+            "You smoke.",
+            "You don't smoke.",
+            "ඔබ දුම් බොන්නේ නෑ."
+          ],
+          [
+            "He eats fish.",
+            "He doesn't eat fish.",
+            "එයා මාළු කන්නේ නෑ."
+          ],
+          [
+            "She lives here.",
+            "She doesn't live here.",
+            "එයා මෙතන ජීවත් වෙන්නේ නෑ."
+          ],
+          [
+            "It works.",
+            "It doesn't work.",
+            "එය වැඩ කරන්නේ නෑ."
+          ],
+          [
+            "They study.",
+            "They don't study.",
+            "ඔවුන් ඉගෙන ගන්නේ නෑ."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "My father doesn't drink coffee at night.",
+          "si": "මගේ තාත්තා රෑට කෝපි බොන්නේ නෑ."
+        },
+        {
+          "en": "We don't work on Sundays.",
+          "si": "අපි ඉරිදාට වැඩ කරන්නේ නෑ."
+        },
+        {
+          "en": "The shop doesn't open before eight.",
+          "si": "කඩේ අටට කලින් අරින්නේ නෑ."
+        }
+      ],
+      "watchOutSi": "'She doesn't works' — වැරදියි. 'doesn't' එකේ දැනටමත් -s තියෙනවා, එනිසා ක්‍රියාව මූලික ස්වරූපයෙන්: 'She doesn't work'."
+    },
+    {
+      "type": "grammar",
+      "title": "Questions: Do and Does",
+      "titleSi": "ප්‍රශ්න: Do සහ Does",
+      "explainSi": "ප්‍රශ්නයක් හදන්න වාක්‍යයේ මුලට Do හෝ Does ගේනවා. නැවතත් ක්‍රියාව මූලික ස්වරූපයෙන්. කෙටි පිළිතුරේත් එකම වචනය නැවත එනවා.",
+      "formula": "Do / Does + subject + verb?  ·  Yes, he does. / No, he doesn't.",
+      "table": {
+        "headers": [
+          "ප්‍රශ්නය",
+          "ඔව්",
+          "නෑ"
+        ],
+        "rows": [
+          [
+            "Do you speak English?",
+            "Yes, I do.",
+            "No, I don't."
+          ],
+          [
+            "Does she work here?",
+            "Yes, she does.",
+            "No, she doesn't."
+          ],
+          [
+            "Do they live in Kandy?",
+            "Yes, they do.",
+            "No, they don't."
+          ],
+          [
+            "Does it rain in June?",
+            "Yes, it does.",
+            "No, it doesn't."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "Do you take sugar in your tea?",
+          "si": "ඔබ තේකට සීනි ගන්නවාද?"
+        },
+        {
+          "en": "Does your brother play cricket?",
+          "si": "ඔබේ අයියා ක්‍රිකට් ගහනවාද?"
+        },
+        {
+          "en": "What time does the bank open?",
+          "si": "බැංකුව කීයටද අරින්නේ?"
+        },
+        {
+          "en": "Where do your parents live?",
+          "si": "ඔබේ දෙමාපියෝ කොහෙද ජීවත් වෙන්නේ?"
+        }
+      ],
+      "watchOutSi": "Wh- ප්‍රශ්නවලත් do/does අවශ්‍යයි: 'Where does he work?' — 'Where he works?' කියලා කියන්න බෑ."
+    },
+    {
+      "type": "grammar",
+      "title": "How often? always, usually, never",
+      "titleSi": "How often? always, usually, never",
+      "explainSi": "මේ වචන ක්‍රියාවට කලින් යනවා — නමුත් 'be' ක්‍රියාව සමඟ නම් පස්සේ. සිංහලෙන් මේවා වාක්‍යයේ මුලට එන නිසා, ඉංග්‍රීසියේ ස්ථානය මතක තියාගන්න ඕන.",
+      "formula": "subject + adverb + verb  ·  but: subject + be + adverb",
+      "table": {
+        "headers": [
+          "වචනය",
+          "කොපමණද",
+          "උදාහරණය"
+        ],
+        "rows": [
+          [
+            "always",
+            "100%",
+            "She always walks to work."
+          ],
+          [
+            "usually",
+            "80%",
+            "I usually get up at six."
+          ],
+          [
+            "often",
+            "60%",
+            "We often eat rice."
+          ],
+          [
+            "sometimes",
+            "40%",
+            "He sometimes reads at night."
+          ],
+          [
+            "rarely",
+            "10%",
+            "They rarely watch television."
+          ],
+          [
+            "never",
+            "0%",
+            "I never drink coffee."
+          ],
+          [
+            "be සමඟ",
+            "—",
+            "He is always late."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "How often do you go to the market?",
+          "si": "ඔබ කොපමණ වාරයක් වෙළඳපොළට යනවාද?"
+        },
+        {
+          "en": "I go there twice a week.",
+          "si": "මම සතියකට දෙපාරක් එහෙ යනවා."
+        },
+        {
+          "en": "My sister never eats meat.",
+          "si": "මගේ අක්කා කවදාවත් මස් කන්නේ නෑ."
+        },
+        {
+          "en": "The bus is usually on time.",
+          "si": "බස් එක සාමාන්‍යයෙන් වෙලාවට එනවා."
+        }
+      ],
+      "watchOutSi": "'never' එකේ දැනටමත් 'නෑ' කියන අර්ථය තියෙනවා. එනිසා 'I don't never go' කියලා දෙපාරක් නැහැ කියන්නේ නෑ — 'I never go' ඇති."
+    },
+    {
+      "type": "vocab",
+      "title": "How often, and what people do",
+      "titleSi": "කොපමණ වාරයක්, සහ මිනිස්සු කරන දේ",
+      "items": [
+        {
+          "en": "always",
+          "si": "හැම විටම",
+          "say": "ඕල්වේස්"
+        },
+        {
+          "en": "usually",
+          "si": "සාමාන්‍යයෙන්",
+          "say": "යූෂුවලි"
+        },
+        {
+          "en": "often",
+          "si": "නිතර",
+          "say": "ඔෆන්"
+        },
+        {
+          "en": "sometimes",
+          "si": "සමහර වෙලාවට",
+          "say": "සම්ටයිම්ස්"
+        },
+        {
+          "en": "never",
+          "si": "කවදාවත් නෑ",
+          "say": "නෙවර්"
+        },
+        {
+          "en": "twice a week",
+          "si": "සතියකට දෙපාරක්",
+          "say": "ට්වයිස් අ වීක්",
+          "exampleEn": "I swim twice a week.",
+          "exampleSi": "මම සතියකට දෙපාරක් පිහිනනවා."
+        },
+        {
+          "en": "once a month",
+          "si": "මාසෙකට එකපාරක්",
+          "say": "වන්ස් අ මන්ත්"
+        },
+        {
+          "en": "smoke",
+          "si": "දුම් බොනවා",
+          "say": "ස්මෝක්"
+        },
+        {
+          "en": "drive",
+          "si": "රිය පදවනවා",
+          "say": "ඩ්‍රයිව්"
+        },
+        {
+          "en": "swim",
+          "si": "පිහිනනවා",
+          "say": "ස්විම්"
+        },
+        {
+          "en": "travel",
+          "si": "ගමන් කරනවා",
+          "say": "ට්‍රැවල්"
+        },
+        {
+          "en": "exercise",
+          "si": "ව්‍යායාම කරනවා",
+          "say": "එක්සසයිස්"
+        },
+        {
+          "en": "meat",
+          "si": "මස්",
+          "say": "මීට්"
+        },
+        {
+          "en": "on time",
+          "si": "වෙලාවට",
+          "say": "ඔන් ටයිම්",
+          "exampleEn": "He is never on time.",
+          "exampleSi": "එයා කවදාවත් වෙලාවට නෑ."
+        },
+        {
+          "en": "quiet",
+          "si": "නිශ්ශබ්ද",
+          "say": "ක්වයට්"
+        },
+        {
+          "en": "noisy",
+          "si": "ඝෝෂාකාරී",
+          "say": "නොයිසි"
+        },
+        {
+          "en": "together",
+          "si": "එකට",
+          "say": "ටුගෙදර්"
+        },
+        {
+          "en": "difference",
+          "si": "වෙනස",
+          "say": "ඩිෆරන්ස්"
+        }
+      ]
+    },
+    {
+      "type": "story",
+      "title": "Two Brothers, One House",
+      "titleSi": "සහෝදරයෝ දෙන්නෙක්, එක ගෙදරක්",
+      "introSi": "මේ කතාව සංසන්දනයක්. එක් අයෙක් කරන දේ අනෙකා කරන්නේ නෑ — එනිසා 'doesn't' නොනවත්වාම එනවා. ඒවා ගණන් කරන්න.",
+      "paragraphs": [
+        {
+          "en": "My two brothers live in the same house, but they do not live the same life. Ajith is thirty and Sunil is twenty-six.",
+          "si": "මගේ සහෝදරයෝ දෙන්නා එකම ගෙදර ජීවත් වෙනවා, හැබැයි ඔවුන් එකම ජීවිතයක් ගත කරන්නේ නෑ. අජිත්ට තිහයි, සුනිල්ට විසිහයයි."
+        },
+        {
+          "en": "Ajith always gets up at five. He exercises for half an hour, and then he reads the newspaper with his tea. He never uses his phone before breakfast.",
+          "si": "අජිත් හැම විටම පහට නැගිටිනවා. පැය භාගයක් ව්‍යායාම කරලා, තේ එක්ක පත්තරය කියවනවා. උදේ කෑමට කලින් එයා කවදාවත් දුරකථනය පාවිච්චි කරන්නේ නෑ."
+        },
+        {
+          "en": "Sunil does not get up early. He does not exercise, and he does not read the newspaper. He usually wakes at eight, and the first thing he touches is his phone.",
+          "si": "සුනිල් උදෙන් නැගිටින්නේ නෑ. එයා ව්‍යායාම කරන්නේ නෑ, පත්තරයත් කියවන්නේ නෑ. එයා සාමාන්‍යයෙන් අටට අවදි වෙනවා, මුලින්ම අල්ලන්නේ දුරකථනය."
+        },
+        {
+          "en": "\"Does he ever help in the kitchen?\" my mother asks me. \"Sometimes,\" I say, which is kinder than the truth.",
+          "si": "\"එයා කවදාහරි කුස්සියේ උදව් කරනවාද?\" අම්මා මගෙන් අහනවා. \"සමහර වෙලාවට,\" මම කියනවා — ඇත්තට වඩා එය කරුණාවන්තයි."
+        },
+        {
+          "en": "But here is the strange part. Sunil finishes his work by three, and Ajith often works until nine at night.",
+          "si": "හැබැයි අමුතු කොටස මෙතන. සුනිල් තුනට වැඩ ඉවර කරනවා, අජිත් නිතරම රෑ නවය වෙනකම් වැඩ කරනවා."
+        },
+        {
+          "en": "So who has the better day? My mother says Ajith. My father says Sunil. I say it does not matter, because they are both tired on Friday.",
+          "si": "එහෙනම් හොඳ දවසක් තියෙන්නේ කාටද? අම්මා කියනවා අජිත් කියලා. තාත්තා කියනවා සුනිල් කියලා. මම කියනවා ඒක වැදගත් නෑ කියලා — මොකද සිකුරාදා දෙන්නම මහන්සියි."
+        }
+      ],
+      "glossary": [
+        {
+          "en": "the same",
+          "si": "එකම"
+        },
+        {
+          "en": "exercise",
+          "si": "ව්‍යායාම"
+        },
+        {
+          "en": "touch",
+          "si": "අල්ලනවා"
+        },
+        {
+          "en": "ever",
+          "si": "කවදාහරි"
+        },
+        {
+          "en": "kinder",
+          "si": "වඩා කරුණාවන්ත"
+        },
+        {
+          "en": "strange",
+          "si": "අමුතු"
+        },
+        {
+          "en": "until",
+          "si": "වෙනකම්"
+        },
+        {
+          "en": "matter",
+          "si": "වැදගත් වෙනවා"
+        }
+      ],
+      "questionsSi": [
+        "අජිත් උදේ කරන දේවල් තුනක් කුමක්ද?",
+        "සුනිල් උදේ නොකරන දේවල් තුනක් කුමක්ද?",
+        "කතාව කියන කෙනා 'සමහර වෙලාවට' කියන්නේ ඇයි?",
+        "'අමුතු කොටස' කුමක්ද?"
+      ]
+    },
+    {
+      "type": "poem",
+      "title": "Never on a Sunday",
+      "titleSi": "ඉරිදාට කවදාවත් නෑ",
+      "introSi": "සරල කවියක් — නැහැ කියන ස්වරූපය නැවත නැවත එනවා.",
+      "lines": [
+        {
+          "en": "He doesn't rise, he doesn't run,",
+          "si": "එයා නැගිටින්නේ නෑ, දුවන්නේ නෑ,"
+        },
+        {
+          "en": "He doesn't check the clock.",
+          "si": "එයා ඔරලෝසුව බලන්නේ නෑ."
+        },
+        {
+          "en": "He doesn't answer any call —",
+          "si": "එයා කිසි ඇමතුමකට උත්තර දෙන්නේ නෑ —"
+        },
+        {
+          "en": "He doesn't leave the block.",
+          "si": "එයා පාරෙන් පිටත් වෙන්නේ නෑ."
+        },
+        {
+          "en": "",
+          "si": ""
+        },
+        {
+          "en": "But every Sunday, late and slow,",
+          "si": "හැබැයි හැම ඉරිදාම, පරක්කු වෙලා, හෙමිහිට,"
+        },
+        {
+          "en": "He makes his mother tea.",
+          "si": "එයා අම්මාට තේ හදනවා."
+        },
+        {
+          "en": "She never says a word of thanks —",
+          "si": "එයා කවදාවත් ස්තූතියි කියන්නේ නෑ —"
+        },
+        {
+          "en": "She smiles, and lets him be.",
+          "si": "එයා සිනාසෙනවා, එයාව නිදහසේ ඉන්න දෙනවා."
+        }
+      ],
+      "noteSi": "'He doesn't rise' — 'rise' මූලික ස්වරූපයෙන්, 'rises' නෙවෙයි. කවිය පුරාවටම ඒක එහෙමයි."
+    },
+    {
+      "type": "dialogue",
+      "title": "Getting to know someone",
+      "titleSi": "කෙනෙක් ගැන දැනගන්නවා",
+      "settingSi": "අලුත් සගයෙක් ගැන ප්‍රශ්න අහනවා. Do/Does ප්‍රශ්න සහ කෙටි පිළිතුරු මෙතන තියෙනවා.",
+      "lines": [
+        {
+          "speaker": "Ruwan",
+          "en": "Do you live near the office?",
+          "si": "ඔබ කාර්යාලයට ළඟ ජීවත් වෙනවාද?"
+        },
+        {
+          "speaker": "Ishara",
+          "en": "No, I don't. I live in Moratuwa.",
+          "si": "නෑ. මම මොරටුවේ ජීවත් වෙනවා."
+        },
+        {
+          "speaker": "Ruwan",
+          "en": "How often do you come by train?",
+          "si": "ඔබ කොපමණ වාරයක් කෝච්චියෙන් එනවාද?"
+        },
+        {
+          "speaker": "Ishara",
+          "en": "Almost every day. I rarely take the bus.",
+          "si": "හැම දාම වගේ. මම කලාතුරකින් තමයි බස් එකට නගින්නේ."
+        },
+        {
+          "speaker": "Ruwan",
+          "en": "Does your husband work here too?",
+          "si": "ඔබේ සැමියාත් මෙතන වැඩ කරනවාද?"
+        },
+        {
+          "speaker": "Ishara",
+          "en": "No, he doesn't. He teaches at a school in Panadura.",
+          "si": "නෑ. එයා පානදුරේ පාසලක උගන්වනවා."
+        },
+        {
+          "speaker": "Ruwan",
+          "en": "What time does he finish?",
+          "si": "එයා කීයටද ඉවර කරන්නේ?"
+        },
+        {
+          "speaker": "Ishara",
+          "en": "At two, so he always cooks dinner. I never cook on weekdays.",
+          "si": "දෙකට, එනිසා එයා හැම විටම රෑ කෑම උයනවා. මම වැඩ කරන දවස්වල කවදාවත් උයන්නේ නෑ."
+        }
+      ]
+    },
+    {
+      "type": "practice",
+      "title": "don't or doesn't?",
+      "titleSi": "don't නැත්නම් doesn't?",
+      "instructionSi": "නිවැරදි වචනය ලියන්න. ඊට පස්සේ ක්‍රියාව මූලික ස්වරූපයෙන් බව මතක තියාගන්න.",
+      "items": [
+        {
+          "prompt": "She ___ eat meat.",
+          "answer": "doesn't",
+          "hintSi": "She → doesn't. 'eats' නෙවෙයි 'eat'.",
+          "full": "She doesn't eat meat."
+        },
+        {
+          "prompt": "We ___ work on Saturdays.",
+          "answer": "don't",
+          "hintSi": "We → don't.",
+          "full": "We don't work on Saturdays."
+        },
+        {
+          "prompt": "My phone ___ work in the rain.",
+          "answer": "doesn't",
+          "hintSi": "'My phone' = it.",
+          "full": "My phone doesn't work in the rain."
+        },
+        {
+          "prompt": "They ___ live here any more.",
+          "answer": "don't",
+          "hintSi": "They → don't.",
+          "full": "They don't live here any more."
+        },
+        {
+          "prompt": "___ he play cricket?",
+          "answer": "Does",
+          "hintSi": "ප්‍රශ්නයක්, he සමඟ.",
+          "full": "Does he play cricket?"
+        },
+        {
+          "prompt": "___ you take sugar?",
+          "answer": "Do",
+          "hintSi": "ප්‍රශ්නයක්, you සමඟ.",
+          "full": "Do you take sugar?"
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "en": "always",
+      "si": "හැම විටම"
+    },
+    {
+      "en": "usually",
+      "si": "සාමාන්‍යයෙන්"
+    },
+    {
+      "en": "often",
+      "si": "නිතර"
+    },
+    {
+      "en": "sometimes",
+      "si": "සමහර වෙලාවට"
+    },
+    {
+      "en": "rarely",
+      "si": "කලාතුරකින්"
+    },
+    {
+      "en": "never",
+      "si": "කවදාවත් නෑ"
+    },
+    {
+      "en": "twice a week",
+      "si": "සතියකට දෙපාරක්"
+    },
+    {
+      "en": "once a month",
+      "si": "මාසෙකට එකපාරක්"
+    },
+    {
+      "en": "smoke",
+      "si": "දුම් බොනවා"
+    },
+    {
+      "en": "drive",
+      "si": "රිය පදවනවා"
+    },
+    {
+      "en": "swim",
+      "si": "පිහිනනවා"
+    },
+    {
+      "en": "exercise",
+      "si": "ව්‍යායාම කරනවා"
+    },
+    {
+      "en": "meat",
+      "si": "මස්"
+    },
+    {
+      "en": "on time",
+      "si": "වෙලාවට"
+    },
+    {
+      "en": "together",
+      "si": "එකට"
+    },
+    {
+      "en": "difference",
+      "si": "වෙනස"
+    },
+    {
+      "en": "until",
+      "si": "වෙනකම්"
+    },
+    {
+      "en": "ever",
+      "si": "කවදාහරි"
+    },
+    {
+      "en": "strange",
+      "si": "අමුතු"
+    },
+    {
+      "en": "weekday",
+      "si": "වැඩ කරන දවස"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "a1-10-q1",
+      "q": "'She ___ eat fish.' — නැහැ කියන්න හිස්තැනට?",
+      "options": [
+        "don't",
+        "doesn't",
+        "not",
+        "isn't"
+      ],
+      "answer": 1,
+      "explainSi": "She සමඟ 'doesn't'.",
+      "speak": "She doesn't eat fish."
+    },
+    {
+      "id": "a1-10-q2",
+      "q": "කුමන වාක්‍යය නිවැරදිද?",
+      "options": [
+        "He doesn't works here.",
+        "He doesn't work here.",
+        "He don't works here.",
+        "He not work here."
+      ],
+      "answer": 1,
+      "explainSi": "'doesn't' එකේ -s තියෙන නිසා ක්‍රියාව මූලික ස්වරූපයෙන්: work.",
+      "speak": "He doesn't work here."
+    },
+    {
+      "id": "a1-10-q3",
+      "q": "'She works' → ප්‍රශ්නය කරන්නේ කොහොමද?",
+      "options": [
+        "Does she works?",
+        "Does she work?",
+        "Do she work?",
+        "She does work?"
+      ],
+      "answer": 1,
+      "explainSi": "-s එක 'does' එකට යනවා, ක්‍රියාව මූලික ස්වරූපයෙන් ඉතුරු වෙනවා.",
+      "speak": "Does she work?"
+    },
+    {
+      "id": "a1-10-q4",
+      "q": "'She doesn't works' වැරදි වන්නේ ඇයි?",
+      "options": [
+        "'doesn't' සමඟ 'work' යෙදිය නොහැකි නිසා",
+        "එකම වාක්‍යයේ -s දෙපාරක් යෙදෙන නිසා — එය 'does' එකට ගිහින් ඉවරයි",
+        "'She' සමඟ 'doesn't' යෙදිය නොහැකි නිසා",
+        "'works' අවිධිමත් නිසා"
+      ],
+      "answer": 1,
+      "explainSi": "-s එක එක තැනකට විතරයි. 'does' එකට ගියාම ක්‍රියාව මූලික ස්වරූපයෙන්."
+    },
+    {
+      "id": "a1-10-q5",
+      "q": "'Do you speak Tamil?' — නිවැරදි කෙටි පිළිතුර (ඔව් නම්)?",
+      "options": [
+        "Yes, I speak.",
+        "Yes, I do.",
+        "Yes, I am.",
+        "Yes, I does."
+      ],
+      "answer": 1,
+      "explainSi": "ප්‍රශ්නයේ 'Do' යෙදුණා නම් පිළිතුරෙත් 'do'.",
+      "speak": "Do you speak Tamil? Yes, I do."
+    },
+    {
+      "id": "a1-10-q6",
+      "q": "'Does your brother drive?' — නෑ නම් කෙටි පිළිතුර?",
+      "options": [
+        "No, he don't.",
+        "No, he doesn't.",
+        "No, he isn't.",
+        "No, he not."
+      ],
+      "answer": 1,
+      "explainSi": "'Does' → 'doesn't'.",
+      "speak": "No, he doesn't."
+    },
+    {
+      "id": "a1-10-q7",
+      "q": "'ඔබේ දෙමාපියෝ කොහෙද ජීවත් වෙන්නේ?' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "Where your parents live?",
+        "Where do your parents live?",
+        "Where does your parents live?",
+        "Where live your parents?"
+      ],
+      "answer": 1,
+      "explainSi": "Wh- ප්‍රශ්නවලටත් do/does ඕන. 'parents' බහුවචන නිසා 'do'.",
+      "speak": "Where do your parents live?"
+    },
+    {
+      "id": "a1-10-q8",
+      "q": "'What time ___ the bank open?' — හිස්තැනට?",
+      "options": [
+        "do",
+        "does",
+        "is",
+        "did"
+      ],
+      "answer": 1,
+      "explainSi": "'the bank' = it, එනිසා 'does'.",
+      "speak": "What time does the bank open?"
+    },
+    {
+      "id": "a1-10-q9",
+      "q": "'always' යන වචනය නිවැරදිව යෙදෙන්නේ කොහෙද?",
+      "options": [
+        "She walks always to work.",
+        "Always she walks to work.",
+        "She always walks to work.",
+        "She walks to work always."
+      ],
+      "answer": 2,
+      "explainSi": "සාමාන්‍ය ක්‍රියාවකට කලින්: subject + adverb + verb.",
+      "speak": "She always walks to work."
+    },
+    {
+      "id": "a1-10-q10",
+      "q": "'He ___ late.' — 'always' යොදන්නේ කොහෙද?",
+      "options": [
+        "always is",
+        "is always",
+        "is late always",
+        "always late is"
+      ],
+      "answer": 1,
+      "explainSi": "'be' ක්‍රියාව සමඟ නම් adverb එක පස්සේ: He is always late. මේක අනිත් ක්‍රියාවලට ප්‍රතිවිරුද්ධයි.",
+      "speak": "He is always late."
+    },
+    {
+      "id": "a1-10-q11",
+      "q": "'I don't never go there.' — මෙහි ඇති වැරැද්ද?",
+      "options": [
+        "'never' වෙනුවට 'ever' යෙදිය යුතුයි",
+        "එකම වාක්‍යයේ දෙපාරක් නැහැ කියලා — 'I never go there' ඇති",
+        "'don't' වෙනුවට 'doesn't'",
+        "වැරැද්දක් නෑ"
+      ],
+      "answer": 1,
+      "explainSi": "'never' එකේම 'නෑ' කියන අර්ථය තියෙනවා. 'don't' සමඟ යෙදුවම දෙපාරක් වෙනවා."
+    },
+    {
+      "id": "a1-10-q12",
+      "q": "'How often do you swim?' — ගැළපෙන පිළිතුර?",
+      "options": [
+        "In the morning.",
+        "Twice a week.",
+        "At the pool.",
+        "Yes, I do."
+      ],
+      "answer": 1,
+      "explainSi": "'How often' අහන්නේ වාර ගණන. වෙලාව නෙවෙයි, තැන නෙවෙයි.",
+      "speak": "How often do you swim? Twice a week."
+    },
+    {
+      "id": "a1-10-q13",
+      "context": "Ajith always gets up at five. He exercises for half an hour, and then he reads the newspaper with his tea. He never uses his phone before breakfast.",
+      "contextSi": "අජිත් හැම විටම පහට නැගිටිනවා. පැය භාගයක් ව්‍යායාම කරලා, තේ එක්ක පත්තරය කියවනවා. උදේ කෑමට කලින් එයා කවදාවත් දුරකථනය පාවිච්චි කරන්නේ නෑ.",
+      "q": "කතාව අනුව: උදේට අජිත් නොකරන දේ කුමක්ද?",
+      "options": [
+        "ව්‍යායාම",
+        "පත්තරය කියවීම",
+        "දුරකථනය පාවිච්චිය",
+        "තේ බීම"
+      ],
+      "answer": 2,
+      "explainSi": "'He never uses his phone before breakfast.'"
+    },
+    {
+      "id": "a1-10-q14",
+      "context": "Sunil does not get up early. He does not exercise, and he does not read the newspaper. He usually wakes at eight, and the first thing he touches is his phone.",
+      "contextSi": "සුනිල් උදෙන් නැගිටින්නේ නෑ. එයා ව්‍යායාම කරන්නේ නෑ, පත්තරයත් කියවන්නේ නෑ. එයා සාමාන්‍යයෙන් අටට අවදි වෙනවා, මුලින්ම අල්ලන්නේ දුරකථනය.",
+      "q": "කතාව අනුව: සුනිල් අවදි වී මුලින්ම කරන දේ කුමක්ද?",
+      "options": [
+        "ව්‍යායාම කරනවා",
+        "පත්තරය කියවනවා",
+        "දුරකථනය අල්ලනවා",
+        "තේ හදනවා"
+      ],
+      "answer": 2,
+      "explainSi": "'the first thing he touches is his phone'."
+    },
+    {
+      "id": "a1-10-q15",
+      "context": "\"Does he ever help in the kitchen?\" my mother asks me. \"Sometimes,\" I say, which is kinder than the truth.",
+      "contextSi": "\"එයා කවදාහරි කුස්සියේ උදව් කරනවාද?\" අම්මා මගෙන් අහනවා. \"සමහර වෙලාවට,\" මම කියනවා — ඇත්තට වඩා එය කරුණාවන්තයි.",
+      "q": "කතාව අනුව: කියන කෙනා 'සමහර වෙලාවට' කියන්නේ ඇයි?",
+      "options": [
+        "සුනිල් නිතරම උදව් කරන නිසා",
+        "ඇත්ත ඊට වඩා නරක නිසා — එයා කරුණාවෙන් මෘදු කරනවා",
+        "එයාට මතක නැති නිසා",
+        "අම්මාට ඇහුණේ නැති නිසා"
+      ],
+      "answer": 1,
+      "explainSi": "'which is kinder than the truth' — ඇත්ත කිව්වොත් 'never' කියන්න වෙනවා."
+    },
+    {
+      "id": "a1-10-q16",
+      "context": "But here is the strange part. Sunil finishes his work by three, and Ajith often works until nine at night.",
+      "contextSi": "හැබැයි අමුතු කොටස මෙතන. සුනිල් තුනට වැඩ ඉවර කරනවා, අජිත් නිතරම රෑ නවය වෙනකම් වැඩ කරනවා.",
+      "q": "කතාව අනුව: 'අමුතු කොටස' අමුතු වන්නේ ඇයි?",
+      "options": [
+        "දෙන්නාම එකම වෙලාවට ඉවර කරන නිසා",
+        "උදෙන් නැගිටින අජිත් රෑ බෝ වෙනකම් වැඩ කරන අතර, පරක්කු වී නැගිටින සුනිල් කලින් ඉවර කරන නිසා",
+        "දෙන්නාම වැඩ කරන්නේ නෑ නිසා",
+        "සුනිල් වැඩ කරන්නේ රෑට නිසා"
+      ],
+      "answer": 1,
+      "explainSi": "බලාපොරොත්තු වෙන දෙයට ප්‍රතිවිරුද්ධයි — වෙහෙසකාරී උදෑසනක් කෙටි දවසක් අදහස් කරන්නේ නෑ."
+    },
+    {
+      "id": "a1-10-q17",
+      "context": "So who has the better day? My mother says Ajith. My father says Sunil. I say it does not matter, because they are both tired on Friday.",
+      "contextSi": "එහෙනම් හොඳ දවසක් තියෙන්නේ කාටද? අම්මා කියනවා අජිත් කියලා. තාත්තා කියනවා සුනිල් කියලා. මම කියනවා ඒක වැදගත් නෑ කියලා — මොකද සිකුරාදා දෙන්නම මහන්සියි.",
+      "q": "කතාව අනුව: කියන කෙනාගේ අදහස කුමක්ද?",
+      "options": [
+        "අජිත්ගේ දවස හොඳයි",
+        "සුනිල්ගේ දවස හොඳයි",
+        "දෙන්නාම අන්තිමට එකම තැනකට එන නිසා ඒක වැදගත් නෑ",
+        "දෙන්නාම වැඩ මාරු කරන්න ඕන"
+      ],
+      "answer": 2,
+      "explainSi": "'they are both tired on Friday' — වෙනස් ක්‍රම, එකම ප්‍රතිඵලය."
+    },
+    {
+      "id": "a1-10-q18",
+      "context": "He doesn't rise, he doesn't run, / He doesn't check the clock.",
+      "contextSi": "එයා නැගිටින්නේ නෑ, දුවන්නේ නෑ, / එයා ඔරලෝසුව බලන්නේ නෑ.",
+      "q": "කවියේ 'He doesn't rise' — 'rises' නොවී 'rise' වන්නේ ඇයි?",
+      "options": [
+        "කවියක් නිසා නීති අදාළ නෑ",
+        "'doesn't' පසුව ක්‍රියාව හැම විටම මූලික ස්වරූපයෙන් නිසා",
+        "'rise' අවිධිමත් නිසා",
+        "පදවැල ගැළපෙන්න"
+      ],
+      "answer": 1,
+      "explainSi": "-s එක දැනටමත් 'doesn't' එකේ. කවිය පුරාවටම මේ රටාව."
+    },
+    {
+      "id": "a1-10-q19",
+      "context": "Ishara: No, he doesn't. He teaches at a school in Panadura.\nRuwan: What time does he finish?\nIshara: At two, so he always cooks dinner. I never cook on weekdays.",
+      "contextSi": "ඉෂාරා: නෑ. එයා පානදුරේ පාසලක උගන්වනවා.\nරුවන්: එයා කීයටද ඉවර කරන්නේ?\nඉෂාරා: දෙකට, එනිසා එයා හැම විටම රෑ කෑම උයනවා. මම වැඩ කරන දවස්වල කවදාවත් උයන්නේ නෑ.",
+      "q": "සංවාදයේ: රෑ කෑම උයන්නේ කවුද, සහ ඇයි?",
+      "options": [
+        "ඉෂාරා — එයා කලින් ගෙදර එන නිසා",
+        "සැමියා — එයා දෙකට වැඩ ඉවර කරන නිසා",
+        "දෙන්නම එකට",
+        "කවුරුවත් නෑ"
+      ],
+      "answer": 1,
+      "explainSi": "'At two, so he always cooks dinner' — 'so' යන්නෙන් හේතුව සම්බන්ධ කරනවා."
+    },
+    {
+      "id": "a1-10-q20",
+      "q": "'රැයට එයා කවදාවත් කෝපි බොන්නේ නෑ' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "He never drinks coffee at night.",
+        "He never drink coffee at night.",
+        "He doesn't never drinks coffee at night.",
+        "He not drinks coffee at night."
+      ],
+      "answer": 0,
+      "explainSi": "'never' යෙදුවම 'doesn't' ඕන නෑ — එනිසා ක්‍රියාවට -s තියෙනවා: drinks.",
+      "speak": "He never drinks coffee at night."
+    },
+    {
+      "id": "a1-10-q21",
+      "q": "'never' සමඟ ක්‍රියාවට -s තියෙනවා, නමුත් 'doesn't' සමඟ නෑ. ඇයි?",
+      "options": [
+        "'never' ක්‍රියා පදයක් නොවන නිසා — -s තවම ක්‍රියාවේ",
+        "'never' වඩා ආචාරශීලී නිසා",
+        "නීතියක් නෑ",
+        "'never' අතීත කාලය නිසා"
+      ],
+      "answer": 0,
+      "explainSi": "'doesn't' යනු ක්‍රියාවක් — එය -s අරගෙන යනවා. 'never' යනු adverb එකක් — එය කිසිවක් ගන්නේ නෑ."
+    },
+    {
+      "id": "a1-10-q22",
+      "q": "කුමන වාක්‍යය වැරදිද?",
+      "options": [
+        "Does it rain in June?",
+        "Do they live here?",
+        "Does your sisters work?",
+        "Do we start at eight?"
+      ],
+      "answer": 2,
+      "explainSi": "'your sisters' බහුවචන නිසා 'Do your sisters work?' විය යුතුයි."
+    }
+  ]
+}

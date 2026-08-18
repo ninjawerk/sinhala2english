@@ -1,0 +1,837 @@
+{
+  "hero": {
+    "src": "images/b1-25-hero.webp",
+    "alt": "Nadeesha sitting at a desk with her chin on her hand and an open book in front of her, caught between relief and disappointment, a classroom around her."
+  },
+  "goalsSi": [
+    "හැඟීම් නිවැරදිව නම් කරන්න",
+    "'I feel' සහ 'It made me feel' යොදන්න",
+    "හැඟීමේ තරම — annoyed ඉඳන් furious දක්වා",
+    "fed up with, worried about — ගැලපෙන preposition",
+    "ආකල්ප කියන්න — I don't mind, I can't stand, I'd rather",
+    "අනිත් කෙනාගේ හැඟීමට ප්‍රතිචාර දක්වන්න"
+  ],
+  "goals": [
+    "Name feelings precisely",
+    "Use I feel and It made me feel",
+    "Grade a feeling from annoyed to furious",
+    "Use the right preposition after a feeling",
+    "State attitudes with I don't mind, I can't stand and I'd rather",
+    "Respond to how someone else feels"
+  ],
+  "sections": [
+    {
+      "type": "note",
+      "title": "More than happy and sad",
+      "titleSi": "සතුටයි දුකයි ට වඩා",
+      "bodySi": "A1 හි ඉගෙන ගත්තා happy, sad, tired, angry.\n\nඒත් ඇත්ත ජීවිතේ හැඟීම් ඊට වඩා සියුම්. 'Angry' කියන එකයි 'annoyed' කියන එකයි එකක් නෙවෙයි. 'Sad' කියන එකයි 'disappointed' කියන එකයි එකක් නෙවෙයි.\n\nපොඩි උදාහරණයක්:\n\n'I was angry.' — තරහ ගියා.\n'I was annoyed.' — ටිකක් අමනාපයි.\n'I was furious.' — දරුණු තරහක්.\n'I was disappointed.' — බලාපොරොත්තු සුන් වුණා.\n'I was hurt.' — හිත රිදුණා.\n\nහතරම 'තරහ' නෙවෙයි. සිද්ධියක් කිව්වට පස්සේ අනිත් කෙනා අහන්නේ 'How did you feel?' කියලා — එතකොට හරි වචනය තෝරගන්න පුළුවන් වීම B1 මට්ටමේ ලකුණක්.\n\nCEFR B1 හි මේකට කියන්නේ 'Describing feelings, emotions, attitudes'. ඒක හැඟීම් ගැන විතරක් නෙවෙයි — ආකල්ප ගැනත්: ඔයා දෙයකට කැමතිද, විරුද්ධද, කමක් නැද්ද කියන එක.",
+      "body": "Angry, annoyed, furious, disappointed and hurt are five different things. Choosing the right one is a B1 skill."
+    },
+    {
+      "type": "grammar",
+      "title": "I feel, it made me feel",
+      "titleSi": "I feel, it made me feel",
+      "explainSi": "හැඟීමක් කියන්න ක්‍රම කීපයක්:\n\nI am / I feel + විශේෂණය\n'I'm nervous.' / 'I feel nervous.'\n'I was disappointed.'\n\nදෙකේ වෙනස පොඩියි: 'I am' ස්ථිර වගේ, 'I feel' මේ මොහොතේ වගේ.\n\nIt makes me + විශේෂණය\n'That music makes me sad.'\n'The noise makes me angry.'\n\nIt makes me feel + විශේෂණය\n'It makes me feel welcome.'\n\nIt made me + ක්‍රියාව (to නෑ!)\n'The film made me cry.'\n'That made me think.'\n\nමේක වැදගත්: 'make' එකට පස්සේ to යෙදෙන්නේ නෑ. 'It made me to cry' ✗ — 'It made me cry' ✓.\n\nb1-03 මතක් කරගන්න — -ed සහ -ing:\n'I was bored.' — මට කම්මැලියි. (මගේ හැඟීම)\n'The film was boring.' — චිත්‍රපටිය කම්මැලියි. (ඒකේ ගුණය)\n\nමිනිස්සුන්ට -ed, දේවලට -ing. 'I am boring' කිව්වොත් ඒකේ තේරුම 'මම කම්මැලි කෙනෙක්' කියන එකයි.",
+      "explain": "I feel + adjective; it makes me + adjective; it made me + bare verb — never made me to.",
+      "formula": "I feel + විශේෂණය  ·  It made me + ක්‍රියාව (to නෑ)",
+      "table": {
+        "headers": [
+          "රටාව",
+          "උදාහරණය",
+          "සිංහල"
+        ],
+        "rows": [
+          [
+            "I feel + adj",
+            "I feel nervous.",
+            "මට බයයි වගේ"
+          ],
+          [
+            "It makes me + adj",
+            "It makes me angry.",
+            "ඒක මට තරහ ගෙනෙනවා"
+          ],
+          [
+            "It made me + verb",
+            "It made me cry.",
+            "ඒක මාව අඬෙව්වා"
+          ],
+          [
+            "-ed / -ing",
+            "I'm bored. / It's boring.",
+            "මට කම්මැලියි / ඒක කම්මැලියි"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "He felt a little nervous about the exam.",
+          "si": "විභාගය ගැන එයාට පොඩ්ඩක් බයයි වගේ දැනුණා."
+        },
+        {
+          "en": "That song always makes me think of my grandmother.",
+          "si": "ඒ සිංදුව හැමවිටම මට ආච්චිව මතක් කරනවා."
+        },
+        {
+          "en": "The ending made me cry, and I never cry at films.",
+          "si": "අවසානය මාව අඬෙව්වා — මම චිත්‍රපටිවලට කවදාවත් අඬන්නේ නෑ."
+        }
+      ],
+      "watchOutSi": "'I am boring' සහ 'I am bored' අතර වෙනස ලොකුයි. පළවෙනි එකේ තේරුම ඔයා අනිත් අයට කම්මැලියි කියන එකයි."
+    },
+    {
+      "type": "grammar",
+      "title": "How strong is it?",
+      "titleSi": "කොච්චර බලවත්ද?",
+      "explainSi": "හැඟීම් වචනවලට තරම් තියෙනවා. වැරදි තරමක් තෝරගත්තොත් අර්ථය පෙරළෙනවා.\n\nතරහ: annoyed → angry → furious\nදුක: disappointed → sad → heartbroken\nබය: nervous → afraid → terrified\nසතුට: pleased → happy → delighted\nමහන්සිය: tired → exhausted\nපුදුමය: surprised → amazed → astonished\n\nවැදගත් රීතියක්: බලවත් වචනවලට 'very' යෙදෙන්නේ නෑ.\n\n✗ 'very furious' · ✓ 'absolutely furious'\n✗ 'very exhausted' · ✓ 'completely exhausted'\n✗ 'very terrified' · ✓ 'absolutely terrified'\n\nමොකද 'furious' කියන එකේම 'ගොඩක් තරහ' කියන අර්ථය තියෙනවා. ඒකට 'very' දාන එක 'ගොඩක් ගොඩක්' කියනවා වගේ.\n\nදුර්වල වචනවලට 'very' හරි: 'very angry', 'very tired', 'very happy'.\n\nමෘදු කරන්න: 'a bit annoyed', 'slightly nervous', 'a little disappointed'.",
+      "explain": "Feelings come in strengths. Extreme words take absolutely or completely, not very.",
+      "formula": "very + සාමාන්‍ය වචනය  ·  absolutely + බලවත් වචනය",
+      "table": {
+        "headers": [
+          "මෘදු",
+          "සාමාන්‍ය",
+          "බලවත්"
+        ],
+        "rows": [
+          [
+            "annoyed",
+            "angry",
+            "furious"
+          ],
+          [
+            "disappointed",
+            "sad",
+            "heartbroken"
+          ],
+          [
+            "nervous",
+            "afraid",
+            "terrified"
+          ],
+          [
+            "pleased",
+            "happy",
+            "delighted"
+          ],
+          [
+            "tired",
+            "very tired",
+            "exhausted"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "I was a bit annoyed, not furious.",
+          "si": "මට ටිකක් අමනාපයි, දරුණු තරහක් නෙවෙයි."
+        },
+        {
+          "en": "She was absolutely delighted with the news.",
+          "si": "ඒ පුවතට ඇය හරිම සතුටු වුණා."
+        },
+        {
+          "en": "By nine o'clock I was completely exhausted.",
+          "si": "නවය වෙනකොට මම සම්පූර්ණයෙන්ම වෙහෙසට පත් වෙලා."
+        }
+      ],
+      "watchOutSi": "'Very furious' කියන එක ඉංග්‍රීසි කථා කරන කෙනෙකුට හරි අමුතුයි. බලවත් වචනයකට 'absolutely' නැත්නම් 'really' යොදන්න."
+    },
+    {
+      "type": "grammar",
+      "title": "Feelings need the right little word",
+      "titleSi": "හැඟීමකට ගැලපෙන පොඩි වචනය",
+      "explainSi": "හැඟීමකට පස්සේ එන preposition එක වචනය එක්කම ඉගෙන ගන්න ඕන. තර්කයක් නෑ, පුරුද්දයි.\n\nabout — worried about, nervous about, excited about, upset about\n'I'm worried about the exam.'\n\nwith — pleased with, angry with (කෙනෙක්), fed up with, disappointed with\n'I'm fed up with this weather.'\n'She was angry with me.'\n\nof — afraid of, proud of, tired of, ashamed of\n'He's afraid of dogs.'\n'I'm proud of you.'\n\nat — surprised at, good at, bad at\n'I was surprised at how quiet it was.'\n\nby — surprised by, shocked by, impressed by\n'We were impressed by the food.'\n\nප්‍රවේශම් වෙන්න: angry with කෙනෙකුට; angry about දෙයකට.\n'I'm angry with him.' — එයාට තරහයි.\n'I'm angry about the decision.' — තීරණයට තරහයි.\n\nඑහෙමයි tired of සහ tired from:\n'I'm tired of waiting.' — බලාගෙන ඉඳලා එපා වෙලා.\n'I'm tired from the journey.' — ගමන නිසා මහන්සියි.\n\n'Fed up with' කියන එක ඉතාම ප්‍රයෝජනවත් — 'එපා වෙලා' කියන අදහස. එදිනෙදා කථාවේ බහුලයි.",
+      "explain": "The preposition belongs to the adjective — learn them as one unit. Angry with a person, angry about a thing.",
+      "formula": "worried about · fed up with · afraid of · surprised at",
+      "table": {
+        "headers": [
+          "preposition",
+          "විශේෂණ"
+        ],
+        "rows": [
+          [
+            "about",
+            "worried, nervous, excited, upset"
+          ],
+          [
+            "with",
+            "pleased, angry (කෙනෙක්), fed up, disappointed"
+          ],
+          [
+            "of",
+            "afraid, proud, tired, ashamed"
+          ],
+          [
+            "at / by",
+            "surprised, shocked, impressed"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "I'm fed up with waiting for the bus every morning.",
+          "si": "හැම උදෙම බස් එකට බලාගෙන ඉන්න එක එපා වෙලා."
+        },
+        {
+          "en": "She's nervous about the interview, but excited about the job.",
+          "si": "සම්මුඛ පරීක්ෂණය ගැන ඇයට බයයි, ඒත් රස්සාව ගැන සතුටුයි."
+        },
+        {
+          "en": "We were very impressed by how quickly they finished.",
+          "si": "ඒගොල්ලෝ ඔච්චර ඉක්මනට ඉවර කරපු එකට අපි පුදුම වුණා."
+        }
+      ],
+      "watchOutSi": "'Angry to me' ✗ — 'angry with me' ✓. 'Worried for the exam' ✗ — 'worried about the exam' ✓. මේවා පුරුද්දෙන් තමයි එන්නේ."
+    },
+    {
+      "type": "grammar",
+      "title": "Attitudes: mind, stand, rather",
+      "titleSi": "ආකල්ප: mind, stand, rather",
+      "explainSi": "හැඟීම කියන්නේ මේ මොහොතේ දැනෙන දෙයක්. ආකල්පය කියන්නේ දෙයක් ගැන ඔයාගේ ස්ථාවරය.\n\nI don't mind — කමක් නෑ. (කැමති කියන එක නෙවෙයි!)\n'I don't mind waiting.' — ඉන්න එකේ කමක් නෑ.\n'Do you mind if I open the window?' — ජනේලේ ඇරියොත් කමක් නැද්ද?\n\n'Do you mind…?' කියන ප්‍රශ්නයට උත්තර දෙනකොට පරෙස්සම් වෙන්න:\n'No, not at all.' = කමක් නෑ, කරන්න. ✓\n'Yes, I do mind.' = එපා.\n\n'No' කියන එකෙන් අවසර දෙනවා. ඒක ලංකාවේ අයට පටලවන දෙයක්.\n\nI can't stand — කිසිසේත් කැමති නෑ. බලවත්.\n'I can't stand the smell of fish.'\n\nI'd rather — වඩා කැමතියි. ඊට පස්සේ මූලික ක්‍රියාව.\n'I'd rather walk.' — මම නම් ඇවිදිනවා.\n'I'd rather not talk about it.' — ඒක ගැන කථා නොකර ඉන්නවා.\n\nI'm keen on — කැමැත්තක් තියෙනවා.\n'She's keen on cricket.'\n\nතරම් පිළිවෙළ: I love it → I like it → I don't mind it → I'm not keen on it → I don't like it → I can't stand it.",
+      "explain": "I don't mind means it is fine, not that you like it. I'd rather takes a bare verb. And answering No to Do you mind…? is giving permission.",
+      "formula": "I don't mind + -ing  ·  I'd rather + මූලික ක්‍රියාව  ·  I can't stand + නාම/-ing",
+      "table": {
+        "headers": [
+          "යෙදුම",
+          "අර්ථය"
+        ],
+        "rows": [
+          [
+            "I love it",
+            "ගොඩක් කැමතියි"
+          ],
+          [
+            "I don't mind it",
+            "කමක් නෑ"
+          ],
+          [
+            "I'm not keen on it",
+            "එච්චර කැමති නෑ"
+          ],
+          [
+            "I can't stand it",
+            "කිසිසේත් කැමති නෑ"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "I don't mind the noise, but I can't stand the dust.",
+          "si": "ශබ්දෙට කමක් නෑ, ඒත් දූවිල්ල නම් කිසිසේත් බෑ."
+        },
+        {
+          "en": "I'd rather stay in tonight, if that's all right.",
+          "si": "අද රෑට ගෙදර ඉන්න මම වඩා කැමතියි, කමක් නැත්නම්."
+        },
+        {
+          "en": "— Do you mind if I sit here? — No, not at all.",
+          "si": "— මෙතන ඉඳගත්තොත් කමක් නැද්ද? — කිසිම කමක් නෑ."
+        }
+      ],
+      "watchOutSi": "'I don't mind' කියන එකේ තේරුම 'මම කැමතියි' කියන එක නෙවෙයි. 'මට කමක් නෑ' කියන එකයි. කවුරු හරි 'Would you like tea or coffee?' කියලා ඇහුවම 'I don't mind' කිව්වොත් ඒක 'දෙකෙන් එකක් හරි' කියන එකයි."
+    },
+    {
+      "type": "vocab",
+      "title": "Feelings and attitudes",
+      "titleSi": "හැඟීම් සහ ආකල්ප",
+      "introSi": "හැඟීමට ගැලපෙන preposition එකත් එක්කම ඉගෙන ගන්න.",
+      "items": [
+        {
+          "en": "nervous about",
+          "si": "බයයි වගේ",
+          "say": "නර්වස් අබවුට්",
+          "exampleEn": "I'm nervous about the exam.",
+          "exampleSi": "විභාගය ගැන මට බයයි වගේ."
+        },
+        {
+          "en": "worried about",
+          "si": "කනස්සල්ලෙන්",
+          "say": "වරීඩ් අබවුට්",
+          "exampleEn": "She's worried about her mother.",
+          "exampleSi": "අම්මා ගැන ඇය කනස්සල්ලෙන්."
+        },
+        {
+          "en": "annoyed",
+          "si": "අමනාපයි",
+          "say": "අනොයිඩ්",
+          "exampleEn": "I was a bit annoyed.",
+          "exampleSi": "මට ටිකක් අමනාපයි."
+        },
+        {
+          "en": "furious",
+          "si": "දරුණු තරහක්",
+          "say": "ෆියුරියස්",
+          "exampleEn": "He was absolutely furious.",
+          "exampleSi": "එයාට දරුණු තරහක්."
+        },
+        {
+          "en": "disappointed",
+          "si": "බලාපොරොත්තු සුන් වුණා",
+          "say": "ඩිසපොයින්ටඩ්",
+          "exampleEn": "I was disappointed with the result.",
+          "exampleSi": "ප්‍රතිඵලයට මම බලාපොරොත්තු සුන් වුණා."
+        },
+        {
+          "en": "delighted",
+          "si": "හරිම සතුටුයි",
+          "say": "ඩිලයිටඩ්",
+          "exampleEn": "We were delighted to hear it.",
+          "exampleSi": "ඒක අහන්න ලැබීම හරිම සතුටක්."
+        },
+        {
+          "en": "exhausted",
+          "si": "සම්පූර්ණයෙන් වෙහෙසයි",
+          "say": "එග්සෝස්ටඩ්",
+          "exampleEn": "I'm completely exhausted.",
+          "exampleSi": "මම සම්පූර්ණයෙන්ම වෙහෙසයි."
+        },
+        {
+          "en": "fed up with",
+          "si": "එපා වෙලා",
+          "say": "ෆෙඩ් අප් විත්",
+          "exampleEn": "I'm fed up with this rain.",
+          "exampleSi": "මේ වැස්ස එපා වෙලා."
+        },
+        {
+          "en": "proud of",
+          "si": "ආඩම්බරයි",
+          "say": "ප්‍රවුඩ් ඔෆ්",
+          "exampleEn": "I'm proud of you.",
+          "exampleSi": "මම ඔයා ගැන ආඩම්බරයි."
+        },
+        {
+          "en": "afraid of",
+          "si": "බයයි",
+          "say": "අෆ්රේඩ් ඔෆ්",
+          "exampleEn": "He's afraid of dogs.",
+          "exampleSi": "එයා බල්ලන්ට බයයි."
+        },
+        {
+          "en": "impressed by",
+          "si": "පැහැදුණා",
+          "say": "ඉම්ප්‍රෙස්ඩ් බයි",
+          "exampleEn": "We were impressed by the food.",
+          "exampleSi": "කෑමට අපි පැහැදුණා."
+        },
+        {
+          "en": "I don't mind",
+          "si": "මට කමක් නෑ",
+          "say": "අයි ඩෝන්ට් මයින්ඩ්",
+          "exampleEn": "I don't mind waiting.",
+          "exampleSi": "ඉන්න එකේ මට කමක් නෑ."
+        },
+        {
+          "en": "I can't stand",
+          "si": "කිසිසේත් බෑ",
+          "say": "අයි කාන්ට් ස්ටෑන්ඩ්",
+          "exampleEn": "I can't stand the smell.",
+          "exampleSi": "ඒ සුවඳ මට කිසිසේත් බෑ."
+        },
+        {
+          "en": "I'd rather",
+          "si": "මම වඩා කැමතියි",
+          "say": "අයිඩ් රාදර්",
+          "exampleEn": "I'd rather walk.",
+          "exampleSi": "මම නම් ඇවිදිනවා."
+        },
+        {
+          "en": "keen on",
+          "si": "කැමැත්තක් තියෙනවා",
+          "say": "කීන් ඔන්",
+          "exampleEn": "She's keen on cricket.",
+          "exampleSi": "ඇය ක්‍රිකට් වලට කැමතියි."
+        },
+        {
+          "en": "I'm sorry to hear that",
+          "si": "ඒක අහන්න දුකයි",
+          "say": "අයිම් සොරි ටු හියර් දැට්",
+          "exampleEn": "I'm sorry to hear that.",
+          "exampleSi": "ඒක අහන්න දුකයි."
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "How did you feel?",
+      "titleSi": "ඔයාට කොහොමද දැනුණේ?",
+      "settingSi": "රැකියා සම්මුඛ පරීක්ෂණයකට පස්සේ. හැඟීමේ තරම් සහ preposition බලන්න.",
+      "lines": [
+        {
+          "speaker": "Ruwan",
+          "en": "How did it go? You look tired.",
+          "si": "කොහොමද ගියේ? ඔයා මහන්සියි වගේ."
+        },
+        {
+          "speaker": "Nadeesha",
+          "en": "Completely exhausted. It went on for two hours.",
+          "si": "සම්පූර්ණයෙන්ම වෙහෙසයි. ඒක පැය දෙකක් ගියා."
+        },
+        {
+          "speaker": "Ruwan",
+          "en": "Were you nervous?",
+          "si": "බය හිතුණාද?"
+        },
+        {
+          "speaker": "Nadeesha",
+          "en": "At first. But they were friendly, so after ten minutes I was fine.",
+          "si": "මුලදී. ඒත් ඒගොල්ලෝ හිතවත්, ඒ නිසා විනාඩි දහයකට පස්සේ මම හොඳින්."
+        },
+        {
+          "speaker": "Ruwan",
+          "en": "And the questions?",
+          "si": "ප්‍රශ්න?"
+        },
+        {
+          "speaker": "Nadeesha",
+          "en": "I was surprised at how practical they were. I was expecting theory.",
+          "si": "ඒවා ඔච්චර ප්‍රායෝගික වීම ගැන මම පුදුම වුණා. මම හිතුවේ න්‍යාය කියලා."
+        },
+        {
+          "speaker": "Ruwan",
+          "en": "So are you hopeful?",
+          "si": "එහෙනම් බලාපොරොත්තුවක් තියෙනවාද?"
+        },
+        {
+          "speaker": "Nadeesha",
+          "en": "I don't mind either way, to be honest. I'd rather wait and see.",
+          "si": "ඇත්ත කිව්වොත් දෙකෙන් එකක් වුණත් කමක් නෑ. බලාගෙන ඉන්න මම වඩා කැමතියි."
+        },
+        {
+          "speaker": "Ruwan",
+          "en": "That's a healthy way to look at it.",
+          "si": "ඒක බලන්න හොඳ විදිහක්."
+        }
+      ]
+    },
+    {
+      "type": "story",
+      "title": "The day the results came",
+      "titleSi": "ප්‍රතිඵල ආපු දවස",
+      "introSi": "හැඟීම් කීපයක් තියෙන කෙටි කතාවක්. හැම හැඟීමකටම වචනය හොයාගන්න.",
+      "paragraphs": [
+        {
+          "en": "Ishara had been nervous about the results for three weeks. On the morning they came she was too afraid to look, so her father read them out.",
+          "si": "ඉෂාරා සති තුනක් තිස්සේ ප්‍රතිඵල ගැන කනස්සල්ලෙන් හිටියා. ඒවා ආපු උදේ ඇය බලන්නත් බය නිසා තාත්තා ඒවා කියෙව්වා."
+        },
+        {
+          "en": "She had passed everything except one. She was pleased, then disappointed, then annoyed with herself, all within about a minute.",
+          "si": "එකක් හැර හැම එකකින්ම ඇය සමත්. ඇය සතුටු වුණා, ඊට පස්සේ බලාපොරොත්තු සුන් වුණා, ඊට පස්සේ තමන් ගැනම අමනාප වුණා — ඔක්කොම විනාඩියක් ඇතුළත."
+        },
+        {
+          "en": "Her father was simply delighted. \"You are the first in this family to sit that exam at all,\" he said. \"I'm proud of you. I don't mind about the one.\"",
+          "si": "තාත්තා නම් හරිම සතුටුයි. \"මේ පවුලේ ඒ විභාගය කරපු මුල්ම කෙනා ඔයා,\" එයා කිව්වා. \"මම ඔයා ගැන ආඩම්බරයි. ඒ එකක් ගැන මට කමක් නෑ.\""
+        },
+        {
+          "en": "She sat that one paper again in November and passed it. She still says the best part of the whole year was the minute before her father spoke — and the minute after.",
+          "si": "නොවැම්බර්වල ඇය ඒ පත්‍රය ආපහු කරලා සමත් වුණා. මුළු අවුරුද්දේම හොඳම කොටස තාත්තා කථා කරන්න කලින් තිබුණු ඒ විනාඩියයි, ඊට පස්සේ ආපු විනාඩියයි කියලා ඇය තාමත් කියනවා."
+        }
+      ],
+      "glossary": [
+        {
+          "en": "results",
+          "si": "ප්‍රතිඵල"
+        },
+        {
+          "en": "read out",
+          "si": "කියවලා කියනවා"
+        },
+        {
+          "en": "except",
+          "si": "හැර"
+        },
+        {
+          "en": "sit an exam",
+          "si": "විභාගයක් කරනවා"
+        }
+      ],
+      "questionsSi": [
+        "ඉෂාරාට විනාඩියක් ඇතුළත දැනුණු හැඟීම් තුන මොනවාද?",
+        "තාත්තාට දැනුණේ මොකක්ද?",
+        "'I don't mind about the one' කියන එකේ තේරුම මොකක්ද?"
+      ]
+    },
+    {
+      "type": "tip",
+      "title": "Not very furious",
+      "titleSi": "very furious නෙවෙයි",
+      "bodySi": "බලවත් හැඟීම් වචනවලට 'very' යෙදෙන්නේ නෑ. ඒවායේම 'ගොඩක්' කියන අර්ථය තියෙනවා.\n\n✗ very furious → ✓ absolutely furious\n✗ very exhausted → ✓ completely exhausted\n✗ very terrified → ✓ absolutely terrified\n✗ very delighted → ✓ absolutely delighted\n\nසාමාන්‍ය වචනවලට 'very' හරි: very angry, very tired, very happy, very sad.\n\nලේසි පරීක්ෂාවක්: වචනේම 'ගොඩක්' කියනවා නම් — 'absolutely'. නැත්නම් — 'very'.",
+      "body": "Extreme adjectives already contain very. They take absolutely or completely instead."
+    },
+    {
+      "type": "practice",
+      "title": "The right little word",
+      "titleSi": "ගැලපෙන පොඩි වචනය",
+      "instructionSi": "හිස් තැනට ගැලපෙන preposition එක ලියන්න.",
+      "items": [
+        {
+          "prompt": "I'm worried ___ the exam.",
+          "answer": "about",
+          "hintSi": "worried + ?",
+          "full": "I'm worried about the exam."
+        },
+        {
+          "prompt": "I'm fed up ___ this weather.",
+          "answer": "with",
+          "hintSi": "fed up + ?",
+          "full": "I'm fed up with this weather."
+        },
+        {
+          "prompt": "He's afraid ___ dogs.",
+          "answer": "of",
+          "hintSi": "afraid + ?",
+          "full": "He's afraid of dogs."
+        },
+        {
+          "prompt": "I'm proud ___ you.",
+          "answer": "of",
+          "hintSi": "proud + ?",
+          "full": "I'm proud of you."
+        },
+        {
+          "prompt": "She was angry ___ me, not with the shop.",
+          "answer": "with",
+          "hintSi": "කෙනෙකුට තරහ නම්.",
+          "full": "She was angry with me."
+        },
+        {
+          "prompt": "We were impressed ___ the food.",
+          "answer": "by",
+          "hintSi": "impressed + ?",
+          "full": "We were impressed by the food."
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "b1-25-q1",
+      "q": "'I was annoyed' සහ 'I was furious' අතර වෙනස?",
+      "options": [
+        "වෙනසක් නෑ",
+        "තරම — annoyed මෘදුයි, furious බලවත්",
+        "furious මෘදුයි",
+        "දෙකම වැරදියි"
+      ],
+      "answer": 1,
+      "explainSi": "annoyed → angry → furious."
+    },
+    {
+      "id": "b1-25-q2",
+      "q": "කුමන එක වැරදිද?",
+      "options": [
+        "absolutely furious",
+        "very furious",
+        "very angry",
+        "completely exhausted"
+      ],
+      "answer": 1,
+      "explainSi": "බලවත් වචනවලට 'very' යෙදෙන්නේ නෑ."
+    },
+    {
+      "id": "b1-25-q3",
+      "q": "'It made me ___' — හිස් තැනට හරි ආකෘතිය?",
+      "options": [
+        "to cry",
+        "cry",
+        "crying",
+        "cried"
+      ],
+      "answer": 1,
+      "explainSi": "'make' එකට පස්සේ to යෙදෙන්නේ නෑ."
+    },
+    {
+      "id": "b1-25-q4",
+      "q": "'I am boring' කියන එකේ තේරුම?",
+      "options": [
+        "මට කම්මැලියි",
+        "මම අනිත් අයට කම්මැලි කෙනෙක්",
+        "මම මහන්සියි",
+        "මම කම්මැලි වෙනවා"
+      ],
+      "answer": 1,
+      "explainSi": "'I am bored' කියන්න ඕන — මිනිස්සුන්ට -ed."
+    },
+    {
+      "id": "b1-25-q5",
+      "q": "හිස් තැනට: 'I'm worried ___ the exam.'",
+      "options": [
+        "for",
+        "about",
+        "of",
+        "with"
+      ],
+      "answer": 1,
+      "explainSi": "worried about."
+    },
+    {
+      "id": "b1-25-q6",
+      "q": "හිස් තැනට: 'I'm fed up ___ waiting.'",
+      "options": [
+        "of",
+        "with",
+        "about",
+        "at"
+      ],
+      "answer": 1,
+      "explainSi": "fed up with — එපා වෙලා."
+    },
+    {
+      "id": "b1-25-q7",
+      "q": "කෙනෙකුට තරහ නම්?",
+      "options": [
+        "angry to",
+        "angry with",
+        "angry about",
+        "angry of"
+      ],
+      "answer": 1,
+      "explainSi": "කෙනෙකුට angry with; දෙයකට angry about."
+    },
+    {
+      "id": "b1-25-q8",
+      "q": "'I don't mind' කියන්නේ?",
+      "options": [
+        "මම කැමතියි",
+        "මට කමක් නෑ",
+        "මම කැමති නෑ",
+        "මට තේරෙන්නේ නෑ"
+      ],
+      "answer": 1,
+      "explainSi": "කැමැත්තක් නෙවෙයි — විරෝධයක් නැති බව."
+    },
+    {
+      "id": "b1-25-q9",
+      "q": "'Do you mind if I open the window?' — අවසර දෙන්නේ කොහොමද?",
+      "options": [
+        "Yes, I do.",
+        "No, not at all.",
+        "Yes, please.",
+        "Of course I mind."
+      ],
+      "answer": 1,
+      "explainSi": "'No' කියන එකෙන් අවසර දෙනවා — ඒක පටලවන තැනක්."
+    },
+    {
+      "id": "b1-25-q10",
+      "q": "'I'd rather' එකට පස්සේ එන්නේ?",
+      "options": [
+        "to + ක්‍රියාව",
+        "මූලික ක්‍රියාව",
+        "-ing",
+        "past participle"
+      ],
+      "answer": 1,
+      "explainSi": "'I'd rather walk.'"
+    },
+    {
+      "id": "b1-25-q11",
+      "q": "'I can't stand it' කියන්නේ?",
+      "options": [
+        "මට හිටගන්න බෑ",
+        "කිසිසේත් කැමති නෑ",
+        "මට ඕන",
+        "කමක් නෑ"
+      ],
+      "answer": 1,
+      "explainSi": "බලවත් අකැමැත්තක්."
+    },
+    {
+      "id": "b1-25-q12",
+      "q": "තරම් පිළිවෙළ අනුව මැදම එක?",
+      "options": [
+        "I love it",
+        "I don't mind it",
+        "I can't stand it",
+        "I hate it"
+      ],
+      "answer": 1,
+      "explainSi": "love → like → don't mind → not keen on → don't like → can't stand."
+    },
+    {
+      "id": "b1-25-q13",
+      "q": "හිස් තැනට: 'He's afraid ___ dogs.'",
+      "options": [
+        "about",
+        "with",
+        "of",
+        "by"
+      ],
+      "answer": 2,
+      "explainSi": "afraid of."
+    },
+    {
+      "id": "b1-25-q14",
+      "q": "'I'm tired of waiting' සහ 'I'm tired from the journey' —",
+      "options": [
+        "එකම දේ",
+        "පළවෙනි එක 'එපා වෙලා', දෙවෙනි එක 'ශරීරයෙන් මහන්සියි'",
+        "දෙවෙනි එක වැරදියි",
+        "පළවෙනි එක වැරදියි"
+      ],
+      "answer": 1,
+      "explainSi": "preposition එකෙන් අර්ථය වෙනස් වෙනවා."
+    },
+    {
+      "id": "b1-25-q15",
+      "q": "'She was delighted' කියන්නේ?",
+      "options": [
+        "ඇය ටිකක් සතුටුයි",
+        "ඇය හරිම සතුටුයි",
+        "ඇය දුකයි",
+        "ඇය පුදුමයි"
+      ],
+      "answer": 1,
+      "explainSi": "pleased → happy → delighted."
+    },
+    {
+      "id": "b1-25-q16",
+      "q": "අනිත් කෙනා නරක පුවතක් කිව්වම කියන්නේ?",
+      "options": [
+        "That's great.",
+        "I'm sorry to hear that.",
+        "Fair enough.",
+        "I don't mind."
+      ],
+      "answer": 1,
+      "explainSi": "සහානුභූතිය පෙන්නන සම්මත කෑල්ල."
+    },
+    {
+      "id": "b1-25-q17",
+      "q": "හිස් තැනට: 'We were impressed ___ how quickly they finished.'",
+      "options": [
+        "of",
+        "with",
+        "by",
+        "for"
+      ],
+      "answer": 2,
+      "explainSi": "impressed by (හෝ with)."
+    },
+    {
+      "id": "b1-25-q18",
+      "q": "'Would you like tea or coffee?' — 'I don't mind' කියන එකේ තේරුම?",
+      "options": [
+        "දෙකම එපා",
+        "දෙකෙන් එකක් වුණත් කමක් නෑ",
+        "තේ ඕන",
+        "කෝපි ඕන"
+      ],
+      "answer": 1,
+      "explainSi": "විරෝධයක් නෑ — තෝරගන්න ඔයාට."
+    }
+  ],
+  "vocab": [
+    {
+      "en": "nervous about",
+      "si": "බයයි වගේ",
+      "say": "නර්වස් අබවුට්",
+      "exampleEn": "I'm nervous about the exam.",
+      "exampleSi": "විභාගය ගැන මට බයයි වගේ."
+    },
+    {
+      "en": "worried about",
+      "si": "කනස්සල්ලෙන්",
+      "say": "වරීඩ් අබවුට්",
+      "exampleEn": "She's worried about her mother.",
+      "exampleSi": "අම්මා ගැන ඇය කනස්සල්ලෙන්."
+    },
+    {
+      "en": "annoyed",
+      "si": "අමනාපයි",
+      "say": "අනොයිඩ්",
+      "exampleEn": "I was a bit annoyed.",
+      "exampleSi": "මට ටිකක් අමනාපයි."
+    },
+    {
+      "en": "furious",
+      "si": "දරුණු තරහක්",
+      "say": "ෆියුරියස්",
+      "exampleEn": "He was absolutely furious.",
+      "exampleSi": "එයාට දරුණු තරහක්."
+    },
+    {
+      "en": "disappointed",
+      "si": "බලාපොරොත්තු සුන් වුණා",
+      "say": "ඩිසපොයින්ටඩ්",
+      "exampleEn": "I was disappointed with the result.",
+      "exampleSi": "ප්‍රතිඵලයට මම බලාපොරොත්තු සුන් වුණා."
+    },
+    {
+      "en": "delighted",
+      "si": "හරිම සතුටුයි",
+      "say": "ඩිලයිටඩ්",
+      "exampleEn": "We were delighted to hear it.",
+      "exampleSi": "ඒක අහන්න ලැබීම හරිම සතුටක්."
+    },
+    {
+      "en": "exhausted",
+      "si": "සම්පූර්ණයෙන් වෙහෙසයි",
+      "say": "එග්සෝස්ටඩ්",
+      "exampleEn": "I'm completely exhausted.",
+      "exampleSi": "මම සම්පූර්ණයෙන්ම වෙහෙසයි."
+    },
+    {
+      "en": "fed up with",
+      "si": "එපා වෙලා",
+      "say": "ෆෙඩ් අප් විත්",
+      "exampleEn": "I'm fed up with this rain.",
+      "exampleSi": "මේ වැස්ස එපා වෙලා."
+    },
+    {
+      "en": "proud of",
+      "si": "ආඩම්බරයි",
+      "say": "ප්‍රවුඩ් ඔෆ්",
+      "exampleEn": "I'm proud of you.",
+      "exampleSi": "මම ඔයා ගැන ආඩම්බරයි."
+    },
+    {
+      "en": "afraid of",
+      "si": "බයයි",
+      "say": "අෆ්රේඩ් ඔෆ්",
+      "exampleEn": "He's afraid of dogs.",
+      "exampleSi": "එයා බල්ලන්ට බයයි."
+    },
+    {
+      "en": "impressed by",
+      "si": "පැහැදුණා",
+      "say": "ඉම්ප්‍රෙස්ඩ් බයි",
+      "exampleEn": "We were impressed by the food.",
+      "exampleSi": "කෑමට අපි පැහැදුණා."
+    },
+    {
+      "en": "I don't mind",
+      "si": "මට කමක් නෑ",
+      "say": "අයි ඩෝන්ට් මයින්ඩ්",
+      "exampleEn": "I don't mind waiting.",
+      "exampleSi": "ඉන්න එකේ මට කමක් නෑ."
+    },
+    {
+      "en": "I can't stand",
+      "si": "කිසිසේත් බෑ",
+      "say": "අයි කාන්ට් ස්ටෑන්ඩ්",
+      "exampleEn": "I can't stand the smell.",
+      "exampleSi": "ඒ සුවඳ මට කිසිසේත් බෑ."
+    },
+    {
+      "en": "I'd rather",
+      "si": "මම වඩා කැමතියි",
+      "say": "අයිඩ් රාදර්",
+      "exampleEn": "I'd rather walk.",
+      "exampleSi": "මම නම් ඇවිදිනවා."
+    },
+    {
+      "en": "keen on",
+      "si": "කැමැත්තක් තියෙනවා",
+      "say": "කීන් ඔන්",
+      "exampleEn": "She's keen on cricket.",
+      "exampleSi": "ඇය ක්‍රිකට් වලට කැමතියි."
+    },
+    {
+      "en": "I'm sorry to hear that",
+      "si": "ඒක අහන්න දුකයි",
+      "say": "අයිම් සොරි ටු හියර් දැට්",
+      "exampleEn": "I'm sorry to hear that.",
+      "exampleSi": "ඒක අහන්න දුකයි."
+    }
+  ]
+}

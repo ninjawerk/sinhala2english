@@ -1,0 +1,783 @@
+{
+  "hero": {
+    "src": "images/b1-10-hero.webp",
+    "alt": "Ruwan holding his wrist up to read his watch under a bus shelter, a bag at his feet, a paper timetable pasted on the shelter wall beside him, mid-morning."
+  },
+  "goalsSi": [
+    "present perfect continuous හදන්න — have/has been + -ing",
+    "'How long…?' කියලා අහන්න",
+    "for සහ since නිවැරදිව යොදන්න",
+    "දිගටම කරගෙන යන දෙයක් අවධාරණය කරන්න",
+    "present perfect simple එකයි continuous එකයි අතර වෙනස",
+    "තත්ත්ව ක්‍රියාවලට continuous යෙදෙන්නේ නෑ කියන එක"
+  ],
+  "goals": [
+    "Form the present perfect continuous with have/has been + -ing",
+    "Ask How long…? questions",
+    "Use for and since correctly",
+    "Stress that an activity has been going on",
+    "Tell the simple and continuous apart",
+    "Know which verbs do not take the continuous"
+  ],
+  "sections": [
+    {
+      "type": "note",
+      "title": "Still going on",
+      "titleSi": "තාමත් සිද්ධ වෙනවා",
+      "bodySi": "a2-10 හි ඉගෙන ගත්තා present perfect — have/has + past participle. 'I have worked here.'\n\nඑතන අවධාරණය තියෙන්නේ වුණා කියන එකට. දැන් අපිට ඕන කරන්නේ කරගෙන යනවා කියන එකට අවධාරණය දෙන්න.\n\n'I have been working here for six years.'\n\nHave + been + working. මේකට කියන්නේ present perfect continuous කියලා.\n\nකලින් පටන් අරන්, තාමත් කරගෙන යනවා — නැත්නම් දැන් තමයි ඉවර වුණේ, ඒත් ඒකේ ලකුණු තාම තියෙනවා.\n\n'It has been raining.' — වහිනවා තිබුණා. (බලන්න, පාර තෙතයි)\n'She has been crying.' — ඇය අඬමින් හිටියා. (ඇස් රතුයි)\n'We have been waiting for an hour.' — අපි පැයක් තිස්සේ බලාගෙන ඉන්නවා. (තාමත් ඉන්නවා)\n\nසිංහලෙන් 'තිස්සේ', 'ඉඳන්', 'කරගෙන ඉන්නවා' කියලා කියන අදහසමයි.",
+      "body": "The present perfect continuous stresses an activity that started earlier and is still going on, or has only just stopped."
+    },
+    {
+      "type": "grammar",
+      "title": "have/has been + -ing",
+      "titleSi": "have/has been + -ing",
+      "explainSi": "කොටස් තුනක් තියෙනවා, තුනම ඕන:\n\n1. have නැත්නම් has — he, she, it නම් has; අනිත් හැම එකකටම have.\n2. been — මේක කවදාවත් වෙනස් වෙන්නේ නෑ.\n3. -ing ආකෘතිය — working, waiting, raining.\n\n'I have been reading.'\n'She has been reading.'\n'They have been reading.'\n\nකථාවේදී කෙටි වෙනවා: I've been, she's been, they've been.\n\nනැහැ කියන්න: haven't been / hasn't been.\nඅහන්න: Have you been…? / Has he been…?",
+      "explain": "Three parts, all required: have or has, then been, then the -ing form.",
+      "formula": "subject + have/has + been + -ing",
+      "table": {
+        "headers": [
+          "වර්ගය",
+          "English",
+          "සිංහල"
+        ],
+        "rows": [
+          [
+            "හරි",
+            "I have been waiting.",
+            "මම බලාගෙන ඉන්නවා."
+          ],
+          [
+            "හරි (has)",
+            "He has been waiting.",
+            "එයා බලාගෙන ඉන්නවා."
+          ],
+          [
+            "නැහැ",
+            "I haven't been waiting long.",
+            "මම ගොඩක් වෙලා බලාගෙන නෑ."
+          ],
+          [
+            "ප්‍රශ්නය",
+            "Have you been waiting?",
+            "ඔයා බලාගෙන හිටියද?"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "I have been learning English for two years.",
+          "si": "මම අවුරුදු දෙකක් තිස්සේ ඉංග්‍රීසි ඉගෙන ගන්නවා."
+        },
+        {
+          "en": "She has been living in Galle since March.",
+          "si": "මාර්තු ඉඳන් ඇය ගාල්ලේ ඉන්නවා."
+        },
+        {
+          "en": "It has been raining all morning.",
+          "si": "උදේ ඉඳන්ම වහිනවා."
+        }
+      ],
+      "watchOutSi": "'been' අමතක කරන්න එපා. 'I have working here' කියන එක වැරදියි — 'I have been working here'."
+    },
+    {
+      "type": "grammar",
+      "title": "How long? for and since",
+      "titleSi": "කොච්චර කාලයක්ද? for සහ since",
+      "explainSi": "මේ ආකෘතියේ ස්වාභාවිකම ප්‍රශ්නය: How long…?\n\n'How long have you been waiting?' — කොච්චර වෙලාවක් තිස්සේ බලාගෙන ඉන්නවාද?\n'How long has she been working there?' — කොච්චර කාලයක් තිස්සේ ඇය එහෙ වැඩ කරනවාද?\n\nඋත්තරයට for නැත්නම් since.\n\nfor — කාල ප්‍රමාණයක්. පැයක්, අවුරුදු තුනක්, ටික වෙලාවක්.\n'for an hour', 'for three years', 'for a long time'\n\nsince — පටන් ගත්ත මොහොත. උදේ, 2019, මම ආවා ඉඳන්.\n'since morning', 'since 2019', 'since I came'\n\nලේසි පරීක්ෂාවක්: 'කොච්චරද?' කියලා අහන්න පුළුවන් නම් for. 'කවදා ඉඳන්ද?' කියලා අහන්න පුළුවන් නම් since.",
+      "explain": "How long…? asks the question. For gives a length of time; since gives the point it started.",
+      "formula": "How long + have/has + subject + been + -ing?",
+      "table": {
+        "headers": [
+          "for (ප්‍රමාණය)",
+          "since (පටන් ගත් මොහොත)",
+          ""
+        ],
+        "rows": [
+          [
+            "for two hours",
+            "since two o'clock",
+            "පැය දෙකක් / දෙකේ ඉඳන්"
+          ],
+          [
+            "for a week",
+            "since Monday",
+            "සතියක් / සඳුදා ඉඳන්"
+          ],
+          [
+            "for years",
+            "since 2019",
+            "අවුරුදු ගාණක් / 2019 ඉඳන්"
+          ],
+          [
+            "for a long time",
+            "since I was small",
+            "ගොඩක් කාලයක් / පොඩි කාලේ ඉඳන්"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "How long have you been standing here?",
+          "si": "කොච්චර වෙලාවක් තිස්සේ මෙතන ඉන්නවාද?"
+        },
+        {
+          "en": "I have been standing here for twenty minutes.",
+          "si": "මම විනාඩි විස්සක් තිස්සේ මෙතන ඉන්නවා."
+        },
+        {
+          "en": "He has been calling you since morning.",
+          "si": "උදේ ඉඳන් එයා ඔයාට කතා කරනවා."
+        }
+      ],
+      "watchOutSi": "'since two hours' කියන එක වැරදියි — පැය දෙකක් කියන්නේ ප්‍රමාණයක්, ඒ නිසා 'for two hours'. 'since two o'clock' නම් හරි."
+    },
+    {
+      "type": "grammar",
+      "title": "The activity, or the result?",
+      "titleSi": "ක්‍රියාවද, ප්‍රතිඵලයද?",
+      "explainSi": "දෙකම හරි, ඒත් අවධාරණය දෙකක්.\n\nContinuous — කරගෙන යන ක්‍රියාව, කොච්චර කාලයක්ද කියන එක.\nSimple — ඉවර වුණු ප්‍රතිඵලය, කීයක් කළාද කියන එක.\n\n'I have been reading that book.' — කියවමින් හිටියා. (ඉවර වුණාද කියලා කිව්වේ නෑ)\n'I have read that book.' — කියවලා ඉවරයි. ✓\n\n'She has been writing letters all day.' — ලියමින් හිටියා, දවස පුරාම.\n'She has written three letters.' — ලියුම් තුනක් ලියලා ඉවරයි.\n\nගණනක් තියෙනවා නම් (three letters, five times, two cakes) — simple එකයි. ක්‍රියාව කොච්චර කාලයක් තිස්සේද කියනවා නම් — continuous එකයි.",
+      "explain": "Continuous stresses the activity and how long. Simple stresses the finished result and how many.",
+      "formula": "කොච්චර කාලයක්ද → continuous  ·  කීයක්ද → simple",
+      "table": {
+        "headers": [
+          "Continuous",
+          "Simple",
+          "වෙනස"
+        ],
+        "rows": [
+          [
+            "I've been painting the house.",
+            "I've painted the house.",
+            "කරමින් හිටියා / ඉවරයි"
+          ],
+          [
+            "She's been baking.",
+            "She's baked two cakes.",
+            "ක්‍රියාව / ගණන"
+          ],
+          [
+            "We've been waiting for an hour.",
+            "We've waited long enough.",
+            "කාලය / තීරණය"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "I've been cleaning all morning, but the house is still a mess.",
+          "si": "උදේ ඉඳන්ම මම පිරිසිදු කරනවා, ඒත් ගෙදර තාමත් අවුල්."
+        },
+        {
+          "en": "I've cleaned the kitchen. You can come in.",
+          "si": "මම කුස්සිය පිරිසිදු කරලා ඉවරයි. එන්න පුළුවන්."
+        }
+      ],
+      "watchOutSi": "know, be, like, want, understand, believe වගේ තත්ත්ව ක්‍රියාවලට continuous යෙදෙන්නේ නෑ. 'I have been knowing her for years' ✗ — 'I have known her for years' ✓."
+    },
+    {
+      "type": "vocab",
+      "title": "Words for how long",
+      "titleSi": "කොච්චර කාලයක්ද කියන වචන",
+      "introSi": "මේ වචන 'for' සහ 'since' එක්ක නිතරම එනවා.",
+      "items": [
+        {
+          "en": "how long",
+          "si": "කොච්චර කාලයක්",
+          "say": "හව් ලොං",
+          "exampleEn": "How long have you been here?",
+          "exampleSi": "කොච්චර වෙලාවක් තිස්සේ මෙහෙද?"
+        },
+        {
+          "en": "for",
+          "si": "තිස්සේ",
+          "say": "ෆෝ",
+          "exampleEn": "I have been waiting for an hour.",
+          "exampleSi": "මම පැයක් තිස්සේ බලාගෙන ඉන්නවා."
+        },
+        {
+          "en": "since",
+          "si": "ඉඳන්",
+          "say": "සින්ස්",
+          "exampleEn": "She has been here since morning.",
+          "exampleSi": "උදේ ඉඳන් ඇය මෙහෙයි."
+        },
+        {
+          "en": "all day",
+          "si": "දවස පුරාම",
+          "say": "ඕල් ඩේ",
+          "exampleEn": "It has been raining all day.",
+          "exampleSi": "දවස පුරාම වහිනවා."
+        },
+        {
+          "en": "lately",
+          "si": "මෑතකදී",
+          "say": "ලේට්ලි",
+          "exampleEn": "I haven't been sleeping well lately.",
+          "exampleSi": "මෑතකදී මට හොඳට නින්ද යන්නේ නෑ."
+        },
+        {
+          "en": "recently",
+          "si": "ළඟදී",
+          "say": "රීසන්ට්ලි",
+          "exampleEn": "He has been coming late recently.",
+          "exampleSi": "ළඟදී එයා පරක්කු වෙලා එනවා."
+        },
+        {
+          "en": "wait",
+          "si": "බලාගෙන ඉන්නවා",
+          "say": "වේට්",
+          "exampleEn": "We have been waiting long.",
+          "exampleSi": "අපි ගොඩක් වෙලා බලාගෙන ඉන්නවා."
+        },
+        {
+          "en": "queue",
+          "si": "පෝලිමේ ඉන්නවා",
+          "say": "කිව්",
+          "exampleEn": "They have been queuing since six.",
+          "exampleSi": "හයේ ඉඳන් ඒගොල්ලෝ පෝලිමේ."
+        },
+        {
+          "en": "study",
+          "si": "ඉගෙන ගන්නවා",
+          "say": "ස්ටඩි",
+          "exampleEn": "She has been studying all night.",
+          "exampleSi": "රෑ පුරාම ඇය ඉගෙන ගන්නවා."
+        },
+        {
+          "en": "practise",
+          "si": "පුහුණු වෙනවා",
+          "say": "ප්‍රැක්ටිස්",
+          "exampleEn": "I have been practising every day.",
+          "exampleSi": "මම හැම දාම පුහුණු වෙනවා."
+        },
+        {
+          "en": "look for",
+          "si": "හොයනවා",
+          "say": "ලුක් ෆෝ",
+          "exampleEn": "I have been looking for it everywhere.",
+          "exampleSi": "මම හැම තැනම ඒක හොයනවා."
+        },
+        {
+          "en": "work on",
+          "si": "වැඩ කරනවා (දෙයක් මත)",
+          "say": "වර්ක් ඔන්",
+          "exampleEn": "He has been working on it for weeks.",
+          "exampleSi": "සති ගාණක් තිස්සේ එයා ඒකේ වැඩ කරනවා."
+        },
+        {
+          "en": "try",
+          "si": "උත්සාහ කරනවා",
+          "say": "ට්‍රයි",
+          "exampleEn": "I've been trying to call you.",
+          "exampleSi": "මම ඔයාට කතා කරන්න උත්සාහ කරනවා."
+        },
+        {
+          "en": "exhausted",
+          "si": "හරිම මහන්සියි",
+          "say": "එග්සෝස්ටඩ්",
+          "exampleEn": "I'm exhausted — I've been walking all day.",
+          "exampleSi": "මම හරිම මහන්සියි — දවස පුරාම ඇවිද්දා."
+        },
+        {
+          "en": "ever since",
+          "si": "එදා ඉඳන්ම",
+          "say": "එවර් සින්ස්",
+          "exampleEn": "Ever since then, he has been quiet.",
+          "exampleSi": "එදා ඉඳන්ම එයා නිශ්ශබ්දයි."
+        },
+        {
+          "en": "so far",
+          "si": "මේ වෙනකම්",
+          "say": "සෝ ෆා",
+          "exampleEn": "So far, so good.",
+          "exampleSi": "මේ වෙනකම් හොඳයි."
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "At the clinic",
+      "titleSi": "සායනයේදී",
+      "settingSi": "වෛද්‍යවරයෙක් ඉස්සරහ නදීෂා. සායනවලදී 'How long…?' කියන ප්‍රශ්නය නිතරම ඇහෙනවා.",
+      "lines": [
+        {
+          "speaker": "Doctor",
+          "en": "How long have you been feeling like this?",
+          "si": "කොච්චර කාලයක් තිස්සේ මෙහෙම දැනෙනවාද?"
+        },
+        {
+          "speaker": "Nadeesha",
+          "en": "For about two weeks.",
+          "si": "සති දෙකක් විතර තිස්සේ."
+        },
+        {
+          "speaker": "Doctor",
+          "en": "Have you been sleeping well?",
+          "si": "නින්ද හොඳට යනවාද?"
+        },
+        {
+          "speaker": "Nadeesha",
+          "en": "Not really. I've been waking up at three every night.",
+          "si": "එහෙම නෑ. හැම රෑම තුනට මට ඇහැරෙනවා."
+        },
+        {
+          "speaker": "Doctor",
+          "en": "And have you been taking the tablets I gave you?",
+          "si": "මම දුන්න බෙහෙත් ගන්නවාද?"
+        },
+        {
+          "speaker": "Nadeesha",
+          "en": "I have taken all of them. They finished on Friday.",
+          "si": "ඔක්කොම අරන් ඉවරයි. සිකුරාදා ඒවා ඉවර වුණා."
+        },
+        {
+          "speaker": "Doctor",
+          "en": "Good. Have you been drinking enough water?",
+          "si": "හොඳයි. වතුර ඇති තරම් බොනවාද?"
+        },
+        {
+          "speaker": "Nadeesha",
+          "en": "I've been trying.",
+          "si": "උත්සාහ කරනවා."
+        }
+      ]
+    },
+    {
+      "type": "story",
+      "title": "The third bus",
+      "titleSi": "තුන්වෙනි බස් එක",
+      "introSi": "පොඩි කතාවක්. 'been' තියෙන වාක්‍ය හොයාගන්න.",
+      "paragraphs": [
+        {
+          "en": "Sanduni has been standing at the halt since half past six. Two buses have gone past. Neither of them stopped.",
+          "si": "සන්දුනි හය හමාරේ ඉඳන් නැවතුම්පොළේ ඉන්නවා. බස් දෙකක් ගිහින්. දෙකෙන් එකක්වත් නැවතුණේ නෑ."
+        },
+        {
+          "en": "The man beside her has been reading the same page of his newspaper for ten minutes. He has not turned it once.",
+          "si": "ඇය ළඟ ඉන්න මනුස්සයා විනාඩි දහයක් තිස්සේ පත්තරේ එකම පිටුව කියවනවා. එක පාරක්වත් පිටුව හරවලා නෑ."
+        },
+        {
+          "en": "\"How long have you been waiting?\" she asks him. \"Since six,\" he says. \"I have been late for work every day this week.\"",
+          "si": "\"කොච්චර වෙලාවක් තිස්සේ බලාගෙන ඉන්නවාද?\" ඇය එයාගෙන් අහනවා. \"හයේ ඉඳන්,\" එයා කියනවා. \"මේ සතියේ හැම දාම මම වැඩට පරක්කුයි.\""
+        },
+        {
+          "en": "The third bus comes at seven. It is full. They get on anyway, because they have been waiting too long to be careful.",
+          "si": "තුන්වෙනි බස් එක හතට එනවා. ඒක පිරිලා. ඒත් දෙන්නාම නගිනවා, මොකද ඕනවට වඩා වෙලා බලාගෙන ඉඳලා දැන් තෝරන්න වෙලාවක් නෑ."
+        }
+      ],
+      "glossary": [
+        {
+          "en": "halt (bus stop)",
+          "si": "නැවතුම්පොළ"
+        },
+        {
+          "en": "turn (a page)",
+          "si": "පිටුව හරවනවා"
+        },
+        {
+          "en": "full",
+          "si": "පිරිලා"
+        },
+        {
+          "en": "careful",
+          "si": "පරෙස්සම්"
+        }
+      ],
+      "questionsSi": [
+        "සන්දුනි කොච්චර වෙලාවක් තිස්සේ බලාගෙන ඉන්නවාද?",
+        "මනුස්සයා පත්තරේ කියවනවා කියලා කිව්වත් ඇත්තටම කරන්නේ මොකක්ද?",
+        "'They have been waiting too long' — මෙතන continuous යෙදුවේ ඇයි?"
+      ]
+    },
+    {
+      "type": "tip",
+      "title": "Some verbs never take it",
+      "titleSi": "සමහර ක්‍රියාවලට මේක යෙදෙන්නේ නෑ",
+      "bodySi": "දැනීම්, හැඟීම්, අයිතිය කියන ක්‍රියාවලට continuous යෙදෙන්නේ නෑ:\n\nknow, believe, understand, like, love, hate, want, need, have (අයිතිය), be, seem\n\n✗ 'I have been knowing him for years.'\n✓ 'I have known him for years.'\n\n✗ 'She has been having a car since 2020.'\n✓ 'She has had a car since 2020.'\n\nමේ ක්‍රියාවලට කාලය කියන්න ඕන නම් simple එකයි යොදන්නේ — ඒත් for/since තාමත් යෙදෙනවා.",
+      "body": "State verbs — know, believe, understand, like, want, have, be — take the simple form even when you are giving a length of time."
+    },
+    {
+      "type": "practice",
+      "title": "for or since?",
+      "titleSi": "for ද, since ද?",
+      "instructionSi": "හිස් තැනට for නැත්නම් since දාන්න. කාල ප්‍රමාණයක්ද, පටන් ගත්ත මොහොතක්ද කියලා බලන්න.",
+      "items": [
+        {
+          "prompt": "I have been waiting ___ half an hour.",
+          "answer": "for",
+          "hintSi": "පැය භාගය කියන්නේ ප්‍රමාණයක්.",
+          "full": "I have been waiting for half an hour."
+        },
+        {
+          "prompt": "She has been living here ___ 2019.",
+          "answer": "since",
+          "hintSi": "2019 කියන්නේ මොහොතක්.",
+          "full": "She has been living here since 2019."
+        },
+        {
+          "prompt": "It has been raining ___ morning.",
+          "answer": "since",
+          "hintSi": "උදේ කියන්නේ පටන් ගත්ත මොහොත.",
+          "full": "It has been raining since morning."
+        },
+        {
+          "prompt": "They have been working on it ___ three weeks.",
+          "answer": "for",
+          "hintSi": "සති තුනක් කියන්නේ ප්‍රමාණයක්.",
+          "full": "They have been working on it for three weeks."
+        },
+        {
+          "prompt": "He has been quiet ___ the accident.",
+          "answer": "since",
+          "hintSi": "අනතුර කියන්නේ මොහොතක්.",
+          "full": "He has been quiet since the accident."
+        },
+        {
+          "prompt": "We have known each other ___ a long time.",
+          "answer": "for",
+          "hintSi": "ගොඩක් කාලයක් කියන්නේ ප්‍රමාණයක්. (know නිසා simple)",
+          "full": "We have known each other for a long time."
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "b1-10-q1",
+      "q": "Present perfect continuous හැදෙන්නේ කොහොමද?",
+      "options": [
+        "have/has + -ing",
+        "have/has been + -ing",
+        "had been + -ing",
+        "am/is/are + -ing"
+      ],
+      "answer": 1,
+      "explainSi": "කොටස් තුනම ඕන — have/has + been + -ing."
+    },
+    {
+      "id": "b1-10-q2",
+      "q": "'මම පැයක් තිස්සේ බලාගෙන ඉන්නවා' — කොහොමද?",
+      "options": [
+        "I have waiting for an hour.",
+        "I have been waiting for an hour.",
+        "I am waiting since an hour.",
+        "I have been waiting since an hour."
+      ],
+      "answer": 1,
+      "explainSi": "have been waiting, සහ පැයක් කියන්නේ ප්‍රමාණයක් නිසා for.",
+      "speak": "I have been waiting for an hour."
+    },
+    {
+      "id": "b1-10-q3",
+      "q": "he එක්ක යෙදෙන්නේ?",
+      "options": [
+        "he have been working",
+        "he has been working",
+        "he has been work",
+        "he been working"
+      ],
+      "answer": 1,
+      "explainSi": "he, she, it නම් has."
+    },
+    {
+      "id": "b1-10-q4",
+      "q": "'since' යෙදෙන්නේ මොකකටද?",
+      "options": [
+        "කාල ප්‍රමාණයකට",
+        "පටන් ගත්ත මොහොතට",
+        "අනාගතයට",
+        "ගණනකට"
+      ],
+      "answer": 1,
+      "explainSi": "since morning, since 2019, since I came — පටන් ගත්ත මොහොත."
+    },
+    {
+      "id": "b1-10-q5",
+      "q": "කුමන එක වැරදිද?",
+      "options": [
+        "for two hours",
+        "since two o'clock",
+        "since two hours",
+        "for a week"
+      ],
+      "answer": 2,
+      "explainSi": "පැය දෙකක් කියන්නේ ප්‍රමාණයක් — 'for two hours'."
+    },
+    {
+      "id": "b1-10-q6",
+      "q": "'කොච්චර කාලයක් තිස්සේ ඔයා මෙහෙ වැඩ කරනවාද?' — කොහොමද?",
+      "options": [
+        "How long you have been working here?",
+        "How long have you been working here?",
+        "How long have you working here?",
+        "How long are you working here?"
+      ],
+      "answer": 1,
+      "explainSi": "How long + have + subject + been + -ing?",
+      "speak": "How long have you been working here?"
+    },
+    {
+      "id": "b1-10-q7",
+      "q": "'I've been painting the house' සහ 'I've painted the house' — වෙනස මොකක්ද?",
+      "options": [
+        "වෙනසක් නෑ",
+        "පළවෙනි එකේ අවධාරණය ක්‍රියාවට, දෙවෙනි එකේ ඉවර වීමට",
+        "පළවෙනි එක අනාගතය",
+        "දෙවෙනි එක වැරදියි"
+      ],
+      "answer": 1,
+      "explainSi": "Continuous = කරමින් හිටියා. Simple = ඉවරයි."
+    },
+    {
+      "id": "b1-10-q8",
+      "q": "ගණනක් තියෙනකොට (three letters) යෙදෙන්නේ?",
+      "options": [
+        "continuous",
+        "simple",
+        "දෙකම",
+        "එකක්වත් නෑ"
+      ],
+      "answer": 1,
+      "explainSi": "කීයක් කළාද කියනකොට simple — 'I have written three letters.'"
+    },
+    {
+      "id": "b1-10-q9",
+      "q": "කුමන වාක්‍යය වැරදිද?",
+      "options": [
+        "I have been reading.",
+        "I have been knowing her for years.",
+        "It has been raining.",
+        "They have been waiting."
+      ],
+      "answer": 1,
+      "explainSi": "'know' තත්ත්ව ක්‍රියාවක් — 'I have known her for years.'"
+    },
+    {
+      "id": "b1-10-q10",
+      "q": "හිස් තැනට: 'She has ___ studying since six.'",
+      "options": [
+        "be",
+        "been",
+        "being",
+        "was"
+      ],
+      "answer": 1,
+      "explainSi": "been — ඒක කවදාවත් වෙනස් වෙන්නේ නෑ.",
+      "speak": "She has been studying since six."
+    },
+    {
+      "id": "b1-10-q11",
+      "q": "'උදේ ඉඳන් වහිනවා' — කොහොමද?",
+      "options": [
+        "It has been raining since morning.",
+        "It has been raining for morning.",
+        "It is raining since morning.",
+        "It has raining since morning."
+      ],
+      "answer": 0,
+      "explainSi": "උදේ කියන්නේ මොහොතක් — since.",
+      "speak": "It has been raining since morning."
+    },
+    {
+      "id": "b1-10-q12",
+      "q": "'I'm exhausted. I ___ all day.' — හිස් තැනට?",
+      "options": [
+        "have walked",
+        "have been walking",
+        "walk",
+        "am walking"
+      ],
+      "answer": 1,
+      "explainSi": "මහන්සියට හේතුව දිගටම කරගෙන ගිය ක්‍රියාව — continuous."
+    },
+    {
+      "id": "b1-10-q13",
+      "q": "නැහැ කියන ආකෘතිය?",
+      "options": [
+        "haven't been + -ing",
+        "don't have been + -ing",
+        "have been not + -ing",
+        "haven't being + -ing"
+      ],
+      "answer": 0,
+      "explainSi": "I haven't been sleeping well."
+    },
+    {
+      "id": "b1-10-q14",
+      "q": "'ඇය මාර්තු ඉඳන් ගාල්ලේ ඉන්නවා' — කොහොමද?",
+      "options": [
+        "She has been living in Galle for March.",
+        "She has been living in Galle since March.",
+        "She is living in Galle since March.",
+        "She has living in Galle since March."
+      ],
+      "answer": 1,
+      "explainSi": "මාර්තු කියන්නේ පටන් ගත්ත මොහොත.",
+      "speak": "She has been living in Galle since March."
+    },
+    {
+      "id": "b1-10-q15",
+      "q": "'She has baked two cakes' — මෙතන simple යෙදුවේ ඇයි?",
+      "options": [
+        "ගණනක් තියෙන නිසා",
+        "කාලයක් තියෙන නිසා",
+        "she නිසා",
+        "අතීතය නිසා"
+      ],
+      "answer": 0,
+      "explainSi": "කීයක්ද කියනකොට simple."
+    },
+    {
+      "id": "b1-10-q16",
+      "q": "හිස් තැනට: 'I ___ to call you all morning.'",
+      "options": [
+        "have been trying",
+        "have tried been",
+        "am trying since",
+        "have being trying"
+      ],
+      "answer": 0,
+      "explainSi": "have been + trying.",
+      "speak": "I have been trying to call you all morning."
+    },
+    {
+      "id": "b1-10-q17",
+      "q": "'ඇය අඬමින් හිටියා (ඇස් තාම රතුයි)' — කොහොමද?",
+      "options": [
+        "She has cried.",
+        "She has been crying.",
+        "She is cried.",
+        "She had cried."
+      ],
+      "answer": 1,
+      "explainSi": "ක්‍රියාවේ ලකුණු තාම තියෙනවා — continuous.",
+      "speak": "She has been crying."
+    },
+    {
+      "id": "b1-10-q18",
+      "q": "'have' අයිතිය කියන අර්ථයෙන් යෙදෙනකොට continuous යෙදෙනවාද?",
+      "options": [
+        "ඔව්",
+        "නෑ — 'She has had a car since 2020' කියන්න",
+        "ඔව්, ප්‍රශ්නවලට විතරක්",
+        "නෑ, කවදාවත් 'have' යෙදෙන්නේ නෑ"
+      ],
+      "answer": 1,
+      "explainSi": "අයිතිය කියන 'have' තත්ත්ව ක්‍රියාවක්."
+    }
+  ],
+  "vocab": [
+    {
+      "en": "how long",
+      "si": "කොච්චර කාලයක්",
+      "say": "හව් ලොං",
+      "exampleEn": "How long have you been here?",
+      "exampleSi": "කොච්චර වෙලාවක් තිස්සේ මෙහෙද?"
+    },
+    {
+      "en": "for",
+      "si": "තිස්සේ",
+      "say": "ෆෝ",
+      "exampleEn": "I have been waiting for an hour.",
+      "exampleSi": "මම පැයක් තිස්සේ බලාගෙන ඉන්නවා."
+    },
+    {
+      "en": "since",
+      "si": "ඉඳන්",
+      "say": "සින්ස්",
+      "exampleEn": "She has been here since morning.",
+      "exampleSi": "උදේ ඉඳන් ඇය මෙහෙයි."
+    },
+    {
+      "en": "all day",
+      "si": "දවස පුරාම",
+      "say": "ඕල් ඩේ",
+      "exampleEn": "It has been raining all day.",
+      "exampleSi": "දවස පුරාම වහිනවා."
+    },
+    {
+      "en": "lately",
+      "si": "මෑතකදී",
+      "say": "ලේට්ලි",
+      "exampleEn": "I haven't been sleeping well lately.",
+      "exampleSi": "මෑතකදී මට හොඳට නින්ද යන්නේ නෑ."
+    },
+    {
+      "en": "recently",
+      "si": "ළඟදී",
+      "say": "රීසන්ට්ලි",
+      "exampleEn": "He has been coming late recently.",
+      "exampleSi": "ළඟදී එයා පරක්කු වෙලා එනවා."
+    },
+    {
+      "en": "wait",
+      "si": "බලාගෙන ඉන්නවා",
+      "say": "වේට්",
+      "exampleEn": "We have been waiting long.",
+      "exampleSi": "අපි ගොඩක් වෙලා බලාගෙන ඉන්නවා."
+    },
+    {
+      "en": "queue",
+      "si": "පෝලිමේ ඉන්නවා",
+      "say": "කිව්",
+      "exampleEn": "They have been queuing since six.",
+      "exampleSi": "හයේ ඉඳන් ඒගොල්ලෝ පෝලිමේ."
+    },
+    {
+      "en": "study",
+      "si": "ඉගෙන ගන්නවා",
+      "say": "ස්ටඩි",
+      "exampleEn": "She has been studying all night.",
+      "exampleSi": "රෑ පුරාම ඇය ඉගෙන ගන්නවා."
+    },
+    {
+      "en": "practise",
+      "si": "පුහුණු වෙනවා",
+      "say": "ප්‍රැක්ටිස්",
+      "exampleEn": "I have been practising every day.",
+      "exampleSi": "මම හැම දාම පුහුණු වෙනවා."
+    },
+    {
+      "en": "look for",
+      "si": "හොයනවා",
+      "say": "ලුක් ෆෝ",
+      "exampleEn": "I have been looking for it everywhere.",
+      "exampleSi": "මම හැම තැනම ඒක හොයනවා."
+    },
+    {
+      "en": "work on",
+      "si": "වැඩ කරනවා (දෙයක් මත)",
+      "say": "වර්ක් ඔන්",
+      "exampleEn": "He has been working on it for weeks.",
+      "exampleSi": "සති ගාණක් තිස්සේ එයා ඒකේ වැඩ කරනවා."
+    },
+    {
+      "en": "try",
+      "si": "උත්සාහ කරනවා",
+      "say": "ට්‍රයි",
+      "exampleEn": "I've been trying to call you.",
+      "exampleSi": "මම ඔයාට කතා කරන්න උත්සාහ කරනවා."
+    },
+    {
+      "en": "exhausted",
+      "si": "හරිම මහන්සියි",
+      "say": "එග්සෝස්ටඩ්",
+      "exampleEn": "I'm exhausted — I've been walking all day.",
+      "exampleSi": "මම හරිම මහන්සියි — දවස පුරාම ඇවිද්දා."
+    },
+    {
+      "en": "ever since",
+      "si": "එදා ඉඳන්ම",
+      "say": "එවර් සින්ස්",
+      "exampleEn": "Ever since then, he has been quiet.",
+      "exampleSi": "එදා ඉඳන්ම එයා නිශ්ශබ්දයි."
+    },
+    {
+      "en": "so far",
+      "si": "මේ වෙනකම්",
+      "say": "සෝ ෆා",
+      "exampleEn": "So far, so good.",
+      "exampleSi": "මේ වෙනකම් හොඳයි."
+    }
+  ]
+}

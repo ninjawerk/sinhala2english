@@ -1,0 +1,769 @@
+{
+  "hero": {
+    "src": "images/b1-16-hero.webp",
+    "alt": "Ruwan standing in an empty classroom holding a shoulder bag that is not his, wondering whose it is, desks and a blackboard behind him."
+  },
+  "goalsSi": [
+    "සාක්ෂි මත අනුමාන කරන්න — must සහ can't",
+    "'must' නියෝගයට සහ අනුමානයට යෙදෙන දෙවිදිහ වෙන් කරන්න",
+    "'can't' කියන්නේ 'බෑ' කියන එක නොවන අවස්ථාව",
+    "could be, might be — අවිනිශ්චිත අනුමානය",
+    "must be, can't be, must have been",
+    "අනුමානයට හේතුව කියන්න"
+  ],
+  "goals": [
+    "Deduce from evidence with must and can't",
+    "Tell obligation-must from deduction-must",
+    "Know when can't is not about ability",
+    "Use could be and might be for weaker guesses",
+    "Handle must be, can't be and must have been",
+    "Give the evidence behind a deduction"
+  ],
+  "sections": [
+    {
+      "type": "note",
+      "title": "Guessing from what you can see",
+      "titleSi": "පේන දේ මත අනුමාන කිරීම",
+      "bodySi": "දොරට තට්ටු කරනවා. ඔයා දන්නවා අම්මා පොළට ගිහින්, තාත්තා වැඩට ගිහින්, මල්ලි විතරයි ගෙදර එන්න තියෙන්නේ.\n\nදොර ඇරලා බලන්න කලින්ම ඔයා කියනවා:\n\n'That must be my brother.'\n\nඔයා දැක්කේ නෑ. ඒත් සාක්ෂි මත නිශ්චිතයි.\n\nඅනිත් පැත්ත:\n\n'It can't be my father. He's at work until six.'\n\nමේ දෙක ඉංග්‍රීසියේ 'deduction' කියලා කියන දේ. b1-15 හි 'might' කිව්වේ නොදන්නා දෙයක්. මෙතන කියන්නේ දන්නවා වගේම නිශ්චිත, ඒත් තහවුරු කරලා නෑ කියන එක.\n\nmust = නිසැකවම එහෙමයි.\ncan't = නිසැකවම එහෙම නෑ.\nmight / could = වෙන්නත් පුළුවන්.\n\nවැදගත්ම දේ: මේ 'must' එකට නියෝගයක් සම්බන්ධයක් නෑ. b1-05 හි ඉගෙන ගත්ත 'You must wear a helmet' කියන එකයි මේකයි වචනේ එකයි, වැඩේ දෙකයි.",
+      "body": "Must and can't here are not orders. They are how English says I am sure — from evidence, without having checked."
+    },
+    {
+      "type": "grammar",
+      "title": "must be, can't be",
+      "titleSi": "must be, can't be",
+      "explainSi": "අනුමානය නාම පදයක් හෝ විශේෂණයක් ගැන නම්, be එනවා.\n\n'You must be tired.' — ඔයා මහන්සි ඇති.\n'She must be at home.' — ඇය ගෙදර ඇති.\n'That can't be right.' — ඒක හරි වෙන්න බෑ.\n'He can't be forty. He looks thirty.' — එයාට හතළිහක් වෙන්න බෑ.\n\nක්‍රියාවක් ගැන නම්, be නෑ:\n\n'She must know him.' — ඇය එයාව දන්නවා ඇති.\n'He can't swim in this.' — මේකේ එයාට පීනන්න බෑ. (මේක හැකියාව!)\n\nදැන් ප්‍රවේශම් වෙන්න ඕන තැන. can't කියන එකට වැඩ දෙකක්:\n\n1. හැකියාව නෑ — 'I can't swim.' (මට පීනන්න බෑ)\n2. නිසැකවම එහෙම නෑ — 'It can't be true.' (ඒක ඇත්ත වෙන්න බෑ)\n\nවෙනස තේරෙන්නේ සන්දර්භයෙන්. 'be' එකක් තිබුණම බොහෝවිට අනුමානයක්.\n\nතව එකක් — mustn't කවදාවත් අනුමානයට යෙදෙන්නේ නෑ. 'It mustn't be true' ✗. එතනට 'can't' යොදන්න.",
+      "explain": "Must be and can't be carry the deduction. Mustn't is never the opposite of must here — can't is.",
+      "formula": "must (be) = නිසැකවම එහෙමයි  ·  can't (be) = නිසැකවම එහෙම නෑ",
+      "table": {
+        "headers": [
+          "English",
+          "සිංහල",
+          "අර්ථය"
+        ],
+        "rows": [
+          [
+            "You must be tired.",
+            "ඔයා මහන්සි ඇති",
+            "නිශ්චිත අනුමානය"
+          ],
+          [
+            "That can't be right.",
+            "ඒක හරි වෙන්න බෑ",
+            "නිශ්චිතව නෑ"
+          ],
+          [
+            "She must know him.",
+            "ඇය එයාව දන්නවා ඇති",
+            "නිශ්චිත අනුමානය"
+          ],
+          [
+            "He can't be at work.",
+            "එයා වැඩේ ඉන්න බෑ",
+            "නිශ්චිතව නෑ"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "You've walked from the junction — you must be exhausted.",
+          "si": "හන්දියේ ඉඳන් ඇවිදගෙන ආවා නම් ඔයා හරිම මහන්සි ඇති."
+        },
+        {
+          "en": "That can't be Kumar. He's in Dubai.",
+          "si": "ඒක කුමාර් වෙන්න බෑ. එයා ඩුබායි."
+        },
+        {
+          "en": "The lights are on, so somebody must be inside.",
+          "si": "ලයිට් දාලා, ඒ නිසා ඇතුළේ කවුරු හරි ඇති."
+        }
+      ],
+      "watchOutSi": "'must not' කියන එකේ තේරුම 'කරන්න එපා' කියන එකයි — b1-05 හි ඉගෙන ගත්තා. අනුමානයේ විරුද්ධ පැත්ත can't. මේ දෙක පටලවා ගන්නේ නෑ."
+    },
+    {
+      "type": "grammar",
+      "title": "How sure? must, might, can't",
+      "titleSi": "කොච්චර නිශ්චිතද? must, might, can't",
+      "explainSi": "b1-15 හි ඉගෙන ගත්ත මට්ටම් මෙතනටත් එනවා, ඒත් දැන් සිද්ධ වෙන දෙයක් ගැන:\n\nmust be — 95%. සාක්ෂි තියෙනවා.\n'The car is gone. He must be at work.'\n\ncould be / might be — 50%. වෙන්නත් පුළුවන්.\n'He might be at work. Or at his sister's.'\n\ncan't be — 5%. සාක්ෂි විරුද්ධයි.\n'He can't be at work. It's Sunday.'\n\nතුනම එකම වාක්‍යයේ තියන්න පුළුවන්:\n\n'Whose bag is this? It can't be mine — mine is black. It might be Priya's. Actually it must be hers, her book is inside.'\n\nඅනුමානයක් කිව්වට පස්සේ හේතුව කියන එක ස්වාභාවිකයි. හේතුව නැති අනුමානයක් ඇහෙන්නේ අමුතුයි.\n\n'You must be hungry — you haven't eaten since morning.'",
+      "explain": "Must be is near-certain, might be is even odds, can't be is near-impossible. A deduction usually comes with its evidence.",
+      "formula": "must be (95%) · could/might be (50%) · can't be (5%)",
+      "table": {
+        "headers": [
+          "මට්ටම",
+          "යෙදුම",
+          "උදාහරණය"
+        ],
+        "rows": [
+          [
+            "නිසැකවම එහෙමයි",
+            "must be",
+            "She must be his sister."
+          ],
+          [
+            "වෙන්නත් පුළුවන්",
+            "might be / could be",
+            "She might be his sister."
+          ],
+          [
+            "නිසැකවම නෑ",
+            "can't be",
+            "She can't be his sister."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "It must be broken — I've tried three times.",
+          "si": "ඒක කැඩිලා ඇති — මම තුන් පාරක් උත්සාහ කළා."
+        },
+        {
+          "en": "This can't be the right road. There's no bridge.",
+          "si": "මේක හරි පාර වෙන්න බෑ. පාලමක් නෑ."
+        },
+        {
+          "en": "He could be stuck in traffic.",
+          "si": "එයා ට්‍රැෆික් එකේ හිරවෙලා ඉන්නත් පුළුවන්."
+        }
+      ],
+      "watchOutSi": "'can' කියන එක අනුමානයට යෙදෙන්නේ නෑ. 'He can be at home' ✗ (එයා ගෙදර ඇති කියන අර්ථයෙන්). 'He could be at home' ✓ නැත්නම් 'He might be at home' ✓."
+    },
+    {
+      "type": "grammar",
+      "title": "Guessing about the past",
+      "titleSi": "අතීතය ගැන අනුමානය",
+      "explainSi": "අනුමානය අතීතයේ දෙයක් ගැන නම්, have + past participle එකතු වෙනවා.\n\n'She must have missed the bus.' — ඇයට බස් එක මඟ ඇරිලා ඇති.\n'He can't have finished already.' — එයාට දැනටමත් ඉවර කරන්න බෑ.\n'They might have forgotten.' — ඒගොල්ලන්ට අමතක වෙලා ඇති.\n\nරටාව: modal + have + past participle. Modal එක කවදාවත් වෙනස් වෙන්නේ නෑ.\n\nකථාවේදී 'have' කියන එක 'ඇව්' වගේ කෙටියෙන් ඇහෙනවා — 'must've', 'might've', 'can't have'.\n\nමේක b1-17 හි විස්තරාත්මකව එනවා. දැනට මතක තියාගන්න ඕන එකම දේ: වර්තමානය ගැන නම් 'must be'; අතීතය ගැන නම් 'must have been'.\n\n'He must be ill.' — එයා අසනීප ඇති (දැන්).\n'He must have been ill.' — එයා අසනීප වෙලා ඇති (එදා).",
+      "explain": "For a past guess, add have plus the past participle. Present: must be. Past: must have been.",
+      "formula": "must / can't / might + have + past participle",
+      "table": {
+        "headers": [
+          "වර්තමානය",
+          "අතීතය",
+          "සිංහල"
+        ],
+        "rows": [
+          [
+            "She must be tired.",
+            "She must have been tired.",
+            "මහන්සි ඇති / මහන්සි වෙලා ඇති"
+          ],
+          [
+            "It can't be true.",
+            "It can't have been true.",
+            "ඇත්ත වෙන්න බෑ / ඇත්ත වෙලා තියෙන්න බෑ"
+          ],
+          [
+            "They might be lost.",
+            "They might have got lost.",
+            "පාර වැරදිලා ඇති"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "The gate is open — somebody must have come.",
+          "si": "ගේට්ටුව ඇරලා — කවුරු හරි ඇවිත් ඇති."
+        },
+        {
+          "en": "You can't have seen him. He left on Monday.",
+          "si": "ඔයාට එයාව දැකලා තියෙන්න බෑ. එයා සඳුදා ගියා."
+        }
+      ],
+      "watchOutSi": "'must have' කියන එකට 'had' යෙදෙන්නේ නෑ. 'He must had gone' ✗ — 'He must have gone' ✓. Modal එකකට පස්සේ හැමවිටම මූලික ආකෘතිය, ඒ නිසා 'have'."
+    },
+    {
+      "type": "vocab",
+      "title": "Evidence and guessing",
+      "titleSi": "සාක්ෂි සහ අනුමානය",
+      "introSi": "අනුමානයක් කරනකොට හේතුව කියන්නත් වචන ඕන.",
+      "items": [
+        {
+          "en": "must be",
+          "si": "...ඇති",
+          "say": "මස්ට් බී",
+          "exampleEn": "You must be tired.",
+          "exampleSi": "ඔයා මහන්සි ඇති."
+        },
+        {
+          "en": "can't be",
+          "si": "...වෙන්න බෑ",
+          "say": "කාන්ට් බී",
+          "exampleEn": "That can't be right.",
+          "exampleSi": "ඒක හරි වෙන්න බෑ."
+        },
+        {
+          "en": "could be",
+          "si": "...වෙන්නත් පුළුවන්",
+          "say": "කුඩ් බී",
+          "exampleEn": "It could be the wind.",
+          "exampleSi": "ඒක සුළඟ වෙන්නත් පුළුවන්."
+        },
+        {
+          "en": "obviously",
+          "si": "පැහැදිලිවම",
+          "say": "ඔබ්වියස්ලි",
+          "exampleEn": "Obviously he forgot.",
+          "exampleSi": "පැහැදිලිවම එයාට අමතක වුණා."
+        },
+        {
+          "en": "evidence",
+          "si": "සාක්ෂිය",
+          "say": "එවිඩන්ස්",
+          "exampleEn": "There's no evidence.",
+          "exampleSi": "සාක්ෂියක් නෑ."
+        },
+        {
+          "en": "guess",
+          "si": "අනුමානය",
+          "say": "ගෙස්",
+          "exampleEn": "That's just a guess.",
+          "exampleSi": "ඒක අනුමානයක් විතරයි."
+        },
+        {
+          "en": "sure",
+          "si": "නිශ්චිතයි",
+          "say": "ෂුවර්",
+          "exampleEn": "Are you sure?",
+          "exampleSi": "නිශ්චිතද?"
+        },
+        {
+          "en": "impossible",
+          "si": "කළ නොහැකියි",
+          "say": "ඉම්පොසිබල්",
+          "exampleEn": "That's impossible.",
+          "exampleSi": "ඒක කරන්න බෑ."
+        },
+        {
+          "en": "stuck",
+          "si": "හිරවෙලා",
+          "say": "ස්ටක්",
+          "exampleEn": "He must be stuck in traffic.",
+          "exampleSi": "එයා ට්‍රැෆික් එකේ හිරවෙලා ඇති."
+        },
+        {
+          "en": "lost",
+          "si": "පාර වැරදිලා",
+          "say": "ලොස්ට්",
+          "exampleEn": "They might be lost.",
+          "exampleSi": "ඒගොල්ලෝ පාර වැරදිලා ඇති."
+        },
+        {
+          "en": "asleep",
+          "si": "නිදාගෙන",
+          "say": "අස්ලීප්",
+          "exampleEn": "She must be asleep.",
+          "exampleSi": "ඇය නිදාගෙන ඇති."
+        },
+        {
+          "en": "broken",
+          "si": "කැඩිලා",
+          "say": "බ්‍රෝකන්",
+          "exampleEn": "It must be broken.",
+          "exampleSi": "ඒක කැඩිලා ඇති."
+        },
+        {
+          "en": "on purpose",
+          "si": "දැනගෙනම",
+          "say": "ඔන් පර්පස්",
+          "exampleEn": "He can't have done it on purpose.",
+          "exampleSi": "එයා දැනගෙන ඒක කරලා තියෙන්න බෑ."
+        },
+        {
+          "en": "look like",
+          "si": "වගේ පේනවා",
+          "say": "ලුක් ලයික්",
+          "exampleEn": "It looks like rain.",
+          "exampleSi": "වහිනවා වගේ පේනවා."
+        },
+        {
+          "en": "sound like",
+          "si": "වගේ ඇහෙනවා",
+          "say": "සවුන්ඩ් ලයික්",
+          "exampleEn": "That sounds like her.",
+          "exampleSi": "ඒක ඇය වගේ ඇහෙනවා."
+        },
+        {
+          "en": "no wonder",
+          "si": "පුදුමයක් නෑ",
+          "say": "නෝ වන්ඩර්",
+          "exampleEn": "No wonder you're tired.",
+          "exampleSi": "ඔයා මහන්සි වෙන එකේ පුදුමයක් නෑ."
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "Whose bag is this?",
+      "titleSi": "මේ බෑග් එක කාගේද?",
+      "settingSi": "පන්ති කාමරයක. අනුමාන තුනක් — නිශ්චිත නැති එකේ ඉඳන් නිශ්චිත එකට.",
+      "lines": [
+        {
+          "speaker": "Nadeesha",
+          "en": "Somebody has left a bag. Is it yours?",
+          "si": "කවුරු හරි බෑග් එකක් තියලා ගිහින්. ඔයාගේද?"
+        },
+        {
+          "speaker": "Ruwan",
+          "en": "It can't be mine. Mine is black.",
+          "si": "ඒක මගේ වෙන්න බෑ. මගේ එක කළු."
+        },
+        {
+          "speaker": "Nadeesha",
+          "en": "It might be Priya's. She was sitting here.",
+          "si": "ඒක ප්‍රියාගේ වෙන්නත් පුළුවන්. ඇය මෙතන ඉඳගෙන හිටියා."
+        },
+        {
+          "speaker": "Ruwan",
+          "en": "Open it — carefully.",
+          "si": "ඇරලා බලන්න — හෙමින්."
+        },
+        {
+          "speaker": "Nadeesha",
+          "en": "There's a maths book with her name. It must be hers.",
+          "si": "ඇයගේ නම තියෙන ගණන් පොතක් තියෙනවා. ඒක ඇයගේ තමයි."
+        },
+        {
+          "speaker": "Ruwan",
+          "en": "She must have left in a hurry. She never forgets anything.",
+          "si": "ඇය ඉක්මනට ගිහින් ඇති. ඇයට කවදාවත් මොකුත් අමතක වෙන්නේ නෑ."
+        },
+        {
+          "speaker": "Nadeesha",
+          "en": "Her mother is ill. That could be why.",
+          "si": "ඇයගේ අම්මා අසනීපයි. ඒක හේතුව වෙන්නත් පුළුවන්."
+        }
+      ]
+    },
+    {
+      "type": "story",
+      "title": "The light in the upstairs room",
+      "titleSi": "උඩ තට්ටුවේ එළිය",
+      "introSi": "අනුමාන කරන කතාවක්. හැම අනුමානයකටම සාක්ෂිය මොකක්ද කියලා බලන්න.",
+      "paragraphs": [
+        {
+          "en": "The house at the end of the lane had been empty for two years. On Thursday night there was a light in the upstairs room.",
+          "si": "පාර අගදී තිබුණු ගෙදර අවුරුදු දෙකක් හිස්ව තිබුණා. බ්‍රහස්පතින්දා රෑ උඩ තට්ටුවේ කාමරයේ එළියක් තිබුණා."
+        },
+        {
+          "en": "\"It must be the owner,\" said Sarath. \"He can't have sold it — there was never a board.\"",
+          "si": "\"ඒක අයිතිකාරයා වෙන්න ඕන,\" සරත් කිව්වා. \"එයාට ඒක විකුණලා තියෙන්න බෑ — කවදාවත් බෝඩ් එකක් තිබුණේ නෑ.\""
+        },
+        {
+          "en": "\"It might be somebody checking the roof,\" said his wife. \"At eleven at night?\" he said. \"Nobody checks a roof at eleven.\"",
+          "si": "\"වහලේ බලන කවුරු හරි වෙන්නත් පුළුවන්,\" එයාගේ බිරිඳ කිව්වා. \"රෑ එකොළහටද?\" එයා කිව්වා. \"රෑ එකොළහට කවුරුවත් වහලේ බලන්නේ නෑ.\""
+        },
+        {
+          "en": "In the morning the light was still on, and the front door was open. The owner's son had come back from abroad with no key and no telephone, and had climbed in through the kitchen window like a boy.",
+          "si": "උදේ වෙනකොටත් එළිය දාලා, ඉස්සරහ දොර ඇරලා. අයිතිකාරයාගේ පුතා යතුරක්වත් ෆෝන් එකක්වත් නැතුව විදේශයෙන් ඇවිත්, පොඩි එකෙක් වගේ කුස්සියේ ජනේලෙන් නැගලා ඇතුළට ගිහින්."
+        }
+      ],
+      "glossary": [
+        {
+          "en": "owner",
+          "si": "අයිතිකාරයා"
+        },
+        {
+          "en": "board (for sale)",
+          "si": "බෝඩ් එක"
+        },
+        {
+          "en": "roof",
+          "si": "වහලය"
+        },
+        {
+          "en": "climb in",
+          "si": "නැගලා ඇතුළට යනවා"
+        }
+      ],
+      "questionsSi": [
+        "සරත්ගේ අනුමානය මොකක්ද? ඒකට සාක්ෂිය මොකක්ද?",
+        "'He can't have sold it' කියලා කිව්වේ ඇයි?",
+        "අන්තිමට ඇත්ත මොකක්ද? අනුමාන දෙකෙන් එකක්වත් හරි වුණාද?"
+      ]
+    },
+    {
+      "type": "tip",
+      "title": "Give the evidence",
+      "titleSi": "සාක්ෂිය කියන්න",
+      "bodySi": "අනුමානයක් තනියම කිව්වොත් ඒක අණක් වගේ ඇහෙනවා. සාක්ෂිය එකතු කරන්න:\n\n'You must be tired.' — හරි.\n'You must be tired — you've been standing since six.' — ගොඩක් හොඳයි.\n\n'That can't be right.' — හරි.\n'That can't be right — the total is more than we paid.' — ගොඩක් හොඳයි.\n\nඉංග්‍රීසි කථාවේදී අනුමානය සහ ඒකේ හේතුව එකට එනවා. 'because', '—' නැත්නම් හුදෙක් ඊළඟ වාක්‍යය.",
+      "body": "A deduction on its own sounds like a pronouncement. Say what you are deducing it from."
+    },
+    {
+      "type": "practice",
+      "title": "must, might or can't?",
+      "titleSi": "must ද, might ද, can't ද?",
+      "instructionSi": "සාක්ෂිය කියවලා ගැලපෙන එක තෝරන්න.",
+      "items": [
+        {
+          "prompt": "The lights are on and the car is outside. Somebody ___ be at home.",
+          "answer": "must",
+          "hintSi": "සාක්ෂි දෙකක් — නිශ්චිතයි.",
+          "full": "Somebody must be at home."
+        },
+        {
+          "prompt": "He's in Dubai until March. That ___ be him.",
+          "answer": "can't",
+          "hintSi": "සාක්ෂිය විරුද්ධයි.",
+          "full": "That can't be him."
+        },
+        {
+          "prompt": "I don't know where she is. She ___ be at her sister's.",
+          "answer": "might",
+          "hintSi": "නිශ්චිත නෑ.",
+          "full": "She might be at her sister's."
+        },
+        {
+          "prompt": "You've walked ten kilometres. You ___ be exhausted.",
+          "answer": "must",
+          "hintSi": "සාක්ෂිය පැහැදිලියි.",
+          "full": "You must be exhausted."
+        },
+        {
+          "prompt": "The shop opens at nine and it's only seven. It ___ be open.",
+          "answer": "can't",
+          "hintSi": "වෙලාව විරුද්ධයි.",
+          "full": "It can't be open."
+        },
+        {
+          "prompt": "The gate is open. Somebody ___ have come in.",
+          "answer": "must",
+          "hintSi": "අතීතය ගැන — must + have.",
+          "full": "Somebody must have come in."
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "b1-16-q1",
+      "q": "'You must be tired' — මෙතන 'must' කරන්නේ මොකක්ද?",
+      "options": [
+        "නියෝගයක් දෙනවා",
+        "සාක්ෂි මත නිශ්චිත අනුමානයක් කරනවා",
+        "අවසර ඉල්ලනවා",
+        "අනාගතය කියනවා"
+      ],
+      "answer": 1,
+      "explainSi": "මේ 'must' නියෝගයක් නෙවෙයි — අනුමානයක්."
+    },
+    {
+      "id": "b1-16-q2",
+      "q": "'must' කියන අනුමානයේ විරුද්ධ පැත්ත?",
+      "options": [
+        "mustn't",
+        "can't",
+        "don't have to",
+        "shouldn't"
+      ],
+      "answer": 1,
+      "explainSi": "'It can't be true.' — mustn't කියන්නේ 'කරන්න එපා'."
+    },
+    {
+      "id": "b1-16-q3",
+      "q": "'ඒක හරි වෙන්න බෑ' — කොහොමද?",
+      "options": [
+        "That mustn't be right.",
+        "That can't be right.",
+        "That doesn't can be right.",
+        "That can't right."
+      ],
+      "answer": 1,
+      "explainSi": "can't + be.",
+      "speak": "That can't be right."
+    },
+    {
+      "id": "b1-16-q4",
+      "q": "'ලයිට් දාලා, ඒ නිසා ඇතුළේ කවුරු හරි ඇති' — කොහොමද?",
+      "options": [
+        "Somebody must be inside.",
+        "Somebody must inside.",
+        "Somebody can be inside.",
+        "Somebody mustn't be inside."
+      ],
+      "answer": 0,
+      "explainSi": "must + be + තැන.",
+      "speak": "The lights are on, so somebody must be inside."
+    },
+    {
+      "id": "b1-16-q5",
+      "q": "නිශ්චිතභාවය අනුව පිළිවෙළ කුමක්ද?",
+      "options": [
+        "can't be → might be → must be",
+        "must be → can't be → might be",
+        "might be → must be → can't be",
+        "must be → might be → can't be"
+      ],
+      "answer": 3,
+      "explainSi": "must be (95%) → might be (50%) → can't be (5%)."
+    },
+    {
+      "id": "b1-16-q6",
+      "q": "අතීතය ගැන අනුමානයක් කරන රටාව?",
+      "options": [
+        "must + had + past participle",
+        "must + have + past participle",
+        "must + was + -ing",
+        "must + to have"
+      ],
+      "answer": 1,
+      "explainSi": "'She must have missed the bus.'"
+    },
+    {
+      "id": "b1-16-q7",
+      "q": "කුමන එක වැරදිද?",
+      "options": [
+        "He must have gone.",
+        "He must had gone.",
+        "He can't have seen it.",
+        "They might have forgotten."
+      ],
+      "answer": 1,
+      "explainSi": "Modal එකකට පස්සේ මූලික ආකෘතිය — 'have', 'had' නෙවෙයි."
+    },
+    {
+      "id": "b1-16-q8",
+      "q": "'He must be ill' සහ 'He must have been ill' — වෙනස?",
+      "options": [
+        "වෙනසක් නෑ",
+        "පළවෙනි එක දැන් ගැන, දෙවෙනි එක එදා ගැන",
+        "දෙවෙනි එක වැරදියි",
+        "පළවෙනි එක අනාගතය"
+      ],
+      "answer": 1,
+      "explainSi": "must be = වර්තමානය. must have been = අතීතය."
+    },
+    {
+      "id": "b1-16-q9",
+      "q": "'I can't swim' සහ 'It can't be true' — 'can't' කරන්නේ එකම දෙයද?",
+      "options": [
+        "ඔව්",
+        "නෑ — එකක් හැකියාව, අනිත් එක නිශ්චිත අනුමානය",
+        "දෙකම හැකියාව",
+        "දෙකම වැරදියි"
+      ],
+      "answer": 1,
+      "explainSi": "can't එකට වැඩ දෙකක් තියෙනවා. සන්දර්භයෙන් තේරෙනවා."
+    },
+    {
+      "id": "b1-16-q10",
+      "q": "හිස් තැනට: 'He's in Dubai until March. That ___ be him.'",
+      "options": [
+        "must",
+        "can't",
+        "might",
+        "should"
+      ],
+      "answer": 1,
+      "explainSi": "සාක්ෂිය විරුද්ධයි — can't."
+    },
+    {
+      "id": "b1-16-q11",
+      "q": "'He can be at home' (එයා ගෙදර ඇති කියන අර්ථයෙන්) — මේක හරිද?",
+      "options": [
+        "ඔව්",
+        "නෑ — 'could be' නැත්නම් 'might be' කියන්න",
+        "ඔව්, ඒත් 'must' හොඳයි",
+        "නෑ, 'can't be' කියන්න"
+      ],
+      "answer": 1,
+      "explainSi": "'can' අනුමානයට යෙදෙන්නේ නෑ. 'could' හෝ 'might'."
+    },
+    {
+      "id": "b1-16-q12",
+      "q": "අනුමානයක් කරනකොට එකතු කරන්න හොඳම දේ?",
+      "options": [
+        "තව අනුමානයක්",
+        "සාක්ෂිය — ඇයි එහෙම හිතන්නේ කියන එක",
+        "සමාවක්",
+        "ප්‍රශ්නයක්"
+      ],
+      "answer": 1,
+      "explainSi": "'You must be tired — you've been standing since six.'"
+    },
+    {
+      "id": "b1-16-q13",
+      "q": "'ගේට්ටුව ඇරලා — කවුරු හරි ඇවිත් ඇති' — කොහොමද?",
+      "options": [
+        "Somebody must come.",
+        "Somebody must have come.",
+        "Somebody can't have come.",
+        "Somebody might came."
+      ],
+      "answer": 1,
+      "explainSi": "අතීතය ගැන අනුමානය — must have come.",
+      "speak": "The gate is open — somebody must have come."
+    },
+    {
+      "id": "b1-16-q14",
+      "q": "'It mustn't be true' — මේකේ ප්‍රශ්නය?",
+      "options": [
+        "ප්‍රශ්නයක් නෑ",
+        "අනුමානයට mustn't යෙදෙන්නේ නෑ — 'can't be' කියන්න",
+        "'true' වැරදියි",
+        "'it' වැරදියි"
+      ],
+      "answer": 1,
+      "explainSi": "mustn't = කරන්න එපා. අනුමානයේ නෑ කියන පැත්ත can't."
+    },
+    {
+      "id": "b1-16-q15",
+      "q": "හිස් තැනට: 'I don't know where she is. She ___ be at her sister's.'",
+      "options": [
+        "must",
+        "can't",
+        "might",
+        "mustn't"
+      ],
+      "answer": 2,
+      "explainSi": "නිශ්චිත නෑ — might."
+    },
+    {
+      "id": "b1-16-q16",
+      "q": "'No wonder you're tired' කියන්නේ කවදාද?",
+      "options": [
+        "පුදුම වුණාම",
+        "හේතුව තේරුණාම — 'ඒකේ පුදුමයක් නෑ'",
+        "තරහ ගියාම",
+        "සමාව ඉල්ලනකොට"
+      ],
+      "answer": 1,
+      "explainSi": "සාක්ෂිය අහලා අනුමානය තහවුරු වුණාම."
+    },
+    {
+      "id": "b1-16-q17",
+      "q": "'You can't have seen him. He left on Monday.' — දෙවෙනි වාක්‍යය කරන්නේ?",
+      "options": [
+        "අනුමානය කරනවා",
+        "සාක්ෂිය දෙනවා",
+        "ප්‍රශ්නයක් අහනවා",
+        "සමාව ඉල්ලනවා"
+      ],
+      "answer": 1,
+      "explainSi": "අනුමානය + සාක්ෂිය — ඒක ස්වාභාවික රටාව."
+    },
+    {
+      "id": "b1-16-q18",
+      "q": "b1-05 හි 'You must wear a helmet' සහ මෙතන 'You must be tired' —",
+      "options": [
+        "එකම වැඩේ",
+        "එකම වචනය, වෙනස් වැඩ දෙකක්",
+        "දෙවෙනි එක වැරදියි",
+        "පළවෙනි එක වැරදියි"
+      ],
+      "answer": 1,
+      "explainSi": "එකක් නියෝගය, අනිත් එක අනුමානය."
+    }
+  ],
+  "vocab": [
+    {
+      "en": "must be",
+      "si": "...ඇති",
+      "say": "මස්ට් බී",
+      "exampleEn": "You must be tired.",
+      "exampleSi": "ඔයා මහන්සි ඇති."
+    },
+    {
+      "en": "can't be",
+      "si": "...වෙන්න බෑ",
+      "say": "කාන්ට් බී",
+      "exampleEn": "That can't be right.",
+      "exampleSi": "ඒක හරි වෙන්න බෑ."
+    },
+    {
+      "en": "could be",
+      "si": "...වෙන්නත් පුළුවන්",
+      "say": "කුඩ් බී",
+      "exampleEn": "It could be the wind.",
+      "exampleSi": "ඒක සුළඟ වෙන්නත් පුළුවන්."
+    },
+    {
+      "en": "obviously",
+      "si": "පැහැදිලිවම",
+      "say": "ඔබ්වියස්ලි",
+      "exampleEn": "Obviously he forgot.",
+      "exampleSi": "පැහැදිලිවම එයාට අමතක වුණා."
+    },
+    {
+      "en": "evidence",
+      "si": "සාක්ෂිය",
+      "say": "එවිඩන්ස්",
+      "exampleEn": "There's no evidence.",
+      "exampleSi": "සාක්ෂියක් නෑ."
+    },
+    {
+      "en": "guess",
+      "si": "අනුමානය",
+      "say": "ගෙස්",
+      "exampleEn": "That's just a guess.",
+      "exampleSi": "ඒක අනුමානයක් විතරයි."
+    },
+    {
+      "en": "sure",
+      "si": "නිශ්චිතයි",
+      "say": "ෂුවර්",
+      "exampleEn": "Are you sure?",
+      "exampleSi": "නිශ්චිතද?"
+    },
+    {
+      "en": "impossible",
+      "si": "කළ නොහැකියි",
+      "say": "ඉම්පොසිබල්",
+      "exampleEn": "That's impossible.",
+      "exampleSi": "ඒක කරන්න බෑ."
+    },
+    {
+      "en": "stuck",
+      "si": "හිරවෙලා",
+      "say": "ස්ටක්",
+      "exampleEn": "He must be stuck in traffic.",
+      "exampleSi": "එයා ට්‍රැෆික් එකේ හිරවෙලා ඇති."
+    },
+    {
+      "en": "lost",
+      "si": "පාර වැරදිලා",
+      "say": "ලොස්ට්",
+      "exampleEn": "They might be lost.",
+      "exampleSi": "ඒගොල්ලෝ පාර වැරදිලා ඇති."
+    },
+    {
+      "en": "asleep",
+      "si": "නිදාගෙන",
+      "say": "අස්ලීප්",
+      "exampleEn": "She must be asleep.",
+      "exampleSi": "ඇය නිදාගෙන ඇති."
+    },
+    {
+      "en": "broken",
+      "si": "කැඩිලා",
+      "say": "බ්‍රෝකන්",
+      "exampleEn": "It must be broken.",
+      "exampleSi": "ඒක කැඩිලා ඇති."
+    },
+    {
+      "en": "on purpose",
+      "si": "දැනගෙනම",
+      "say": "ඔන් පර්පස්",
+      "exampleEn": "He can't have done it on purpose.",
+      "exampleSi": "එයා දැනගෙන ඒක කරලා තියෙන්න බෑ."
+    },
+    {
+      "en": "look like",
+      "si": "වගේ පේනවා",
+      "say": "ලුක් ලයික්",
+      "exampleEn": "It looks like rain.",
+      "exampleSi": "වහිනවා වගේ පේනවා."
+    },
+    {
+      "en": "sound like",
+      "si": "වගේ ඇහෙනවා",
+      "say": "සවුන්ඩ් ලයික්",
+      "exampleEn": "That sounds like her.",
+      "exampleSi": "ඒක ඇය වගේ ඇහෙනවා."
+    },
+    {
+      "en": "no wonder",
+      "si": "පුදුමයක් නෑ",
+      "say": "නෝ වන්ඩර්",
+      "exampleEn": "No wonder you're tired.",
+      "exampleSi": "ඔයා මහන්සි වෙන එකේ පුදුමයක් නෑ."
+    }
+  ]
+}

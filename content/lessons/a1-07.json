@@ -1,0 +1,900 @@
+{
+  "hero": {
+    "src": "images/a1-07-hero.webp",
+    "alt": "Nadeesha at a kitchen table laid with a plate of rice and curry, a cup of tea, bread, a jug of milk and a bowl of eggs, reaching for the teacup, warm afternoon light."
+  },
+  "goalsSi": [
+    "කෑම සහ බීම වචන",
+    "ගණන් කළ හැකි සහ ගණන් කළ නොහැකි නාම පද වෙන් කර හඳුනා ගැනීම",
+    "some / any නිවැරදිව යෙදීම",
+    "How much? සහ How many? අතර වෙනස",
+    "අවන්හලක ඇණවුම් කිරීම සහ බිල ඉල්ලීම"
+  ],
+  "goals": [
+    "Talk about meals and food",
+    "Tell countable from uncountable nouns",
+    "Use some, any, how much and how many",
+    "Order food and ask for the bill"
+  ],
+  "sections": [
+    {
+      "type": "note",
+      "title": "Things you can count, things you cannot",
+      "titleSi": "ගණන් කරන්න පුළුවන් දේ, බැරි දේ",
+      "bodySi": "සිංහලෙන් 'බත් දෙකක්' කියන්න පුළුවන් — අපිට තේරෙනවා ඒ කියන්නේ බත් පිඟන් දෙකක් කියලා. නමුත් ඉංග්‍රීසියෙන් 'two rices' කියලා කියන්න බෑ. වැරදියි.\n\nඉංග්‍රීසිය නාම පද කොටස් දෙකකට බෙදනවා. එකින් එක ගණන් කරන්න පුළුවන් දේ (apple, egg, cup) සහ ගොඩක් හෝ ප්‍රමාණයක් විදිහට විතරක් කථා කරන දේ (rice, water, sugar).\n\nදෙවැනි කොටස ගණන් කරන්න නම්, බඳුනක් හෝ ඒකකයක් අවශ්‍යයි: 'a plate of rice', 'two cups of tea'. මේක ඉංග්‍රීසි ඉගෙන ගන්න සිංහල කථිකයන්ට මුලින්ම අමාරු තැනක් — නමුත් නීතිය සරලයි.",
+      "body": "English splits nouns into things you can count and things you can only measure."
+    },
+    {
+      "type": "vocab",
+      "title": "Food and drink",
+      "titleSi": "කෑම සහ බීම",
+      "introSi": "වචනය ඉගෙන ගද්දීම එය ගණන් කළ හැකිද නැද්ද කියලත් මතක තියාගන්න. පසුව නීති මතක තියාගන්නවාට වඩා පහසුයි.",
+      "items": [
+        {
+          "en": "rice",
+          "si": "බත්",
+          "say": "රයිස්",
+          "exampleEn": "I eat rice every day.",
+          "exampleSi": "මම හැම දාම බත් කනවා."
+        },
+        {
+          "en": "bread",
+          "si": "පාන්",
+          "say": "බ්‍රෙඩ්",
+          "exampleEn": "There is some bread on the table.",
+          "exampleSi": "මේසේ පාන් ටිකක් තියෙනවා."
+        },
+        {
+          "en": "water",
+          "si": "වතුර",
+          "say": "වෝටර්",
+          "exampleEn": "Can I have some water, please?",
+          "exampleSi": "කරුණාකර වතුර ටිකක් දෙන්න පුළුවන්ද?"
+        },
+        {
+          "en": "tea",
+          "si": "තේ",
+          "say": "ටී",
+          "exampleEn": "She drinks tea in the morning.",
+          "exampleSi": "එයා උදේට තේ බොනවා."
+        },
+        {
+          "en": "milk",
+          "si": "කිරි",
+          "say": "මිල්ක්"
+        },
+        {
+          "en": "sugar",
+          "si": "සීනි",
+          "say": "ෂුගර්",
+          "exampleEn": "I don't take sugar in my tea.",
+          "exampleSi": "මම තේකට සීනි ගන්නේ නෑ."
+        },
+        {
+          "en": "egg",
+          "si": "බිත්තරය",
+          "say": "එග්",
+          "exampleEn": "I want two eggs.",
+          "exampleSi": "මට බිත්තර දෙකක් ඕන."
+        },
+        {
+          "en": "fish",
+          "si": "මාළු",
+          "say": "ෆිෂ්"
+        },
+        {
+          "en": "chicken",
+          "si": "කුකුල් මස්",
+          "say": "චිකන්"
+        },
+        {
+          "en": "vegetable",
+          "si": "එළවළු",
+          "say": "වෙජිටබල්"
+        },
+        {
+          "en": "fruit",
+          "si": "පලතුරු",
+          "say": "ෆෘට්"
+        },
+        {
+          "en": "banana",
+          "si": "කෙසෙල්",
+          "say": "බනානා",
+          "exampleEn": "There are three bananas in the bag.",
+          "exampleSi": "බෑග් එකේ කෙසෙල් තුනක් තියෙනවා."
+        },
+        {
+          "en": "breakfast",
+          "si": "උදේ කෑම",
+          "say": "බ්‍රෙක්ෆස්ට්",
+          "exampleEn": "Breakfast is at seven.",
+          "exampleSi": "උදේ කෑම හතට."
+        },
+        {
+          "en": "lunch",
+          "si": "දවල් කෑම",
+          "say": "ලන්ච්"
+        },
+        {
+          "en": "dinner",
+          "si": "රෑ කෑම",
+          "say": "ඩිනර්"
+        },
+        {
+          "en": "menu",
+          "si": "කෑම ලැයිස්තුව",
+          "say": "මෙනියු"
+        },
+        {
+          "en": "bill",
+          "si": "බිල",
+          "say": "බිල්",
+          "exampleEn": "Could we have the bill, please?",
+          "exampleSi": "කරුණාකර බිල ගේන්න පුළුවන්ද?"
+        },
+        {
+          "en": "delicious",
+          "si": "රසවත්",
+          "say": "ඩිලිෂස්",
+          "exampleEn": "This rice is delicious.",
+          "exampleSi": "මේ බත් රසවත්."
+        }
+      ]
+    },
+    {
+      "type": "grammar",
+      "title": "Countable and uncountable",
+      "titleSi": "ගණන් කළ හැකි සහ නොහැකි",
+      "explainSi": "ගණන් කළ හැකි නාම පදවලට බහුවචනයක් තියෙනවා (one apple, two apples) සහ 'a' යෙදෙනවා. ගණන් කළ නොහැකි ඒවාට බහුවචනයක් නෑ, 'a' යෙදෙන්නේ නෑ, සහ ක්‍රියාව හැම විටම එකවචනයි.",
+      "formula": "a/an + countable  ·  some + uncountable  ·  a cup of + uncountable",
+      "table": {
+        "headers": [
+          "ගණන් කළ හැකි",
+          "ගණන් කළ නොහැකි",
+          "බඳුනක් සමඟ"
+        ],
+        "rows": [
+          [
+            "an apple / two apples",
+            "rice",
+            "a plate of rice"
+          ],
+          [
+            "an egg / six eggs",
+            "water",
+            "a glass of water"
+          ],
+          [
+            "a cup / three cups",
+            "tea",
+            "two cups of tea"
+          ],
+          [
+            "a banana / five bananas",
+            "sugar",
+            "a spoon of sugar"
+          ],
+          [
+            "a bottle / four bottles",
+            "milk",
+            "a bottle of milk"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "I would like a glass of water, please.",
+          "si": "කරුණාකර මට වතුර වීදුරුවක් ඕන."
+        },
+        {
+          "en": "She bought six eggs and some bread at the market.",
+          "si": "එයා වෙළඳපොළෙන් බිත්තර හයක් සහ පාන් ටිකක් ගත්තා."
+        },
+        {
+          "en": "There is not much sugar left in the jar.",
+          "si": "බෝතලේ ඉතුරු වෙලා තියෙන සීනි ගොඩක් නෑ."
+        },
+        {
+          "en": "We need two bottles of milk for the week.",
+          "si": "සතියට අපිට කිරි බෝතල් දෙකක් ඕන."
+        }
+      ],
+      "watchOutSi": "'two rices', 'many waters', 'a bread' — මේ තුනම වැරදියි. ඒ වෙනුවට 'two plates of rice', 'a lot of water', 'some bread' කියන්න."
+    },
+    {
+      "type": "grammar",
+      "title": "some, any, how much, how many",
+      "titleSi": "some, any, how much, how many",
+      "explainSi": "'some' සහ 'any' දෙකම 'ටිකක්' කියන අර්ථය දෙනවා. වෙනස තියෙන්නේ වාක්‍ය වර්ගයේ: ධනාත්මක වාක්‍යවලට some, නැහැ කියන වාක්‍ය සහ ප්‍රශ්නවලට any.\n\nප්‍රමාණය අහද්දී නාම පදය ගණන් කළ හැකිද කියලා බලන්න: ගණන් කළ හැකි නම් How many, නොහැකි නම් How much.",
+      "formula": "some → positive  ·  any → negative & question  ·  How many + countable  ·  How much + uncountable",
+      "table": {
+        "headers": [
+          "වර්ගය",
+          "උදාහරණය",
+          "සිංහල"
+        ],
+        "rows": [
+          [
+            "ධනාත්මක",
+            "There is some milk in the fridge.",
+            "ශීතකරණයේ කිරි ටිකක් තියෙනවා."
+          ],
+          [
+            "නැහැ",
+            "There isn't any milk in the fridge.",
+            "ශීතකරණයේ කිරි නෑ."
+          ],
+          [
+            "ප්‍රශ්නය",
+            "Is there any milk in the fridge?",
+            "ශීතකරණයේ කිරි තියෙනවාද?"
+          ],
+          [
+            "ආචාරශීලී ඉල්ලීම",
+            "Could I have some water?",
+            "මට වතුර ටිකක් ලැබෙන්න පුළුවන්ද?"
+          ],
+          [
+            "ගණන් කළ හැකි",
+            "How many eggs do we need?",
+            "අපිට බිත්තර කීයක් ඕනද?"
+          ],
+          [
+            "ගණන් කළ නොහැකි",
+            "How much rice do we need?",
+            "අපිට බත් කොච්චර ඕනද?"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "I bought some vegetables, but I didn't buy any fruit.",
+          "si": "මම එළවළු ටිකක් ගත්තා, හැබැයි පලතුරු ගත්තේ නෑ."
+        },
+        {
+          "en": "How many people are coming to dinner tonight?",
+          "si": "අද රෑ කෑමට කී දෙනෙක් එනවාද?"
+        },
+        {
+          "en": "How much water do you drink every day?",
+          "si": "ඔබ දවසකට කොච්චර වතුර බොනවාද?"
+        }
+      ],
+      "watchOutSi": "ආචාරශීලීව යමක් ඉල්ලද්දී ප්‍රශ්නයක් වුණත් 'some' යෙදෙනවා: 'Would you like some tea?' මෙය ඉල්ලීමක් මිස තොරතුරු ඇසීමක් නොවන නිසා."
+    },
+    {
+      "type": "story",
+      "title": "Saturday at the Market",
+      "titleSi": "සෙනසුරාදා වෙළඳපොළේ",
+      "introSi": "මෙය මීට කලින් පාඩම්වලට වඩා දිගු කියවීමක්. වාක්‍ය දිගයි, එකකට වඩා අදහස් තියෙනවා. හෙමින් කියවන්න — ප්‍රශ්නවලට පිළිතුරු දෙන්න මේක හොඳින් තේරුම් ගන්න ඕන.",
+      "paragraphs": [
+        {
+          "en": "Every Saturday morning, my mother and I walk to the market near the temple. We leave the house at half past six, because the vegetables are fresh and cheap early in the day.",
+          "si": "හැම සෙනසුරාදා උදෙන්ම, මමයි අම්මයි පන්සල ළඟ වෙළඳපොළට ඇවිදගෙන යනවා. උදේ එළවළු නැවුම් සහ ලාභ නිසා අපි ගෙදරින් හය හමාරට පිටත් වෙනවා."
+        },
+        {
+          "en": "My mother always carries a list. Today the list is short: some rice, two kilos of vegetables, a bottle of oil, and six eggs.",
+          "si": "අම්මා හැම විටම ලැයිස්තුවක් අරගෙන යනවා. අද ලැයිස්තුව කෙටියි: බත් ටිකක්, එළවළු කිලෝ දෙකක්, තෙල් බෝතලයක්, සහ බිත්තර හයක්."
+        },
+        {
+          "en": "The market is very busy. There are many people, and the sellers call out the prices of their fruit and fish.",
+          "si": "වෙළඳපොළ ගොඩක් කාර්යබහුලයි. මිනිස්සු ගොඩක් ඉන්නවා, විකුණන අය ඔවුන්ගේ පලතුරු සහ මාළුවල මිල කෑගහනවා."
+        },
+        {
+          "en": "\"How much is a kilo of beans?\" my mother asks a woman with a red umbrella. \"Two hundred rupees,\" the woman answers.",
+          "si": "\"බෝංචි කිලෝ එකක් කීයද?\" අම්මා රතු කුඩයක් තියෙන කාන්තාවකගෙන් අහනවා. \"රුපියල් දෙසීයයි,\" කාන්තාව උත්තර දෙනවා."
+        },
+        {
+          "en": "My mother does not buy the beans. She says they are not cheap today, and we walk to another seller.",
+          "si": "අම්මා බෝංචි ගන්නේ නෑ. අද ඒවා ලාභ නෑ කියලා එයා කියනවා, අපි තව විකුණන කෙනෙක් ළඟට යනවා."
+        },
+        {
+          "en": "At the end, we have two heavy bags. I carry one bag and my mother carries the other. We do not buy any fish today, because we have some in the fridge at home.",
+          "si": "අන්තිමට අපිට බර බෑග් දෙකක් තියෙනවා. මම එක බෑග් එකක් අරගෙන යනවා, අම්මා අනිත් එක. අද අපි මාළු ගන්නේ නෑ, මොකද ගෙදර ශීතකරණයේ ටිකක් තියෙන නිසා."
+        },
+        {
+          "en": "On the way home we stop at a small shop and drink a cup of tea. It is only ten o'clock, and the whole day is still in front of us.",
+          "si": "ගෙදර යනගමන් අපි පොඩි කඩයක නවතිනවා, තේ කෝප්පයක් බොනවා. තාම දහයයි, මුළු දවසම තව අපි ඉදිරියේ තියෙනවා."
+        }
+      ],
+      "glossary": [
+        {
+          "en": "market",
+          "si": "වෙළඳපොළ"
+        },
+        {
+          "en": "fresh",
+          "si": "නැවුම්"
+        },
+        {
+          "en": "cheap",
+          "si": "ලාභ"
+        },
+        {
+          "en": "list",
+          "si": "ලැයිස්තුව"
+        },
+        {
+          "en": "oil",
+          "si": "තෙල්"
+        },
+        {
+          "en": "seller",
+          "si": "විකුණන්නා"
+        },
+        {
+          "en": "price",
+          "si": "මිල"
+        },
+        {
+          "en": "umbrella",
+          "si": "කුඩය"
+        },
+        {
+          "en": "heavy",
+          "si": "බර"
+        },
+        {
+          "en": "fridge",
+          "si": "ශීතකරණය"
+        },
+        {
+          "en": "carry",
+          "si": "අරගෙන යනවා"
+        }
+      ],
+      "questionsSi": [
+        "ඔවුන් ගෙදරින් පිටත් වෙන්නේ කීයටද, සහ ඇයි ඒ තරම් උදෙන්ම?",
+        "ලැයිස්තුවේ තිබුණු දේවල් හතර මොනවාද?",
+        "අම්මා බෝංචි නොගත්තේ ඇයි?",
+        "අද මාළු නොගත්තේ ඇයි?"
+      ]
+    },
+    {
+      "type": "poem",
+      "title": "A Cup of Tea",
+      "titleSi": "තේ කෝප්පයක්",
+      "introSi": "සරල කවියක්. එකම රටාව නැවත නැවත එනවා — 'some' සහ 'a' යෙදෙන තැන් බලන්න.",
+      "lines": [
+        {
+          "en": "Some water in the pot,",
+          "si": "වළඳේ වතුර ටිකක්,"
+        },
+        {
+          "en": "A little milk, some tea,",
+          "si": "කිරි ටිකක්, තේ ටිකක්,"
+        },
+        {
+          "en": "One spoon of sugar, please —",
+          "si": "සීනි හැන්දක්, කරුණාකර —"
+        },
+        {
+          "en": "That is enough for me.",
+          "si": "මට ඒක ඇති."
+        },
+        {
+          "en": "",
+          "si": ""
+        },
+        {
+          "en": "No sugar for my mother,",
+          "si": "අම්මාට සීනි නෑ,"
+        },
+        {
+          "en": "She likes it strong and plain.",
+          "si": "එයාට තදට, සරලව ඕන."
+        },
+        {
+          "en": "We drink it in the morning,",
+          "si": "අපි උදේට බොනවා,"
+        },
+        {
+          "en": "And later, in the rain.",
+          "si": "පස්සේ, වැස්සේදීත්."
+        }
+      ],
+      "noteSi": "'a little' කියන්නේ 'ටිකක්' — ගණන් කළ නොහැකි දේවලට. ගණන් කළ හැකි දේවලට 'a few' කියනවා: a few eggs."
+    },
+    {
+      "type": "dialogue",
+      "title": "At the café",
+      "titleSi": "කැෆේ එකේ",
+      "settingSi": "දිල්කි කැෆේ එකකට ගිහින් ඇණවුම් කරනවා. මේ වචන ටික මතක තියාගත්තොත් ඕනෑම අවන්හලක ඇණවුම් කරන්න පුළුවන්.",
+      "lines": [
+        {
+          "speaker": "Waiter",
+          "en": "Good afternoon. Here is the menu.",
+          "si": "සුබ දහවලක්. මේ කෑම ලැයිස්තුව."
+        },
+        {
+          "speaker": "Dilki",
+          "en": "Thank you. Could I have a few minutes?",
+          "si": "ස්තූතියි. මට මිනිත්තු කීපයක් දෙන්න පුළුවන්ද?"
+        },
+        {
+          "speaker": "Waiter",
+          "en": "Of course. Would you like some water while you wait?",
+          "si": "ඇත්තෙන්ම. බලාගෙන ඉන්නකොට වතුර ටිකක් ඕනද?"
+        },
+        {
+          "speaker": "Dilki",
+          "en": "Yes, please. And I am ready to order now.",
+          "si": "ඔව්, කරුණාකර. දැන් මම ඇණවුම් කරන්න සූදානම්."
+        },
+        {
+          "speaker": "Waiter",
+          "en": "What would you like?",
+          "si": "ඔබට මොනවද ඕන?"
+        },
+        {
+          "speaker": "Dilki",
+          "en": "I would like rice and vegetables, and a cup of tea without sugar.",
+          "si": "මට බත් සහ එළවළු, සහ සීනි නැති තේ කෝප්පයක් ඕන."
+        },
+        {
+          "speaker": "Waiter",
+          "en": "Anything else?",
+          "si": "තව මොනවහරි?"
+        },
+        {
+          "speaker": "Dilki",
+          "en": "No, thank you. That is all.",
+          "si": "නෑ, ස්තූතියි. ඒක ඇති."
+        },
+        {
+          "speaker": "Dilki",
+          "en": "Excuse me, could we have the bill, please?",
+          "si": "සමාවෙන්න, කරුණාකර බිල ගේන්න පුළුවන්ද?"
+        },
+        {
+          "speaker": "Waiter",
+          "en": "Certainly. It is one thousand two hundred rupees.",
+          "si": "ඇත්තෙන්ම. රුපියල් එක්දහස් දෙසීයයි."
+        }
+      ]
+    },
+    {
+      "type": "tip",
+      "title": "'I would like' is softer than 'I want'",
+      "titleSi": "'I want' වලට වඩා 'I would like' මෘදුයි",
+      "bodySi": "'I want rice' කියන එක වැරදි නෑ, නමුත් ටිකක් රළුයි — ළමයෙක් කියනවා වගේ. 'I would like rice' කියන එක ආචාරශීලීයි, සහ අවන්හලක, කඩේක, ඕනෑම තැනක භාවිත කරන්න පුළුවන්. කෙටියෙන් 'I'd like' කියනවා.",
+      "body": "'I would like' is the polite way to ask for something."
+    },
+    {
+      "type": "practice",
+      "title": "some or any?",
+      "titleSi": "some නැත්නම් any?",
+      "instructionSi": "නිවැරදි වචනය ලියන්න: some හෝ any.",
+      "items": [
+        {
+          "prompt": "There is ___ rice in the pot.",
+          "answer": "some",
+          "hintSi": "ධනාත්මක වාක්‍යයක්.",
+          "full": "There is some rice in the pot."
+        },
+        {
+          "prompt": "We don't have ___ milk today.",
+          "answer": "any",
+          "hintSi": "නැහැ කියන වාක්‍යයක්.",
+          "full": "We don't have any milk today."
+        },
+        {
+          "prompt": "Is there ___ water in the bottle?",
+          "answer": "any",
+          "hintSi": "ප්‍රශ්නයක්.",
+          "full": "Is there any water in the bottle?"
+        },
+        {
+          "prompt": "Would you like ___ tea?",
+          "answer": "some",
+          "hintSi": "ප්‍රශ්නයක් වුණත් මේක ඉල්ලීමක්.",
+          "full": "Would you like some tea?"
+        },
+        {
+          "prompt": "She bought ___ vegetables at the market.",
+          "answer": "some",
+          "hintSi": "ධනාත්මක.",
+          "full": "She bought some vegetables at the market."
+        },
+        {
+          "prompt": "I didn't eat ___ fruit yesterday.",
+          "answer": "any",
+          "hintSi": "නැහැ කියන වාක්‍යයක්.",
+          "full": "I didn't eat any fruit yesterday."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "en": "rice",
+      "si": "බත්"
+    },
+    {
+      "en": "bread",
+      "si": "පාන්"
+    },
+    {
+      "en": "water",
+      "si": "වතුර"
+    },
+    {
+      "en": "tea",
+      "si": "තේ"
+    },
+    {
+      "en": "milk",
+      "si": "කිරි"
+    },
+    {
+      "en": "sugar",
+      "si": "සීනි"
+    },
+    {
+      "en": "egg",
+      "si": "බිත්තරය"
+    },
+    {
+      "en": "fish",
+      "si": "මාළු"
+    },
+    {
+      "en": "chicken",
+      "si": "කුකුල් මස්"
+    },
+    {
+      "en": "vegetable",
+      "si": "එළවළු"
+    },
+    {
+      "en": "fruit",
+      "si": "පලතුරු"
+    },
+    {
+      "en": "banana",
+      "si": "කෙසෙල්"
+    },
+    {
+      "en": "breakfast",
+      "si": "උදේ කෑම"
+    },
+    {
+      "en": "lunch",
+      "si": "දවල් කෑම"
+    },
+    {
+      "en": "dinner",
+      "si": "රෑ කෑම"
+    },
+    {
+      "en": "menu",
+      "si": "කෑම ලැයිස්තුව"
+    },
+    {
+      "en": "bill",
+      "si": "බිල"
+    },
+    {
+      "en": "market",
+      "si": "වෙළඳපොළ"
+    },
+    {
+      "en": "fresh",
+      "si": "නැවුම්"
+    },
+    {
+      "en": "cheap",
+      "si": "ලාභ"
+    },
+    {
+      "en": "price",
+      "si": "මිල"
+    },
+    {
+      "en": "fridge",
+      "si": "ශීතකරණය"
+    },
+    {
+      "en": "delicious",
+      "si": "රසවත්"
+    },
+    {
+      "en": "enough",
+      "si": "ප්‍රමාණවත්"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "a1-07-q1",
+      "q": "'මට වතුර ටිකක් ඕන' — වඩාත් ස්වාභාවික ඉංග්‍රීසිය?",
+      "options": [
+        "I want a water.",
+        "I would like some water.",
+        "I would like a waters.",
+        "I like some waters."
+      ],
+      "answer": 1,
+      "explainSi": "'water' ගණන් කළ නොහැකි නිසා 'a' හෝ බහුවචනය යෙදෙන්නේ නෑ. 'I would like' ආචාරශීලීයි.",
+      "speak": "I would like some water."
+    },
+    {
+      "id": "a1-07-q2",
+      "q": "පහත වචනවලින් ගණන් කළ නොහැක්කේ කුමක්ද?",
+      "options": [
+        "egg",
+        "banana",
+        "sugar",
+        "cup"
+      ],
+      "answer": 2,
+      "explainSi": "සීනි කැට එකින් එක ගණන් කරන්නේ නෑ. 'two sugars' නෙවෙයි, 'two spoons of sugar'."
+    },
+    {
+      "id": "a1-07-q3",
+      "q": "'බත් පිඟන් දෙකක්' — ඉංග්‍රීසියෙන් නිවැරදිව?",
+      "options": [
+        "two rices",
+        "two rice",
+        "two plates of rice",
+        "two of rice"
+      ],
+      "answer": 2,
+      "explainSi": "ගණන් කළ නොහැකි දෙයක් ගණන් කරන්න බඳුනක් හෝ ඒකකයක් අවශ්‍යයි: a plate of rice.",
+      "speak": "Two plates of rice, please."
+    },
+    {
+      "id": "a1-07-q4",
+      "q": "'There isn't ___ bread in the kitchen.' — හිස්තැනට?",
+      "options": [
+        "some",
+        "any",
+        "a",
+        "many"
+      ],
+      "answer": 1,
+      "explainSi": "නැහැ කියන වාක්‍යවලට 'any' යෙදෙනවා.",
+      "speak": "There isn't any bread in the kitchen."
+    },
+    {
+      "id": "a1-07-q5",
+      "q": "'Would you like ___ tea?' — මෙතන ප්‍රශ්නයක් වුණත් 'some' යෙදෙන්නේ ඇයි?",
+      "options": [
+        "'tea' ගණන් කළ නොහැකි නිසා",
+        "මෙය තොරතුරු ඇසීමක් නොව ඉල්ලීමක් / පිරිනැමීමක් නිසා",
+        "'Would' සමඟ හැම විටම some යෙදෙන නිසා",
+        "ප්‍රශ්නවලට any සහ some දෙකම එකසේ යෙදෙන නිසා"
+      ],
+      "answer": 1,
+      "explainSi": "යමක් පිරිනමන විට හෝ ආචාරශීලීව ඉල්ලන විට, ප්‍රශ්නයක් වුණත් 'some' යෙදෙනවා.",
+      "speak": "Would you like some tea?"
+    },
+    {
+      "id": "a1-07-q6",
+      "q": "'___ eggs do we need for the cake?' — හිස්තැනට?",
+      "options": [
+        "How much",
+        "How many",
+        "How long",
+        "How some"
+      ],
+      "answer": 1,
+      "explainSi": "'eggs' ගණන් කළ හැකි නිසා 'How many'.",
+      "speak": "How many eggs do we need for the cake?"
+    },
+    {
+      "id": "a1-07-q7",
+      "q": "'___ water do you drink every day?' — හිස්තැනට?",
+      "options": [
+        "How many",
+        "How much",
+        "How often",
+        "How far"
+      ],
+      "answer": 1,
+      "explainSi": "'water' ගණන් කළ නොහැකි නිසා 'How much'.",
+      "speak": "How much water do you drink every day?"
+    },
+    {
+      "id": "a1-07-q8",
+      "q": "කුමන වාක්‍යය නිවැරදිද?",
+      "options": [
+        "I bought a bread and two milks.",
+        "I bought some bread and two bottles of milk.",
+        "I bought some breads and two milk.",
+        "I bought bread and milks."
+      ],
+      "answer": 1,
+      "explainSi": "bread සහ milk දෙකම ගණන් කළ නොහැකියි. 'some bread', සහ කිරි ගණන් කරන්න 'bottles of'.",
+      "speak": "I bought some bread and two bottles of milk."
+    },
+    {
+      "id": "a1-07-q9",
+      "q": "'a little' සහ 'a few' අතර වෙනස කුමක්ද?",
+      "options": [
+        "'a little' කුඩා දේවලට, 'a few' ලොකු දේවලට",
+        "'a little' ගණන් කළ නොහැකි දේවලට, 'a few' ගණන් කළ හැකි දේවලට",
+        "දෙකම එකමයි",
+        "'a few' ආචාරශීලීයි, 'a little' නෑ"
+      ],
+      "answer": 1,
+      "explainSi": "a little water, a little sugar — නමුත් a few eggs, a few bananas."
+    },
+    {
+      "id": "a1-07-q10",
+      "q": "අවන්හලේදී බිල ඉල්ලන්නේ කොහොමද?",
+      "options": [
+        "Give me money paper.",
+        "Could we have the bill, please?",
+        "How much I pay you now?",
+        "I want to go, bill."
+      ],
+      "answer": 1,
+      "explainSi": "'Could we have …, please?' යනු ආචාරශීලීම ක්‍රමය. ඇමරිකාවේ 'the check' කියනවා.",
+      "speak": "Could we have the bill, please?"
+    },
+    {
+      "id": "a1-07-q11",
+      "context": "We leave the house at half past six, because the vegetables are fresh and cheap early in the day.",
+      "contextSi": "උදේ එළවළු නැවුම් සහ ලාභ නිසා අපි ගෙදරින් හය හමාරට පිටත් වෙනවා.",
+      "q": "කතාව අනුව: ඔවුන් ගෙදරින් පිටත් වෙන්නේ කීයටද?",
+      "options": [
+        "හය හමාරට",
+        "හතට",
+        "හය හමාරට කලින්",
+        "දහයට"
+      ],
+      "answer": 0,
+      "explainSi": "'We leave the house at half past six' — හය හමාරයි."
+    },
+    {
+      "id": "a1-07-q12",
+      "context": "We leave the house at half past six, because the vegetables are fresh and cheap early in the day.",
+      "contextSi": "උදේ එළවළු නැවුම් සහ ලාභ නිසා අපි ගෙදරින් හය හමාරට පිටත් වෙනවා.",
+      "q": "කතාව අනුව: ඔවුන් උදෙන්ම යන්නේ ඇයි?",
+      "options": [
+        "වෙළඳපොළ උදේට විතරයි විවෘත",
+        "එළවළු නැවුම් සහ ලාභ නිසා",
+        "අම්මාට වැඩට යන්න ඕන නිසා",
+        "රස්නෙ නිසා"
+      ],
+      "answer": 1,
+      "explainSi": "'because the vegetables are fresh and cheap early in the day'."
+    },
+    {
+      "id": "a1-07-q13",
+      "context": "My mother does not buy the beans. She says they are not cheap today, and we walk to another seller.",
+      "contextSi": "අම්මා බෝංචි ගන්නේ නෑ. අද ඒවා ලාභ නෑ කියලා එයා කියනවා, අපි තව විකුණන කෙනෙක් ළඟට යනවා.",
+      "q": "කතාව අනුව: අම්මා බෝංචි නොගත්තේ ඇයි?",
+      "options": [
+        "බෝංචි ලැයිස්තුවේ තිබුණේ නෑ",
+        "විකුණන කාන්තාව රළුයි",
+        "අද ඒවා ලාභ නෑ කියලා එයාට හිතුණා",
+        "බෝංචි ඉවර වෙලා"
+      ],
+      "answer": 2,
+      "explainSi": "'She says they are not cheap today' — මිල ගැන අතෘප්තිය නිසා."
+    },
+    {
+      "id": "a1-07-q14",
+      "context": "We do not buy any fish today, because we have some in the fridge at home.",
+      "contextSi": "අද අපි මාළු ගන්නේ නෑ, මොකද ගෙදර ශීතකරණයේ ටිකක් තියෙන නිසා.",
+      "q": "කතාව අනුව: අද මාළු නොගත්තේ ඇයි?",
+      "options": [
+        "මාළු මිල අධික නිසා",
+        "ගෙදර ශීතකරණයේ ටිකක් තියෙන නිසා",
+        "බෑග් බර වැඩි නිසා",
+        "මාළු නැවුම් නොවූ නිසා"
+      ],
+      "answer": 1,
+      "explainSi": "'because we have some in the fridge at home'."
+    },
+    {
+      "id": "a1-07-q15",
+      "context": "The market is very busy. There are many people, and the sellers call out the prices of their fruit and fish.",
+      "contextSi": "වෙළඳපොළ ගොඩක් කාර්යබහුලයි. මිනිස්සු ගොඩක් ඉන්නවා, විකුණන අය ඔවුන්ගේ පලතුරු සහ මාළුවල මිල කෑගහනවා.",
+      "q": "කතාවේ 'The market is very busy' කියන්නේ මොකක්ද?",
+      "options": [
+        "වෙළඳපොළ විශාලයි",
+        "වෙළඳපොළේ මිනිස්සු ගොඩක් සහ කලබලයි",
+        "වෙළඳපොළ වහලා",
+        "වෙළඳපොළ ලාභයි"
+      ],
+      "answer": 1,
+      "explainSi": "'busy' යනු මිනිසුන් සහ ක්‍රියාකාරකම් ගොඩක් තියෙන බව. ඊළඟ වාක්‍යයම එය පැහැදිලි කරනවා."
+    },
+    {
+      "id": "a1-07-q16",
+      "context": "No sugar for my mother, / She likes it strong and plain.",
+      "contextSi": "අම්මාට සීනි නෑ, / එයාට තදට, සරලව ඕන.",
+      "q": "කවියේ අම්මා තේ බොන්නේ කොහොමද?",
+      "options": [
+        "සීනි සමඟ",
+        "කිරි නැතුව",
+        "සීනි නැතුව, තදට",
+        "අයිස් සමඟ"
+      ],
+      "answer": 2,
+      "explainSi": "'No sugar for my mother, She likes it strong and plain.'"
+    },
+    {
+      "id": "a1-07-q17",
+      "q": "'I'd like' යනු කුමක්ද?",
+      "options": [
+        "I did like",
+        "I would like",
+        "I already like",
+        "I will like"
+      ],
+      "answer": 1,
+      "explainSi": "would → 'd. එනිසා 'I'd like' = 'I would like'.",
+      "speak": "I'd like a cup of tea."
+    },
+    {
+      "id": "a1-07-q18",
+      "q": "'There ___ some rice and two eggs on the plate.' — හිස්තැනට?",
+      "options": [
+        "are",
+        "is",
+        "have",
+        "be"
+      ],
+      "answer": 1,
+      "explainSi": "වහාම පසුව එන්නේ 'some rice' — ගණන් කළ නොහැකි, එකවචන ලෙස සලකනවා. එනිසා 'is'.",
+      "speak": "There is some rice and two eggs on the plate."
+    },
+    {
+      "id": "a1-07-q19",
+      "q": "සේවකයා 'Anything else?' කියද්දී අහන්නේ මොකක්ද?",
+      "options": [
+        "ඔබ මුදල් ගෙවනවාද?",
+        "තව මොනවහරි ඇණවුම් කරනවාද?",
+        "ඔබට කෑම රස වුණාද?",
+        "ඔබ තව ඉන්නවාද?"
+      ],
+      "answer": 1,
+      "explainSi": "'Anything else?' = 'තව මොනවහරි ඕනද?' පිළිතුර: 'No, thank you. That is all.'",
+      "speak": "Anything else? No, thank you. That is all."
+    },
+    {
+      "id": "a1-07-q20",
+      "q": "කුමන වාක්‍යය වැරදිද?",
+      "options": [
+        "How much sugar do you want?",
+        "How many bananas do you want?",
+        "How much bananas do you want?",
+        "How many cups do you want?"
+      ],
+      "answer": 2,
+      "explainSi": "'bananas' ගණන් කළ හැකි නිසා 'How many' යෙදිය යුතුයි.",
+      "speak": "How many bananas do you want?"
+    },
+    {
+      "id": "a1-07-q21",
+      "q": "'We need a ___ of oil and a ___ of tea.' — පිළිවෙළින් වඩාත් ගැළපෙන්නේ?",
+      "options": [
+        "bottle / cup",
+        "cup / bottle",
+        "plate / spoon",
+        "glass / plate"
+      ],
+      "answer": 0,
+      "explainSi": "තෙල් බෝතලයකින්, තේ කෝප්පයකින්. නිවැරදි බඳුන තෝරාගැනීම ඉංග්‍රීසියේ වැදගත්.",
+      "speak": "We need a bottle of oil and a cup of tea."
+    },
+    {
+      "id": "a1-07-q22",
+      "context": "It is only ten o'clock, and the whole day is still in front of us.",
+      "contextSi": "තාම දහයයි, මුළු දවසම තව අපි ඉදිරියේ තියෙනවා.",
+      "q": "කතාවේ අවසානයේ වේලාව කීයද, සහ ඒ ගැන කියන කෙනා මොකද හිතන්නේ?",
+      "options": [
+        "දහයයි — දවස ඉවරයි කියලා",
+        "දහයයි — තව මුළු දවසම ඉතුරුයි කියලා",
+        "දොළහයි — දවල් කෑම වෙලාව කියලා",
+        "අටයි — තව ඉක්මන් කියලා"
+      ],
+      "answer": 1,
+      "explainSi": "'It is only ten o'clock, and the whole day is still in front of us.' — 'only' කියන වචනය සතුටක් පෙන්නනවා."
+    }
+  ]
+}

@@ -1,0 +1,780 @@
+{
+  "hero": {
+    "src": "images/b1-22-hero.webp",
+    "alt": "Ruwan marking up a printed page with a red pen at a desk, crossing out and joining lines, papers and a lamp around him."
+  },
+  "goalsSi": [
+    "however, therefore, so — වාක්‍ය දෙකක් අතරේ සම්බන්ධය පෙන්නන්න",
+    "however සහ but අතර වෙනස",
+    "විරාම ලකුණු — කොමාව සහ තිත",
+    "because, because of, since, as — හේතුව",
+    "although, even though, despite — විරෝධය",
+    "වචනය වාක්‍යයේ තියෙන්නේ කොහෙද කියන එක"
+  ],
+  "goals": [
+    "Link two sentences with however, therefore and so",
+    "Tell however and but apart",
+    "Punctuate connectors correctly",
+    "Give causes with because, because of, since and as",
+    "Concede with although, even though and despite",
+    "Place each connector correctly"
+  ],
+  "sections": [
+    {
+      "type": "note",
+      "title": "The joins are the argument",
+      "titleSi": "සම්බන්ධ තමයි තර්කය",
+      "bodySi": "b1-12 හි ඉගෙන ගත්තා පිළිවෙළ කියන වචන — first, then, finally. ඒවා කාලය සම්බන්ධ කරනවා.\n\nදැන් අමාරු එක. තර්කය සම්බන්ධ කරන වචන.\n\nමේ වාක්‍ය දෙක බලන්න:\n\n'The bus is cheaper. It takes six hours.'\n\nමේ දෙක අතරේ තියෙන සම්බන්ධය මොකක්ද? කියලා නෑ. අහන කෙනාට හිතාගන්න වෙනවා.\n\nදැන් මේවා බලන්න:\n\n'The bus is cheaper. However, it takes six hours.' — ලාභයි, ඒත් අවාසියක්.\n'The bus is cheaper. Therefore, we took it.' — ලාභයි, ඒ නිසා ගත්තා.\n\nඑකම වාක්‍ය දෙක. එක වචනයක් වෙනස්. අර්ථය සම්පූර්ණයෙන්ම වෙනස්.\n\nCEFR B1 හි මේකට කියන්නේ 'Connecting words expressing cause and effect, contrast'. ලියන එකේදී මේවා නැත්නම් ලියවිල්ල වාක්‍ය ගොඩක් විතරයි — තර්කයක් නෙවෙයි.",
+      "body": "Sequence words join time. These join logic. The same two sentences mean different things depending on the word between them."
+    },
+    {
+      "type": "grammar",
+      "title": "however, therefore, so",
+      "titleSi": "however, therefore, so",
+      "explainSi": "තුනම වාක්‍ය දෙකක් සම්බන්ධ කරනවා, ඒත් වෙනස් විදිහට.\n\n'However' — විරෝධය. 'ඒත්', 'නමුත්'.\n'Therefore' — ප්‍රතිඵලය. 'ඒ නිසා'.\n'So' — ප්‍රතිඵලය, ඒත් සරලයි, කථාවට ගැලපෙනවා.\n\nදැන් වැදගත්ම දේ — විරාම ලකුණු. මේකෙන් තමයි වැරදෙන්නේ.\n\n'However' සහ 'therefore' කියන්නේ ක්‍රියා විශේෂණ, බන්ධක නෙවෙයි. ඒ නිසා ඒවාට වාක්‍ය දෙකක් එකට බඳින්න බෑ. අලුත් වාක්‍යයක් පටන් ගන්න ඕන:\n\n✓ 'It is cheaper. However, it is slower.'\n✓ 'It is cheaper; however, it is slower.'\n✗ 'It is cheaper, however it is slower.'\n\n'So' සහ 'but' කියන්නේ බන්ධක. ඒවාට වාක්‍ය දෙකක් බඳින්න පුළුවන්:\n\n✓ 'It is cheaper, so we took it.'\n✓ 'It is cheaper, but it is slower.'\n\nරීතිය: however/therefore එකට කලින් තිතක් හෝ අර්ධ විරාමයක්. so/but එකට කලින් කොමාවක්.",
+      "explain": "However and therefore are adverbs — they start a new sentence. So and but are conjunctions — they join two clauses with a comma.",
+      "formula": "… . However, …  ·  … , but …  ·  … , so …",
+      "table": {
+        "headers": [
+          "වචනය",
+          "වර්ගය",
+          "විරාම ලකුණ"
+        ],
+        "rows": [
+          [
+            "however",
+            "ක්‍රියා විශේෂණ",
+            ". However, / ; however,"
+          ],
+          [
+            "therefore",
+            "ක්‍රියා විශේෂණ",
+            ". Therefore, / ; therefore,"
+          ],
+          [
+            "but",
+            "බන්ධක",
+            ", but"
+          ],
+          [
+            "so",
+            "බන්ධක",
+            ", so"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "The train was full. However, we found two seats at the back.",
+          "si": "කෝච්චිය පිරිලා. ඒත් අපිට පිටිපස්සේ සීට් දෙකක් හම්බ වුණා."
+        },
+        {
+          "en": "The road was flooded. Therefore, the school closed.",
+          "si": "පාර යටවෙලා. ඒ නිසා ඉස්කෝලේ වහලා."
+        },
+        {
+          "en": "It started raining, so we went inside.",
+          "si": "වහින්න පටන් ගත්තා, ඒ නිසා අපි ඇතුළට ගියා."
+        }
+      ],
+      "watchOutSi": "'However' සහ 'but' එකම දේ නෙවෙයි කියලා හිතන්න එපා — අර්ථය එකයි, ඒත් ව්‍යාකරණ දෙකක්. 'but' වාක්‍යය මැදට; 'however' අලුත් වාක්‍යයක් මුලට."
+    },
+    {
+      "type": "grammar",
+      "title": "Giving the cause",
+      "titleSi": "හේතුව දීම",
+      "explainSi": "හේතුව කියන්න ක්‍රම කීපයක් තියෙනවා. වෙනස තියෙන්නේ ඊට පස්සේ එන දේ.\n\nbecause + වාක්‍යයක් (subject + ක්‍රියාව)\n'We stayed home because it was raining.'\n\nbecause of + නාම පදයක් (ක්‍රියාවක් නෑ)\n'We stayed home because of the rain.'\n\nමේක බහුලම වැරැද්දක්: 'because of it was raining' ✗. 'because of' එකට පස්සේ නාම පදයක් විතරයි.\n\nsince / as — because එකට සමානයි, ටිකක් විධිමත්. සාමාන්‍යයෙන් වාක්‍යය මුලට.\n'Since the road was closed, we walked.'\n'As it was late, we took a taxi.'\n\ndue to — විධිමත්. නිවේදනවලට.\n'The delay was due to the weather.'\n\nතව එකක්: 'because' කියන එකෙන් වාක්‍යයක් පටන් ගන්න පුළුවන් — 'Because it was raining, we stayed home.' ඒක හරි. ඒත් 'Because it was raining.' කියලා තනියම ලිව්වොත් ඒක සම්පූර්ණ වාක්‍යයක් නෙවෙයි.",
+      "explain": "because takes a clause; because of takes a noun. Since and as are the same idea, a little more formal.",
+      "formula": "because + subject + ක්‍රියාව  ·  because of + නාම පදය",
+      "table": {
+        "headers": [
+          "යෙදුම",
+          "ඊළඟට",
+          "උදාහරණය"
+        ],
+        "rows": [
+          [
+            "because",
+            "වාක්‍යයක්",
+            "because it was raining"
+          ],
+          [
+            "because of",
+            "නාම පදයක්",
+            "because of the rain"
+          ],
+          [
+            "since / as",
+            "වාක්‍යයක්",
+            "since the road was closed"
+          ],
+          [
+            "due to",
+            "නාම පදයක් (විධිමත්)",
+            "due to the weather"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "The match was cancelled because of the rain.",
+          "si": "වැස්ස නිසා තරගය අවලංගු කළා."
+        },
+        {
+          "en": "The match was cancelled because it rained all day.",
+          "si": "දවස පුරාම වහපු නිසා තරගය අවලංගු කළා."
+        },
+        {
+          "en": "As we were early, we walked around the lake.",
+          "si": "අපි කලින් ආපු නිසා වැව වටේ ඇවිද්දා."
+        }
+      ],
+      "watchOutSi": "'Due to' කියන එක කථාවේදී යෙදුවොත් ටිකක් බරයි. යාළුවෙක් එක්ක 'because of' කියන එක ස්වාභාවිකයි."
+    },
+    {
+      "type": "grammar",
+      "title": "although, even though, despite",
+      "titleSi": "although, even though, despite",
+      "explainSi": "මේවා 'ඒක එහෙම වුණත්' කියන අදහස දෙනවා — බලාපොරොත්තු නොවුණු දෙයක්.\n\nalthough / even though + වාක්‍යයක්\n'Although it was raining, we went out.'\n'Even though he was tired, he finished.'\n\n'Even though' කියන එක 'although' එකට වඩා ටිකක් බලවත් — පුදුමය වැඩියි.\n\ndespite / in spite of + නාම පදයක්\n'Despite the rain, we went out.'\n'In spite of his age, he still works.'\n\nදැන් බහුලම වැරැද්ද: 'despite of' ✗. 'Despite' එකට 'of' යෙදෙන්නේ නෑ. 'In spite of' එකට තියෙනවා. දෙක පටලවා ගන්නවා.\n\n✓ despite the rain\n✓ in spite of the rain\n✗ despite of the rain\n\nතව එකක්: ක්‍රියාවක් ඕන නම් 'despite' එකට -ing දාන්න පුළුවන් — 'Despite being tired, he finished.'\n\nඅවසාන රීතිය: although වාක්‍යයක් ගන්නවා, despite නාම පදයක් ගන්නවා. ඒක 'because' සහ 'because of' වගේම.",
+      "explain": "although and even though take a clause; despite and in spite of take a noun. There is no such thing as despite of.",
+      "formula": "although + වාක්‍යය  ·  despite + නාම පදය / -ing",
+      "table": {
+        "headers": [
+          "හරි",
+          "වැරදි"
+        ],
+        "rows": [
+          [
+            "Although it was late, …",
+            "Although of the time, …"
+          ],
+          [
+            "Despite the rain, …",
+            "Despite of the rain, …"
+          ],
+          [
+            "In spite of the rain, …",
+            "In spite the rain, …"
+          ],
+          [
+            "Despite being tired, …",
+            "Despite he was tired, …"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "Although the shop was closed, the lights were on.",
+          "si": "සාප්පුව වහලා තිබුණත් ලයිට් දාලා තිබුණා."
+        },
+        {
+          "en": "Despite the price, it sold out in a week.",
+          "si": "ගාන එහෙම වුණත් සතියකින් ඒක ඉවර වුණා."
+        },
+        {
+          "en": "Even though I had studied, I failed.",
+          "si": "මම ඉගෙන ගත්තත් මම අසමත් වුණා."
+        }
+      ],
+      "watchOutSi": "'Although' යෙදූ වාක්‍යයකට 'but' එකතු කරන්න එපා. 'Although it was raining, but we went out' ✗. එකක් ඇති — 'Although it was raining, we went out' ✓."
+    },
+    {
+      "type": "vocab",
+      "title": "Words that carry an argument",
+      "titleSi": "තර්කයක් ගෙනියන වචන",
+      "introSi": "මේවා ලියන එකේ ඉතාම වැදගත්. කථාවේදීත් යෙදෙනවා, ඒත් ලියනකොට තමයි ඒවා ලොකු වෙනසක් කරන්නේ.",
+      "items": [
+        {
+          "en": "however",
+          "si": "එහෙත්, නමුත්",
+          "say": "හව්එවර්",
+          "exampleEn": "However, it takes longer.",
+          "exampleSi": "එහෙත්, ඒකට වැඩි වෙලාවක් යනවා."
+        },
+        {
+          "en": "therefore",
+          "si": "එබැවින්, ඒ නිසා",
+          "say": "දෙයාෆෝ",
+          "exampleEn": "Therefore, we cancelled it.",
+          "exampleSi": "ඒ නිසා අපි ඒක අවලංගු කළා."
+        },
+        {
+          "en": "so",
+          "si": "ඒ නිසා",
+          "say": "සෝ",
+          "exampleEn": "It rained, so we stayed in.",
+          "exampleSi": "වැහුවා, ඒ නිසා අපි ඇතුළේ හිටියා."
+        },
+        {
+          "en": "because of",
+          "si": "නිසා",
+          "say": "බිකෝස් ඔෆ්",
+          "exampleEn": "Because of the rain.",
+          "exampleSi": "වැස්ස නිසා."
+        },
+        {
+          "en": "since",
+          "si": "නිසා",
+          "say": "සින්ස්",
+          "exampleEn": "Since it was late, we left.",
+          "exampleSi": "පරක්කු නිසා අපි ගියා."
+        },
+        {
+          "en": "due to",
+          "si": "හේතුවෙන්",
+          "say": "ඩිව් ටු",
+          "exampleEn": "Delayed due to weather.",
+          "exampleSi": "කාලගුණය හේතුවෙන් ප්‍රමාදයි."
+        },
+        {
+          "en": "although",
+          "si": "වුණත්",
+          "say": "ඕල්දෝ",
+          "exampleEn": "Although it was late…",
+          "exampleSi": "පරක්කු වුණත්…"
+        },
+        {
+          "en": "even though",
+          "si": "වුණත් (බලවත්)",
+          "say": "ඊවන් දෝ",
+          "exampleEn": "Even though he tried…",
+          "exampleSi": "එයා උත්සාහ කළත්…"
+        },
+        {
+          "en": "despite",
+          "si": "නොතකා",
+          "say": "ඩිස්පයිට්",
+          "exampleEn": "Despite the price…",
+          "exampleSi": "ගාන නොතකා…"
+        },
+        {
+          "en": "in spite of",
+          "si": "නොතකා",
+          "say": "ඉන් ස්පයිට් ඔෆ්",
+          "exampleEn": "In spite of the noise…",
+          "exampleSi": "ශබ්දය නොතකා…"
+        },
+        {
+          "en": "as a result",
+          "si": "එහි ප්‍රතිඵලයක් ලෙස",
+          "say": "ඇස් අ රිසල්ට්",
+          "exampleEn": "As a result, prices rose.",
+          "exampleSi": "එහි ප්‍රතිඵලයක් ලෙස මිල ඉහළ ගියා."
+        },
+        {
+          "en": "in addition",
+          "si": "ඊට අමතරව",
+          "say": "ඉන් අඩිෂන්",
+          "exampleEn": "In addition, it is free.",
+          "exampleSi": "ඊට අමතරව, ඒක නොමිලේ."
+        },
+        {
+          "en": "for example",
+          "si": "උදාහරණයක් ලෙස",
+          "say": "ෆෝ එග්සෑම්පල්",
+          "exampleEn": "For example, the bus fare.",
+          "exampleSi": "උදාහරණයක් ලෙස, බස් ගාස්තුව."
+        },
+        {
+          "en": "cancel",
+          "si": "අවලංගු කරනවා",
+          "say": "කැන්සල්",
+          "exampleEn": "They cancelled the match.",
+          "exampleSi": "ඒගොල්ලෝ තරගය අවලංගු කළා."
+        },
+        {
+          "en": "flooded",
+          "si": "යටවෙලා",
+          "say": "ෆ්ලඩඩ්",
+          "exampleEn": "The road was flooded.",
+          "exampleSi": "පාර යටවෙලා තිබුණා."
+        },
+        {
+          "en": "delay",
+          "si": "ප්‍රමාදය",
+          "say": "ඩිලේ",
+          "exampleEn": "There was a long delay.",
+          "exampleSi": "දිග ප්‍රමාදයක් තිබුණා."
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "Why the class stopped",
+      "titleSi": "පන්තිය නැවතුණේ ඇයි",
+      "settingSi": "පන්තියක් අවලංගු වීම ගැන. හේතුවයි විරෝධයයි කියන වචන බලන්න.",
+      "lines": [
+        {
+          "speaker": "Nadeesha",
+          "en": "Was there no class yesterday?",
+          "si": "ඊයේ පන්තියක් තිබුණේ නැද්ද?"
+        },
+        {
+          "speaker": "Ruwan",
+          "en": "It was cancelled because of the flooding.",
+          "si": "ජලගැලීම නිසා ඒක අවලංගු කළා."
+        },
+        {
+          "speaker": "Nadeesha",
+          "en": "But the road looked fine in the morning.",
+          "si": "ඒත් උදේ පාර හොඳට තිබුණා වගේ."
+        },
+        {
+          "speaker": "Ruwan",
+          "en": "It was. However, the lane behind the hall was under water.",
+          "si": "ඔව්. එහෙත් ශාලාව පිටිපස්සේ පාර වතුරෙන් යටවෙලා."
+        },
+        {
+          "speaker": "Nadeesha",
+          "en": "Although the hall itself was dry?",
+          "si": "ශාලාව වේලලා තිබුණත්?"
+        },
+        {
+          "speaker": "Ruwan",
+          "en": "Even though the hall was dry, nobody could reach it. Therefore, no class.",
+          "si": "ශාලාව වේලලා තිබුණත් කාටවත් එතනට යන්න බැරි වුණා. ඒ නිසා පන්තියක් නෑ."
+        },
+        {
+          "speaker": "Nadeesha",
+          "en": "So is it on this week?",
+          "si": "එහෙනම් මේ සතියේ තියෙනවාද?"
+        },
+        {
+          "speaker": "Ruwan",
+          "en": "Yes — in the school instead, due to the repairs.",
+          "si": "ඔව් — අලුත්වැඩියා නිසා ඒ වෙනුවට ඉස්කෝලේ."
+        }
+      ]
+    },
+    {
+      "type": "story",
+      "title": "The letter to the council",
+      "titleSi": "සභාවට ලියපු ලියුම",
+      "introSi": "සම්බන්ධක වචන යෙදූ කෙටි ලියවිල්ලක්. ඒවා අයින් කරලා කියෙව්වොත් කොහොම දැනෙයිද?",
+      "paragraphs": [
+        {
+          "en": "The families on our lane have asked three times for a street light at the junction. However, nothing has been done.",
+          "si": "අපේ පාරේ පවුල් තුන් පාරක්ම හන්දියට වීදි ලාම්පුවක් ඉල්ලලා තියෙනවා. එහෙත් මොකුත් කරලා නෑ."
+        },
+        {
+          "en": "The junction is dangerous because it is on a bend and there is no pavement. In addition, the school bus stops there at six in the morning, when it is still dark.",
+          "si": "හන්දිය භයානකයි, මොකද ඒක වංගුවක තියෙන්නේ, පදික මාර්ගයකුත් නෑ. ඊට අමතරව, ඉස්කෝලේ බස් එක උදේ හයට එතන නවතිනවා — තාම අඳුරු වෙලාවේ."
+        },
+        {
+          "en": "Despite the cost, a single light would solve most of this. Even though we understand the budget is small, the repairs to the wall last year cost four times as much.",
+          "si": "ගාන එහෙම වුණත්, එක ලාම්පුවකින් මේකෙන් වැඩි කොටසක් විසඳෙනවා. අයවැය කුඩායි කියලා අපි තේරුම් ගත්තත්, ගිය අවුරුද්දේ තාප්පේ අලුත්වැඩියාවට ඊට හතර ගුණයක් ගියා."
+        },
+        {
+          "en": "We are therefore asking the council to look at the junction again before the rains.",
+          "si": "ඒ නිසා වැසි කාලයට කලින් හන්දිය ආපහු බලන්න කියලා අපි සභාවෙන් ඉල්ලා සිටිනවා."
+        }
+      ],
+      "glossary": [
+        {
+          "en": "council",
+          "si": "සභාව"
+        },
+        {
+          "en": "junction",
+          "si": "හන්දිය"
+        },
+        {
+          "en": "pavement",
+          "si": "පදික මාර්ගය"
+        },
+        {
+          "en": "budget",
+          "si": "අයවැය"
+        }
+      ],
+      "questionsSi": [
+        "සම්බන්ධක වචන කීයක් හොයාගන්න පුළුවන්ද?",
+        "'However' යෙදුවේ ඇයි? ඊට කලින් තියෙන්නේ මොකක්ද?",
+        "'Despite' එකට පස්සේ තියෙන්නේ නාම පදයක්ද, වාක්‍යයක්ද?"
+      ]
+    },
+    {
+      "type": "tip",
+      "title": "Clause or noun?",
+      "titleSi": "වාක්‍යයක්ද, නාම පදයක්ද?",
+      "bodySi": "මේ පාඩමේ බහුලම වැරදි දෙක එකම ප්‍රශ්නයෙන් හැදෙනවා: ඊට පස්සේ එන්නේ මොකක්ද?\n\nවාක්‍යයක් (subject + ක්‍රියාව): because, although, even though, since, as\nනාම පදයක්: because of, despite, in spite of, due to\n\n✓ because it was raining · ✓ because of the rain\n✓ although it was raining · ✓ despite the rain\n\n✗ because of it was raining\n✗ despite it was raining\n✗ despite of the rain\n\nලියන්න කලින් අහන්න: ඊට පස්සේ ක්‍රියාවක් තියෙනවාද? තියෙනවා නම් — because / although. නෑ නම් — because of / despite.",
+      "body": "because and although take a clause. because of and despite take a noun. And despite of does not exist."
+    },
+    {
+      "type": "practice",
+      "title": "Join them properly",
+      "titleSi": "හරියට බඳින්න",
+      "instructionSi": "වරහන් තුළ ඇති දෙකෙන් ගැලපෙන එක තෝරන්න.",
+      "items": [
+        {
+          "prompt": "The match was cancelled ___ the rain. (because / because of)",
+          "answer": "because of",
+          "hintSi": "ඊට පස්සේ නාම පදයක්.",
+          "full": "The match was cancelled because of the rain."
+        },
+        {
+          "prompt": "The match was cancelled ___ it rained all day. (because / because of)",
+          "answer": "because",
+          "hintSi": "ඊට පස්සේ වාක්‍යයක්.",
+          "full": "The match was cancelled because it rained all day."
+        },
+        {
+          "prompt": "___ the price, it sold out. (Despite / Although)",
+          "answer": "Despite",
+          "hintSi": "'the price' කියන්නේ නාම පදයක්.",
+          "full": "Despite the price, it sold out."
+        },
+        {
+          "prompt": "___ it was expensive, it sold out. (Despite / Although)",
+          "answer": "Although",
+          "hintSi": "ඊට පස්සේ වාක්‍යයක්.",
+          "full": "Although it was expensive, it sold out."
+        },
+        {
+          "prompt": "It was cheaper. ___, it took six hours. (However / But)",
+          "answer": "However",
+          "hintSi": "අලුත් වාක්‍යයක් පටන් අරන්.",
+          "full": "It was cheaper. However, it took six hours."
+        },
+        {
+          "prompt": "It was cheaper, ___ it took six hours. (However / but)",
+          "answer": "but",
+          "hintSi": "කොමාවකින් වාක්‍ය දෙක බැඳිලා.",
+          "full": "It was cheaper, but it took six hours."
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "b1-22-q1",
+      "q": "'however' සහ 'but' අතර වෙනස මොකක්ද?",
+      "options": [
+        "අර්ථය දෙකක්",
+        "අර්ථය එකයි — but බන්ධකයක්, however ක්‍රියා විශේෂණයක්",
+        "however අතීතයට",
+        "but ලියන එකට විතරයි"
+      ],
+      "answer": 1,
+      "explainSi": "ඒ නිසා විරාම ලකුණු දෙකක්."
+    },
+    {
+      "id": "b1-22-q2",
+      "q": "කුමන එක හරිද?",
+      "options": [
+        "It is cheaper, however it is slower.",
+        "It is cheaper. However, it is slower.",
+        "It is cheaper however, it is slower.",
+        "It is cheaper however it is slower."
+      ],
+      "answer": 1,
+      "explainSi": "however එකට කලින් තිතක් හෝ අර්ධ විරාමයක්."
+    },
+    {
+      "id": "b1-22-q3",
+      "q": "'because of' එකට පස්සේ එන්නේ?",
+      "options": [
+        "වාක්‍යයක්",
+        "නාම පදයක්",
+        "ක්‍රියාවක්",
+        "විශේෂණයක්"
+      ],
+      "answer": 1,
+      "explainSi": "'because of the rain' — ක්‍රියාවක් නෑ."
+    },
+    {
+      "id": "b1-22-q4",
+      "q": "කුමන එක වැරදිද?",
+      "options": [
+        "because it was raining",
+        "because of the rain",
+        "because of it was raining",
+        "due to the rain"
+      ],
+      "answer": 2,
+      "explainSi": "'because of' එකට වාක්‍යයක් යෙදෙන්නේ නෑ."
+    },
+    {
+      "id": "b1-22-q5",
+      "q": "'despite of the rain' — මේකේ වැරැද්ද?",
+      "options": [
+        "'rain' වැරදියි",
+        "'despite' එකට 'of' යෙදෙන්නේ නෑ",
+        "'despite' වාක්‍යයක් ගන්නවා",
+        "වැරැද්දක් නෑ"
+      ],
+      "answer": 1,
+      "explainSi": "'despite the rain' හෝ 'in spite of the rain'."
+    },
+    {
+      "id": "b1-22-q6",
+      "q": "'although' එකට පස්සේ එන්නේ?",
+      "options": [
+        "නාම පදයක්",
+        "වාක්‍යයක්",
+        "-ing ආකෘතියක්",
+        "කිසිවක් නෑ"
+      ],
+      "answer": 1,
+      "explainSi": "'Although it was raining…' — subject + ක්‍රියාව."
+    },
+    {
+      "id": "b1-22-q7",
+      "q": "'Although it was raining, but we went out.' — වැරැද්ද?",
+      "options": [
+        "'although' වැරදියි",
+        "'although' සහ 'but' දෙකම එකපාර යෙදෙන්නේ නෑ",
+        "කොමාව වැරදියි",
+        "වැරැද්දක් නෑ"
+      ],
+      "answer": 1,
+      "explainSi": "එකක් ඇති."
+    },
+    {
+      "id": "b1-22-q8",
+      "q": "'therefore' කියන්නේ?",
+      "options": [
+        "විරෝධය",
+        "ප්‍රතිඵලය — ඒ නිසා",
+        "උදාහරණය",
+        "කාලය"
+      ],
+      "answer": 1,
+      "explainSi": "'The road was flooded. Therefore, the school closed.'"
+    },
+    {
+      "id": "b1-22-q9",
+      "q": "හිස් තැනට: 'It started raining, ___ we went inside.'",
+      "options": [
+        "however",
+        "therefore",
+        "so",
+        "despite"
+      ],
+      "answer": 2,
+      "explainSi": "කොමාවකින් වාක්‍ය දෙක බඳින බන්ධකය — so."
+    },
+    {
+      "id": "b1-22-q10",
+      "q": "'even though' සහ 'although' අතර වෙනස?",
+      "options": [
+        "වෙනසක් නෑ",
+        "'even though' ටිකක් බලවත් — පුදුමය වැඩියි",
+        "'although' අතීතයට",
+        "'even though' නාම පදයක් ගන්නවා"
+      ],
+      "answer": 1,
+      "explainSi": "දෙකම වාක්‍යයක් ගන්නවා."
+    },
+    {
+      "id": "b1-22-q11",
+      "q": "'due to' යෙදෙන්නේ?",
+      "options": [
+        "කථාවේදී විතරයි",
+        "විධිමත් අවස්ථාවලට, නාම පදයක් එක්ක",
+        "වාක්‍යයක් එක්ක",
+        "විරෝධයට"
+      ],
+      "answer": 1,
+      "explainSi": "'The delay was due to the weather.'"
+    },
+    {
+      "id": "b1-22-q12",
+      "q": "'Despite ___ tired, he finished.' — හිස් තැනට?",
+      "options": [
+        "he was",
+        "being",
+        "was",
+        "he is"
+      ],
+      "answer": 1,
+      "explainSi": "'despite' එකට ක්‍රියාවක් ඕන නම් -ing ආකෘතිය."
+    },
+    {
+      "id": "b1-22-q13",
+      "q": "'The bus is cheaper. It takes six hours.' — මේ දෙක අතරේ ප්‍රශ්නය?",
+      "options": [
+        "ව්‍යාකරණ වැරදියි",
+        "සම්බන්ධය කියලා නෑ — අහන කෙනාට හිතාගන්න වෙනවා",
+        "වාක්‍ය දිගයි",
+        "ප්‍රශ්නයක් නෑ"
+      ],
+      "answer": 1,
+      "explainSi": "'However' ද 'Therefore' ද කියන එකෙන් අර්ථය වෙනස් වෙනවා."
+    },
+    {
+      "id": "b1-22-q14",
+      "q": "හිස් තැනට: '___ we were early, we walked around the lake.'",
+      "options": [
+        "As",
+        "Because of",
+        "Despite",
+        "However"
+      ],
+      "answer": 0,
+      "explainSi": "'As' — because එකට සමානයි, වාක්‍යයක් ගන්නවා."
+    },
+    {
+      "id": "b1-22-q15",
+      "q": "'so' සහ 'therefore' අතර වෙනස?",
+      "options": [
+        "අර්ථය දෙකක්",
+        "අර්ථය එකයි — 'so' කථාවට, 'therefore' විධිමත් ලියවිලිවලට",
+        "'so' වැරදියි",
+        "'therefore' නාම පදයක් ගන්නවා"
+      ],
+      "answer": 1,
+      "explainSi": "විරාම ලකුණුත් වෙනස්."
+    },
+    {
+      "id": "b1-22-q16",
+      "q": "'In addition' කරන්නේ?",
+      "options": [
+        "විරෝධයක්",
+        "තව කරුණක් එකතු කරනවා",
+        "හේතුවක්",
+        "උදාහරණයක්"
+      ],
+      "answer": 1,
+      "explainSi": "'In addition, it is free.'"
+    },
+    {
+      "id": "b1-22-q17",
+      "q": "ලියන්න කලින් අහන්න ඕන ප්‍රශ්නය?",
+      "options": [
+        "වාක්‍යය දිගද?",
+        "ඊට පස්සේ ක්‍රියාවක් තියෙනවාද?",
+        "වචන කීයද?",
+        "ඒක අතීතයද?"
+      ],
+      "answer": 1,
+      "explainSi": "ක්‍රියාවක් තියෙනවා නම් because/although; නෑ නම් because of/despite."
+    },
+    {
+      "id": "b1-22-q18",
+      "q": "'The train was full. ___, we found two seats.' — හිස් තැනට?",
+      "options": [
+        "Therefore",
+        "However",
+        "Because of",
+        "In addition"
+      ],
+      "answer": 1,
+      "explainSi": "බලාපොරොත්තු නොවුණු දෙයක් — විරෝධය."
+    }
+  ],
+  "vocab": [
+    {
+      "en": "however",
+      "si": "එහෙත්, නමුත්",
+      "say": "හව්එවර්",
+      "exampleEn": "However, it takes longer.",
+      "exampleSi": "එහෙත්, ඒකට වැඩි වෙලාවක් යනවා."
+    },
+    {
+      "en": "therefore",
+      "si": "එබැවින්, ඒ නිසා",
+      "say": "දෙයාෆෝ",
+      "exampleEn": "Therefore, we cancelled it.",
+      "exampleSi": "ඒ නිසා අපි ඒක අවලංගු කළා."
+    },
+    {
+      "en": "so",
+      "si": "ඒ නිසා",
+      "say": "සෝ",
+      "exampleEn": "It rained, so we stayed in.",
+      "exampleSi": "වැහුවා, ඒ නිසා අපි ඇතුළේ හිටියා."
+    },
+    {
+      "en": "because of",
+      "si": "නිසා",
+      "say": "බිකෝස් ඔෆ්",
+      "exampleEn": "Because of the rain.",
+      "exampleSi": "වැස්ස නිසා."
+    },
+    {
+      "en": "since",
+      "si": "නිසා",
+      "say": "සින්ස්",
+      "exampleEn": "Since it was late, we left.",
+      "exampleSi": "පරක්කු නිසා අපි ගියා."
+    },
+    {
+      "en": "due to",
+      "si": "හේතුවෙන්",
+      "say": "ඩිව් ටු",
+      "exampleEn": "Delayed due to weather.",
+      "exampleSi": "කාලගුණය හේතුවෙන් ප්‍රමාදයි."
+    },
+    {
+      "en": "although",
+      "si": "වුණත්",
+      "say": "ඕල්දෝ",
+      "exampleEn": "Although it was late…",
+      "exampleSi": "පරක්කු වුණත්…"
+    },
+    {
+      "en": "even though",
+      "si": "වුණත් (බලවත්)",
+      "say": "ඊවන් දෝ",
+      "exampleEn": "Even though he tried…",
+      "exampleSi": "එයා උත්සාහ කළත්…"
+    },
+    {
+      "en": "despite",
+      "si": "නොතකා",
+      "say": "ඩිස්පයිට්",
+      "exampleEn": "Despite the price…",
+      "exampleSi": "ගාන නොතකා…"
+    },
+    {
+      "en": "in spite of",
+      "si": "නොතකා",
+      "say": "ඉන් ස්පයිට් ඔෆ්",
+      "exampleEn": "In spite of the noise…",
+      "exampleSi": "ශබ්දය නොතකා…"
+    },
+    {
+      "en": "as a result",
+      "si": "එහි ප්‍රතිඵලයක් ලෙස",
+      "say": "ඇස් අ රිසල්ට්",
+      "exampleEn": "As a result, prices rose.",
+      "exampleSi": "එහි ප්‍රතිඵලයක් ලෙස මිල ඉහළ ගියා."
+    },
+    {
+      "en": "in addition",
+      "si": "ඊට අමතරව",
+      "say": "ඉන් අඩිෂන්",
+      "exampleEn": "In addition, it is free.",
+      "exampleSi": "ඊට අමතරව, ඒක නොමිලේ."
+    },
+    {
+      "en": "for example",
+      "si": "උදාහරණයක් ලෙස",
+      "say": "ෆෝ එග්සෑම්පල්",
+      "exampleEn": "For example, the bus fare.",
+      "exampleSi": "උදාහරණයක් ලෙස, බස් ගාස්තුව."
+    },
+    {
+      "en": "cancel",
+      "si": "අවලංගු කරනවා",
+      "say": "කැන්සල්",
+      "exampleEn": "They cancelled the match.",
+      "exampleSi": "ඒගොල්ලෝ තරගය අවලංගු කළා."
+    },
+    {
+      "en": "flooded",
+      "si": "යටවෙලා",
+      "say": "ෆ්ලඩඩ්",
+      "exampleEn": "The road was flooded.",
+      "exampleSi": "පාර යටවෙලා තිබුණා."
+    },
+    {
+      "en": "delay",
+      "si": "ප්‍රමාදය",
+      "say": "ඩිලේ",
+      "exampleEn": "There was a long delay.",
+      "exampleSi": "දිග ප්‍රමාදයක් තිබුණා."
+    }
+  ]
+}

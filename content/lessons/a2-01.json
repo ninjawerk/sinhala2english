@@ -1,0 +1,479 @@
+{
+  "hero": {
+    "src": "images/a2-01-hero.webp",
+    "alt": "Nadeesha reaching across a table for a dictionary among a pencil, a small wooden box and a cup, pointing at one of them, a temple visible through the window."
+  },
+  "goalsSi": [
+    "a / an / the අතර වෙනස තේරුම් ගැනීම",
+    "this, that, these, those භාවිතය",
+    "බහුවචන සෑදීම (-s, -es)",
+    "'There is' සහ 'There are' යෙදීම"
+  ],
+  "goals": [
+    "Use a, an and the",
+    "Use this and that",
+    "Make plurals",
+    "Say what exists"
+  ],
+  "sections": [
+    {
+      "type": "note",
+      "title": "The little words that matter",
+      "titleSi": "කුඩා නමුත් වැදගත් වචන",
+      "bodySi": "සිංහලෙන් 'මම පොතක් කියෙව්වා' කියද්දී 'ක්' කියන එකෙන් 'එකක්' කියන අර්ථය එනවා. ඉංග්‍රීසියෙන් ඒකට වෙනම වචනයක් තියෙනවා — 'a' හෝ 'an'.\n\nමේ කුඩා වචන (articles) සිංහල කථා කරන අය නිතර අමතක කරනවා. 'I am teacher' කියනවා වෙනුවට 'I am A teacher' කියන්න ඕන. පුරුදු වෙන්න ටිකක් කාලය යනවා, නමුත් නීති ටික සරලයි.",
+      "body": "These small words are called articles. Sinhala speakers often forget them."
+    },
+    {
+      "type": "grammar",
+      "title": "a, an and the",
+      "titleSi": "a, an සහ the",
+      "explainSi": "'a' සහ 'an' යෙදෙන්නේ අලුතින් යමක් ගැන කියද්දී — අහන කෙනා ඒක ගැන තාම දන්නේ නෑ.\n'the' යෙදෙන්නේ දෙදෙනාම දන්නා යම් නිශ්චිත දෙයක් ගැන කියද්දී.\n\n'a' සහ 'an' අතර තෝරන්නේ හඬ අනුව:\n• ව්‍යාංජන හඬකින් පටන් ගන්නවා නම් → a (a book, a car)\n• ස්වර හඬකින් පටන් ගන්නවා නම් → an (an apple, an hour)\n\n'an hour' බලන්න — 'h' ලියලා තිබුණත් ශබ්ද වෙන්නේ 'අවර්' කියලා ස්වර හඬකින්. එනිසා 'an'.",
+      "formula": "a / an = ඕනෑම එකක්   ·   the = ඒ නිශ්චිත එක",
+      "table": {
+        "headers": [
+          "Sentence",
+          "Why?",
+          "සිංහල"
+        ],
+        "rows": [
+          [
+            "I saw a dog.",
+            "අලුතින් හඳුන්වනවා",
+            "මම බල්ලෙක් දැක්කා."
+          ],
+          [
+            "The dog was black.",
+            "දැන් අපි දන්නා ඒ බල්ලා",
+            "ඒ බල්ලා කළුයි."
+          ],
+          [
+            "She is an engineer.",
+            "'e' ස්වර හඬක්",
+            "එයා ඉංජිනේරුවරියක්."
+          ],
+          [
+            "Close the door, please.",
+            "කාමරයේ ඇති නිශ්චිත දොර",
+            "කරුණාකර දොර වහන්න."
+          ],
+          [
+            "The sun is bright.",
+            "ලෝකයේ ඇත්තේ එකයි",
+            "හිරු දීප්තිමත්."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "I want a cup of tea.",
+          "si": "මට තේ කෝප්පයක් ඕන."
+        },
+        {
+          "en": "She is an artist.",
+          "si": "එයා කලාකාරියක්."
+        },
+        {
+          "en": "The teacher is in the classroom.",
+          "si": "ගුරුතුමා පන්ති කාමරයේ ඉන්නවා."
+        },
+        {
+          "en": "My father is a farmer.",
+          "si": "මගේ තාත්තා ගොවියෙක්."
+        }
+      ],
+      "watchOutSi": "රැකියාවක් කියද්දී 'a' හෝ 'an' අනිවාර්යයි: 'She is a doctor.' — 'She is doctor.' කියන එක වැරදියි. නමුත් නම්, රටවල් සහ බොහෝ බහුවචන සමඟ article එකක් අවශ්‍ය නෑ: 'I like mangoes.'"
+    },
+    {
+      "type": "grammar",
+      "title": "this, that, these, those",
+      "titleSi": "this, that, these, those",
+      "explainSi": "දුර සහ ගණන අනුව වචනය තෝරනවා. සිංහලෙන් 'මේ' සහ 'අර' කියන එකට සමානයි.",
+      "formula": "ළඟ: this (එකක්) / these (කීපයක්)   ·   දුරින්: that (එකක්) / those (කීපයක්)",
+      "table": {
+        "headers": [
+          "",
+          "එකක් (singular)",
+          "කීපයක් (plural)"
+        ],
+        "rows": [
+          [
+            "ළඟ (near)",
+            "this book — මේ පොත",
+            "these books — මේ පොත්"
+          ],
+          [
+            "දුරින් (far)",
+            "that house — අර ගෙදර",
+            "those houses — අර ගෙවල්"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "This is my bag.",
+          "si": "මේක මගේ බෑග් එක."
+        },
+        {
+          "en": "That is your seat.",
+          "si": "අර ඔබේ ආසනය."
+        },
+        {
+          "en": "These mangoes are sweet.",
+          "si": "මේ අඹ පැණි රසයි."
+        },
+        {
+          "en": "Those children are playing.",
+          "si": "අර ළමයි සෙල්ලම් කරනවා."
+        }
+      ]
+    },
+    {
+      "type": "grammar",
+      "title": "Making plurals",
+      "titleSi": "බහුවචන සෑදීම",
+      "explainSi": "බොහෝ විට අගට '-s' එකතු කරනවා. නමුත් සමහර වචනවලට වෙනස් නීති තියෙනවා. සමහර වචන සම්පූර්ණයෙන්ම වෙනස් වෙනවා — ඒවා මතක තියාගන්නම ඕන.",
+      "table": {
+        "headers": [
+          "Rule",
+          "Singular",
+          "Plural"
+        ],
+        "rows": [
+          [
+            "සාමාන්‍ය → +s",
+            "book",
+            "books"
+          ],
+          [
+            "-s, -x, -ch, -sh → +es",
+            "bus / box / watch",
+            "buses / boxes / watches"
+          ],
+          [
+            "ව්‍යාංජනය + y → -ies",
+            "city / baby",
+            "cities / babies"
+          ],
+          [
+            "-f, -fe → -ves",
+            "leaf / knife",
+            "leaves / knives"
+          ],
+          [
+            "අක්‍රමවත් (මතක තබාගන්න)",
+            "child / man / woman / foot",
+            "children / men / women / feet"
+          ],
+          [
+            "වෙනසක් නැත",
+            "fish / sheep",
+            "fish / sheep"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "There are three buses at the stand.",
+          "si": "නැවතුමේ බස් තුනක් තියෙනවා."
+        },
+        {
+          "en": "The children are in the garden.",
+          "si": "ළමයි වත්තේ ඉන්නවා."
+        },
+        {
+          "en": "I bought two knives.",
+          "si": "මම පිහි දෙකක් ගත්තා."
+        }
+      ],
+      "watchOutSi": "'childrens' හෝ 'peoples' කියලා ලියන්න එපා. 'children' සහ 'people' දැනටමත් බහුවචනයි."
+    },
+    {
+      "type": "grammar",
+      "title": "There is / There are",
+      "titleSi": "There is / There are",
+      "explainSi": "යමක් පවතින බව කියන්න මේක යොදනවා. සිංහලෙන් 'තියෙනවා' හෝ 'ඉන්නවා' කියන එකට සමානයි. එකක් නම් 'There is', කීපයක් නම් 'There are'.",
+      "formula": "There is + singular   ·   There are + plural",
+      "examples": [
+        {
+          "en": "There is a temple in our village.",
+          "si": "අපේ ගමේ පන්සලක් තියෙනවා."
+        },
+        {
+          "en": "There are many people at the market.",
+          "si": "වෙළඳපොළේ මිනිස්සු ගොඩක් ඉන්නවා."
+        },
+        {
+          "en": "Is there a bank near here?",
+          "si": "මෙතන ළඟ බැංකුවක් තියෙනවද?"
+        },
+        {
+          "en": "There aren't any buses today.",
+          "si": "අද බස් නෑ."
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "In the classroom",
+      "titleSi": "පන්ති කාමරයේ",
+      "settingSi": "ගුරුතුමිය සහ ශිෂ්‍යයෙක් අලුත් පන්ති කාමරය ගැන කතා කරනවා.",
+      "lines": [
+        {
+          "speaker": "Teacher",
+          "en": "Good morning. Is this your seat?",
+          "si": "සුබ උදෑසනක්. මේක ඔබේ ආසනයද?"
+        },
+        {
+          "speaker": "Ravi",
+          "en": "No, miss. That is my seat, near the window.",
+          "si": "නෑ මිස්. අර ජනේලය ළඟ තියෙන එක මගේ ආසනය."
+        },
+        {
+          "speaker": "Teacher",
+          "en": "I see. Are these your books?",
+          "si": "හරි. මේ ඔබේ පොත්ද?"
+        },
+        {
+          "speaker": "Ravi",
+          "en": "Yes, they are. I have an English book and two exercise books.",
+          "si": "ඔව්. මට ඉංග්‍රීසි පොතක් සහ අභ්‍යාස පොත් දෙකක් තියෙනවා."
+        },
+        {
+          "speaker": "Teacher",
+          "en": "Good. There is a new dictionary on my table. You can use it.",
+          "si": "හොඳයි. මගේ මේසය උඩ අලුත් ශබ්දකෝෂයක් තියෙනවා. ඔබට ඒක පාවිච්චි කරන්න පුළුවන්."
+        },
+        {
+          "speaker": "Ravi",
+          "en": "Thank you, miss. Are there any pencils?",
+          "si": "ස්තුතියි මිස්. පැන්සල් තියෙනවද?"
+        },
+        {
+          "speaker": "Teacher",
+          "en": "Yes, there are some in that box.",
+          "si": "ඔව්, අර පෙට්ටියේ ටිකක් තියෙනවා."
+        }
+      ]
+    },
+    {
+      "type": "practice",
+      "title": "a, an or the?",
+      "titleSi": "a, an නැත්නම් the?",
+      "instructionSi": "නිවැරදි වචනය ලියන්න.",
+      "items": [
+        {
+          "prompt": "She is ___ engineer.",
+          "answer": "an",
+          "hintSi": "'e' ස්වර හඬක්.",
+          "full": "She is an engineer."
+        },
+        {
+          "prompt": "I have ___ new bicycle.",
+          "answer": "a",
+          "hintSi": "'n' ව්‍යාංජන හඬක්.",
+          "full": "I have a new bicycle."
+        },
+        {
+          "prompt": "Please close ___ door.",
+          "answer": "the",
+          "hintSi": "දෙදෙනාම දන්නා නිශ්චිත දොර.",
+          "full": "Please close the door."
+        },
+        {
+          "prompt": "___ are many stars tonight. (There is / There are)",
+          "answer": "there are",
+          "hintSi": "'stars' බහුවචනයි.",
+          "full": "There are many stars tonight."
+        },
+        {
+          "prompt": "'child' වල බහුවචනය: ___",
+          "answer": "children",
+          "hintSi": "අක්‍රමවත් බහුවචනයක්.",
+          "full": "The children are playing."
+        },
+        {
+          "prompt": "'city' වල බහුවචනය: ___",
+          "answer": "cities",
+          "hintSi": "y → ies.",
+          "full": "Sri Lanka has many cities."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "en": "door",
+      "si": "දොර"
+    },
+    {
+      "en": "window",
+      "si": "ජනේලය"
+    },
+    {
+      "en": "table",
+      "si": "මේසය"
+    },
+    {
+      "en": "seat",
+      "si": "ආසනය"
+    },
+    {
+      "en": "dictionary",
+      "si": "ශබ්දකෝෂය"
+    },
+    {
+      "en": "pencil",
+      "si": "පැන්සල"
+    },
+    {
+      "en": "box",
+      "si": "පෙට්ටිය"
+    },
+    {
+      "en": "temple",
+      "si": "පන්සල"
+    },
+    {
+      "en": "market",
+      "si": "වෙළඳපොළ"
+    },
+    {
+      "en": "bank",
+      "si": "බැංකුව"
+    },
+    {
+      "en": "people",
+      "si": "මිනිස්සු"
+    },
+    {
+      "en": "children",
+      "si": "ළමයි"
+    },
+    {
+      "en": "knife",
+      "si": "පිහිය"
+    },
+    {
+      "en": "leaf",
+      "si": "කොළය"
+    },
+    {
+      "en": "star",
+      "si": "තරුව"
+    },
+    {
+      "en": "bag",
+      "si": "බෑග් එක"
+    },
+    {
+      "en": "sweet",
+      "si": "පැණි රස"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "a2-01-q1",
+      "q": "'She is ___ artist.' — නිවැරදි වචනය?",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "(කිසිවක් නැත)"
+      ],
+      "answer": 1,
+      "explainSi": "'artist' ස්වර හඬකින් ('a') පටන් ගන්නවා. එනිසා 'an'.",
+      "speak": "She is an artist."
+    },
+    {
+      "id": "a2-01-q2",
+      "q": "'I saw a dog. ___ dog was very big.' — හිස්තැනට?",
+      "options": [
+        "A",
+        "An",
+        "The",
+        "Some"
+      ],
+      "answer": 2,
+      "explainSi": "දෙවෙනි වතාවට කියද්දී අපි දෙන්නම ඒ බල්ලා ගැන දන්නවා. එනිසා 'the'.",
+      "speak": "I saw a dog. The dog was very big."
+    },
+    {
+      "id": "a2-01-q3",
+      "q": "'child' යන්නෙහි බහුවචනය කුමක්ද?",
+      "options": [
+        "childs",
+        "childes",
+        "children",
+        "childrens"
+      ],
+      "answer": 2,
+      "explainSi": "'children' අක්‍රමවත් බහුවචනයක්. 'childrens' කියන වචනයක් නෑ.",
+      "speak": "children"
+    },
+    {
+      "id": "a2-01-q4",
+      "q": "දුරින් ඇති දේවල් කීපයක් ගැන කියද්දී යොදන්නේ?",
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "answer": 3,
+      "explainSi": "දුරින් + බහුවචන = those. ළඟ + බහුවචන = these.",
+      "speak": "Those houses are new."
+    },
+    {
+      "id": "a2-01-q5",
+      "q": "'අපේ ගමේ පන්සලක් තියෙනවා' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "There are a temple in our village.",
+        "There is a temple in our village.",
+        "It has a temple in our village.",
+        "Have a temple in our village."
+      ],
+      "answer": 1,
+      "explainSi": "එක් දෙයක් නිසා 'There is'.",
+      "speak": "There is a temple in our village."
+    },
+    {
+      "id": "a2-01-q6",
+      "q": "'box' යන්නෙහි බහුවචනය?",
+      "options": [
+        "boxs",
+        "boxes",
+        "boxies",
+        "box"
+      ],
+      "answer": 1,
+      "explainSi": "-x වලින් අවසන් වන වචනවලට '-es' එකතු වෙනවා: box → boxes, bus → buses.",
+      "speak": "boxes"
+    },
+    {
+      "id": "a2-01-q7",
+      "q": "කුමන වාක්‍යය වැරදිද?",
+      "options": [
+        "My mother is a teacher.",
+        "My mother is teacher.",
+        "My mother is an engineer.",
+        "My mother is a nurse."
+      ],
+      "answer": 1,
+      "explainSi": "රැකියාවක් කියද්දී 'a' හෝ 'an' අනිවාර්යයි. 'is teacher' වැරදියි.",
+      "speak": "My mother is a teacher."
+    },
+    {
+      "id": "a2-01-q8",
+      "q": "'an hour' ලෙස ලියන්නේ ඇයි?",
+      "options": [
+        "'h' අකුර ස්වරයක් නිසා",
+        "'h' ශබ්ද නොවී 'අවර්' ලෙස ස්වර හඬකින් පටන් ගන්නා නිසා",
+        "දිගු වචනයක් නිසා",
+        "නීතියක් නැති නිසා"
+      ],
+      "answer": 1,
+      "explainSi": "a / an තෝරන්නේ අකුර අනුව නෙවෙයි, හඬ අනුවයි. 'hour' හි 'h' ශබ්ද වෙන්නේ නෑ.",
+      "speak": "an hour"
+    }
+  ]
+}

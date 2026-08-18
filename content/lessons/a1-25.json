@@ -1,0 +1,785 @@
+{
+  "hero": {
+    "src": "images/a1-25-hero.webp",
+    "alt": "Ruwan fastening the strap of a motorcycle helmet before riding, standing beside a scooter in a driveway, serious and careful expression."
+  },
+  "goalsSi": [
+    "I have to... — යමක් කිරීමට බැඳී සිටීම",
+    "You must not... — දැඩි නීතියක්, තහනමක්",
+    "I don't have to... — බැඳීමක් නැති බව, 'must not' එකෙන් වෙනස",
+    "සරල සංඥා කියවීම — No smoking, Must wear a helmet"
+  ],
+  "goals": [
+    "Say what you have to do",
+    "Say what's forbidden with must not",
+    "Tell don't have to and must not apart",
+    "Read simple everyday signs"
+  ],
+  "sections": [
+    {
+      "type": "note",
+      "title": "Rules, big and small",
+      "titleSi": "නීති, ලොකු සහ පොඩි",
+      "bodySi": "හැම දවසකම නීති තියෙනවා — රැකියාවේ, පාසැලේ, පාරේ. සමහර නීති අනිවාර්යයි ('I have to...'), සමහරක් තහනම් ('You must not...'), සමහරක් අනිවාර්ය නෑ ('I don't have to...'). මේ පාඩමෙන් ඒ තුනම වෙන කරගන්න ඉගෙන ගමු.",
+      "body": "Every day has rules — at work, at school, on the road. Some things are required, some are forbidden, and some are simply optional."
+    },
+    {
+      "type": "grammar",
+      "title": "I have to…",
+      "titleSi": "I have to...",
+      "explainSi": "යමක් කරන්නම ඕන කියලා කියද්දී 'have to' + ක්‍රියාවේ මූලික ස්වරූපය භාවිතා කරනවා. 'he/she/it' සමඟ 'has to' කියලා යොදනවා — a1-09 හි ඉගෙන ගත් 's' රීතියම.",
+      "formula": "I/you/we/they have to + verb. He/she/it has to + verb.",
+      "table": {
+        "headers": [
+          "වාක්‍යය",
+          "සිංහල"
+        ],
+        "rows": [
+          [
+            "I have to work tomorrow.",
+            "මට හෙට වැඩට යන්න ඕන."
+          ],
+          [
+            "She has to wake up early.",
+            "එයාට ඉක්මනින් අවදි වෙන්න ඕන."
+          ],
+          [
+            "We have to wear a uniform.",
+            "අපිට uniform එකක් අඳින්න ඕන."
+          ],
+          [
+            "Do you have to work on Sundays?",
+            "ඔබට ඉරිදාවලට වැඩට යන්න ඕනද?"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "I have to finish this by five o'clock.",
+          "si": "මට මේක පහට ඉවර කරන්න ඕන."
+        },
+        {
+          "en": "He has to take his medicine every morning.",
+          "si": "එයාට හැම උදෑසනකම බෙහෙත් බොන්න ඕන."
+        }
+      ],
+      "watchOutSi": "'has to' — 'he/she/it' සමඟ 's' එකතු කරන්න අමතක කරන්න එපා, a1-09 හි ඉගෙන ගත් රීතියම."
+    },
+    {
+      "type": "grammar",
+      "title": "You must not…",
+      "titleSi": "You must not...",
+      "explainSi": "දැඩි නීතියක්, තහනමක් කියද්දී 'must not' (හෝ 'mustn't') භාවිතා කරනවා. සංඥා වලත් මෙය බහුලව දකින්න ලැබෙනවා.",
+      "formula": "You must not + verb. (mustn't)",
+      "table": {
+        "headers": [
+          "වාක්‍යය",
+          "සිංහල"
+        ],
+        "rows": [
+          [
+            "You must not park here.",
+            "මෙතන park කරන්න එපා."
+          ],
+          [
+            "You mustn't smoke inside.",
+            "ඇතුලේ දුම් පානය කරන්න එපා."
+          ],
+          [
+            "Students must not use their phones in class.",
+            "සිසුන් පන්තියේදී ෆෝන් පාවිච්චි කරන්න එපා."
+          ],
+          [
+            "You must not touch that — it's very hot.",
+            "ඒක අල්ලන්න එපා — ගොඩක් රත්."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "You must not be late for the exam.",
+          "si": "විභාගයට පරක්කු වෙන්න එපා."
+        },
+        {
+          "en": "Visitors must not feed the animals.",
+          "si": "පැමිණෙන අය සතුන්ට කෑම දෙන්න එපා."
+        }
+      ],
+      "watchOutSi": "'must not' ('mustn't') ගොඩක් තදයි — කිසිසේත් කරන්න එපා කියන එකයි. 'don't have to' එකෙන් වෙනස්, ඊළඟ පාඩමේදී බලමු."
+    },
+    {
+      "type": "grammar",
+      "title": "I don't have to… (not must not!)",
+      "titleSi": "I don't have to... (must not නෙවෙයි!)",
+      "explainSi": "'don't have to' කියන්නේ බැඳීමක් නෑ, කැමති නම් කරන්න, කැමති නම් නොකර ඉන්න පුළුවන් කියලා. 'must not' කියන්නේ මුළුමනින්ම තහනම්. මේ දෙක ගොඩක් වෙලාවට පටලවා ගන්නවා.",
+      "formula": "don't have to = no obligation. must not = forbidden.",
+      "table": {
+        "headers": [
+          "වාක්‍යය",
+          "සිංහල"
+        ],
+        "rows": [
+          [
+            "I don't have to work tomorrow — it's a holiday.",
+            "හෙට වැඩට යන්න ඕන නෑ — නිවාඩුවක්."
+          ],
+          [
+            "You must not go in there — it's dangerous.",
+            "එතන යන්න එපා — භයානකයි."
+          ],
+          [
+            "We don't have to hurry, we have time.",
+            "ඉක්මන් වෙන්න ඕන නෑ, කාලය තියෙනවා."
+          ],
+          [
+            "You mustn't tell anyone — it's a secret.",
+            "කාටවත් කියන්න එපා — රහසක්."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "You don't have to come if you're tired — it's optional.",
+          "si": "මහන්සි නම් එන්න ඕන නෑ — අත්‍යවශ්‍ය නෑ."
+        },
+        {
+          "en": "You must not eat in the library, but you don't have to be silent everywhere else.",
+          "si": "පුස්තකාලයේ කන්න එපා, නමුත් අනිත් හැම තැනකම නිහඬව ඉන්න ඕන නෑ."
+        }
+      ],
+      "watchOutSi": "'don't have to' = 'කරන්න ඕන නෑ, කැමති නම් කරන්න'. 'must not' = 'කිසිසේත් කරන්න එපා'. දෙකේ අර්ථය සම්පූර්ණයෙන්ම වෙනස්!"
+    },
+    {
+      "type": "vocab",
+      "title": "Rules and signs",
+      "titleSi": "නීති සහ සංඥා",
+      "items": [
+        {
+          "en": "rule",
+          "si": "නීතිය",
+          "say": "රූල්"
+        },
+        {
+          "en": "sign",
+          "si": "සංඥාව",
+          "say": "සයින්"
+        },
+        {
+          "en": "obligation",
+          "si": "බැඳීම",
+          "say": "ඔබ්ලිගේෂන්"
+        },
+        {
+          "en": "forbidden",
+          "si": "තහනම්",
+          "say": "ෆර්බිඩන්"
+        },
+        {
+          "en": "allowed",
+          "si": "අවසර ඇති",
+          "say": "අලවුඩ්"
+        },
+        {
+          "en": "necessary",
+          "si": "අවශ්‍ය",
+          "say": "නෙසෙසරි"
+        },
+        {
+          "en": "optional",
+          "si": "අත්‍යවශ්‍ය නොවන",
+          "say": "ඔප්ෂනල්"
+        },
+        {
+          "en": "helmet",
+          "si": "හෙල්මට් එක",
+          "say": "හෙල්මට්"
+        },
+        {
+          "en": "seatbelt",
+          "si": "ආසන පටිය",
+          "say": "සීට්බෙල්ට්"
+        },
+        {
+          "en": "uniform",
+          "si": "නිල ඇඳුම",
+          "say": "යුනිෆෝම්"
+        },
+        {
+          "en": "late",
+          "si": "පරක්කු",
+          "say": "ලේට්"
+        },
+        {
+          "en": "hurry",
+          "si": "ඉක්මන් වෙනවා",
+          "say": "හරි"
+        }
+      ]
+    },
+    {
+      "type": "story",
+      "title": "Nadun's First Day",
+      "titleSi": "නදුන්ගේ මුල් දවස",
+      "introSi": "නදුන් අලුත් රැකියාවක මුල් දවසේ නීති ඉගෙනගන්නා කතාවක්. 'have to', 'must not', 'don't have to' වාක්‍ය ගණන් කරන්න.",
+      "paragraphs": [
+        {
+          "en": "It was Nadun's first day at his new job. \"You have to wear this uniform every day,\" his manager said, handing him a blue shirt.",
+          "si": "එය නදුන්ගේ අලුත් රැකියාවේ මුල් දවසයි. \"ඔබට හැම දාම මේ uniform එක අඳින්න ඕන,\" කළමනාකරු කිව්වා, නිල් ෂර්ට් එකක් දෙමින්."
+        },
+        {
+          "en": "\"You must not be late,\" she added. \"We start at eight sharp. But you don't have to stay after five — we finish on time here.\"",
+          "si": "\"පරක්කු වෙන්න එපා,\" එයා තව කිව්වා. \"අපි අටට හරියටම පටන් ගන්නවා. නමුත් පහට පස්සේ ඉන්න ඕන නෑ — අපි වේලාවට ඉවර කරනවා.\""
+        },
+        {
+          "en": "Nadun nodded. \"What about lunch?\" \"You have to take a break, it's not optional,\" she said, smiling. \"But you don't have to eat here — some people go home.\"",
+          "si": "නදුන් හිස වැනුවා. \"දිවා ආහාරය ගැන කොහොමද?\" \"විවේකයක් ගන්න ඕන, එය optional නෑ,\" එයා සිනාසෙමින් කිව්වා. \"නමුත් මෙතන කන්න ඕන නෑ — සමහරු ගෙදර යනවා.\""
+        },
+        {
+          "en": "\"One more thing,\" she said, pointing at a sign on the wall. \"You must not use your phone on the factory floor. It's a safety rule.\"",
+          "si": "\"තව දෙයක්,\" බිත්තියේ තියෙන සංඥාවක් පෙන්නමින් එයා කිව්වා. \"factory floor එකේදී ෆෝන් පාවිච්චි කරන්න එපා. ඒක ආරක්ෂිත නීතියක්.\""
+        },
+        {
+          "en": "By the end of the day, Nadun had learned all the rules: he had to wear the uniform and take his break, he must not be late or use his phone on the floor, and he didn't have to stay past five.",
+          "si": "දවස අවසානයේදී, නදුන් හැම නීතියක්ම ඉගෙනගත්තා: uniform එක අඳින්නත්, විවේකයක් ගන්නත් ඕන, පරක්කු වෙන්නත් floor එකේදී ෆෝන් පාවිච්චි කරන්නත් එපා, පහට පස්සේ ඉන්න ඕන නෑ."
+        },
+        {
+          "en": "He walked home feeling good — the rules were clear, and that made everything easier.",
+          "si": "එයා ගෙදර ගියේ හොඳ හැඟීමකින් — නීති පැහැදිලියි, ඒකෙන් හැම දේම ලේසි වුණා."
+        }
+      ],
+      "glossary": [
+        {
+          "en": "manager",
+          "si": "කළමනාකරු"
+        },
+        {
+          "en": "sharp (time)",
+          "si": "හරියටම (වේලාව)"
+        },
+        {
+          "en": "break",
+          "si": "විවේකය"
+        },
+        {
+          "en": "safety",
+          "si": "ආරක්ෂාව"
+        },
+        {
+          "en": "clear (rules)",
+          "si": "පැහැදිලි"
+        }
+      ],
+      "questionsSi": [
+        "නදුන්ට හැම දාම කරන්න ඕන දේ මොකක්ද?",
+        "නදුන්ට කරන්න එපා කියපු දේ මොනවාද?",
+        "නදුන්ට කරන්න ඕන නෑ කියපු දේ මොනවාද?",
+        "දවස අවසානයේදී නදුන්ට හැඟුනේ කොහොමද?"
+      ]
+    },
+    {
+      "type": "poem",
+      "title": "The Signs",
+      "titleSi": "සංඥා",
+      "introSi": "එදිනෙදා දකින සංඥා ගැන කවියක්.",
+      "lines": [
+        {
+          "en": "No smoking here, no parking there,",
+          "si": "මෙතන දුම් බොන්න එපා, එතන park කරන්න එපා,"
+        },
+        {
+          "en": "Must wear a helmet, mind your head.",
+          "si": "හෙල්මට් එක අඳින්න ඕන, ඔබේ හිස ගැන හිතන්න."
+        },
+        {
+          "en": "You don't have to run, you don't have to rush,",
+          "si": "දුවන්න ඕන නෑ, ඉක්මන් වෙන්න ඕන නෑ,"
+        },
+        {
+          "en": "Just don't have to worry instead.",
+          "si": "ඒ වෙනුවට කරදර වෙන්නවත් ඕන නෑ."
+        },
+        {
+          "en": "",
+          "si": ""
+        },
+        {
+          "en": "A world of small rules, kindly meant,",
+          "si": "කුඩා නීති පිරුණු ලෝකයක්, කරුණාවෙන් හදපු,"
+        },
+        {
+          "en": "To keep us safe, and help us know",
+          "si": "අපිව ආරක්ෂිතව තියන්න, අපිට තේරෙන්න"
+        },
+        {
+          "en": "What we must do, what we must not,",
+          "si": "අපි කරන්නම ඕන දේ, කරන්නම එපා දේ,"
+        },
+        {
+          "en": "And where we're free to freely go.",
+          "si": "සහ නිදහසේ යන්න පුළුවන් තැන."
+        }
+      ],
+      "noteSi": "'must wear', 'don't have to' — කවියේම, තුනම එකට එනවා."
+    },
+    {
+      "type": "dialogue",
+      "title": "Rules at the pool",
+      "titleSi": "පිහිනුම් තටාකයේ නීති",
+      "settingSi": "අලුතින් පිහිනුම් තටාකයකට ගිය අය නීති ඉගෙනගන්නවා.",
+      "lines": [
+        {
+          "speaker": "Guard",
+          "en": "Welcome. You have to shower before you swim.",
+          "si": "ආයුබෝවන්. පිහිනන්න කලින් නාන්න ඕන."
+        },
+        {
+          "speaker": "Visitor",
+          "en": "Okay, no problem. Do we have to wear a swimming cap?",
+          "si": "හරි, කරදරයක් නෑ. පිහිනුම් cap එකක් අඳින්න ඕනද?"
+        },
+        {
+          "speaker": "Guard",
+          "en": "Yes, everyone must wear one — it's a rule here.",
+          "si": "ඔව්, හැමෝම එකක් අඳින්න ඕන — මෙතන නීතියක්."
+        },
+        {
+          "speaker": "Visitor",
+          "en": "Got it. And children — do they have to stay with an adult?",
+          "si": "තේරුණා. ළමයි — ඔවුන් වැඩිහිටියෙකු එක්ක ඉන්න ඕනද?"
+        },
+        {
+          "speaker": "Guard",
+          "en": "Yes, children must not swim alone. But you don't have to worry about the deep end — it's closed today.",
+          "si": "ඔව්, ළමයි තනියම පිහිනන්න එපා. නමුත් ගැඹුරු කොටස ගැන කරදර වෙන්න ඕන නෑ — අද වහලා."
+        },
+        {
+          "speaker": "Visitor",
+          "en": "Good to know. One more thing — must we bring our own towels?",
+          "si": "දැනගන්න හොඳයි. තව දෙයක් — අපේම තුවා ගේන්න ඕනද?"
+        },
+        {
+          "speaker": "Guard",
+          "en": "No, you don't have to — we provide them here.",
+          "si": "නෑ, ඕන නෑ — අපි ඒවා දෙනවා."
+        }
+      ]
+    },
+    {
+      "type": "practice",
+      "title": "Have to, must not, or don't have to?",
+      "titleSi": "have to, must not, නැත්නම් don't have to?",
+      "instructionSi": "නිවැරදි වචනාවලිය තෝරා වාක්‍යය ලියන්න.",
+      "items": [
+        {
+          "prompt": "it's required: I ___ wear a uniform.",
+          "answer": "have to",
+          "hintSi": "have to = අනිවාර්ය",
+          "full": "I have to wear a uniform."
+        },
+        {
+          "prompt": "it's forbidden: You ___ smoke here.",
+          "answer": "must not",
+          "hintSi": "must not = තහනම්",
+          "full": "You must not smoke here."
+        },
+        {
+          "prompt": "it's a holiday, no work: I ___ work tomorrow.",
+          "answer": "don't have to",
+          "hintSi": "don't have to = ඕන නෑ",
+          "full": "I don't have to work tomorrow."
+        },
+        {
+          "prompt": "a strict sign: You ___ park here.",
+          "answer": "must not",
+          "hintSi": "must not = තහනම්",
+          "full": "You must not park here."
+        },
+        {
+          "prompt": "optional, your choice: You ___ come if you're busy.",
+          "answer": "don't have to",
+          "hintSi": "don't have to = ඕන නෑ",
+          "full": "You don't have to come if you're busy."
+        },
+        {
+          "prompt": "a rule at work: She ___ wake up early.",
+          "answer": "has to",
+          "hintSi": "has to = she/he/it",
+          "full": "She has to wake up early."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "en": "rule",
+      "si": "නීතිය"
+    },
+    {
+      "en": "sign",
+      "si": "සංඥාව"
+    },
+    {
+      "en": "obligation",
+      "si": "බැඳීම"
+    },
+    {
+      "en": "forbidden",
+      "si": "තහනම්"
+    },
+    {
+      "en": "allowed",
+      "si": "අවසර ඇති"
+    },
+    {
+      "en": "necessary",
+      "si": "අවශ්‍ය"
+    },
+    {
+      "en": "optional",
+      "si": "අත්‍යවශ්‍ය නොවන"
+    },
+    {
+      "en": "helmet",
+      "si": "හෙල්මට් එක"
+    },
+    {
+      "en": "seatbelt",
+      "si": "ආසන පටිය"
+    },
+    {
+      "en": "uniform",
+      "si": "නිල ඇඳුම"
+    },
+    {
+      "en": "late",
+      "si": "පරක්කු"
+    },
+    {
+      "en": "hurry",
+      "si": "ඉක්මන් වෙනවා"
+    },
+    {
+      "en": "manager",
+      "si": "කළමනාකරු"
+    },
+    {
+      "en": "break",
+      "si": "විවේකය"
+    },
+    {
+      "en": "safety",
+      "si": "ආරක්ෂාව"
+    },
+    {
+      "en": "shower",
+      "si": "නාන්නවා"
+    },
+    {
+      "en": "guard",
+      "si": "ආරක්ෂකයා"
+    },
+    {
+      "en": "deep end (pool)",
+      "si": "ගැඹුරු කොටස"
+    },
+    {
+      "en": "provide",
+      "si": "ලබාදෙනවා"
+    },
+    {
+      "en": "clear (rules)",
+      "si": "පැහැදිලි"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "a1-25-q1",
+      "q": "'මට හෙට වැඩට යන්න ඕන.' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "I must work tomorrow.",
+        "I have to work tomorrow.",
+        "I having to work tomorrow.",
+        "I has to work tomorrow."
+      ],
+      "answer": 1,
+      "explainSi": "'I have to + verb' — 'I' සමඟ 'has to' නෙවෙයි, 'have to'.",
+      "speak": "I have to work tomorrow."
+    },
+    {
+      "id": "a1-25-q2",
+      "q": "'She ___ wake up early.' — කුමන වචනයද හරි?",
+      "options": [
+        "have to",
+        "has to",
+        "having to",
+        "haves to"
+      ],
+      "answer": 1,
+      "explainSi": "'he/she/it' සමඟ 'has to' — a1-09 හි ඉගෙන ගත් 's' රීතියම."
+    },
+    {
+      "id": "a1-25-q3",
+      "q": "'මෙතන park කරන්න එපා.' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "You don't have to park here.",
+        "You must not park here.",
+        "You have to park here.",
+        "You not must park here."
+      ],
+      "answer": 1,
+      "explainSi": "'must not' — දැඩි නීතියක්, තහනමක්.",
+      "speak": "You must not park here."
+    },
+    {
+      "id": "a1-25-q4",
+      "q": "'You mustn't' කියන්නේ 'You must not' එකේ කෙටි ස්වරූපයද?",
+      "options": [
+        "ඔව්",
+        "නෑ, වෙනස් අර්ථයක්",
+        "ඒක 'must' නෙවෙයි",
+        "ඒක 'have to' එකේ කෙටි ස්වරූපය"
+      ],
+      "answer": 0,
+      "explainSi": "'mustn't' = 'must not' කෙටි කිරීම, එකම අර්ථය."
+    },
+    {
+      "id": "a1-25-q5",
+      "q": "'don't have to' සහ 'must not' අතර වෙනස කුමක්ද?",
+      "options": [
+        "වෙනසක් නෑ",
+        "'don't have to' — බැඳීමක් නෑ, කැමති නම් කරන්න. 'must not' — මුළුමනින්ම තහනම්",
+        "'must not' — බැඳීමක් නෑ",
+        "'don't have to' — මුළුමනින්ම තහනම්"
+      ],
+      "answer": 1,
+      "explainSi": "'don't have to' අනිවාර්ය නෑ, 'must not' කිසිසේත් කරන්න එපා."
+    },
+    {
+      "id": "a1-25-q6",
+      "q": "'හෙට වැඩට යන්න ඕන නෑ — නිවාඩුවක්.' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "I must not work tomorrow.",
+        "I don't have to work tomorrow.",
+        "I have to work tomorrow.",
+        "I not have to work tomorrow."
+      ],
+      "answer": 1,
+      "explainSi": "'don't have to' — බැඳීමක් නැති බව.",
+      "speak": "I don't have to work tomorrow."
+    },
+    {
+      "id": "a1-25-q7",
+      "q": "'Students must not use their phones in class' — කුමන ආකාරයේ වාක්‍යයක්ද?",
+      "options": [
+        "අවසරයක්",
+        "දැඩි නීතියක්, තහනමක්",
+        "ආරාධනාවක්",
+        "යෝජනාවක්"
+      ],
+      "answer": 1,
+      "explainSi": "'must not' — දැඩි නීතියක්."
+    },
+    {
+      "id": "a1-25-q8",
+      "q": "'ඉරිදාවලට වැඩට යන්න ඕනද?' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "Do you have to work on Sundays?",
+        "You have to work on Sundays?",
+        "Must you working on Sundays?",
+        "Have you to work on Sundays?"
+      ],
+      "answer": 0,
+      "explainSi": "'Do you have to...?' — 'do' සමඟ ප්‍රශ්නය හදනවා, a1-10 හි ඉගෙන ගත් රටාවම.",
+      "speak": "Do you have to work on Sundays?"
+    },
+    {
+      "id": "a1-25-q9",
+      "q": "'You must not touch that — it's very hot.' — 'must not' කියන්නෙන් අදහස් වන්නේ?",
+      "options": [
+        "අනිවාර්යයි",
+        "එය සම්පූර්ණයෙන්ම තහනම්, ආරක්ෂාව නිසා",
+        "අත්‍යවශ්‍ය නෑ",
+        "යෝජනාවක් විතරයි"
+      ],
+      "answer": 1,
+      "explainSi": "'must not' — ආරක්ෂිත හේතුවක් නිසා තහනම්."
+    },
+    {
+      "id": "a1-25-q10",
+      "q": "'Optional' කියන්නේ මොකද්ද?",
+      "options": [
+        "අනිවාර්ය",
+        "තහනම්",
+        "අත්‍යවශ්‍ය නොවන, කැමති නම් තෝරාගත හැකි",
+        "දැඩි"
+      ],
+      "answer": 2,
+      "explainSi": "'optional' — කැමති නම් තෝරාගත හැකි, බැඳීමක් නෑ."
+    },
+    {
+      "id": "a1-25-q11",
+      "context": "It was Nadun's first day at his new job. \"You have to wear this uniform every day,\" his manager said, handing him a blue shirt.",
+      "contextSi": "එය නදුන්ගේ අලුත් රැකියාවේ මුල් දවසයි. \"ඔබට හැම දාම මේ uniform එක අඳින්න ඕන,\" කළමනාකරු කිව්වා, නිල් ෂර්ට් එකක් දෙමින්.",
+      "q": "කතාව අනුව: කළමනාකරු නදුන්ට මුලින්ම කිව්වේ මොකක්ද?",
+      "options": [
+        "පරක්කු වෙන්න එපා",
+        "හැම දාම uniform එක අඳින්න ඕන",
+        "ෆෝන් පාවිච්චි කරන්න එපා",
+        "විවේකයක් ගන්න ඕන"
+      ],
+      "answer": 1,
+      "explainSi": "'You have to wear this uniform every day.'"
+    },
+    {
+      "id": "a1-25-q12",
+      "context": "\"You must not be late,\" she added. \"We start at eight sharp. But you don't have to stay after five — we finish on time here.\"",
+      "contextSi": "\"පරක්කු වෙන්න එපා,\" එයා තව කිව්වා. \"අපි අටට හරියටම පටන් ගන්නවා. නමුත් පහට පස්සේ ඉන්න ඕන නෑ — අපි වේලාවට ඉවර කරනවා.\"",
+      "q": "කතාව අනුව: නදුන්ට පහට පස්සේ ඉන්න ඕනද?",
+      "options": [
+        "ඔව්, අනිවාර්යයි",
+        "නෑ, ඕන නෑ",
+        "ඔව්, නමුත් සතියකට වරක්",
+        "කියලා නෑ"
+      ],
+      "answer": 1,
+      "explainSi": "'you don't have to stay after five.'"
+    },
+    {
+      "id": "a1-25-q13",
+      "context": "\"You have to take a break, it's not optional,\" she said, smiling. \"But you don't have to eat here — some people go home.\"",
+      "contextSi": "\"විවේකයක් ගන්න ඕන, එය optional නෑ,\" එයා සිනාසෙමින් කිව්වා. \"නමුත් මෙතන කන්න ඕන නෑ — සමහරු ගෙදර යනවා.\"",
+      "q": "කතාව අනුව: විවේකය ගැන කියද්දී 'not optional' කියන්නෙන් අදහස් වන්නේ?",
+      "options": [
+        "එය කැමති නම් තෝරාගත හැකි",
+        "එය අනිවාර්යයි",
+        "එය තහනම්",
+        "එය දවසකට එකපාරයි"
+      ],
+      "answer": 1,
+      "explainSi": "'not optional' = 'have to' — අනිවාර්ය."
+    },
+    {
+      "id": "a1-25-q14",
+      "context": "\"One more thing,\" she said, pointing at a sign on the wall. \"You must not use your phone on the factory floor. It's a safety rule.\"",
+      "contextSi": "\"තව දෙයක්,\" බිත්තියේ තියෙන සංඥාවක් පෙන්නමින් එයා කිව්වා. \"factory floor එකේදී ෆෝන් පාවිච්චි කරන්න එපා. ඒක ආරක්ෂිත නීතියක්.\"",
+      "q": "කතාව අනුව: factory floor එකේදී ෆෝන් පාවිච්චි කරන්න එපා කියන්නේ ඇයි?",
+      "options": [
+        "ෆෝන් වල charge නැති නිසා",
+        "ආරක්ෂාව සඳහා",
+        "එය රැකියාවට අදාළ නැති නිසා",
+        "ෆෝන් තහනම් නිසා"
+      ],
+      "answer": 1,
+      "explainSi": "'It's a safety rule.'"
+    },
+    {
+      "id": "a1-25-q15",
+      "context": "By the end of the day, Nadun had learned all the rules: he had to wear the uniform and take his break, he must not be late or use his phone on the floor, and he didn't have to stay past five.",
+      "contextSi": "දවස අවසානයේදී, නදුන් හැම නීතියක්ම ඉගෙනගත්තා: uniform එක අඳින්නත්, විවේකයක් ගන්නත් ඕන, පරක්කු වෙන්නත් floor එකේදී ෆෝන් පාවිච්චි කරන්නත් එපා, පහට පස්සේ ඉන්න ඕන නෑ.",
+      "q": "කතාව අනුව: නදුන් 'don't have to' කාණ්ඩයට අයත් කුමන නීතියක් ඉගෙනගත්තාද?",
+      "options": [
+        "uniform එක අඳින්න ඕන",
+        "පහට පස්සේ ඉන්න ඕන නෑ",
+        "පරක්කු වෙන්න එපා",
+        "ෆෝන් පාවිච්චි කරන්න එපා"
+      ],
+      "answer": 1,
+      "explainSi": "'he didn't have to stay past five.'"
+    },
+    {
+      "id": "a1-25-q16",
+      "context": "He walked home feeling good — the rules were clear, and that made everything easier.",
+      "contextSi": "එයා ගෙදර ගියේ හොඳ හැඟීමකින් — නීති පැහැදිලියි, ඒකෙන් හැම දේම ලේසි වුණා.",
+      "q": "කතාව අනුව: නදුන්ට හොඳ හැඟීමක් තිබුනේ ඇයි?",
+      "options": [
+        "රැකියාව අමාරු නිසා",
+        "නීති පැහැදිලි නිසා",
+        "එයාට රැකියාව අකමැති නිසා",
+        "එයා පරක්කු වුණු නිසා"
+      ],
+      "answer": 1,
+      "explainSi": "'the rules were clear, and that made everything easier.'"
+    },
+    {
+      "id": "a1-25-q17",
+      "context": "No smoking here, no parking there, / Must wear a helmet, mind your head. / You don't have to run, you don't have to rush, / Just don't have to worry instead.",
+      "contextSi": "මෙතන දුම් බොන්න එපා, එතන park කරන්න එපා, / හෙල්මට් එක අඳින්න ඕන, ඔබේ හිස ගැන හිතන්න. / දුවන්න ඕන නෑ, ඉක්මන් වෙන්න ඕන නෑ, / ඒ වෙනුවට කරදර වෙන්නවත් ඕන නෑ.",
+      "q": "කවියේ පළමු කොටසේ, කුමන වර්ගයේ නීති සඳහන් වෙනවාද?",
+      "options": [
+        "දැඩි නීති විතරයි",
+        "දැඩි නීති (must wear) සහ අනිවාර්ය නොවන දේ (don't have to) දෙකම",
+        "අනිවාර්ය නොවන දේ විතරයි",
+        "කිසිම නීතියක් නෑ"
+      ],
+      "answer": 1,
+      "explainSi": "'Must wear a helmet' (දැඩි නීතියක්) සහ 'don't have to run' (අනිවාර්ය නොවන) දෙකම එනවා."
+    },
+    {
+      "id": "a1-25-q18",
+      "context": "A world of small rules, kindly meant, / To keep us safe, and help us know / What we must do, what we must not, / And where we're free to freely go.",
+      "contextSi": "කුඩා නීති පිරුණු ලෝකයක්, කරුණාවෙන් හදපු, / අපිව ආරක්ෂිතව තියන්න, අපිට තේරෙන්න / අපි කරන්නම ඕන දේ, කරන්නම එපා දේ, / සහ නිදහසේ යන්න පුළුවන් තැන.",
+      "q": "කවියේ අන්තිම කොටසේ, නීතිවල අරමුණ මොකක්ද?",
+      "options": [
+        "මිනිසුන්ට කරදර කිරීම",
+        "අපිව ආරක්ෂිතව තියලා, තේරුම් ගැනීමට උදව් කිරීම",
+        "නිදහස සම්පූර්ණයෙන්ම නැති කිරීම",
+        "කිසිම අරමුණක් නෑ"
+      ],
+      "answer": 1,
+      "explainSi": "'To keep us safe, and help us know' — නීතිවල අරමුණ ආරක්ෂාව සහ පැහැදිලි බව."
+    },
+    {
+      "id": "a1-25-q19",
+      "context": "Guard: Yes, everyone must wear one — it's a rule here. / Visitor: Got it. And children — do they have to stay with an adult?",
+      "contextSi": "ආරක්ෂකයා: ඔව්, හැමෝම එකක් අඳින්න ඕන — මෙතන නීතියක්. / අමුත්තා: තේරුණා. ළමයි — ඔවුන් වැඩිහිටියෙකු එක්ක ඉන්න ඕනද?",
+      "q": "සංවාදයේ: තටාකයේදී හැමෝම අඳින්න ඕන දේ මොකක්ද?",
+      "options": [
+        "හෙල්මට් එකක්",
+        "පිහිනුම් cap එකක්",
+        "uniform එකක්",
+        "seatbelt එකක්"
+      ],
+      "answer": 1,
+      "explainSi": "'everyone must wear one' — පිහිනුම් cap ගැන කථා කරමින්."
+    },
+    {
+      "id": "a1-25-q20",
+      "context": "Guard: No, you don't have to — we provide them here.",
+      "contextSi": "ආරක්ෂකයා: නෑ, ඕන නෑ — අපි ඒවා දෙනවා.",
+      "q": "සංවාදයේ: අමුත්තා තමන්ගේම තුවා ගේන්න ඕනද?",
+      "options": [
+        "ඔව්, අනිවාර්යයි",
+        "නෑ, තටාකයෙන්ම ලබාදෙනවා",
+        "නෑ, තුවා තහනම්",
+        "ඔව්, නමුත් optional"
+      ],
+      "answer": 1,
+      "explainSi": "'you don't have to — we provide them here.'"
+    },
+    {
+      "id": "a1-25-q21",
+      "q": "කුමන වාක්‍යය වැරදිද?",
+      "options": [
+        "I have to work tomorrow.",
+        "She has to wake up early.",
+        "You must not park here.",
+        "He have to work tomorrow."
+      ],
+      "answer": 3,
+      "explainSi": "'He has to work tomorrow' විය යුතුයි — 'he/she/it' සමඟ 'has to'."
+    },
+    {
+      "id": "a1-25-q22",
+      "q": "'ඒක අල්ලන්න එපා — ගොඩක් රත්.' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "You don't have to touch that — it's very hot.",
+        "You must not touch that — it's very hot.",
+        "You have to touch that — it's very hot.",
+        "You not touch that."
+      ],
+      "answer": 1,
+      "explainSi": "'must not' — ආරක්ෂාව සඳහා තහනමක්.",
+      "speak": "You must not touch that — it's very hot."
+    }
+  ]
+}

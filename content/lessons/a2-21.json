@@ -1,0 +1,829 @@
+{
+  "hero": {
+    "src": "images/a2-21-hero.webp",
+    "alt": "Ruwan plugging a charger into a phone at a desk, a laptop open beside him showing a plain blank screen, wifi router on the shelf."
+  },
+  "goalsSi": [
+    "What's the wifi password? — wifi සම්බන්ධ කිරීම",
+    "Could you download this app for me? / I need to update the app.",
+    "I forgot my password. / I can't log in.",
+    "My phone's about to die. / The internet's really slow today."
+  ],
+  "goals": [
+    "Ask for the wifi password and connect",
+    "Talk about downloading and updating apps",
+    "Say you forgot a password or can't log in",
+    "Talk about a dying phone or a slow connection"
+  ],
+  "sections": [
+    {
+      "type": "note",
+      "title": "Familiar words, new sentences",
+      "titleSi": "හුරුපුරුදු වචන, අලුත් වාක්‍ය",
+      "bodySi": "'wifi', 'password', 'app', 'download' වගේ වචන දැනටමත් සිංහල කථාබහේ බහුලව භාවිතා වෙනවා. නමුත් ඒවා ඉංග්‍රීසි වාක්‍යයක් ඇතුළේ හරියට යොදන්නේ කොහොමද කියලා දැනගැනීම වෙනම කුසලතාවයක් — ඒකයි මේ පාඩම.",
+      "body": "Words like wifi, password and app are already familiar. This lesson is about using them correctly inside full English sentences."
+    },
+    {
+      "type": "grammar",
+      "title": "Connecting to wifi",
+      "titleSi": "wifi සම්බන්ධ කිරීම",
+      "explainSi": "wifi password එක අහන්නේ 'What's the wifi password?' කියලා. සම්බන්ධ කරන්න උදව් ඕන නම් 'Could you connect me to the wifi?' කියලා අහනවා.",
+      "formula": "What's the wifi password? / Could you connect me to the wifi?",
+      "table": {
+        "headers": [
+          "වාක්‍යය",
+          "සිංහල"
+        ],
+        "rows": [
+          [
+            "What's the wifi password?",
+            "wifi password එක මොකක්ද?"
+          ],
+          [
+            "Could you connect me to the wifi?",
+            "wifi එකට සම්බන්ධ කරලා දෙන්න පුළුවන්ද?"
+          ],
+          [
+            "I'm not connected to the internet.",
+            "මම අන්තර්ජාලයට සම්බන්ධ වෙලා නෑ."
+          ],
+          [
+            "It's connected now, thanks.",
+            "දැන් සම්බන්ධ වුණා, ස්තූතියි."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "Excuse me, what's the wifi password here?",
+          "si": "සමාවෙන්න, මෙතන wifi password එක මොකක්ද?"
+        },
+        {
+          "en": "Could you connect me to the wifi? I can't find the network.",
+          "si": "wifi එකට සම්බන්ධ කරලා දෙන්න පුළුවන්ද? මට network එක හම්බ වෙන්නේ නෑ."
+        }
+      ],
+      "watchOutSi": "'wifi' සෑම විටම කුඩා අකුරෙන් ලියනවා — 'Wi-Fi' කියලා ලියද්දීත් හරි, නමුත් 'wifi' සරලයි, බහුලවම භාවිතා වෙනවා."
+    },
+    {
+      "type": "grammar",
+      "title": "Downloading and updating apps",
+      "titleSi": "apps download සහ update කිරීම",
+      "explainSi": "යෙදුමක් (app) ලබාගැනීම 'download' කරනවා, අලුත් version එකකට 'update' කරනවා. 'Could you download this app for me?' කියලා උදව් ඉල්ලනවා.",
+      "formula": "Could you download/update + app?",
+      "table": {
+        "headers": [
+          "වාක්‍යය",
+          "සිංහල"
+        ],
+        "rows": [
+          [
+            "Could you download this app for me?",
+            "මේ app එක download කරලා දෙන්න පුළුවන්ද?"
+          ],
+          [
+            "I need to update the app.",
+            "app එක update කරන්න ඕන."
+          ],
+          [
+            "This app keeps crashing.",
+            "මේ app එක නැවත නැවතත් crash වෙනවා."
+          ],
+          [
+            "Have you installed the new update?",
+            "අලුත් update එක install කරාද?"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "Could you download this app for me? I don't know how.",
+          "si": "මේ app එක download කරලා දෙන්න පුළුවන්ද? මම දන්නේ නෑ කොහොමද කියලා."
+        },
+        {
+          "en": "The app keeps crashing — I might need to update it.",
+          "si": "app එක නැවත නැවතත් crash වෙනවා — update කරන්න ඕන වෙයි."
+        }
+      ],
+      "watchOutSi": "'download' සහ 'update' දෙකම ක්‍රියා පද — 'I download the app' (ලබාගන්නවා), 'I update the app' (අලුත් කරනවා). අර්ථය පටලවා ගන්න එපා."
+    },
+    {
+      "type": "grammar",
+      "title": "Forgotten passwords",
+      "titleSi": "අමතක වුණු passwords",
+      "explainSi": "password එක අමතක වුනොත් 'I forgot my password' කියනවා. log වෙන්න බැරි නම් 'I can't log in' කියනවා. password එක අලුතින් හදන්න ඕන නම් 'reset' කරනවා.",
+      "formula": "I forgot my password. I can't log in. Could you reset it?",
+      "table": {
+        "headers": [
+          "වාක්‍යය",
+          "සිංහල"
+        ],
+        "rows": [
+          [
+            "I forgot my password.",
+            "මගේ password එක අමතක වුණා."
+          ],
+          [
+            "I can't log in.",
+            "log වෙන්න බෑ."
+          ],
+          [
+            "Could you reset my password?",
+            "මගේ password එක reset කරන්න පුළුවන්ද?"
+          ],
+          [
+            "I've locked myself out of my account.",
+            "මම ගිණුමෙන් ම locked වුණා."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "I forgot my password, and now I can't log in at all.",
+          "si": "මගේ password එක අමතක වුණා, දැන් log වෙන්නම බෑ."
+        },
+        {
+          "en": "Could you help me reset my password? I've tried three times.",
+          "si": "password එක reset කරන්න උදව් කරන්න පුළුවන්ද? තුන් පාරක් උත්සාහ කළා."
+        }
+      ],
+      "watchOutSi": "'log in' යනු ක්‍රියා පදයක් විදිහට වචන දෙකක් — 'login' (එක වචනයක්) නාම පදයක් විදිහට යෙදෙනවා: 'the login page' නමුත් 'I log in'."
+    },
+    {
+      "type": "grammar",
+      "title": "Charging and connection problems",
+      "titleSi": "charge කිරීම සහ සම්බන්ධතා ප්‍රශ්න",
+      "explainSi": "දුරකථනයේ බැටරිය ඉවර වෙන්න ළඟයි නම් 'My phone's about to die.' කියනවා. අන්තර්ජාලය මන්දගාමී නම් 'The internet's really slow today.' කියනවා. wifi එක නැවත නැවතත් කැඩෙනවා නම් 'keeps disconnecting' කියනවා.",
+      "formula": "My phone's about to die. The internet's slow / keeps disconnecting.",
+      "table": {
+        "headers": [
+          "වාක්‍යය",
+          "සිංහල"
+        ],
+        "rows": [
+          [
+            "My phone's about to die — could I charge it?",
+            "මගේ phone එක ඉවර වෙන්න ළඟයි — charge කරන්න පුළුවන්ද?"
+          ],
+          [
+            "The internet's really slow today.",
+            "අද internet එක ගොඩක් slow."
+          ],
+          [
+            "The wifi keeps disconnecting.",
+            "wifi එක නැවත නැවතත් disconnect වෙනවා."
+          ],
+          [
+            "Do you have a charger I could borrow?",
+            "ණයට දෙන charger එකක් තියෙනවද?"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "My phone's about to die — do you have a charger I could borrow?",
+          "si": "මගේ phone එක ඉවර වෙන්න ළඟයි — ණයට දෙන charger එකක් තියෙනවද?"
+        },
+        {
+          "en": "Sorry for the delay, the internet's really slow today.",
+          "si": "පරක්කුවට සමාවෙන්න, අද internet එක ගොඩක් slow."
+        }
+      ],
+      "watchOutSi": "'about to die' කියන්නේ 'ළඟදීම' කියන අර්ථයෙන් — a1-15 හි ඉගෙන ගත් 'be going to' රටාවේම ආකාරයක්, 'phone is going to die soon' කියන එකට කෙටි ක්‍රමය."
+    },
+    {
+      "type": "vocab",
+      "title": "Technology and the internet",
+      "titleSi": "තාක්ෂණය සහ අන්තර්ජාලය",
+      "items": [
+        {
+          "en": "password",
+          "si": "password එක",
+          "say": "පාස්වර්ඩ්"
+        },
+        {
+          "en": "download",
+          "si": "download කරනවා",
+          "say": "ඩවුන්ලෝඩ්"
+        },
+        {
+          "en": "update",
+          "si": "update කරනවා",
+          "say": "අප්ඩේට්"
+        },
+        {
+          "en": "app",
+          "si": "app එක",
+          "say": "ඇප්"
+        },
+        {
+          "en": "wifi",
+          "si": "wifi එක",
+          "say": "වයිෆයි"
+        },
+        {
+          "en": "charger",
+          "si": "charger එක",
+          "say": "චාජර්"
+        },
+        {
+          "en": "battery",
+          "si": "බැටරිය",
+          "say": "බැටරි"
+        },
+        {
+          "en": "connect",
+          "si": "සම්බන්ධ කරනවා",
+          "say": "කනෙක්ට්"
+        },
+        {
+          "en": "log in",
+          "si": "log වෙනවා",
+          "say": "ලොග් ඉන්"
+        },
+        {
+          "en": "crash (an app)",
+          "si": "crash වෙනවා",
+          "say": "ක්‍රෑෂ්"
+        },
+        {
+          "en": "slow",
+          "si": "මන්දගාමී",
+          "say": "ස්ලෝ"
+        },
+        {
+          "en": "disconnect",
+          "si": "සම්බන්ධතාව කැඩෙනවා",
+          "say": "ඩිස්කනෙක්ට්"
+        }
+      ]
+    },
+    {
+      "type": "story",
+      "title": "Amma's New Phone",
+      "titleSi": "අම්මාගේ අලුත් phone එක",
+      "introSi": "අලුත් smartphone එකක් ලැබූ චන්ද්‍රිකා, දුව සඳුනි ලවා ඒක හදාගන්නා කතාවක්. තාක්ෂණික වචන ගණන් කරන්න.",
+      "paragraphs": [
+        {
+          "en": "Chandrika got her first smartphone for her birthday. \"There are so many buttons,\" she told her daughter, Sanduni, a little overwhelmed. \"Could you help me set it up?\"",
+          "si": "චන්ද්‍රිකාට උපන්දිනයට එයාගේ මුල් smartphone එක ලැබුනා. \"මෙහෙ ගොඩක් button තියෙනවා,\" එයාගේ දුව සඳුනිට කිව්වා, ටිකක් අවුල් වෙලා. \"මේක හදාගන්න උදව් කරන්න පුළුවන්ද?\""
+        },
+        {
+          "en": "\"Of course, Amma. First, let's connect to the wifi. What's the wifi password?\" \"It's on the little sticker under the router,\" Chandrika said, and Sanduni typed it in.",
+          "si": "\"ඇත්තෙන්ම, අම්මේ. මුලින්ම, wifi එකට සම්බන්ධ වෙමු. wifi password එක මොකක්ද?\" \"router එක යටින් තියෙන කුඩා sticker එකේ තියෙනවා,\" චන්ද්‍රිකා කිව්වා, සඳුනි ඒක ටයිප් කළා."
+        },
+        {
+          "en": "\"Now, you wanted to video call your sister, right? Could you download this app for me — I mean, could I download this app for you?\" Sanduni laughed at her own mistake and downloaded it.",
+          "si": "\"දැන්, ඔබට නංගිට video call කරන්න ඕන කිව්වේ, නේද? මේ app එක download කරලා දෙන්න පුළුවන්ද — මම කිව්වේ, මට ඔබට download කරලා දෙන්න පුළුවන්ද?\" සඳුනි එයාගේම වැරැද්දට හිනාවුණා, download කළා."
+        },
+        {
+          "en": "A week later, Chandrika called Sanduni, worried. \"I forgot my password, and now I can't log in! What do I do?\" Sanduni calmly walked her through resetting it over the phone.",
+          "si": "සතියකට පස්සේ, චන්ද්‍රිකා සඳුනිට කථා කළා, කරදර වෙලා. \"මගේ password එක අමතක වුණා, දැන් log වෙන්නම බෑ! මොකද කරන්නේ?\" සඳුනි සන්සුන්ව දුරකථනයෙන්ම reset කරන්න උදව් කළා."
+        },
+        {
+          "en": "During their next video call, Chandrika suddenly said, \"My phone's about to die — hold on, let me plug it in.\" She managed the charger without any help this time.",
+          "si": "ඊළඟ video call එකේදී, චන්ද්‍රිකා හදිසියේ කිව්වා, \"මගේ phone එක ඉවර වෙන්න ළඟයි — ටිකක් ඉන්න, charger එක දාන්නම්.\" මේ පාර කිසිම උදව්වක් නැතුව charger එක දාගත්තා."
+        },
+        {
+          "en": "A month on, Chandrika video calls her sister every Sunday without help, downloads her own apps, and only complains, quite proudly, that \"the internet's really slow today.\"",
+          "si": "මාසයකට පස්සේ, චන්ද්‍රිකා හැම ඉරිදාවකම කිසිම උදව්වක් නැතුව නංගිට video call කරනවා, තමන්ගේම apps download කරගන්නවා, පැමිණිලි කරන්නේ එච්චරයි, ටිකක් ආඩම්බරයෙන්, \"අද internet එක ගොඩක් slow\" කියලා."
+        }
+      ],
+      "glossary": [
+        {
+          "en": "overwhelmed",
+          "si": "අවුල් වෙච්ච"
+        },
+        {
+          "en": "sticker",
+          "si": "sticker එක"
+        },
+        {
+          "en": "router",
+          "si": "router එක"
+        },
+        {
+          "en": "walked her through",
+          "si": "පියවරෙන් පියවර පෙන්නුවා"
+        },
+        {
+          "en": "manage (a task)",
+          "si": "කරගන්නවා"
+        }
+      ],
+      "questionsSi": [
+        "චන්ද්‍රිකා මුලින්ම කුමක්ටද උදව් ඉල්ලුවේ?",
+        "wifi password එක තිබුනේ කොහෙද?",
+        "සතියකට පස්සේ චන්ද්‍රිකාට වුණ ප්‍රශ්නය මොකක්ද?",
+        "මාසයකට පස්සේ චන්ද්‍රිකාගේ තත්ත්වය කොහොමද?"
+      ]
+    },
+    {
+      "type": "poem",
+      "title": "Learning the Screen",
+      "titleSi": "තිරය ඉගෙනගැනීම",
+      "introSi": "අලුතින් තාක්ෂණයක් ඉගෙනගන්නා වැඩිහිටියෙක් ගැන කවියක්.",
+      "lines": [
+        {
+          "en": "My daughter's hands move fast and sure,",
+          "si": "මගේ දුවගේ අත් වේගවත්, විශ්වාසවන්ත ලෙස ගමන් කරනවා,"
+        },
+        {
+          "en": "While mine still hesitate and press.",
+          "si": "මගේ අත් තවම පැකිලෙනවා, ඔබනවා."
+        },
+        {
+          "en": "\"What's the password?\" I ask again,",
+          "si": "\"password එක මොකක්ද?\" ආයෙත් අහනවා,"
+        },
+        {
+          "en": "And she repeats it, nothing less.",
+          "si": "එයා ආයෙත් කියනවා, කැපුවා නෑ."
+        },
+        {
+          "en": "",
+          "si": ""
+        },
+        {
+          "en": "But slowly, screen by screen, I learn —",
+          "si": "නමුත් හෙමින්, තිරයෙන් තිරය, ඉගෙනගන්නවා —"
+        },
+        {
+          "en": "The app, the wifi, the small green light.",
+          "si": "app එක, wifi එක, කුඩා කොළ ලයිට් එක."
+        },
+        {
+          "en": "And now I call my sister's face,",
+          "si": "දැන් මම මගේ නංගිගේ මුහුණට කථා කරනවා,"
+        },
+        {
+          "en": "Held once again, and warm, and bright.",
+          "si": "ආයෙත් අතරමං වෙච්ච එකක් නෙවෙයි, උණුසුම්, දීප්තිමත්."
+        }
+      ],
+      "noteSi": "'What's the password?', 'the wifi' — කවියේම, අලුතින් ඉගෙනගන්නා අම්මාගේ දෙබස."
+    },
+    {
+      "type": "dialogue",
+      "title": "Tech help over the phone",
+      "titleSi": "දුරකථනයෙන් තාක්ෂණික උදව්",
+      "settingSi": "යාළුවෝ දෙන්නෙක් අතර, එකෙක්ට password එකක් අමතක වෙලා.",
+      "lines": [
+        {
+          "speaker": "Malin",
+          "en": "Hey, I can't log in to my email — I think I forgot my password.",
+          "si": "හේයි, මට email එකට log වෙන්න බෑ — password එක අමතක වුණා වගේ."
+        },
+        {
+          "speaker": "Kavya",
+          "en": "No worries. Is there a 'Forgot password' link on the page?",
+          "si": "කරදර නෑ. පිටුවේ 'Forgot password' link එකක් තියෙනවද?"
+        },
+        {
+          "speaker": "Malin",
+          "en": "Yes, I see it. It's asking me to reset it now.",
+          "si": "ඔව්, පේනවා. දැන් reset කරන්න කියනවා."
+        },
+        {
+          "speaker": "Kavya",
+          "en": "Good. While you're at it, could you also update the email app? It's an old version.",
+          "si": "හොඳයි. ඒ අතරේ, email app එකත් update කරන්නද? ඒක පරණ version එකක්."
+        },
+        {
+          "speaker": "Malin",
+          "en": "Sure. Oh, and my phone's about to die — can I call you back in ten minutes?",
+          "si": "හරි. ඕ, මගේ phone එකත් ඉවර වෙන්න ළඟයි — විනාඩි දහයකින් ආයෙත් කථා කරන්නද?"
+        },
+        {
+          "speaker": "Kavya",
+          "en": "No problem. Charge it and message me when you're back.",
+          "si": "කම් නෑ. charge කරලා, ආපහු ආවට පස්සේ message කරන්න."
+        },
+        {
+          "speaker": "Malin",
+          "en": "Will do — thanks for the help!",
+          "si": "කරන්නම් — උදව්වට ස්තූතියි!"
+        }
+      ]
+    },
+    {
+      "type": "practice",
+      "title": "Complete the tech phrase",
+      "titleSi": "තාක්ෂණික වාක්‍යය සම්පූර්ණ කරන්න",
+      "instructionSi": "දුන් තොරතුරට ගැලපෙන වාක්‍යය ලියන්න.",
+      "items": [
+        {
+          "prompt": "ask for the wifi password",
+          "answer": "What's the wifi password?",
+          "hintSi": "What's the wifi password?",
+          "full": "What's the wifi password?"
+        },
+        {
+          "prompt": "ask someone to get an app for you",
+          "answer": "Could you download this app for me?",
+          "hintSi": "Could you download...?",
+          "full": "Could you download this app for me?"
+        },
+        {
+          "prompt": "you can't remember your password",
+          "answer": "I forgot my password.",
+          "hintSi": "I forgot my password.",
+          "full": "I forgot my password."
+        },
+        {
+          "prompt": "you can't access your account",
+          "answer": "I can't log in.",
+          "hintSi": "I can't log in.",
+          "full": "I can't log in."
+        },
+        {
+          "prompt": "your phone battery is almost empty",
+          "answer": "My phone's about to die.",
+          "hintSi": "My phone's about to die.",
+          "full": "My phone's about to die."
+        },
+        {
+          "prompt": "the connection is weak today",
+          "answer": "The internet's really slow today.",
+          "hintSi": "The internet's slow...",
+          "full": "The internet's really slow today."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "en": "password",
+      "si": "password එක"
+    },
+    {
+      "en": "download",
+      "si": "download කරනවා"
+    },
+    {
+      "en": "update",
+      "si": "update කරනවා"
+    },
+    {
+      "en": "app",
+      "si": "app එක"
+    },
+    {
+      "en": "wifi",
+      "si": "wifi එක"
+    },
+    {
+      "en": "charger",
+      "si": "charger එක"
+    },
+    {
+      "en": "battery",
+      "si": "බැටරිය"
+    },
+    {
+      "en": "connect",
+      "si": "සම්බන්ධ කරනවා"
+    },
+    {
+      "en": "log in",
+      "si": "log වෙනවා"
+    },
+    {
+      "en": "crash (an app)",
+      "si": "crash වෙනවා"
+    },
+    {
+      "en": "slow",
+      "si": "මන්දගාමී"
+    },
+    {
+      "en": "disconnect",
+      "si": "සම්බන්ධතාව කැඩෙනවා"
+    },
+    {
+      "en": "overwhelmed",
+      "si": "අවුල් වෙච්ච"
+    },
+    {
+      "en": "sticker",
+      "si": "sticker එක"
+    },
+    {
+      "en": "router",
+      "si": "router එක"
+    },
+    {
+      "en": "walked her through",
+      "si": "පියවරෙන් පියවර පෙන්නුවා"
+    },
+    {
+      "en": "reset",
+      "si": "reset කරනවා"
+    },
+    {
+      "en": "install",
+      "si": "install කරනවා"
+    },
+    {
+      "en": "network",
+      "si": "network එක"
+    },
+    {
+      "en": "video call",
+      "si": "video call එකක්"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "a2-21-q1",
+      "q": "'wifi password එක මොකක්ද?' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "What's your wifi?",
+        "What's the wifi password?",
+        "Wifi password what?",
+        "What password wifi is?"
+      ],
+      "answer": 1,
+      "explainSi": "'What's the wifi password?' — සම්මත ප්‍රශ්නය.",
+      "speak": "What's the wifi password?"
+    },
+    {
+      "id": "a2-21-q2",
+      "q": "'wifi එකට සම්බන්ධ කරලා දෙන්න පුළුවන්ද?' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "Could you connect me to the wifi?",
+        "Could you connecting wifi?",
+        "Connect wifi for me now.",
+        "Could you connect wifi me?"
+      ],
+      "answer": 0,
+      "explainSi": "'Could you connect me to the wifi?' — ආචාරශීලී ඉල්ලීමක්.",
+      "speak": "Could you connect me to the wifi?"
+    },
+    {
+      "id": "a2-21-q3",
+      "q": "'download' සහ 'update' අතර වෙනස කුමක්ද?",
+      "options": [
+        "වෙනසක් නෑ",
+        "'download' — අලුතින් ලබාගැනීම, 'update' — දැනටමත් තියෙන එක අලුත් කිරීම",
+        "'update' — අලුතින් ලබාගැනීම",
+        "දෙකම එකම ක්‍රියාව"
+      ],
+      "answer": 1,
+      "explainSi": "'download' අලුතින් ලබාගැනීම, 'update' දැනටමත් තියෙන app එක අලුත් version එකකට වෙනස් කිරීම."
+    },
+    {
+      "id": "a2-21-q4",
+      "q": "'app එක නැවත නැවතත් crash වෙනවා.' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "This app keeps crashing.",
+        "This app crash always.",
+        "This app is crash.",
+        "This app keeps crash."
+      ],
+      "answer": 0,
+      "explainSi": "'keeps crashing' — 'keeps' + -ing, නැවත නැවතත් සිදු වෙන දෙයක්.",
+      "speak": "This app keeps crashing."
+    },
+    {
+      "id": "a2-21-q5",
+      "q": "'මගේ password එක අමතක වුණා.' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "I forget my password.",
+        "I forgot my password.",
+        "I forgetting password.",
+        "My password forget."
+      ],
+      "answer": 1,
+      "explainSi": "'forgot' — 'forget' හි past tense.",
+      "speak": "I forgot my password."
+    },
+    {
+      "id": "a2-21-q6",
+      "q": "'log in' සහ 'login' අතර වෙනස කුමක්ද?",
+      "options": [
+        "වෙනසක් නෑ",
+        "'log in' — ක්‍රියා පදයක් (I log in), 'login' — නාම පදයක් (the login page)",
+        "'login' — ක්‍රියා පදයක්",
+        "දෙකම නාම පද"
+      ],
+      "answer": 1,
+      "explainSi": "'log in' ක්‍රියාවක් විදිහට වචන දෙකක්, 'login' නාමයක් විදිහට එක වචනයක්."
+    },
+    {
+      "id": "a2-21-q7",
+      "q": "'password එක reset කරන්න පුළුවන්ද?' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "Could you reset my password?",
+        "Could you resetting password?",
+        "Reset my password now.",
+        "Could you password reset?"
+      ],
+      "answer": 0,
+      "explainSi": "'Could you reset my password?' — ආචාරශීලී ඉල්ලීමක්.",
+      "speak": "Could you reset my password?"
+    },
+    {
+      "id": "a2-21-q8",
+      "q": "'My phone's about to die' කියන්නෙන් අදහස් වන්නේ කුමක්ද?",
+      "options": [
+        "phone එක නැති වුණා",
+        "බැටරිය ඉවර වෙන්න ළඟයි",
+        "phone එක අලුත්",
+        "phone එක charge කරලා ඉවරයි"
+      ],
+      "answer": 1,
+      "explainSi": "'about to die' — ළඟදීම බැටරිය ඉවර වෙනවා, a1-15 හි 'be going to' රටාවේම ආකාරයක්."
+    },
+    {
+      "id": "a2-21-q9",
+      "q": "'අද internet එක ගොඩක් slow.' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "The internet's really slow today.",
+        "Today internet slow much.",
+        "Internet is slow much today.",
+        "The internet really slow is today."
+      ],
+      "answer": 0,
+      "explainSi": "'The internet's really slow today.' — 'really' + නාම විශේෂණය.",
+      "speak": "The internet's really slow today."
+    },
+    {
+      "id": "a2-21-q10",
+      "q": "'The wifi keeps disconnecting' කියන්නෙන් අදහස් වන්නේ කුමක්ද?",
+      "options": [
+        "wifi එක කිසි විටෙකත් වැඩ කරන්නේ නෑ",
+        "wifi එක නැවත නැවතත් සම්බන්ධතාව අහිමි වෙනවා",
+        "wifi එකම නෑ",
+        "wifi එක ඉතාම වේගවත්"
+      ],
+      "answer": 1,
+      "explainSi": "'keeps disconnecting' — නැවත නැවතත් සම්බන්ධතාව කැඩෙනවා."
+    },
+    {
+      "id": "a2-21-q11",
+      "context": "Chandrika got her first smartphone for her birthday. \"There are so many buttons,\" she told her daughter, Sanduni, a little overwhelmed. \"Could you help me set it up?\"",
+      "contextSi": "චන්ද්‍රිකාට උපන්දිනයට එයාගේ මුල් smartphone එක ලැබුනා. \"මෙහෙ ගොඩක් button තියෙනවා,\" එයාගේ දුව සඳුනිට කිව්වා, ටිකක් අවුල් වෙලා. \"මේක හදාගන්න උදව් කරන්න පුළුවන්ද?\"",
+      "q": "කතාව අනුව: චන්ද්‍රිකාට phone එක ලැබුනේ ඇයි?",
+      "options": [
+        "එයා එය මිලට ගත්තා",
+        "එයාගේ උපන්දිනයට",
+        "එයාගේ දුව ණයට දුන්නා",
+        "රැකියාවෙන්"
+      ],
+      "answer": 1,
+      "explainSi": "'Chandrika got her first smartphone for her birthday.'"
+    },
+    {
+      "id": "a2-21-q12",
+      "context": "\"Of course, Amma. First, let's connect to the wifi. What's the wifi password?\" \"It's on the little sticker under the router,\" Chandrika said.",
+      "contextSi": "\"ඇත්තෙන්ම, අම්මේ. මුලින්ම, wifi එකට සම්බන්ධ වෙමු. wifi password එක මොකක්ද?\" \"router එක යටින් තියෙන කුඩා sticker එකේ තියෙනවා,\" චන්ද්‍රිකා කිව්වා.",
+      "q": "කතාව අනුව: wifi password එක තිබුනේ කොහෙද?",
+      "options": [
+        "router එකේ ඇමිණූ sticker එකේ",
+        "චන්ද්‍රිකාගේ phone එකේ",
+        "සඳුනිගේ phone එකේ",
+        "ලේඛනයක"
+      ],
+      "answer": 0,
+      "explainSi": "'It's on the little sticker under the router.'"
+    },
+    {
+      "id": "a2-21-q13",
+      "context": "\"Now, you wanted to video call your sister, right? Could you download this app for me — I mean, could I download this app for you?\" Sanduni laughed at her own mistake.",
+      "contextSi": "\"දැන්, ඔබට නංගිට video call කරන්න ඕන කිව්වේ, නේද? මේ app එක download කරලා දෙන්න පුළුවන්ද — මම කිව්වේ, මට ඔබට download කරලා දෙන්න පුළුවන්ද?\" සඳුනි එයාගේම වැරැද්දට හිනාවුණා.",
+      "q": "කතාව අනුව: සඳුනි download කරන්නේ මොකටද?",
+      "options": [
+        "ගීත app එකක්",
+        "video call app එකක්, චන්ද්‍රිකාට නංගිට කථා කරන්න",
+        "සෙල්ලම් app එකක්",
+        "බැංකු app එකක්"
+      ],
+      "answer": 1,
+      "explainSi": "'you wanted to video call your sister... could I download this app for you?'"
+    },
+    {
+      "id": "a2-21-q14",
+      "context": "A week later, Chandrika called Sanduni, worried. \"I forgot my password, and now I can't log in! What do I do?\" Sanduni calmly walked her through resetting it over the phone.",
+      "contextSi": "සතියකට පස්සේ, චන්ද්‍රිකා සඳුනිට කථා කළා, කරදර වෙලා. \"මගේ password එක අමතක වුණා, දැන් log වෙන්නම බෑ! මොකද කරන්නේ?\" සඳුනි සන්සුන්ව දුරකථනයෙන්ම reset කරන්න උදව් කළා.",
+      "q": "කතාව අනුව: සතියකට පස්සේ චන්ද්‍රිකාට වුණ ප්‍රශ්නය මොකක්ද?",
+      "options": [
+        "phone එක නැති වුණා",
+        "password එක අමතක වුණා, log වෙන්න බැරි වුණා",
+        "wifi එක වැඩ කරේ නෑ",
+        "app එක crash වුණා"
+      ],
+      "answer": 1,
+      "explainSi": "'I forgot my password, and now I can't log in!'"
+    },
+    {
+      "id": "a2-21-q15",
+      "context": "During their next video call, Chandrika suddenly said, \"My phone's about to die — hold on, let me plug it in.\" She managed the charger without any help this time.",
+      "contextSi": "ඊළඟ video call එකේදී, චන්ද්‍රිකා හදිසියේ කිව්වා, \"මගේ phone එක ඉවර වෙන්න ළඟයි — ටිකක් ඉන්න, charger එක දාන්නම්.\" මේ පාර කිසිම උදව්වක් නැතුව charger එක දාගත්තා.",
+      "q": "කතාව අනුව: මේ අවස්ථාවේදී charger එක දාගැනීම චන්ද්‍රිකා කළේ කොහොමද?",
+      "options": [
+        "සඳුනිගේ උදව්වෙන්",
+        "කිසිම උදව්වක් නැතුව, තනියම",
+        "ඇගේ සහෝදරියගේ උදව්වෙන්",
+        "ඇයට charge කරගන්න බැරි වුණා"
+      ],
+      "answer": 1,
+      "explainSi": "'She managed the charger without any help this time.'"
+    },
+    {
+      "id": "a2-21-q16",
+      "context": "A month on, Chandrika video calls her sister every Sunday without help, downloads her own apps, and only complains, quite proudly, that \"the internet's really slow today.\"",
+      "contextSi": "මාසයකට පස්සේ, චන්ද්‍රිකා හැම ඉරිදාවකම කිසිම උදව්වක් නැතුව නංගිට video call කරනවා, තමන්ගේම apps download කරගන්නවා, පැමිණිලි කරන්නේ එච්චරයි, ටිකක් ආඩම්බරයෙන්, \"අද internet එක ගොඩක් slow\" කියලා.",
+      "q": "කතාව අනුව: මාසයකට පස්සේ චන්ද්‍රිකාගේ තත්ත්වය කුමක්ද?",
+      "options": [
+        "තවමත් උදව් ඕන",
+        "තනියම phone එක පාවිච්චි කරන්නට හැකි වෙලා",
+        "phone එක අත්හැරලා",
+        "සම්පූර්ණයෙන්ම අවුල් වෙලා"
+      ],
+      "answer": 1,
+      "explainSi": "'video calls... without help, downloads her own apps' — දැන් ස්වාධීනව phone එක පාවිච්චි කරනවා."
+    },
+    {
+      "id": "a2-21-q17",
+      "context": "My daughter's hands move fast and sure, / While mine still hesitate and press. / \"What's the password?\" I ask again, / And she repeats it, nothing less.",
+      "contextSi": "මගේ දුවගේ අත් වේගවත්, විශ්වාසවන්ත ලෙස ගමන් කරනවා, / මගේ අත් තවම පැකිලෙනවා, ඔබනවා. / \"password එක මොකක්ද?\" ආයෙත් අහනවා, / එයා ආයෙත් කියනවා, කැපුවා නෑ.",
+      "q": "කවියේ පළමු කොටසේ, කථකයාගේ තත්ත්වය කුමක්ද?",
+      "options": [
+        "දුවට වඩා තාක්ෂණයට දක්ෂ",
+        "දුවගේ උදව්වෙන් තාක්ෂණය හෙමින් ඉගෙනගන්නා",
+        "තාක්ෂණයට කිසිසේත් උනන්දුවක් නෑ",
+        "දුව එයාට උදව් කරන්නේ නෑ"
+      ],
+      "answer": 1,
+      "explainSi": "'hesitate and press... I ask again, and she repeats it' — හෙමින් ඉගෙනගැනීම, ඉවසිලිවන්ත උදව්."
+    },
+    {
+      "id": "a2-21-q18",
+      "context": "But slowly, screen by screen, I learn — / The app, the wifi, the small green light. / And now I call my sister's face, / Held once again, and warm, and bright.",
+      "contextSi": "නමුත් හෙමින්, තිරයෙන් තිරය, ඉගෙනගන්නවා — / app එක, wifi එක, කුඩා කොළ ලයිට් එක. / දැන් මම මගේ නංගිගේ මුහුණට කථා කරනවා, / ආයෙත් අතරමං වෙච්ච එකක් නෙවෙයි, උණුසුම්, දීප්තිමත්.",
+      "q": "කවියේ අන්තිම කොටසේ, තාක්ෂණය ඉගෙනගැනීමේ අවසාන ප්‍රතිඵලය කුමක්ද?",
+      "options": [
+        "තාක්ෂණයට තවමත් අකමැතියි",
+        "ඈත ඉන්න සහෝදරිය නැවත 'දකින්න' ලැබීම",
+        "phone එක අත්හැරලා",
+        "app එක crash වුණා"
+      ],
+      "answer": 1,
+      "explainSi": "'I call my sister's face, Held once again' — තාක්ෂණයෙන් නැවත සම්බන්ධ වීම."
+    },
+    {
+      "id": "a2-21-q19",
+      "context": "Kavya: While you're at it, could you also update the email app? It's an old version. / Malin: Sure. Oh, and my phone's about to die — can I call you back in ten minutes?",
+      "contextSi": "කව්‍යා: ඒ අතරේ, email app එකත් update කරන්නද? ඒක පරණ version එකක්. / මාලින්: හරි. ඕ, මගේ phone එකත් ඉවර වෙන්න ළඟයි — විනාඩි දහයකින් ආයෙත් කථා කරන්නද?",
+      "q": "සංවාදයේ: කව්‍යා මාලින්ට කුමක්ද කරන්න යෝජනා කළේ?",
+      "options": [
+        "password එක reset කරන්න",
+        "email app එක update කරන්න",
+        "phone එක charge කරන්න",
+        "wifi එකට සම්බන්ධ වෙන්න"
+      ],
+      "answer": 1,
+      "explainSi": "'could you also update the email app? It's an old version.'"
+    },
+    {
+      "id": "a2-21-q20",
+      "context": "Kavya: No problem. Charge it and message me when you're back. / Malin: Will do — thanks for the help!",
+      "contextSi": "කව්‍යා: කම් නෑ. charge කරලා, ආපහු ආවට පස්සේ message කරන්න. / මාලින්: කරන්නම් — උදව්වට ස්තූතියි!",
+      "q": "සංවාදයේ: කථාව නවතින්නේ ඇයි?",
+      "options": [
+        "wifi එක කැඩුනු නිසා",
+        "මාලින්ගේ phone එක charge කරන්න ඕන නිසා",
+        "password එක අමතක වුණු නිසා",
+        "app එක download කරන්න ඕන නිසා"
+      ],
+      "answer": 1,
+      "explainSi": "'my phone's about to die — can I call you back in ten minutes?'"
+    },
+    {
+      "id": "a2-21-q21",
+      "q": "කුමන වාක්‍යය වැරදිද?",
+      "options": [
+        "What's the wifi password?",
+        "I forgot my password.",
+        "My phone about to die.",
+        "The internet's really slow today."
+      ],
+      "answer": 2,
+      "explainSi": "'My phone's about to die' විය යුතුයි — 'is' (My phone is) අත්‍යවශ්‍යයි."
+    },
+    {
+      "id": "a2-21-q22",
+      "q": "'app එක update කරන්න ඕන.' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "I need to update the app.",
+        "I need update app.",
+        "I updating the app need.",
+        "App need to update I."
+      ],
+      "answer": 0,
+      "explainSi": "'I need to update the app.' — 'need to' + ක්‍රියාව.",
+      "speak": "I need to update the app."
+    }
+  ]
+}

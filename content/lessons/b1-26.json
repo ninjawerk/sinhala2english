@@ -1,0 +1,790 @@
+{
+  "hero": {
+    "src": "images/b1-26-hero.webp",
+    "alt": "Nadeesha reaching up to switch off a wall lamp in a hallway, a suitcase and coat by the door behind her, late evening."
+  },
+  "goalsSi": [
+    "phrasal verb කියන්නේ මොකක්ද කියලා තේරුම් ගන්න",
+    "වෙන් කරන්න පුළුවන් ඒවා — turn the light on / turn it on",
+    "සර්වනාමයක් තියෙනකොට ඒක මැදට යන එක",
+    "වෙන් කරන්න බැරි ඒවා",
+    "බහුලම phrasal verb විස්සක් දැනගන්න",
+    "විධිමත් විකල්පය දැනගන්න"
+  ],
+  "goals": [
+    "Understand what a phrasal verb is",
+    "Separate the ones that can be separated",
+    "Know that a pronoun must go in the middle",
+    "Recognise the ones that cannot be split",
+    "Learn twenty of the most common",
+    "Know the formal alternative"
+  ],
+  "sections": [
+    {
+      "type": "note",
+      "title": "Two words, one meaning",
+      "titleSi": "වචන දෙකක්, එක අර්ථයක්",
+      "bodySi": "ඉංග්‍රීසි කථා කරන අය 'extinguish the light' කියන්නේ නෑ. 'Turn the light off' කියනවා.\n'Postpone the meeting' කියන්නේ නෑ. 'Put the meeting off' කියනවා.\n'Reject the offer' කියන්නේ නෑ. 'Turn the offer down' කියනවා.\n\nමේවාට කියන්නේ phrasal verbs. ක්‍රියාවක් + පොඩි වචනයක් (on, off, up, down, out, in). දෙක එකට අලුත් අර්ථයක් හදනවා.\n\nඅමාරුව මේකයි: කොටස් දෙකේ අර්ථයෙන් මුළු එකේ අර්ථය හදන්න බෑ.\n\n'Give up' — 'දෙනවා' + 'උඩට' නෙවෙයි. 'අත්හරිනවා'.\n'Look after' — 'බලනවා' + 'පස්සේ' නෙවෙයි. 'රැකබලා ගන්නවා'.\n'Turn down' — 'හරවනවා' + 'පහළට' නෙවෙයි. 'ප්‍රතික්ෂේප කරනවා'.\n\nඒ නිසා ඒවා වචන දෙකක් ලෙස නෙවෙයි, එක වචනයක් ලෙස ඉගෙන ගන්න ඕන.\n\nහොඳ ආරංචිය: ඒවා ඉගෙන ගත්තම ඔයාගේ ඉංග්‍රීසිය එකපාරටම ස්වාභාවික වෙනවා. පොත් ඉංග්‍රීසියයි කථා කරන ඉංග්‍රීසියයි අතර ලොකුම වෙනස මේකයි.",
+      "body": "A verb plus a small word making a new meaning you cannot work out from the parts. They are the biggest single difference between book English and spoken English."
+    },
+    {
+      "type": "grammar",
+      "title": "The ones you can split",
+      "titleSi": "වෙන් කරන්න පුළුවන් ඒවා",
+      "explainSi": "සමහර phrasal verb වලට object එකක් තියෙනවා. එතකොට වචන දෙක වෙන් කරන්න පුළුවන්.\n\n'Turn on the light.' ✓\n'Turn the light on.' ✓\n\nදෙකම හරි. තෝරගන්න පුළුවන්.\n\nඒත් object එක සර්වනාමයක් නම් (it, them, him, her) — ඒක මැදට යන්නම ඕන.\n\n'Turn it on.' ✓\n'Turn on it.' ✗\n\nමේක නීතියක්, තේරීමක් නෙවෙයි. බහුලම වැරැද්දත් මේකයි.\n\n'He turned the job down.' ✓\n'He turned down the job.' ✓\n'He turned it down.' ✓\n'He turned down it.' ✗\n\nතව උදාහරණ:\n'Switch it off.' / 'Pick them up.' / 'Fill it in.' / 'Give it up.'\n\nලේසි මතක් කිරීමක්: it, them, him, her — හැමවිටම මැදට.",
+      "explain": "Separable phrasal verbs take the object either way — except a pronoun, which must go in the middle.",
+      "formula": "turn on the light = turn the light on  ·  turn it on (only)",
+      "table": {
+        "headers": [
+          "හරි",
+          "හරි",
+          "වැරදි"
+        ],
+        "rows": [
+          [
+            "turn on the light",
+            "turn the light on",
+            "turn on it"
+          ],
+          [
+            "put off the meeting",
+            "put the meeting off",
+            "put off it"
+          ],
+          [
+            "fill in the form",
+            "fill the form in",
+            "fill in it"
+          ],
+          [
+            "pick up the children",
+            "pick the children up",
+            "pick up them"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "They made the whole story up.",
+          "si": "ඒගොල්ලෝ මුළු කතාවම හදාගත්තා."
+        },
+        {
+          "en": "He turned the job down because of the hours.",
+          "si": "වෙලාවන් නිසා එයා ඒ රස්සාව ප්‍රතික්ෂේප කළා."
+        },
+        {
+          "en": "Switch it off before you go.",
+          "si": "යන්න කලින් ඒක නිවන්න."
+        }
+      ],
+      "watchOutSi": "දිග object එකක් නම් ඒක අගට තියන එක ස්වාභාවිකයි. 'Turn off the light in the back room' ✓ — 'Turn the light in the back room off' කියන එක ව්‍යාකරණ අනුව හරි වුණත් අමුතුයි."
+    },
+    {
+      "type": "grammar",
+      "title": "The ones you cannot split",
+      "titleSi": "වෙන් කරන්න බැරි ඒවා",
+      "explainSi": "සමහර ඒවා වෙන් කරන්නම බෑ. ඒවා හැමවිටම එකට.\n\n'Look after the children.' ✓\n'Look the children after.' ✗\n'Look after them.' ✓\n'Look them after.' ✗\n\nමේ වර්ගයේ ඒවා:\nlook after (රැකබලා ගන්නවා) · look for (හොයනවා) · look into (විමර්ශනය කරනවා) · get on with (හිතවත්ව ඉන්නවා) · run into (අහම්බෙන් හම්බ වෙනවා) · take after (කෙනෙක් වගේ) · deal with (හසුරුවනවා) · look forward to (බලාපොරොත්තුවෙන්)\n\nරටාවක් තියෙනවාද? තියෙනවා, ඒත් සම්පූර්ණ නෑ: preposition එකක් තියෙන ඒවා (after, for, into, with) සාමාන්‍යයෙන් වෙන් වෙන්නේ නෑ. Adverb එකක් තියෙන ඒවා (on, off, up, down, out) සාමාන්‍යයෙන් වෙන් වෙනවා.\n\nතව වර්ගයක් තියෙනවා — object එකක් නැති ඒවා:\n'The car broke down.' — කාරය කැඩුණා.\n'Please sit down.' — වාඩි වෙන්න.\n'What time did you get up?' — කීයටද නැගිට්ටේ?\n'The plane took off.' — යානය පිටත් වුණා.\n\nඒවාට object එකක් නැති නිසා වෙන් කරන ප්‍රශ්නයක් නෑ.",
+      "explain": "Ones with a preposition (after, for, into, with) usually stay together. Ones with an adverb (on, off, up, down) usually separate. Some take no object at all.",
+      "formula": "look after them ✓ · look them after ✗",
+      "table": {
+        "headers": [
+          "වර්ගය",
+          "උදාහරණය",
+          "වෙන් වෙනවාද?"
+        ],
+        "rows": [
+          [
+            "adverb එකක්",
+            "turn the light off",
+            "ඔව්"
+          ],
+          [
+            "preposition එකක්",
+            "look after the baby",
+            "නෑ"
+          ],
+          [
+            "object නෑ",
+            "the car broke down",
+            "අදාළ නෑ"
+          ],
+          [
+            "වචන තුනක්",
+            "get on with him",
+            "නෑ"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "Who is looking after the shop while you are away?",
+          "si": "ඔයා නැති වෙලාවට කඩේ බලාගන්නේ කවුද?"
+        },
+        {
+          "en": "I ran into your brother at the market.",
+          "si": "පොළේදී මට ඔයාගේ අයියා අහම්බෙන් හම්බ වුණා."
+        },
+        {
+          "en": "The washing machine broke down again.",
+          "si": "රෙදි සෝදන යන්ත්‍රය ආපහු කැඩුණා."
+        }
+      ],
+      "watchOutSi": "'Look for' සහ 'look after' සහ 'look into' — 'look' එකම, අර්ථ තුනක්. හොයනවා, රැකබලා ගන්නවා, විමර්ශනය කරනවා. පොඩි වචනේ තමයි අර්ථය හදන්නේ."
+    },
+    {
+      "type": "grammar",
+      "title": "Twenty worth knowing",
+      "titleSi": "දැනගන්න වටින විස්සක්",
+      "explainSi": "සිය ගණනක් තියෙනවා. මේ විස්ස දිනපතා ඕන වෙනවා.\n\nturn on / off — දානවා / නිවනවා\nturn up / down — ශබ්දය වැඩි / අඩු කරනවා; තව 'turn down' = ප්‍රතික්ෂේප කරනවා; 'turn up' = එනවා\nput on / take off — ඇඳුම් අඳිනවා / ගලවනවා\nput off — කල් දානවා\npick up — අරගෙන යනවා, එක්කගෙන යනවා\ngive up — අත්හරිනවා\nfind out — දැනගන්නවා\nwork out — විසඳෙනවා; ව්‍යායාම කරනවා\nlook after — රැකබලා ගන්නවා\nlook for — හොයනවා\nget up — නැගිටිනවා\nget on with — හිතවත්ව ඉන්නවා\nbreak down — කැඩෙනවා\nfill in — ෆෝම් එකක් පුරවනවා\nmake up — හදාගන්නවා (බොරුවක්); සමාදාන වෙනවා\ncall off — අවලංගු කරනවා\nrun out of — ඉවර වෙනවා\ntake off — යානය පිටත් වෙනවා; ගලවනවා\ncome across — අහම්බෙන් හම්බ වෙනවා\ndeal with — හසුරුවනවා\n\nවැදගත් දෙයක්: හැම phrasal verb එකකටම විධිමත් විකල්පයක් තියෙනවා — put off / postpone, find out / discover, call off / cancel, deal with / handle.\n\nකථාවේදී phrasal verb එක. විධිමත් ලියවිල්ලකදී අනිත් එක. දෙකම දැනගන්න ඕන.",
+      "explain": "Twenty that come up daily. Each has a formal single-word alternative — the phrasal verb for speech, the other for a report.",
+      "formula": "put off = postpone · find out = discover · call off = cancel",
+      "table": {
+        "headers": [
+          "Phrasal verb",
+          "විධිමත් එක",
+          "සිංහල"
+        ],
+        "rows": [
+          [
+            "put off",
+            "postpone",
+            "කල් දානවා"
+          ],
+          [
+            "find out",
+            "discover",
+            "දැනගන්නවා"
+          ],
+          [
+            "call off",
+            "cancel",
+            "අවලංගු කරනවා"
+          ],
+          [
+            "turn down",
+            "reject",
+            "ප්‍රතික්ෂේප කරනවා"
+          ],
+          [
+            "look into",
+            "investigate",
+            "විමර්ශනය කරනවා"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "We've run out of sugar again.",
+          "si": "සීනි ආපහු ඉවරයි."
+        },
+        {
+          "en": "They called the wedding off two weeks before.",
+          "si": "සති දෙකකට කලින් ඒගොල්ලෝ මංගල්‍යය අවලංගු කළා."
+        },
+        {
+          "en": "I came across an old photograph of my father.",
+          "si": "තාත්තාගේ පරණ ෆොටෝ එකක් මට අහම්බෙන් හම්බ වුණා."
+        }
+      ],
+      "watchOutSi": "'Turn up' එකට අර්ථ දෙකක් — ශබ්දය වැඩි කරනවා, සහ එනවා. 'He turned up late' කියන්නේ 'එයා පරක්කු වෙලා ආවා' කියලා."
+    },
+    {
+      "type": "vocab",
+      "title": "Everyday phrasal verbs",
+      "titleSi": "දිනපතා phrasal verbs",
+      "introSi": "එක වචනයක් ලෙස ඉගෙන ගන්න — කොටස් දෙකක් ලෙස නෙවෙයි.",
+      "items": [
+        {
+          "en": "turn off",
+          "si": "නිවනවා",
+          "say": "ටර්න් ඔෆ්",
+          "exampleEn": "Turn the light off.",
+          "exampleSi": "ලයිට් එක නිවන්න."
+        },
+        {
+          "en": "turn down",
+          "si": "ප්‍රතික්ෂේප කරනවා",
+          "say": "ටර්න් ඩවුන්",
+          "exampleEn": "He turned the job down.",
+          "exampleSi": "එයා ඒ රස්සාව ප්‍රතික්ෂේප කළා."
+        },
+        {
+          "en": "put off",
+          "si": "කල් දානවා",
+          "say": "පුට් ඔෆ්",
+          "exampleEn": "They put the meeting off.",
+          "exampleSi": "ඒගොල්ලෝ රැස්වීම කල් දැම්මා."
+        },
+        {
+          "en": "pick up",
+          "si": "එක්කගෙන යනවා",
+          "say": "පික් අප්",
+          "exampleEn": "I'll pick you up at six.",
+          "exampleSi": "මම හයට ඔයාව එක්කගෙන යන්නම්."
+        },
+        {
+          "en": "give up",
+          "si": "අත්හරිනවා",
+          "say": "ගිව් අප්",
+          "exampleEn": "Don't give up.",
+          "exampleSi": "අත්හරින්න එපා."
+        },
+        {
+          "en": "find out",
+          "si": "දැනගන්නවා",
+          "say": "ෆයින්ඩ් අවුට්",
+          "exampleEn": "I'll find out tomorrow.",
+          "exampleSi": "හෙට මම දැනගන්නම්."
+        },
+        {
+          "en": "work out",
+          "si": "විසඳෙනවා",
+          "say": "වර්ක් අවුට්",
+          "exampleEn": "It worked out fine.",
+          "exampleSi": "ඒක හොඳට විසඳුණා."
+        },
+        {
+          "en": "look after",
+          "si": "රැකබලා ගන්නවා",
+          "say": "ලුක් ආෆ්ටර්",
+          "exampleEn": "Who looks after the dog?",
+          "exampleSi": "බල්ලාව බලාගන්නේ කවුද?"
+        },
+        {
+          "en": "look for",
+          "si": "හොයනවා",
+          "say": "ලුක් ෆෝ",
+          "exampleEn": "I'm looking for my keys.",
+          "exampleSi": "මම යතුරු හොයනවා."
+        },
+        {
+          "en": "get on with",
+          "si": "හිතවත්ව ඉන්නවා",
+          "say": "ගෙට් ඔන් විත්",
+          "exampleEn": "I get on with him well.",
+          "exampleSi": "මම එයාත් එක්ක හොඳට හිතවත්."
+        },
+        {
+          "en": "break down",
+          "si": "කැඩෙනවා",
+          "say": "බ්‍රේක් ඩවුන්",
+          "exampleEn": "The car broke down.",
+          "exampleSi": "කාරය කැඩුණා."
+        },
+        {
+          "en": "fill in",
+          "si": "පුරවනවා",
+          "say": "ෆිල් ඉන්",
+          "exampleEn": "Fill in this form.",
+          "exampleSi": "මේ ෆෝම් එක පුරවන්න."
+        },
+        {
+          "en": "make up",
+          "si": "හදාගන්නවා (බොරු)",
+          "say": "මේක් අප්",
+          "exampleEn": "They made the story up.",
+          "exampleSi": "ඒගොල්ලෝ ඒ කතාව හදාගත්තා."
+        },
+        {
+          "en": "call off",
+          "si": "අවලංගු කරනවා",
+          "say": "කෝල් ඔෆ්",
+          "exampleEn": "They called it off.",
+          "exampleSi": "ඒගොල්ලෝ ඒක අවලංගු කළා."
+        },
+        {
+          "en": "run out of",
+          "si": "ඉවර වෙනවා",
+          "say": "රන් අවුට් ඔෆ්",
+          "exampleEn": "We've run out of milk.",
+          "exampleSi": "කිරි ඉවරයි."
+        },
+        {
+          "en": "come across",
+          "si": "අහම්බෙන් හම්බ වෙනවා",
+          "say": "කම් අක්‍රොස්",
+          "exampleEn": "I came across an old letter.",
+          "exampleSi": "පරණ ලියුමක් අහම්බෙන් හම්බ වුණා."
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "The car broke down",
+      "titleSi": "කාරය කැඩුණා",
+      "settingSi": "දුරකථනයෙන්. phrasal verb කීයක් තියෙනවාද කියලා ගණන් කරන්න.",
+      "lines": [
+        {
+          "speaker": "Nadeesha",
+          "en": "I'm going to be late. The car broke down at the junction.",
+          "si": "මම පරක්කු වෙනවා. හන්දියේදී කාරය කැඩුණා."
+        },
+        {
+          "speaker": "Ruwan",
+          "en": "Oh no. Do you want me to pick you up?",
+          "si": "අනේ. මම ඔයාව එක්කගෙන එන්නද?"
+        },
+        {
+          "speaker": "Nadeesha",
+          "en": "No, a mechanic is looking at it. But we may have to put dinner off.",
+          "si": "නෑ, කාර්මිකයෙක් බලනවා. ඒත් රෑ කෑම කල් දාන්න වෙයි."
+        },
+        {
+          "speaker": "Ruwan",
+          "en": "Don't worry. Shall I call the restaurant off?",
+          "si": "කමක් නෑ. මම රෙස්ටෝරන්ට් එක අවලංගු කරන්නද?"
+        },
+        {
+          "speaker": "Nadeesha",
+          "en": "Call it off, yes. We can try again on Friday.",
+          "si": "අවලංගු කරන්න, ඔව්. සිකුරාදා ආපහු බලමු."
+        },
+        {
+          "speaker": "Ruwan",
+          "en": "Did you find out what's wrong with it?",
+          "si": "ඒකේ මොකද වෙලා තියෙන්නේ කියලා දැනගත්තාද?"
+        },
+        {
+          "speaker": "Nadeesha",
+          "en": "Not yet. He's still looking into it.",
+          "si": "තාම නෑ. එයා තාම බලනවා."
+        },
+        {
+          "speaker": "Ruwan",
+          "en": "Right. Well, don't give up on the evening — I'll cook.",
+          "si": "හරි. හවස ගැන බලාපොරොත්තු අත්හරින්න එපා — මම උයන්නම්."
+        }
+      ]
+    },
+    {
+      "type": "story",
+      "title": "The form nobody could fill in",
+      "titleSi": "කාටවත් පුරවන්න බැරි වුණු ෆෝම් එක",
+      "introSi": "phrasal verb ගොඩක් තියෙන කෙටි කතාවක්.",
+      "paragraphs": [
+        {
+          "en": "The grant form ran to nine pages. Three people in the office had tried to fill it in and given up.",
+          "si": "ප්‍රදාන ෆෝම් එක පිටු නවයක්. ඔෆිස් එකේ තුන්දෙනෙක් ඒක පුරවන්න උත්සාහ කරලා අත්හැරලා."
+        },
+        {
+          "en": "Ranjani took it home. She found out that six of the nine pages did not apply to us at all, and crossed them out.",
+          "si": "රංජනී ඒක ගෙදර අරන් ගියා. පිටු නවයෙන් හයක් අපිට කිසිසේත් අදාළ නෑ කියලා ඇය දැනගත්තා, ඒවා කපලා දැම්මා."
+        },
+        {
+          "en": "On page four she came across a question nobody had understood. She rang the department, and it turned out they had left an old question in by mistake.",
+          "si": "හතරවෙනි පිටුවේ කාටවත් තේරිලා නැති ප්‍රශ්නයක් ඇයට හම්බ වුණා. ඇය දෙපාර්තමේන්තුවට කතා කළා, පරණ ප්‍රශ්නයක් වැරදීමකින් තියලා තියෙනවා කියලා තේරුණා."
+        },
+        {
+          "en": "The form went in on the Friday. We got the grant. Nobody in the office has ever put a form off since — they just ring the department.",
+          "si": "ෆෝම් එක සිකුරාදා ගියා. අපිට ප්‍රදානය ලැබුණා. එදා ඉඳන් ඔෆිස් එකේ කවුරුවත් ෆෝම් එකක් කල් දාලා නෑ — දෙපාර්තමේන්තුවට කතා කරනවා විතරයි."
+        }
+      ],
+      "glossary": [
+        {
+          "en": "grant",
+          "si": "ප්‍රදානය"
+        },
+        {
+          "en": "apply to",
+          "si": "අදාළ වෙනවා"
+        },
+        {
+          "en": "cross out",
+          "si": "කපනවා"
+        },
+        {
+          "en": "turn out",
+          "si": "අන්තිමට තේරෙනවා"
+        }
+      ],
+      "questionsSi": [
+        "phrasal verb කීයක් හොයාගන්න පුළුවන්ද?",
+        "රංජනී කළේ මොකක්ද?",
+        "'give up', 'fill in', 'come across' — තේරුම් මොනවාද?"
+      ]
+    },
+    {
+      "type": "tip",
+      "title": "Pronouns go in the middle",
+      "titleSi": "සර්වනාම මැදට",
+      "bodySi": "වෙන් කරන්න පුළුවන් phrasal verb එකකට object එක it, them, him, her නම් — ඒක මැදට යන්නම ඕන.\n\n✓ Turn it on. · ✗ Turn on it.\n✓ Pick them up. · ✗ Pick up them.\n✓ Fill it in. · ✗ Fill in it.\n✓ Give it up. · ✗ Give up it.\n\nනාම පදයක් නම් දෙපැත්තෙන්ම හරි:\n✓ Turn on the light. · ✓ Turn the light on.\n\nමේ එක නීතිය දැනගත්තම phrasal verb වල බහුලම වැරැද්ද වළක්වගන්න පුළුවන්.",
+      "body": "With a separable phrasal verb, a pronoun object must sit in the middle. A noun object can go either side."
+    },
+    {
+      "type": "practice",
+      "title": "Put it in the right place",
+      "titleSi": "හරි තැනට දාන්න",
+      "instructionSi": "වරහන් තුළ ඇති object එක හරි තැනට දාලා වාක්‍යය ලියන්න.",
+      "items": [
+        {
+          "prompt": "Turn off ___ . (it)",
+          "answer": "Turn it off",
+          "hintSi": "සර්වනාමයක් — මැදට.",
+          "full": "Turn it off."
+        },
+        {
+          "prompt": "Pick up ___ at six. (them)",
+          "answer": "Pick them up",
+          "hintSi": "සර්වනාමයක් — මැදට.",
+          "full": "Pick them up at six."
+        },
+        {
+          "prompt": "He turned down ___ . (the job)",
+          "answer": "the job",
+          "hintSi": "නාම පදයක් — දෙපැත්තෙන්ම හරි.",
+          "full": "He turned down the job. / He turned the job down."
+        },
+        {
+          "prompt": "Who is looking after ___ ? (them)",
+          "answer": "them",
+          "hintSi": "මේක වෙන් කරන්න බෑ.",
+          "full": "Who is looking after them?"
+        },
+        {
+          "prompt": "Fill in ___ , please. (it)",
+          "answer": "Fill it in",
+          "hintSi": "සර්වනාමයක් — මැදට.",
+          "full": "Fill it in, please."
+        },
+        {
+          "prompt": "The car broke ___ on the way. (down)",
+          "answer": "down",
+          "hintSi": "object එකක් නෑ.",
+          "full": "The car broke down on the way."
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "b1-26-q1",
+      "q": "phrasal verb එකක අර්ථය හදන්නේ කොහොමද?",
+      "options": [
+        "කොටස් දෙකේ අර්ථ එකතු කරලා",
+        "දෙක එකට අලුත් අර්ථයක් හදනවා — කොටස්වලින් හදන්න බෑ",
+        "පළවෙනි වචනයෙන් විතරයි",
+        "දෙවෙනි වචනයෙන් විතරයි"
+      ],
+      "answer": 1,
+      "explainSi": "'give up' කියන්නේ 'දෙනවා' + 'උඩට' නෙවෙයි."
+    },
+    {
+      "id": "b1-26-q2",
+      "q": "කුමන එක වැරදිද?",
+      "options": [
+        "Turn the light on.",
+        "Turn on the light.",
+        "Turn it on.",
+        "Turn on it."
+      ],
+      "answer": 3,
+      "explainSi": "සර්වනාමයක් හැමවිටම මැදට."
+    },
+    {
+      "id": "b1-26-q3",
+      "q": "'Pick up them' — වැරැද්ද?",
+      "options": [
+        "'pick up' වැරදියි",
+        "'them' සර්වනාමයක් නිසා මැදට යන්න ඕන",
+        "'them' වෙනුවට 'they'",
+        "වැරැද්දක් නෑ"
+      ],
+      "answer": 1,
+      "explainSi": "'Pick them up.'"
+    },
+    {
+      "id": "b1-26-q4",
+      "q": "'Look after' වෙන් කරන්න පුළුවන්ද?",
+      "options": [
+        "ඔව්",
+        "නෑ — 'look them after' වැරදියි",
+        "ඔව්, සර්වනාමයක් නම් විතරක්",
+        "ඔව්, ප්‍රශ්නවලට විතරක්"
+      ],
+      "answer": 1,
+      "explainSi": "preposition එකක් තියෙන ඒවා සාමාන්‍යයෙන් වෙන් වෙන්නේ නෑ."
+    },
+    {
+      "id": "b1-26-q5",
+      "q": "'turn down' එකේ අර්ථ දෙකෙන් එකක්?",
+      "options": [
+        "එනවා",
+        "ප්‍රතික්ෂේප කරනවා",
+        "පුරවනවා",
+        "අවලංගු කරනවා"
+      ],
+      "answer": 1,
+      "explainSi": "ශබ්දය අඩු කරනවා, සහ ප්‍රතික්ෂේප කරනවා."
+    },
+    {
+      "id": "b1-26-q6",
+      "q": "'put off' එකේ විධිමත් විකල්පය?",
+      "options": [
+        "cancel",
+        "postpone",
+        "discover",
+        "reject"
+      ],
+      "answer": 1,
+      "explainSi": "put off = postpone (කල් දානවා)."
+    },
+    {
+      "id": "b1-26-q7",
+      "q": "'call off' එකේ විධිමත් විකල්පය?",
+      "options": [
+        "postpone",
+        "cancel",
+        "investigate",
+        "handle"
+      ],
+      "answer": 1,
+      "explainSi": "call off = cancel."
+    },
+    {
+      "id": "b1-26-q8",
+      "q": "'The car broke down' — මෙතන object එකක් තියෙනවාද?",
+      "options": [
+        "ඔව්, 'car'",
+        "නෑ — object එකක් නැති phrasal verb එකක්",
+        "ඔව්, 'down'",
+        "කියන්න බෑ"
+      ],
+      "answer": 1,
+      "explainSi": "'car' කියන්නේ subject එක. ඒ නිසා වෙන් කරන ප්‍රශ්නයක් නෑ."
+    },
+    {
+      "id": "b1-26-q9",
+      "q": "'look for', 'look after', 'look into' —",
+      "options": [
+        "තුනම එකයි",
+        "එකම ක්‍රියාව, අර්ථ තුනක් — පොඩි වචනේ තමයි අර්ථය හදන්නේ",
+        "දෙකක් වැරදියි",
+        "තුනම වෙන් කරන්න පුළුවන්"
+      ],
+      "answer": 1,
+      "explainSi": "හොයනවා / රැකබලා ගන්නවා / විමර්ශනය කරනවා."
+    },
+    {
+      "id": "b1-26-q10",
+      "q": "හිස් තැනට: 'We've run ___ of sugar.'",
+      "options": [
+        "off",
+        "out",
+        "up",
+        "down"
+      ],
+      "answer": 1,
+      "explainSi": "run out of — ඉවර වෙනවා."
+    },
+    {
+      "id": "b1-26-q11",
+      "q": "'I came across an old letter' කියන්නේ?",
+      "options": [
+        "මම ලියුමක් ලිව්වා",
+        "අහම්බෙන් ලියුමක් හම්බ වුණා",
+        "මම ලියුමක් හෙව්වා",
+        "මම ලියුමක් යැව්වා"
+      ],
+      "answer": 1,
+      "explainSi": "come across = හොයන්නේ නැතුව හම්බ වෙනවා."
+    },
+    {
+      "id": "b1-26-q12",
+      "q": "දිග object එකක් තියෙනකොට වඩා ස්වාභාවික එක?",
+      "options": [
+        "Turn the light in the back room off.",
+        "Turn off the light in the back room.",
+        "Turn off it.",
+        "Turn the light off in the back room off."
+      ],
+      "answer": 1,
+      "explainSi": "දිග object එකක් අගට තියන එක ස්වාභාවිකයි."
+    },
+    {
+      "id": "b1-26-q13",
+      "q": "'make up' එකේ අර්ථයක්?",
+      "options": [
+        "කැඩෙනවා",
+        "බොරුවක් හදාගන්නවා",
+        "පුරවනවා",
+        "නිවනවා"
+      ],
+      "answer": 1,
+      "explainSi": "'They made the story up.' තව අර්ථයක් — සමාදාන වෙනවා."
+    },
+    {
+      "id": "b1-26-q14",
+      "q": "phrasal verb ඉගෙන ගන්න හොඳම ක්‍රමය?",
+      "options": [
+        "වචන දෙක වෙන වෙනම",
+        "එක වචනයක් ලෙස, අර්ථය එක්කම",
+        "අකාරාදී පිළිවෙළට",
+        "ලියලා විතරක්"
+      ],
+      "answer": 1,
+      "explainSi": "කොටස්වලින් අර්ථය හදන්න බැරි නිසා."
+    },
+    {
+      "id": "b1-26-q15",
+      "q": "'He turned up late' කියන්නේ?",
+      "options": [
+        "ශබ්දය වැඩි කළා",
+        "එයා පරක්කු වෙලා ආවා",
+        "එයා ප්‍රතික්ෂේප කළා",
+        "එයා නැගිට්ටා"
+      ],
+      "answer": 1,
+      "explainSi": "'turn up' එකට අර්ථ දෙකක් — ශබ්දය වැඩි කරනවා, සහ එනවා."
+    },
+    {
+      "id": "b1-26-q16",
+      "q": "විධිමත් වාර්තාවකට ගැලපෙන්නේ?",
+      "options": [
+        "We put it off.",
+        "We postponed it.",
+        "We called it off.",
+        "We gave it up."
+      ],
+      "answer": 1,
+      "explainSi": "phrasal verb කථාවට; තනි වචනය විධිමත් ලියවිල්ලට."
+    },
+    {
+      "id": "b1-26-q17",
+      "q": "සාමාන්‍යයෙන් වෙන් වෙන ඒවා?",
+      "options": [
+        "preposition එකක් තියෙන ඒවා (after, for, into)",
+        "adverb එකක් තියෙන ඒවා (on, off, up, down)",
+        "වචන තුනක් තියෙන ඒවා",
+        "object එකක් නැති ඒවා"
+      ],
+      "answer": 1,
+      "explainSi": "turn the light off ✓; look the baby after ✗."
+    },
+    {
+      "id": "b1-26-q18",
+      "q": "phrasal verb ඉගෙන ගැනීමේ වාසිය?",
+      "options": [
+        "ලියන එක පහසුයි",
+        "කථා කරන ඉංග්‍රීසිය එකපාරටම ස්වාභාවික වෙනවා",
+        "වචන අඩුයි",
+        "ව්‍යාකරණ ලේසියි"
+      ],
+      "answer": 1,
+      "explainSi": "පොත් ඉංග්‍රීසියයි කථා කරන ඉංග්‍රීසියයි අතර ලොකුම වෙනස."
+    }
+  ],
+  "vocab": [
+    {
+      "en": "turn off",
+      "si": "නිවනවා",
+      "say": "ටර්න් ඔෆ්",
+      "exampleEn": "Turn the light off.",
+      "exampleSi": "ලයිට් එක නිවන්න."
+    },
+    {
+      "en": "turn down",
+      "si": "ප්‍රතික්ෂේප කරනවා",
+      "say": "ටර්න් ඩවුන්",
+      "exampleEn": "He turned the job down.",
+      "exampleSi": "එයා ඒ රස්සාව ප්‍රතික්ෂේප කළා."
+    },
+    {
+      "en": "put off",
+      "si": "කල් දානවා",
+      "say": "පුට් ඔෆ්",
+      "exampleEn": "They put the meeting off.",
+      "exampleSi": "ඒගොල්ලෝ රැස්වීම කල් දැම්මා."
+    },
+    {
+      "en": "pick up",
+      "si": "එක්කගෙන යනවා",
+      "say": "පික් අප්",
+      "exampleEn": "I'll pick you up at six.",
+      "exampleSi": "මම හයට ඔයාව එක්කගෙන යන්නම්."
+    },
+    {
+      "en": "give up",
+      "si": "අත්හරිනවා",
+      "say": "ගිව් අප්",
+      "exampleEn": "Don't give up.",
+      "exampleSi": "අත්හරින්න එපා."
+    },
+    {
+      "en": "find out",
+      "si": "දැනගන්නවා",
+      "say": "ෆයින්ඩ් අවුට්",
+      "exampleEn": "I'll find out tomorrow.",
+      "exampleSi": "හෙට මම දැනගන්නම්."
+    },
+    {
+      "en": "work out",
+      "si": "විසඳෙනවා",
+      "say": "වර්ක් අවුට්",
+      "exampleEn": "It worked out fine.",
+      "exampleSi": "ඒක හොඳට විසඳුණා."
+    },
+    {
+      "en": "look after",
+      "si": "රැකබලා ගන්නවා",
+      "say": "ලුක් ආෆ්ටර්",
+      "exampleEn": "Who looks after the dog?",
+      "exampleSi": "බල්ලාව බලාගන්නේ කවුද?"
+    },
+    {
+      "en": "look for",
+      "si": "හොයනවා",
+      "say": "ලුක් ෆෝ",
+      "exampleEn": "I'm looking for my keys.",
+      "exampleSi": "මම යතුරු හොයනවා."
+    },
+    {
+      "en": "get on with",
+      "si": "හිතවත්ව ඉන්නවා",
+      "say": "ගෙට් ඔන් විත්",
+      "exampleEn": "I get on with him well.",
+      "exampleSi": "මම එයාත් එක්ක හොඳට හිතවත්."
+    },
+    {
+      "en": "break down",
+      "si": "කැඩෙනවා",
+      "say": "බ්‍රේක් ඩවුන්",
+      "exampleEn": "The car broke down.",
+      "exampleSi": "කාරය කැඩුණා."
+    },
+    {
+      "en": "fill in",
+      "si": "පුරවනවා",
+      "say": "ෆිල් ඉන්",
+      "exampleEn": "Fill in this form.",
+      "exampleSi": "මේ ෆෝම් එක පුරවන්න."
+    },
+    {
+      "en": "make up",
+      "si": "හදාගන්නවා (බොරු)",
+      "say": "මේක් අප්",
+      "exampleEn": "They made the story up.",
+      "exampleSi": "ඒගොල්ලෝ ඒ කතාව හදාගත්තා."
+    },
+    {
+      "en": "call off",
+      "si": "අවලංගු කරනවා",
+      "say": "කෝල් ඔෆ්",
+      "exampleEn": "They called it off.",
+      "exampleSi": "ඒගොල්ලෝ ඒක අවලංගු කළා."
+    },
+    {
+      "en": "run out of",
+      "si": "ඉවර වෙනවා",
+      "say": "රන් අවුට් ඔෆ්",
+      "exampleEn": "We've run out of milk.",
+      "exampleSi": "කිරි ඉවරයි."
+    },
+    {
+      "en": "come across",
+      "si": "අහම්බෙන් හම්බ වෙනවා",
+      "say": "කම් අක්‍රොස්",
+      "exampleEn": "I came across an old letter.",
+      "exampleSi": "පරණ ලියුමක් අහම්බෙන් හම්බ වුණා."
+    }
+  ]
+}

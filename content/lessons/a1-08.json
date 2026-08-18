@@ -1,0 +1,862 @@
+{
+  "hero": {
+    "src": "images/a1-08-hero.webp",
+    "alt": "Nadeesha in a small clothes shop holding up a folded blue sari to look at the colour, shelves of bright folded fabric behind her, shirts and dresses on a rail."
+  },
+  "goalsSi": [
+    "ඇඳුම් සහ පාට වචන",
+    "this / that / these / those අතර වෙනස",
+    "විශේෂණ පදය නාම පදයට කලින් යෙදීම",
+    "මිල ඇසීම, වෙනත් ප්‍රමාණයක් හෝ පාටක් ඉල්ලීම",
+    "සාප්පුවක ආචාරශීලීව කථා කිරීම"
+  ],
+  "goals": [
+    "Name clothes and colours",
+    "Use this, that, these and those",
+    "Put adjectives in the right place",
+    "Ask about price, size and colour in a shop"
+  ],
+  "sections": [
+    {
+      "type": "note",
+      "title": "The word order changes",
+      "titleSi": "වචන පිළිවෙළ මාරු වෙනවා",
+      "bodySi": "සිංහලෙන් අපි 'කමිසය රතුයි' කියනවා — නාම පදය මුලින්, විශේෂණය පස්සේ. ඉංග්‍රීසියෙන් නාම පදයට කලින් විශේෂණය එනවා: 'a red shirt'.\n\n'a shirt red' කියලා කිව්වොත් ඉංග්‍රීසි කථා කරන අයට එය ඉතා අමුතුවට ඇහෙනවා. නමුත් 'be' ක්‍රියාව සමඟ නම් පස්සේ එනවා: 'The shirt is red.'\n\nඑනිසා ක්‍රම දෙකයි: නාම පදයට කලින් (a red shirt), නැත්නම් be ක්‍රියාවෙන් පස්සේ (the shirt is red). මේ දෙක අතර මාරු වෙන්න පුරුදු වෙන්න.",
+      "body": "Adjectives come before the noun, or after the verb 'to be'."
+    },
+    {
+      "type": "vocab",
+      "title": "Clothes and colours",
+      "titleSi": "ඇඳුම් සහ පාට",
+      "items": [
+        {
+          "en": "shirt",
+          "si": "කමිසය",
+          "say": "ෂර්ට්",
+          "exampleEn": "He is wearing a white shirt.",
+          "exampleSi": "එයා සුදු කමිසයක් අඳිනවා."
+        },
+        {
+          "en": "trousers",
+          "si": "කලිසම",
+          "say": "ට්‍රවුසර්ස්",
+          "exampleEn": "These trousers are too long.",
+          "exampleSi": "මේ කලිසම දිග වැඩියි."
+        },
+        {
+          "en": "dress",
+          "si": "ගවුම",
+          "say": "ඩ්‍රෙස්"
+        },
+        {
+          "en": "skirt",
+          "si": "සායක්",
+          "say": "ස්කර්ට්"
+        },
+        {
+          "en": "shoes",
+          "si": "සපත්තු",
+          "say": "ෂූස්",
+          "exampleEn": "Those shoes are very expensive.",
+          "exampleSi": "අර සපත්තු ගොඩක් මිල අධිකයි."
+        },
+        {
+          "en": "sari",
+          "si": "සාරිය",
+          "say": "සාරි"
+        },
+        {
+          "en": "jacket",
+          "si": "ජැකට්ටුව",
+          "say": "ජැකට්"
+        },
+        {
+          "en": "hat",
+          "si": "තොප්පිය",
+          "say": "හැට්"
+        },
+        {
+          "en": "size",
+          "si": "ප්‍රමාණය",
+          "say": "සයිස්",
+          "exampleEn": "Do you have a bigger size?",
+          "exampleSi": "ලොකු ප්‍රමාණයක් තියෙනවාද?"
+        },
+        {
+          "en": "colour",
+          "si": "පාට",
+          "say": "කලර්"
+        },
+        {
+          "en": "red",
+          "si": "රතු",
+          "say": "රෙඩ්"
+        },
+        {
+          "en": "blue",
+          "si": "නිල්",
+          "say": "බ්ලූ"
+        },
+        {
+          "en": "green",
+          "si": "කොළ",
+          "say": "ග්‍රීන්"
+        },
+        {
+          "en": "black",
+          "si": "කළු",
+          "say": "බ්ලැක්"
+        },
+        {
+          "en": "white",
+          "si": "සුදු",
+          "say": "වයිට්"
+        },
+        {
+          "en": "expensive",
+          "si": "මිල අධික",
+          "say": "එක්ස්පෙන්සිව්"
+        },
+        {
+          "en": "cheap",
+          "si": "ලාභ",
+          "say": "චීප්"
+        },
+        {
+          "en": "receipt",
+          "si": "රිසිට් පත",
+          "say": "රිසීට්",
+          "exampleEn": "Can I have a receipt, please?",
+          "exampleSi": "කරුණාකර රිසිට් පතක් දෙන්න පුළුවන්ද?"
+        },
+        {
+          "en": "try on",
+          "si": "ඇඳලා බලනවා",
+          "say": "ට්‍රයි ඔන්",
+          "exampleEn": "Can I try on this jacket?",
+          "exampleSi": "මේ ජැකට්ටුව ඇඳලා බලන්න පුළුවන්ද?"
+        },
+        {
+          "en": "discount",
+          "si": "වට්ටම",
+          "say": "ඩිස්කවුන්ට්"
+        }
+      ]
+    },
+    {
+      "type": "grammar",
+      "title": "this, that, these, those",
+      "titleSi": "this, that, these, those",
+      "explainSi": "මේ වචන හතර තෝරන්නේ දෙයක් දෙකකින්: එය ළඟද දුරද, සහ එකක්ද කිහිපයක්ද. සිංහලෙන් 'මේ' සහ 'අර' කියලා දෙකයි — ඉංග්‍රීසියෙන් ඒවා තවත් බෙදෙනවා.",
+      "formula": "near: this / these  ·  far: that / those",
+      "table": {
+        "headers": [
+          "",
+          "එකක්",
+          "කිහිපයක්",
+          "සිංහල"
+        ],
+        "rows": [
+          [
+            "ළඟ",
+            "this shirt",
+            "these shirts",
+            "මේ"
+          ],
+          [
+            "දුර",
+            "that shirt",
+            "those shirts",
+            "අර"
+          ],
+          [
+            "උදාහරණය",
+            "This is my bag.",
+            "These are my bags.",
+            ""
+          ],
+          [
+            "උදාහරණය",
+            "That is your seat.",
+            "Those are your shoes.",
+            ""
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "This dress is beautiful, but that one is cheaper.",
+          "si": "මේ ගවුම ලස්සනයි, හැබැයි අර එක ලාභයි."
+        },
+        {
+          "en": "These shoes are too small for me.",
+          "si": "මේ සපත්තු මට පොඩි වැඩියි."
+        },
+        {
+          "en": "Those people are waiting outside the shop.",
+          "si": "අර මිනිස්සු කඩේට පිටින් බලාගෙන ඉන්නවා."
+        }
+      ],
+      "watchOutSi": "'this' සහ 'these' උච්චාරණයේ වෙනස සියුම්: this (කෙටි), these (දිග). කථා කරද්දී මේ දෙක පැහැදිලිව වෙන් කරන්න උත්සාහ කරන්න."
+    },
+    {
+      "type": "grammar",
+      "title": "Where the adjective goes",
+      "titleSi": "විශේෂණය යන තැන",
+      "explainSi": "විශේෂණ පදවලට බහුවචනයක් නෑ. 'two red shirts' — 'reds' කියලා කියන්නේ නෑ. මේක සිංහල කථිකයන් නිතර වරදවන තැනක් නෙවෙයි, නමුත් වචන පිළිවෙළ නම් වරදිනවා.",
+      "formula": "a + adjective + noun  ·  noun + is + adjective",
+      "table": {
+        "headers": [
+          "ආකාරය",
+          "නිවැරදි",
+          "වැරදි"
+        ],
+        "rows": [
+          [
+            "නාම පදයට කලින්",
+            "a red shirt",
+            "a shirt red"
+          ],
+          [
+            "be සමඟ",
+            "The shirt is red.",
+            "The shirt red."
+          ],
+          [
+            "බහුවචනය",
+            "two red shirts",
+            "two reds shirts"
+          ],
+          [
+            "එකකට වඩා විශේෂණ",
+            "a small black bag",
+            "a black small bag"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "She bought a beautiful blue sari for the wedding.",
+          "si": "එයා මංගල උත්සවයට ලස්සන නිල් සාරියක් ගත්තා."
+        },
+        {
+          "en": "My old shoes are black, but my new shoes are brown.",
+          "si": "මගේ පරණ සපත්තු කළුයි, හැබැයි අලුත් සපත්තු දුඹුරුයි."
+        },
+        {
+          "en": "That is a very expensive jacket.",
+          "si": "අර ගොඩක් මිල අධික ජැකට්ටුවක්."
+        }
+      ],
+      "watchOutSi": "විශේෂණ දෙකක් එද්දී පිළිවෙළක් තියෙනවා: ප්‍රමාණය මුලින්, පාට පස්සේ — 'a small black bag'. දැනට මේක නීතියක් විදිහට මතක තියාගන්න."
+    },
+    {
+      "type": "story",
+      "title": "The Blue Shirt",
+      "titleSi": "නිල් කමිසය",
+      "introSi": "මේ කතාවේ කුඩා හැරවුමක් තියෙනවා — කෙනෙක් තමන්ගේ අදහස වෙනස් කරනවා. ඇයි කියලා තේරුම් ගන්න උත්සාහ කරන්න.",
+      "paragraphs": [
+        {
+          "en": "Kasun needs a shirt for his sister's wedding. He goes to a shop in the town with his friend Ravi, because Ravi knows about clothes.",
+          "si": "කසුන්ට එයාගේ අක්කාගේ මංගල උත්සවයට කමිසයක් ඕන. ඇඳුම් ගැන රවි දන්න නිසා, එයා යාළුවා රවි එක්ක නගරයේ කඩේකට යනවා."
+        },
+        {
+          "en": "In the shop there are many shirts. Kasun likes a white one immediately. It is simple and clean, and it is not expensive.",
+          "si": "කඩේ කමිස ගොඩක් තියෙනවා. කසුන් වහාම සුදු එකකට කැමති වෙනවා. එය සරලයි, පිරිසිදුයි, සහ මිල අධික නෑ."
+        },
+        {
+          "en": "\"Can I try on this one?\" he asks the shopkeeper. \"Of course,\" she says. \"What size are you?\"",
+          "si": "\"මේක ඇඳලා බලන්න පුළුවන්ද?\" එයා කඩේ මහත්මියගෙන් අහනවා. \"ඇත්තෙන්ම,\" එයා කියනවා. \"ඔබේ ප්‍රමාණය කීයද?\""
+        },
+        {
+          "en": "The white shirt is too small. \"Do you have a bigger size?\" Kasun asks. \"Not in white,\" she answers. \"But we have this blue one in your size.\"",
+          "si": "සුදු කමිසය පොඩි වැඩියි. \"ලොකු ප්‍රමාණයක් තියෙනවාද?\" කසුන් අහනවා. \"සුදු පාටින් නෑ,\" එයා උත්තර දෙනවා. \"හැබැයි මේ නිල් එක ඔබේ ප්‍රමාණයෙන් තියෙනවා.\""
+        },
+        {
+          "en": "Kasun is not sure about the blue shirt. It is more expensive than the white one, and blue is not his favourite colour.",
+          "si": "නිල් කමිසය ගැන කසුන්ට විශ්වාස නෑ. සුදු එකට වඩා එය මිල අධිකයි, සහ නිල් එයාගේ ප්‍රියතම පාට නෙවෙයි."
+        },
+        {
+          "en": "But Ravi laughs. \"Your sister's dress is blue,\" he says. \"In the photographs you will look like part of the family.\"",
+          "si": "හැබැයි රවි හිනාවෙනවා. \"ඔබේ අක්කාගේ ගවුම නිල්,\" එයා කියනවා. \"ඡායාරූපවල ඔබ පවුලේ කොටසක් වගේ පේනවා.\""
+        },
+        {
+          "en": "Kasun buys the blue shirt. The shopkeeper gives him a small discount and a receipt, and he walks home happy.",
+          "si": "කසුන් නිල් කමිසය ගන්නවා. කඩේ මහත්මිය එයාට පොඩි වට්ටමක් සහ රිසිට් පතක් දෙනවා, එයා සතුටින් ගෙදර ඇවිදගෙන යනවා."
+        }
+      ],
+      "glossary": [
+        {
+          "en": "wedding",
+          "si": "මංගල උත්සවය"
+        },
+        {
+          "en": "shopkeeper",
+          "si": "කඩේ අයිතිකරු"
+        },
+        {
+          "en": "immediately",
+          "si": "වහාම"
+        },
+        {
+          "en": "simple",
+          "si": "සරල"
+        },
+        {
+          "en": "sure",
+          "si": "විශ්වාස"
+        },
+        {
+          "en": "favourite",
+          "si": "ප්‍රියතම"
+        },
+        {
+          "en": "laugh",
+          "si": "හිනාවෙනවා"
+        },
+        {
+          "en": "photograph",
+          "si": "ඡායාරූපය"
+        },
+        {
+          "en": "part of",
+          "si": "කොටසක්"
+        }
+      ],
+      "questionsSi": [
+        "කසුන් මුලින්ම කැමති වුණේ කුමන කමිසයටද, සහ ඇයි?",
+        "එයා ඒක නොගත්තේ ඇයි?",
+        "රවි කිව්ව දේ නිසා කසුන්ගේ අදහස වෙනස් වුණේ කොහොමද?"
+      ]
+    },
+    {
+      "type": "poem",
+      "title": "This and That",
+      "titleSi": "මේක සහ අරක",
+      "introSi": "ළඟ සහ දුර — කවියේ රටාව ඒකයි.",
+      "lines": [
+        {
+          "en": "This hat is on my head,",
+          "si": "මේ තොප්පිය මගේ ඔලුවේ,"
+        },
+        {
+          "en": "That hat is on the shelf.",
+          "si": "අර තොප්පිය රාක්කයේ."
+        },
+        {
+          "en": "These shoes are old and brown,",
+          "si": "මේ සපත්තු පරණයි, දුඹුරුයි,"
+        },
+        {
+          "en": "Those shoes are new and red.",
+          "si": "අර සපත්තු අලුත්, රතුයි."
+        },
+        {
+          "en": "",
+          "si": ""
+        },
+        {
+          "en": "This one costs too much,",
+          "si": "මේක මිල වැඩියි,"
+        },
+        {
+          "en": "That one is my size.",
+          "si": "අර එක මගේ ප්‍රමාණයයි."
+        },
+        {
+          "en": "I will take that one, please —",
+          "si": "කරුණාකර මම අර එක ගන්නම් —"
+        },
+        {
+          "en": "And keep the small surprise.",
+          "si": "පොඩි පුදුමයත් තියාගන්නම්."
+        }
+      ],
+      "noteSi": "'this one', 'that one' — නාම පදය නැවත නොකියා 'one' කියලා ආදේශ කරනවා. සාප්පු යද්දී මේක ගොඩක් ප්‍රයෝජනවත්."
+    },
+    {
+      "type": "dialogue",
+      "title": "In the clothes shop",
+      "titleSi": "ඇඳුම් කඩේ",
+      "settingSi": "නදීෂා සාරියක් බලනවා. සාප්පුවක අවශ්‍ය සම්පූර්ණ කථාව මෙතන තියෙනවා.",
+      "lines": [
+        {
+          "speaker": "Nadeesha",
+          "en": "Excuse me, how much is this sari?",
+          "si": "සමාවෙන්න, මේ සාරිය කීයද?"
+        },
+        {
+          "speaker": "Shopkeeper",
+          "en": "That one is four thousand five hundred rupees.",
+          "si": "අර එක රුපියල් හාරදාස් පන්සීයයි."
+        },
+        {
+          "speaker": "Nadeesha",
+          "en": "Do you have it in green?",
+          "si": "කොළ පාටින් තියෙනවාද?"
+        },
+        {
+          "speaker": "Shopkeeper",
+          "en": "Not in green, but we have these two in blue and black.",
+          "si": "කොළ පාටින් නෑ, හැබැයි නිල් සහ කළු පාටින් මේ දෙක තියෙනවා."
+        },
+        {
+          "speaker": "Nadeesha",
+          "en": "Can I try on the blue one?",
+          "si": "නිල් එක ඇඳලා බලන්න පුළුවන්ද?"
+        },
+        {
+          "speaker": "Shopkeeper",
+          "en": "Yes, of course. The changing room is behind you.",
+          "si": "ඔව්, ඇත්තෙන්ම. ඇඳුම් මාරු කරන කාමරය ඔබ පිටිපස්සේ."
+        },
+        {
+          "speaker": "Nadeesha",
+          "en": "It fits well. Is there any discount?",
+          "si": "හරියටම හරි. වට්ටමක් තියෙනවාද?"
+        },
+        {
+          "speaker": "Shopkeeper",
+          "en": "I can give you ten percent.",
+          "si": "මට සියයට දහයක් දෙන්න පුළුවන්."
+        },
+        {
+          "speaker": "Nadeesha",
+          "en": "Thank you. I will take it. Can I have a receipt, please?",
+          "si": "ස්තූතියි. මම ඒක ගන්නම්. කරුණාකර රිසිට් පතක් දෙන්න පුළුවන්ද?"
+        }
+      ]
+    },
+    {
+      "type": "tip",
+      "title": "Trousers, shoes and other pairs",
+      "titleSi": "කලිසම, සපත්තු වගේ යුගල",
+      "bodySi": "කොටස් දෙකකින් හැදෙන දේවල් ඉංග්‍රීසියෙන් හැම විටම බහුවචනයි: trousers, shoes, glasses, scissors. එනිසා 'These trousers are nice' කියනවා — 'This trouser is nice' නෙවෙයි.\n\nඑකක් ගැන කථා කරන්න ඕන නම් 'a pair of' කියනවා: 'a pair of shoes', 'two pairs of trousers'.",
+      "body": "Things made of two parts are always plural in English."
+    },
+    {
+      "type": "practice",
+      "title": "this, that, these or those?",
+      "titleSi": "this, that, these නැත්නම් those?",
+      "instructionSi": "ළඟද දුරද, එකක්ද කිහිපයක්ද කියලා බලලා තෝරන්න.",
+      "items": [
+        {
+          "prompt": "___ shirt in my hand is new.",
+          "answer": "This",
+          "hintSi": "අතේ තියෙනවා — ළඟයි, එකයි.",
+          "full": "This shirt in my hand is new."
+        },
+        {
+          "prompt": "___ shoes over there are expensive.",
+          "answer": "Those",
+          "hintSi": "අතන — දුරයි, කිහිපයයි.",
+          "full": "Those shoes over there are expensive."
+        },
+        {
+          "prompt": "___ trousers I am wearing are old.",
+          "answer": "These",
+          "hintSi": "අඳිනවා — ළඟයි, සහ trousers බහුවචනයි.",
+          "full": "These trousers I am wearing are old."
+        },
+        {
+          "prompt": "Look at ___ house on the hill.",
+          "answer": "that",
+          "hintSi": "කන්ද උඩ — දුරයි, එකයි.",
+          "full": "Look at that house on the hill."
+        },
+        {
+          "prompt": "How much are ___ two hats here?",
+          "answer": "these",
+          "hintSi": "මෙතන — ළඟයි, දෙකයි.",
+          "full": "How much are these two hats here?"
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "en": "shirt",
+      "si": "කමිසය"
+    },
+    {
+      "en": "trousers",
+      "si": "කලිසම"
+    },
+    {
+      "en": "dress",
+      "si": "ගවුම"
+    },
+    {
+      "en": "skirt",
+      "si": "සායක්"
+    },
+    {
+      "en": "shoes",
+      "si": "සපත්තු"
+    },
+    {
+      "en": "sari",
+      "si": "සාරිය"
+    },
+    {
+      "en": "jacket",
+      "si": "ජැකට්ටුව"
+    },
+    {
+      "en": "hat",
+      "si": "තොප්පිය"
+    },
+    {
+      "en": "size",
+      "si": "ප්‍රමාණය"
+    },
+    {
+      "en": "colour",
+      "si": "පාට"
+    },
+    {
+      "en": "red",
+      "si": "රතු"
+    },
+    {
+      "en": "blue",
+      "si": "නිල්"
+    },
+    {
+      "en": "green",
+      "si": "කොළ"
+    },
+    {
+      "en": "black",
+      "si": "කළු"
+    },
+    {
+      "en": "white",
+      "si": "සුදු"
+    },
+    {
+      "en": "brown",
+      "si": "දුඹුරු"
+    },
+    {
+      "en": "expensive",
+      "si": "මිල අධික"
+    },
+    {
+      "en": "receipt",
+      "si": "රිසිට් පත"
+    },
+    {
+      "en": "discount",
+      "si": "වට්ටම"
+    },
+    {
+      "en": "try on",
+      "si": "ඇඳලා බලනවා"
+    },
+    {
+      "en": "fit",
+      "si": "හරියටම හරි"
+    },
+    {
+      "en": "wedding",
+      "si": "මංගල උත්සවය"
+    },
+    {
+      "en": "shopkeeper",
+      "si": "කඩේ අයිතිකරු"
+    },
+    {
+      "en": "changing room",
+      "si": "ඇඳුම් මාරු කරන කාමරය"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "a1-08-q1",
+      "q": "'රතු කමිසයක්' — ඉංග්‍රීසියෙන් නිවැරදිව?",
+      "options": [
+        "a shirt red",
+        "a red shirt",
+        "red a shirt",
+        "a shirt is red"
+      ],
+      "answer": 1,
+      "explainSi": "විශේෂණය නාම පදයට කලින්: a red shirt.",
+      "speak": "a red shirt"
+    },
+    {
+      "id": "a1-08-q2",
+      "q": "'The shirt ___ red.' — හිස්තැනට?",
+      "options": [
+        "—  (කිසිවක් ඕන නෑ)",
+        "is",
+        "are",
+        "be"
+      ],
+      "answer": 1,
+      "explainSi": "විශේෂණය නාම පදයට පස්සේ එද්දී 'be' ක්‍රියාව අවශ්‍යයි: The shirt is red.",
+      "speak": "The shirt is red."
+    },
+    {
+      "id": "a1-08-q3",
+      "q": "'මේ සපත්තු' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "this shoes",
+        "these shoes",
+        "those shoe",
+        "that shoes"
+      ],
+      "answer": 1,
+      "explainSi": "ළඟ + බහුවචන = these. 'shoes' හැම විටම බහුවචනයි.",
+      "speak": "these shoes"
+    },
+    {
+      "id": "a1-08-q4",
+      "q": "දුරින් තියෙන එක් දෙයක් ගැන කථා කරද්දී?",
+      "options": [
+        "this",
+        "these",
+        "that",
+        "those"
+      ],
+      "answer": 2,
+      "explainSi": "දුර + එකක් = that. දුර + කිහිපයක් = those."
+    },
+    {
+      "id": "a1-08-q5",
+      "q": "කුමන වාක්‍යය වැරදිද?",
+      "options": [
+        "These trousers are too long.",
+        "This trouser is too long.",
+        "That shirt is too long.",
+        "Those shoes are too big."
+      ],
+      "answer": 1,
+      "explainSi": "'trousers' හැම විටම බහුවචනයි. එකක් ගැන කියන්න 'a pair of trousers'."
+    },
+    {
+      "id": "a1-08-q6",
+      "q": "'two red shirts' — 'red' බහුවචන නොවන්නේ ඇයි?",
+      "options": [
+        "'red' කෙටි වචනයක් නිසා",
+        "ඉංග්‍රීසියේ විශේෂණ පදවලට බහුවචනයක් නැති නිසා",
+        "'shirts' දැනටමත් බහුවචන නිසා දෙකම ඕන නැති නිසා",
+        "පාට නම් වලට විතරක් මේ නීතිය අදාළ නිසා"
+      ],
+      "answer": 1,
+      "explainSi": "විශේෂණ පද කිසි විටෙක වෙනස් වෙන්නේ නෑ — 'reds' කියලා දෙයක් නෑ."
+    },
+    {
+      "id": "a1-08-q7",
+      "q": "'පොඩි කළු බෑග් එකක්' — නිවැරදි පිළිවෙළ?",
+      "options": [
+        "a black small bag",
+        "a small black bag",
+        "a bag small black",
+        "a small bag black"
+      ],
+      "answer": 1,
+      "explainSi": "ප්‍රමාණය මුලින්, පාට පස්සේ: a small black bag.",
+      "speak": "a small black bag"
+    },
+    {
+      "id": "a1-08-q8",
+      "q": "කඩේක මිල අහන්නේ කොහොමද?",
+      "options": [
+        "What is the money of this?",
+        "How much is this?",
+        "How many is this?",
+        "What price this?"
+      ],
+      "answer": 1,
+      "explainSi": "'How much is this?' යනු සම්මත ක්‍රමය. 'How many' ගණන් කළ හැකි දේවලට.",
+      "speak": "How much is this?"
+    },
+    {
+      "id": "a1-08-q9",
+      "q": "'ඇඳලා බලන්න පුළුවන්ද?' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "Can I wear this now?",
+        "Can I try on this?",
+        "Can I test this shirt?",
+        "May I dress this?"
+      ],
+      "answer": 1,
+      "explainSi": "'try on' යනු කඩේක ඇඳුමක් ඇඳලා බලනවා කියන අර්ථය.",
+      "speak": "Can I try on this?"
+    },
+    {
+      "id": "a1-08-q10",
+      "q": "'Do you have a bigger size?' — මේකෙන් අහන්නේ මොකක්ද?",
+      "options": [
+        "මිල අඩු එකක් තියෙනවාද?",
+        "වෙනත් පාටක් තියෙනවාද?",
+        "මීට වඩා ලොකු ප්‍රමාණයක් තියෙනවාද?",
+        "තව එකක් තියෙනවාද?"
+      ],
+      "answer": 2,
+      "explainSi": "'bigger' = වඩා ලොකු. 'size' = ප්‍රමාණය."
+    },
+    {
+      "id": "a1-08-q11",
+      "context": "In the shop there are many shirts. Kasun likes a white one immediately. It is simple and clean, and it is not expensive.",
+      "contextSi": "කඩේ කමිස ගොඩක් තියෙනවා. කසුන් වහාම සුදු එකකට කැමති වෙනවා. එය සරලයි, පිරිසිදුයි, සහ මිල අධික නෑ.",
+      "q": "කතාව අනුව: කසුන් මුලින්ම කැමති වුණේ කුමන කමිසයටද?",
+      "options": [
+        "නිල් එකට",
+        "සුදු එකට",
+        "කළු එකට",
+        "කොළ එකට"
+      ],
+      "answer": 1,
+      "explainSi": "'Kasun likes a white one immediately.'"
+    },
+    {
+      "id": "a1-08-q12",
+      "context": "The white shirt is too small. \"Do you have a bigger size?\" Kasun asks. \"Not in white,\" she answers.",
+      "contextSi": "සුදු කමිසය පොඩි වැඩියි. \"ලොකු ප්‍රමාණයක් තියෙනවාද?\" කසුන් අහනවා. \"සුදු පාටින් නෑ,\" එයා උත්තර දෙනවා.",
+      "q": "කතාව අනුව: එයා ඒක නොගත්තේ ඇයි?",
+      "options": [
+        "එය මිල අධික නිසා",
+        "එය එයාට පොඩි වැඩි වූ නිසා සහ ලොකු ප්‍රමාණයක් සුදු පාටින් නොතිබූ නිසා",
+        "රවි කැමති නොවූ නිසා",
+        "සුදු පාට මංගල උත්සවවලට නොගැළපෙන නිසා"
+      ],
+      "answer": 1,
+      "explainSi": "'The white shirt is too small' සහ 'Not in white' — කරුණු දෙකම අවශ්‍යයි."
+    },
+    {
+      "id": "a1-08-q13",
+      "context": "Kasun is not sure about the blue shirt. It is more expensive than the white one, and blue is not his favourite colour.",
+      "contextSi": "නිල් කමිසය ගැන කසුන්ට විශ්වාස නෑ. සුදු එකට වඩා එය මිල අධිකයි, සහ නිල් එයාගේ ප්‍රියතම පාට නෙවෙයි.",
+      "q": "කතාව අනුව: කසුන් නිල් කමිසය ගැන මුලින් පසුබට වුණේ ඇයි? (හේතු දෙකක්)",
+      "options": [
+        "එය පොඩි වැඩි වූ නිසා සහ පරණ නිසා",
+        "එය මිල අධික නිසා සහ නිල් එයාගේ ප්‍රියතම පාට නොවූ නිසා",
+        "රවි එයට කැමති නොවූ නිසා",
+        "අක්කාට නිල් පාට අකැමති නිසා"
+      ],
+      "answer": 1,
+      "explainSi": "'It is more expensive than the white one, and blue is not his favourite colour.'"
+    },
+    {
+      "id": "a1-08-q14",
+      "context": "But Ravi laughs. \"Your sister's dress is blue,\" he says. \"In the photographs you will look like part of the family.\"",
+      "contextSi": "හැබැයි රවි හිනාවෙනවා. \"ඔබේ අක්කාගේ ගවුම නිල්,\" එයා කියනවා. \"ඡායාරූපවල ඔබ පවුලේ කොටසක් වගේ පේනවා.\"",
+      "q": "කතාව අනුව: රවි කිව්ව දේ නිසා කසුන්ගේ අදහස වෙනස් වුණේ ඇයි?",
+      "options": [
+        "රවි එයාට මුදල් දුන් නිසා",
+        "අක්කාගේ ගවුම නිල් නිසා ඡායාරූපවල එය ගැළපෙන බව රවි පෙන්වූ නිසා",
+        "රවි කඩේ අයිතිකරු දන්නා නිසා",
+        "වට්ටමක් ලැබෙන බව රවි කී නිසා"
+      ],
+      "answer": 1,
+      "explainSi": "රවි එයාට පෙන්නුවේ පාට තෝරාගැනීම තමන් ගැන නෙවෙයි, පවුල එක්ක ගැළපීම ගැන කියලා. එය නව හේතුවක්."
+    },
+    {
+      "id": "a1-08-q15",
+      "context": "\"It fits well. Is there any discount?\"",
+      "contextSi": "\"හරියටම හරි. වට්ටමක් තියෙනවාද?\"",
+      "q": "කතාවේ 'It fits well' කියන්නේ මොකක්ද?",
+      "options": [
+        "එය ලස්සනයි",
+        "එය මිල අඩුයි",
+        "එය ප්‍රමාණයට හරියටම හරි",
+        "එය පහසුවෙන් සෝදන්න පුළුවන්"
+      ],
+      "answer": 2,
+      "explainSi": "'fit' යනු ප්‍රමාණය හරි යාම. ලස්සන නම් 'It suits you' කියනවා."
+    },
+    {
+      "id": "a1-08-q16",
+      "context": "This one costs too much, / That one is my size.",
+      "contextSi": "මේක මිල වැඩියි, / අර එක මගේ ප්‍රමාණයයි.",
+      "q": "කවියේ 'this one' සහ 'that one' කියද්දී 'one' කියන්නේ මොකක්ද?",
+      "options": [
+        "අංක එක",
+        "කලින් කී නාම පදය නැවත නොකියා ආදේශ කරන වචනය",
+        "එක් පුද්ගලයෙක්",
+        "විශේෂ ඇඳුමක්"
+      ],
+      "answer": 1,
+      "explainSi": "'Which shirt?' — 'This one.' නාම පදය නැවත කියන්නේ නෑ. සාප්පු යද්දී ගොඩක් ප්‍රයෝජනවත්."
+    },
+    {
+      "id": "a1-08-q17",
+      "q": "'Is there any discount?' — 'any' යෙදෙන්නේ ඇයි?",
+      "options": [
+        "'discount' ගණන් කළ නොහැකි නිසා",
+        "මෙය ප්‍රශ්නයක් නිසා",
+        "ආචාරශීලී වන නිසා",
+        "'discount' බහුවචන නිසා"
+      ],
+      "answer": 1,
+      "explainSi": "තොරතුරු අහන ප්‍රශ්නවලට 'any'. පිරිනැමීමක් නම් 'some' යෙදෙනවා."
+    },
+    {
+      "id": "a1-08-q18",
+      "q": "සපත්තු එකක් ගැන කථා කරන්නේ කොහොමද?",
+      "options": [
+        "a shoe pair",
+        "a pair of shoes",
+        "one shoes",
+        "a shoes"
+      ],
+      "answer": 1,
+      "explainSi": "කොටස් දෙකකින් හැදෙන දේවලට 'a pair of': a pair of shoes, a pair of trousers.",
+      "speak": "a pair of shoes"
+    },
+    {
+      "id": "a1-08-q19",
+      "q": "'මේ ගවුම ලස්සනයි, හැබැයි අර එක ලාභයි' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "This dress is beautiful, but that one is cheaper.",
+        "These dress is beautiful, but those one is cheap.",
+        "This dress beautiful, but that cheap.",
+        "That dress is beautiful, but this one is cheaper."
+      ],
+      "answer": 0,
+      "explainSi": "මේ = this (ළඟ), අර = that (දුර). 'one' මගින් 'dress' ආදේශ වෙනවා.",
+      "speak": "This dress is beautiful, but that one is cheaper."
+    },
+    {
+      "id": "a1-08-q20",
+      "q": "සාප්පුවෙන් පිටවෙන්න කලින් ඉල්ලාගත යුතු වැදගත්ම දේ?",
+      "options": [
+        "a discount",
+        "a receipt",
+        "a bigger size",
+        "the changing room"
+      ],
+      "answer": 1,
+      "explainSi": "රිසිට් පත මිලදී ගැනීමේ සාක්ෂිය — මාරු කරන්න හෝ ආපසු දෙන්න එය අවශ්‍යයි.",
+      "speak": "Can I have a receipt, please?"
+    },
+    {
+      "id": "a1-08-q21",
+      "q": "'ඔබේ ප්‍රමාණය කීයද?' — කඩේ අයිතිකරු අහන්නේ කොහොමද?",
+      "options": [
+        "How big are you?",
+        "What size are you?",
+        "How much size?",
+        "Which size you have?"
+      ],
+      "answer": 1,
+      "explainSi": "'What size are you?' යනු සම්මත ක්‍රමය. 'How big are you?' රළුයි.",
+      "speak": "What size are you?"
+    },
+    {
+      "id": "a1-08-q22",
+      "q": "'Those people are waiting outside.' — 'those' යෙදෙන්නේ ඇයි?",
+      "options": [
+        "මිනිස්සු ගොඩක් නිසා විතරයි",
+        "ඔවුන් දුරින් ඉන්න නිසා සහ එකකට වඩා නිසා",
+        "'people' හැම විටම 'those' සමඟ යන නිසා",
+        "ඔවුන් පිටත ඉන්න නිසා"
+      ],
+      "answer": 1,
+      "explainSi": "දුර + බහුවචන = those. ළඟ නම් 'these people'."
+    }
+  ]
+}

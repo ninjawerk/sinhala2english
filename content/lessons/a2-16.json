@@ -1,0 +1,834 @@
+{
+  "hero": {
+    "src": "images/a2-16-hero.webp",
+    "alt": "Nadeesha at a shop counter politely holding up a cracked kettle and a receipt, calm and firm, shelves of goods behind the counter."
+  },
+  "goalsSi": [
+    "Excuse me, I have a problem with... — පැමිණිල්ලක් ආචාරශීලීව පටන් ගැනීම",
+    "This doesn't work / isn't working properly — දෝෂය විස්තර කිරීම",
+    "I'd like a refund, please. / Could I exchange this? — විසඳුමක් ඉල්ලීම",
+    "I'm not happy with... / Could I speak to the manager, please?",
+    "තරහ නොපෙන්නා, ආචාරශීලීව පැමිණිල්ල කිරීම"
+  ],
+  "goals": [
+    "Open a complaint politely with Excuse me, I have a problem with…",
+    "Describe what's wrong with doesn't work / isn't working properly",
+    "Ask for a refund or exchange",
+    "Say you're not happy and ask for the manager",
+    "Stay polite while complaining"
+  ],
+  "sections": [
+    {
+      "type": "note",
+      "title": "Angry doesn't work faster",
+      "titleSi": "තරහෙන් ඉක්මනට වැඩක් වෙන්නේ නෑ",
+      "bodySi": "යමක් වැරදුනාම, තරහ ගිහින් කථා කරන්න පුළුවන් — නමුත් ඉංග්‍රීසියෙන් ඒක ගොඩක් වෙලාවට ප්‍රතිවිරුද්ධ ප්‍රතිඵලයක් ගේනවා. සාප්පුවක/සේවා සපයන්නෙක් තරහ පාරිභෝගිකයෙක්ට උදව් කරන්න වඩා අකමැතියි, ආචාරශීලීව ප්‍රශ්නය කියන කෙනෙක්ට වඩා ඉක්මනින් උදව් කරනවා.\n\nඒකයි ඉංග්‍රීසියෙන් පැමිණිල්ලක් කරන්න ස්ථිර, මෘදු වාක්‍ය තියෙන්නේ — 'Excuse me, I have a problem with…' කියලා පටන් ගන්නා එකෙන් තමයි, 'What's wrong with this?!' කියලා පටන් ගන්නා එකට වඩා ප්‍රතිඵලයක් ලැබෙන්නේ.",
+      "body": "Being angry rarely gets you a faster solution. Polite, clear phrases get results."
+    },
+    {
+      "type": "grammar",
+      "title": "Excuse me, I have a problem with…",
+      "titleSi": "Excuse me, I have a problem with...",
+      "explainSi": "පැමිණිල්ලක් පටන් ගන්නේ 'Excuse me' කියලා අවධානය ලබාගෙන, 'I have a problem with...' කියලා විස්තරයට යනවා. මේක සෘජුයි, නමුත් ආචාරශීලීයි — චෝදනාවක් නෙවෙයි, තොරතුරක්.",
+      "formula": "Excuse me, I have a problem with + noun.",
+      "table": {
+        "headers": [
+          "වාක්‍යය",
+          "සිංහල"
+        ],
+        "rows": [
+          [
+            "Excuse me, I have a problem with this blender.",
+            "සමාවෙන්න, මේ බ්ලෙන්ඩරයේ ප්‍රශ්නයක් තියෙනවා."
+          ],
+          [
+            "Excuse me, I have a problem with my order.",
+            "සමාවෙන්න, මගේ ඇණවුමේ ප්‍රශ්නයක් තියෙනවා."
+          ],
+          [
+            "Sorry to bother you, but there's a mistake here.",
+            "කරදර කරන්න සමාවෙන්න, නමුත් මෙතන වැරැද්දක් තියෙනවා."
+          ],
+          [
+            "Excuse me, could you help me with something?",
+            "සමාවෙන්න, මට යමකින් උදව් කරන්න පුළුවන්ද?"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "Excuse me, I have a problem with this jacket — the zip is broken.",
+          "si": "සමාවෙන්න, මේ ජැකට් එකේ ප්‍රශ්නයක් තියෙනවා — සිප් එක කැඩිලා."
+        },
+        {
+          "en": "Sorry to bother you, but I think I was charged twice.",
+          "si": "කරදර කරන්න සමාවෙන්න, නමුත් මට හිතෙනවා මගෙන් දෙපාරක් ගැහුවා කියලා."
+        }
+      ],
+      "watchOutSi": "'You gave me a broken one!' කියලා පටන් ගත්තොත් චෝදනාවක් වගේ ඇහෙනවා. 'I have a problem with...' කියලා පටන් ගත්තොත් තොරතුරක් වගේ, තරහක් නෑ."
+    },
+    {
+      "type": "grammar",
+      "title": "This doesn't work / isn't working properly",
+      "titleSi": "This doesn't work / isn't working properly",
+      "explainSi": "දෝෂය විස්තර කරන්නේ 'doesn't work' (මුළුමනින්ම වැඩ කරන්නේ නෑ) හෝ 'isn't working properly' (ටිකක් වැඩ කරනවා, හරියට නෑ) කියලා. 'faulty' සහ 'damaged' නාම විශේෂණ දෙකක් — 'faulty' නිෂ්පාදනයේම දෝෂයක්, 'damaged' භාණ්ඩය හානි වෙච්ච එකක්.",
+      "formula": "This/It + doesn't work / isn't working properly. It's faulty / damaged.",
+      "table": {
+        "headers": [
+          "වාක්‍යය",
+          "සිංහල"
+        ],
+        "rows": [
+          [
+            "This doesn't work at all.",
+            "මේක කිසිසේත් වැඩ කරන්නේ නෑ."
+          ],
+          [
+            "It isn't working properly — it stops after a minute.",
+            "එය හරියට වැඩ කරන්නේ නෑ — විනාඩියකින් නවතිනවා."
+          ],
+          [
+            "It's faulty.",
+            "එයාට දෝෂයක් තියෙනවා."
+          ],
+          [
+            "It arrived damaged.",
+            "එය හානියක් සමඟ ලැබුනා."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "This doesn't work — I've tried it three times.",
+          "si": "මේක වැඩ කරන්නේ නෑ — මම තුන් පාරක් උත්සාහ කළා."
+        },
+        {
+          "en": "The screen isn't working properly — it goes black sometimes.",
+          "si": "තිරය හරියට වැඩ කරන්නේ නෑ — සමහර වෙලාවට කළු වෙනවා."
+        }
+      ],
+      "watchOutSi": "'It doesn't work' — දෝෂය අහන්නේ එකසේ, පුරුද්දෙන් නෙවෙයි (present simple, එකවර සිදුවීමක් නෙවෙයි). මෙය a1-14 හි ඉගෙන ගත් present simple රටාවම."
+    },
+    {
+      "type": "grammar",
+      "title": "I'd like a refund, please",
+      "titleSi": "I'd like a refund, please",
+      "explainSi": "විසඳුමක් ඉල්ලද්දී 'I'd like a refund, please' (මුදල් ආපසු), හෝ 'Could I exchange this for another one?' (වෙනත් එකකට මාරු) කියනවා. 'I'd like' ආචාරශීලීයි — 'I want' ට වඩා මෘදුයි.",
+      "formula": "I'd like a refund/exchange, please. / Could I exchange this?",
+      "table": {
+        "headers": [
+          "වාක්‍යය",
+          "සිංහල"
+        ],
+        "rows": [
+          [
+            "I'd like a refund, please.",
+            "මුදල් ආපසු ඕන, කරුණාකර."
+          ],
+          [
+            "Could I exchange this for another one?",
+            "මේක වෙනත් එකකට මාරු කරන්න පුළුවන්ද?"
+          ],
+          [
+            "Could you fix it, please?",
+            "මේක හදන්න පුළුවන්ද?"
+          ],
+          [
+            "What can you do about this?",
+            "මේකට මොකද කරන්න පුළුවන්?"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "It's faulty, so I'd like a refund, please.",
+          "si": "එයාට දෝෂයක් තියෙනවා, ඉතින් මුදල් ආපසු ඕන."
+        },
+        {
+          "en": "Could I exchange this for a bigger size?",
+          "si": "මේක ලොකු සයිස් එකකට මාරු කරන්න පුළුවන්ද?"
+        }
+      ],
+      "watchOutSi": "'I want my money' කියලා කෙලින්ම කීමට වඩා, 'I'd like a refund, please' ආචාරශීලීයි. සාප්පු කථාබහේ 'I'd like' සහ 'please' දෙකම වැදගත්."
+    },
+    {
+      "type": "grammar",
+      "title": "I'm not happy with… / Could I speak to the manager?",
+      "titleSi": "I'm not happy with... / Could I speak to the manager?",
+      "explainSi": "පළමු පැමිණිල්ලට හොඳ පිළිතුරක් ලැබෙන්නේ නැත්නම්, 'I'm not happy with...' කියලා තවත් පැහැදිලිව කියනවා, පසුව 'Could I speak to the manager, please?' කියලා ඉහළම කෙනාට යනවා. තරහ නොපෙන්නා, තවමත් ආචාරශීලීව.",
+      "formula": "I'm not happy with + noun. Could I speak to the manager, please?",
+      "table": {
+        "headers": [
+          "වාක්‍යය",
+          "සිංහල"
+        ],
+        "rows": [
+          [
+            "I'm not happy with this service.",
+            "මේ සේවාව ගැන මම සතුටු නෑ."
+          ],
+          [
+            "I understand it's not your fault, but…",
+            "මම තේරුම් ගන්නවා ඔබේ වරදක් නෑ, නමුත්..."
+          ],
+          [
+            "Could I speak to the manager, please?",
+            "කළමනාකරුට කථා කරන්න පුළුවන්ද?"
+          ],
+          [
+            "I'd appreciate it if we could sort this out today.",
+            "අද මේක විසඳගන්න පුළුවන් නම් හොඳයි."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "I'm not happy with this — could I speak to the manager, please?",
+          "si": "මේක ගැන මම සතුටු නෑ — කළමනාකරුට කථා කරන්න පුළුවන්ද?"
+        },
+        {
+          "en": "I understand it's not your fault, but I'd like this fixed today.",
+          "si": "මම තේරුම් ගන්නවා ඔබේ වරදක් නෑ, නමුත් අද මේක හදාගන්න ඕන."
+        }
+      ],
+      "watchOutSi": "'Could I speak to the manager?' කියන්නේ තරහෙන් නෙවෙයි, තවත් උදව් ඕන නිසා. 'I understand it's not your fault' කියන එකෙන් ඔබ කථා කරන කෙනාට චෝදනා කරන්නේ නෑ කියලා පේනවා."
+    },
+    {
+      "type": "vocab",
+      "title": "Complaints and solutions",
+      "titleSi": "පැමිණිලි සහ විසඳුම්",
+      "items": [
+        {
+          "en": "complaint",
+          "si": "පැමිණිල්ල",
+          "say": "කොම්ප්ලේන්ට්"
+        },
+        {
+          "en": "refund",
+          "si": "මුදල් ආපසු ගෙවීම",
+          "say": "රිෆන්ඩ්"
+        },
+        {
+          "en": "exchange",
+          "si": "මාරු කරනවා",
+          "say": "එක්ස්චේන්ජ්"
+        },
+        {
+          "en": "replace",
+          "si": "ආදේශ කරනවා",
+          "say": "රීප්ලේස්"
+        },
+        {
+          "en": "faulty",
+          "si": "දෝෂ සහිත",
+          "say": "ෆෝල්ටි"
+        },
+        {
+          "en": "damaged",
+          "si": "හානි වූ",
+          "say": "ඩැමේජ්ඩ්"
+        },
+        {
+          "en": "receipt",
+          "si": "රිසිට් පත",
+          "say": "රිසීට්"
+        },
+        {
+          "en": "warranty",
+          "si": "වගකීම් කාලය",
+          "say": "වොරන්ටි"
+        },
+        {
+          "en": "manager",
+          "si": "කළමනාකරු",
+          "say": "මැනේජර්"
+        },
+        {
+          "en": "inconvenience",
+          "si": "අපහසුතාව",
+          "say": "ඉන්කන්වීනියන්ස්"
+        },
+        {
+          "en": "compensate",
+          "si": "වන්දි ගෙවනවා",
+          "say": "කොම්පන්සේට්"
+        },
+        {
+          "en": "resolve",
+          "si": "විසඳනවා",
+          "say": "රිසෝල්ව්"
+        }
+      ]
+    },
+    {
+      "type": "story",
+      "title": "The Broken Blender",
+      "titleSi": "කැඩුණු බ්ලෙන්ඩරය",
+      "introSi": "අලුතින් අරගත් බ්ලෙන්ඩරයක් වැඩ කරන්නේ නැතුව, ආපසු සාප්පුවට යන කතාවක්. ආචාරශීලී පැමිණිලි වාක්‍ය ගණන් කරන්න.",
+      "paragraphs": [
+        {
+          "en": "Malithi had been saving for a new blender for weeks, excited to finally make smoothies at home instead of buying them. She unboxed it carefully and plugged it in that same evening.",
+          "si": "මාලිතී සති ගණනක් තිස්සේ අලුත් බ්ලෙන්ඩරයක් සඳහා ඉතුරු කරමින් හිටියා, ගෙදරදීම smoothies හදන්න ලැබෙනවා කියලා සතුටින්. එයා ඒක හෙමින් අරගෙන, ඒ රෑම ප්ලග් කළා."
+        },
+        {
+          "en": "It worked well for about a minute, making a strange grinding noise, then suddenly stopped. She tried again — same thing. It wouldn't turn on at all after that.",
+          "si": "විනාඩියක් විතර හොඳට වැඩ කළා, අමුතු ශබ්දයක් නගමින්, පසුව හදිසියේ නැවතුනා. ආයෙත් උත්සාහ කළා — එකම දේ. ඊට පස්සේ කිසිසේත් ක්‍රියාත්මක වුණේ නෑ."
+        },
+        {
+          "en": "The next morning, she brought it back to the shop with the receipt. \"Excuse me, I have a problem with this blender,\" she said calmly. \"It stopped working after about a minute.\"",
+          "si": "ඊළඟ දවසේ උදේ, එයා ඒක රිසිට් පතත් එක්ක සාප්පුවට ගෙනාවා. \"සමාවෙන්න, මේ බ්ලෙන්ඩරයේ ප්‍රශ්නයක් තියෙනවා,\" එයා සන්සුන්ව කිව්වා. \"විනාඩියක් විතර ගත වෙලා ක්‍රියාත්මක වීම නැවතුනා.\""
+        },
+        {
+          "en": "The shop assistant plugged it in to check. \"You're right, it isn't working properly — I'm sorry for the inconvenience. Would you like a refund or an exchange?\" \"I'd like an exchange, please, if you have the same model.\"",
+          "si": "සාප්පු සේවකයා පරීක්ෂා කරන්න ප්ලග් කළා. \"ඔබ හරි, එය හරියට වැඩ කරන්නේ නෑ — අපහසුතාවයට සමාවෙන්න. මුදල් ආපසුද මාරු කිරීමද කැමති?\" \"මාරු කිරීම කැමතියි, ඔබ ළඟ එකම මොඩලය තියෙනවා නම්.\""
+        },
+        {
+          "en": "\"We're out of stock of that model, I'm afraid. But I can offer you a refund, or a different model at no extra cost.\" Malithi thought for a moment. \"A different model sounds good — could I see what you have?\"",
+          "si": "\"ඒ මොඩලය දැන් ස්ටොක් නෑ. නමුත් මුදල් ආපසුවක් හෝ, තව මුදලක් නොගෙවා වෙනත් මොඩලයක් දෙන්න පුළුවන්.\" මාලිතී ටිකක් හිතුවා. \"වෙනත් මොඩලයක් හොඳයි වගේ — ඔබ ළඟ මොනවද තියෙන්නේ බලන්න පුළුවන්ද?\""
+        },
+        {
+          "en": "The assistant showed her a newer model, slightly more expensive, and gave it to her at the same price to make up for the trouble. Malithi thanked her and left happy — the whole thing had taken less than ten minutes.",
+          "si": "සේවකයා අලුත් මොඩලයක්, ටිකක් මිල වැඩි එකක් පෙන්නුවා, කරදරයට වන්දි විදිහට එකම මිලට දුන්නා. මාලිතී ස්තූතියි කියලා, සතුටින් නික්මුනා — මුළු දේම විනාඩි දහයකටත් අඩු වෙලාවකින් ඉවර වුණා."
+        }
+      ],
+      "glossary": [
+        {
+          "en": "unbox",
+          "si": "පෙට්ටියෙන් අරගන්නවා"
+        },
+        {
+          "en": "grinding noise",
+          "si": "අමුතු ඝර්ෂණ ශබ්දය"
+        },
+        {
+          "en": "out of stock",
+          "si": "ස්ටොක් නැහැ"
+        },
+        {
+          "en": "at no extra cost",
+          "si": "තව මුදලක් නොගෙවා"
+        },
+        {
+          "en": "make up for",
+          "si": "වන්දි දෙනවා"
+        }
+      ],
+      "questionsSi": [
+        "මාලිතීගේ බ්ලෙන්ඩරයට වුණේ මොකක්ද?",
+        "සාප්පුවට ගිය මාලිතී මුලින්ම කිව්වේ මොකක්ද?",
+        "සේවකයා මාලිතීට මුලින්ම දෙන්න ලෑස්ති වුණේ මොනවද?",
+        "අන්තිමට මාලිතීට ලැබුනේ මොකක්ද?"
+      ]
+    },
+    {
+      "type": "poem",
+      "title": "The Polite Complaint",
+      "titleSi": "ආචාරශීලී පැමිණිල්ල",
+      "introSi": "තරහ නොපෙන්නා, තමන්ගේ පැත්ත කියන එක ගැන කවියක්.",
+      "lines": [
+        {
+          "en": "I could shout, and slam my hand,",
+          "si": "මට කෑගහන්න පුළුවන්, අත ගසන්න,"
+        },
+        {
+          "en": "And say this shop has failed me twice.",
+          "si": "සහ මේ සාප්පුව මාව දෙපාරක් අසමත් කළා කියන්නත් පුළුවන්."
+        },
+        {
+          "en": "Instead, I say, \"I have a problem —",
+          "si": "ඒ වෙනුවට, මම කියනවා, \"මට ප්‍රශ්නයක් තියෙනවා —"
+        },
+        {
+          "en": "Could we settle this, and settle nice?\"",
+          "si": "මේක විසඳගමුද, ලස්සනට?\""
+        },
+        {
+          "en": "",
+          "si": ""
+        },
+        {
+          "en": "The clerk, unhurried, hears me out —",
+          "si": "සේවකයා, ඉක්මන් නැතුව, මට සවන් දෙනවා —"
+        },
+        {
+          "en": "No anger meets an angry wall.",
+          "si": "තරහට තරහක් හම්බ වෙන්නේ නෑ."
+        },
+        {
+          "en": "A calm request, a fair reply —",
+          "si": "සන්සුන් ඉල්ලීමක්, සාධාරණ පිළිතුරක් —"
+        },
+        {
+          "en": "The quiet way still wins them all.",
+          "si": "නිහඬ ක්‍රමයම හැමවිටම දිනනවා."
+        }
+      ],
+      "noteSi": "'I have a problem', 'Could we settle this' — කවියේම, තරහ නොවී ප්‍රශ්නයක් කියන ක්‍රමය."
+    },
+    {
+      "type": "dialogue",
+      "title": "Returning a jacket",
+      "titleSi": "ජැකට් එකක් ආපසු දීම",
+      "settingSi": "පාරිභෝගිකයෙක් කැඩුණු ජැකට් එකක් ආපසු ගෙනියනවා. පැමිණිලි වාක්‍ය හඳුනාගන්න.",
+      "lines": [
+        {
+          "speaker": "Customer",
+          "en": "Excuse me, I have a problem with this jacket.",
+          "si": "සමාවෙන්න, මේ ජැකට් එකේ ප්‍රශ්නයක් තියෙනවා."
+        },
+        {
+          "speaker": "Assistant",
+          "en": "I'm sorry to hear that. What seems to be the problem?",
+          "si": "අහන්න සමාවෙන්න. ප්‍රශ්නය මොකක්ද?"
+        },
+        {
+          "speaker": "Customer",
+          "en": "It's faulty — the zip doesn't work. It got stuck the first time I wore it.",
+          "si": "එයාට දෝෂයක් — සිප් එක වැඩ කරන්නේ නෑ. මම මුල් වතාවට ඇන්දාම ඇනුනා."
+        },
+        {
+          "speaker": "Assistant",
+          "en": "I understand it's not your fault at all. Would you like a refund or an exchange?",
+          "si": "මම තේරුම් ගන්නවා ඔබේ වරදක්ම නෑ. මුදල් ආපසුද මාරු කිරීමද?"
+        },
+        {
+          "speaker": "Customer",
+          "en": "I'd like to exchange it for the same size, please.",
+          "si": "එකම සයිස් එකට මාරු කිරීම කැමතියි."
+        },
+        {
+          "speaker": "Assistant",
+          "en": "No problem. Do you have the receipt?",
+          "si": "කම් නෑ. රිසිට් පත තියෙනවද?"
+        },
+        {
+          "speaker": "Customer",
+          "en": "Yes, here you go.",
+          "si": "ඔව්, මෙන්න."
+        },
+        {
+          "speaker": "Assistant",
+          "en": "Thank you. Let me just get the manager to approve this, and I'll bring you a new one.",
+          "si": "ස්තූතියි. කළමනාකරු ලවා මේක අනුමත කරගන්නම්, පසුව අලුත් එකක් ගෙනත් දෙන්නම්."
+        }
+      ]
+    },
+    {
+      "type": "practice",
+      "title": "Choose the polite version",
+      "titleSi": "ආචාරශීලී වාක්‍යය තෝරන්න",
+      "instructionSi": "දුන් අවස්ථාවට ගැලපෙන ආචාරශීලී පැමිණිලි වාක්‍යය ලියන්න.",
+      "items": [
+        {
+          "prompt": "open a complaint about a phone",
+          "answer": "Excuse me, I have a problem with this phone.",
+          "hintSi": "Excuse me, I have a problem with...",
+          "full": "Excuse me, I have a problem with this phone."
+        },
+        {
+          "prompt": "the phone screen doesn't turn on",
+          "answer": "It doesn't work at all.",
+          "hintSi": "doesn't work",
+          "full": "It doesn't work at all."
+        },
+        {
+          "prompt": "ask for money back",
+          "answer": "I'd like a refund, please.",
+          "hintSi": "I'd like a refund, please.",
+          "full": "I'd like a refund, please."
+        },
+        {
+          "prompt": "ask for a different one instead",
+          "answer": "Could I exchange this for another one?",
+          "hintSi": "Could I exchange this...?",
+          "full": "Could I exchange this for another one?"
+        },
+        {
+          "prompt": "not satisfied with the first answer",
+          "answer": "I'm not happy with this.",
+          "hintSi": "I'm not happy with...",
+          "full": "I'm not happy with this."
+        },
+        {
+          "prompt": "ask for someone more senior",
+          "answer": "Could I speak to the manager, please?",
+          "hintSi": "Could I speak to the manager, please?",
+          "full": "Could I speak to the manager, please?"
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "en": "complaint",
+      "si": "පැමිණිල්ල"
+    },
+    {
+      "en": "refund",
+      "si": "මුදල් ආපසු ගෙවීම"
+    },
+    {
+      "en": "exchange",
+      "si": "මාරු කරනවා"
+    },
+    {
+      "en": "replace",
+      "si": "ආදේශ කරනවා"
+    },
+    {
+      "en": "faulty",
+      "si": "දෝෂ සහිත"
+    },
+    {
+      "en": "damaged",
+      "si": "හානි වූ"
+    },
+    {
+      "en": "receipt",
+      "si": "රිසිට් පත"
+    },
+    {
+      "en": "warranty",
+      "si": "වගකීම් කාලය"
+    },
+    {
+      "en": "manager",
+      "si": "කළමනාකරු"
+    },
+    {
+      "en": "inconvenience",
+      "si": "අපහසුතාව"
+    },
+    {
+      "en": "compensate",
+      "si": "වන්දි ගෙවනවා"
+    },
+    {
+      "en": "resolve",
+      "si": "විසඳනවා"
+    },
+    {
+      "en": "unbox",
+      "si": "පෙට්ටියෙන් අරගන්නවා"
+    },
+    {
+      "en": "out of stock",
+      "si": "ස්ටොක් නැහැ"
+    },
+    {
+      "en": "at no extra cost",
+      "si": "තව මුදලක් නොගෙවා"
+    },
+    {
+      "en": "make up for",
+      "si": "වන්දි දෙනවා"
+    },
+    {
+      "en": "approve",
+      "si": "අනුමත කරනවා"
+    },
+    {
+      "en": "stuck",
+      "si": "ඇනුණු"
+    },
+    {
+      "en": "calmly",
+      "si": "සන්සුන්ව"
+    },
+    {
+      "en": "sort out",
+      "si": "විසඳගන්නවා"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "a2-16-q1",
+      "q": "'සමාවෙන්න, මේ බ්ලෙන්ඩරයේ ප්‍රශ්නයක් තියෙනවා.' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "This blender is broken!",
+        "Excuse me, I have a problem with this blender.",
+        "You gave me a bad blender.",
+        "Excuse me, this blender problem."
+      ],
+      "answer": 1,
+      "explainSi": "'Excuse me, I have a problem with...' — ආචාරශීලී, චෝදනාවක් නෙවෙයි.",
+      "speak": "Excuse me, I have a problem with this blender."
+    },
+    {
+      "id": "a2-16-q2",
+      "q": "'You gave me a broken one!' කියලා පටන් ගැනීම ඇයි නොවේ හොඳ?",
+      "options": [
+        "එය ව්‍යාකරණාත්මකව වැරදියි",
+        "එය චෝදනාවක් වගේ ඇහෙනවා, ආචාරශීලී නෑ",
+        "එය ප්‍රශ්නයක් නෙවෙයි",
+        "එය ඉතාම දිගයි"
+      ],
+      "answer": 1,
+      "explainSi": "'I have a problem with...' කියලා පටන් ගත්තොත් තොරතුරක් වගේ, චෝදනාවක් නෙවෙයි."
+    },
+    {
+      "id": "a2-16-q3",
+      "q": "'මේක කිසිසේත් වැඩ කරන්නේ නෑ.' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "This doesn't work at all.",
+        "This not working at all.",
+        "This didn't works.",
+        "This no work."
+      ],
+      "answer": 0,
+      "explainSi": "'doesn't work' — present simple, a1-14 හි රටාවම.",
+      "speak": "This doesn't work at all."
+    },
+    {
+      "id": "a2-16-q4",
+      "q": "'faulty' සහ 'damaged' අතර වෙනස කුමක්ද?",
+      "options": [
+        "වෙනසක් නෑ",
+        "'faulty' — නිෂ්පාදනයේම දෝෂයක්, 'damaged' — භාණ්ඩයට හානි වෙච්ච එකක්",
+        "'damaged' — නිෂ්පාදනයේම දෝෂයක්",
+        "'faulty' කියන්නේ රිසිට් පත නැති එකට"
+      ],
+      "answer": 1,
+      "explainSi": "'faulty' — නිෂ්පාදන දෝෂය. 'damaged' — පසුව හානි වෙච්ච එකක්."
+    },
+    {
+      "id": "a2-16-q5",
+      "q": "'මුදල් ආපසු ඕන, කරුණාකර.' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "I want my money.",
+        "I'd like a refund, please.",
+        "Give me refund now.",
+        "Refund me please."
+      ],
+      "answer": 1,
+      "explainSi": "'I'd like' — 'I want' ට වඩා ආචාරශීලීයි.",
+      "speak": "I'd like a refund, please."
+    },
+    {
+      "id": "a2-16-q6",
+      "q": "'මේක වෙනත් එකකට මාරු කරන්න පුළුවන්ද?' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "Could I exchange this for another one?",
+        "Could I exchanging this?",
+        "Exchange this for me.",
+        "Could this exchange another?"
+      ],
+      "answer": 0,
+      "explainSi": "'Could I exchange this for another one?' — ආචාරශීලී ඉල්ලීමක්.",
+      "speak": "Could I exchange this for another one?"
+    },
+    {
+      "id": "a2-16-q7",
+      "q": "පළමු පැමිණිල්ලට හොඳ පිළිතුරක් ලැබෙන්නේ නැත්නම්, ඊළඟට කියන්නේ මොකක්ද?",
+      "options": [
+        "'I'm not happy with this. Could I speak to the manager, please?'",
+        "'Give me my money now!'",
+        "කිසිවක් නොකියා යනවා",
+        "'You are wrong.'"
+      ],
+      "answer": 0,
+      "explainSi": "තරහ නොපෙන්නා, තවත් පැහැදිලිව කියලා, කළමනාකරු අහනවා."
+    },
+    {
+      "id": "a2-16-q8",
+      "q": "'I understand it's not your fault, but...' කියන්නේ ඇයි?",
+      "options": [
+        "සේවකයාට චෝදනා නොකර, ප්‍රශ්නය දිගටම කියන්න",
+        "සේවකයාට තරහ ගන්න",
+        "සමාව අයදින්න",
+        "කථාව අවසන් කරන්න"
+      ],
+      "answer": 0,
+      "explainSi": "සේවකයාගේ වරදක් නෑ කියලා පිළිගෙන, එහෙත් ප්‍රශ්නය තවමත් විසඳගන්න ඕන."
+    },
+    {
+      "id": "a2-16-q9",
+      "q": "'It isn't working properly' සහ 'It doesn't work' අතර වෙනස කුමක්ද?",
+      "options": [
+        "වෙනසක් නෑ",
+        "'isn't working properly' — ටිකක් වැඩ කරනවා, හරියට නෑ. 'doesn't work' — මුළුමනින්ම නෑ",
+        "'doesn't work' — ටිකක් වැඩ කරනවා",
+        "'isn't working properly' — කිසිසේත් වැඩ කරන්නේ නෑ"
+      ],
+      "answer": 1,
+      "explainSi": "'isn't working properly' අර්ධ දෝෂයක්, 'doesn't work' සම්පූර්ණයෙන්ම නැත්තේ."
+    },
+    {
+      "id": "a2-16-q10",
+      "q": "සාප්පු කථාබහක 'I'd like' යෙදීම ඇයි වැදගත්ද?",
+      "options": [
+        "එය දිගු වචනයක් නිසා",
+        "'I want' ට වඩා ආචාරශීලීයි",
+        "එය ව්‍යාකරණාත්මකව අවශ්‍යයි",
+        "වැදගත් කමක් නෑ"
+      ],
+      "answer": 1,
+      "explainSi": "'I'd like' ආචාරශීලී ඉල්ලීම් සඳහා සම්මත ආකෘතියයි."
+    },
+    {
+      "id": "a2-16-q11",
+      "context": "Malithi had been saving for a new blender for weeks, excited to finally make smoothies at home instead of buying them. She unboxed it carefully and plugged it in that same evening.",
+      "contextSi": "මාලිතී සති ගණනක් තිස්සේ අලුත් බ්ලෙන්ඩරයක් සඳහා ඉතුරු කරමින් හිටියා, ගෙදරදීම smoothies හදන්න ලැබෙනවා කියලා සතුටින්. එයා ඒක හෙමින් අරගෙන, ඒ රෑම ප්ලග් කළා.",
+      "q": "කතාව අනුව: මාලිතී බ්ලෙන්ඩරය මුලින්ම භාවිතා කරන්නේ කවදාද?",
+      "options": [
+        "ලබාගත් සති කීපයකට පස්සේ",
+        "ලබාගත් ඒ රෑම",
+        "ලබාගත් සතියකට පස්සේ",
+        "ලබාගත් මාසයකට පස්සේ"
+      ],
+      "answer": 1,
+      "explainSi": "'She unboxed it carefully and plugged it in that same evening.'"
+    },
+    {
+      "id": "a2-16-q12",
+      "context": "It worked well for about a minute, making a strange grinding noise, then suddenly stopped. She tried again — same thing. It wouldn't turn on at all after that.",
+      "contextSi": "විනාඩියක් විතර හොඳට වැඩ කළා, අමුතු ශබ්දයක් නගමින්, පසුව හදිසියේ නැවතුනා. ආයෙත් උත්සාහ කළා — එකම දේ. ඊට පස්සේ කිසිසේත් ක්‍රියාත්මක වුණේ නෑ.",
+      "q": "කතාව අනුව: බ්ලෙන්ඩරයට වුණේ මොකක්ද?",
+      "options": [
+        "එය කවදාවත් ක්‍රියාත්මක වුණේ නෑ",
+        "විනාඩියක් වැඩ කරලා, පසුව නැවතුනා, ඊට පස්සේ ක්‍රියාත්මක වුණේ නෑ",
+        "එය හොඳටම වැඩ කළා",
+        "එය ගිනිගත්තා"
+      ],
+      "answer": 1,
+      "explainSi": "'It worked well for about a minute... then suddenly stopped... wouldn't turn on at all after that.'"
+    },
+    {
+      "id": "a2-16-q13",
+      "context": "\"Excuse me, I have a problem with this blender,\" she said calmly. \"It stopped working after about a minute.\"",
+      "contextSi": "\"සමාවෙන්න, මේ බ්ලෙන්ඩරයේ ප්‍රශ්නයක් තියෙනවා,\" එයා සන්සුන්ව කිව්වා. \"විනාඩියක් විතර ගත වෙලා ක්‍රියාත්මක වීම නැවතුනා.\"",
+      "q": "කතාව අනුව: මාලිතී සාප්පුවේදී පැමිණිල්ල කරන්නේ කොහොමද?",
+      "options": [
+        "තරහෙන්, කෑගහමින්",
+        "සන්සුන්ව, ආචාරශීලීව",
+        "කිසිවක් නොකියා",
+        "ලිපියක් ලියලා"
+      ],
+      "answer": 1,
+      "explainSi": "'she said calmly.'"
+    },
+    {
+      "id": "a2-16-q14",
+      "context": "\"You're right, it isn't working properly — I'm sorry for the inconvenience. Would you like a refund or an exchange?\" \"I'd like an exchange, please, if you have the same model.\"",
+      "contextSi": "\"ඔබ හරි, එය හරියට වැඩ කරන්නේ නෑ — අපහසුතාවයට සමාවෙන්න. මුදල් ආපසුද මාරු කිරීමද කැමති?\" \"මාරු කිරීම කැමතියි, ඔබ ළඟ එකම මොඩලය තියෙනවා නම්.\"",
+      "q": "කතාව අනුව: මාලිතී මුලින්ම කැමති වුනේ මොකටද?",
+      "options": [
+        "මුදල් ආපසු ගන්නත්",
+        "එකම මොඩලයේ නව එකකට මාරු කරන්නත්",
+        "වෙනත් වර්ගයේ භාණ්ඩයකට",
+        "කිසිවක් ගන්නෙත් නෑ"
+      ],
+      "answer": 1,
+      "explainSi": "'I'd like an exchange, please, if you have the same model.'"
+    },
+    {
+      "id": "a2-16-q15",
+      "context": "\"We're out of stock of that model, I'm afraid. But I can offer you a refund, or a different model at no extra cost.\" Malithi thought for a moment. \"A different model sounds good — could I see what you have?\"",
+      "contextSi": "\"ඒ මොඩලය දැන් ස්ටොක් නෑ. නමුත් මුදල් ආපසුවක් හෝ, තව මුදලක් නොගෙවා වෙනත් මොඩලයක් දෙන්න පුළුවන්.\" මාලිතී ටිකක් හිතුවා. \"වෙනත් මොඩලයක් හොඳයි වගේ — ඔබ ළඟ මොනවද තියෙන්නේ බලන්න පුළුවන්ද?\"",
+      "q": "කතාව අනුව: එකම මොඩලය නොතිබුනු නිසා, සේවකයා දුන් විකල්ප මොනවාද?",
+      "options": [
+        "විකල්පයක් නෑ",
+        "මුදල් ආපසුවක් හෝ තව මුදලක් නොගෙවා වෙනත් මොඩලයක්",
+        "සති දෙකකින් එකම මොඩලය එනකම් ඉන්න",
+        "වෙනත් සාප්පුවකට යන්න"
+      ],
+      "answer": 1,
+      "explainSi": "'a refund, or a different model at no extra cost.'"
+    },
+    {
+      "id": "a2-16-q16",
+      "context": "The assistant showed her a newer model, slightly more expensive, and gave it to her at the same price to make up for the trouble.",
+      "contextSi": "සේවකයා අලුත් මොඩලයක්, ටිකක් මිල වැඩි එකක් පෙන්නුවා, කරදරයට වන්දි විදිහට එකම මිලට දුන්නා.",
+      "q": "කතාව අනුව: 'to make up for the trouble' කියන්නෙන් අදහස් වන්නේ කුමක්ද?",
+      "options": [
+        "සේවකයා තවත් කරදර කළා",
+        "වුණ අපහසුතාවයට වන්දි විදිහට, වැඩිපුර මුදලක් නොගෙනම වඩා හොඳ දෙයක් දුන්නා",
+        "මාලිතී තව මුදලක් ගෙවන්න ඕන",
+        "සේවකයා සමාව ඉල්ලුවේ නෑ"
+      ],
+      "answer": 1,
+      "explainSi": "වඩා මිල අධික මොඩලය, එකම මිලට — කරදරයට වන්දියක්."
+    },
+    {
+      "id": "a2-16-q17",
+      "context": "I could shout, and slam my hand, / And say this shop has failed me twice. / Instead, I say, \"I have a problem — / Could we settle this, and settle nice?\"",
+      "contextSi": "මට කෑගහන්න පුළුවන්, අත ගසන්න, / සහ මේ සාප්පුව මාව දෙපාරක් අසමත් කළා කියන්නත් පුළුවන්. / ඒ වෙනුවට, මම කියනවා, \"මට ප්‍රශ්නයක් තියෙනවා — / මේක විසඳගමුද, ලස්සනට?\"",
+      "q": "කවියේ පළමු කොටසේ, කථකයා තෝරාගන්නේ මොකක්ද?",
+      "options": [
+        "කෑගැහීම",
+        "තරහ නොපෙන්නා, ආචාරශීලීව ප්‍රශ්නය කීම",
+        "සම්පූර්ණයෙන්ම නිහඬව සිටීම",
+        "සාප්පුව අත්හැරීම"
+      ],
+      "answer": 1,
+      "explainSi": "'Instead, I say, \"I have a problem...\"' — කෑගැහීම වෙනුවට ආචාරශීලීව කීම."
+    },
+    {
+      "id": "a2-16-q18",
+      "context": "The clerk, unhurried, hears me out — / No anger meets an angry wall. / A calm request, a fair reply — / The quiet way still wins them all.",
+      "contextSi": "සේවකයා, ඉක්මන් නැතුව, මට සවන් දෙනවා — / තරහට තරහක් හම්බ වෙන්නේ නෑ. / සන්සුන් ඉල්ලීමක්, සාධාරණ පිළිතුරක් — / නිහඬ ක්‍රමයම හැමවිටම දිනනවා.",
+      "q": "කවියේ අන්තිම කොටසේ, 'The quiet way still wins them all' කියන්නෙන් අදහස් වන්නේ කුමක්ද?",
+      "options": [
+        "නිහඬව ඉන්න එක කිසිම ප්‍රතිඵලයක් ගෙන එන්නේ නෑ",
+        "සන්සුන්ව ඉල්ලීම, තරහෙන් ඉල්ලන එකට වඩා හොඳ ප්‍රතිඵල ගෙන එනවා",
+        "නිතරම කෑගැහිය යුතුයි",
+        "සේවකයා කිසි විටෙකත් සවන් දෙන්නේ නෑ"
+      ],
+      "answer": 1,
+      "explainSi": "සන්සුන් ඉල්ලීමකට සාධාරණ පිළිතුරක් ලැබෙනවා — කවියේම ප්‍රධාන අදහස."
+    },
+    {
+      "id": "a2-16-q19",
+      "context": "Customer: It's faulty — the zip doesn't work. It got stuck the first time I wore it. / Assistant: I understand it's not your fault at all. Would you like a refund or an exchange?",
+      "contextSi": "පාරිභෝගිකයා: එයාට දෝෂයක් — සිප් එක වැඩ කරන්නේ නෑ. මම මුල් වතාවට ඇන්දාම ඇනුනා. / සේවකයා: මම තේරුම් ගන්නවා ඔබේ වරදක්ම නෑ. මුදල් ආපසුද මාරු කිරීමද?",
+      "q": "සංවාදයේ: ජැකට් එකේ ප්‍රශ්නය මොකක්ද?",
+      "options": [
+        "එය කුඩාවැඩියි",
+        "එහි වර්ණය වැරදියි",
+        "සිප් එක ඇනුනා, වැඩ කළේ නෑ",
+        "එය අපිරිසිදුයි"
+      ],
+      "answer": 2,
+      "explainSi": "'the zip doesn't work. It got stuck the first time I wore it.'"
+    },
+    {
+      "id": "a2-16-q20",
+      "context": "Assistant: Thank you. Let me just get the manager to approve this, and I'll bring you a new one.",
+      "contextSi": "සේවකයා: ස්තූතියි. කළමනාකරු ලවා මේක අනුමත කරගන්නම්, පසුව අලුත් එකක් ගෙනත් දෙන්නම්.",
+      "q": "සංවාදයේ: සේවකයා කළමනාකරු ලවා අනුමත කරගන්නේ ඇයි?",
+      "options": [
+        "පාරිභෝගිකයාට තරහ නිසා",
+        "මාරු කිරීම (exchange) ක්‍රියාත්මක කරන්න ඉහළ අනුමැතියක් ඕන නිසා",
+        "රිසිට් පත නොතිබූ නිසා",
+        "ජැකට් එකේ තවත් ප්‍රශ්නයක් තිබූ නිසා"
+      ],
+      "answer": 1,
+      "explainSi": "රිසිට් පත සමඟ, මාරු කිරීම සිදු කරන්න කළමනාකරුගේ අනුමැතිය ඕන."
+    },
+    {
+      "id": "a2-16-q21",
+      "q": "කුමන වාක්‍යය වැරදිද?",
+      "options": [
+        "Excuse me, I have a problem with this phone.",
+        "I'd like a refund, please.",
+        "This isn't work properly.",
+        "Could I speak to the manager, please?"
+      ],
+      "answer": 2,
+      "explainSi": "'This isn't working properly' විය යුතුයි — -ing එකතු කරන්න ඕන."
+    },
+    {
+      "id": "a2-16-q22",
+      "q": "'මේ සේවාව ගැන මම සතුටු නෑ.' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "I don't like this service.",
+        "I'm not happy with this service.",
+        "This service is bad for me.",
+        "I hate this service."
+      ],
+      "answer": 1,
+      "explainSi": "'I'm not happy with...' — සම්මත, ආචාරශීලී වාක්‍යාංශය.",
+      "speak": "I'm not happy with this service."
+    }
+  ]
+}

@@ -1,0 +1,483 @@
+{
+  "hero": {
+    "src": "images/b2-03-hero.webp",
+    "alt": "Nadeesha watching a mechanic repair a scooter in a workshop, arms folded, tools laid out on the bench, shafts of light through the shutters."
+  },
+  "goalsSi": [
+    "සියලු කාලවල passive voice සෑදීම",
+    "Passive යෙදිය යුත්තේ කවදාද යන්න",
+    "'by' යෙදිය යුත්තේ කවදාද",
+    "Active සහ passive අතර හරවා ලිවීම"
+  ],
+  "goals": [
+    "Form the passive in every tense",
+    "Know when the passive is the better choice",
+    "Convert between active and passive"
+  ],
+  "sections": [
+    {
+      "type": "note",
+      "title": "When the doer does not matter",
+      "titleSi": "කරන්නා වැදගත් නොවන විට",
+      "bodySi": "In an active sentence, the subject does the action. In a passive sentence, the subject receives it.\n\nActive: The police arrested the driver.\nPassive: The driver was arrested.\n\nThe passive moves the important information to the front. Use it when:\n\n1. You do not know who did it — \"My phone was stolen.\"\n2. It is obvious who did it — \"He was arrested.\" (by the police, clearly)\n3. The action matters more than the doer — \"The bridge was built in 1952.\"\n4. You are writing formally — reports, science, news, official notices.\n\nසිංහලෙනුත් කර්ම කාරකය තියෙනවා, නමුත් ඉංග්‍රීසියේ, විශේෂයෙන් විධිමත් ලේඛනවල, එය බොහෝ නිතර භාවිත වෙනවා.",
+      "body": "The passive puts the important information first, and hides the doer when it does not matter."
+    },
+    {
+      "type": "grammar",
+      "title": "How to form it",
+      "titleSi": "සෑදෙන ආකාරය",
+      "explainSi": "The recipe never changes: take the correct form of 'be' for the tense you need, then add the past participle (V3).",
+      "formula": "be (in the right tense) + past participle (V3)",
+      "table": {
+        "headers": [
+          "Tense",
+          "Active",
+          "Passive"
+        ],
+        "rows": [
+          [
+            "Present simple",
+            "They clean the room.",
+            "The room is cleaned."
+          ],
+          [
+            "Present continuous",
+            "They are cleaning it.",
+            "It is being cleaned."
+          ],
+          [
+            "Past simple",
+            "They cleaned it.",
+            "It was cleaned."
+          ],
+          [
+            "Past continuous",
+            "They were cleaning it.",
+            "It was being cleaned."
+          ],
+          [
+            "Present perfect",
+            "They have cleaned it.",
+            "It has been cleaned."
+          ],
+          [
+            "Past perfect",
+            "They had cleaned it.",
+            "It had been cleaned."
+          ],
+          [
+            "Future (will)",
+            "They will clean it.",
+            "It will be cleaned."
+          ],
+          [
+            "Modal",
+            "They must clean it.",
+            "It must be cleaned."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "This temple was built in the twelfth century.",
+          "si": "මේ පන්සල දොළොස්වන සියවසේදී ඉදිකරන ලදී."
+        },
+        {
+          "en": "The results will be announced on Friday.",
+          "si": "ප්‍රතිඵල සිකුරාදා නිවේදනය කරනු ලැබේ."
+        },
+        {
+          "en": "My bag has been stolen.",
+          "si": "මගේ බෑග් එක හොරකම් කරලා."
+        },
+        {
+          "en": "The road is being repaired.",
+          "si": "පාර අලුත්වැඩියා කරමින් පවතිනවා."
+        }
+      ],
+      "watchOutSi": "Passive සෑදෙන්නේ transitive verbs (කර්ම පදයක් ඇති ක්‍රියා) වලින් පමණයි. 'sleep', 'arrive', 'happen', 'come' වැනි ක්‍රියාවලට passive එකක් නෑ. 'The accident was happened' ✗ → 'The accident happened' ✓."
+    },
+    {
+      "type": "grammar",
+      "title": "Should you add 'by'?",
+      "titleSi": "'by' යොදන්නද?",
+      "explainSi": "Only mention the doer with 'by' when that information is genuinely useful or surprising. In most passive sentences it is left out — that is usually the whole point of choosing the passive.\n\nකරන්නා ගැන කීම ප්‍රයෝජනවත් හෝ පුදුම සහගත නම් පමණක් 'by' යොදන්න. බොහෝ විට ඒක අත්හරිනවා.",
+      "table": {
+        "headers": [
+          "Include 'by'",
+          "Leave it out"
+        ],
+        "rows": [
+          [
+            "The novel was written by a Sri Lankan.",
+            "The window was broken. (කවුද දන්නේ නෑ)"
+          ],
+          [
+            "The bridge was designed by a famous engineer.",
+            "Rice is grown in the dry zone. (පැහැදිලියි)"
+          ],
+          [
+            "He was taught by his grandmother.",
+            "Smoking is not allowed here. (කවුරු තහනම් කළද වැදගත් නෑ)"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "The letter was written by my father.",
+          "si": "ලිපිය ලියපු එක මගේ තාත්තා. (වැදගත් තොරතුරක්)"
+        },
+        {
+          "en": "The office is cleaned every evening.",
+          "si": "කාර්යාලය හැම සැන්දෑවකම පිරිසිදු කරනවා. (කවුරු කරනවද වැදගත් නෑ)"
+        },
+        {
+          "en": "Tea is grown in the hill country.",
+          "si": "තේ වවන්නේ කඳුකරයේ."
+        }
+      ]
+    },
+    {
+      "type": "grammar",
+      "title": "The passive in real writing",
+      "titleSi": "සැබෑ ලේඛනයේ passive",
+      "explainSi": "The passive is everywhere in formal English. Recognising it will help you read reports, notices and news.\n\nවිධිමත් ඉංග්‍රීසියේ passive සෑම තැනකම තියෙනවා. එය හඳුනාගැනීමෙන් වාර්තා, දැන්වීම් සහ පුවත් කියවීම පහසු වෙනවා.",
+      "table": {
+        "headers": [
+          "Context",
+          "Typical passive sentence"
+        ],
+        "rows": [
+          [
+            "Notice",
+            "Visitors are requested to remove their shoes."
+          ],
+          [
+            "News",
+            "Three people were injured in the accident."
+          ],
+          [
+            "Science",
+            "The samples were heated to 80°C."
+          ],
+          [
+            "Business email",
+            "Your application has been received."
+          ],
+          [
+            "Instructions",
+            "The form must be signed by both parties."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "Applications will not be accepted after 31 March.",
+          "si": "මාර්තු 31න් පසු අයදුම්පත් භාරගනු නොලැබේ."
+        },
+        {
+          "en": "You are advised to arrive thirty minutes early.",
+          "si": "විනාඩි තිහකට කලින් පැමිණෙන ලෙස උපදෙස් දෙනු ලැබේ."
+        },
+        {
+          "en": "The matter is being investigated.",
+          "si": "කරුණ විමර්ශනය කරමින් පවතී."
+        }
+      ],
+      "watchOutSi": "Passive වැඩිපුර යෙදුවොත් ලේඛනය බර සහ අපැහැදිලි වෙනවා. හොඳ ලේඛකයෝ අවශ්‍ය තැන පමණක් යොදනවා. සාමාන්‍ය කථනයේදී active voice වඩා ස්වාභාවිකයි."
+    },
+    {
+      "type": "story",
+      "title": "The Notice on the Gate",
+      "titleSi": "ගේට්ටුවේ දැන්වීම",
+      "introSi": "A story about how the passive can hide a person — and what happens when someone refuses to be hidden.",
+      "paragraphs": [
+        {
+          "en": "A notice was pinned to the factory gate on Monday morning. It said: \"Owing to restructuring, forty positions will be made redundant.\"",
+          "si": "සඳුදා උදේ කර්මාන්තශාලා ගේට්ටුවේ දැන්වීමක් අලවා තිබුණා. එහි මෙසේ තිබුණා: \"ප්‍රතිව්‍යුහගත කිරීම හේතුවෙන් තනතුරු හතළිහක් අහෝසි කරනු ලැබේ.\""
+        },
+        {
+          "en": "Notice the grammar. Nobody made the decision. Nobody signed it. Positions would simply 'be made redundant', as if by weather.",
+          "si": "ව්‍යාකරණය බලන්න. කිසිවෙක් තීරණය කළේ නෑ. කිසිවෙක් අත්සන් කළේ නෑ. තනතුරු හුදෙක් 'අහෝසි කරනු ලැබේ' — කාලගුණය වගේ."
+        },
+        {
+          "en": "Kamala had worked there for nineteen years. She read the notice twice, then went to the office.",
+          "si": "කමලා අවුරුදු දහනවයක් එතන වැඩ කරලා. එයා දැන්වීම දෙපාරක් කියෙව්වා, ඊට පස්සේ කාර්යාලයට ගියා."
+        },
+        {
+          "en": "\"Who decided?\" she asked. \"The decision was taken at head office,\" the manager replied.",
+          "si": "\"කවුද තීරණය කළේ?\" එයා ඇහුවා. \"තීරණය ප්‍රධාන කාර්යාලයේදී ගන්නා ලදී,\" කළමනාකරු පිළිතුරු දුන්නා."
+        },
+        {
+          "en": "\"By whom?\" Kamala said. The manager looked at his desk. He had not been asked that question before.",
+          "si": "\"කවුරු විසින්ද?\" කමලා කිව්වා. කළමනාකරු මේසය දිහා බැලුවා. ඒ ප්‍රශ්නය කලින් එයාගෙන් අහලා තිබුණේ නෑ."
+        },
+        {
+          "en": "The next morning a new notice appeared. It was shorter, and it began: \"I have decided …\"",
+          "si": "පසුදා උදේ අලුත් දැන්වීමක් දිස් වුණා. ඒක කෙටියි, සහ ඒක පටන් ගත්තේ මෙහෙමයි: \"මම තීරණය කර ඇත්තෙමි …\""
+        },
+        {
+          "en": "Forty people still lost their jobs. But every one of them knew, at last, exactly whose name was on the decision.",
+          "si": "හතළිස් දෙනෙක්ම රැකියා අහිමි වුණා. නමුත් අන්තිමට ඔවුන් හැමෝම හරියටම දැනගත්තා ඒ තීරණයේ කාගේ නමද තිබුණේ කියලා."
+        }
+      ],
+      "glossary": [
+        {
+          "en": "notice",
+          "si": "දැන්වීම"
+        },
+        {
+          "en": "pin",
+          "si": "අලවනවා / ඇමිණෙනවා"
+        },
+        {
+          "en": "owing to",
+          "si": "…හේතුවෙන්"
+        },
+        {
+          "en": "restructuring",
+          "si": "ප්‍රතිව්‍යුහගත කිරීම"
+        },
+        {
+          "en": "redundant",
+          "si": "අනවශ්‍ය / අහෝසි"
+        },
+        {
+          "en": "head office",
+          "si": "ප්‍රධාන කාර්යාලය"
+        },
+        {
+          "en": "reply",
+          "si": "පිළිතුරු දෙනවා"
+        },
+        {
+          "en": "at last",
+          "si": "අන්තිමට"
+        }
+      ],
+      "questionsSi": [
+        "පළමු දැන්වීමේ passive යෙදුවේ ඇයි?",
+        "'By whom?' යන ප්‍රශ්නය එතරම් බලවත් වූයේ ඇයි?",
+        "දෙවෙනි දැන්වීම වෙනස් වූයේ කෙසේද?"
+      ]
+    },
+    {
+      "type": "practice",
+      "title": "Make it passive",
+      "titleSi": "Passive බවට හරවන්න",
+      "instructionSi": "වාක්‍යය passive ස්වරූපයට හරවා ලියන්න.",
+      "items": [
+        {
+          "prompt": "They clean the office every day. → The office ___ every day.",
+          "answer": "is cleaned",
+          "hintSi": "Present simple passive.",
+          "full": "The office is cleaned every day."
+        },
+        {
+          "prompt": "Someone stole my bicycle. → My bicycle ___ .",
+          "answer": "was stolen",
+          "hintSi": "Past simple passive.",
+          "full": "My bicycle was stolen."
+        },
+        {
+          "prompt": "They will announce the results. → The results ___ .",
+          "answer": "will be announced",
+          "hintSi": "Future passive.",
+          "full": "The results will be announced."
+        },
+        {
+          "prompt": "They are repairing the road. → The road ___ .",
+          "answer": "is being repaired",
+          "hintSi": "Present continuous passive.",
+          "full": "The road is being repaired."
+        },
+        {
+          "prompt": "They have finished the work. → The work ___ .",
+          "answer": "has been finished",
+          "hintSi": "Present perfect passive.",
+          "full": "The work has been finished."
+        },
+        {
+          "prompt": "You must sign the form. → The form ___ .",
+          "answer": "must be signed",
+          "hintSi": "Modal passive.",
+          "full": "The form must be signed."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "en": "notice",
+      "si": "දැන්වීම"
+    },
+    {
+      "en": "announce",
+      "si": "නිවේදනය කරනවා"
+    },
+    {
+      "en": "repair",
+      "si": "අලුත්වැඩියා කරනවා"
+    },
+    {
+      "en": "steal",
+      "si": "හොරකම් කරනවා"
+    },
+    {
+      "en": "injure",
+      "si": "තුවාල කරනවා"
+    },
+    {
+      "en": "accept",
+      "si": "භාරගන්නවා"
+    },
+    {
+      "en": "sign",
+      "si": "අත්සන් කරනවා"
+    },
+    {
+      "en": "investigate",
+      "si": "විමර්ශනය කරනවා"
+    },
+    {
+      "en": "request",
+      "si": "ඉල්ලීම කරනවා"
+    },
+    {
+      "en": "decision",
+      "si": "තීරණය"
+    },
+    {
+      "en": "redundant",
+      "si": "අහෝසි / අනවශ්‍ය"
+    },
+    {
+      "en": "reply",
+      "si": "පිළිතුරු දෙනවා"
+    },
+    {
+      "en": "design",
+      "si": "නිර්මාණය කරනවා"
+    },
+    {
+      "en": "century",
+      "si": "සියවස"
+    },
+    {
+      "en": "official",
+      "si": "නිල"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "b2-03-q1",
+      "q": "'They clean the office every day' in the passive is:",
+      "qSi": "Passive ස්වරූපය?",
+      "options": [
+        "The office cleans every day.",
+        "The office is cleaned every day.",
+        "The office was cleaned every day.",
+        "The office is being clean every day."
+      ],
+      "answer": 1,
+      "explainSi": "Present simple passive: is / are + V3.",
+      "speak": "The office is cleaned every day."
+    },
+    {
+      "id": "b2-03-q2",
+      "q": "The passive is always formed with:",
+      "qSi": "Passive සෑදෙන්නේ?",
+      "options": [
+        "do + past participle",
+        "be + past participle",
+        "have + base verb",
+        "will + base verb"
+      ],
+      "answer": 1,
+      "explainSi": "be ක්‍රියාවේ නිවැරදි ස්වරූපය + past participle (V3).",
+      "speak": "be plus past participle"
+    },
+    {
+      "id": "b2-03-q3",
+      "q": "Which sentence is WRONG?",
+      "qSi": "වැරදි වාක්‍යය කුමක්ද?",
+      "options": [
+        "The accident happened last night.",
+        "The accident was happened last night.",
+        "Three people were injured.",
+        "The road is being repaired."
+      ],
+      "answer": 1,
+      "explainSi": "'happen' යනු intransitive ක්‍රියාවක් — කර්ම පදයක් නෑ, එනිසා passive එකක් සෑදිය නොහැක."
+    },
+    {
+      "id": "b2-03-q4",
+      "q": "When should you add 'by + doer'?",
+      "qSi": "'by' යොදන්නේ කවදාද?",
+      "options": [
+        "Always",
+        "Never",
+        "Only when the doer is useful or surprising information",
+        "Only in the past tense"
+      ],
+      "answer": 2,
+      "explainSi": "බොහෝ passive වාක්‍යවල කරන්නා අත්හරිනවා — ඒක තමයි passive තෝරාගැනීමේ අරමුණ."
+    },
+    {
+      "id": "b2-03-q5",
+      "q": "'They have finished the work' → passive?",
+      "qSi": "Present perfect passive?",
+      "options": [
+        "The work is finished.",
+        "The work was finished.",
+        "The work has been finished.",
+        "The work had finished."
+      ],
+      "answer": 2,
+      "explainSi": "Present perfect passive: has / have + been + V3.",
+      "speak": "The work has been finished."
+    },
+    {
+      "id": "b2-03-q6",
+      "q": "'The road ___ at the moment.' (repair)",
+      "qSi": "Present continuous passive?",
+      "options": [
+        "is repaired",
+        "is being repaired",
+        "has been repaired",
+        "was repairing"
+      ],
+      "answer": 1,
+      "explainSi": "දැන් සිදු වෙමින් පවතින නිසා: is being + V3.",
+      "speak": "The road is being repaired at the moment."
+    },
+    {
+      "id": "b2-03-q7",
+      "q": "Why is the passive common in official notices?",
+      "qSi": "නිල දැන්වීම්වල passive නිතර යෙදෙන්නේ ඇයි?",
+      "options": [
+        "It is shorter",
+        "It focuses on the action and does not name who is responsible",
+        "It is easier to spell",
+        "It is required by grammar rules"
+      ],
+      "answer": 1,
+      "explainSi": "Passive මඟින් ක්‍රියාවට අවධානය යොමු කරමින් වගකිව යුත්තා සඟවන්න පුළුවන් — කතාවේ දැක්වූ පරිදි."
+    },
+    {
+      "id": "b2-03-q8",
+      "context": "The first notice said: \"Owing to restructuring, forty positions will be made redundant.\" The next morning a new notice appeared. It was shorter, and it began: \"I have decided …\"",
+      "contextSi": "පළමු දැන්වීමේ තිබුණේ: \"ප්‍රතිව්‍යුහගත කිරීම හේතුවෙන් තනතුරු හතළිහක් අහෝසි කරනු ලැබේ.\" පසුදා උදේ අලුත් දැන්වීමක් දිස් වුණා. ඒක කෙටියි, සහ ඒක පටන් ගත්තේ මෙහෙමයි: \"මම තීරණය කර ඇත්තෙමි …\"",
+      "q": "In the story, what changed in the second notice?",
+      "qSi": "දෙවෙනි දැන්වීමේ වෙනස කුමක්ද?",
+      "options": [
+        "Nobody lost their job",
+        "It used the active voice and named the person responsible",
+        "It was written in Sinhala",
+        "It was longer and more formal"
+      ],
+      "answer": 1,
+      "explainSi": "'I have decided …' — passive වෙනුවට active, සහ වගකිව යුත්තා නම් කරලා."
+    }
+  ]
+}

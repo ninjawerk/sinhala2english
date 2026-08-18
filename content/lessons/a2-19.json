@@ -1,0 +1,832 @@
+{
+  "hero": {
+    "src": "images/a2-19-hero.webp",
+    "alt": "Ruwan at a desk in an open plan office looking up from his work with a confident smile, colleagues blurred far in the background, plants on the windowsill."
+  },
+  "goalsSi": [
+    "What do you do? / What do you do for a living? — රැකියාව ගැන අහන එක",
+    "I'm a... / I work as a... / I work for... — රැකියාව කීම",
+    "Where do you work? — වැඩ කරන ස්ථානය ගැන කීම",
+    "full-time, part-time, promotion, resign — රැකියා ජීවිතයේ වචන"
+  ],
+  "goals": [
+    "Ask about someone's job with What do you do?",
+    "Answer with I'm a… / I work as a… / I work for…",
+    "Ask and answer Where do you work?",
+    "Use full-time, part-time and other career words"
+  ],
+  "sections": [
+    {
+      "type": "note",
+      "title": "Not the weekend question",
+      "titleSi": "සති අන්තයේ ප්‍රශ්නය නෙවෙයි",
+      "bodySi": "a1-11 හි ඉගෙන ගත්ත 'What do you do at the weekend?' — නිදහස් කාලය ගැන. නමුත් 'What do you do?' තනියම, කාලයක් නොකියා අහන එකෙන් — රැකියාව ගැන අහනවා. ඉංග්‍රීසි කථාබහේ අලුතින් හමුවෙන කෙනෙක්ට කරන සාමාන්‍යම ප්‍රශ්නවලින් එකක් මේක.",
+      "body": "What do you do at the weekend? asks about free time. What do you do? on its own asks about your job."
+    },
+    {
+      "type": "grammar",
+      "title": "What do you do?",
+      "titleSi": "What do you do?",
+      "explainSi": "රැකියාව ගැන අහන්නේ 'What do you do?' කියලා — කෙටියි, කාලයක් සඳහන් නෑ. වඩාත් සෘජුව අහන්නේ 'What do you do for a living?' කියලා.",
+      "formula": "What do you do (for a living)?",
+      "table": {
+        "headers": [
+          "ප්‍රශ්නය",
+          "සිංහල"
+        ],
+        "rows": [
+          [
+            "What do you do?",
+            "ඔබ මොකද කරන්නේ? (රැකියාව)"
+          ],
+          [
+            "What do you do for a living?",
+            "ඔබේ රැකියාව මොකක්ද?"
+          ],
+          [
+            "What does she do?",
+            "එයා මොකද කරන්නේ?"
+          ],
+          [
+            "What do you want to do in the future?",
+            "අනාගතයේ මොකද කරන්න ඕන?"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "So, what do you do?",
+          "si": "එහෙනම්, ඔබ මොකද කරන්නේ?"
+        },
+        {
+          "en": "What does your brother do for a living?",
+          "si": "ඔබේ සහෝදරයාගේ රැකියාව මොකක්ද?"
+        }
+      ],
+      "watchOutSi": "'What do you do?' කථාවක් අතරතුර, කාලයක් සඳහන් නොකර අහන එකෙන් රැකියාව ගැන අහනවා කියලා තේරෙනවා. 'What are you doing?' (present continuous) — දැන් මේ මොහොතේ කරන දේ ගැන, වෙනස් ප්‍රශ්නයක්."
+    },
+    {
+      "type": "grammar",
+      "title": "I'm a… / I work as a… / I work for…",
+      "titleSi": "I'm a... / I work as a... / I work for...",
+      "explainSi": "රැකියාව කියද්දී 'I'm a + රැකියාව' කියලා කෙටියෙන් කියන්න පුළුවන්, හෝ 'I work as a + රැකියාව' කියලා. සමාගම නම කියන්නේ 'I work for + සමාගම' කියලා.",
+      "formula": "I'm a + job. / I work as a + job. / I work for + company.",
+      "table": {
+        "headers": [
+          "වාක්‍යය",
+          "සිංහල"
+        ],
+        "rows": [
+          [
+            "I'm a teacher.",
+            "මම ගුරුවරයෙක්."
+          ],
+          [
+            "I work as a nurse.",
+            "මම හෙදියක් විදිහට වැඩ කරනවා."
+          ],
+          [
+            "I work for a software company.",
+            "මම software සමාගමකට වැඩ කරනවා."
+          ],
+          [
+            "I'm self-employed.",
+            "මම තමන්ගේම රැකියාවක් කරනවා."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "I'm an accountant — I work for a bank downtown.",
+          "si": "මම ගණකාධිකාරීවරයෙක් — නගරයේ බැංකුවකට වැඩ කරනවා."
+        },
+        {
+          "en": "She works as a chef at a small restaurant.",
+          "si": "එයා කුඩා ආපනශාලාවක chef කෙනෙක් විදිහට වැඩ කරනවා."
+        }
+      ],
+      "watchOutSi": "'I'm a teacher' සහ 'I work as a teacher' දෙකම හරි — 'I'm teacher' කියලා 'a' නැතුව කියන්නේ නෑ, a1-01 හි ඉගෙන ගත් රටාවම."
+    },
+    {
+      "type": "grammar",
+      "title": "Where do you work?",
+      "titleSi": "Where do you work?",
+      "explainSi": "වැඩ කරන ස්ථානය ගැන අහන්නේ 'Where do you work?' කියලා. පිළිතුරු දෙන්නේ 'I work in/at + ස්ථානය' කියලා — 'in' කාර්යාලයක් වගේ විශාල ස්ථානයකට, 'at' නිශ්චිත ස්ථානයකට.",
+      "formula": "Where do you work? / I work in/at/from + place.",
+      "table": {
+        "headers": [
+          "වාක්‍යය",
+          "සිංහල"
+        ],
+        "rows": [
+          [
+            "I work in an office.",
+            "මම කාර්යාලයක වැඩ කරනවා."
+          ],
+          [
+            "I work at a hospital.",
+            "මම රෝහලක වැඩ කරනවා."
+          ],
+          [
+            "I work from home.",
+            "මම ගෙදරින් වැඩ කරනවා."
+          ],
+          [
+            "I work in a factory.",
+            "මම කර්මාන්තශාලාවක වැඩ කරනවා."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "Where do you work? — I work at a school near here.",
+          "si": "ඔබ කොහෙද වැඩ කරන්නේ? — මම මෙතන ළඟ පාසැලක වැඩ කරනවා."
+        },
+        {
+          "en": "I used to work in an office, but now I work from home.",
+          "si": "මම කලින් කාර්යාලයක වැඩ කළා, දැන් ගෙදරින් වැඩ කරනවා."
+        }
+      ],
+      "watchOutSi": "'work from home' කියන්නේ ගෙදර ඉඳගෙන, වෙනත් සමාගමකට වැඩ කරන එක — 'work at home' කියලා කිව්වත් තේරෙනවා, නමුත් 'work from home' සම්මතයි."
+    },
+    {
+      "type": "grammar",
+      "title": "Full-time, part-time and career words",
+      "titleSi": "full-time, part-time සහ රැකියා ජීවිතයේ වචන",
+      "explainSi": "රැකියාවක් සම්පූර්ණ වේලාවට කරනවා නම් 'full-time', අර්ධ වේලාවට නම් 'part-time'. රැකියාවෙන් ඉවත් වෙනවා නම් 'resign', ඉහළ තනතුරකට යනවා නම් 'promotion' ලැබෙනවා.",
+      "formula": "work full-time/part-time. get a promotion. resign from a job.",
+      "table": {
+        "headers": [
+          "වාක්‍යය",
+          "සිංහල"
+        ],
+        "rows": [
+          [
+            "I work full-time now.",
+            "දැන් මම full-time වැඩ කරනවා."
+          ],
+          [
+            "She used to work part-time.",
+            "එයා කලින් part-time වැඩ කළා."
+          ],
+          [
+            "He got a promotion last month.",
+            "එයාට ගිය මාසේ promotion එකක් ලැබුනා."
+          ],
+          [
+            "She resigned from her job.",
+            "එයා රැකියාවෙන් ඉවත් වුණා."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "I want to work full-time after I graduate.",
+          "si": "ගුරුවරයෙක් වෙනවා, degree එකෙන් පස්සේ full-time වැඩ කරන්න ඕන."
+        },
+        {
+          "en": "He was unemployed for a few months before finding this job.",
+          "si": "මේ රැකියාව හම්බවෙන්න කලින්, එයා මාස කිහිපයක් රැකියා විරහිතයෙන් හිටියා."
+        }
+      ],
+      "watchOutSi": "'resign' යනු තමන්ම රැකියාවෙන් ඉවත් වීම — රැකියාවෙන් එළියට දාන එකට (fired) වෙනස් වචනයක්."
+    },
+    {
+      "type": "vocab",
+      "title": "Jobs and work",
+      "titleSi": "රැකියා සහ වැඩ",
+      "items": [
+        {
+          "en": "job",
+          "si": "රැකියාව",
+          "say": "ජොබ්"
+        },
+        {
+          "en": "career",
+          "si": "වෘත්තිය",
+          "say": "කරියර්"
+        },
+        {
+          "en": "boss",
+          "si": "ප්‍රධානියා",
+          "say": "බොස්"
+        },
+        {
+          "en": "promotion",
+          "si": "උසස්වීම",
+          "say": "ප්‍රොමෝෂන්"
+        },
+        {
+          "en": "resign",
+          "si": "ඉවත් වෙනවා",
+          "say": "රිසයින්"
+        },
+        {
+          "en": "unemployed",
+          "si": "රැකියා විරහිත",
+          "say": "අන්එම්ප්ලොයිඩ්"
+        },
+        {
+          "en": "full-time",
+          "si": "සම්පූර්ණ වේලාවට",
+          "say": "ෆුල් ටයිම්"
+        },
+        {
+          "en": "part-time",
+          "si": "අර්ධ වේලාවට",
+          "say": "පාට් ටයිම්"
+        },
+        {
+          "en": "workplace",
+          "si": "වැඩ කරන ස්ථානය",
+          "say": "වර්ක්ප්ලේස්"
+        },
+        {
+          "en": "interview",
+          "si": "සම්මුඛ පරීක්ෂණය",
+          "say": "ඉන්ටර්වීව්"
+        },
+        {
+          "en": "apply",
+          "si": "අයදුම් කරනවා",
+          "say": "අප්ලයි"
+        },
+        {
+          "en": "retire",
+          "si": "විශ්‍රාම යනවා",
+          "say": "රිටයර්"
+        }
+      ]
+    },
+    {
+      "type": "story",
+      "title": "Nayana's New Job",
+      "titleSi": "නයනාගේ අලුත් රැකියාව",
+      "introSi": "පොත් සාප්පුවක part-time වැඩ කළ නයනා, full-time රැකියාවක් ගැන තීරණයක් ගන්නා කතාවක්. රැකියා වාක්‍ය ගණන් කරන්න.",
+      "paragraphs": [
+        {
+          "en": "\"So, what do you do?\" the woman at the party asked. \"I'm a university student,\" Nayana said, \"but I also work part-time — I'm a shop assistant at a bookshop downtown.\"",
+          "si": "\"එහෙනම්, ඔබ මොකද කරන්නේ?\" පාටියේ කාන්තාව ඇහුවා. \"මම විශ්වවිද්‍යාල සිසුවියක්,\" නයනා කිව්වා, \"නමුත් part-time වැඩත් කරනවා — නගර මධ්‍යයේ පොත් සාප්පුවක shop assistant කෙනෙක් විදිහට.\""
+        },
+        {
+          "en": "A few weeks after graduating, her boss called her into the office. \"We'd like to offer you a full-time position — assistant manager. It comes with a promotion, and a real salary.\"",
+          "si": "degree එක ඉවර වෙලා සති කිහිපයකින්, ඇගේ boss එයාව ඔෆිස් එකට කැඳෙව්වා. \"අපි ඔබට full-time තනතුරක් — assistant manager — දෙන්න කැමතියි. ඒක promotion එකක් සමඟ එනවා, ඇත්තම ශම්පිලයකුත් සමඟ.\""
+        },
+        {
+          "en": "Nayana was thrilled, but also nervous. That evening, she talked to her father. \"It's a great opportunity,\" she said, \"but I always thought I'd travel a bit before settling into a career.\"",
+          "si": "නයනා ගොඩක් සතුටු වුණා, නමුත් නර්වස් වුණත්. ඒ රෑ, එයාගේ තාත්තා එක්ක කථා කළා. \"ලොකු අවස්ථාවක්,\" එයා කිව්වා, \"නමුත් වෘත්තියක් තෝරගන්න කලින් ටිකක් සංචාරය කරන්න ඕන කියලා හිතුවා.\""
+        },
+        {
+          "en": "\"You can still travel later,\" her father said. \"But a full-time job with a promotion this early doesn't come along every day.\" Nayana thought about it overnight.",
+          "si": "\"පස්සේත් සංචාරය කරන්න පුළුවන්,\" තාත්තා කිව්වා. \"නමුත් මේ තරම් ඉක්මනින් promotion එකක් සමඟ full-time රැකියාවක් හැම දාම ලැබෙන්නේ නෑ.\" නයනා රාත්‍රියම ඒක ගැන හිතුවා."
+        },
+        {
+          "en": "The next morning, she accepted. \"I'll take the position,\" she told her boss. \"Thank you for the opportunity.\" Her boss smiled. \"Welcome to the team, properly this time.\"",
+          "si": "ඊළඟ දවසේ උදේ, එයා පිළිගත්තා. \"මම මේ තනතුර භාරගන්නම්,\" boss ට කිව්වා. \"අවස්ථාවට ස්තූතියි.\" boss සිනාසුනා. \"කණ්ඩායමට සාදරයෙන් පිළිගන්නවා, මේ පාර හරියටම.\""
+        },
+        {
+          "en": "Six months later, Nayana works full-time, manages three colleagues, and — surprising even herself — genuinely loves the job. The travelling, she decided, can wait a little longer.",
+          "si": "මාස හයකට පස්සේ, නයනා full-time වැඩ කරනවා, සගයන් තුන්දෙනෙක් කළමනාකරණය කරනවා, තමන්වත් පුදුම කරමින් — ඇත්තටම රැකියාවට ආදරෙයි. සංචාරය, එයා තීරණය කළා, ටිකක් තව ඉන්න පුළුවන් කියලා."
+        }
+      ],
+      "glossary": [
+        {
+          "en": "thrilled",
+          "si": "ගොඩක් සතුටින්"
+        },
+        {
+          "en": "opportunity",
+          "si": "අවස්ථාව"
+        },
+        {
+          "en": "settle into",
+          "si": "එකට ගැලපී යනවා"
+        },
+        {
+          "en": "come along",
+          "si": "ලැබෙනවා (අවස්ථාවක්)"
+        },
+        {
+          "en": "genuinely",
+          "si": "ඇත්තටම"
+        }
+      ],
+      "questionsSi": [
+        "පාටියේදී නයනා තමන්ගේ රැකියාව විස්තර කළේ කොහොමද?",
+        "boss එයාට දුන් යෝජනාව මොකක්ද?",
+        "නයනාගේ පැකිලීම මොකක්ද?",
+        "අන්තිමට නයනාට කෙසේ දැනුනාද?"
+      ]
+    },
+    {
+      "type": "poem",
+      "title": "What Do You Do?",
+      "titleSi": "ඔබ මොකද කරන්නේ?",
+      "introSi": "පොදු ප්‍රශ්නයක් වුවත්, එකෙක්ගේ ජීවිතයේ මුළු කතාවක් රඳවගෙන එන අවස්ථාවක් ගැන කවියක්.",
+      "lines": [
+        {
+          "en": "\"What do you do?\" a stranger asks —",
+          "si": "\"ඔබ මොකද කරන්නේ?\" කවුරුහරි අහනවා —"
+        },
+        {
+          "en": "Four words that hold a hundred more:",
+          "si": "සීයක් තවත් වචන රඳවගෙන ඉන්න වචන හතරක්:"
+        },
+        {
+          "en": "The years of study, the long commute,",
+          "si": "අධ්‍යාපනයේ අවුරුදු, දිගු ගමන්,"
+        },
+        {
+          "en": "The job I love, or slightly more.",
+          "si": "මගේ ආදරණීය රැකියාව, ටිකක් වැඩිය හෝ."
+        },
+        {
+          "en": "",
+          "si": ""
+        },
+        {
+          "en": "I answer simply — \"I'm a nurse\" —",
+          "si": "සරලව උත්තර දෙනවා — \"මම හෙදියක්\" —"
+        },
+        {
+          "en": "As if that sums up all I am.",
+          "si": "ඒකෙන්ම මම කවුද කියලා පෙන්නනවා වගේ."
+        },
+        {
+          "en": "But every job's a smaller word",
+          "si": "නමුත් හැම රැකියාවක්ම කුඩා වචනයක්"
+        },
+        {
+          "en": "For something bigger than its name.",
+          "si": "නමට වඩා ලොකු දෙයකට."
+        }
+      ],
+      "noteSi": "'What do you do?', 'I'm a nurse' — කවියේම, ලේසි ප්‍රශ්නයක් රැඳවගෙන එන ගැඹුරු අර්ථය."
+    },
+    {
+      "type": "dialogue",
+      "title": "Meeting someone new",
+      "titleSi": "අලුත් කෙනෙක් හමුවීම",
+      "settingSi": "සමුළුවකදී දෙදෙනෙක් හඳුනාගන්නවා. රැකියා ප්‍රශ්න සහ පිළිතුරු හඳුනාගන්න.",
+      "lines": [
+        {
+          "speaker": "Tharu",
+          "en": "Hi, I don't think we've met — I'm Tharu.",
+          "si": "හායි, අපි හමුවෙලා නෑ වගේ — මම තරු."
+        },
+        {
+          "speaker": "Nadeesha",
+          "en": "Nice to meet you, I'm Nadeesha. So, what do you do?",
+          "si": "හමුවුණාට සතුටුයි, මම නදීෂා. එහෙනම්, ඔබ මොකද කරන්නේ?"
+        },
+        {
+          "speaker": "Tharu",
+          "en": "I'm an engineer — I work for a construction company. What about you?",
+          "si": "මම ඉංජිනේරුවෙක් — ඉදිකිරීම් සමාගමකට වැඩ කරනවා. ඔබ?"
+        },
+        {
+          "speaker": "Nadeesha",
+          "en": "I work as a graphic designer. I'm self-employed, actually — I work from home most days.",
+          "si": "මම graphic designer කෙනෙක් විදිහට වැඩ කරනවා. ඇත්තටම, තමන්ගේම රැකියාවක් — වැඩි වෙලාවක් ගෙදරින් වැඩ කරනවා."
+        },
+        {
+          "speaker": "Tharu",
+          "en": "That sounds nice — no commute! Do you work full-time?",
+          "si": "ලස්සනයි වගේ — ගමන් කරන්න ඕන නෑ! full-time වැඩ කරනවද?"
+        },
+        {
+          "speaker": "Nadeesha",
+          "en": "Part-time, actually. I resigned from my full-time job last year to try this.",
+          "si": "ඇත්තටම, part-time. ගිය අවුරුද්දේ මම full-time රැකියාවෙන් ඉවත් වුණා, මේක උත්සාහ කරන්න."
+        },
+        {
+          "speaker": "Tharu",
+          "en": "That's brave. How's it going so far?",
+          "si": "ඒක ධෛර්යවත් කමක්. දැනට කොහොමද යන්නේ?"
+        },
+        {
+          "speaker": "Nadeesha",
+          "en": "Better than I expected, honestly.",
+          "si": "බලාපොරොත්තු වුණාට වඩා හොඳයි, ඇත්තටම."
+        }
+      ]
+    },
+    {
+      "type": "practice",
+      "title": "Answer the job question",
+      "titleSi": "රැකියා ප්‍රශ්නයට උත්තර දෙන්න",
+      "instructionSi": "දුන් තොරතුරට ගැලපෙන වාක්‍යය ලියන්න.",
+      "items": [
+        {
+          "prompt": "ask about someone's job",
+          "answer": "What do you do?",
+          "hintSi": "What do you do?",
+          "full": "What do you do?"
+        },
+        {
+          "prompt": "you are a teacher",
+          "answer": "I'm a teacher.",
+          "hintSi": "I'm a...",
+          "full": "I'm a teacher."
+        },
+        {
+          "prompt": "you work for a bank",
+          "answer": "I work for a bank.",
+          "hintSi": "I work for...",
+          "full": "I work for a bank."
+        },
+        {
+          "prompt": "ask where someone works",
+          "answer": "Where do you work?",
+          "hintSi": "Where do you work?",
+          "full": "Where do you work?"
+        },
+        {
+          "prompt": "you work from home",
+          "answer": "I work from home.",
+          "hintSi": "I work from home.",
+          "full": "I work from home."
+        },
+        {
+          "prompt": "you left your job by choice",
+          "answer": "I resigned from my job.",
+          "hintSi": "resigned",
+          "full": "I resigned from my job."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "en": "job",
+      "si": "රැකියාව"
+    },
+    {
+      "en": "career",
+      "si": "වෘත්තිය"
+    },
+    {
+      "en": "boss",
+      "si": "ප්‍රධානියා"
+    },
+    {
+      "en": "promotion",
+      "si": "උසස්වීම"
+    },
+    {
+      "en": "resign",
+      "si": "ඉවත් වෙනවා"
+    },
+    {
+      "en": "unemployed",
+      "si": "රැකියා විරහිත"
+    },
+    {
+      "en": "full-time",
+      "si": "සම්පූර්ණ වේලාවට"
+    },
+    {
+      "en": "part-time",
+      "si": "අර්ධ වේලාවට"
+    },
+    {
+      "en": "workplace",
+      "si": "වැඩ කරන ස්ථානය"
+    },
+    {
+      "en": "interview",
+      "si": "සම්මුඛ පරීක්ෂණය"
+    },
+    {
+      "en": "apply",
+      "si": "අයදුම් කරනවා"
+    },
+    {
+      "en": "retire",
+      "si": "විශ්‍රාම යනවා"
+    },
+    {
+      "en": "thrilled",
+      "si": "ගොඩක් සතුටින්"
+    },
+    {
+      "en": "opportunity",
+      "si": "අවස්ථාව"
+    },
+    {
+      "en": "settle into",
+      "si": "එකට ගැලපී යනවා"
+    },
+    {
+      "en": "self-employed",
+      "si": "තමන්ගේම රැකියාවක් කරන"
+    },
+    {
+      "en": "commute",
+      "si": "වැඩට යන ගමන"
+    },
+    {
+      "en": "construction",
+      "si": "ඉදිකිරීම්"
+    },
+    {
+      "en": "designer",
+      "si": "නිර්මාණකරු"
+    },
+    {
+      "en": "brave",
+      "si": "ධෛර්යවත්"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "a2-19-q1",
+      "q": "'ඔබේ රැකියාව මොකක්ද?' — ඉංග්‍රීසියෙන් (කෙටියෙන්)?",
+      "options": [
+        "What are you doing?",
+        "What do you do?",
+        "What you do?",
+        "What doing you?"
+      ],
+      "answer": 1,
+      "explainSi": "'What do you do?' — රැකියාව ගැන අහන සම්මත ප්‍රශ්නය.",
+      "speak": "What do you do?"
+    },
+    {
+      "id": "a2-19-q2",
+      "q": "'What do you do?' සහ 'What do you do at the weekend?' අතර වෙනස කුමක්ද?",
+      "options": [
+        "වෙනසක් නෑ",
+        "පළමුවැන්න රැකියාව ගැන, දෙවැන්න නිදහස් කාලය ගැන",
+        "දෙකම එකම අර්ථය",
+        "දෙවැන්න රැකියාව ගැන"
+      ],
+      "answer": 1,
+      "explainSi": "'What do you do?' තනියම — රැකියාව. කාලයක් එකතු කළොත් (weekend) — නිදහස් කාලය."
+    },
+    {
+      "id": "a2-19-q3",
+      "q": "'මම ගුරුවරයෙක්.' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "I teacher.",
+        "I'm a teacher.",
+        "I'm teacher.",
+        "I am teacher person."
+      ],
+      "answer": 1,
+      "explainSi": "'I'm a teacher' — 'a' අත්‍යවශ්‍යයි, a1-01 හි රටාවම.",
+      "speak": "I'm a teacher."
+    },
+    {
+      "id": "a2-19-q4",
+      "q": "'I work as a nurse' සහ 'I work for a hospital' අතර වෙනස කුමක්ද?",
+      "options": [
+        "වෙනසක් නෑ",
+        "'work as' — රැකියාව මොකක්ද, 'work for' — කුමන සමාගම/ස්ථානයටද",
+        "'work for' — රැකියාව මොකක්ද",
+        "'work as' — කුමන සමාගමටද"
+      ],
+      "answer": 1,
+      "explainSi": "'work as' රැකියාවේ වර්ගය, 'work for' සේවා යෝජකයා."
+    },
+    {
+      "id": "a2-19-q5",
+      "q": "'ඔබ කොහෙද වැඩ කරන්නේ?' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "What do you work?",
+        "Where do you work?",
+        "Where you work?",
+        "How do you work?"
+      ],
+      "answer": 1,
+      "explainSi": "'Where do you work?' — ස්ථානය ගැන අහන ප්‍රශ්නය.",
+      "speak": "Where do you work?"
+    },
+    {
+      "id": "a2-19-q6",
+      "q": "'මම ගෙදරින් වැඩ කරනවා.' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "I work at home.",
+        "I work from home.",
+        "I work home.",
+        "I working from home."
+      ],
+      "answer": 1,
+      "explainSi": "'work from home' — සම්මත වාක්‍යාංශය.",
+      "speak": "I work from home."
+    },
+    {
+      "id": "a2-19-q7",
+      "q": "'full-time' සහ 'part-time' අතර වෙනස කුමක්ද?",
+      "options": [
+        "වෙනසක් නෑ",
+        "'full-time' — සම්පූර්ණ වේලාවට, 'part-time' — අර්ධ වේලාවට",
+        "'part-time' — සම්පූර්ණ වේලාවට",
+        "දෙකම එකම වේලාව"
+      ],
+      "answer": 1,
+      "explainSi": "'full-time' සම්පූර්ණ, 'part-time' අර්ධ."
+    },
+    {
+      "id": "a2-19-q8",
+      "q": "'resign' කියන්නේ මොකද්ද?",
+      "options": [
+        "රැකියාවට එකතු වෙනවා",
+        "තමන්ම රැකියාවෙන් ඉවත් වෙනවා",
+        "රැකියාවෙන් එළියට දාන එක",
+        "විශ්‍රාම යනවා"
+      ],
+      "answer": 1,
+      "explainSi": "'resign' — තමන්ම තීරණයෙන් ඉවත් වීම."
+    },
+    {
+      "id": "a2-19-q9",
+      "q": "'She got a promotion' කියන්නෙන් අදහස් වන්නේ කුමක්ද?",
+      "options": [
+        "එයාට රැකියාව නැති වුණා",
+        "එයාට ඉහළ තනතුරක් ලැබුනා",
+        "එයා part-time වුණා",
+        "එයා විශ්‍රාම ගියා"
+      ],
+      "answer": 1,
+      "explainSi": "'promotion' — ඉහළ තනතුරකට යාම."
+    },
+    {
+      "id": "a2-19-q10",
+      "q": "'unemployed' කියන්නේ මොකද්ද?",
+      "options": [
+        "රැකියාවක් තියෙන",
+        "රැකියාවක් නැති",
+        "විශ්‍රාම ගිය",
+        "part-time වැඩ කරන"
+      ],
+      "answer": 1,
+      "explainSi": "'unemployed' — රැකියාවක් නැති තත්ත්වය."
+    },
+    {
+      "id": "a2-19-q11",
+      "context": "\"So, what do you do?\" the woman at the party asked. \"I'm a university student,\" Nayana said, \"but I also work part-time — I'm a shop assistant at a bookshop downtown.\"",
+      "contextSi": "\"එහෙනම්, ඔබ මොකද කරන්නේ?\" පාටියේ කාන්තාව ඇහුවා. \"මම විශ්වවිද්‍යාල සිසුවියක්,\" නයනා කිව්වා, \"නමුත් part-time වැඩත් කරනවා — නගර මධ්‍යයේ පොත් සාප්පුවක shop assistant කෙනෙක් විදිහට.\"",
+      "q": "කතාව අනුව: නයනා පාටියේදී තමන්ගේ රැකියාව විස්තර කරන්නේ කොහොමද?",
+      "options": [
+        "full-time shop assistant කෙනෙක් විදිහට",
+        "විශ්වවිද්‍යාල සිසුවියක් සහ part-time shop assistant කෙනෙක් විදිහට",
+        "ගුරුවරියක් විදිහට",
+        "ගණකාධිකාරීවරියක් විදිහට"
+      ],
+      "answer": 1,
+      "explainSi": "'I'm a university student... I also work part-time — I'm a shop assistant.'"
+    },
+    {
+      "id": "a2-19-q12",
+      "context": "A few weeks after graduating, her boss called her into the office. \"We'd like to offer you a full-time position — assistant manager. It comes with a promotion, and a real salary.\"",
+      "contextSi": "degree එක ඉවර වෙලා සති කිහිපයකින්, ඇගේ boss එයාව ඔෆිස් එකට කැඳෙව්වා. \"අපි ඔබට full-time තනතුරක් — assistant manager — දෙන්න කැමතියි. ඒක promotion එකක් සමඟ එනවා, ඇත්තම ශම්පිලයකුත් සමඟ.\"",
+      "q": "කතාව අනුව: boss එයාට දුන් යෝජනාව මොකක්ද?",
+      "options": [
+        "part-time තවත් වැඩ",
+        "full-time assistant manager තනතුරක්, promotion එකක් සමඟ",
+        "රැකියාවෙන් ඉවත් වෙන්න",
+        "වෙනත් සාප්පුවකට මාරු වෙන්න"
+      ],
+      "answer": 1,
+      "explainSi": "'We'd like to offer you a full-time position — assistant manager. It comes with a promotion.'"
+    },
+    {
+      "id": "a2-19-q13",
+      "context": "\"It's a great opportunity,\" she said, \"but I always thought I'd travel a bit before settling into a career.\"",
+      "contextSi": "\"ලොකු අවස්ථාවක්,\" එයා කිව්වා, \"නමුත් වෘත්තියක් තෝරගන්න කලින් ටිකක් සංචාරය කරන්න ඕන කියලා හිතුවා.\"",
+      "q": "කතාව අනුව: නයනාගේ පැකිලීම මොකක්ද?",
+      "options": [
+        "එයාට රැකියාව අකමැති",
+        "වෘත්තියක් තෝරගන්න කලින් සංචාරය කරන්න හිතාගෙන හිටියා",
+        "එයාට boss ට තරහයි",
+        "ශම්පිලය ප්‍රමාණවත් නෑ"
+      ],
+      "answer": 1,
+      "explainSi": "'I always thought I'd travel a bit before settling into a career.'"
+    },
+    {
+      "id": "a2-19-q14",
+      "context": "\"You can still travel later,\" her father said. \"But a full-time job with a promotion this early doesn't come along every day.\"",
+      "contextSi": "\"පස්සේත් සංචාරය කරන්න පුළුවන්,\" තාත්තා කිව්වා. \"නමුත් මේ තරම් ඉක්මනින් promotion එකක් සමඟ full-time රැකියාවක් හැම දාම ලැබෙන්නේ නෑ.\"",
+      "q": "කතාව අනුව: තාත්තාගේ උපදෙස කුමක්ද?",
+      "options": [
+        "රැකියාව ප්‍රතික්ෂේප කරන්න",
+        "සංචාරය පසුවට තියලා, මේ අවස්ථාව භාරගන්න",
+        "සම්පූර්ණයෙන්ම සංචාරයට යන්න",
+        "boss ට කථා කරන්න"
+      ],
+      "answer": 1,
+      "explainSi": "'You can still travel later... doesn't come along every day.'"
+    },
+    {
+      "id": "a2-19-q15",
+      "context": "The next morning, she accepted. \"I'll take the position,\" she told her boss. \"Thank you for the opportunity.\"",
+      "contextSi": "ඊළඟ දවසේ උදේ, එයා පිළිගත්තා. \"මම මේ තනතුර භාරගන්නම්,\" boss ට කිව්වා. \"අවස්ථාවට ස්තූතියි.\"",
+      "q": "කතාව අනුව: නයනා අන්තිමට තීරණය කළේ මොකක්ද?",
+      "options": [
+        "රැකියාවෙන් ඉවත් වුණා",
+        "full-time තනතුර භාරගත්තා",
+        "සංචාරයට ගියා",
+        "boss ව මාරු කළා"
+      ],
+      "answer": 1,
+      "explainSi": "'I'll take the position.'"
+    },
+    {
+      "id": "a2-19-q16",
+      "context": "Six months later, Nayana works full-time, manages three colleagues, and — surprising even herself — genuinely loves the job.",
+      "contextSi": "මාස හයකට පස්සේ, නයනා full-time වැඩ කරනවා, සගයන් තුන්දෙනෙක් කළමනාකරණය කරනවා, තමන්වත් පුදුම කරමින් — ඇත්තටම රැකියාවට ආදරෙයි.",
+      "q": "කතාව අනුව: මාස හයකට පස්සේ නයනාට රැකියාව ගැන කෙසේ දැනුනාද?",
+      "options": [
+        "අකමැතියි",
+        "ඇත්තටම ආදරෙයි",
+        "සැලකිල්ලක් නෑ",
+        "resign වෙන්න හිතුවා"
+      ],
+      "answer": 1,
+      "explainSi": "'genuinely loves the job.'"
+    },
+    {
+      "id": "a2-19-q17",
+      "context": "\"What do you do?\" a stranger asks — / Four words that hold a hundred more: / The years of study, the long commute, / The job I love, or slightly more.",
+      "contextSi": "\"ඔබ මොකද කරන්නේ?\" කවුරුහරි අහනවා — / සීයක් තවත් වචන රඳවගෙන ඉන්න වචන හතරක්: / අධ්‍යාපනයේ අවුරුදු, දිගු ගමන්, / මගේ ආදරණීය රැකියාව, ටිකක් වැඩිය හෝ.",
+      "q": "කවියේ පළමු කොටසේ, 'four words that hold a hundred more' කියන්නෙන් අදහස් වන්නේ කුමක්ද?",
+      "options": [
+        "ප්‍රශ්නය ඉතාම දිගයි",
+        "කෙටි ප්‍රශ්නයක් වුවත්, එහි ලොකු ජීවිත කතාවක් තියෙනවා",
+        "වචන හතරක් තේරෙන්නේ නෑ",
+        "රැකියාව ගැන කථා කරන්න එපා"
+      ],
+      "answer": 1,
+      "explainSi": "'What do you do?' කෙටි ප්‍රශ්නයක්, නමුත් වසර ගණනාවක ජීවිතය රඳවගෙන."
+    },
+    {
+      "id": "a2-19-q18",
+      "context": "I answer simply — \"I'm a nurse\" — / As if that sums up all I am. / But every job's a smaller word / For something bigger than its name.",
+      "contextSi": "සරලව උත්තර දෙනවා — \"මම හෙදියක්\" — / ඒකෙන්ම මම කවුද කියලා පෙන්නනවා වගේ. / නමුත් හැම රැකියාවක්ම කුඩා වචනයක් / නමට වඩා ලොකු දෙයකට.",
+      "q": "කවියේ අන්තිම කොටසේ, කථකයාගේ අදහස කුමක්ද?",
+      "options": [
+        "රැකියාවේ නම කෙනාගේ මුළු ජීවිතයම කියනවා",
+        "රැකියාවේ නම කෙනාගේ මුළු ජීවිතයම කියන්නේ නෑ, ඊට වඩා ලොකු දෙයක්",
+        "රැකියාවක් තියෙන්න ඕන නෑ",
+        "'nurse' කියන එක වැරදියි"
+      ],
+      "answer": 1,
+      "explainSi": "'a smaller word for something bigger than its name' — රැකියාවේ නමට වඩා කෙනා ලොකුයි."
+    },
+    {
+      "id": "a2-19-q19",
+      "context": "Nadeesha: I work as a graphic designer. I'm self-employed, actually — I work from home most days.",
+      "contextSi": "නදීෂා: මම graphic designer කෙනෙක් විදිහට වැඩ කරනවා. ඇත්තටම, තමන්ගේම රැකියාවක් — වැඩි වෙලාවක් ගෙදරින් වැඩ කරනවා.",
+      "q": "සංවාදයේ: නදීෂා 'self-employed' කියද්දී අදහස් කරන්නේ මොකද්ද?",
+      "options": [
+        "සමාගමකට වැඩ කරනවා",
+        "තමන්ගේම රැකියාවක් කරනවා, කිසිම boss කෙනෙක් නෑ",
+        "රැකියාවක් නෑ",
+        "ලොකු සමාගමක් තියෙනවා"
+      ],
+      "answer": 1,
+      "explainSi": "'self-employed' — කිසිම සමාගමකට වැඩ නොකර, තමන්ගේම රැකියාවක්."
+    },
+    {
+      "id": "a2-19-q20",
+      "context": "Tharu: Do you work full-time? / Nadeesha: Part-time, actually. I resigned from my full-time job last year to try this.",
+      "contextSi": "තරු: full-time වැඩ කරනවද? / නදීෂා: ඇත්තටම, part-time. ගිය අවුරුද්දේ මම full-time රැකියාවෙන් ඉවත් වුණා, මේක උත්සාහ කරන්න.",
+      "q": "සංවාදයේ: නදීෂා full-time රැකියාවෙන් ඉවත් වුණේ ඇයි?",
+      "options": [
+        "boss ට තරහ ගිය නිසා",
+        "graphic design තමන්ගේ රැකියාවක් විදිහට උත්සාහ කරන්න",
+        "ශම්පිලය ප්‍රමාණවත් නොවූ නිසා",
+        "රැකියාවෙන් එළියට දැම්මා"
+      ],
+      "answer": 1,
+      "explainSi": "'I resigned from my full-time job last year to try this.'"
+    },
+    {
+      "id": "a2-19-q21",
+      "q": "කුමන වාක්‍යය වැරදිද?",
+      "options": [
+        "What do you do?",
+        "I'm a teacher.",
+        "I work for a bank.",
+        "I'm teacher."
+      ],
+      "answer": 3,
+      "explainSi": "'I'm a teacher' විය යුතුයි — 'a' අත්‍යවශ්‍යයි."
+    },
+    {
+      "id": "a2-19-q22",
+      "q": "'මම කර්මාන්තශාලාවක වැඩ කරනවා.' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "I work in a factory.",
+        "I work factory.",
+        "I working in factory.",
+        "I work at factory."
+      ],
+      "answer": 0,
+      "explainSi": "'I work in a factory.' — 'in' + 'a' අත්‍යවශ්‍යයි.",
+      "speak": "I work in a factory."
+    }
+  ]
+}

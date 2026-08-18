@@ -1,0 +1,782 @@
+{
+  "hero": {
+    "src": "images/b1-17-hero.webp",
+    "alt": "Nadeesha leaning in at a post office counter with a parcel and a green form in front of her, asking for help, shelves of packages behind the counter."
+  },
+  "goalsSi": [
+    "නොහඳුනන කෙනෙක් එක්ක කථාවක් පටන් ගන්න",
+    "යාළුවෙක් එක්ක කථාවක් පටන් ගන්න",
+    "පටන් ගන්න කලින් 'Excuse me' යොදන එක",
+    "කථාවක් අවසන් කරන්න සංඥාවක් දෙන්න",
+    "අවසන් වචන — Take care, See you, It was nice talking to you",
+    "විධිමත් සහ අවිධිමත් අවස්ථා වෙන් කරන්න"
+  ],
+  "goals": [
+    "Open a conversation with a stranger",
+    "Open one with someone you know",
+    "Use Excuse me before you begin",
+    "Signal that a conversation is ending",
+    "Close with the right parting line",
+    "Tell formal and informal situations apart"
+  ],
+  "sections": [
+    {
+      "type": "note",
+      "title": "The hardest ten seconds",
+      "titleSi": "අමාරුම තත්පර දහය",
+      "bodySi": "ඉංග්‍රීසි ඉගෙන ගන්න අයගෙන් අහන්න — 'ඔයාට අමාරුම දේ මොකක්ද?'\n\nබොහෝ දෙනා කියන්නේ ව්‍යාකරණ නෙවෙයි. කථාවක් පටන් ගන්න එකයි.\n\nවචන දන්නවා. වාක්‍ය හදන්න පුළුවන්. ඒත් නොහඳුනන කෙනෙක් ඉස්සරහ හිටගෙන පළවෙනි වචනය කියන එක — ඒක වෙනම දෙයක්.\n\nඇත්ත මේකයි: පටන් ගන්නත්, ඉවර කරන්නත් ඉංග්‍රීසියේ සූත්‍ර තියෙනවා. හදන්න ඕන නෑ, ඒවා ඉගෙන ගත්තම ඇති.\n\nපටන් ගන්න: 'Excuse me…'\nඉවර කරන්න: 'Anyway, I'd better go.'\n\nCEFR B1 මට්ටමේ මේකට කියන්නේ 'Initiating and closing conversation'. මේක ව්‍යාකරණ නෙවෙයි — ඒත් මේක නැත්නම් ව්‍යාකරණ දැනගෙන වැඩකුත් නෑ.\n\nතව එකක්. සිංහලෙන් වගේම ඉංග්‍රීසියෙනුත් හදිසියේ නවත්තන එක අශිෂ්ටයි. කථාව ඉවර වෙනවා කියලා මුලින්ම සංඥාවක් දෙන්න ඕන. ඒක මේ පාඩමේ දෙවෙනි භාගය.",
+      "body": "Opening and closing are formulas, not invention. Learn the lines and the hardest ten seconds stop being hard."
+    },
+    {
+      "type": "grammar",
+      "title": "Opening with a stranger",
+      "titleSi": "නොහඳුනන කෙනෙක් එක්ක පටන් ගැනීම",
+      "explainSi": "නොහඳුනන කෙනෙකුට කථා කරනකොට Excuse me කියලා පටන් ගන්නවා. හැමවිටම.\n\n'Excuse me' කියන්නේ 'සමාවෙන්න' කියලා නෙවෙයි — 'ඔයාගේ වෙලාවෙන් තත්පර කීපයක් ගන්නවා, කමක් නැද්ද?' කියන එකයි.\n\nඊට පස්සේ ඕන දේ:\n\n'Excuse me, do you know where the post office is?'\n'Excuse me, could you help me for a minute?'\n'Excuse me, is this seat free?'\n'Excuse me, have you got a minute?'\n\nතව ආචාරශීලී එකක් — 'I wonder if…':\n'Excuse me, I wonder if you could help me.'\n\nහඳුන්වා දෙන්න ඕන නම්:\n'Hello, my name's Nadeesha. I work with Ruwan.'\n'Let me introduce myself. I'm Ruwan, from the Galle office.'\n\nවැදගත්: 'Excuse me' සහ 'Sorry' දෙකක්. Excuse me — කථා කරන්න පටන් ගන්නකොට, කවුරු හරි ළඟින් යනකොට. Sorry — වැරැද්දක් වුණාට පස්සේ.",
+      "explain": "Excuse me opens the door. It is not an apology — it is asking for a moment of someone's time.",
+      "formula": "Excuse me, + ප්‍රශ්නය / ඉල්ලීම",
+      "table": {
+        "headers": [
+          "අවස්ථාව",
+          "කියන්නේ"
+        ],
+        "rows": [
+          [
+            "පාර අහන්න",
+            "Excuse me, could you tell me the way to…?"
+          ],
+          [
+            "උදව් ඉල්ලන්න",
+            "Excuse me, I wonder if you could help me."
+          ],
+          [
+            "වෙලාව ඉල්ලන්න",
+            "Excuse me, have you got a minute?"
+          ],
+          [
+            "හඳුන්වා දෙන්න",
+            "Hello, my name's… / Let me introduce myself."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "Excuse me, is anyone sitting here?",
+          "si": "සමාවෙන්න, මෙතන කවුරු හරි ඉන්නවාද?"
+        },
+        {
+          "en": "Excuse me, I wonder if you could help me with this form.",
+          "si": "සමාවෙන්න, මේ ෆෝම් එකට උදව්වක් කරන්න පුළුවන්ද?"
+        },
+        {
+          "en": "Hello, my name's Nadeesha. I think we spoke on the phone.",
+          "si": "හලෝ, මගේ නම නදීෂා. අපි ෆෝන් එකෙන් කථා කළා නේද?"
+        }
+      ],
+      "watchOutSi": "'Excuse me' නැතුව කෙළින්ම ප්‍රශ්නයක් ඇහුවොත් — 'Where is the station?' — ඒක අශිෂ්ට වගේ ඇහෙනවා. වචන දෙකයි, ඒත් ඒවා ලොකු වෙනසක්."
+    },
+    {
+      "type": "grammar",
+      "title": "Opening with someone you know",
+      "titleSi": "හඳුනන කෙනෙක් එක්ක පටන් ගැනීම",
+      "explainSi": "හඳුනන කෙනෙක් නම් 'Excuse me' ඕන නෑ. ඒක අමුතුයි — දුරස්ථයි වගේ.\n\nසාමාන්‍ය පටන් ගැනීම:\n'Hi! How are you?'\n'Hello — how's things?'\n'How's it going?'\n'Long time no see!' (ගොඩක් කාලෙකින් හම්බ වුණාම)\n\nකථාවක් ගේන්න:\n'Guess what!' — දන්නවද මොකද වුණේ!\n'You'll never believe what happened.' — මොකද වුණේ කියලා ඔයාට විශ්වාස වෙන්නේ නෑ.\n'Have you heard about…?' — ...ගැන අහලා තියෙනවාද?\n'Did you hear what happened to…?'\n\nමේ හතර ඉංග්‍රීසි කථාවේ දොර අරින වචන. 'Guess what!' කිව්වම අනිත් කෙනා 'What?' කියලා අහනවා — එතකොට කථාව පටන් අරන්.\n\nවැඩකට කථා කරන්න නම්:\n'Have you got a second?' — තත්පරයක් තියෙනවාද?\n'Can I ask you something?' — දෙයක් අහන්න පුළුවන්ද?\n'Sorry to bother you, but…' — කරදර කරනවා, ඒත්…",
+      "explain": "With someone you know, Excuse me sounds cold. Guess what! and You'll never believe what happened are how a story gets invited in.",
+      "formula": "Hi! How are you? · Guess what! · Have you got a second?",
+      "table": {
+        "headers": [
+          "අවස්ථාව",
+          "කියන්නේ",
+          "සිංහල"
+        ],
+        "rows": [
+          [
+            "සාමාන්‍ය",
+            "How's it going?",
+            "කොහොමද?"
+          ],
+          [
+            "ගොඩක් කාලෙකින්",
+            "Long time no see!",
+            "ගොඩක් කාලෙකින්!"
+          ],
+          [
+            "පුවතක් තියෙනවා",
+            "Guess what!",
+            "දන්නවද මොකද වුණේ!"
+          ],
+          [
+            "වැඩක් තියෙනවා",
+            "Have you got a second?",
+            "තත්පරයක් තියෙනවාද?"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "Hi Ruwan — long time no see. How's it going?",
+          "si": "හායි රුවන් — ගොඩක් කාලෙකින්. කොහොමද?"
+        },
+        {
+          "en": "Guess what! They gave me the job.",
+          "si": "දන්නවද මොකද වුණේ! ඒගොල්ලෝ මට රස්සාව දුන්නා."
+        },
+        {
+          "en": "Sorry to bother you, but do you have the file?",
+          "si": "කරදර කරනවා, ඒත් ඒ ෆයිල් එක තියෙනවාද?"
+        }
+      ],
+      "watchOutSi": "'How do you do?' කියන එක අද ඉතාම විධිමත් — විවාහ මංගල්‍යයක, තානාපති කාර්යාලයක. සාමාන්‍ය ජීවිතේට 'How are you?' නැත්නම් 'How's it going?'"
+    },
+    {
+      "type": "grammar",
+      "title": "Closing: signal first",
+      "titleSi": "අවසන් කිරීම: මුලින්ම සංඥාව",
+      "explainSi": "මේකයි වැදගත්ම කොටස. ඉංග්‍රීසි කථාවක් පියවර දෙකකින් ඉවර වෙනවා.\n\nපියවර 1 — සංඥාව. 'ඉවර වෙන්න යනවා' කියලා දැනුම් දෙනවා:\n'Anyway…'\n'Right, well…'\n'I'd better get going.'\n'I should let you go.'\n'Listen, I've got to run.'\n\nපියවර 2 — සමුගැනීම:\n'It was nice talking to you.'\n'See you later.'\n'Take care.'\n'Bye!'\n\nපියවර 1 නැතුව කෙළින්ම 'Bye' කිව්වොත් අනිත් කෙනාට හිතෙනවා ඔයා තරහ කියලා, නැත්නම් මොකක් හරි වැරදුණා කියලා.\n\nහොඳ අවසානයක්:\n'Anyway, I'd better get going — I've got to pick up my daughter. It was nice talking to you. Take care!'\n\nසංඥාව, හේතුව, ආචාරය, සමුගැනීම. හතරම වාක්‍ය තුනකින්.\n\n'I should let you go' කියන එක සිත් ගන්නා එකක් — වචනාර්ථය 'ඔයාව යන්න දෙන්න ඕන', ඒත් ඇත්තට කියන්නේ 'මට යන්න ඕන'. ඉංග්‍රීසි ආචාරශීලීකම එහෙමයි — බර අනිත් කෙනාට දෙනවා.",
+      "explain": "Closing has two steps: signal, then farewell. Skipping the signal makes Bye sound like something is wrong.",
+      "formula": "සංඥාව (Anyway… / I'd better go) → සමුගැනීම (Take care / See you)",
+      "table": {
+        "headers": [
+          "පියවර",
+          "කියන්නේ",
+          "සිංහල"
+        ],
+        "rows": [
+          [
+            "සංඥාව",
+            "Anyway, I'd better get going.",
+            "එහෙනම්, මම යන්න ඕන"
+          ],
+          [
+            "සංඥාව (ආචාරශීලී)",
+            "I should let you go.",
+            "ඔයාවත් නවත්තන් ඉන්න බෑනේ"
+          ],
+          [
+            "ආචාරය",
+            "It was nice talking to you.",
+            "කථා කරන්න ලැබීම සතුටක්"
+          ],
+          [
+            "සමුගැනීම",
+            "Take care. See you!",
+            "පරෙස්සමින්. පස්සේ හම්බ වෙමු!"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "Anyway, I'd better get going. It was lovely to see you.",
+          "si": "එහෙනම් මම යන්නම්. ඔයාව හම්බ වුණු එක සතුටක්."
+        },
+        {
+          "en": "Listen, I've got to run — I'm late already. See you Friday!",
+          "si": "අනේ මට දුවන්න වෙනවා — දැනටමත් පරක්කුයි. සිකුරාදා හම්බ වෙමු!"
+        },
+        {
+          "en": "I should let you go. Give my regards to your mother.",
+          "si": "ඔයාවත් නවත්තන් ඉන්න බෑනේ. අම්මාට මගේ සුබ පැතුම්."
+        }
+      ],
+      "watchOutSi": "දුරකථනයෙන් නම් සංඥාව තව වැදගත් — මුහුණ පේන්නේ නැති නිසා. 'Right, I'll let you get on' නැත්නම් 'Anyway, I won't keep you' කියලා පටන් ගන්න."
+    },
+    {
+      "type": "vocab",
+      "title": "Opening and closing lines",
+      "titleSi": "පටන් ගන්නත්, ඉවර කරන්නත් වචන",
+      "introSi": "මේවා වාක්‍ය නෙවෙයි, කෑලි. එහෙම්මම මතක තියාගන්න.",
+      "items": [
+        {
+          "en": "excuse me",
+          "si": "සමාවෙන්න (කථා කරන්න පටන් ගන්නකොට)",
+          "say": "එක්ස්කියුස් මී",
+          "exampleEn": "Excuse me, is this seat free?",
+          "exampleSi": "සමාවෙන්න, මේ සීට් එක නිදහස්ද?"
+        },
+        {
+          "en": "have you got a minute",
+          "si": "විනාඩියක් තියෙනවාද",
+          "say": "හෑව් යූ ගොට් අ මිනිට්",
+          "exampleEn": "Have you got a minute?",
+          "exampleSi": "විනාඩියක් තියෙනවාද?"
+        },
+        {
+          "en": "I wonder if",
+          "si": "පුළුවන්ද කියලා",
+          "say": "අයි වන්ඩර් ඉෆ්",
+          "exampleEn": "I wonder if you could help me.",
+          "exampleSi": "උදව්වක් කරන්න පුළුවන්ද?"
+        },
+        {
+          "en": "how's it going",
+          "si": "කොහොමද",
+          "say": "හව්ස් ඉට් ගෝයින්",
+          "exampleEn": "Hi! How's it going?",
+          "exampleSi": "හායි! කොහොමද?"
+        },
+        {
+          "en": "long time no see",
+          "si": "ගොඩක් කාලෙකින්",
+          "say": "ලොං ටයිම් නෝ සී",
+          "exampleEn": "Long time no see!",
+          "exampleSi": "ගොඩක් කාලෙකින්!"
+        },
+        {
+          "en": "guess what",
+          "si": "දන්නවද මොකද වුණේ",
+          "say": "ගෙස් වොට්",
+          "exampleEn": "Guess what! I passed.",
+          "exampleSi": "දන්නවද මොකද වුණේ! මම සමත් වුණා."
+        },
+        {
+          "en": "sorry to bother you",
+          "si": "කරදර කරනවා",
+          "say": "සොරි ටු බදර් යූ",
+          "exampleEn": "Sorry to bother you, but…",
+          "exampleSi": "කරදර කරනවා, ඒත්…"
+        },
+        {
+          "en": "let me introduce myself",
+          "si": "මාව හඳුන්වා දෙන්නම්",
+          "say": "ලෙට් මී ඉන්ට්‍රඩියුස් මයිසෙල්ෆ්",
+          "exampleEn": "Let me introduce myself. I'm Ruwan.",
+          "exampleSi": "මාව හඳුන්වා දෙන්නම්. මම රුවන්."
+        },
+        {
+          "en": "anyway",
+          "si": "එහෙනම්",
+          "say": "එනිවේ",
+          "exampleEn": "Anyway, I'd better go.",
+          "exampleSi": "එහෙනම්, මම යන්න ඕන."
+        },
+        {
+          "en": "I'd better get going",
+          "si": "මම යන්න ඕන",
+          "say": "අයිඩ් බෙටර් ගෙට් ගෝයින්",
+          "exampleEn": "I'd better get going.",
+          "exampleSi": "මම යන්න ඕන."
+        },
+        {
+          "en": "I've got to run",
+          "si": "මට දුවන්න වෙනවා",
+          "say": "අයිව් ගොට් ටු රන්",
+          "exampleEn": "Listen, I've got to run.",
+          "exampleSi": "අනේ මට යන්න වෙනවා."
+        },
+        {
+          "en": "I should let you go",
+          "si": "ඔයාවත් නවත්තන් ඉන්න බෑනේ",
+          "say": "අයි ෂුඩ් ලෙට් යූ ගෝ",
+          "exampleEn": "I should let you go.",
+          "exampleSi": "ඔයාවත් නවත්තන් ඉන්න බෑනේ."
+        },
+        {
+          "en": "it was nice talking to you",
+          "si": "කථා කරන්න ලැබීම සතුටක්",
+          "say": "ඉට් වොස් නයිස් ටෝකින් ටු යූ",
+          "exampleEn": "It was nice talking to you.",
+          "exampleSi": "කථා කරන්න ලැබීම සතුටක්."
+        },
+        {
+          "en": "take care",
+          "si": "පරෙස්සමින්",
+          "say": "ටේක් කෙයා",
+          "exampleEn": "Take care!",
+          "exampleSi": "පරෙස්සමින්!"
+        },
+        {
+          "en": "see you",
+          "si": "පස්සේ හම්බ වෙමු",
+          "say": "සී යූ",
+          "exampleEn": "See you on Friday.",
+          "exampleSi": "සිකුරාදා හම්බ වෙමු."
+        },
+        {
+          "en": "give my regards to",
+          "si": "...ට මගේ සුබ පැතුම්",
+          "say": "ගිව් මයි රිගාඩ්ස් ටු",
+          "exampleEn": "Give my regards to your father.",
+          "exampleSi": "තාත්තාට මගේ සුබ පැතුම්."
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "At the counter",
+      "titleSi": "කවුන්ටරයේදී",
+      "settingSi": "තැපැල් කන්තෝරුවක. නොහඳුනන කෙනෙක් එක්ක පටන් ගැනීමේ ඉඳන් අවසන් කිරීම දක්වා සම්පූර්ණ කථාවක්.",
+      "lines": [
+        {
+          "speaker": "Nadeesha",
+          "en": "Excuse me — I wonder if you could help me.",
+          "si": "සමාවෙන්න — උදව්වක් කරන්න පුළුවන්ද?"
+        },
+        {
+          "speaker": "Clerk",
+          "en": "Of course. What do you need?",
+          "si": "ඔව්. මොකද ඕන?"
+        },
+        {
+          "speaker": "Nadeesha",
+          "en": "I want to send this abroad, but I don't know which form to fill in.",
+          "si": "මට මේක පිටරටට යවන්න ඕන, ඒත් කුමන ෆෝම් එකද කියලා දන්නේ නෑ."
+        },
+        {
+          "speaker": "Clerk",
+          "en": "The green one. Write the address twice — here and here.",
+          "si": "කොළ පාට එක. ලිපිනය දෙපාරක් ලියන්න — මෙතනයි මෙතනයි."
+        },
+        {
+          "speaker": "Nadeesha",
+          "en": "That's very kind of you. And it goes in that box?",
+          "si": "බොහොම ස්තූතියි. ඒක අර පෙට්ටියට දාන්නද?"
+        },
+        {
+          "speaker": "Clerk",
+          "en": "Leave it with me. It will go out this evening.",
+          "si": "මට දෙන්න. අද හවස යවනවා."
+        },
+        {
+          "speaker": "Nadeesha",
+          "en": "Anyway, I won't keep you — there's a queue behind me. Thanks again.",
+          "si": "එහෙනම් මම ඔයාව නවත්තන්නේ නෑ — පස්සේ පෝලිමක් තියෙනවා. ආයෙත් ස්තූතියි."
+        },
+        {
+          "speaker": "Clerk",
+          "en": "No trouble at all. Take care.",
+          "si": "කිසි කරදරයක් නෑ. පරෙස්සමින්."
+        }
+      ]
+    },
+    {
+      "type": "story",
+      "title": "Two minutes at the bus halt",
+      "titleSi": "නැවතුම්පොළේ විනාඩි දෙකක්",
+      "introSi": "පටන් ගැනීමයි අවසන් කිරීමයි කොහොමද වෙන්නේ කියලා බලන්න.",
+      "paragraphs": [
+        {
+          "en": "The woman beside him had been reading the same notice for a while. \"Excuse me,\" Piyal said. \"Is that the timetable for the town bus?\"",
+          "si": "එයා ළඟ හිටපු කාන්තාව ටික වෙලාවක් තිස්සේ එකම දැන්වීම කියවමින් හිටියා. \"සමාවෙන්න,\" පියල් කිව්වා. \"ඒක නගරයට යන බස් එකේ කාලසටහනද?\""
+        },
+        {
+          "en": "\"It is, but it's from last year,\" she said. \"Nobody has changed it. The nine-forty comes at ten now.\"",
+          "si": "\"ඔව්, ඒත් ඒක ගිය අවුරුද්දේ එක,\" ඇය කිව්වා. \"කවුරුවත් ඒක මාරු කරලා නෑ. නවයයි හතළිහේ එක දැන් දහයට තමයි එන්නේ.\""
+        },
+        {
+          "en": "They talked for two minutes — the road, the rain, the price of everything. Then her bus came round the corner.",
+          "si": "ඒගොල්ලෝ විනාඩි දෙකක් කථා කළා — පාර, වැස්ස, හැම දෙයකම ගාන. ඊට පස්සේ ඇයගේ බස් එක හන්දියෙන් ආවා."
+        },
+        {
+          "en": "\"Right, that's me,\" she said. \"It was nice talking to you. Take care in this rain.\" And that was the whole thing: eight words to open it, eleven to close it, and two minutes in between that neither of them will remember by Thursday.",
+          "si": "\"හරි, ඒක මගේ එක,\" ඇය කිව්වා. \"කථා කරන්න ලැබීම සතුටක්. මේ වැස්සේ පරෙස්සමින්.\" ඒක තමයි මුළු දේම: අරින්න වචන අටක්, වහන්න එකොළහක්, අතරේ විනාඩි දෙකක් — බ්‍රහස්පතින්දා වෙනකොට දෙන්නාගෙන් කාටවත් ඒක මතක නෑ."
+        }
+      ],
+      "glossary": [
+        {
+          "en": "notice",
+          "si": "දැන්වීම"
+        },
+        {
+          "en": "timetable",
+          "si": "කාලසටහන"
+        },
+        {
+          "en": "round the corner",
+          "si": "හන්දියෙන්"
+        },
+        {
+          "en": "in between",
+          "si": "අතරේ"
+        }
+      ],
+      "questionsSi": [
+        "පියල් පටන් ගත්තේ කුමන වචනයෙන්ද?",
+        "කාන්තාව අවසන් කරන්න දුන්න සංඥාව මොකක්ද?",
+        "ඔයා අන්තිමට නොහඳුනන කෙනෙක් එක්ක කථා කළේ කවදාද?"
+      ]
+    },
+    {
+      "type": "tip",
+      "title": "Never just stop",
+      "titleSi": "හදිසියේ නවත්තන්න එපා",
+      "bodySi": "ඉංග්‍රීසි කථාවක නරකම දේ හදිසියේ නවත්තන එකයි.\n\nවැරදි: '…and that's what happened. Bye.'\nහරි: '…and that's what happened. Anyway, I'd better get going. It was nice talking to you. Bye!'\n\nවචන කීපයක් වැඩියි, ඒත් ඒවා නැත්නම් අනිත් කෙනාට හිතෙන්නේ ඔයා තරහ කියලා.\n\nදුරකථනයෙනුත් එහෙමයි: 'Anyway, I won't keep you' කියලා පටන් ගන්න, ඊට පස්සේ 'Talk soon. Bye.'",
+      "body": "Signal before you stop. Two extra lines are what separate a normal goodbye from one that sounds like offence."
+    },
+    {
+      "type": "practice",
+      "title": "Open or close?",
+      "titleSi": "අරිනවාද, වහනවාද?",
+      "instructionSi": "අවස්ථාවට ගැලපෙන කෑල්ල ලියන්න.",
+      "items": [
+        {
+          "prompt": "නොහඳුනන කෙනෙකුගෙන් පාර අහන්න පටන් ගන්නවා: ___, could you tell me the way to the station?",
+          "answer": "Excuse me",
+          "hintSi": "නොහඳුනන කෙනෙකුට හැමවිටම මේකෙන් පටන් ගන්න.",
+          "full": "Excuse me, could you tell me the way to the station?"
+        },
+        {
+          "prompt": "යාළුවෙකුට පුවතක් කියන්න පටන් ගන්නවා: ___! They gave me the job.",
+          "answer": "Guess what",
+          "hintSi": "අනිත් කෙනා 'What?' කියලා අහයි.",
+          "full": "Guess what! They gave me the job."
+        },
+        {
+          "prompt": "යන්න ඕන කියලා සංඥාව දෙනවා: ___, I'd better get going.",
+          "answer": "Anyway",
+          "hintSi": "අවසානයේ පළවෙනි වචනය.",
+          "full": "Anyway, I'd better get going."
+        },
+        {
+          "prompt": "අවසන් ආචාරය: It was nice ___ to you.",
+          "answer": "talking",
+          "hintSi": "'nice ___ to you' — -ing ආකෘතිය.",
+          "full": "It was nice talking to you."
+        },
+        {
+          "prompt": "සමුගැනීම, උණුසුම්ව: ___ care!",
+          "answer": "Take",
+          "hintSi": "වචන දෙකයි.",
+          "full": "Take care!"
+        },
+        {
+          "prompt": "වැඩක් ගැන අහන්න පටන් ගන්නවා: Sorry to ___ you, but do you have the file?",
+          "answer": "bother",
+          "hintSi": "'කරදර කරනවා' කියන අදහස.",
+          "full": "Sorry to bother you, but do you have the file?"
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "b1-17-q1",
+      "q": "නොහඳුනන කෙනෙකුට කථා කරන්න පටන් ගන්නේ කොහොමද?",
+      "options": [
+        "Hey!",
+        "Excuse me…",
+        "Guess what!",
+        "Listen."
+      ],
+      "answer": 1,
+      "explainSi": "'Excuse me' — නොහඳුනන කෙනෙකුට හැමවිටම.",
+      "speak": "Excuse me, could you help me?"
+    },
+    {
+      "id": "b1-17-q2",
+      "q": "'Excuse me' කියන එකේ ඇත්ත අර්ථය?",
+      "options": [
+        "වැරැද්දකට සමාව",
+        "ඔයාගේ වෙලාවෙන් මොහොතක් ඉල්ලනවා",
+        "ආයුබෝවන්",
+        "සමුගැනීම"
+      ],
+      "answer": 1,
+      "explainSi": "වැරැද්දකට සමාව 'Sorry'. 'Excuse me' කථාවේ දොර."
+    },
+    {
+      "id": "b1-17-q3",
+      "q": "'Excuse me' සහ 'Sorry' අතර වෙනස?",
+      "options": [
+        "වෙනසක් නෑ",
+        "Excuse me — කථා පටන් ගන්නකොට; Sorry — වැරැද්දකට පස්සේ",
+        "Sorry විධිමත්, Excuse me අවිධිමත්",
+        "Excuse me ලියන එකට විතරයි"
+      ],
+      "answer": 1,
+      "explainSi": "එකක් දොර අරිනවා, අනිත් එක සමාව ඉල්ලනවා."
+    },
+    {
+      "id": "b1-17-q4",
+      "q": "යාළුවෙකුට පුවතක් කියන්න පටන් ගන්නේ?",
+      "options": [
+        "Excuse me.",
+        "Guess what!",
+        "I should let you go.",
+        "Take care."
+      ],
+      "answer": 1,
+      "explainSi": "'Guess what!' කිව්වම අනිත් කෙනා 'What?' කියලා අහනවා."
+    },
+    {
+      "id": "b1-17-q5",
+      "q": "ඉංග්‍රීසි කථාවක් අවසන් වෙන්නේ පියවර කීයකින්ද?",
+      "options": [
+        "එකයි — 'Bye'",
+        "දෙකයි — සංඥාව, ඊට පස්සේ සමුගැනීම",
+        "තුනයි",
+        "පියවර නෑ"
+      ],
+      "answer": 1,
+      "explainSi": "සංඥාව නැතුව 'Bye' කිව්වොත් තරහ වගේ ඇහෙනවා."
+    },
+    {
+      "id": "b1-17-q6",
+      "q": "අවසන් කරන්න දෙන සංඥාවක්?",
+      "options": [
+        "Guess what!",
+        "Anyway, I'd better get going.",
+        "How's it going?",
+        "Excuse me."
+      ],
+      "answer": 1,
+      "explainSi": "'Anyway…' කියන එක අවසානයේ පළවෙනි වචනය."
+    },
+    {
+      "id": "b1-17-q7",
+      "q": "'I should let you go' කියන එකේ ඇත්ත අර්ථය?",
+      "options": [
+        "ඔයාට යන්න කියනවා",
+        "මට යන්න ඕන — ඒත් බර අනිත් කෙනාට දෙනවා",
+        "ඔයා යන්න එපා",
+        "ඔයා පරක්කුයි"
+      ],
+      "answer": 1,
+      "explainSi": "ඉංග්‍රීසි ආචාරශීලීකමේ රටාවක් — බර අනිත් කෙනාට දෙනවා."
+    },
+    {
+      "id": "b1-17-q8",
+      "q": "'Long time no see' කියන්නේ කවදාද?",
+      "options": [
+        "හැම දාම හම්බ වෙන කෙනෙකුට",
+        "ගොඩක් කාලෙකින් හම්බ වුණාම",
+        "සමුගන්නකොට",
+        "නොහඳුනන කෙනෙකුට"
+      ],
+      "answer": 1,
+      "explainSi": "ගොඩක් කාලෙකින් හම්බ වුණාම විතරයි."
+    },
+    {
+      "id": "b1-17-q9",
+      "q": "හඳුනන කෙනෙකුට 'Excuse me' කිව්වොත් මොකද වෙන්නේ?",
+      "options": [
+        "ආචාරශීලීයි",
+        "දුරස්ථයි වගේ, අමුතුයි",
+        "වැරදියි",
+        "සතුටුයි"
+      ],
+      "answer": 1,
+      "explainSi": "හඳුනන අය එක්ක 'Hi! How's it going?' ස්වාභාවිකයි."
+    },
+    {
+      "id": "b1-17-q10",
+      "q": "හිස් තැනට: 'Sorry to ___ you, but do you have a minute?'",
+      "options": [
+        "bother",
+        "trouble to",
+        "disturbing",
+        "ask"
+      ],
+      "answer": 0,
+      "explainSi": "'Sorry to bother you' — කරදර කරනවා."
+    },
+    {
+      "id": "b1-17-q11",
+      "q": "වඩාත් විධිමත් උදව් ඉල්ලීම?",
+      "options": [
+        "Help me.",
+        "I wonder if you could help me.",
+        "Can you help?",
+        "Hey, help!"
+      ],
+      "answer": 1,
+      "explainSi": "'I wonder if…' ඉතාම ආචාරශීලීයි."
+    },
+    {
+      "id": "b1-17-q12",
+      "q": "කුමන එක අවසන් ආචාරයක්ද?",
+      "options": [
+        "Have you got a minute?",
+        "It was nice talking to you.",
+        "Let me introduce myself.",
+        "Guess what!"
+      ],
+      "answer": 1,
+      "explainSi": "අවසානයේ ආචාරය."
+    },
+    {
+      "id": "b1-17-q13",
+      "q": "'How do you do?' කියන එක අද යෙදෙන්නේ?",
+      "options": [
+        "හැම දාම",
+        "ඉතාම විධිමත් අවස්ථාවලට විතරයි",
+        "යාළුවො එක්ක",
+        "දුරකථනයෙන් විතරයි"
+      ],
+      "answer": 1,
+      "explainSi": "සාමාන්‍ය ජීවිතේට 'How are you?' නැත්නම් 'How's it going?'"
+    },
+    {
+      "id": "b1-17-q14",
+      "q": "දුරකථනයෙන් අවසන් කරන්න පටන් ගන්නේ?",
+      "options": [
+        "Bye.",
+        "Anyway, I won't keep you.",
+        "Excuse me.",
+        "Guess what!"
+      ],
+      "answer": 1,
+      "explainSi": "මුහුණ පේන්නේ නැති නිසා සංඥාව තව වැදගත්."
+    },
+    {
+      "id": "b1-17-q15",
+      "q": "සම්පූර්ණ අවසානයක පිළිවෙළ?",
+      "options": [
+        "සමුගැනීම → සංඥාව",
+        "සංඥාව → හේතුව → ආචාරය → සමුගැනීම",
+        "ආචාරය → සංඥාව",
+        "පිළිවෙළක් නෑ"
+      ],
+      "answer": 1,
+      "explainSi": "'Anyway, I'd better go — I have to pick up my daughter. It was nice talking to you. Take care!'"
+    },
+    {
+      "id": "b1-17-q16",
+      "q": "හිස් තැනට: 'It was nice ___ to you.'",
+      "options": [
+        "talk",
+        "talking",
+        "to talk",
+        "talked"
+      ],
+      "answer": 1,
+      "explainSi": "'nice talking to you' — -ing ආකෘතිය.",
+      "speak": "It was nice talking to you."
+    },
+    {
+      "id": "b1-17-q17",
+      "q": "'Give my regards to your mother' කියන්නේ?",
+      "options": [
+        "අම්මාව ගේන්න",
+        "අම්මාට මගේ සුබ පැතුම් කියන්න",
+        "අම්මාට කතා කරන්න",
+        "අම්මා කොහෙද?"
+      ],
+      "answer": 1,
+      "explainSi": "අවසානයේ උණුසුම් එකතු කිරීමක්."
+    },
+    {
+      "id": "b1-17-q18",
+      "q": "'Where is the station?' කියලා කෙළින්ම නොහඳුනන කෙනෙකුගෙන් ඇහුවොත්?",
+      "options": [
+        "හොඳයි, කෙටියි",
+        "අශිෂ්ට වගේ ඇහෙනවා — 'Excuse me' ඕන",
+        "වැරදියි, ව්‍යාකරණ අනුව",
+        "ඉතාම ආචාරශීලීයි"
+      ],
+      "answer": 1,
+      "explainSi": "වචන දෙකයි, ඒත් ලොකු වෙනසක්."
+    }
+  ],
+  "vocab": [
+    {
+      "en": "excuse me",
+      "si": "සමාවෙන්න (කථා කරන්න පටන් ගන්නකොට)",
+      "say": "එක්ස්කියුස් මී",
+      "exampleEn": "Excuse me, is this seat free?",
+      "exampleSi": "සමාවෙන්න, මේ සීට් එක නිදහස්ද?"
+    },
+    {
+      "en": "have you got a minute",
+      "si": "විනාඩියක් තියෙනවාද",
+      "say": "හෑව් යූ ගොට් අ මිනිට්",
+      "exampleEn": "Have you got a minute?",
+      "exampleSi": "විනාඩියක් තියෙනවාද?"
+    },
+    {
+      "en": "I wonder if",
+      "si": "පුළුවන්ද කියලා",
+      "say": "අයි වන්ඩර් ඉෆ්",
+      "exampleEn": "I wonder if you could help me.",
+      "exampleSi": "උදව්වක් කරන්න පුළුවන්ද?"
+    },
+    {
+      "en": "how's it going",
+      "si": "කොහොමද",
+      "say": "හව්ස් ඉට් ගෝයින්",
+      "exampleEn": "Hi! How's it going?",
+      "exampleSi": "හායි! කොහොමද?"
+    },
+    {
+      "en": "long time no see",
+      "si": "ගොඩක් කාලෙකින්",
+      "say": "ලොං ටයිම් නෝ සී",
+      "exampleEn": "Long time no see!",
+      "exampleSi": "ගොඩක් කාලෙකින්!"
+    },
+    {
+      "en": "guess what",
+      "si": "දන්නවද මොකද වුණේ",
+      "say": "ගෙස් වොට්",
+      "exampleEn": "Guess what! I passed.",
+      "exampleSi": "දන්නවද මොකද වුණේ! මම සමත් වුණා."
+    },
+    {
+      "en": "sorry to bother you",
+      "si": "කරදර කරනවා",
+      "say": "සොරි ටු බදර් යූ",
+      "exampleEn": "Sorry to bother you, but…",
+      "exampleSi": "කරදර කරනවා, ඒත්…"
+    },
+    {
+      "en": "let me introduce myself",
+      "si": "මාව හඳුන්වා දෙන්නම්",
+      "say": "ලෙට් මී ඉන්ට්‍රඩියුස් මයිසෙල්ෆ්",
+      "exampleEn": "Let me introduce myself. I'm Ruwan.",
+      "exampleSi": "මාව හඳුන්වා දෙන්නම්. මම රුවන්."
+    },
+    {
+      "en": "anyway",
+      "si": "එහෙනම්",
+      "say": "එනිවේ",
+      "exampleEn": "Anyway, I'd better go.",
+      "exampleSi": "එහෙනම්, මම යන්න ඕන."
+    },
+    {
+      "en": "I'd better get going",
+      "si": "මම යන්න ඕන",
+      "say": "අයිඩ් බෙටර් ගෙට් ගෝයින්",
+      "exampleEn": "I'd better get going.",
+      "exampleSi": "මම යන්න ඕන."
+    },
+    {
+      "en": "I've got to run",
+      "si": "මට දුවන්න වෙනවා",
+      "say": "අයිව් ගොට් ටු රන්",
+      "exampleEn": "Listen, I've got to run.",
+      "exampleSi": "අනේ මට යන්න වෙනවා."
+    },
+    {
+      "en": "I should let you go",
+      "si": "ඔයාවත් නවත්තන් ඉන්න බෑනේ",
+      "say": "අයි ෂුඩ් ලෙට් යූ ගෝ",
+      "exampleEn": "I should let you go.",
+      "exampleSi": "ඔයාවත් නවත්තන් ඉන්න බෑනේ."
+    },
+    {
+      "en": "it was nice talking to you",
+      "si": "කථා කරන්න ලැබීම සතුටක්",
+      "say": "ඉට් වොස් නයිස් ටෝකින් ටු යූ",
+      "exampleEn": "It was nice talking to you.",
+      "exampleSi": "කථා කරන්න ලැබීම සතුටක්."
+    },
+    {
+      "en": "take care",
+      "si": "පරෙස්සමින්",
+      "say": "ටේක් කෙයා",
+      "exampleEn": "Take care!",
+      "exampleSi": "පරෙස්සමින්!"
+    },
+    {
+      "en": "see you",
+      "si": "පස්සේ හම්බ වෙමු",
+      "say": "සී යූ",
+      "exampleEn": "See you on Friday.",
+      "exampleSi": "සිකුරාදා හම්බ වෙමු."
+    },
+    {
+      "en": "give my regards to",
+      "si": "...ට මගේ සුබ පැතුම්",
+      "say": "ගිව් මයි රිගාඩ්ස් ටු",
+      "exampleEn": "Give my regards to your father.",
+      "exampleSi": "තාත්තාට මගේ සුබ පැතුම්."
+    }
+  ]
+}

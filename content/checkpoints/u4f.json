@@ -1,0 +1,19 @@
+{
+  "quiz": [
+    { "id": "u4f-cp-q1", "q": "phrasal verb එකක අර්ථය හදන්නේ කොහොමද?", "options": ["කොටස් දෙකේ අර්ථ එකතු කරලා", "දෙක එකට අලුත් අර්ථයක් හදනවා", "පළවෙනි වචනයෙන් විතරයි", "දෙවෙනි වචනයෙන් විතරයි"], "answer": 1, "explainSi": "'give up' කියන්නේ 'දෙනවා' + 'උඩට' නෙවෙයි." },
+    { "id": "u4f-cp-q2", "q": "කුමන එක වැරදිද?", "options": ["Turn the light on.", "Turn on the light.", "Turn it on.", "Turn on it."], "answer": 3, "explainSi": "සර්වනාමයක් හැමවිටම මැදට." },
+    { "id": "u4f-cp-q3", "q": "'Look after' වෙන් කරන්න පුළුවන්ද?", "options": ["ඔව්", "නෑ — 'look them after' වැරදියි", "සර්වනාමයක් නම් විතරක්", "ප්‍රශ්නවලට විතරක්"], "answer": 1, "explainSi": "preposition එකක් තියෙන ඒවා වෙන් වෙන්නේ නෑ." },
+    { "id": "u4f-cp-q4", "q": "'put off' එකේ විධිමත් විකල්පය?", "options": ["cancel", "postpone", "discover", "reject"], "answer": 1, "explainSi": "put off = postpone." },
+    { "id": "u4f-cp-q5", "q": "'We've run ___ of sugar.'", "options": ["off", "out", "up", "down"], "answer": 1, "explainSi": "run out of — ඉවර වෙනවා." },
+    { "id": "u4f-cp-q6", "q": "Question tag එකේ පළවෙනි නීතිය?", "options": ["හැමවිටම නැහැ tag එකක්", "වාක්‍යය හරි නම් tag නැහැ; නැහැ නම් tag හරි", "හැමවිටම 'isn't it'", "නීතියක් නෑ"], "answer": 1, "explainSi": "ප්‍රතිවිරුද්ධ පැත්ත." },
+    { "id": "u4f-cp-q7", "q": "'You like tea, ___ ?'", "options": ["isn't it", "don't you", "aren't you", "do you"], "answer": 1, "explainSi": "සහායක ක්‍රියාවක් නැති නිසා do." },
+    { "id": "u4f-cp-q8", "q": "'I'm late, ___ ?'", "options": ["amn't I", "aren't I", "isn't I", "am I"], "answer": 1, "explainSi": "'amn't' කියන එකක් නෑ." },
+    { "id": "u4f-cp-q9", "q": "'Let's go, ___ ?'", "options": ["don't we", "shall we", "will we", "aren't we"], "answer": 1, "explainSi": "'Let's' එකට හැමවිටම 'shall we'." },
+    { "id": "u4f-cp-q10", "q": "'You didn't call, did you?' — ඔයා කතා කළා නම්?", "options": ["No, I did.", "Yes, I did.", "No, I didn't.", "Yes, I didn't."], "answer": 1, "explainSi": "ඉංග්‍රීසියෙන් Yes = කළා." },
+    { "id": "u4f-cp-q11", "q": "'quickly' සසඳන්නේ?", "options": ["quicklier", "more quickly", "quickly-er", "most quickly than"], "answer": 1, "explainSi": "-ly ඇති ඒවාට more." },
+    { "id": "u4f-cp-q12", "q": "'well' එකේ සැසඳීම?", "options": ["weller", "more well", "better", "goodder"], "answer": 2, "explainSi": "well → better → the best." },
+    { "id": "u4f-cp-q13", "q": "කුමන එක වැරදිද?", "options": ["He drives the bus carefully.", "He drives carefully the bus.", "He drives carefully.", "He always drives carefully."], "answer": 1, "explainSi": "ක්‍රියාවයි object එකයි අතරට යන්නේ නෑ." },
+    { "id": "u4f-cp-q14", "q": "'always' යන්නේ කොහෙද?", "options": ["වාක්‍යය අගට", "ප්‍රධාන ක්‍රියාවට කලින්", "වාක්‍යය මුලට විතරයි", "object එකට පස්සේ"], "answer": 1, "explainSi": "'I always walk to work.'" },
+    { "id": "u4f-cp-q15", "q": "'very' සහ 'too' අතර වෙනස?", "options": ["වෙනසක් නෑ", "very = ගොඩක්; too = ඕනවට වඩා, ප්‍රශ්නයක්", "too වඩා ආචාරශීලීයි", "very අතීතයට"], "answer": 1, "explainSi": "'too hot to drink' — බොන්න බෑ." }
+  ]
+}

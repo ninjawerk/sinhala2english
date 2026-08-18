@@ -1,0 +1,833 @@
+{
+  "hero": {
+    "src": "images/a2-15-hero.webp",
+    "alt": "Ruwan holding a phone to his ear mid call, one hand raised asking the caller to hold on, standing by an office window."
+  },
+  "goalsSi": [
+    "දුරකථන අංකයක් ඉංග්‍රීසියෙන් කියවීම — එකින් එක ඉලක්කම්",
+    "Could I speak to...? — කථා කරන්න ඕන කෙනා අහන එක",
+    "Speaking. / Who's calling, please? / Hold on, please.",
+    "පණිවිඩයක් තැබීම — Can I take a message? / Could you tell him that...?",
+    "I'll call you back / Can you hear me? / wrong number"
+  ],
+  "goals": [
+    "Read a phone number aloud, digit by digit",
+    "Ask for someone with Could I speak to…?",
+    "Answer, ask who's calling, and ask someone to wait",
+    "Leave and take a phone message",
+    "Handle a bad line and a wrong number"
+  ],
+  "sections": [
+    {
+      "type": "note",
+      "title": "You can't see the other person",
+      "titleSi": "අනිත් කෙනා පේන්නේ නෑ",
+      "bodySi": "මුහුණට මුහුණ කථා කරද්දී, බැලීමෙන්ම ගොඩක් දේ තේරෙනවා — කවුද කථා කරන්නේ, එයාට ඇහෙනවද, පාරවෙන්නද ඕන කියලා. දුරකථනයෙන් කථා කරද්දී ඒ ඔක්කොම වචනවලින් කියන්න ඕන.\n\nඒකයි ඉංග්‍රීසියේ දුරකථන කථාබහට තමන්ගේම ස්ථිර වාක්‍ය තියෙන්නේ — 'Speaking.' කියලා තමන්ම කියන එකෙන් 'ඔව්, මමයි' කියලා තේරෙනවා, 'Who's calling?' කියලා අහන එකෙන් 'ඔබ කවුද' කියලා තේරෙනවා. මේවා මතක තියාගත්තොත්, දුරකථනයෙන් කථා කිරීම ලේසි වෙනවා.",
+      "body": "Face to face you can see who's talking and whether they can hear you. On the phone, you have to say it."
+    },
+    {
+      "type": "grammar",
+      "title": "Saying a phone number",
+      "titleSi": "දුරකථන අංකයක් කියවීම",
+      "explainSi": "ඉංග්‍රීසියෙන් දුරකථන අංකයක් කියවද්දී එකින් එක ඉලක්කම් කියනවා — 'twenty-five' කියන්නේ නෑ, 'two five' කියනවා. 0 සඳහා 'oh' යොදනවා ('zero' එකත් හරි). එකම ඉලක්කම දෙපාරක් එකින් එක ආවොත් 'double' කියලා කියනවා.",
+      "formula": "digit + digit + digit… (0 = oh, same digit twice = double)",
+      "table": {
+        "headers": [
+          "අංකය",
+          "කියවෙන විදිහ"
+        ],
+        "rows": [
+          [
+            "077 123 4567",
+            "oh double seven, one two three, four five six seven"
+          ],
+          [
+            "011 258 4471",
+            "oh one one, two five eight, double four seven one"
+          ],
+          [
+            "070 900 1122",
+            "oh seven oh, nine oh oh, double one double two"
+          ],
+          [
+            "076 305 6689",
+            "oh seven six, three oh five, double six eight nine"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "My number is oh seven seven, double one two, three four five six.",
+          "si": "මගේ අංකය oh seven seven, double one two, three four five six."
+        },
+        {
+          "en": "Can you say that again? I only got the first three numbers.",
+          "si": "ආයේ කියන්නද? මට ලැබුනේ මුල් ඉලක්කම් තුනයි."
+        }
+      ],
+      "watchOutSi": "'twelve' කියලා දෙකක් එකට කියන්නේ නෑ — 'one two' කියලා වෙන වෙනම. දුරකථන අංකයක් ලොකු ගණන් වචනයක් නෙවෙයි, ඉලක්කම් පේළියක්."
+    },
+    {
+      "type": "grammar",
+      "title": "Could I speak to…?",
+      "titleSi": "Could I speak to...?",
+      "explainSi": "කථා කරන්න ඕන කෙනාව අහන්නේ 'Could I speak to...?' කියලා. ඒ කෙනාම දුරකථනයට එනවා නම්, 'Speaking.' කියලා තමන්ම කියනවා — 'It's me' කියන එකේ අර්ථයෙන්. එයා නැත්නම්, කවුද කථා කරන්නේ කියලා අහන්නේ 'Who's calling, please?' කියලා, ටිකක් ඉන්න කියන්නේ 'Hold on, please.'",
+      "formula": "Could I speak to + name/title, please?",
+      "table": {
+        "headers": [
+          "වාක්‍යය",
+          "සිංහල"
+        ],
+        "rows": [
+          [
+            "Could I speak to Mr. Perera, please?",
+            "පෙරේරා මහත්තයාට කථා කරන්න පුළුවන්ද?"
+          ],
+          [
+            "Speaking.",
+            "මමයි."
+          ],
+          [
+            "Who's calling, please?",
+            "කථා කරන්නේ කවුද?"
+          ],
+          [
+            "Hold on, please.",
+            "ටිකක් ඉන්න."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "Could I speak to Dr. Silva, please? — Speaking.",
+          "si": "සිල්වා වෛද්‍යතුමාට කථා කරන්න පුළුවන්ද? — මමයි."
+        },
+        {
+          "en": "Who's calling, please? — This is Nadeeka, from the office.",
+          "si": "කථා කරන්නේ කවුද? — මම නදීකා, ඔෆිස් එකෙන්."
+        }
+      ],
+      "watchOutSi": "'Speaking.' කියලා තනි වචනයෙන් තමයි කියන්නේ — 'I am speaking' කියලා නෙවෙයි. ඒක අමුතුයි ඇහෙන්නේ."
+    },
+    {
+      "type": "grammar",
+      "title": "Leaving a message",
+      "titleSi": "පණිවිඩයක් තැබීම",
+      "explainSi": "කථා කරන්න ඕන කෙනා නැත්නම්, 'He's/She's not in right now' කියලා කියනවා. පණිවිඩයක් ගන්නද කියලා අහන්නේ 'Can I take a message?' — 'Could you tell him/her that...?' කියලා පණිවිඩය දෙනවා. මෙතන 'that' යනු සරල, ස්ථිර වාක්‍යාංශයක් විතරයි — සම්පූර්ණ reported speech (b2-04) මෙතන ඉගෙන ගන්නේ නෑ.",
+      "formula": "Can I take a message? / Could you tell him/her that…?",
+      "table": {
+        "headers": [
+          "වාක්‍යය",
+          "සිංහල"
+        ],
+        "rows": [
+          [
+            "I'm sorry, he's not in right now.",
+            "සමාවෙන්න, එයා දැන් නෑ."
+          ],
+          [
+            "Can I take a message?",
+            "පණිවිඩයක් ගන්නද?"
+          ],
+          [
+            "Could you tell her that I called?",
+            "මම කථා කළා කියලා කියන්නද?"
+          ],
+          [
+            "Could you ask him to call me back?",
+            "එයාට මට ආයෙත් කථා කරන්න කියන්නද?"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "I'm sorry, she's not in right now. Can I take a message?",
+          "si": "සමාවෙන්න, එයා දැන් නෑ. පණිවිඩයක් ගන්නද?"
+        },
+        {
+          "en": "Could you tell him that the meeting starts at ten, not nine?",
+          "si": "රැස්වීම දහයට, නවයට නෙවෙයි කියලා එයාට කියන්නද?"
+        }
+      ],
+      "watchOutSi": "'Could you tell him that...' කියලා පණිවිඩය කියද්දී 'that' ට පස්සේ එන වාක්‍යය කෙලින්ම — 'Could you tell him I called' කිව්වත් හරි, 'that' අත්‍යවශ්‍ය නෑ."
+    },
+    {
+      "type": "grammar",
+      "title": "I'll call you back / a bad line",
+      "titleSi": "I'll call you back / පාරවෙන දුරකථනය",
+      "explainSi": "කථාව අවසන් කරද්දී 'I'll call you back' කියලා කියනවා — ආයෙත් තමන්ම කථා කරන්නම් කියන එක. ඇහෙන්නේ නැත්නම් 'Can you hear me?' කියලා අහනවා, පාරවෙනවා නම් 'You're breaking up' කියනවා. වැරදි අංකයකට කථා කළොත් 'Sorry, wrong number' කියලා කියනවා.",
+      "formula": "I'll call you back. / Can you hear me? / You're breaking up. / Sorry, wrong number.",
+      "table": {
+        "headers": [
+          "වාක්‍යය",
+          "සිංහල"
+        ],
+        "rows": [
+          [
+            "I'll call you back in five minutes.",
+            "විනාඩි පහකින් ආයෙත් කථා කරන්නම්."
+          ],
+          [
+            "Can you hear me now?",
+            "දැන් ඇහෙනවද?"
+          ],
+          [
+            "Sorry, you're breaking up — can you say that again?",
+            "සමාවෙන්න, පාරවෙනවා — ආයේ කියන්නද?"
+          ],
+          [
+            "Sorry, wrong number.",
+            "සමාවෙන්න, වැරදි අංකයක්."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "The line's bad — I'll call you back from the office.",
+          "si": "පාර හොඳ නෑ — මම ඔෆිස් එකෙන් ආයෙත් කථා කරන්නම්."
+        },
+        {
+          "en": "Is this 077 234 5678? — No, sorry, wrong number.",
+          "si": "මේක 077 234 5678ද? — නෑ, සමාවෙන්න, වැරදි අංකයක්."
+        }
+      ],
+      "watchOutSi": "'wrong number' කියන්නේ ඔබ වැරදි කෙනෙක්ට කථා කළාම — 'busy' (engaged) කියන්නේ එයාගේ ලයින් එක වෙන කෙනෙක් එක්ක කථා කරමින් තියෙනවා නම්. දෙකම එකක් නෙවෙයි."
+    },
+    {
+      "type": "vocab",
+      "title": "On the phone",
+      "titleSi": "දුරකථනයෙන්",
+      "items": [
+        {
+          "en": "dial",
+          "si": "අංකය ඔබනවා",
+          "say": "ඩයල්"
+        },
+        {
+          "en": "ring",
+          "si": "රින්ග් වෙනවා",
+          "say": "රින්ග්"
+        },
+        {
+          "en": "answer (the phone)",
+          "si": "කථාව ලබාගන්නවා",
+          "say": "ආන්සර්"
+        },
+        {
+          "en": "pick up",
+          "si": "උත්තර දෙනවා",
+          "say": "පික් අප්"
+        },
+        {
+          "en": "hang up",
+          "si": "කථාව කපනවා",
+          "say": "හෑන්ග් අප්"
+        },
+        {
+          "en": "hold on",
+          "si": "ටිකක් ඉන්න",
+          "say": "හෝල්ඩ් ඔන්"
+        },
+        {
+          "en": "message",
+          "si": "පණිවිඩය",
+          "say": "මැසේජ්"
+        },
+        {
+          "en": "extension",
+          "si": "අභ්‍යන්තර අංකය",
+          "say": "එක්ස්ටෙන්ෂන්"
+        },
+        {
+          "en": "engaged / busy",
+          "si": "කථා කරමින්",
+          "say": "එන්ගේජ්ඩ්"
+        },
+        {
+          "en": "wrong number",
+          "si": "වැරදි අංකය",
+          "say": "රොන්ග් නම්බර්"
+        },
+        {
+          "en": "voicemail",
+          "si": "හඬ තැපෑල",
+          "say": "වොයිස්මේල්"
+        },
+        {
+          "en": "receptionist",
+          "si": "පිළිගැනීමේ නිලධාරියා",
+          "say": "රිසෙප්ෂනිස්ට්"
+        }
+      ]
+    },
+    {
+      "type": "story",
+      "title": "The Wrong Number",
+      "titleSi": "වැරදි අංකය",
+      "introSi": "කෑල්ලෙන් කැඩෙන ටැප් එකක් හදාගන්න ප්ලම්බර්ට කථා කරන්න හදන කතාවක්. දුරකථන කථාබහේ වාක්‍ය ගණන් කරන්න.",
+      "paragraphs": [
+        {
+          "en": "Amali's kitchen tap had been leaking for two days. Her neighbour had given her a plumber's number, so she dialled it, expecting to hear a friendly \"Fernando's Plumbing, how can I help?\"",
+          "si": "අමාලීගේ කුස්සියේ ටැප් එක දවස් දෙකක් තිස්සේ කැඩිලා. එයාගේ අසල්වැසියා ප්ලම්බර්ගේ අංකයක් දුන්නා, ඉතින් එයා අංකය ඔබලා, යාළුවෙන් \"Fernando's Plumbing, how can I help?\" කියලා ඇහෙයි කියලා බලාපොරොත්තු වුණා."
+        },
+        {
+          "en": "Instead, a confused man answered. \"Hello? Who's this?\" \"Oh — could I speak to Mr. Fernando, please?\" \"There's no Fernando here. I think you've got the wrong number.\" Amali apologised and hung up.",
+          "si": "ඒ වෙනුවට, ව්‍යාකූල පුරුෂයෙක් උත්තර දුන්නා. \"හලෝ? මේක කවුද?\" \"ඕ — ෆර්නාන්දු මහත්තයාට කථා කරන්න පුළුවන්ද?\" \"මෙතන ෆර්නාන්දු කෙනෙක් නෑ. ඔබට වැරදි අංකයක් ලැබිලා ඇති.\" අමාලී සමාව ඇහුවා, කථාව කැපුවා."
+        },
+        {
+          "en": "She checked the number her neighbour had written down — 077 213 4560 — and read it again, slowly. \"Oh, I dialled 077 213 4650. I had the last four numbers wrong.\" She dialled again, this time reading each digit out loud as she pressed it.",
+          "si": "අසල්වැසියා ලියපු අංකය — 077 213 4560 — ආයේ, හෙමින් බැලුවා. \"ඕ, මම ඔබ්බේ 077 213 4650. අන්තිම ඉලක්කම් හතරම වැරදියි.\" ආයෙත් ඔබද්දී, ඔබන එකින් එක ඉලක්කම හඬනගා කියෙව්වා."
+        },
+        {
+          "en": "This time a woman answered. \"I'm sorry, my husband's not in right now — he's out on a job. Can I take a message?\" \"Yes, please. Could you tell him my kitchen tap is leaking badly? I need someone tomorrow morning, if possible.\"",
+          "si": "මේ පාර කාන්තාවක් උත්තර දුන්නා. \"සමාවෙන්න, මගේ මහත්තයා දැන් නෑ — වැඩකට ගිහින්. පණිවිඩයක් ගන්නද?\" \"ඔව්, ගන්න. මගේ කුස්සියේ ටැප් එක හොඳටම කැඩෙනවා කියලා එයාට කියන්නද? පුළුවන් නම් හෙට උදේ කවුරුහරි ඕන.\""
+        },
+        {
+          "en": "\"Of course. Can I get your number, so he can call you back?\" Amali read it out again, digit by digit: \"oh seven seven, two one three, four five six oh.\" \"Got it. I'll tell him as soon as he's back.\"",
+          "si": "\"ඇත්තෙන්ම. එයාට ආයෙත් කථා කරන්න ඔබේ අංකය ගන්නද?\" අමාලී ආයෙත්, එකින් එක ඉලක්කම කියෙව්වා: \"oh seven seven, two one three, four five six oh.\" \"තියෙනවා. එයා ආපු ගමන් කියන්නම්.\""
+        },
+        {
+          "en": "The next morning, her phone rang. \"Hello, this is Fernando, the plumber — sorry, you're breaking up a little. Can you hear me now?\" \"Yes, much better. Thank you for calling back so quickly!\" He arrived an hour later and fixed the tap in ten minutes.",
+          "si": "ඊළඟ දවසේ උදේ, එයාගේ දුරකථනය රින්ග් වුණා. \"හලෝ, මම ෆර්නාන්දු, ප්ලම්බර් — සමාවෙන්න, ටිකක් පාරවෙනවා. දැන් ඇහෙනවද?\" \"ඔව්, ගොඩක් හොඳයි. ඉක්මනින් කථා කළාට ස්තූතියි!\" එයා පැයකින් ආවා, විනාඩි දහයෙන් ටැප් එක හදා දුන්නා."
+        }
+      ],
+      "glossary": [
+        {
+          "en": "leaking",
+          "si": "කැඩෙන (ජලය)"
+        },
+        {
+          "en": "confused",
+          "si": "ව්‍යාකූල"
+        },
+        {
+          "en": "apologise",
+          "si": "සමාව ඉල්ලනවා"
+        },
+        {
+          "en": "out on a job",
+          "si": "වැඩකට ගිහින්"
+        },
+        {
+          "en": "as soon as",
+          "si": "ආපු ගමන්ම"
+        }
+      ],
+      "questionsSi": [
+        "අමාලී මුලින්ම කථා කළාම කවුද උත්තර දුන්නේ?",
+        "අමාලීගේ පළමු අංකයේ වැරැද්ද මොකක්ද?",
+        "ෆර්නාන්දුගේ මිස්සිට 'Can I take a message?' කියද්දී අමාලී මොකක්ද කිව්වේ?",
+        "ෆර්නාන්දු කථා කරද්දී ලයින් එකේ ප්‍රශ්නය මොකක්ද?"
+      ]
+    },
+    {
+      "type": "poem",
+      "title": "On the Line",
+      "titleSi": "ලයින් එකේ",
+      "introSi": "එකෙක්ට කථා කරන්න බලාගෙන ඉන්න මොහොත ගැන කවියක්.",
+      "lines": [
+        {
+          "en": "Ring, and ring, and no reply —",
+          "si": "රින්ග්, ආයෙත් රින්ග්, උත්තරයක් නෑ —"
+        },
+        {
+          "en": "Just a tone that waits, and waits.",
+          "si": "බලාපොරොත්තුවෙන් ඉන්න ශබ්දයක් විතරයි."
+        },
+        {
+          "en": "Then, at last: \"Hello? Who's calling?\"",
+          "si": "අන්තිමට: \"හලෝ? කවුද?\""
+        },
+        {
+          "en": "\"It's me. Sorry I'm so late.\"",
+          "si": "\"මමයි. පරක්කු වුණාට සමාවෙන්න.\""
+        },
+        {
+          "en": "",
+          "si": ""
+        },
+        {
+          "en": "\"Can you hear me? You're breaking up.\"",
+          "si": "\"ඇහෙනවද? පාරවෙනවා.\""
+        },
+        {
+          "en": "\"Better now — go on, I'm here.\"",
+          "si": "\"දැන් හොඳයි — කියන්න, මම ඉන්නවා.\""
+        },
+        {
+          "en": "A hundred miles, and just this line,",
+          "si": "සීයක් සැතපුම්, තියෙන්නේ මේ ලයින් එක විතරයි,"
+        },
+        {
+          "en": "Holding a voice I hold most dear.",
+          "si": "මට ගොඩක්ම ආදරෙයි හඬක් රඳවගෙන."
+        }
+      ],
+      "noteSi": "'Ring', 'Hello? Who's calling?', 'Can you hear me? You're breaking up' — කවියේ තුනම මේ පාඩමේම වාක්‍ය."
+    },
+    {
+      "type": "dialogue",
+      "title": "Calling a friend's house",
+      "titleSi": "යාළුවෙක්ගේ ගෙදරට කථා කිරීම",
+      "settingSi": "කසුන් ඔහුගේ යාළුවා රුවන්ට කථා කරනවා, ගෙදරට. දුරකථන වාක්‍ය හඳුනාගන්න.",
+      "lines": [
+        {
+          "speaker": "Ruwan's mother",
+          "en": "Hello?",
+          "si": "හලෝ?"
+        },
+        {
+          "speaker": "Kasun",
+          "en": "Hello, could I speak to Ruwan, please?",
+          "si": "හලෝ, රුවන්ට කථා කරන්න පුළුවන්ද?"
+        },
+        {
+          "speaker": "Ruwan's mother",
+          "en": "I'm sorry, he's not in right now — he's still at the library. Who's calling, please?",
+          "si": "සමාවෙන්න, එයා දැන් නෑ — තාම පුස්තකාලයේ. කථා කරන්නේ කවුද?"
+        },
+        {
+          "speaker": "Kasun",
+          "en": "This is Kasun, from his class. Can I take — sorry, can I leave a message?",
+          "si": "මම කසුන්, එයාගේ පන්තියෙන්. පණිවිඩයක් තියන්න පුළුවන්ද?"
+        },
+        {
+          "speaker": "Ruwan's mother",
+          "en": "Of course. Go ahead.",
+          "si": "ඇත්තෙන්ම. කියන්න."
+        },
+        {
+          "speaker": "Kasun",
+          "en": "Could you tell him the study group moved to six, not five? And could you ask him to call me back?",
+          "si": "අධ්‍යයන කණ්ඩායම පහට නෙවෙයි හයට කියලා එයාට කියන්නද? ආයෙත් මට කථා කරන්න කියන්නද?"
+        },
+        {
+          "speaker": "Ruwan's mother",
+          "en": "Six instead of five — got it. Can I get your number?",
+          "si": "පහට නෙවෙයි හයට — තියෙනවා. ඔබේ අංකය ගන්නද?"
+        },
+        {
+          "speaker": "Kasun",
+          "en": "Yes — oh seven six, four four one, two two three three.",
+          "si": "ඔව් — oh seven six, four four one, two two three three."
+        }
+      ]
+    },
+    {
+      "type": "practice",
+      "title": "Match the situation",
+      "titleSi": "අවස්ථාවට ගැලපෙන වාක්‍යය",
+      "instructionSi": "දුන් අවස්ථාවට ගැලපෙන දුරකථන වාක්‍යය ලියන්න.",
+      "items": [
+        {
+          "prompt": "ask for Mr. Silva",
+          "answer": "Could I speak to Mr. Silva, please?",
+          "hintSi": "Could I speak to...?",
+          "full": "Could I speak to Mr. Silva, please?"
+        },
+        {
+          "prompt": "you are the person they want",
+          "answer": "Speaking.",
+          "hintSi": "එක වචනයෙන්.",
+          "full": "Speaking."
+        },
+        {
+          "prompt": "the person isn't there, offer to take a message",
+          "answer": "Can I take a message?",
+          "hintSi": "Can I take a message?",
+          "full": "Can I take a message?"
+        },
+        {
+          "prompt": "ask them to wait",
+          "answer": "Hold on, please.",
+          "hintSi": "Hold on, please.",
+          "full": "Hold on, please."
+        },
+        {
+          "prompt": "the line is bad",
+          "answer": "You're breaking up.",
+          "hintSi": "You're breaking up.",
+          "full": "You're breaking up."
+        },
+        {
+          "prompt": "you called the wrong person",
+          "answer": "Sorry, wrong number.",
+          "hintSi": "Sorry, wrong number.",
+          "full": "Sorry, wrong number."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "en": "dial",
+      "si": "අංකය ඔබනවා"
+    },
+    {
+      "en": "ring",
+      "si": "රින්ග් වෙනවා"
+    },
+    {
+      "en": "answer (the phone)",
+      "si": "කථාව ලබාගන්නවා"
+    },
+    {
+      "en": "pick up",
+      "si": "උත්තර දෙනවා"
+    },
+    {
+      "en": "hang up",
+      "si": "කථාව කපනවා"
+    },
+    {
+      "en": "hold on",
+      "si": "ටිකක් ඉන්න"
+    },
+    {
+      "en": "message",
+      "si": "පණිවිඩය"
+    },
+    {
+      "en": "extension",
+      "si": "අභ්‍යන්තර අංකය"
+    },
+    {
+      "en": "engaged / busy",
+      "si": "කථා කරමින්"
+    },
+    {
+      "en": "wrong number",
+      "si": "වැරදි අංකය"
+    },
+    {
+      "en": "voicemail",
+      "si": "හඬ තැපෑල"
+    },
+    {
+      "en": "receptionist",
+      "si": "පිළිගැනීමේ නිලධාරියා"
+    },
+    {
+      "en": "leaking",
+      "si": "කැඩෙන (ජලය)"
+    },
+    {
+      "en": "confused",
+      "si": "ව්‍යාකූල"
+    },
+    {
+      "en": "apologise",
+      "si": "සමාව ඉල්ලනවා"
+    },
+    {
+      "en": "out on a job",
+      "si": "වැඩකට ගිහින්"
+    },
+    {
+      "en": "as soon as",
+      "si": "ආපු ගමන්ම"
+    },
+    {
+      "en": "breaking up (on the phone)",
+      "si": "පාරවෙනවා"
+    },
+    {
+      "en": "call back",
+      "si": "ආයෙත් කථා කරනවා"
+    },
+    {
+      "en": "line",
+      "si": "දුරකථන පාර"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "a2-15-q1",
+      "q": "077 123 4567 — ඉංග්‍රීසියෙන් කියවෙන්නේ කොහොමද?",
+      "options": [
+        "seventy-seven, one hundred and twenty-three, four thousand five hundred and sixty-seven",
+        "oh double seven, one two three, four five six seven",
+        "seven seven one two three four five six seven",
+        "oh seven seven one two three four five six seven, all together"
+      ],
+      "answer": 1,
+      "explainSi": "එකින් එක ඉලක්කම්, කන්ඩායම් වශයෙන් — 'oh double seven, one two three, four five six seven'.",
+      "speak": "oh double seven, one two three, four five six seven"
+    },
+    {
+      "id": "a2-15-q2",
+      "q": "0 ඉලක්කම දුරකථන අංකයක කියවෙන්නේ කුමන වචනයෙන්ද?",
+      "options": [
+        "zero only",
+        "oh (or zero)",
+        "nought",
+        "empty"
+      ],
+      "answer": 1,
+      "explainSi": "'oh' සාමාන්‍ය, 'zero' එකත් හරි."
+    },
+    {
+      "id": "a2-15-q3",
+      "q": "'011 258 4471' හි 'double four' කියන්නේ මොකද්ද?",
+      "options": [
+        "4 සහ 4 වෙනස් තැන් දෙකක",
+        "4, 4 පිළිවෙලින් එකට එන එක",
+        "44 කියන ලොකු ගණන",
+        "4 ක් නැහැ"
+      ],
+      "answer": 1,
+      "explainSi": "එකම ඉලක්කම එකින් එක දෙපාරක් ආවොත් 'double four' කියනවා."
+    },
+    {
+      "id": "a2-15-q4",
+      "q": "'ෆර්නාන්දු මහත්තයාට කථා කරන්න පුළුවන්ද?' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "Could I speak with Mr. Fernando to?",
+        "Could I speak to Mr. Fernando, please?",
+        "Could I to speak Mr. Fernando?",
+        "Can Mr. Fernando speak to me?"
+      ],
+      "answer": 1,
+      "explainSi": "'Could I speak to + නම, please?'",
+      "speak": "Could I speak to Mr. Fernando, please?"
+    },
+    {
+      "id": "a2-15-q5",
+      "q": "'Could I speak to Nadeeka?' — 'ඔව්, මමයි' කියලා නදීකා තමන්ම කියද්දී?",
+      "options": [
+        "I am Nadeeka speaking now.",
+        "Speaking.",
+        "Yes, I am here talking.",
+        "Me."
+      ],
+      "answer": 1,
+      "explainSi": "'Speaking.' තනි වචනයෙන් — ස්ථිර වාක්‍යාංශයක්."
+    },
+    {
+      "id": "a2-15-q6",
+      "q": "'කථා කරන්නේ කවුද?' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "Who is speak?",
+        "Who's calling, please?",
+        "Who talks now?",
+        "What is your name calling?"
+      ],
+      "answer": 1,
+      "explainSi": "'Who's calling, please?' — දුරකථනයෙන් අහන ස්ථිර වාක්‍යය."
+    },
+    {
+      "id": "a2-15-q7",
+      "q": "පණිවිඩයක් ගන්නද කියලා ආචාරශීලීව අහන්නේ කොහොමද?",
+      "options": [
+        "Give me a message.",
+        "Can I take a message?",
+        "You must leave a message.",
+        "Message now."
+      ],
+      "answer": 1,
+      "explainSi": "'Can I take a message?' — ආචාරශීලී, සම්මත වාක්‍යය."
+    },
+    {
+      "id": "a2-15-q8",
+      "q": "'රැස්වීම දහයට කියලා එයාට කියන්නද?' — ඉංග්‍රීසියෙන්?",
+      "options": [
+        "Could you tell him the meeting is at ten?",
+        "Could you tell to him meeting ten?",
+        "Tell please him meeting at ten?",
+        "Could you say him the meeting ten?"
+      ],
+      "answer": 0,
+      "explainSi": "'Could you tell him (that) + වාක්‍යය' — 'that' අත්‍යවශ්‍ය නෑ.",
+      "speak": "Could you tell him the meeting is at ten?"
+    },
+    {
+      "id": "a2-15-q9",
+      "q": "'Can you hear me?' සහ 'You're breaking up' — දෙකෙන්ම කියන්නේ මොකද්ද?",
+      "options": [
+        "දෙකම එකඟතාවයක්",
+        "දෙකම ලයින් එකේ ප්‍රශ්නයක් ගැන",
+        "දෙකම වැරදි අංකයක් ගැන",
+        "දෙකම පණිවිඩයක් තැබීම ගැන"
+      ],
+      "answer": 1,
+      "explainSi": "දෙකම ශබ්දය/සම්බන්ධතාවය හොඳ නැති අවස්ථාවලදී."
+    },
+    {
+      "id": "a2-15-q10",
+      "q": "'wrong number' සහ 'engaged/busy' අතර වෙනස කුමක්ද?",
+      "options": [
+        "වෙනසක් නෑ",
+        "'wrong number' — වැරදි කෙනාට කථා කළා, 'engaged' — ලයින් එක වෙන කෙනෙක් එක්ක",
+        "'engaged' — වැරදි කෙනාට කථා කළා",
+        "'wrong number' — ලයින් එක වෙන කෙනෙක් එක්ක"
+      ],
+      "answer": 1,
+      "explainSi": "'wrong number' ඔබ වැරදුවා, 'engaged' අනිත් කෙනා දැනටමත් කථා කරමින්."
+    },
+    {
+      "id": "a2-15-q11",
+      "context": "Amali's kitchen tap had been leaking for two days. Her neighbour had given her a plumber's number, so she dialled it, expecting to hear a friendly \"Fernando's Plumbing, how can I help?\"",
+      "contextSi": "අමාලීගේ කුස්සියේ ටැප් එක දවස් දෙකක් තිස්සේ කැඩිලා. එයාගේ අසල්වැසියා ප්ලම්බර්ගේ අංකයක් දුන්නා, ඉතින් එයා අංකය ඔබලා, යාළුවෙන් \"Fernando's Plumbing, how can I help?\" කියලා ඇහෙයි කියලා බලාපොරොත්තු වුණා.",
+      "q": "කතාව අනුව: අමාලී ප්ලම්බර්ට කථා කරන්නේ ඇයි?",
+      "options": [
+        "එයාගේ ටැප් එක කැඩිලා",
+        "එයාට වැඩක් ඕන",
+        "එයාගේ අසල්වැසියා කැඩිලා",
+        "එයාට කථා කරන්න වෙන කෙනෙක් නෑ"
+      ],
+      "answer": 0,
+      "explainSi": "'Her kitchen tap had been leaking for two days.'"
+    },
+    {
+      "id": "a2-15-q12",
+      "context": "\"Oh — could I speak to Mr. Fernando, please?\" \"There's no Fernando here. I think you've got the wrong number.\"",
+      "contextSi": "\"ඕ — ෆර්නාන්දු මහත්තයාට කථා කරන්න පුළුවන්ද?\" \"මෙතන ෆර්නාන්දු කෙනෙක් නෑ. ඔබට වැරදි අංකයක් ලැබිලා ඇති.\"",
+      "q": "කතාව අනුව: පළමු කථාවේදී මොකද්ද වුණේ?",
+      "options": [
+        "ෆර්නාන්දු කථාවට පිළිතුරු දුන්නා",
+        "අමාලීට වැරදි අංකයකට කථා වුණා",
+        "ෆර්නාන්දුගේ මිස්ස උත්තර දුන්නා",
+        "ලයින් එක කැඩුනා"
+      ],
+      "answer": 1,
+      "explainSi": "'I think you've got the wrong number.'"
+    },
+    {
+      "id": "a2-15-q13",
+      "context": "\"Oh, I dialled 077 213 4650. I had the last four numbers wrong.\" She dialled again, this time reading each digit out loud as she pressed it.",
+      "contextSi": "\"ඕ, මම ඔබ්බේ 077 213 4650. අන්තිම ඉලක්කම් හතරම වැරදියි.\" ආයෙත් ඔබද්දී, ඔබන එකින් එක ඉලක්කම හඬනගා කියෙව්වා.",
+      "q": "කතාව අනුව: අමාලීගේ මුල් වැරැද්ද මොකක්ද?",
+      "options": [
+        "සම්පූර්ණ අංකයම වැරදියි",
+        "අන්තිම ඉලක්කම් හතර වැරදියි",
+        "එයා අංකයම අමතක කළා",
+        "එයා වැරදි ප්ලම්බර් කෙනෙක්ගේ නම කිව්වා"
+      ],
+      "answer": 1,
+      "explainSi": "'I had the last four numbers wrong.'"
+    },
+    {
+      "id": "a2-15-q14",
+      "context": "\"I'm sorry, my husband's not in right now — he's out on a job. Can I take a message?\" \"Yes, please. Could you tell him my kitchen tap is leaking badly? I need someone tomorrow morning, if possible.\"",
+      "contextSi": "\"සමාවෙන්න, මගේ මහත්තයා දැන් නෑ — වැඩකට ගිහින්. පණිවිඩයක් ගන්නද?\" \"ඔව්, ගන්න. මගේ කුස්සියේ ටැප් එක හොඳටම කැඩෙනවා කියලා එයාට කියන්නද? පුළුවන් නම් හෙට උදේ කවුරුහරි ඕන.\"",
+      "q": "කතාව අනුව: අමාලීගේ පණිවිඩයේ තිබුනේ මොකක්ද?",
+      "options": [
+        "එයාට ආයෙත් කථා කරන්න කියන එක විතරයි",
+        "ටැප් එක කැඩෙන බවත්, හෙට උදේ කෙනෙක් ඕන බවත්",
+        "එයාට ලයින් එකේ ප්‍රශ්නයක් ගැන",
+        "එයාට වැරදි අංකයක් ලැබිච්ච ගැන"
+      ],
+      "answer": 1,
+      "explainSi": "'my kitchen tap is leaking badly. I need someone tomorrow morning.'"
+    },
+    {
+      "id": "a2-15-q15",
+      "context": "\"Of course. Can I get your number, so he can call you back?\" Amali read it out again, digit by digit: \"oh seven seven, two one three, four five six oh.\"",
+      "contextSi": "\"ඇත්තෙන්ම. එයාට ආයෙත් කථා කරන්න ඔබේ අංකය ගන්නද?\" අමාලී ආයෙත්, එකින් එක ඉලක්කම කියෙව්වා: \"oh seven seven, two one three, four five six oh.\"",
+      "q": "කතාව අනුව: ෆර්නාන්දුගේ මිස්ස අමාලීගේ අංකය අහන්නේ ඇයි?",
+      "options": [
+        "ඇගේ අංකය සටහන් කරගන්න",
+        "ෆර්නාන්දුට ආයෙත් කථා කරන්න පුළුවන් වෙන්න",
+        "එයාට වෙන පණිවිඩයක් තියන්න",
+        "අමාලීගේ ලිපිනය දැනගන්න"
+      ],
+      "answer": 1,
+      "explainSi": "'so he can call you back' — කථා කරන්න ආපහු, ඒකට අංකය ඕන."
+    },
+    {
+      "id": "a2-15-q16",
+      "context": "\"Hello, this is Fernando, the plumber — sorry, you're breaking up a little. Can you hear me now?\" \"Yes, much better. Thank you for calling back so quickly!\"",
+      "contextSi": "\"හලෝ, මම ෆර්නාන්දු, ප්ලම්බර් — සමාවෙන්න, ටිකක් පාරවෙනවා. දැන් ඇහෙනවද?\" \"ඔව්, ගොඩක් හොඳයි. ඉක්මනින් කථා කළාට ස්තූතියි!\"",
+      "q": "කතාව අනුව: ෆර්නාන්දු කථා කරද්දී මුලින්ම මොකද්ද ප්‍රශ්නය?",
+      "options": [
+        "එයා වැරදි අංකයකට කථා කළා",
+        "ලයින් එක ටිකක් පාරවෙනවා",
+        "එයා පණිවිඩය අමතක කළා",
+        "අමාලීට ඇහුනේ නෑ"
+      ],
+      "answer": 1,
+      "explainSi": "'sorry, you're breaking up a little. Can you hear me now?'"
+    },
+    {
+      "id": "a2-15-q17",
+      "context": "Ring, and ring, and no reply — / Just a tone that waits, and waits. / Then, at last: \"Hello? Who's calling?\"",
+      "contextSi": "රින්ග්, ආයෙත් රින්ග්, උත්තරයක් නෑ — / බලාපොරොත්තුවෙන් ඉන්න ශබ්දයක් විතරයි. / අන්තිමට: \"හලෝ? කවුද?\"",
+      "q": "කවියේ පළමු කොටසේ, කථකයා බලාපොරොත්තු වෙන්නේ මොකක්ටද?",
+      "options": [
+        "ලයින් එක කැඩෙයි කියලා",
+        "කවුරුහරි උත්තර දෙයි කියලා",
+        "වැරදි අංකයක් ලැබෙයි කියලා",
+        "පණිවිඩයක් තියන්න පුළුවන් වේවි කියලා"
+      ],
+      "answer": 1,
+      "explainSi": "'Ring, and ring, and no reply' — රින්ග් වෙනවා, උත්තරයක් බලාපොරොත්තුවෙන්."
+    },
+    {
+      "id": "a2-15-q18",
+      "context": "\"Can you hear me? You're breaking up.\" / \"Better now — go on, I'm here.\" / A hundred miles, and just this line, / Holding a voice I hold most dear.",
+      "contextSi": "\"ඇහෙනවද? පාරවෙනවා.\" / \"දැන් හොඳයි — කියන්න, මම ඉන්නවා.\" / සීයක් සැතපුම්, තියෙන්නේ මේ ලයින් එක විතරයි, / මට ගොඩක්ම ආදරෙයි හඬක් රඳවගෙන.",
+      "q": "කවියේ අන්තිම කොටසේ, දුරකථන ලයින් එක සංසන්දනය කරන්නේ මොකද්ද?",
+      "options": [
+        "ලයින් එකක් ගැනම ලියලා",
+        "ඈත ඉන්න ආදරණීය කෙනෙක්ගේ හඬ රඳවගෙන ඉන්න එකක් විදිහට",
+        "රටාවක් විදිහට",
+        "ගමන් මගක් විදිහට"
+      ],
+      "answer": 1,
+      "explainSi": "'Holding a voice I hold most dear' — ලයින් එක ආදරණීය හඬක් සම්බන්ධ කරන දෙයක්."
+    },
+    {
+      "id": "a2-15-q19",
+      "context": "Kasun: This is Kasun, from his class. Can I take — sorry, can I leave a message?",
+      "contextSi": "කසුන්: මම කසුන්, එයාගේ පන්තියෙන්. පණිවිඩයක් තියන්න පුළුවන්ද?",
+      "q": "සංවාදයේ: කසුන් මුලින් 'Can I take' කියලා පටන් ගෙන, පස්සේ නවත්තලා 'leave a message' කියලා නිවැරදි කරගන්නේ ඇයි?",
+      "options": [
+        "'take a message' කියන්නේ පණිවිඩයක් දෙන කෙනා, 'leave a message' කියන්නේ පණිවිඩය තියන කෙනා",
+        "වෙනසක් නෑ, එකම දේ",
+        "'take' රළුයි",
+        "එයාට කථා කරන්න බෑ"
+      ],
+      "answer": 0,
+      "explainSi": "පණිවිඩය ලබාගන්න කෙනා 'takes' කරනවා, පණිවිඩය තියන කෙනා 'leaves' කරනවා — කසුන් තමයි පණිවිඩය තියන්නේ."
+    },
+    {
+      "id": "a2-15-q20",
+      "context": "Ruwan's mother: Six instead of five — got it. Can I get your number? / Kasun: Yes — oh seven six, four four one, two two three three.",
+      "contextSi": "රුවන්ගේ අම්මා: පහට නෙවෙයි හයට — තියෙනවා. ඔබේ අංකය ගන්නද? / කසුන්: ඔව් — oh seven six, four four one, two two three three.",
+      "q": "සංවාදයේ: රුවන්ගේ අම්මා කසුන්ගේ අංකය අහන්නේ ඇයි?",
+      "options": [
+        "ලියාගන්න විතරයි",
+        "රුවන්ට ආයෙත් කසුන්ට කථා කරන්න පුළුවන් වෙන්න",
+        "රුවන්ගේ අම්මා කසුන්ට කථා කරන්න",
+        "අධ්‍යයන කණ්ඩායමට ආරාධනා කරන්න"
+      ],
+      "answer": 1,
+      "explainSi": "පණිවිඩ බෙදාගත්තට පස්සේ, ආපහු කථා කරන්න ඕන නම් අංකය ඕන."
+    },
+    {
+      "id": "a2-15-q21",
+      "q": "කුමන වාක්‍යය වැරදිද?",
+      "options": [
+        "Could I speak to Mr. Perera, please?",
+        "Who's calling, please?",
+        "Can I take you a message?",
+        "Sorry, wrong number."
+      ],
+      "answer": 2,
+      "explainSi": "'Can I take a message?' — 'you' අනවශ්‍යයි."
+    },
+    {
+      "id": "a2-15-q22",
+      "q": "'ටිකක් ඉන්න' — දුරකථනයෙන් කියන්නේ කොහොමද?",
+      "options": [
+        "Wait a phone.",
+        "Hold on, please.",
+        "Stop here.",
+        "Speaking, please."
+      ],
+      "answer": 1,
+      "explainSi": "'Hold on, please.' — ස්ථිර වාක්‍යාංශය.",
+      "speak": "Hold on, please."
+    }
+  ]
+}

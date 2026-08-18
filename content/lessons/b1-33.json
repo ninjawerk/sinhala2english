@@ -1,0 +1,776 @@
+{
+  "goalsSi": [
+    "must, have to, need to, ought to — බැඳීමේ මට්ටම්",
+    "mustn't සහ don't have to අතර භයානක වෙනස",
+    "must සහ have to අතර වෙනස — කාගේ නීතියද",
+    "අතීතයට had to",
+    "should ought to සහ 'd better",
+    "නීතියක් ආචාරශීලීව කියන එක"
+  ],
+  "goals": [
+    "Grade obligation with must, have to, need to and ought to",
+    "Tell mustn't from don't have to",
+    "Know whose rule it is: must or have to",
+    "Use had to for the past",
+    "Use ought to and had better",
+    "State a rule politely"
+  ],
+  "sections": [
+    {
+      "type": "note",
+      "title": "The most expensive mistake in this unit",
+      "titleSi": "මේ ඒකකයේ මිල අධිකම වැරැද්ද",
+      "bodySi": "b1-05 හි ඉගෙන ගත්තා can, should, must. දැන් ඉතුරු ටික — සහ ඉංග්‍රීසියේ භයානකම වැරදිවලින් එකක්.\n\nමේ දෙක බලන්න:\n\n'You mustn't take this medicine.' — මේ බෙහෙත ගන්න එපා. තහනම්.\n'You don't have to take this medicine.' — ගන්නම ඕන නෑ. කැමති නම් ගන්න.\n\nදෙක සම්පූර්ණයෙන්ම විරුද්ධයි.\n\nසිංහලෙන් දෙකටම 'ඕන නෑ' කියලා කියන්න පුළුවන් නිසා මේක ලංකාවේ අය නිතරම පටලවනවා. බෙහෙතක්, යන්ත්‍රයක්, ආරක්ෂක උපදෙසක් ගැන නම් මේ වැරැද්ද අන්තරාදායකයි.\n\nmustn't = තහනම්.\ndon't have to = අවශ්‍ය නෑ.\n\nමේක මතක තියාගන්න පුළුවන් නම් මේ පාඩමෙන් වැදගත්ම දේ ඉගෙන ගත්තා.",
+      "body": "mustn't is forbidden; don't have to is not necessary. They are opposites, and Sinhala can render both as ඕන නෑ — which is why this one matters."
+    },
+    {
+      "type": "grammar",
+      "title": "must, have to, need to",
+      "titleSi": "must, have to, need to",
+      "explainSi": "තුනම බැඳීමක් කියනවා. වෙනස තියෙන්නේ කාගේ නීතියද කියන එකේ.\n\nmust — කියන කෙනාගේම හැඟීම. ඇතුළෙන් එන බැඳීමක්.\n'I must lose some weight before the wedding.' — මම හිතන දෙයක්.\n\nhave to — පිටතින් එන නීතියක්. වෙන කවුරු හරි තීරණය කරලා.\n'I have to wear a uniform at work.' — ඔෆිස් එකේ නීතියක්.\n\nකථාවේදී මේ වෙනස ලිහිල්. 'have to' බහුලයි — 'must' ටිකක් විධිමත් සහ තදයි.\n\nලිඛිත නීතිවලට 'must' යෙදෙනවා:\n'Passengers must not put their feet on the seats.'\n'Applicants must be over eighteen.'\n\nneed to — අවශ්‍යතාවක්. මෘදුයි.\n'I need to get back to work.'\n'Do we need to buy tickets before we get on?'\n\nහැදෙන විදිහ:\n- must — modal එකක්. ඊට පස්සේ මූලික ක්‍රියාව. -s නෑ, to නෑ.\n- have to / need to — සාමාන්‍ය ක්‍රියා. he/she එක්ක has to / needs to, සහ ප්‍රශ්නවලට do:\n  'Does he have to come?' ✓ ('Has he to come?' පරණයි)\n  'Do I need to sign this?' ✓",
+      "explain": "must is your own sense of obligation, have to is a rule from outside, need to is a requirement. In speech have to is by far the commonest.",
+      "formula": "must + මූලික ක්‍රියාව  ·  have/has to + මූලික ක්‍රියාව  ·  need/needs to",
+      "table": {
+        "headers": [
+          "යෙදුම",
+          "කාගේ නීතියද",
+          "උදාහරණය"
+        ],
+        "rows": [
+          [
+            "must",
+            "මගේම හැඟීම",
+            "I must call my mother."
+          ],
+          [
+            "have to",
+            "පිටතින් නීතියක්",
+            "I have to wear a uniform."
+          ],
+          [
+            "need to",
+            "අවශ්‍යතාවක්",
+            "I need to leave by six."
+          ],
+          [
+            "must (ලිඛිත)",
+            "නිල නීතියක්",
+            "Passengers must not smoke."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "I have to be at the clinic by eight, so I must leave now.",
+          "si": "අටට සායනයේ ඉන්න ඕන, ඒ නිසා මම දැන් යන්න ඕන."
+        },
+        {
+          "en": "Do we need to book, or can we just turn up?",
+          "si": "වෙන් කරන්න ඕනද, නැත්නම් හුදෙක් යන්න පුළුවන්ද?"
+        },
+        {
+          "en": "Does she have to work on Saturdays?",
+          "si": "සෙනසුරාදාට ඇයට වැඩ කරන්න වෙනවාද?"
+        }
+      ],
+      "watchOutSi": "'Must' එකට අතීතයක් නෑ. අතීතයට had to යොදනවා: 'I had to wait two hours' ✓ ('I musted' ✗). අනාගතයටත් 'will have to'."
+    },
+    {
+      "type": "grammar",
+      "title": "mustn't and don't have to",
+      "titleSi": "mustn't සහ don't have to",
+      "explainSi": "මේ පාඩමේ හදවත. හෙමින් කියවන්න.\n\nmustn't = කරන්න එපා. තහනම්. නීතියෙන් හෝ ආරක්ෂාවෙන්.\n'You mustn't park here.' — මෙතන පාක් කරන්න බෑ. දඩ ගහයි.\n'You mustn't tell anyone.' — කාටවත් කියන්න එපා.\n'Passengers must not put their feet on the seats.'\n\ndon't have to = කරන්නම ඕන නෑ. තේරීම ඔයාට.\n'You don't have to park here — there's space round the corner.' — මෙතන පාක් කරන්නම ඕන නෑ.\n'You don't have to come if you're tired.' — මහන්සි නම් එන්නම ඕන නෑ.\n\nවෙනස පැහැදිලි කරන උදාහරණයක්:\n\n'You mustn't wear a uniform.' — නිල ඇඳුම අඳින්න තහනම්.\n'You don't have to wear a uniform.' — නිල ඇඳුම අඳින්නම ඕන නෑ, කැමති නම් අඳින්න.\n\nඑකම වචන දෙකක වෙනසක්, සම්පූර්ණයෙන්ම විරුද්ධ අර්ථ දෙකක්.\n\n'need' එකටත් එහෙමයි:\n'You needn't come.' = 'You don't have to come.' — අවශ්‍ය නෑ.\n\nඒ නිසා must එකේ නැහැ පැත්ත don't have to නෙවෙයි. ඒක mustn't — සහ ඒකේ අර්ථය සම්පූර්ණයෙන්ම වෙනස්.",
+      "explain": "mustn't forbids. don't have to releases. Same shape, opposite meanings — and this is the one to get right on anything involving safety.",
+      "formula": "mustn't = තහනම්  ·  don't have to / needn't = අවශ්‍ය නෑ",
+      "table": {
+        "headers": [
+          "වාක්‍යය",
+          "අර්ථය"
+        ],
+        "rows": [
+          [
+            "You mustn't take it.",
+            "ගන්න එපා — තහනම්"
+          ],
+          [
+            "You don't have to take it.",
+            "ගන්නම ඕන නෑ — තේරීම ඔයාට"
+          ],
+          [
+            "You mustn't be late.",
+            "පරක්කු වෙන්න බෑ"
+          ],
+          [
+            "You don't have to be early.",
+            "කලින් එන්නම ඕන නෑ"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "You mustn't smoke in here, but you don't have to go outside — there's a balcony.",
+          "si": "මෙතන දුම් බොන්න බෑ, ඒත් එළියට යන්නම ඕන නෑ — බැල්කනියක් තියෙනවා."
+        },
+        {
+          "en": "You don't have to answer that question.",
+          "si": "ඒ ප්‍රශ්නයට උත්තර දෙන්නම ඕන නෑ."
+        },
+        {
+          "en": "Children mustn't use this machine.",
+          "si": "ළමයි මේ යන්ත්‍රය පාවිච්චි කරන්න බෑ."
+        }
+      ],
+      "watchOutSi": "බෙහෙත්, යන්ත්‍ර, ආරක්ෂාව ගැන කථා කරනකොට මේක තහවුරු කරගන්න. 'You don't have to take this medicine' කියලා අහගෙන 'ගන්න එපා' කියලා තේරුම් ගත්තොත් ඒක අන්තරාදායකයි."
+    },
+    {
+      "type": "grammar",
+      "title": "ought to, had better, should",
+      "titleSi": "ought to, had better, should",
+      "explainSi": "මේ තුන උපදෙස් — බැඳීම නෙවෙයි.\n\nshould — සාමාන්‍ය උපදෙස. බහුලම එක. (b1-05)\n'You should see a doctor.'\n\nought to — 'should' එකට සමානයි, ටිකක් විධිමත් සහ පරණයි. හරි වැරැද්ද ගැන අදහසක් තියෙනවා.\n'You ought to tell her the truth.'\n'I ought to phone my parents more often.'\n\nහැදෙන විදිහ: ought + to + ක්‍රියාව. ඒක modal එකක් වුණත් 'to' එකක් තියෙනවා — ඒක අමුතුයි, ඒත් එහෙමයි.\nනැහැ කියන එක අඩුයි: 'oughtn't to' — කථාවේ දුර්ලභයි. 'shouldn't' යොදන එක ස්වාභාවිකයි.\n\nhad better ('d better) — උපදෙසක්, ඒත් අවවාදයක් සමඟ. නොකළොත් නරක දෙයක් වෙනවා.\n'You'd better leave now, or you'll miss the train.'\n'We'd better not be late.'\n\nහැදෙන විදිහ: had better + මූලික ක්‍රියාව (to නෑ). නැහැ: had better not.\n\n'had' කියලා තිබුණත් ඒක අතීතය නෙවෙයි — වර්තමානය සහ අනාගතය ගැනයි.\n\nතරම් පිළිවෙළ:\ncould (යෝජනාව) → should / ought to (උපදෙස) → had better (අවවාදය) → have to / must (බැඳීම)",
+      "explain": "should and ought to advise; had better warns of a consequence. ought takes to; had better does not.",
+      "formula": "ought to + ක්‍රියාව  ·  had better + ක්‍රියාව (to නෑ)",
+      "table": {
+        "headers": [
+          "යෙදුම",
+          "තරම",
+          "උදාහරණය"
+        ],
+        "rows": [
+          [
+            "could",
+            "යෝජනාව",
+            "You could ask her."
+          ],
+          [
+            "should / ought to",
+            "උපදෙස",
+            "You should ask her."
+          ],
+          [
+            "had better",
+            "අවවාදය",
+            "You'd better ask her."
+          ],
+          [
+            "have to / must",
+            "බැඳීම",
+            "You have to ask her."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "You'd better take an umbrella — the forecast is bad.",
+          "si": "කුඩේ අරන් යන එක හොඳයි — අනාවැකිය නරකයි."
+        },
+        {
+          "en": "I ought to write and thank them, but I keep putting it off.",
+          "si": "ලියලා ස්තූති කරන්න ඕන, ඒත් මම කල් දාගෙන යනවා."
+        },
+        {
+          "en": "We'd better not tell him until Monday.",
+          "si": "සඳුදා වෙනකම් එයාට කියන්නේ නැති එක හොඳයි."
+        }
+      ],
+      "watchOutSi": "'had better' එකට 'to' යෙදෙන්නේ නෑ: 'You'd better to go' ✗ — 'You'd better go' ✓. ඒත් 'ought' එකට 'to' ඕන: 'You ought go' ✗ — 'You ought to go' ✓."
+    },
+    {
+      "type": "vocab",
+      "title": "Rules and advice",
+      "titleSi": "නීති සහ උපදෙස්",
+      "introSi": "බැඳීමේ මට්ටම් සහ ඒවා කියන වචන.",
+      "items": [
+        {
+          "en": "must",
+          "si": "අනිවාර්යයෙන් ඕන",
+          "say": "මස්ට්",
+          "exampleEn": "I must call her today.",
+          "exampleSi": "අද මම ඇයට කතා කරන්නම ඕන."
+        },
+        {
+          "en": "mustn't",
+          "si": "කරන්න එපා (තහනම්)",
+          "say": "මස්න්ට්",
+          "exampleEn": "You mustn't park here.",
+          "exampleSi": "මෙතන පාක් කරන්න බෑ."
+        },
+        {
+          "en": "have to",
+          "si": "කරන්න වෙනවා",
+          "say": "හෑව් ටු",
+          "exampleEn": "I have to work late.",
+          "exampleSi": "මට පරක්කු වෙනකම් වැඩ කරන්න වෙනවා."
+        },
+        {
+          "en": "don't have to",
+          "si": "කරන්නම ඕන නෑ",
+          "say": "ඩෝන්ට් හෑව් ටු",
+          "exampleEn": "You don't have to come.",
+          "exampleSi": "එන්නම ඕන නෑ."
+        },
+        {
+          "en": "had to",
+          "si": "කරන්න වුණා (අතීතය)",
+          "say": "හෑඩ් ටු",
+          "exampleEn": "I had to wait two hours.",
+          "exampleSi": "මට පැය දෙකක් ඉන්න වුණා."
+        },
+        {
+          "en": "need to",
+          "si": "අවශ්‍යයි",
+          "say": "නීඩ් ටු",
+          "exampleEn": "I need to leave by six.",
+          "exampleSi": "හයට යන්න ඕන."
+        },
+        {
+          "en": "needn't",
+          "si": "අවශ්‍ය නෑ",
+          "say": "නීඩ්න්ට්",
+          "exampleEn": "You needn't wait.",
+          "exampleSi": "බලාගෙන ඉන්න ඕන නෑ."
+        },
+        {
+          "en": "ought to",
+          "si": "කරන්න ඕන (උපදෙස)",
+          "say": "ඕට් ටු",
+          "exampleEn": "You ought to tell her.",
+          "exampleSi": "ඔයා ඇයට කියන්න ඕන."
+        },
+        {
+          "en": "had better",
+          "si": "කරන එක හොඳයි (අවවාදය)",
+          "say": "හෑඩ් බෙටර්",
+          "exampleEn": "You'd better hurry.",
+          "exampleSi": "ඉක්මන් කරන එක හොඳයි."
+        },
+        {
+          "en": "allowed to",
+          "si": "අවසර තියෙනවා",
+          "say": "අලවුඩ් ටු",
+          "exampleEn": "You're not allowed to park here.",
+          "exampleSi": "මෙතන පාක් කරන්න අවසර නෑ."
+        },
+        {
+          "en": "supposed to",
+          "si": "කරන්න ඕන කියලා",
+          "say": "සපෝස්ඩ් ටු",
+          "exampleEn": "We're supposed to be there at eight.",
+          "exampleSi": "අටට එහෙ ඉන්න ඕන කියලා."
+        },
+        {
+          "en": "rule",
+          "si": "නීතිය",
+          "say": "රූල්",
+          "exampleEn": "It's a rule, not a suggestion.",
+          "exampleSi": "ඒක නීතියක්, යෝජනාවක් නෙවෙයි."
+        },
+        {
+          "en": "forbidden",
+          "si": "තහනම්",
+          "say": "ෆබිඩන්",
+          "exampleEn": "Smoking is forbidden.",
+          "exampleSi": "දුම් බීම තහනම්."
+        },
+        {
+          "en": "compulsory",
+          "si": "අනිවාර්ය",
+          "say": "කම්පල්සරි",
+          "exampleEn": "Attendance is compulsory.",
+          "exampleSi": "පැමිණීම අනිවාර්යයි."
+        },
+        {
+          "en": "optional",
+          "si": "කැමති නම්",
+          "say": "ඔප්ෂනල්",
+          "exampleEn": "The second part is optional.",
+          "exampleSi": "දෙවෙනි කොටස කැමති නම් විතරයි."
+        },
+        {
+          "en": "deadline",
+          "si": "අවසන් දිනය",
+          "say": "ඩෙඩ්ලයින්",
+          "exampleEn": "The deadline is Friday.",
+          "exampleSi": "අවසන් දිනය සිකුරාදා."
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "Do I have to?",
+      "titleSi": "කරන්නම ඕනද?",
+      "settingSi": "අලුත් රැකියාවක පළවෙනි දවස. නීති කියන ක්‍රම කීයක් තියෙනවාද?",
+      "lines": [
+        {
+          "speaker": "Nadeesha",
+          "en": "Do I have to wear a uniform?",
+          "si": "නිල ඇඳුමක් අඳින්නම ඕනද?"
+        },
+        {
+          "speaker": "Ruwan",
+          "en": "You don't have to. Most people wear their own clothes.",
+          "si": "අඳින්නම ඕන නෑ. බොහෝ දෙනා තමන්ගේ ඇඳුම් අඳිනවා."
+        },
+        {
+          "speaker": "Nadeesha",
+          "en": "And the security badge?",
+          "si": "ආරක්ෂක බැජ් එක?"
+        },
+        {
+          "speaker": "Ruwan",
+          "en": "That one you must wear. And you mustn't lend it to anyone.",
+          "si": "ඒක අනිවාර්යයෙන් පළඳින්න ඕන. සහ ඒක කාටවත් දෙන්න බෑ."
+        },
+        {
+          "speaker": "Nadeesha",
+          "en": "Understood. What time am I supposed to start?",
+          "si": "තේරුණා. මම පටන් ගන්න ඕන කීයටද?"
+        },
+        {
+          "speaker": "Ruwan",
+          "en": "Half eight. You'd better be early on the first day, though.",
+          "si": "අට හමාරට. ඒත් පළවෙනි දවසේ කලින් එන එක හොඳයි."
+        },
+        {
+          "speaker": "Nadeesha",
+          "en": "I ought to bring my documents too, shouldn't I?",
+          "si": "ලියකියවිලිත් ගේන්න ඕන නේද?"
+        },
+        {
+          "speaker": "Ruwan",
+          "en": "You needn't — HR has copies. But bring your bank details.",
+          "si": "ඕන නෑ — HR ළඟ පිටපත් තියෙනවා. ඒත් බැංකු විස්තර ගේන්න."
+        }
+      ]
+    },
+    {
+      "type": "story",
+      "title": "The sign that said the wrong thing",
+      "titleSi": "වැරදි දේ කියපු දැන්වීම",
+      "introSi": "mustn't සහ don't have to අතර වෙනස ගැන කෙටි කතාවක්.",
+      "paragraphs": [
+        {
+          "en": "The new clinic printed a notice for its waiting room: \"Patients don't have to eat before the blood test.\"",
+          "si": "අලුත් සායනය බලා සිටින කාමරයට දැන්වීමක් මුද්‍රණය කළා: \"Patients don't have to eat before the blood test.\""
+        },
+        {
+          "en": "What they meant was that eating would ruin the test. What they wrote was that eating is optional.",
+          "si": "ඒගොල්ලෝ අදහස් කළේ කෑවොත් පරීක්ෂණය නරක් වෙනවා කියලා. ලිව්වේ කෑම කැමති නම් කියලා."
+        },
+        {
+          "en": "Four people ate breakfast that week and had to come back on another day. One of them had travelled from Matara.",
+          "si": "ඒ සතියේ හතර දෙනෙක් උදේ කෑම කාලා ආවා, ආපහු වෙන දවසක එන්න වුණා. ඒගොල්ලන්ගෙන් එක්කෙනෙක් ආවේ මාතරින්."
+        },
+        {
+          "en": "The sign now says: \"You must not eat for eight hours before the test.\" Two words changed. Nobody has come back since.",
+          "si": "දැන් දැන්වීමේ තියෙන්නේ: \"You must not eat for eight hours before the test.\" වචන දෙකක් වෙනස් වුණා. එදා ඉඳන් කවුරුවත් ආපහු එන්න වෙලා නෑ."
+        }
+      ],
+      "glossary": [
+        {
+          "en": "notice",
+          "si": "දැන්වීම"
+        },
+        {
+          "en": "blood test",
+          "si": "රුධිර පරීක්ෂණය"
+        },
+        {
+          "en": "ruin",
+          "si": "නරක් කරනවා"
+        },
+        {
+          "en": "optional",
+          "si": "කැමති නම්"
+        }
+      ],
+      "questionsSi": [
+        "දැන්වීමේ තිබුණු වැරැද්ද මොකක්ද?",
+        "ඒක නිසා මොකද වුණේ?",
+        "හරි වාක්‍යය මොකක්ද?"
+      ]
+    },
+    {
+      "type": "tip",
+      "title": "Two words, opposite meanings",
+      "titleSi": "වචන දෙකක්, විරුද්ධ අර්ථ",
+      "bodySi": "mustn't = කරන්න එපා. තහනම්.\ndon't have to = කරන්නම ඕන නෑ. තේරීම ඔයාට.\n\n'You mustn't tell him.' — කියන්න එපා.\n'You don't have to tell him.' — කියන්නම ඕන නෑ.\n\nපරීක්ෂාව: 'තහනම්ද, නැත්නම් අවශ්‍ය නැද්ද?'\nතහනම් නම් — mustn't.\nඅවශ්‍ය නෑ නම් — don't have to / needn't.\n\nඑකම දේ ලියන එකේදී තව වැදගත්. දැන්වීමක්, උපදෙසක්, බෙහෙත් වට්ටෝරුවක් ලියනවා නම් — දෙපාරක් කියවලා බලන්න.",
+      "body": "Forbidden or unnecessary? mustn't for the first, don't have to for the second. On a notice or a prescription, read it twice."
+    },
+    {
+      "type": "practice",
+      "title": "Forbidden or unnecessary?",
+      "titleSi": "තහනම්ද, අවශ්‍ය නැද්ද?",
+      "instructionSi": "අර්ථය කියවලා mustn't නැත්නම් don't have to දාන්න.",
+      "items": [
+        {
+          "prompt": "You ___ smoke in the hospital. (තහනම්)",
+          "answer": "mustn't",
+          "hintSi": "නීතියෙන් තහනම්.",
+          "full": "You mustn't smoke in the hospital."
+        },
+        {
+          "prompt": "You ___ come if you're busy. (අවශ්‍ය නෑ)",
+          "answer": "don't have to",
+          "hintSi": "තේරීම ඔයාට.",
+          "full": "You don't have to come if you're busy."
+        },
+        {
+          "prompt": "Children ___ use this machine. (තහනම්)",
+          "answer": "mustn't",
+          "hintSi": "ආරක්ෂාව.",
+          "full": "Children mustn't use this machine."
+        },
+        {
+          "prompt": "We ___ book — there's always space. (අවශ්‍ය නෑ)",
+          "answer": "don't have to",
+          "hintSi": "ඕන නම් කරන්න පුළුවන්.",
+          "full": "We don't have to book — there's always space."
+        },
+        {
+          "prompt": "I ___ wait two hours at the clinic yesterday. (අතීත බැඳීම)",
+          "answer": "had to",
+          "hintSi": "'must' එකට අතීතයක් නෑ.",
+          "full": "I had to wait two hours at the clinic yesterday."
+        },
+        {
+          "prompt": "You'd ___ leave now, or you'll miss it. (අවවාදය)",
+          "answer": "better",
+          "hintSi": "'had better' — to නෑ.",
+          "full": "You'd better leave now, or you'll miss it."
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "b1-33-q1",
+      "q": "'You mustn't take this medicine' කියන්නේ?",
+      "options": [
+        "ගන්නම ඕන නෑ",
+        "ගන්න එපා — තහනම්",
+        "ගන්න පුළුවන්",
+        "ගන්න ඕන"
+      ],
+      "answer": 1,
+      "explainSi": "mustn't = තහනම්."
+    },
+    {
+      "id": "b1-33-q2",
+      "q": "'You don't have to take this medicine' කියන්නේ?",
+      "options": [
+        "ගන්න එපා",
+        "ගන්නම ඕන නෑ — තේරීම ඔයාට",
+        "අනිවාර්යයෙන් ගන්න",
+        "තහනම්"
+      ],
+      "answer": 1,
+      "explainSi": "අවශ්‍ය නෑ — විරුද්ධ අර්ථය."
+    },
+    {
+      "id": "b1-33-q3",
+      "q": "මේ දෙක ලංකාවේ අය පටලවන්නේ ඇයි?",
+      "options": [
+        "ඒවා දිගයි",
+        "සිංහලෙන් දෙකටම 'ඕන නෑ' කියන්න පුළුවන්",
+        "ඒවා අලුත් නිසා",
+        "ඒවා එකම වචන නිසා"
+      ],
+      "answer": 1,
+      "explainSi": "බෙහෙත් හෝ ආරක්ෂාව ගැන නම් මේක අන්තරාදායකයි."
+    },
+    {
+      "id": "b1-33-q4",
+      "q": "'must' සහ 'have to' අතර වෙනස?",
+      "options": [
+        "වෙනසක් නෑ",
+        "must මගේම හැඟීම; have to පිටතින් නීතියක්",
+        "have to විධිමත්",
+        "must අතීතය"
+      ],
+      "answer": 1,
+      "explainSi": "කථාවේදී වෙනස ලිහිල් — 'have to' බහුලයි."
+    },
+    {
+      "id": "b1-33-q5",
+      "q": "'must' එකේ අතීතය?",
+      "options": [
+        "musted",
+        "had to",
+        "must have",
+        "was must"
+      ],
+      "answer": 1,
+      "explainSi": "'I had to wait two hours.'"
+    },
+    {
+      "id": "b1-33-q6",
+      "q": "'ought' එකට පස්සේ එන්නේ?",
+      "options": [
+        "මූලික ක්‍රියාව",
+        "to + ක්‍රියාව",
+        "-ing",
+        "past participle"
+      ],
+      "answer": 1,
+      "explainSi": "'You ought to tell her.' — modal එකක් වුණත් 'to' තියෙනවා."
+    },
+    {
+      "id": "b1-33-q7",
+      "q": "'had better' එකට පස්සේ එන්නේ?",
+      "options": [
+        "to + ක්‍රියාව",
+        "මූලික ක්‍රියාව",
+        "-ing",
+        "past participle"
+      ],
+      "answer": 1,
+      "explainSi": "'You'd better go' ✓, 'You'd better to go' ✗."
+    },
+    {
+      "id": "b1-33-q8",
+      "q": "'had better' කියන එකේ රසය?",
+      "options": [
+        "මෘදු යෝජනාවක්",
+        "උපදෙසක් — නොකළොත් නරක දෙයක් වෙනවා",
+        "නියෝගයක්",
+        "අවසරයක්"
+      ],
+      "answer": 1,
+      "explainSi": "අවවාදයක් තියෙනවා."
+    },
+    {
+      "id": "b1-33-q9",
+      "q": "'had better' අතීතය ගැනද?",
+      "options": [
+        "ඔව්, 'had' නිසා",
+        "නෑ — වර්තමානය සහ අනාගතය ගැන",
+        "ඔව්, හැමවිටම",
+        "ප්‍රශ්නවලට විතරයි"
+      ],
+      "answer": 1,
+      "explainSi": "'had' කියලා තිබුණත් ඒක අතීතය නෙවෙයි."
+    },
+    {
+      "id": "b1-33-q10",
+      "q": "'Does he have to come?' — මේක හරිද?",
+      "options": [
+        "නෑ, 'Has he to come?' කියන්න",
+        "ඔව් — 'have to' සාමාන්‍ය ක්‍රියාවක්, ඒ නිසා 'do'",
+        "නෑ, 'Must he come?' විතරයි හරි",
+        "නෑ, ප්‍රශ්නයක් හදන්න බෑ"
+      ],
+      "answer": 1,
+      "explainSi": "'has to' → 'Does he have to…?'"
+    },
+    {
+      "id": "b1-33-q11",
+      "q": "'needn't' කියන්නේ?",
+      "options": [
+        "තහනම්",
+        "අවශ්‍ය නෑ — 'don't have to' වගේ",
+        "අනිවාර්යයි",
+        "පුළුවන්"
+      ],
+      "answer": 1,
+      "explainSi": "'You needn't wait.'"
+    },
+    {
+      "id": "b1-33-q12",
+      "q": "තරම අනුව අඩුම එක?",
+      "options": [
+        "must",
+        "have to",
+        "could",
+        "had better"
+      ],
+      "answer": 2,
+      "explainSi": "could (යෝජනාව) → should → had better → have to/must."
+    },
+    {
+      "id": "b1-33-q13",
+      "q": "ලිඛිත නීතියකට යෙදෙන්නේ?",
+      "options": [
+        "You'd better not smoke.",
+        "Passengers must not smoke.",
+        "You needn't smoke.",
+        "You could not smoke."
+      ],
+      "answer": 1,
+      "explainSi": "නිල දැන්වීම්වලට 'must not'."
+    },
+    {
+      "id": "b1-33-q14",
+      "q": "'You mustn't wear a uniform' කියන්නේ?",
+      "options": [
+        "අඳින්නම ඕන නෑ",
+        "අඳින්න තහනම්",
+        "අඳින්න ඕන",
+        "අඳින්න පුළුවන්"
+      ],
+      "answer": 1,
+      "explainSi": "'don't have to' නම් අඳින්නම ඕන නෑ."
+    },
+    {
+      "id": "b1-33-q15",
+      "q": "'I ___ wait two hours yesterday.'",
+      "options": [
+        "must",
+        "had to",
+        "have to",
+        "mustn't"
+      ],
+      "answer": 1,
+      "explainSi": "අතීත බැඳීමකට 'had to'."
+    },
+    {
+      "id": "b1-33-q16",
+      "q": "'supposed to' කියන්නේ?",
+      "options": [
+        "තහනම්",
+        "කරන්න ඕන කියලා — බලාපොරොත්තුවක්",
+        "අවශ්‍ය නෑ",
+        "පුළුවන්"
+      ],
+      "answer": 1,
+      "explainSi": "'We're supposed to be there at eight.'"
+    },
+    {
+      "id": "b1-33-q17",
+      "q": "'ought to' සහ 'should' අතර වෙනස?",
+      "options": [
+        "අර්ථ දෙකක්",
+        "ඉතාම පොඩි — 'ought to' ටිකක් විධිමත්",
+        "'ought to' බැඳීමක්",
+        "'should' වැරදියි"
+      ],
+      "answer": 1,
+      "explainSi": "දෙකම උපදෙස්."
+    },
+    {
+      "id": "b1-33-q18",
+      "q": "දැන්වීමක් ලියනකොට වැදගත්ම පරීක්ෂාව?",
+      "options": [
+        "දිග",
+        "තහනම්ද, නැත්නම් අවශ්‍ය නැද්ද?",
+        "වචන ගාන",
+        "අකුරු ප්‍රමාණය"
+      ],
+      "answer": 1,
+      "explainSi": "තහනම් නම් mustn't; අවශ්‍ය නෑ නම් don't have to."
+    }
+  ],
+  "vocab": [
+    {
+      "en": "must",
+      "si": "අනිවාර්යයෙන් ඕන",
+      "say": "මස්ට්",
+      "exampleEn": "I must call her today.",
+      "exampleSi": "අද මම ඇයට කතා කරන්නම ඕන."
+    },
+    {
+      "en": "mustn't",
+      "si": "කරන්න එපා (තහනම්)",
+      "say": "මස්න්ට්",
+      "exampleEn": "You mustn't park here.",
+      "exampleSi": "මෙතන පාක් කරන්න බෑ."
+    },
+    {
+      "en": "have to",
+      "si": "කරන්න වෙනවා",
+      "say": "හෑව් ටු",
+      "exampleEn": "I have to work late.",
+      "exampleSi": "මට පරක්කු වෙනකම් වැඩ කරන්න වෙනවා."
+    },
+    {
+      "en": "don't have to",
+      "si": "කරන්නම ඕන නෑ",
+      "say": "ඩෝන්ට් හෑව් ටු",
+      "exampleEn": "You don't have to come.",
+      "exampleSi": "එන්නම ඕන නෑ."
+    },
+    {
+      "en": "had to",
+      "si": "කරන්න වුණා (අතීතය)",
+      "say": "හෑඩ් ටු",
+      "exampleEn": "I had to wait two hours.",
+      "exampleSi": "මට පැය දෙකක් ඉන්න වුණා."
+    },
+    {
+      "en": "need to",
+      "si": "අවශ්‍යයි",
+      "say": "නීඩ් ටු",
+      "exampleEn": "I need to leave by six.",
+      "exampleSi": "හයට යන්න ඕන."
+    },
+    {
+      "en": "needn't",
+      "si": "අවශ්‍ය නෑ",
+      "say": "නීඩ්න්ට්",
+      "exampleEn": "You needn't wait.",
+      "exampleSi": "බලාගෙන ඉන්න ඕන නෑ."
+    },
+    {
+      "en": "ought to",
+      "si": "කරන්න ඕන (උපදෙස)",
+      "say": "ඕට් ටු",
+      "exampleEn": "You ought to tell her.",
+      "exampleSi": "ඔයා ඇයට කියන්න ඕන."
+    },
+    {
+      "en": "had better",
+      "si": "කරන එක හොඳයි (අවවාදය)",
+      "say": "හෑඩ් බෙටර්",
+      "exampleEn": "You'd better hurry.",
+      "exampleSi": "ඉක්මන් කරන එක හොඳයි."
+    },
+    {
+      "en": "allowed to",
+      "si": "අවසර තියෙනවා",
+      "say": "අලවුඩ් ටු",
+      "exampleEn": "You're not allowed to park here.",
+      "exampleSi": "මෙතන පාක් කරන්න අවසර නෑ."
+    },
+    {
+      "en": "supposed to",
+      "si": "කරන්න ඕන කියලා",
+      "say": "සපෝස්ඩ් ටු",
+      "exampleEn": "We're supposed to be there at eight.",
+      "exampleSi": "අටට එහෙ ඉන්න ඕන කියලා."
+    },
+    {
+      "en": "rule",
+      "si": "නීතිය",
+      "say": "රූල්",
+      "exampleEn": "It's a rule, not a suggestion.",
+      "exampleSi": "ඒක නීතියක්, යෝජනාවක් නෙවෙයි."
+    },
+    {
+      "en": "forbidden",
+      "si": "තහනම්",
+      "say": "ෆබිඩන්",
+      "exampleEn": "Smoking is forbidden.",
+      "exampleSi": "දුම් බීම තහනම්."
+    },
+    {
+      "en": "compulsory",
+      "si": "අනිවාර්ය",
+      "say": "කම්පල්සරි",
+      "exampleEn": "Attendance is compulsory.",
+      "exampleSi": "පැමිණීම අනිවාර්යයි."
+    },
+    {
+      "en": "optional",
+      "si": "කැමති නම්",
+      "say": "ඔප්ෂනල්",
+      "exampleEn": "The second part is optional.",
+      "exampleSi": "දෙවෙනි කොටස කැමති නම් විතරයි."
+    },
+    {
+      "en": "deadline",
+      "si": "අවසන් දිනය",
+      "say": "ඩෙඩ්ලයින්",
+      "exampleEn": "The deadline is Friday.",
+      "exampleSi": "අවසන් දිනය සිකුරාදා."
+    }
+  ]
+}

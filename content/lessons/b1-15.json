@@ -1,0 +1,770 @@
+{
+  "hero": {
+    "src": "images/b1-15-hero.webp",
+    "alt": "Nadeesha sitting at a kitchen table checking the weather forecast on her phone, a cup and an open book in front of her, a wide window behind."
+  },
+  "goalsSi": [
+    "might සහ may යොදලා 'වෙන්නත් පුළුවන්' කියන්න",
+    "will probably සහ probably won't",
+    "maybe සහ might අතර වෙනස",
+    "නිශ්චිතභාවයේ මට්ටම් පිළිවෙළට තේරුම් ගන්න",
+    "'probably' වාක්‍යයේ තියෙන්නේ කොහෙද කියන එක",
+    "නිශ්චිත නැති උත්තරයක් ආචාරශීලීව දෙන්න"
+  ],
+  "goals": [
+    "Use might and may for possibility",
+    "Use will probably and probably won't",
+    "Tell maybe and might apart",
+    "Rank degrees of certainty",
+    "Place probably correctly",
+    "Give a polite, uncommitted answer"
+  ],
+  "sections": [
+    {
+      "type": "note",
+      "title": "Not everything is yes or no",
+      "titleSi": "හැම දෙයක්ම ඔව් නැත්නම් නෑ නෙවෙයි",
+      "bodySi": "b1-04 හි ඉගෙන ගත්තා will — අනාගතය. ඒත් අනාගතය කවුරුවත් දන්නේ නෑ.\n\n'Will you come to the wedding?'\n\nමේකට උත්තර තුනක් තියෙනවා:\n\n'Yes, I will.' — ඒනවා.\n'No, I won't.' — එන්නේ නෑ.\n'I might.' — වෙන්නත් පුළුවන්.\n\nතුන්වෙනි එක තමයි ඇත්ත ජීවිතේ බහුලම. ඒත් ඒක කියන්න බැරි නම්, ඉතුරු වෙන්නේ 'yes' නැත්නම් 'no' — දෙකම නොදන්නා දෙයක් ගැන පොරොන්දුවක්.\n\n'I might come.' — එන්නත් පුළුවන්.\n'It may rain.' — වහින්නත් පුළුවන්.\n'She will probably be late.' — ඇය පරක්කු වෙයි වගේ.\n\nCEFR B1 මට්ටමේ මේවා 'Modals: Possibility' කියලා වෙනම කොටසක් — මොකද පොරොන්දු දෙන එකයි, හැකියාව කියන එකයි අතරේ තියෙන පරතරය ලොකුයි.",
+      "body": "Most real answers are neither yes nor no. Might, may and probably are how English says the space in between."
+    },
+    {
+      "type": "grammar",
+      "title": "might and may",
+      "titleSi": "might සහ may",
+      "explainSi": "දෙකම එකම දේ කියනවා: වෙන්නත් පුළුවන්. හැදෙන විදිහත් එකයි.\n\nmight / may + ක්‍රියාවේ මූලික ආකෘතිය.\n\nහැම subject එකකටම එකයි. -s නෑ, to නෑ.\n\n'I might go.' ✓ ('I might to go' ✗, 'He mights go' ✗)\n'She may call.' ✓\n\nනැහැ: might not / may not. (mightn't කථාවේ දුර්ලභයි)\n'I might not come.' — නොඑන්නත් පුළුවන්.\n\nවෙනසක් තියෙනවාද? ඉතාම පොඩි එකක්: may ටිකක් විධිමත්. ලියන එකට, නිවේදනවලට. might කථාවේ බහුලයි.\n\n'The flight may be delayed.' (නිවේදනයක්)\n'I might be a bit late.' (යාළුවෙකුට)\n\nප්‍රශ්නවලට might/may යෙදෙන එක අඩුයි — 'Might it rain?' කියනවා වෙනුවට 'Do you think it will rain?' කියනවා.",
+      "explain": "Might and may both mean possibly, take the base verb, and never change for the subject. May is slightly more formal.",
+      "formula": "subject + might/may + මූලික ක්‍රියාව",
+      "table": {
+        "headers": [
+          "වර්ගය",
+          "English",
+          "සිංහල"
+        ],
+        "rows": [
+          [
+            "හරි",
+            "I might come.",
+            "එන්නත් පුළුවන්."
+          ],
+          [
+            "නැහැ",
+            "I might not come.",
+            "නොඑන්නත් පුළුවන්."
+          ],
+          [
+            "විධිමත්",
+            "The train may be late.",
+            "කෝච්චිය පරක්කු වෙන්නත් පුළුවන්."
+          ],
+          [
+            "කෙටි උත්තර",
+            "— Will you go? — I might.",
+            "— යනවාද? — වෙන්නත් පුළුවන්."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "Take an umbrella. It might rain later.",
+          "si": "කුඩේ අරන් යන්න. පස්සේ වහින්නත් පුළුවන්."
+        },
+        {
+          "en": "I may not be able to come on Sunday.",
+          "si": "ඉරිදා එන්න බැරි වෙන්නත් පුළුවන්."
+        },
+        {
+          "en": "She might know his number.",
+          "si": "එයාගේ නම්බර් එක ඇය දන්නවා වෙන්නත් පුළුවන්."
+        }
+      ],
+      "watchOutSi": "'might' කියන එකට 'to' යෙදෙන්නේ නෑ. 'I might to go' ✗. හැම modal එකකටම එහෙමයි — can, will, should, must, might."
+    },
+    {
+      "type": "grammar",
+      "title": "will probably, probably won't",
+      "titleSi": "will probably, probably won't",
+      "explainSi": "might කියන්නේ 50-50 වගේ. ඊට වඩා ටිකක් නිශ්චිත නම් probably යොදනවා.\n\n'She will probably come.' — ඇය එයි වගේ. (80%ක් විතර)\n'She probably won't come.' — ඇය එන එකක් නෑ වගේ.\n\nදැන් වැදගත්ම දේ — probably තියෙන තැන.\n\nහරි වාක්‍යයක: will එකට පස්සේ.\n'She will probably come.' ✓\n'She probably will come.' — ඇහෙන්නේ අමුතුයි.\n\nනැහැ කියන වාක්‍යයක: won't එකට කලින්.\n'She probably won't come.' ✓\n'She won't probably come.' ✗\n\nමේක පුදුම වගේ පේනවා, ඒත් රටාවක් තියෙනවා: probably යන්නේ හරි ක්‍රියාවට පස්සේ, නැහැ ක්‍රියාවට කලින්.\n\nඑහෙමයි 'definitely' එකත්: 'He will definitely win.' / 'He definitely won't win.'",
+      "explain": "Probably goes after will but before won't. The same applies to definitely.",
+      "formula": "will + probably + ක්‍රියාව  ·  probably + won't + ක්‍රියාව",
+      "table": {
+        "headers": [
+          "හරි",
+          "වැරදි"
+        ],
+        "rows": [
+          [
+            "She will probably come.",
+            "She probably will come."
+          ],
+          [
+            "She probably won't come.",
+            "She won't probably come."
+          ],
+          [
+            "He will definitely win.",
+            "He definitely will win."
+          ],
+          [
+            "He definitely won't win.",
+            "He won't definitely win."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "The shop will probably be closed by now.",
+          "si": "දැන් වෙනකොට කඩේ වහලා ඇති."
+        },
+        {
+          "en": "I probably won't finish tonight.",
+          "si": "අද රෑ මට ඉවර කරන්න බැරි වෙයි."
+        },
+        {
+          "en": "It will probably rain before evening.",
+          "si": "හවස වෙන්න කලින් වහියි වගේ."
+        }
+      ],
+      "watchOutSi": "සිංහලෙන් 'ඇති', 'වෙයි වගේ' කියලා කියන අදහසට ඉංග්‍රීසියෙන් 'will probably' යෙදෙනවා. 'It will rain' කිව්වොත් ඒක නිශ්චිත ප්‍රකාශයක්."
+    },
+    {
+      "type": "grammar",
+      "title": "maybe, or might?",
+      "titleSi": "maybe ද, might ද?",
+      "explainSi": "දෙකේම තේරුම එකයි වගේ, ඒත් වාක්‍යයේ වැඩ දෙකක්.\n\nmaybe — ක්‍රියා විශේෂණයක්. සාමාන්‍යයෙන් වාක්‍යය මුලට. ක්‍රියාව වෙනස් වෙන්නේ නෑ.\n'Maybe she is at home.'\n'Maybe I will go.'\n\nmight — modal එකක්. subject එකට පස්සේ, ක්‍රියාවට කලින්.\n'She might be at home.'\n'I might go.'\n\nදෙකම එකපාර දාන්න එපා — 'Maybe I might go' කියන එකේ එකම දේ දෙපාරක්.\n\nතව එකක්: maybe (එක වචනයක්) සහ may be (වචන දෙකක්) වෙනස්.\n\n'Maybe he is tired.' — වෙන්නත් පුළුවන්, එයා මහන්සියි.\n'He may be tired.' — එයා මහන්සි වෙන්නත් පුළුවන්.\n\nදෙකේම තේරුම එකයි, ඒත් ලියනකොට තැන බලලා ලියන්න ඕන.",
+      "explain": "Maybe is an adverb, usually first in the sentence. Might is a modal, sitting before the verb. Do not use both.",
+      "formula": "Maybe + සම්පූර්ණ වාක්‍යය  ·  subject + might + ක්‍රියාව",
+      "table": {
+        "headers": [
+          "maybe",
+          "might",
+          "සිංහල"
+        ],
+        "rows": [
+          [
+            "Maybe she is at home.",
+            "She might be at home.",
+            "ඇය ගෙදර ඇති"
+          ],
+          [
+            "Maybe it will rain.",
+            "It might rain.",
+            "වහින්නත් පුළුවන්"
+          ],
+          [
+            "Maybe they know.",
+            "They might know.",
+            "ඒගොල්ලෝ දන්නවා ඇති"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "Maybe the bus is late. It might be the rain.",
+          "si": "බස් එක පරක්කු ඇති. වැස්ස නිසා වෙන්නත් පුළුවන්."
+        },
+        {
+          "en": "He may be in the garden — I'm not sure.",
+          "si": "එයා ගාඩන් එකේ වෙන්නත් පුළුවන් — නිශ්චිත නෑ."
+        }
+      ],
+      "watchOutSi": "'Maybe I might come' කියන එක වැරදි නැති වුණත් අනවශ්‍යයි. එකක් තෝරගන්න."
+    },
+    {
+      "type": "vocab",
+      "title": "How sure are you?",
+      "titleSi": "කොච්චර නිශ්චිතද?",
+      "introSi": "නිශ්චිතභාවයේ මට්ටම් — වැඩිම ඉඳන් අඩුම දක්වා.",
+      "items": [
+        {
+          "en": "definitely",
+          "si": "නිසැකවම",
+          "say": "ඩෙෆනට්ලි",
+          "exampleEn": "He will definitely come.",
+          "exampleSi": "එයා නිසැකවම එනවා."
+        },
+        {
+          "en": "certainly",
+          "si": "සැබැවින්ම",
+          "say": "සර්ට්න්ලි",
+          "exampleEn": "That is certainly true.",
+          "exampleSi": "ඒක සැබැවින්ම ඇත්ත."
+        },
+        {
+          "en": "probably",
+          "si": "බොහෝවිට",
+          "say": "ප්‍රොබබ්ලි",
+          "exampleEn": "She will probably be late.",
+          "exampleSi": "ඇය පරක්කු වෙයි වගේ."
+        },
+        {
+          "en": "might",
+          "si": "වෙන්නත් පුළුවන්",
+          "say": "මයිට්",
+          "exampleEn": "I might go.",
+          "exampleSi": "යන්නත් පුළුවන්."
+        },
+        {
+          "en": "may",
+          "si": "වෙන්නත් පුළුවන් (විධිමත්)",
+          "say": "මේ",
+          "exampleEn": "The train may be late.",
+          "exampleSi": "කෝච්චිය පරක්කු වෙන්නත් පුළුවන්."
+        },
+        {
+          "en": "maybe",
+          "si": "සමහරවිට",
+          "say": "මේබි",
+          "exampleEn": "Maybe he forgot.",
+          "exampleSi": "සමහරවිට එයාට අමතක ඇති."
+        },
+        {
+          "en": "perhaps",
+          "si": "සමහරවිට (විධිමත්)",
+          "say": "පර්හැප්ස්",
+          "exampleEn": "Perhaps we should wait.",
+          "exampleSi": "සමහරවිට අපි ඉන්න ඕන."
+        },
+        {
+          "en": "possibly",
+          "si": "විය හැකියි",
+          "say": "පොසිබ්ලි",
+          "exampleEn": "It could possibly work.",
+          "exampleSi": "ඒක වැඩ කරන්නත් පුළුවන්."
+        },
+        {
+          "en": "unlikely",
+          "si": "ඉඩක් අඩුයි",
+          "say": "අන්ලයික්ලි",
+          "exampleEn": "That is unlikely.",
+          "exampleSi": "ඒකට ඉඩක් අඩුයි."
+        },
+        {
+          "en": "no chance",
+          "si": "කිසිම ඉඩක් නෑ",
+          "say": "නෝ චාන්ස්",
+          "exampleEn": "There's no chance of that.",
+          "exampleSi": "ඒකට කිසිම ඉඩක් නෑ."
+        },
+        {
+          "en": "I'm not sure",
+          "si": "නිශ්චිත නෑ",
+          "say": "අයිම් නොට් ෂුවර්",
+          "exampleEn": "I'm not sure yet.",
+          "exampleSi": "තාම නිශ්චිත නෑ."
+        },
+        {
+          "en": "it depends",
+          "si": "ඒක තියෙන්නේ...",
+          "say": "ඉට් ඩිපෙන්ඩ්ස්",
+          "exampleEn": "It depends on the weather.",
+          "exampleSi": "ඒක තියෙන්නේ කාලගුණය අනුව."
+        },
+        {
+          "en": "chance",
+          "si": "ඉඩ",
+          "say": "චාන්ස්",
+          "exampleEn": "There's a good chance.",
+          "exampleSi": "හොඳ ඉඩක් තියෙනවා."
+        },
+        {
+          "en": "delay",
+          "si": "ප්‍රමාදය",
+          "say": "ඩිලේ",
+          "exampleEn": "There may be a delay.",
+          "exampleSi": "ප්‍රමාදයක් වෙන්නත් පුළුවන්."
+        },
+        {
+          "en": "forecast",
+          "si": "අනාවැකිය",
+          "say": "ෆෝකාස්ට්",
+          "exampleEn": "The forecast says rain.",
+          "exampleSi": "අනාවැකිය කියන්නේ වහිනවා කියලා."
+        },
+        {
+          "en": "let you know",
+          "si": "දැනුම් දෙන්නම්",
+          "say": "ලෙට් යූ නෝ",
+          "exampleEn": "I'll let you know tomorrow.",
+          "exampleSi": "හෙට දැනුම් දෙන්නම්."
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "I might",
+      "titleSi": "වෙන්නත් පුළුවන්",
+      "settingSi": "සති අන්තයේ සැලසුම් ගැන. නිශ්චිත නැති උත්තර ආචාරශීලීව දෙන විදිහ බලන්න.",
+      "lines": [
+        {
+          "speaker": "Ruwan",
+          "en": "Are you coming to the match on Saturday?",
+          "si": "සෙනසුරාදා තරගෙට එනවාද?"
+        },
+        {
+          "speaker": "Nadeesha",
+          "en": "I might. It depends on my mother's clinic.",
+          "si": "වෙන්නත් පුළුවන්. ඒක තියෙන්නේ අම්මාගේ සායනය අනුව."
+        },
+        {
+          "speaker": "Ruwan",
+          "en": "Will it finish early?",
+          "si": "ඒක කලින් ඉවර වෙයිද?"
+        },
+        {
+          "speaker": "Nadeesha",
+          "en": "It probably won't. They usually run late.",
+          "si": "ඉවර වෙන එකක් නෑ. සාමාන්‍යයෙන් ඒගොල්ලෝ පරක්කු කරනවා."
+        },
+        {
+          "speaker": "Ruwan",
+          "en": "Then come after. It may go on until six.",
+          "si": "එහෙනම් පස්සේ එන්න. ඒක හය වෙනකම් යන්නත් පුළුවන්."
+        },
+        {
+          "speaker": "Nadeesha",
+          "en": "Perhaps. I'll let you know on Friday.",
+          "si": "සමහරවිට. සිකුරාදා දැනුම් දෙන්නම්."
+        },
+        {
+          "speaker": "Ruwan",
+          "en": "And take an umbrella. The forecast says it might rain.",
+          "si": "කුඩෙත් අරන් එන්න. අනාවැකිය කියනවා වහින්නත් පුළුවන් කියලා."
+        }
+      ]
+    },
+    {
+      "type": "story",
+      "title": "The interview she nearly missed",
+      "titleSi": "මඟ ඇරෙන්න තිබුණු සම්මුඛ පරීක්ෂණය",
+      "introSi": "නිශ්චිත නැති දේවල් ගැන කෙටි කතාවක්.",
+      "paragraphs": [
+        {
+          "en": "The letter said the interview might be moved, so Dilki checked the website every morning for a week. Nothing changed.",
+          "si": "සම්මුඛ පරීක්ෂණය මාරු වෙන්නත් පුළුවන් කියලා ලියුමේ තිබුණා, ඒ නිසා දිල්කි සතියක් හැම උදෙම වෙබ් අඩවිය බැලුවා. මොකුත් වෙනස් වුණේ නෑ."
+        },
+        {
+          "en": "On the morning itself, the bus did not come. \"It will probably be the next one,\" said a man at the halt. It was not.",
+          "si": "ඒ දවසේ උදේ බස් එක ආවේ නෑ. \"ඊළඟ එකෙන් ඇති,\" නැවතුම්පොළේ හිටපු මනුස්සයෙක් කිව්වා. එහෙම වුණේ නෑ."
+        },
+        {
+          "en": "She arrived forty minutes late, certain that she had lost it. The woman at the desk looked at her list. \"You may be lucky,\" she said. \"The panel is running late too.\"",
+          "si": "ඇය විනාඩි හතළිහක් පරක්කු වෙලා ගියා, ඒක නැති වුණා කියලා නිශ්චිතව. මේසේ ළඟ හිටපු කාන්තාව ලැයිස්තුව බැලුවා. \"ඔයාට වාසනාව තියෙන්නත් පුළුවන්,\" ඇය කිව්වා. \"මණ්ඩලයත් පරක්කු වෙලා.\""
+        },
+        {
+          "en": "She got the job. Nothing that morning was certain, and everything worked out — which is not a lesson, only what happened.",
+          "si": "ඇයට රැකියාව ලැබුණා. ඒ උදේ කිසිම දෙයක් නිශ්චිත වුණේ නෑ, ඒත් හැම දෙයක්ම හරි ගියා — ඒක පාඩමක් නෙවෙයි, වුණු දේ විතරයි."
+        }
+      ],
+      "glossary": [
+        {
+          "en": "interview",
+          "si": "සම්මුඛ පරීක්ෂණය"
+        },
+        {
+          "en": "panel",
+          "si": "මණ්ඩලය"
+        },
+        {
+          "en": "lucky",
+          "si": "වාසනාවන්ත"
+        },
+        {
+          "en": "work out",
+          "si": "හරි යනවා"
+        }
+      ],
+      "questionsSi": [
+        "ලියුමේ තිබුණේ මොකක්ද?",
+        "නැවතුම්පොළේ මනුස්සයා කිව්වේ මොකක්ද? ඒක හරි ගියාද?",
+        "කතාවේ might, may, probably තියෙන වාක්‍ය හොයාගන්න"
+      ]
+    },
+    {
+      "type": "tip",
+      "title": "A scale to remember",
+      "titleSi": "මතක තියාගන්න පරිමාණයක්",
+      "bodySi": "වැඩිම නිශ්චිතභාවයේ ඉඳන් අඩුම දක්වා:\n\nwill definitely — නිසැකවම වෙනවා\nwill probably — වෙයි වගේ\nmight / may — වෙන්නත් පුළුවන්\nprobably won't — වෙන එකක් නෑ වගේ\ndefinitely won't — කවදාවත් නෑ\n\nමැද තුන තමයි දවසේ බහුලම. ලංකාවේ ඉංග්‍රීසි කථා කරන අය නිතරම කෙළවර දෙකට යනවා — 'yes' නැත්නම් 'no'. මැද තුනට පුරුදු වුණාම කථාව ගොඩක් ස්වාභාවික වෙනවා.",
+      "body": "will definitely · will probably · might · probably won't · definitely won't. The middle three carry most real conversation."
+    },
+    {
+      "type": "practice",
+      "title": "Where does the word go?",
+      "titleSi": "වචනේ තියෙන්නේ කොහෙද?",
+      "instructionSi": "වරහන් තුළ ඇති වචනය හරි තැනට දාලා වාක්‍යය ආපහු ලියන්න.",
+      "items": [
+        {
+          "prompt": "She will come. (probably)",
+          "answer": "She will probably come.",
+          "hintSi": "will එකට පස්සේ.",
+          "full": "She will probably come."
+        },
+        {
+          "prompt": "He won't agree. (probably)",
+          "answer": "He probably won't agree.",
+          "hintSi": "won't එකට කලින්.",
+          "full": "He probably won't agree."
+        },
+        {
+          "prompt": "It rain later. (might)",
+          "answer": "It might rain later.",
+          "hintSi": "subject එකට පස්සේ, ක්‍රියාවට කලින්.",
+          "full": "It might rain later."
+        },
+        {
+          "prompt": "They will win. (definitely)",
+          "answer": "They will definitely win.",
+          "hintSi": "will එකට පස්සේ.",
+          "full": "They will definitely win."
+        },
+        {
+          "prompt": "I be late. (may)",
+          "answer": "I may be late.",
+          "hintSi": "may + මූලික ක්‍රියාව.",
+          "full": "I may be late."
+        },
+        {
+          "prompt": "We won't finish tonight. (definitely)",
+          "answer": "We definitely won't finish tonight.",
+          "hintSi": "won't එකට කලින්.",
+          "full": "We definitely won't finish tonight."
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "b1-15-q1",
+      "q": "'might' එකට පස්සේ එන්නේ?",
+      "options": [
+        "to + ක්‍රියාව",
+        "ක්‍රියාවේ මූලික ආකෘතිය",
+        "-ing ආකෘතිය",
+        "past participle"
+      ],
+      "answer": 1,
+      "explainSi": "might + go. 'might to go' වැරදියි."
+    },
+    {
+      "id": "b1-15-q2",
+      "q": "'වහින්නත් පුළුවන්' — කොහොමද?",
+      "options": [
+        "It might rain.",
+        "It might to rain.",
+        "It mights rain.",
+        "It might raining."
+      ],
+      "answer": 0,
+      "explainSi": "might + මූලික ක්‍රියාව.",
+      "speak": "It might rain."
+    },
+    {
+      "id": "b1-15-q3",
+      "q": "'probably' යන්නේ කොහෙද — හරි වාක්‍යයක?",
+      "options": [
+        "will එකට කලින්",
+        "will එකට පස්සේ",
+        "වාක්‍යය අගට",
+        "subject එකට කලින්"
+      ],
+      "answer": 1,
+      "explainSi": "'She will probably come.'"
+    },
+    {
+      "id": "b1-15-q4",
+      "q": "'probably' යන්නේ කොහෙද — නැහැ කියන වාක්‍යයක?",
+      "options": [
+        "won't එකට කලින්",
+        "won't එකට පස්සේ",
+        "වාක්‍යය අගට",
+        "කොහෙද වුණත් හරි"
+      ],
+      "answer": 0,
+      "explainSi": "'She probably won't come.'"
+    },
+    {
+      "id": "b1-15-q5",
+      "q": "කුමන එක වැරදිද?",
+      "options": [
+        "He will probably win.",
+        "He probably won't win.",
+        "He won't probably win.",
+        "He will definitely win."
+      ],
+      "answer": 2,
+      "explainSi": "නැහැ කියන එකට probably යන්නේ won't එකට කලින්."
+    },
+    {
+      "id": "b1-15-q6",
+      "q": "'maybe' සාමාන්‍යයෙන් යන්නේ කොහෙද?",
+      "options": [
+        "වාක්‍යය මුලට",
+        "ක්‍රියාවට පස්සේ",
+        "subject එකට පස්සේ",
+        "will එකට පස්සේ"
+      ],
+      "answer": 0,
+      "explainSi": "'Maybe she is at home.' — maybe ක්‍රියා විශේෂණයක්."
+    },
+    {
+      "id": "b1-15-q7",
+      "q": "'Maybe I might go' — මේකේ ප්‍රශ්නය මොකක්ද?",
+      "options": [
+        "ව්‍යාකරණ වැරදියි",
+        "එකම දේ දෙපාරක් කියනවා",
+        "'go' වැරදියි",
+        "ප්‍රශ්නයක් නෑ"
+      ],
+      "answer": 1,
+      "explainSi": "maybe සහ might එකම වැඩේ කරනවා. එකක් තෝරන්න."
+    },
+    {
+      "id": "b1-15-q8",
+      "q": "'may' සහ 'might' අතර වෙනස?",
+      "options": [
+        "may අතීතය",
+        "ඉතාම පොඩි වෙනසක් — may ටිකක් විධිමත්",
+        "might වැරදියි",
+        "may ප්‍රශ්නවලට විතරයි"
+      ],
+      "answer": 1,
+      "explainSi": "අර්ථය එකයි. may නිවේදනවලට, might කථාවට."
+    },
+    {
+      "id": "b1-15-q9",
+      "q": "නිශ්චිතභාවය වැඩිම එක කුමක්ද?",
+      "options": [
+        "might come",
+        "will probably come",
+        "will definitely come",
+        "probably won't come"
+      ],
+      "answer": 2,
+      "explainSi": "definitely — නිසැකවම."
+    },
+    {
+      "id": "b1-15-q10",
+      "q": "'— Will you go? — ___' — නිශ්චිත නැති කෙටි උත්තරය?",
+      "options": [
+        "I might.",
+        "I will might.",
+        "Might.",
+        "I might to."
+      ],
+      "answer": 0,
+      "explainSi": "'I might.' කියන එක සම්පූර්ණ උත්තරයක්.",
+      "speak": "I might."
+    },
+    {
+      "id": "b1-15-q11",
+      "q": "හිස් තැනට: 'I ___ be able to come on Sunday.'",
+      "options": [
+        "might not",
+        "not might",
+        "don't might",
+        "might no"
+      ],
+      "answer": 0,
+      "explainSi": "might not + මූලික ක්‍රියාව."
+    },
+    {
+      "id": "b1-15-q12",
+      "q": "'The shop will probably be closed by now' — සිංහලෙන්?",
+      "options": [
+        "කඩේ නිසැකවම වහලා",
+        "දැන් වෙනකොට කඩේ වහලා ඇති",
+        "කඩේ වහන්නේ නෑ",
+        "කඩේ ඇරලා"
+      ],
+      "answer": 1,
+      "explainSi": "'ඇති' කියන අදහසට will probably."
+    },
+    {
+      "id": "b1-15-q13",
+      "q": "'He mights go' — වැරැද්ද මොකක්ද?",
+      "options": [
+        "'go' වැරදියි",
+        "modal එකකට -s එකතු වෙන්නේ නෑ",
+        "'he' වැරදියි",
+        "වැරැද්දක් නෑ"
+      ],
+      "answer": 1,
+      "explainSi": "might, can, will, should — කිසි එකකට -s නෑ."
+    },
+    {
+      "id": "b1-15-q14",
+      "q": "හිස් තැනට: 'It ___ on the weather.'",
+      "options": [
+        "depends",
+        "is depend",
+        "may depends",
+        "depend"
+      ],
+      "answer": 0,
+      "explainSi": "'It depends on…' — නිශ්චිත නැති බව කියන ස්වාභාවික ක්‍රමයක්.",
+      "speak": "It depends on the weather."
+    },
+    {
+      "id": "b1-15-q15",
+      "q": "'unlikely' කියන්නේ?",
+      "options": [
+        "නිසැකවම වෙනවා",
+        "ඉඩක් අඩුයි",
+        "වෙන්නත් පුළුවන්",
+        "දැනටමත් වුණා"
+      ],
+      "answer": 1,
+      "explainSi": "ඉඩ අඩුයි — ඒත් කිසිසේත් නෑ කියලා නෙවෙයි."
+    },
+    {
+      "id": "b1-15-q16",
+      "q": "'Maybe he is tired' සහ 'He may be tired' —",
+      "options": [
+        "තේරුම් දෙකක්",
+        "තේරුම එකයි, ලියන විදිහ දෙකක්",
+        "දෙවෙනි එක වැරදියි",
+        "පළවෙනි එක අතීතය"
+      ],
+      "answer": 1,
+      "explainSi": "maybe (එක වචනයක්) සහ may be (වචන දෙකක්) — තේරුම එකයි."
+    },
+    {
+      "id": "b1-15-q17",
+      "q": "හිස් තැනට: 'The flight ___ be delayed.' (නිවේදනයක)",
+      "options": [
+        "might",
+        "may",
+        "maybe",
+        "probably"
+      ],
+      "answer": 1,
+      "explainSi": "විධිමත් නිවේදනවලට 'may' ගැලපෙනවා.",
+      "speak": "The flight may be delayed."
+    },
+    {
+      "id": "b1-15-q18",
+      "q": "'I'll let you know' කියන්නේ කවදාද?",
+      "options": [
+        "තීරණය දැන් දෙනවා",
+        "තාම නිශ්චිත නෑ, පස්සේ කියනවා",
+        "නෑ කියනවා",
+        "ඔව් කියනවා"
+      ],
+      "answer": 1,
+      "explainSi": "නිශ්චිත නැති වෙලාවක ආචාරශීලී ක්‍රමයක්."
+    }
+  ],
+  "vocab": [
+    {
+      "en": "definitely",
+      "si": "නිසැකවම",
+      "say": "ඩෙෆනට්ලි",
+      "exampleEn": "He will definitely come.",
+      "exampleSi": "එයා නිසැකවම එනවා."
+    },
+    {
+      "en": "certainly",
+      "si": "සැබැවින්ම",
+      "say": "සර්ට්න්ලි",
+      "exampleEn": "That is certainly true.",
+      "exampleSi": "ඒක සැබැවින්ම ඇත්ත."
+    },
+    {
+      "en": "probably",
+      "si": "බොහෝවිට",
+      "say": "ප්‍රොබබ්ලි",
+      "exampleEn": "She will probably be late.",
+      "exampleSi": "ඇය පරක්කු වෙයි වගේ."
+    },
+    {
+      "en": "might",
+      "si": "වෙන්නත් පුළුවන්",
+      "say": "මයිට්",
+      "exampleEn": "I might go.",
+      "exampleSi": "යන්නත් පුළුවන්."
+    },
+    {
+      "en": "may",
+      "si": "වෙන්නත් පුළුවන් (විධිමත්)",
+      "say": "මේ",
+      "exampleEn": "The train may be late.",
+      "exampleSi": "කෝච්චිය පරක්කු වෙන්නත් පුළුවන්."
+    },
+    {
+      "en": "maybe",
+      "si": "සමහරවිට",
+      "say": "මේබි",
+      "exampleEn": "Maybe he forgot.",
+      "exampleSi": "සමහරවිට එයාට අමතක ඇති."
+    },
+    {
+      "en": "perhaps",
+      "si": "සමහරවිට (විධිමත්)",
+      "say": "පර්හැප්ස්",
+      "exampleEn": "Perhaps we should wait.",
+      "exampleSi": "සමහරවිට අපි ඉන්න ඕන."
+    },
+    {
+      "en": "possibly",
+      "si": "විය හැකියි",
+      "say": "පොසිබ්ලි",
+      "exampleEn": "It could possibly work.",
+      "exampleSi": "ඒක වැඩ කරන්නත් පුළුවන්."
+    },
+    {
+      "en": "unlikely",
+      "si": "ඉඩක් අඩුයි",
+      "say": "අන්ලයික්ලි",
+      "exampleEn": "That is unlikely.",
+      "exampleSi": "ඒකට ඉඩක් අඩුයි."
+    },
+    {
+      "en": "no chance",
+      "si": "කිසිම ඉඩක් නෑ",
+      "say": "නෝ චාන්ස්",
+      "exampleEn": "There's no chance of that.",
+      "exampleSi": "ඒකට කිසිම ඉඩක් නෑ."
+    },
+    {
+      "en": "I'm not sure",
+      "si": "නිශ්චිත නෑ",
+      "say": "අයිම් නොට් ෂුවර්",
+      "exampleEn": "I'm not sure yet.",
+      "exampleSi": "තාම නිශ්චිත නෑ."
+    },
+    {
+      "en": "it depends",
+      "si": "ඒක තියෙන්නේ...",
+      "say": "ඉට් ඩිපෙන්ඩ්ස්",
+      "exampleEn": "It depends on the weather.",
+      "exampleSi": "ඒක තියෙන්නේ කාලගුණය අනුව."
+    },
+    {
+      "en": "chance",
+      "si": "ඉඩ",
+      "say": "චාන්ස්",
+      "exampleEn": "There's a good chance.",
+      "exampleSi": "හොඳ ඉඩක් තියෙනවා."
+    },
+    {
+      "en": "delay",
+      "si": "ප්‍රමාදය",
+      "say": "ඩිලේ",
+      "exampleEn": "There may be a delay.",
+      "exampleSi": "ප්‍රමාදයක් වෙන්නත් පුළුවන්."
+    },
+    {
+      "en": "forecast",
+      "si": "අනාවැකිය",
+      "say": "ෆෝකාස්ට්",
+      "exampleEn": "The forecast says rain.",
+      "exampleSi": "අනාවැකිය කියන්නේ වහිනවා කියලා."
+    },
+    {
+      "en": "let you know",
+      "si": "දැනුම් දෙන්නම්",
+      "say": "ලෙට් යූ නෝ",
+      "exampleEn": "I'll let you know tomorrow.",
+      "exampleSi": "හෙට දැනුම් දෙන්නම්."
+    }
+  ]
+}

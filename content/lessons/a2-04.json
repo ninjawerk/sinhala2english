@@ -1,0 +1,577 @@
+{
+  "hero": {
+    "src": "images/a2-04-hero.webp",
+    "alt": "Ruwan standing in front of a large wall calendar with a finger on one date, planning the week, a tidy office corner with a plant."
+  },
+  "goalsSi": [
+    "වේලාව ඉංග්‍රීසියෙන් කීම",
+    "සතියේ දින සහ මාස",
+    "in / on / at නිවැරදිව යෙදීම",
+    "දිශාව ඇසීම සහ කීම"
+  ],
+  "goals": [
+    "Tell the time",
+    "Name days and months",
+    "Use in, on and at",
+    "Ask for directions"
+  ],
+  "sections": [
+    {
+      "type": "grammar",
+      "title": "Telling the time",
+      "titleSi": "වේලාව කීම",
+      "explainSi": "වේලාව කියන්න ක්‍රම දෙකක් තියෙනවා.\n\n1. සරල ක්‍රමය (digital): අංක දෙකම කියනවා — 7.15 = seven fifteen.\n2. සම්ප්‍රදායික ක්‍රමය: විනාඩි 30ට කලින් 'past', පස්සේ 'to'.\n   • 7.15 → quarter past seven\n   • 7.30 → half past seven\n   • 7.45 → quarter to eight (අටට තව විනාඩි 15යි)\n\n'quarter to eight' කියද්දී පැය ගණන එකකින් වැඩි වෙනවා — මේක සිංහල කථා කරන අයට මුලින් ව්‍යාකූලයි.",
+      "formula": "past = ගිහින්   ·   to = තව … තියෙනවා   ·   quarter = 15, half = 30",
+      "table": {
+        "headers": [
+          "Time",
+          "Traditional",
+          "Simple",
+          "සිංහල"
+        ],
+        "rows": [
+          [
+            "8.00",
+            "eight o'clock",
+            "eight",
+            "හරියටම අටයි"
+          ],
+          [
+            "8.05",
+            "five past eight",
+            "eight oh five",
+            "අටයි විනාඩි පහයි"
+          ],
+          [
+            "8.15",
+            "quarter past eight",
+            "eight fifteen",
+            "අටයි කාලයි"
+          ],
+          [
+            "8.30",
+            "half past eight",
+            "eight thirty",
+            "අටහමාරයි"
+          ],
+          [
+            "8.45",
+            "quarter to nine",
+            "eight forty-five",
+            "නමයට කාලක් තියෙනවා"
+          ],
+          [
+            "8.50",
+            "ten to nine",
+            "eight fifty",
+            "නමයට විනාඩි දහයයි"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "What time is it?",
+          "si": "වෙලාව කීයද?"
+        },
+        {
+          "en": "It's half past six.",
+          "si": "හයහමාරයි."
+        },
+        {
+          "en": "The bus leaves at quarter to seven.",
+          "si": "බස් එක හතට කාලක් තියෙද්දී පිටත් වෙනවා."
+        },
+        {
+          "en": "I start work at eight o'clock.",
+          "si": "මම අටට වැඩ පටන් ගන්නවා."
+        }
+      ],
+      "watchOutSi": "'o'clock' යෙදෙන්නේ හරියටම පැයට පමණයි: 'five o'clock' හරි, නමුත් 'five thirty o'clock' වැරදියි."
+    },
+    {
+      "type": "vocab",
+      "title": "Days and months",
+      "titleSi": "දින සහ මාස",
+      "introSi": "ඉංග්‍රීසියෙන් දින සහ මාස නම් හැම විටම විශාල අකුරකින් පටන් ගන්නවා — වාක්‍යයේ මැද තිබුණත්.",
+      "items": [
+        {
+          "en": "Monday",
+          "si": "සඳුදා",
+          "say": "මන්ඩේ",
+          "exampleEn": "School starts on Monday.",
+          "exampleSi": "පාසල සඳුදා පටන් ගන්නවා."
+        },
+        {
+          "en": "Tuesday",
+          "si": "අඟහරුවාදා",
+          "say": "ටියුස්ඩේ"
+        },
+        {
+          "en": "Wednesday",
+          "si": "බදාදා",
+          "say": "වෙන්ස්ඩේ",
+          "exampleEn": "We have English on Wednesday.",
+          "exampleSi": "අපිට බදාදා ඉංග්‍රීසි තියෙනවා."
+        },
+        {
+          "en": "Thursday",
+          "si": "බ්‍රහස්පතින්දා",
+          "say": "තර්ස්ඩේ"
+        },
+        {
+          "en": "Friday",
+          "si": "සිකුරාදා",
+          "say": "ෆ්‍රයිඩේ",
+          "exampleEn": "Friday is my favourite day.",
+          "exampleSi": "සිකුරාදා මගේ ප්‍රියතම දවසයි."
+        },
+        {
+          "en": "Saturday",
+          "si": "සෙනසුරාදා",
+          "say": "සැටර්ඩේ"
+        },
+        {
+          "en": "Sunday",
+          "si": "ඉරිදා",
+          "say": "සන්ඩේ",
+          "exampleEn": "We rest on Sunday.",
+          "exampleSi": "අපි ඉරිදා විවේක ගන්නවා."
+        },
+        {
+          "en": "January",
+          "si": "ජනවාරි",
+          "say": "ජැනුවරි"
+        },
+        {
+          "en": "April",
+          "si": "අප්‍රේල්",
+          "say": "ඒප්‍රල්",
+          "exampleEn": "The New Year is in April.",
+          "exampleSi": "අලුත් අවුරුද්ද අප්‍රේල් වල."
+        },
+        {
+          "en": "December",
+          "si": "දෙසැම්බර්",
+          "say": "ඩිසෙම්බර්"
+        },
+        {
+          "en": "week",
+          "si": "සතිය",
+          "say": "වීක්",
+          "exampleEn": "See you next week.",
+          "exampleSi": "ලබන සතියේ හම්බවෙමු."
+        },
+        {
+          "en": "month",
+          "si": "මාසය",
+          "say": "මන්ත්",
+          "exampleEn": "This month is very busy.",
+          "exampleSi": "මේ මාසේ හරිම කාර්යබහුලයි."
+        },
+        {
+          "en": "year",
+          "si": "අවුරුද්ද",
+          "say": "ඉයර්",
+          "exampleEn": "Last year I lived in Kandy.",
+          "exampleSi": "පහුගිය අවුරුද්දේ මම මහනුවර හිටියා."
+        },
+        {
+          "en": "today",
+          "si": "අද",
+          "say": "ටුඩේ"
+        },
+        {
+          "en": "tomorrow",
+          "si": "හෙට",
+          "say": "ටුමොරෝ"
+        },
+        {
+          "en": "yesterday",
+          "si": "ඊයේ",
+          "say": "යෙස්ටර්ඩේ"
+        }
+      ]
+    },
+    {
+      "type": "grammar",
+      "title": "in, on, at",
+      "titleSi": "in, on, at",
+      "explainSi": "මේ තුන ඉංග්‍රීසි ඉගෙන ගන්නා අය වැඩිපුරම වැරදි කරන තැනයි. නමුත් නීතිය සරලයි: විශාල දෙයින් කුඩා දෙයට යද්දී in → on → at.",
+      "explain": "Think big to small: in a year, on a day, at a time.",
+      "formula": "in = දිගු කාලය / විශාල ස්ථානය · on = දිනය / මතුපිට · at = නිශ්චිත වේලාව / ලක්ෂ්‍යය",
+      "table": {
+        "headers": [
+          "",
+          "TIME",
+          "PLACE"
+        ],
+        "rows": [
+          [
+            "in",
+            "in April, in 2024, in the morning",
+            "in Sri Lanka, in Colombo, in the box"
+          ],
+          [
+            "on",
+            "on Monday, on 5th May, on my birthday",
+            "on the table, on the wall, on the bus"
+          ],
+          [
+            "at",
+            "at six o'clock, at night, at noon",
+            "at home, at school, at the bus stop"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "I was born in December.",
+          "si": "මම උපන්නේ දෙසැම්බර් වල."
+        },
+        {
+          "en": "We meet on Sunday.",
+          "si": "අපි ඉරිදා හම්බවෙනවා."
+        },
+        {
+          "en": "The class starts at nine.",
+          "si": "පන්තිය නමයට පටන් ගන්නවා."
+        },
+        {
+          "en": "She lives in a small town.",
+          "si": "එයා පොඩි නගරයක ජීවත් වෙනවා."
+        },
+        {
+          "en": "Your book is on the table.",
+          "si": "ඔබේ පොත මේසය උඩ."
+        }
+      ],
+      "watchOutSi": "විශේෂ අවස්ථා මතක තියාගන්න: 'in the morning', 'in the afternoon', 'in the evening' — නමුත් 'AT night'. තවද 'at home', 'at school', 'at work' යනු නිත්‍ය යෙදුම්."
+    },
+    {
+      "type": "dialogue",
+      "title": "Asking for directions",
+      "titleSi": "දිශාව ඇසීම",
+      "settingSi": "සංචාරකයෙක් දුම්රිය ස්ථානය හොයනවා.",
+      "lines": [
+        {
+          "speaker": "Tourist",
+          "en": "Excuse me. Is there a railway station near here?",
+          "si": "සමාවෙන්න. මෙතන ළඟ දුම්රිය ස්ථානයක් තියෙනවද?"
+        },
+        {
+          "speaker": "Local",
+          "en": "Yes. Go straight and turn left at the temple.",
+          "si": "ඔව්. කෙළින් ගිහින් පන්සල ළඟින් වමට හැරෙන්න."
+        },
+        {
+          "speaker": "Tourist",
+          "en": "Turn left at the temple. Is it far?",
+          "si": "පන්සල ළඟින් වමට. ඒක දුරද?"
+        },
+        {
+          "speaker": "Local",
+          "en": "No, about ten minutes on foot. The station is on your right.",
+          "si": "නෑ, ඇවිදගෙන විනාඩි දහයක් විතර. දුම්රිය ස්ථානය ඔබේ දකුණු පැත්තේ."
+        },
+        {
+          "speaker": "Tourist",
+          "en": "What time is the next train to Kandy?",
+          "si": "මහනුවරට ඊළඟ දුම්රිය කීයටද?"
+        },
+        {
+          "speaker": "Local",
+          "en": "I think there is one at half past two.",
+          "si": "දෙකහමාරට එකක් තියෙනවා කියලා මම හිතනවා."
+        },
+        {
+          "speaker": "Tourist",
+          "en": "Thank you very much for your help.",
+          "si": "ඔබේ උදව්වට බොහොම ස්තුතියි."
+        },
+        {
+          "speaker": "Local",
+          "en": "You're welcome. Have a good journey!",
+          "si": "සතුටින්. හොඳ ගමනක්!"
+        }
+      ]
+    },
+    {
+      "type": "poem",
+      "title": "Seven Days",
+      "titleSi": "දවස් හතක්",
+      "introSi": "සතියේ දින මතක තියාගන්න පොඩි කවියක්.",
+      "lines": [
+        {
+          "en": "Monday morning, off we go,",
+          "si": "සඳුදා උදේ, අපි යනවා,"
+        },
+        {
+          "en": "Tuesday's lessons, learn and grow.",
+          "si": "අඟහරුවාදා පාඩම්, ඉගෙන වැඩෙනවා."
+        },
+        {
+          "en": "",
+          "si": ""
+        },
+        {
+          "en": "Wednesday, Thursday, work is hard,",
+          "si": "බදාදා, බ්‍රහස්පතින්දා, වැඩ අමාරුයි,"
+        },
+        {
+          "en": "Friday brings the weekend card.",
+          "si": "සිකුරාදා සති අන්තය ගේනවා."
+        },
+        {
+          "en": "",
+          "si": ""
+        },
+        {
+          "en": "Saturday we play and run,",
+          "si": "සෙනසුරාදා අපි සෙල්ලම් කරනවා, දුවනවා,"
+        },
+        {
+          "en": "Sunday rest — the week is done.",
+          "si": "ඉරිදා විවේකය — සතිය ඉවරයි."
+        }
+      ],
+      "noteSi": "දින නම් හැම විටම විශාල අකුරකින් පටන් ගන්නවා: Monday, Tuesday. සිංහලෙන් එහෙම නීතියක් නෑ."
+    },
+    {
+      "type": "practice",
+      "title": "in, on or at?",
+      "titleSi": "in, on නැත්නම් at?",
+      "instructionSi": "නිවැරදි වචනය ලියන්න.",
+      "items": [
+        {
+          "prompt": "The class starts ___ nine o'clock.",
+          "answer": "at",
+          "hintSi": "නිශ්චිත වේලාවක්.",
+          "full": "The class starts at nine o'clock."
+        },
+        {
+          "prompt": "My birthday is ___ May.",
+          "answer": "in",
+          "hintSi": "මාසයක්.",
+          "full": "My birthday is in May."
+        },
+        {
+          "prompt": "We have a test ___ Friday.",
+          "answer": "on",
+          "hintSi": "දිනයක්.",
+          "full": "We have a test on Friday."
+        },
+        {
+          "prompt": "She lives ___ Galle.",
+          "answer": "in",
+          "hintSi": "නගරයක්.",
+          "full": "She lives in Galle."
+        },
+        {
+          "prompt": "The book is ___ the table.",
+          "answer": "on",
+          "hintSi": "මතුපිටක්.",
+          "full": "The book is on the table."
+        },
+        {
+          "prompt": "I am ___ home now.",
+          "answer": "at",
+          "hintSi": "නිත්‍ය යෙදුමක්.",
+          "full": "I am at home now."
+        },
+        {
+          "prompt": "7.30 → half ___ seven",
+          "answer": "past",
+          "hintSi": "විනාඩි 30 ගිහින්.",
+          "full": "It's half past seven."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "en": "Monday",
+      "si": "සඳුදා"
+    },
+    {
+      "en": "Wednesday",
+      "si": "බදාදා"
+    },
+    {
+      "en": "Friday",
+      "si": "සිකුරාදා"
+    },
+    {
+      "en": "Sunday",
+      "si": "ඉරිදා"
+    },
+    {
+      "en": "week",
+      "si": "සතිය"
+    },
+    {
+      "en": "month",
+      "si": "මාසය"
+    },
+    {
+      "en": "year",
+      "si": "අවුරුද්ද"
+    },
+    {
+      "en": "today",
+      "si": "අද"
+    },
+    {
+      "en": "tomorrow",
+      "si": "හෙට"
+    },
+    {
+      "en": "yesterday",
+      "si": "ඊයේ"
+    },
+    {
+      "en": "morning",
+      "si": "උදෑසන"
+    },
+    {
+      "en": "evening",
+      "si": "සැන්දෑව"
+    },
+    {
+      "en": "night",
+      "si": "රාත්‍රිය"
+    },
+    {
+      "en": "station",
+      "si": "දුම්රිය ස්ථානය"
+    },
+    {
+      "en": "left",
+      "si": "වම"
+    },
+    {
+      "en": "right",
+      "si": "දකුණ"
+    },
+    {
+      "en": "straight",
+      "si": "කෙළින්"
+    },
+    {
+      "en": "far",
+      "si": "දුර"
+    },
+    {
+      "en": "near",
+      "si": "ළඟ"
+    },
+    {
+      "en": "journey",
+      "si": "ගමන"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "a2-04-q1",
+      "q": "7.45 සම්ප්‍රදායික ක්‍රමයට කියන්නේ කෙසේද?",
+      "options": [
+        "quarter past seven",
+        "quarter to eight",
+        "quarter to seven",
+        "half past seven"
+      ],
+      "answer": 1,
+      "explainSi": "විනාඩි 30ට පස්සේ 'to' යොදනවා, සහ පැය ගණන එකකින් වැඩි වෙනවා: 7.45 = quarter to eight.",
+      "speak": "quarter to eight"
+    },
+    {
+      "id": "a2-04-q2",
+      "q": "'The class starts ___ 9 o'clock.' — නිවැරදි වචනය?",
+      "options": [
+        "in",
+        "on",
+        "at",
+        "of"
+      ],
+      "answer": 2,
+      "explainSi": "නිශ්චිත වේලාවකට 'at' යෙදෙනවා.",
+      "speak": "The class starts at nine o'clock."
+    },
+    {
+      "id": "a2-04-q3",
+      "q": "'My birthday is ___ July.' — නිවැරදි වචනය?",
+      "options": [
+        "in",
+        "on",
+        "at",
+        "to"
+      ],
+      "answer": 0,
+      "explainSi": "මාස සහ අවුරුදු සමඟ 'in': in July, in 2024.",
+      "speak": "My birthday is in July."
+    },
+    {
+      "id": "a2-04-q4",
+      "q": "'රාත්‍රියේ' යන්නට නිවැරදි ඉංග්‍රීසි යෙදුම?",
+      "options": [
+        "in the night",
+        "on the night",
+        "at night",
+        "at the night"
+      ],
+      "answer": 2,
+      "explainSi": "විශේෂ අවස්ථාවක්: 'in the morning' නමුත් 'AT night'. මෙය මතක තබා ගන්න.",
+      "speak": "at night"
+    },
+    {
+      "id": "a2-04-q5",
+      "q": "ඉංග්‍රීසියෙන් සතියේ දින නම් ලියද්දී?",
+      "options": [
+        "සෑම විටම කුඩා අකුරින්",
+        "සෑම විටම විශාල අකුරකින් පටන් ගනී",
+        "වාක්‍යයේ මුල නම් පමණක් විශාල අකුරින්",
+        "වෙනසක් නැත"
+      ],
+      "answer": 1,
+      "explainSi": "දින සහ මාස නම් හැම විටම විශාල අකුරකින්: Monday, April — වාක්‍යයේ මැද තිබුණත්."
+    },
+    {
+      "id": "a2-04-q6",
+      "q": "'She is ___ school now.' — නිවැරදි වචනය?",
+      "options": [
+        "in",
+        "on",
+        "at",
+        "to"
+      ],
+      "answer": 2,
+      "explainSi": "'at school', 'at home', 'at work' යනු නිත්‍ය යෙදුම්.",
+      "speak": "She is at school now."
+    },
+    {
+      "id": "a2-04-q7",
+      "q": "'Turn left' යන්නෙහි අර්ථය?",
+      "options": [
+        "දකුණට හැරෙන්න",
+        "වමට හැරෙන්න",
+        "කෙළින් යන්න",
+        "නවතින්න"
+      ],
+      "answer": 1,
+      "explainSi": "left = වම, right = දකුණ, straight = කෙළින්.",
+      "speak": "Turn left."
+    },
+    {
+      "id": "a2-04-q8",
+      "q": "'It's half past six.' යනු කීයද?",
+      "options": [
+        "5.30",
+        "6.00",
+        "6.30",
+        "7.30"
+      ],
+      "answer": 2,
+      "explainSi": "'half past six' = හයහමාරයි = 6.30. 'half past' කියද්දී පැය ගණන වෙනස් වෙන්නේ නෑ.",
+      "speak": "It's half past six."
+    }
+  ]
+}
